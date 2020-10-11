@@ -1,0 +1,34 @@
+{
+  "ETFs": [
+    {
+      "ticker": "ARKK",
+      "exchange": "NYSEArca",
+      "issuer": "ARK",
+      "holdings": {
+        "url": "https://ark-funds.com/wp-content/fundsiteliterature/csv/ARK_INNOVATION_ETF_ARKK_HOLDINGS.csv",
+        "fileExt": "csv",
+        "transform": "ark"
+      }
+    },
+    {
+      "ticker": "ARKQ",
+      "exchange": "BATS",
+      "issuer": "ARK",
+      "holdings": {
+        "url": "https://ark-funds.com/wp-content/fundsiteliterature/csv/ARK_AUTONOMOUS_TECHNOLOGY_&_ROBOTICS_ETF_ARKQ_HOLDINGS.csv",
+        "fileExt": "csv",
+        "transform": "ark"
+      }
+    },
+    {
+      "ticker": "SPMO",
+      "exchange": "NYSE",
+      "issuer": "Invesco",
+      "holdings": {
+        "url": "https://www.invesco.com/us/financial-products/etfs/holdings/main/holdings/0?audienceType=Investor&action=download&ticker=SPMO",
+        "fileExt": "csv",
+        "transform": "invesco"
+      }
+    }
+  ]
+}

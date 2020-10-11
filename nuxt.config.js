@@ -1,10 +1,12 @@
 export default {
   // Disable server-side rendering (https://go.nuxtjs.dev/ssr-mode)
   ssr: false,
-  mode: 'universal',
 
   // Target (https://go.nuxtjs.dev/config-target)
   target: 'static',
+  router: {
+    base: '/elf-street/',
+  },
 
   // Global page headers (https://go.nuxtjs.dev/config-head)
   head: {

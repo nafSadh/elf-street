@@ -1,31 +1,22 @@
-# elf-street
+# Elf Street
 
 Analyze ETF holdings, fund info etc.
 
-## Project setup
+## Build Setup
 
-```
-npm install
-```
+```bash
+# install dependencies
+$ npm install
 
-### Compiles and hot-reloads for development
+# serve with hot reload at localhost:3000
+$ npm run dev
 
-```
-npm run serve
-```
+# build for production and launch server
+$ npm run build
+$ npm run start
 
-### Compiles and minifies for production
-
-```
-npm run build
-```
-
-### Lints and fixes files
-
-```
-npm run lint
+# generate static project
+$ npm run generate
 ```
 
-### Customize configuration
-
-See [Configuration Reference](https://cli.vuejs.org/config/).
+For detailed explanation on how things work, check out [Nuxt.js docs](https://nuxtjs.org).

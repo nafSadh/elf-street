@@ -57,7 +57,7 @@ for (const etf of etfMetadata.ETFs) {
   console.log(etf.holdings.url)
   downloadFile(etf.holdings.url, filepath, (data) => {
     const transform = transforms[etf.holdings.transform]
-    const json = transform(data)
+    const json = { holdings: transform(data) }
     fs.writeFile(jsonpath, JSON.stringify(json, null, 2), (e, d) => {
       if (e) {
         console.error(e)

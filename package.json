@@ -11,7 +11,8 @@
     "lint:style": "stylelint **/*.{vue,css} --ignore-path .gitignore",
     "lint": "npm run lint:js && npm run lint:style",
     "deploy": "push-dir --dir=dist --branch=gh-pages --cleanup",
-    "update-etf-data": "node update_etf_data.js"
+    "update-etf-data": "node update_etf_data.js",
+    "uetfd": "node update_etf_data.js"
   },
   "lint-staged": {
     "*.{js,vue}": "eslint",

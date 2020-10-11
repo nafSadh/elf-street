@@ -1,4 +1,12 @@
 {
+  "ticker": "ARKK",
+  "exchange": "NYSEArca",
+  "issuer": "ARK",
+  "holdingDataSource": {
+    "url": "https://ark-funds.com/wp-content/fundsiteliterature/csv/ARK_INNOVATION_ETF_ARKK_HOLDINGS.csv",
+    "fileExt": "csv",
+    "transform": "ark"
+  },
   "holdings": [
     {
       "date": "10/9/2020",

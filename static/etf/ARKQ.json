@@ -1,4 +1,12 @@
 {
+  "ticker": "ARKQ",
+  "exchange": "BATS",
+  "issuer": "ARK",
+  "holdingDataSource": {
+    "url": "https://ark-funds.com/wp-content/fundsiteliterature/csv/ARK_AUTONOMOUS_TECHNOLOGY_&_ROBOTICS_ETF_ARKQ_HOLDINGS.csv",
+    "fileExt": "csv",
+    "transform": "ark"
+  },
   "holdings": [
     {
       "date": "10/9/2020",

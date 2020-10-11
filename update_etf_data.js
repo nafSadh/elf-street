@@ -52,12 +52,14 @@ const transforms = {
 }
 
 for (const etf of etfMetadata.ETFs) {
-  const filepath = './static/etf/' + etf.ticker + '.' + etf.holdings.fileExt
+  const filepath =
+    './static/etf/' + etf.ticker + '.' + etf.holdingDataSource.fileExt
   const jsonpath = './static/etf/' + etf.ticker + '.json'
-  console.log(etf.holdings.url)
-  downloadFile(etf.holdings.url, filepath, (data) => {
-    const transform = transforms[etf.holdings.transform]
-    const json = { holdings: transform(data) }
+  console.log(etf.holdingDataSource.url)
+  downloadFile(etf.holdingDataSource.url, filepath, (data) => {
+    const transform = transforms[etf.holdingDataSource.transform]
+    let json = etf
+    etf.holdings = transform(data)
     fs.writeFile(jsonpath, JSON.stringify(json, null, 2), (e, d) => {
       if (e) {
         console.error(e)

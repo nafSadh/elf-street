@@ -1,4 +1,12 @@
 {
+  "ticker": "SPMO",
+  "exchange": "NYSE",
+  "issuer": "Invesco",
+  "holdingDataSource": {
+    "url": "https://www.invesco.com/us/financial-products/etfs/holdings/main/holdings/0?audienceType=Investor&action=download&ticker=SPMO",
+    "fileExt": "csv",
+    "transform": "invesco"
+  },
   "holdings": [
     {
       "Fund Ticker": "SPMO",

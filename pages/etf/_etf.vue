@@ -1,52 +1,77 @@
 <template>
-  <div class="page-container">
-    <md-app md-waterfall md-mode="overlap">
-      <md-app-toolbar class="md-primary md-large">
-        <div class="md-toolbar-row">
-          <md-button class="md-icon-button" @click="menuVisible = !menuVisible">
-            <md-icon>menu</md-icon>
-          </md-button>
-          <span class="md-title">{{ etfId }}</span>
-        </div>
-      </md-app-toolbar>
+  <!-- App.vue -->
 
-      <md-app-drawer :md-active.sync="menuVisible">
-        <md-toolbar class="md-transparent" md-elevation="0">
-          Navigation
-        </md-toolbar>
+  <v-app>
+    <v-app-bar app elevate-on-scroll ref="toolbar" v-mutate="onMutate">
+      {{ etf.ticker }}
+    </v-app-bar>
 
-        <md-list>
-          <md-list-item>
-            <md-icon>move_to_inbox</md-icon>
-            <span class="md-list-item-text">Inbox</span>
-          </md-list-item>
-        </md-list>
-      </md-app-drawer>
+    <!-- Sizes your content based upon application components -->
+    <v-main>
+      <!-- Provides the application the proper gutter -->
+      <v-container fluid>
+        <nuxt-link to="SPMO">SPMO</nuxt-link>
+        <nuxt-link to="ARKK">ARKK</nuxt-link>
+        <br />
+        <!-- If using vue-router -->
+        {{ etf.holdings.length }}
+        <v-data-table
+          :headers="holdingsHeaders"
+          :items="etf.holdings"
+          :items-per-page="etf.holdings.length"
+          :footer-props="{
+            itemsPerPageOptions: [-1, 5, 10, 15],
+          }"
+        >
+        </v-data-table>
+      </v-container>
+    </v-main>
 
-      <md-app-content>
-        <md-field>
-          <md-select name="etf" id="etf">
-            <md-option
-              v-for="etf of etfs"
-              v-model="toEtf"
-              :value="etf.ticker"
-              :key="etf.ticker"
-              >{{ etf.ticker }}</md-option
-            >
-          </md-select>
-        </md-field>
-        {{ etfs }}
-        <ul>
-          <li v-for="etf of etfs" :key="etf.ticker">
-            {{ etf.ticker }}
-          </li>
-        </ul>
-      </md-app-content>
-    </md-app>
-  </div>
+    <v-footer app>
+      <!-- -->
+    </v-footer>
+  </v-app>
 </template>
 <script>
 export default {
+  mounted() {
+    this.onMutate()
+  },
+  data: () => ({
+    menuVisible: false,
+    toEtf: null,
+    holdingsHeaders: [
+      { text: 'TKR', value: 'ticker', class: 'sticky-header grey lighten-3' },
+      { text: '%', value: 'percent', class: 'sticky-header grey lighten-3' },
+      { text: 'Name', value: 'name', class: 'sticky-header grey lighten-3' },
+    ],
+    // holdingsOptions: {
+    //   itemsPerPage: 13,
+    // },
+  }),
+  computed: {
+    etfId() {
+      return this.$route.params.etf
+    },
+    etf() {
+      const etfJson = require('~/static/etf/' + this.etfId + '.json')
+      return etfJson
+    },
+    etfs() {
+      const etfs = require('~/static/etfs.json')
+      return etfs.ETFs
+    },
+  },
+  methods: {
+    onMutate() {
+      let height = 0
+      const toolbar = this.$refs.toolbar
+      if (toolbar) {
+        height = `${toolbar.$el.offsetHeight}px`
+      }
+      document.documentElement.style.setProperty('--headerHeight', height)
+    },
+  },
   head: {
     link: [
       {
@@ -56,22 +81,15 @@ export default {
       },
     ],
   },
-  data: () => ({
-    menuVisible: false,
-    toEtf: null,
-  }),
-  computed: {
-    etfId() {
-      return this.$route.params.etf
-    },
-    etfData() {
-      const etfJson = require('~/static/etf/' + this.etfId + '.json')
-      return etfJson
-    },
-    etfs() {
-      const etfs = require('~/static/etfs.json')
-      return etfs.ETFs
-    },
-  },
 }
 </script>
+<style scoped>
+.v-data-table /deep/ .sticky-header {
+  position: sticky;
+  top: var(--headerHeight);
+}
+
+.v-data-table /deep/ .v-data-table__wrapper {
+  overflow: unset;
+}
+</style>

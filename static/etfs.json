@@ -2,6 +2,7 @@
   "ETFs": [
     {
       "ticker": "ARKK",
+      "name":"ARK Innovation",
       "exchange": "NYSEArca",
       "issuer": "ARK",
       "holdingDataSource": {
@@ -22,6 +23,7 @@
     },
     {
       "ticker": "SPMO",
+      "name":"S&P Momentum",
       "exchange": "NYSE",
       "issuer": "Invesco",
       "holdingDataSource": {

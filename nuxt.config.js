@@ -37,7 +37,7 @@ export default {
   ],
 
   // Modules (https://go.nuxtjs.dev/config-modules)
-  modules: [['nuxt-vue-material', { theme: 'default-dark' }]],
+  modules: [['@nuxtjs/vuetify']],
 
   // Build Configuration (https://go.nuxtjs.dev/config-build)
   build: {},

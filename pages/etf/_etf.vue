@@ -2,7 +2,7 @@
   <!-- App.vue -->
 
   <v-app>
-    <v-app-bar app elevate-on-scroll ref="toolbar" v-mutate="onMutate">
+    <v-app-bar app elevate-on-scroll>
       {{ etf.ticker }}
     </v-app-bar>
 
@@ -39,9 +39,6 @@
 </template>
 <script>
 export default {
-  mounted() {
-    this.onMutate()
-  },
   data: () => ({
     menuVisible: false,
     toEtf: null,
@@ -75,14 +72,6 @@ export default {
     onResize() {
       this.windowSize = { x: window.innerWidth, y: window.innerHeight }
     },
-    onMutate() {
-      let height = 0
-      const toolbar = this.$refs.toolbar
-      if (toolbar) {
-        height = `${toolbar.$el.offsetHeight}px`
-      }
-      document.documentElement.style.setProperty('--headerHeight', height)
-    },
   },
   head: {
     link: [
@@ -95,16 +84,3 @@ export default {
   },
 }
 </script>
-<style scoped>
-.v-data-table__wrapper {
-  height: calc(100vh - 150px) !important;
-}
-.xv-data-table /deep/ .sticky-header {
-  position: sticky;
-  top: var(--headerHeight);
-}
-
-.xv-data-table /deep/ .xv-data-table__wrapper {
-  overflow: unset;
-}
-</style>

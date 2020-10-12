@@ -18,6 +18,7 @@
         <v-card>
           <v-data-table
             fixed-header
+            hide-default-footer
             :height="windowSize.y - 64 - 24 - 59 - 36 - 20"
             :headers="holdingsHeaders"
             :items="etf.holdings"

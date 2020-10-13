@@ -23,7 +23,7 @@ export default {
   css: [],
 
   // Plugins to run before rendering page (https://go.nuxtjs.dev/config-plugins)
-  plugins: ['~/plugins/install.js'],
+  plugins: [{ src: '~/plugins/install.js', ssr: false }],
 
   // Auto import components (https://go.nuxtjs.dev/config-components)
   components: true,
@@ -37,7 +37,7 @@ export default {
   ],
 
   // Modules (https://go.nuxtjs.dev/config-modules)
-  modules: [['@nuxtjs/vuetify']],
+  modules: [['@nuxtjs/vuetify', { theme: { dark: true } }]],
 
   // Build Configuration (https://go.nuxtjs.dev/config-build)
   build: {},

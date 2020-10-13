@@ -2,32 +2,68 @@
   <!-- App.vue -->
 
   <v-app>
-    <v-app-bar app elevate-on-scroll>
-      {{ etf.ticker }}
+    <v-app-bar
+      dark
+      app
+      ref="toolbar"
+      v-mutate="onMutate"
+      elevate-on-scroll
+      color="blue darken-4"
+      prominent
+      shrink-on-scroll
+      flat
+    >
+      <v-container class="py-0 fill-height">
+        <v-row>
+          <v-toolbar-title>{{ etf.ticker }}</v-toolbar-title>
+          <v-spacer />
+          <v-chip label small color="blue">
+            {{ etf.holdings.length }} holdings
+          </v-chip>
+        </v-row>
+      </v-container>
     </v-app-bar>
-
     <!-- Sizes your content based upon application components -->
     <v-main>
       <!-- Provides the application the proper gutter -->
-      <v-container v-resize="onResize">
-        <nuxt-link to="SPMO">SPMO</nuxt-link>
-        <nuxt-link to="ARKK">ARKK</nuxt-link>
-        <br />
+      <v-container>
+        <v-toolbar outlined tile>
+          <v-toolbar-title>ETF</v-toolbar-title>
+          <v-autocomplete
+            filled
+            dense
+            hide-details
+            :items="ETFs"
+            item-value="ticker"
+            :item-text="(item) => item.ticker + ' - ' + item.name"
+            @change="changeEtf"
+            v-model="toEtf"
+            class="mx-4"
+          />
+        </v-toolbar>
         <!-- If using vue-router -->
-        {{ etf.holdings.length }}
-        <v-card>
-          <v-data-table
-            fixed-header
-            hide-default-footer
-            :height="windowSize.y - 64 - 24 - 59 - 36 - 20"
-            :headers="holdingsHeaders"
-            :items="etf.holdings"
-            :items-per-page="etf.holdings.length"
-            :footer-props="{
-              itemsPerPageOptions: [-1, 5, 10, 15],
-            }"
-          >
-          </v-data-table>
+        <v-card outlined tile>
+          <v-card-title> {{ etf.name }} </v-card-title>
+          <v-card-text>
+            Issuer: {{ etf.issuer }}<br />
+            Exchange: {{ etf.exchange }}<br />
+          </v-card-text>
+        </v-card>
+        <v-card outlined tile>
+          <v-card-title> {{ etf.ticker }} holdings </v-card-title>
+          <v-card-subtitle>{{ etf.name }}</v-card-subtitle>
+          <v-card-text>
+            <v-data-table
+              hide-default-footer
+              :headers="holdingsHeaders"
+              :items="etf.holdings"
+              :items-per-page="etf.holdings.length"
+              :footer-props="{
+                itemsPerPageOptions: [-1, 5, 10, 15],
+              }"
+            >
+            </v-data-table>
+          </v-card-text>
         </v-card>
       </v-container>
     </v-main>
@@ -38,22 +74,24 @@
   </v-app>
 </template>
 <script>
+const stickyHeaderStyle = 'sticky-header blue-grey darken-4'
+
 export default {
+  mounted() {
+    this.onMutate()
+  },
   data: () => ({
     menuVisible: false,
     toEtf: null,
     holdingsHeaders: [
-      { text: 'TKR', value: 'ticker', class: 'sticky-header grey lighten-3' },
-      { text: '%', value: 'percent', class: 'sticky-header grey lighten-3' },
-      { text: 'Name', value: 'name', class: 'sticky-header grey lighten-3' },
+      {
+        text: 'Ticker',
+        value: 'ticker',
+        class: stickyHeaderStyle,
+      },
+      { text: '%', value: 'percent', class: stickyHeaderStyle },
+      { text: 'Name', value: 'name', class: stickyHeaderStyle },
     ],
-    windowSize: {
-      x: 0,
-      y: 0,
-    },
-    // holdingsOptions: {
-    //   itemsPerPage: 13,
-    // },
   }),
   computed: {
     etfId() {
@@ -63,14 +101,23 @@ export default {
       const etfJson = require('~/static/etf/' + this.etfId + '.json')
       return etfJson
     },
-    etfs() {
+    ETFs() {
       const etfs = require('~/static/etfs.json')
       return etfs.ETFs
     },
   },
   methods: {
-    onResize() {
-      this.windowSize = { x: window.innerWidth, y: window.innerHeight }
+    onMutate() {
+      // this.windowSize = { x: window.innerWidth, y: window.innerHeight }
+      let height = 0
+      const toolbar = this.$refs.toolbar
+      if (toolbar) {
+        height = `${toolbar.$el.offsetHeight}px`
+      }
+      document.documentElement.style.setProperty('--headerHeight', height)
+    },
+    changeEtf() {
+      this.$router.push(this.toEtf)
     },
   },
   head: {
@@ -84,3 +131,13 @@ export default {
   },
 }
 </script>
+<style scoped>
+.v-data-table /deep/ .sticky-header {
+  position: sticky;
+  top: var(--headerHeight);
+}
+
+.v-data-table /deep/ .v-data-table__wrapper {
+  overflow: unset;
+}
+</style>

@@ -45,8 +45,13 @@
         <v-card outlined tile>
           <v-card-title> {{ etf.name }} </v-card-title>
           <v-card-text>
-            Issuer: {{ etf.issuer }}<br />
-            Exchange: {{ etf.exchange }}<br />
+            <p>Issuer: {{ etf.issuer }}</p>
+            <p v-if="etf.website">
+              website: <a :href="etf.website">{{ etf.website }}</a>
+            </p>
+            <p v-for="field of overviewProps" :key="field">
+              {{ field }} : {{ etf[field] }}
+            </p>
           </v-card-text>
         </v-card>
         <v-card outlined tile>
@@ -74,6 +79,7 @@
   </v-app>
 </template>
 <script>
+import _ from 'lodash'
 const stickyHeaderStyle = 'sticky-header blue-grey darken-4'
 
 export default {
@@ -100,6 +106,16 @@ export default {
     etf() {
       const etfJson = require('~/static/etf/' + this.etfId + '.json')
       return etfJson
+    },
+    overviewProps() {
+      return _.without(
+        _.keys(this.etf),
+        'ticker',
+        'website',
+        'issuer',
+        'holdings',
+        'holdingDataSource'
+      )
     },
     ETFs() {
       const etfs = require('~/static/etfs.json')

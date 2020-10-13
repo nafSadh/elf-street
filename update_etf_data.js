@@ -66,6 +66,7 @@ const holdingDataSourceFn = {
 const inferDataFn = {
   invesco: function (etf) {
     return {
+      issuer: 'Invesco',
       website:
         'https://www.invesco.com/us/financial-products/etfs/product-detail?audienceType=Investor&ticker=' +
         etf.ticker,

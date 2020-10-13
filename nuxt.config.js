@@ -1,6 +1,8 @@
+import etfJson from './static/etfs.json'
+
 export default {
   // Disable server-side rendering (https://go.nuxtjs.dev/ssr-mode)
-  ssr: false,
+  ssr: true,
 
   // Target (https://go.nuxtjs.dev/config-target)
   target: 'static',
@@ -41,4 +43,22 @@ export default {
 
   // Build Configuration (https://go.nuxtjs.dev/config-build)
   build: {},
+
+  generate: {
+    exclude: ['/flag-index-alt'],
+    /* generate route for _flagId.vue pages */
+    routes() {
+      const etfRoutes = []
+      const fs = require('fs')
+      for (const etf of etfJson.ETFs) {
+        if (etf.ticker) {
+          const jsonpath = './static/etf/' + etf.ticker + '.json'
+          if (fs.existsSync(jsonpath)) {
+            etfRoutes.push('/etf/' + etf.ticker)
+          }
+        }
+      }
+      return etfRoutes
+    },
+  },
 }

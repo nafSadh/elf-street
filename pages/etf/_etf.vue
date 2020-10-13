@@ -124,7 +124,7 @@ export default {
   },
   methods: {
     onMutate() {
-      // this.windowSize = { x: window.innerWidth, y: window.innerHeight }
+      // adopted from https://medium.com/untitled-factory/sticky-table-header-in-vuetify-js-fab39988dc3
       let height = 0
       const toolbar = this.$refs.toolbar
       if (toolbar) {

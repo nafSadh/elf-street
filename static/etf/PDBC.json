@@ -23,7 +23,7 @@
     {
       "Fund Ticker": "PDBC",
       "Security Identifier": "825252885",
-      "Identifier": "AGPXX ",
+      "Identifier": "AGPXX",
       "Shares": "1,264,568,054.13",
       "Weight": "48.120",
       "Name": "STIT - Government & Agency Portfolio",
@@ -31,6 +31,7 @@
       "Sector": "Collateral",
       "$ Value": "1,264,568,054.13",
       "Date": "10/09/2020",
+      "ticker": "825252885",
       "name": "STIT - Government & Agency Portfolio",
       "percent": "48.120",
       "weight": 0.4812
@@ -46,6 +47,7 @@
       "Sector": "Collateral",
       "$ Value": "499,925,520.00",
       "Date": "10/09/2020",
+      "ticker": "9127963K3",
       "name": "United States Treasury Bill",
       "percent": "19.023",
       "weight": 0.19023
@@ -61,6 +63,7 @@
       "Sector": "SWAP",
       "$ Value": "418,521,072.47",
       "Date": "10/09/2020",
+      "ticker": "",
       "name": "Pay MORGAN STANLEY MSCB008 MORGAN STANLEY MSCB008 MORG_US_DVPS 11/9/2020",
       "percent": "15.926",
       "weight": 0.15926
@@ -76,6 +79,7 @@
       "Sector": "SWAP",
       "$ Value": "417,737,007.31",
       "Date": "10/09/2020",
+      "ticker": "",
       "name": "Pay GOLDMAN SACHS COMMODITY I-SELECT STRATEGY 1063 ABGS1063 GOLD_US_DVPS 11/9/2020",
       "percent": "15.896",
       "weight": 0.15896
@@ -91,6 +95,7 @@
       "Sector": "SWAP",
       "$ Value": "417,693,269.43",
       "Date": "10/09/2020",
+      "ticker": "",
       "name": "Pay MACQUARIE CUSTOM PRODUCT 253E MQCC253E MACQ_US_DVPS 11/9/2020",
       "percent": "15.894",
       "weight": 0.15894
@@ -106,6 +111,7 @@
       "Sector": "SWAP",
       "$ Value": "417,662,289.02",
       "Date": "10/09/2020",
+      "ticker": "",
       "name": "Pay RBC ENHANCED PS01 ER RBCAPS01 RBC_US_DVPS 11/9/2020",
       "percent": "15.893",
       "weight": 0.15893
@@ -121,6 +127,7 @@
       "Sector": "SWAP",
       "$ Value": "366,470,233.63",
       "Date": "10/09/2020",
+      "ticker": "CIXBICPI",
       "name": "Pay CB CIXBICPI CITI_US_DVPS 10/5/2021",
       "percent": "13.945",
       "weight": 0.13945
@@ -136,6 +143,7 @@
       "Sector": "Collateral",
       "$ Value": "299,963,874.00",
       "Date": "10/09/2020",
+      "ticker": "912796TU3",
       "name": "United States Treasury Bill",
       "percent": "11.414",
       "weight": 0.11414
@@ -151,6 +159,7 @@
       "Sector": "Collateral",
       "$ Value": "199,999,166.00",
       "Date": "10/09/2020",
+      "ticker": "9127962R9",
       "name": "United States Treasury Bill",
       "percent": "7.610",
       "weight": 0.0761
@@ -158,7 +167,7 @@
     {
       "Fund Ticker": "PDBC",
       "Security Identifier": "G8114D159",
-      "Identifier": "STUSDIC ",
+      "Identifier": "STUSDIC",
       "Shares": "131,174,775.13",
       "Weight": "4.991",
       "Name": "Invesco US Dollar Liquidity Portfolio",
@@ -166,6 +175,7 @@
       "Sector": "Collateral",
       "$ Value": "131,174,775.13",
       "Date": "10/09/2020",
+      "ticker": "G8114D159",
       "name": "Invesco US Dollar Liquidity Portfolio",
       "percent": "4.991",
       "weight": 0.04991
@@ -181,6 +191,7 @@
       "Sector": "SWAP",
       "$ Value": "104,619,040.10",
       "Date": "10/09/2020",
+      "ticker": "",
       "name": "Pay BOFA MERRILL LYNCH COMMODITIES MLBXIVMA EXCESS RETURN STRATEGY MLBXIVMA BAML_US_DVPS 11/9/2020",
       "percent": "3.981",
       "weight": 0.03981
@@ -196,6 +207,7 @@
       "Sector": "Collateral",
       "$ Value": "99,967,229.00",
       "Date": "10/09/2020",
+      "ticker": "9127964C0",
       "name": "United States Treasury Bill",
       "percent": "3.804",
       "weight": 0.03804
@@ -211,6 +223,7 @@
       "Sector": "Precious Metals",
       "$ Value": "56,630,280.00",
       "Date": "10/09/2020",
+      "ticker": "GCZ0",
       "name": "COMEX Gold 100 Troy Ounces Future",
       "percent": "2.155",
       "weight": 0.02155
@@ -226,6 +239,7 @@
       "Sector": "Energy",
       "$ Value": "55,096,708.80",
       "Date": "10/09/2020",
+      "ticker": "XBZ0",
       "name": "NYMEX Reformulated Gasoline Blendstock for Oxygen Blending R",
       "percent": "2.097",
       "weight": 0.02097
@@ -241,6 +255,7 @@
       "Sector": "Energy",
       "$ Value": "51,381,990.00",
       "Date": "10/09/2020",
+      "ticker": "CLM1",
       "name": "NYMEX Light Sweet Crude Oil Future",
       "percent": "1.955",
       "weight": 0.01955
@@ -256,6 +271,7 @@
       "Sector": "Energy",
       "$ Value": "48,821,640.00",
       "Date": "10/09/2020",
+      "ticker": "COF1",
       "name": "ICE Brent Crude Oil Future",
       "percent": "1.858",
       "weight": 0.01858
@@ -271,6 +287,7 @@
       "Sector": "Energy",
       "$ Value": "35,663,846.40",
       "Date": "10/09/2020",
+      "ticker": "HOM1",
       "name": "NYMEX NY Harbor ULSD Futures",
       "percent": "1.357",
       "weight": 0.01357
@@ -286,6 +303,7 @@
       "Sector": "Agriculture",
       "$ Value": "34,357,762.50",
       "Date": "10/09/2020",
+      "ticker": "S X1",
       "name": "CBOT Soybean Future",
       "percent": "1.307",
       "weight": 0.01307
@@ -301,6 +319,7 @@
       "Sector": "Agriculture",
       "$ Value": "33,456,275.00",
       "Date": "10/09/2020",
+      "ticker": "W N1",
       "name": "CBOT Wheat Future",
       "percent": "1.273",
       "weight": 0.01273
@@ -316,6 +335,7 @@
       "Sector": "Agriculture",
       "$ Value": "30,786,515.20",
       "Date": "10/09/2020",
+      "ticker": "SBV1",
       "name": "NYBOT CSC Number 11 World Sugar Future",
       "percent": "1.171",
       "weight": 0.01171
@@ -331,6 +351,7 @@
       "Sector": "Agriculture",
       "$ Value": "26,998,837.50",
       "Date": "10/09/2020",
+      "ticker": "C Z1",
       "name": "CBOT Corn Future",
       "percent": "1.027",
       "weight": 0.01027
@@ -346,6 +367,7 @@
       "Sector": "Base Metals",
       "$ Value": "26,216,312.50",
       "Date": "10/09/2020",
+      "ticker": "LPZ20",
       "name": "LME Copper Future",
       "percent": ".998",
       "weight": 0.00998
@@ -361,6 +383,7 @@
       "Sector": "Energy",
       "$ Value": "24,566,980.00",
       "Date": "10/09/2020",
+      "ticker": "NGF21",
       "name": "NYMEX Henry Hub Natural Gas Futures",
       "percent": ".935",
       "weight": 0.00935
@@ -376,6 +399,7 @@
       "Sector": "Base Metals",
       "$ Value": "22,542,887.50",
       "Date": "10/09/2020",
+      "ticker": "LXZ0",
       "name": "LME Zinc Future",
       "percent": ".858",
       "weight": 0.00858
@@ -391,6 +415,7 @@
       "Sector": "Base Metals",
       "$ Value": "22,240,125.00",
       "Date": "10/09/2020",
+      "ticker": "LAM21",
       "name": "LME Primary Aluminum Future",
       "percent": ".846",
       "weight": 0.00846
@@ -406,6 +431,7 @@
       "Sector": "Precious Metals",
       "$ Value": "16,069,120.00",
       "Date": "10/09/2020",
+      "ticker": "SIZ0",
       "name": "COMEX Silver Future",
       "percent": ".611",
       "weight": 0.00611
@@ -421,6 +447,7 @@
       "Sector": "Collateral",
       "$ Value": "-884,011.80",
       "Date": "10/09/2020",
+      "ticker": "CASHUSD00",
       "name": "Cash/Receivables/Payables",
       "percent": "-.034",
       "weight": -0.00034

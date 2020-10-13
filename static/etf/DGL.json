@@ -31,6 +31,7 @@
       "Sector": "Precious Metals",
       "$ Value": "169,190,000.00",
       "Date": "10/09/2020",
+      "ticker": "GCG1",
       "name": "COMEX Gold 100 Troy Ounces Future",
       "percent": "100.066",
       "weight": 1.00066
@@ -38,7 +39,7 @@
     {
       "Fund Ticker": "DGL",
       "Security Identifier": "825252885",
-      "Identifier": "AGPXX ",
+      "Identifier": "AGPXX",
       "Shares": "84,066,975.28",
       "Weight": "49.721",
       "Name": "STIT - Government & Agency Portfolio",
@@ -46,6 +47,7 @@
       "Sector": "Collateral",
       "$ Value": "84,066,975.28",
       "Date": "10/09/2020",
+      "ticker": "825252885",
       "name": "STIT - Government & Agency Portfolio",
       "percent": "49.721",
       "weight": 0.49721
@@ -61,6 +63,7 @@
       "Sector": "Collateral",
       "$ Value": "29,995,531.20",
       "Date": "10/09/2020",
+      "ticker": "9127963K3",
       "name": "United States Treasury Bill",
       "percent": "17.741",
       "weight": 0.17741
@@ -76,6 +79,7 @@
       "Sector": "Collateral",
       "$ Value": "19,997,591.60",
       "Date": "10/09/2020",
+      "ticker": "912796TU3",
       "name": "United States Treasury Bill",
       "percent": "11.827",
       "weight": 0.11827
@@ -83,7 +87,7 @@
     {
       "Fund Ticker": "DGL",
       "Security Identifier": "46138G888",
-      "Identifier": "CLTL ",
+      "Identifier": "CLTL",
       "Shares": "165,000.00",
       "Weight": "10.321",
       "Name": "Invesco Treasury Collateral ETF",
@@ -91,6 +95,7 @@
       "Sector": "Collateral",
       "$ Value": "17,450,400.00",
       "Date": "10/09/2020",
+      "ticker": "46138G888",
       "name": "Invesco Treasury Collateral ETF",
       "percent": "10.321",
       "weight": 0.10321
@@ -106,6 +111,7 @@
       "Sector": "Collateral",
       "$ Value": "14,998,999.95",
       "Date": "10/09/2020",
+      "ticker": "9127962Z1",
       "name": "United States Treasury Bill",
       "percent": "8.871",
       "weight": 0.08871

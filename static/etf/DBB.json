@@ -31,6 +31,7 @@
       "Sector": "Base Metals",
       "$ Value": "53,463,250.00",
       "Date": "10/09/2020",
+      "ticker": "LPK21",
       "name": "LME Copper Future",
       "percent": "38.338",
       "weight": 0.38338
@@ -46,6 +47,7 @@
       "Sector": "Base Metals",
       "$ Value": "46,474,675.00",
       "Date": "10/09/2020",
+      "ticker": "LXQ1",
       "name": "LME Zinc Future",
       "percent": "33.327",
       "weight": 0.33327
@@ -53,7 +55,7 @@
     {
       "Fund Ticker": "DBB",
       "Security Identifier": "825252885",
-      "Identifier": "AGPXX ",
+      "Identifier": "AGPXX",
       "Shares": "46,307,342.30",
       "Weight": "33.207",
       "Name": "STIT - Government & Agency Portfolio",
@@ -61,6 +63,7 @@
       "Sector": "Collateral",
       "$ Value": "46,307,342.30",
       "Date": "10/09/2020",
+      "ticker": "825252885",
       "name": "STIT - Government & Agency Portfolio",
       "percent": "33.207",
       "weight": 0.33207
@@ -76,6 +79,7 @@
       "Sector": "Base Metals",
       "$ Value": "45,641,025.00",
       "Date": "10/09/2020",
+      "ticker": "LAK21",
       "name": "LME Primary Aluminum Future",
       "percent": "32.729",
       "weight": 0.32729
@@ -91,6 +95,7 @@
       "Sector": "Collateral",
       "$ Value": "19,999,916.60",
       "Date": "10/09/2020",
+      "ticker": "9127962R9",
       "name": "United States Treasury Bill",
       "percent": "14.342",
       "weight": 0.14342
@@ -106,6 +111,7 @@
       "Sector": "Collateral",
       "$ Value": "19,997,020.80",
       "Date": "10/09/2020",
+      "ticker": "9127963K3",
       "name": "United States Treasury Bill",
       "percent": "14.340",
       "weight": 0.1434
@@ -113,7 +119,7 @@
     {
       "Fund Ticker": "DBB",
       "Security Identifier": "46138G888",
-      "Identifier": "CLTL ",
+      "Identifier": "CLTL",
       "Shares": "151,900.00",
       "Weight": "11.520",
       "Name": "Invesco Treasury Collateral ETF",
@@ -121,6 +127,7 @@
       "Sector": "Collateral",
       "$ Value": "16,064,944.00",
       "Date": "10/09/2020",
+      "ticker": "46138G888",
       "name": "Invesco Treasury Collateral ETF",
       "percent": "11.520",
       "weight": 0.1152
@@ -136,6 +143,7 @@
       "Sector": "Collateral",
       "$ Value": "14,998,999.95",
       "Date": "10/09/2020",
+      "ticker": "9127962Z1",
       "name": "United States Treasury Bill",
       "percent": "10.756",
       "weight": 0.10756

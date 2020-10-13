@@ -23,7 +23,7 @@
     {
       "Fund Ticker": "DBV",
       "Security Identifier": "825252885",
-      "Identifier": "AGPXX ",
+      "Identifier": "AGPXX",
       "Shares": "7,079,873.00",
       "Weight": "50.124",
       "Name": "STIT - Government & Agency Portfolio",
@@ -31,6 +31,7 @@
       "Sector": "Collateral",
       "$ Value": "7,079,873.00",
       "Date": "10/09/2020",
+      "ticker": "825252885",
       "name": "STIT - Government & Agency Portfolio",
       "percent": "50.124",
       "weight": 0.50124
@@ -46,6 +47,7 @@
       "Sector": "Collateral",
       "$ Value": "4,999,255.20",
       "Date": "10/09/2020",
+      "ticker": "9127963K3",
       "name": "United States Treasury Bill",
       "percent": "35.394",
       "weight": 0.35394
@@ -61,6 +63,7 @@
       "Sector": "Currency",
       "$ Value": "4,732,150.00",
       "Date": "10/09/2020",
+      "ticker": "NVZ0",
       "name": "CME New Zealand Dollar Currency Future",
       "percent": "33.503",
       "weight": 0.33503
@@ -76,6 +79,7 @@
       "Sector": "Currency",
       "$ Value": "4,721,610.00",
       "Date": "10/09/2020",
+      "ticker": "CDZ0",
       "name": "CME Canadian Dollar Currency Future",
       "percent": "33.428",
       "weight": 0.33428
@@ -91,6 +95,7 @@
       "Sector": "Currency",
       "$ Value": "4,591,860.00",
       "Date": "10/09/2020",
+      "ticker": "NOZ0",
       "name": "CME Norwegian Krone Currency Future",
       "percent": "32.509",
       "weight": 0.32509
@@ -106,6 +111,7 @@
       "Sector": "Collateral",
       "$ Value": "1,999,759.16",
       "Date": "10/09/2020",
+      "ticker": "912796TU3",
       "name": "United States Treasury Bill",
       "percent": "14.158",
       "weight": 0.14158
@@ -121,6 +127,7 @@
       "Sector": "Currency",
       "$ Value": "-4,678,825.00",
       "Date": "10/09/2020",
+      "ticker": "SFZ0",
       "name": "CME Swiss Franc Currency Future",
       "percent": "-33.125",
       "weight": -0.33125
@@ -136,6 +143,7 @@
       "Sector": "Currency",
       "$ Value": "-4,736,200.00",
       "Date": "10/09/2020",
+      "ticker": "ECZ0",
       "name": "CME Euro Foreign Exchange Currency Future",
       "percent": "-33.531",
       "weight": -0.33531
@@ -151,6 +159,7 @@
       "Sector": "Currency",
       "$ Value": "-4,736,750.00",
       "Date": "10/09/2020",
+      "ticker": "JYZ0",
       "name": "CME Japanese Yen Currency Future",
       "percent": "-33.535",
       "weight": -0.33535

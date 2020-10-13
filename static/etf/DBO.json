@@ -31,6 +31,7 @@
       "Sector": "Energy",
       "$ Value": "429,139,800.00",
       "Date": "10/09/2020",
+      "ticker": "CLH1",
       "name": "NYMEX Light Sweet Crude Oil Future",
       "percent": "100.019",
       "weight": 1.00019
@@ -38,7 +39,7 @@
     {
       "Fund Ticker": "DBO",
       "Security Identifier": "825252885",
-      "Identifier": "AGPXX ",
+      "Identifier": "AGPXX",
       "Shares": "194,917,637.96",
       "Weight": "45.429",
       "Name": "STIT - Government & Agency Portfolio",
@@ -46,6 +47,7 @@
       "Sector": "Collateral",
       "$ Value": "194,917,637.96",
       "Date": "10/09/2020",
+      "ticker": "825252885",
       "name": "STIT - Government & Agency Portfolio",
       "percent": "45.429",
       "weight": 0.45429
@@ -61,6 +63,7 @@
       "Sector": "Collateral",
       "$ Value": "119,982,124.80",
       "Date": "10/09/2020",
+      "ticker": "9127963K3",
       "name": "United States Treasury Bill",
       "percent": "27.964",
       "weight": 0.27964
@@ -76,6 +79,7 @@
       "Sector": "Collateral",
       "$ Value": "79,999,666.40",
       "Date": "10/09/2020",
+      "ticker": "9127962R9",
       "name": "United States Treasury Bill",
       "percent": "18.645",
       "weight": 0.18645
@@ -83,7 +87,7 @@
     {
       "Fund Ticker": "DBO",
       "Security Identifier": "46138G888",
-      "Identifier": "CLTL ",
+      "Identifier": "CLTL",
       "Shares": "377,500.00",
       "Weight": "9.305",
       "Name": "Invesco Treasury Collateral ETF",
@@ -91,6 +95,7 @@
       "Sector": "Collateral",
       "$ Value": "39,924,400.00",
       "Date": "10/09/2020",
+      "ticker": "46138G888",
       "name": "Invesco Treasury Collateral ETF",
       "percent": "9.305",
       "weight": 0.09305

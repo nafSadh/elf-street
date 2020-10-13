@@ -3,9 +3,9 @@ const http = require('http')
 const https = require('https')
 const fs = require('fs')
 const Papa = require('./node_modules/papaparse')
+const _ = require('lodash')
 
 const etfMetadata = require('./static/etfs.json')
-console.log(etfMetadata)
 
 const transforms = {
   csvToJson: function (data) {
@@ -16,7 +16,7 @@ const transforms = {
       const row = parsed.data[i]
       const obj = {}
       for (let j = 0; j < row.length; j++) {
-        obj[headers[j]] = row[j]
+        obj[_.trim(headers[j])] = _.trim(row[j])
       }
       jsonArray.push(obj)
     }
@@ -37,12 +37,19 @@ const transforms = {
   },
   invesco: function (data) {
     let jsonArray = []
-    for (const _ of transforms.csvToJson(data)) {
+    for (const obj of transforms.csvToJson(data)) {
       if (true) {
-        let obj = _
-        obj.ticker = _['Holding Ticker']
-        obj.name = _.Name
-        obj.percent = _.Weight
+        obj.ticker = obj['Holding Ticker']
+        if (!obj.ticker) {
+          // bonds don't have tkr, but may have 'Security Identifier'
+          obj.ticker = obj['Security Identifier']
+        }
+        obj.name = obj.Name
+        obj.percent = obj.Weight
+        if (!obj.percent) {
+          // bond's may express it as PercentageOfFund
+          obj.percent = obj.PercentageOfFund
+        }
         obj.weight = 1 * (obj.percent / 100).toPrecision(8)
         jsonArray.push(obj)
       }

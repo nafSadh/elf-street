@@ -31,6 +31,7 @@
       "Sector": "Precious Metals",
       "$ Value": "132,258,240.00",
       "Date": "10/09/2020",
+      "ticker": "GCG1",
       "name": "COMEX Gold 100 Troy Ounces Future",
       "percent": "77.930",
       "weight": 0.7793
@@ -38,7 +39,7 @@
     {
       "Fund Ticker": "DBP",
       "Security Identifier": "825252885",
-      "Identifier": "AGPXX ",
+      "Identifier": "AGPXX",
       "Shares": "73,410,809.61",
       "Weight": "43.256",
       "Name": "STIT - Government & Agency Portfolio",
@@ -46,6 +47,7 @@
       "Sector": "Collateral",
       "$ Value": "73,410,809.61",
       "Date": "10/09/2020",
+      "ticker": "825252885",
       "name": "STIT - Government & Agency Portfolio",
       "percent": "43.256",
       "weight": 0.43256
@@ -61,6 +63,7 @@
       "Sector": "Precious Metals",
       "$ Value": "37,716,030.00",
       "Date": "10/09/2020",
+      "ticker": "SIK1",
       "name": "COMEX Silver Future",
       "percent": "22.223",
       "weight": 0.22223
@@ -76,6 +79,7 @@
       "Sector": "Collateral",
       "$ Value": "24,996,276.00",
       "Date": "10/09/2020",
+      "ticker": "9127963K3",
       "name": "United States Treasury Bill",
       "percent": "14.728",
       "weight": 0.14728
@@ -91,6 +95,7 @@
       "Sector": "Collateral",
       "$ Value": "19,999,916.60",
       "Date": "10/09/2020",
+      "ticker": "9127962R9",
       "name": "United States Treasury Bill",
       "percent": "11.784",
       "weight": 0.11784
@@ -106,6 +111,7 @@
       "Sector": "Collateral",
       "$ Value": "19,997,591.60",
       "Date": "10/09/2020",
+      "ticker": "912796TU3",
       "name": "United States Treasury Bill",
       "percent": "11.783",
       "weight": 0.11783
@@ -113,7 +119,7 @@
     {
       "Fund Ticker": "DBP",
       "Security Identifier": "46138G888",
-      "Identifier": "CLTL ",
+      "Identifier": "CLTL",
       "Shares": "165,000.00",
       "Weight": "10.282",
       "Name": "Invesco Treasury Collateral ETF",
@@ -121,6 +127,7 @@
       "Sector": "Collateral",
       "$ Value": "17,450,400.00",
       "Date": "10/09/2020",
+      "ticker": "46138G888",
       "name": "Invesco Treasury Collateral ETF",
       "percent": "10.282",
       "weight": 0.10282
@@ -136,6 +143,7 @@
       "Sector": "Collateral",
       "$ Value": "9,999,333.30",
       "Date": "10/09/2020",
+      "ticker": "9127962Z1",
       "name": "United States Treasury Bill",
       "percent": "5.892",
       "weight": 0.05892

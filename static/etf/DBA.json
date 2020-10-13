@@ -23,7 +23,7 @@
     {
       "Fund Ticker": "DBA",
       "Security Identifier": "825252885",
-      "Identifier": "AGPXX ",
+      "Identifier": "AGPXX",
       "Shares": "257,229,934.10",
       "Weight": "45.255",
       "Name": "STIT - Government & Agency Portfolio",
@@ -31,6 +31,7 @@
       "Sector": "Collateral",
       "$ Value": "257,229,934.10",
       "Date": "10/09/2020",
+      "ticker": "825252885",
       "name": "STIT - Government & Agency Portfolio",
       "percent": "45.255",
       "weight": 0.45255
@@ -46,6 +47,7 @@
       "Sector": "Collateral",
       "$ Value": "119,982,124.80",
       "Date": "10/09/2020",
+      "ticker": "9127963K3",
       "name": "United States Treasury Bill",
       "percent": "21.109",
       "weight": 0.21109
@@ -61,6 +63,7 @@
       "Sector": "Agriculture",
       "$ Value": "81,899,887.50",
       "Date": "10/09/2020",
+      "ticker": "S X1",
       "name": "CBOT Soybean Future",
       "percent": "14.409",
       "weight": 0.14409
@@ -68,7 +71,7 @@
     {
       "Fund Ticker": "DBA",
       "Security Identifier": "46138G888",
-      "Identifier": "CLTL ",
+      "Identifier": "CLTL",
       "Shares": "749,700.00",
       "Weight": "13.949",
       "Name": "Invesco Treasury Collateral ETF",
@@ -76,6 +79,7 @@
       "Sector": "Collateral",
       "$ Value": "79,288,272.00",
       "Date": "10/09/2020",
+      "ticker": "46138G888",
       "name": "Invesco Treasury Collateral ETF",
       "percent": "13.949",
       "weight": 0.13949
@@ -91,6 +95,7 @@
       "Sector": "Agriculture",
       "$ Value": "74,203,774.40",
       "Date": "10/09/2020",
+      "ticker": "SBV1",
       "name": "NYBOT CSC Number 11 World Sugar Future",
       "percent": "13.055",
       "weight": 0.13055
@@ -106,6 +111,7 @@
       "Sector": "Collateral",
       "$ Value": "69,995,333.10",
       "Date": "10/09/2020",
+      "ticker": "9127962Z1",
       "name": "United States Treasury Bill",
       "percent": "12.314",
       "weight": 0.12314
@@ -121,6 +127,7 @@
       "Sector": "Agriculture",
       "$ Value": "66,515,200.00",
       "Date": "10/09/2020",
+      "ticker": "CCZ0",
       "name": "NYBOT CSC Cocoa Future",
       "percent": "11.702",
       "weight": 0.11702
@@ -136,6 +143,7 @@
       "Sector": "Agriculture",
       "$ Value": "65,929,850.00",
       "Date": "10/09/2020",
+      "ticker": "C U1",
       "name": "CBOT Corn Future",
       "percent": "11.599",
       "weight": 0.11599
@@ -151,6 +159,7 @@
       "Sector": "Agriculture",
       "$ Value": "62,515,520.00",
       "Date": "10/09/2020",
+      "ticker": "LCZ0",
       "name": "CME Live Cattle Future",
       "percent": "10.998",
       "weight": 0.10998
@@ -166,6 +175,7 @@
       "Sector": "Agriculture",
       "$ Value": "62,035,743.75",
       "Date": "10/09/2020",
+      "ticker": "KCZ0",
       "name": "NYBOT CSC C Coffee Future",
       "percent": "10.914",
       "weight": 0.10914
@@ -181,6 +191,7 @@
       "Sector": "Agriculture",
       "$ Value": "42,993,125.00",
       "Date": "10/09/2020",
+      "ticker": "KWN1",
       "name": "KCBT Hard Red Winter Wheat Future",
       "percent": "7.564",
       "weight": 0.07564
@@ -196,6 +207,7 @@
       "Sector": "Agriculture",
       "$ Value": "40,409,000.00",
       "Date": "10/09/2020",
+      "ticker": "W N1",
       "name": "CBOT Wheat Future",
       "percent": "7.109",
       "weight": 0.07109
@@ -211,6 +223,7 @@
       "Sector": "Collateral",
       "$ Value": "39,995,183.20",
       "Date": "10/09/2020",
+      "ticker": "912796TU3",
       "name": "United States Treasury Bill",
       "percent": "7.036",
       "weight": 0.07036
@@ -226,6 +239,7 @@
       "Sector": "Agriculture",
       "$ Value": "33,750,450.00",
       "Date": "10/09/2020",
+      "ticker": "LHZ0",
       "name": "CME Lean Hogs Future",
       "percent": "5.938",
       "weight": 0.05938
@@ -241,6 +255,7 @@
       "Sector": "Agriculture",
       "$ Value": "20,971,000.00",
       "Date": "10/09/2020",
+      "ticker": "FCF1",
       "name": "CME Feeder Cattle Future",
       "percent": "3.689",
       "weight": 0.03689
@@ -256,6 +271,7 @@
       "Sector": "Agriculture",
       "$ Value": "17,079,100.00",
       "Date": "10/09/2020",
+      "ticker": "CTZ0",
       "name": "NYBOT CTN Number 2 Cotton Future",
       "percent": "3.005",
       "weight": 0.03005

@@ -23,7 +23,7 @@
     {
       "Fund Ticker": "DBE",
       "Security Identifier": "825252885",
-      "Identifier": "AGPXX ",
+      "Identifier": "AGPXX",
       "Shares": "23,095,931.01",
       "Weight": "43.881",
       "Name": "STIT - Government & Agency Portfolio",
@@ -31,6 +31,7 @@
       "Sector": "Collateral",
       "$ Value": "23,095,931.01",
       "Date": "10/09/2020",
+      "ticker": "825252885",
       "name": "STIT - Government & Agency Portfolio",
       "percent": "43.881",
       "weight": 0.43881
@@ -46,6 +47,7 @@
       "Sector": "Energy",
       "$ Value": "13,080,513.60",
       "Date": "10/09/2020",
+      "ticker": "XBZ0",
       "name": "NYMEX Reformulated Gasoline Blendstock for Oxygen Blending R",
       "percent": "24.852",
       "weight": 0.24852
@@ -61,6 +63,7 @@
       "Sector": "Energy",
       "$ Value": "12,402,400.00",
       "Date": "10/09/2020",
+      "ticker": "CLH1",
       "name": "NYMEX Light Sweet Crude Oil Future",
       "percent": "23.564",
       "weight": 0.23564
@@ -76,6 +79,7 @@
       "Sector": "Energy",
       "$ Value": "12,086,280.00",
       "Date": "10/09/2020",
+      "ticker": "COF1",
       "name": "ICE Brent Crude Oil Future",
       "percent": "22.963",
       "weight": 0.22963
@@ -83,7 +87,7 @@
     {
       "Fund Ticker": "DBE",
       "Security Identifier": "46138G888",
-      "Identifier": "CLTL ",
+      "Identifier": "CLTL",
       "Shares": "95,200.00",
       "Weight": "19.130",
       "Name": "Invesco Treasury Collateral ETF",
@@ -91,6 +95,7 @@
       "Sector": "Collateral",
       "$ Value": "10,068,352.00",
       "Date": "10/09/2020",
+      "ticker": "46138G888",
       "name": "Invesco Treasury Collateral ETF",
       "percent": "19.130",
       "weight": 0.1913
@@ -106,6 +111,7 @@
       "Sector": "Collateral",
       "$ Value": "9,998,510.40",
       "Date": "10/09/2020",
+      "ticker": "9127963K3",
       "name": "United States Treasury Bill",
       "percent": "18.997",
       "weight": 0.18997
@@ -121,6 +127,7 @@
       "Sector": "Energy",
       "$ Value": "8,756,748.00",
       "Date": "10/09/2020",
+      "ticker": "HOM1",
       "name": "NYMEX NY Harbor ULSD Futures",
       "percent": "16.638",
       "weight": 0.16638
@@ -136,6 +143,7 @@
       "Sector": "Energy",
       "$ Value": "6,309,000.00",
       "Date": "10/09/2020",
+      "ticker": "NGK21",
       "name": "NYMEX Henry Hub Natural Gas Futures",
       "percent": "11.987",
       "weight": 0.11987
@@ -151,6 +159,7 @@
       "Sector": "Collateral",
       "$ Value": "4,999,666.65",
       "Date": "10/09/2020",
+      "ticker": "9127962Z1",
       "name": "United States Treasury Bill",
       "percent": "9.499",
       "weight": 0.09499
@@ -166,6 +175,7 @@
       "Sector": "Collateral",
       "$ Value": "4,999,397.90",
       "Date": "10/09/2020",
+      "ticker": "912796TU3",
       "name": "United States Treasury Bill",
       "percent": "9.499",
       "weight": 0.09499

@@ -125,6 +125,7 @@ export default {
   methods: {
     onMutate() {
       // adopted from https://medium.com/untitled-factory/sticky-table-header-in-vuetify-js-fab39988dc3
+      // TODO: https://stackoverflow.com/questions/61474945/sticky-header-on-scroll-in-vuetify-datatable?answertab=votes#tab-top
       let height = 0
       const toolbar = this.$refs.toolbar
       if (toolbar) {

@@ -23,7 +23,7 @@
     {
       "Fund Ticker": "DBC",
       "Security Identifier": "825252885",
-      "Identifier": "AGPXX ",
+      "Identifier": "AGPXX",
       "Shares": "496,587,555.10",
       "Weight": "46.267",
       "Name": "STIT - Government & Agency Portfolio",
@@ -31,6 +31,7 @@
       "Sector": "Collateral",
       "$ Value": "496,587,555.10",
       "Date": "10/09/2020",
+      "ticker": "825252885",
       "name": "STIT - Government & Agency Portfolio",
       "percent": "46.267",
       "weight": 0.46267
@@ -38,7 +39,7 @@
     {
       "Fund Ticker": "DBC",
       "Security Identifier": "46138G888",
-      "Identifier": "CLTL ",
+      "Identifier": "CLTL",
       "Shares": "1,712,400.00",
       "Weight": "16.873",
       "Name": "Invesco Treasury Collateral ETF",
@@ -46,6 +47,7 @@
       "Sector": "Collateral",
       "$ Value": "181,103,424.00",
       "Date": "10/09/2020",
+      "ticker": "46138G888",
       "name": "Invesco Treasury Collateral ETF",
       "percent": "16.873",
       "weight": 0.16873
@@ -61,6 +63,7 @@
       "Sector": "Collateral",
       "$ Value": "159,999,332.80",
       "Date": "10/09/2020",
+      "ticker": "9127962R9",
       "name": "United States Treasury Bill",
       "percent": "14.907",
       "weight": 0.14907
@@ -76,6 +79,7 @@
       "Sector": "Collateral",
       "$ Value": "159,976,166.40",
       "Date": "10/09/2020",
+      "ticker": "9127963K3",
       "name": "United States Treasury Bill",
       "percent": "14.905",
       "weight": 0.14905
@@ -91,6 +95,7 @@
       "Sector": "Precious Metals",
       "$ Value": "127,424,240.00",
       "Date": "10/09/2020",
+      "ticker": "GCG1",
       "name": "COMEX Gold 100 Troy Ounces Future",
       "percent": "11.872",
       "weight": 0.11872
@@ -106,6 +111,7 @@
       "Sector": "Energy",
       "$ Value": "117,823,717.20",
       "Date": "10/09/2020",
+      "ticker": "XBZ0",
       "name": "NYMEX Reformulated Gasoline Blendstock for Oxygen Blending R",
       "percent": "10.978",
       "weight": 0.10978
@@ -121,6 +127,7 @@
       "Sector": "Energy",
       "$ Value": "111,914,900.00",
       "Date": "10/09/2020",
+      "ticker": "CLH1",
       "name": "NYMEX Light Sweet Crude Oil Future",
       "percent": "10.427",
       "weight": 0.10427
@@ -136,6 +143,7 @@
       "Sector": "Energy",
       "$ Value": "109,166,400.00",
       "Date": "10/09/2020",
+      "ticker": "COF1",
       "name": "ICE Brent Crude Oil Future",
       "percent": "10.171",
       "weight": 0.10171
@@ -151,6 +159,7 @@
       "Sector": "Energy",
       "$ Value": "78,757,660.80",
       "Date": "10/09/2020",
+      "ticker": "HOM1",
       "name": "NYMEX NY Harbor ULSD Futures",
       "percent": "7.338",
       "weight": 0.07338
@@ -166,6 +175,7 @@
       "Sector": "Agriculture",
       "$ Value": "75,332,212.50",
       "Date": "10/09/2020",
+      "ticker": "S X1",
       "name": "CBOT Soybean Future",
       "percent": "7.019",
       "weight": 0.07019
@@ -181,6 +191,7 @@
       "Sector": "Agriculture",
       "$ Value": "74,340,675.00",
       "Date": "10/09/2020",
+      "ticker": "W N1",
       "name": "CBOT Wheat Future",
       "percent": "6.926",
       "weight": 0.06926
@@ -196,6 +207,7 @@
       "Sector": "Agriculture",
       "$ Value": "68,294,654.40",
       "Date": "10/09/2020",
+      "ticker": "SBV1",
       "name": "NYBOT CSC Number 11 World Sugar Future",
       "percent": "6.363",
       "weight": 0.06363
@@ -211,6 +223,7 @@
       "Sector": "Agriculture",
       "$ Value": "60,630,150.00",
       "Date": "10/09/2020",
+      "ticker": "C U1",
       "name": "CBOT Corn Future",
       "percent": "5.649",
       "weight": 0.05649
@@ -226,6 +239,7 @@
       "Sector": "Base Metals",
       "$ Value": "59,723,187.50",
       "Date": "10/09/2020",
+      "ticker": "LPK21",
       "name": "LME Copper Future",
       "percent": "5.564",
       "weight": 0.05564
@@ -241,6 +255,7 @@
       "Sector": "Energy",
       "$ Value": "56,837,080.00",
       "Date": "10/09/2020",
+      "ticker": "NGK21",
       "name": "NYMEX Henry Hub Natural Gas Futures",
       "percent": "5.295",
       "weight": 0.05295
@@ -256,6 +271,7 @@
       "Sector": "Base Metals",
       "$ Value": "52,061,475.00",
       "Date": "10/09/2020",
+      "ticker": "LAK21",
       "name": "LME Primary Aluminum Future",
       "percent": "4.851",
       "weight": 0.04851
@@ -271,6 +287,7 @@
       "Sector": "Base Metals",
       "$ Value": "51,344,037.50",
       "Date": "10/09/2020",
+      "ticker": "LXQ1",
       "name": "LME Zinc Future",
       "percent": "4.784",
       "weight": 0.04784
@@ -286,6 +303,7 @@
       "Sector": "Collateral",
       "$ Value": "49,996,666.50",
       "Date": "10/09/2020",
+      "ticker": "9127962Z1",
       "name": "United States Treasury Bill",
       "percent": "4.658",
       "weight": 0.04658
@@ -301,6 +319,7 @@
       "Sector": "Precious Metals",
       "$ Value": "36,319,140.00",
       "Date": "10/09/2020",
+      "ticker": "SIK1",
       "name": "COMEX Silver Future",
       "percent": "3.384",
       "weight": 0.03384

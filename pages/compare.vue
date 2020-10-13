@@ -31,16 +31,29 @@
             dense
             multiple
             chips
+            deletable-chips
             clearable
             hide-details
             :items="ETFs"
             item-value="ticker"
-            item-text="ticker"
+            :item-text="(item) => item.ticker + ' - ' + item.name"
             v-model="etfToComp"
             class="mx-4"
             color="blue"
             @change="updateComparison"
-          />
+          >
+            <template v-slot:selection="data">
+              <v-chip
+                v-bind="data.attrs"
+                :input-value="data.selected"
+                close
+                @click="data.select"
+                @click:close="remove(data.item)"
+              >
+                {{ data.item.ticker }}
+              </v-chip>
+            </template>
+          </v-autocomplete>
         </v-toolbar>
         <!-- If using vue-router -->
         <v-card outlined tile>
@@ -124,6 +137,10 @@ export default {
       for (const tkr in tkrPerEtf) {
         this.holdingComparison.push(tkrPerEtf[tkr])
       }
+    },
+    remove(item) {
+      const index = this.etfToComp.indexOf(item.ticker)
+      if (index >= 0) this.etfToComp.splice(index, 1)
     },
   },
   head: {

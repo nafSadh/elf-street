@@ -1,0 +1,21 @@
+{
+  "name": "CurrencyShares® Australian Dollar Trust ",
+  "ticker": "FXA",
+  "Inception": "6/21/2006",
+  "Gross Exp. Ratio": "0.40%",
+  "YTD": "1.74",
+  "1Yr": "6.04",
+  "3Yr": "-2.52",
+  "5Yr": "1.09",
+  "10Yr": "-1.39",
+  "Since Incept.": "2.26",
+  "Category": "Alternatives",
+  "SubCategory": "Currencies",
+  "holdingDataSourceFn": "invesco",
+  "holdingDataSource": {
+    "url": "https://www.invesco.com/us/financial-products/etfs/holdings/main/holdings/0?audienceType=Investor&action=download&ticker=FXA",
+    "fileExt": "csv",
+    "transform": "invesco"
+  },
+  "holdings": []
+}

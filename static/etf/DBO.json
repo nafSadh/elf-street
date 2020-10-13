@@ -1,0 +1,101 @@
+{
+  "name": "DB Oil Fund",
+  "ticker": "DBO",
+  "Inception": "1/5/2007",
+  "Gross Exp. Ratio": "0.78%",
+  "YTD": "-32.33",
+  "1Yr": "-22.01",
+  "3Yr": "-5.41",
+  "5Yr": "-7.93",
+  "10Yr": "-11.52",
+  "Since Incept.": "-7.93",
+  "Category": "Alternatives",
+  "SubCategory": "Commodity Sectors",
+  "holdingDataSourceFn": "invesco",
+  "holdingDataSource": {
+    "url": "https://www.invesco.com/us/financial-products/etfs/holdings/main/holdings/0?audienceType=Investor&action=download&ticker=DBO",
+    "fileExt": "csv",
+    "transform": "invesco"
+  },
+  "holdings": [
+    {
+      "Fund Ticker": "DBO",
+      "Security Identifier": "CLH1",
+      "Identifier": "",
+      "Shares": "10,242.00",
+      "Weight": "100.019",
+      "Name": "NYMEX Light Sweet Crude Oil Future",
+      "Contract Expiry Date": "02/22/2021",
+      "Sector": "Energy",
+      "$ Value": "429,139,800.00",
+      "Date": "10/09/2020",
+      "name": "NYMEX Light Sweet Crude Oil Future",
+      "percent": "100.019",
+      "weight": 1.00019
+    },
+    {
+      "Fund Ticker": "DBO",
+      "Security Identifier": "825252885",
+      "Identifier": "AGPXX ",
+      "Shares": "194,917,637.96",
+      "Weight": "45.429",
+      "Name": "STIT - Government & Agency Portfolio",
+      "Contract Expiry Date": "",
+      "Sector": "Collateral",
+      "$ Value": "194,917,637.96",
+      "Date": "10/09/2020",
+      "name": "STIT - Government & Agency Portfolio",
+      "percent": "45.429",
+      "weight": 0.45429
+    },
+    {
+      "Fund Ticker": "DBO",
+      "Security Identifier": "9127963K3",
+      "Identifier": "",
+      "Shares": "120,000,000.00",
+      "Weight": "27.964",
+      "Name": "United States Treasury Bill",
+      "Contract Expiry Date": "12/17/2020",
+      "Sector": "Collateral",
+      "$ Value": "119,982,124.80",
+      "Date": "10/09/2020",
+      "name": "United States Treasury Bill",
+      "percent": "27.964",
+      "weight": 0.27964
+    },
+    {
+      "Fund Ticker": "DBO",
+      "Security Identifier": "9127962R9",
+      "Identifier": "",
+      "Shares": "80,000,000.00",
+      "Weight": "18.645",
+      "Name": "United States Treasury Bill",
+      "Contract Expiry Date": "10/15/2020",
+      "Sector": "Collateral",
+      "$ Value": "79,999,666.40",
+      "Date": "10/09/2020",
+      "name": "United States Treasury Bill",
+      "percent": "18.645",
+      "weight": 0.18645
+    },
+    {
+      "Fund Ticker": "DBO",
+      "Security Identifier": "46138G888",
+      "Identifier": "CLTL ",
+      "Shares": "377,500.00",
+      "Weight": "9.305",
+      "Name": "Invesco Treasury Collateral ETF",
+      "Contract Expiry Date": "",
+      "Sector": "Collateral",
+      "$ Value": "39,924,400.00",
+      "Date": "10/09/2020",
+      "name": "Invesco Treasury Collateral ETF",
+      "percent": "9.305",
+      "weight": 0.09305
+    },
+    {
+      "Fund Ticker": "",
+      "weight": null
+    }
+  ]
+}

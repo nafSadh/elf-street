@@ -1,0 +1,21 @@
+{
+  "name": "CurrencyShares® Swiss Franc Trust ",
+  "ticker": "FXF",
+  "Inception": "6/21/2006",
+  "Gross Exp. Ratio": "0.40%",
+  "YTD": "4.49",
+  "1Yr": "7.28",
+  "3Yr": "0.57",
+  "5Yr": "0.07",
+  "10Yr": "-0.21",
+  "Since Incept.": "1.64",
+  "Category": "Alternatives",
+  "SubCategory": "Currencies",
+  "holdingDataSourceFn": "invesco",
+  "holdingDataSource": {
+    "url": "https://www.invesco.com/us/financial-products/etfs/holdings/main/holdings/0?audienceType=Investor&action=download&ticker=FXF",
+    "fileExt": "csv",
+    "transform": "invesco"
+  },
+  "holdings": []
+}

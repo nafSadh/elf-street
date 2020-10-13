@@ -51,6 +51,18 @@ const transforms = {
   },
 }
 
+const holdingDataSourceFn = {
+  invesco: function (ticker) {
+    return {
+      url:
+        'https://www.invesco.com/us/financial-products/etfs/holdings/main/holdings/0?audienceType=Investor&action=download&ticker=' +
+        ticker,
+      fileExt: 'csv',
+      transform: 'invesco',
+    }
+  },
+}
+
 function downloadFile(url, path, processData) {
   const file = fs.createWriteStream(path)
   const chunks = []
@@ -66,7 +78,12 @@ function downloadFile(url, path, processData) {
 }
 
 for (const etf of etfMetadata.ETFs) {
-  if (etf.ticker && etf.holdingDataSource && etf.holdingDataSource.url) {
+  if (!etf.ticker) continue
+  if (etf.holdingDataSourceFn) {
+    const fn = holdingDataSourceFn[etf.holdingDataSourceFn]
+    etf.holdingDataSource = fn(etf.ticker)
+  }
+  if (etf.holdingDataSource && etf.holdingDataSource.url) {
     const filepath =
       './static/etf/' + etf.ticker + '.' + etf.holdingDataSource.fileExt
     const jsonpath = './static/etf/' + etf.ticker + '.json'

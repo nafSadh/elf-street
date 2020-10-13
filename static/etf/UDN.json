@@ -1,0 +1,101 @@
+{
+  "name": "DB US Dollar Index Bearish Fund",
+  "ticker": "UDN",
+  "Inception": "2/20/2007",
+  "Gross Exp. Ratio": "0.77%",
+  "YTD": "1.95",
+  "1Yr": "4.86",
+  "3Yr": "-1.23",
+  "5Yr": "-0.44",
+  "10Yr": "-2.28",
+  "Since Incept.": "-0.95",
+  "Category": "Alternatives",
+  "SubCategory": "Currencies",
+  "holdingDataSourceFn": "invesco",
+  "holdingDataSource": {
+    "url": "https://www.invesco.com/us/financial-products/etfs/holdings/main/holdings/0?audienceType=Investor&action=download&ticker=UDN",
+    "fileExt": "csv",
+    "transform": "invesco"
+  },
+  "holdings": [
+    {
+      "Fund Ticker": "UDN",
+      "Security Identifier": "825252885",
+      "Identifier": "AGPXX ",
+      "Shares": "32,541,160.60",
+      "Weight": "42.851",
+      "Name": "STIT - Government & Agency Portfolio",
+      "Contract Expiry Date": "",
+      "Sector": "Collateral",
+      "$ Value": "32,541,160.60",
+      "Date": "10/09/2020",
+      "name": "STIT - Government & Agency Portfolio",
+      "percent": "42.851",
+      "weight": 0.42851
+    },
+    {
+      "Fund Ticker": "UDN",
+      "Security Identifier": "912796TU3",
+      "Identifier": "",
+      "Shares": "20,000,000.00",
+      "Weight": "26.333",
+      "Name": "United States Treasury Bill",
+      "Contract Expiry Date": "12/03/2020",
+      "Sector": "Collateral",
+      "$ Value": "19,997,591.60",
+      "Date": "10/09/2020",
+      "name": "United States Treasury Bill",
+      "percent": "26.333",
+      "weight": 0.26333
+    },
+    {
+      "Fund Ticker": "UDN",
+      "Security Identifier": "9127962Z1",
+      "Identifier": "",
+      "Shares": "19,000,000.00",
+      "Weight": "25.018",
+      "Name": "United States Treasury Bill",
+      "Contract Expiry Date": "11/12/2020",
+      "Sector": "Collateral",
+      "$ Value": "18,998,733.27",
+      "Date": "10/09/2020",
+      "name": "United States Treasury Bill",
+      "percent": "25.018",
+      "weight": 0.25018
+    },
+    {
+      "Fund Ticker": "UDN",
+      "Security Identifier": "9127963K3",
+      "Identifier": "",
+      "Shares": "4,000,000.00",
+      "Weight": "5.266",
+      "Name": "United States Treasury Bill",
+      "Contract Expiry Date": "12/17/2020",
+      "Sector": "Collateral",
+      "$ Value": "3,999,404.16",
+      "Date": "10/09/2020",
+      "name": "United States Treasury Bill",
+      "percent": "5.266",
+      "weight": 0.05266
+    },
+    {
+      "Fund Ticker": "UDN",
+      "Security Identifier": "DXZ0",
+      "Identifier": "",
+      "Shares": "-766.00",
+      "Weight": "-93.873",
+      "Name": "NYBOT FINEX United States Dollar Index Future",
+      "Contract Expiry Date": "12/14/2020",
+      "Sector": "Currency",
+      "$ Value": "-71,287,790.00",
+      "Date": "10/09/2020",
+      "name": "NYBOT FINEX United States Dollar Index Future",
+      "percent": "-93.873",
+      "weight": -0.93873
+    },
+    {
+      "Fund Ticker": "",
+      "weight": null
+    }
+  ]
+}

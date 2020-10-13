@@ -1,0 +1,21 @@
+{
+  "name": "CurrencyShares® British Pound Sterling Trust ",
+  "ticker": "FXB",
+  "Inception": "6/21/2006",
+  "Gross Exp. Ratio": "0.40%",
+  "YTD": "-2.64",
+  "1Yr": "4.65",
+  "3Yr": "-1.42",
+  "5Yr": "-3.37",
+  "10Yr": "-2.24",
+  "Since Incept.": "-1.95",
+  "Category": "Alternatives",
+  "SubCategory": "Currencies",
+  "holdingDataSourceFn": "invesco",
+  "holdingDataSource": {
+    "url": "https://www.invesco.com/us/financial-products/etfs/holdings/main/holdings/0?audienceType=Investor&action=download&ticker=FXB",
+    "fileExt": "csv",
+    "transform": "invesco"
+  },
+  "holdings": []
+}

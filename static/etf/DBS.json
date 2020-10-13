@@ -1,0 +1,101 @@
+{
+  "name": "DB Silver Fund",
+  "ticker": "DBS",
+  "Inception": "1/5/2007",
+  "Gross Exp. Ratio": "0.79%",
+  "YTD": "29.97",
+  "1Yr": "36.37",
+  "3Yr": "10.27",
+  "5Yr": "8.21",
+  "10Yr": "-1.16",
+  "Since Incept.": "2.94",
+  "Category": "Alternatives",
+  "SubCategory": "Commodity Sectors",
+  "holdingDataSourceFn": "invesco",
+  "holdingDataSource": {
+    "url": "https://www.invesco.com/us/financial-products/etfs/holdings/main/holdings/0?audienceType=Investor&action=download&ticker=DBS",
+    "fileExt": "csv",
+    "transform": "invesco"
+  },
+  "holdings": [
+    {
+      "Fund Ticker": "DBS",
+      "Security Identifier": "SIK1",
+      "Identifier": "",
+      "Shares": "225.00",
+      "Weight": "100.035",
+      "Name": "COMEX Silver Future",
+      "Contract Expiry Date": "05/26/2021",
+      "Sector": "Precious Metals",
+      "$ Value": "28,572,750.00",
+      "Date": "10/09/2020",
+      "name": "COMEX Silver Future",
+      "percent": "100.035",
+      "weight": 1.00035
+    },
+    {
+      "Fund Ticker": "DBS",
+      "Security Identifier": "825252885",
+      "Identifier": "AGPXX ",
+      "Shares": "12,161,505.67",
+      "Weight": "42.578",
+      "Name": "STIT - Government & Agency Portfolio",
+      "Contract Expiry Date": "",
+      "Sector": "Collateral",
+      "$ Value": "12,161,505.67",
+      "Date": "10/09/2020",
+      "name": "STIT - Government & Agency Portfolio",
+      "percent": "42.578",
+      "weight": 0.42578
+    },
+    {
+      "Fund Ticker": "DBS",
+      "Security Identifier": "9127963J6",
+      "Identifier": "",
+      "Shares": "7,000,000.00",
+      "Weight": "24.504",
+      "Name": "United States Treasury Bill",
+      "Contract Expiry Date": "12/10/2020",
+      "Sector": "Collateral",
+      "$ Value": "6,999,041.42",
+      "Date": "10/09/2020",
+      "name": "United States Treasury Bill",
+      "percent": "24.504",
+      "weight": 0.24504
+    },
+    {
+      "Fund Ticker": "DBS",
+      "Security Identifier": "9127963K3",
+      "Identifier": "",
+      "Shares": "6,000,000.00",
+      "Weight": "21.003",
+      "Name": "United States Treasury Bill",
+      "Contract Expiry Date": "12/17/2020",
+      "Sector": "Collateral",
+      "$ Value": "5,999,106.24",
+      "Date": "10/09/2020",
+      "name": "United States Treasury Bill",
+      "percent": "21.003",
+      "weight": 0.21003
+    },
+    {
+      "Fund Ticker": "DBS",
+      "Security Identifier": "9127962Z1",
+      "Identifier": "",
+      "Shares": "2,000,000.00",
+      "Weight": "7.002",
+      "Name": "United States Treasury Bill",
+      "Contract Expiry Date": "11/12/2020",
+      "Sector": "Collateral",
+      "$ Value": "1,999,866.66",
+      "Date": "10/09/2020",
+      "name": "United States Treasury Bill",
+      "percent": "7.002",
+      "weight": 0.07002
+    },
+    {
+      "Fund Ticker": "",
+      "weight": null
+    }
+  ]
+}

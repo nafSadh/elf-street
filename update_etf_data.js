@@ -68,7 +68,7 @@ const transforms = {
   wisdomTree: function (data) {
     let jsonArray = []
     for (const obj of transforms.csvToJson(data)) {
-      if (obj['Security Ticker'] && obje['Security Ticker'] != '') {
+      if (obj['Security Ticker'] && obj['Security Ticker'] != '') {
         obj.ticker = _.split(obj['Security Ticker'], ' ')[0]
         obj.name = obj['Security Description']
         obj.weight = obj['Weight %']
@@ -102,7 +102,7 @@ const inferDataFn = {
     let wtEtf = wisdomTree.etf[etf.ticker]
     _.assign(wtEtf, {
       holdingDataSource: {
-        local: etf.ticker + '.csv',
+        file: './static/etf/' + etf.ticker + '.csv',
         fileExt: 'csv',
         transform: 'wisdomTree',
       },
@@ -112,7 +112,8 @@ const inferDataFn = {
   },
 }
 
-function downloadFile(url, path, processData) {
+function fromUrl(url, path, processData) {
+  console.log('downloading: ' + url)
   const file = fs.createWriteStream(path)
   const chunks = []
   https
@@ -126,29 +127,37 @@ function downloadFile(url, path, processData) {
     })
 }
 
+function dataToJsonFile(data, etf, jsonpath) {
+  etf.holdings = transforms[etf.holdingDataSource.transform](data)
+  fs.writeFile(jsonpath, JSON.stringify(etf, null, 2), (e, d) => {
+    if (e) {
+      console.error(e)
+    }
+  })
+}
+
 for (let etf of etfMetadata.ETFs) {
   if (!etf.ticker) continue
   if (etf.inferDataFn) {
     const fn = inferDataFn[etf.inferDataFn]
     etf = Object.assign(fn(etf), etf)
   }
-  if (etf.holdingDataSource && etf.holdingDataSource.url) {
+  if (etf.holdingDataSource) {
     const filepath =
       './static/etf/' + etf.ticker + '.' + etf.holdingDataSource.fileExt
     const jsonpath = './static/etf/' + etf.ticker + '.json'
     if (fs.existsSync(jsonpath)) {
       continue
     }
-    console.log(etf.holdingDataSource.url)
-    downloadFile(etf.holdingDataSource.url, filepath, (data) => {
-      const transform = transforms[etf.holdingDataSource.transform]
-      let json = etf
-      etf.holdings = transform(data)
-      fs.writeFile(jsonpath, JSON.stringify(json, null, 2), (e, d) => {
-        if (e) {
-          console.error(e)
-        }
+    if (etf.holdingDataSource.url) {
+      fromUrl(etf.holdingDataSource.url, filepath, (data) => {
+        dataToJsonFile(data, etf, jsonpath)
       })
-    })
+    }
+    if (etf.holdingDataSource.file) {
+      // fs.existsSync(etf.holdingDataSource.file)
+      const data = fs.readFileSync(etf.holdingDataSource.file, 'utf8')
+      dataToJsonFile(data, etf, jsonpath)
+    }
   }
 }

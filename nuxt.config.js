@@ -45,8 +45,6 @@ export default {
   build: {},
 
   generate: {
-    exclude: ['/flag-index-alt'],
-    /* generate route for _flagId.vue pages */
     routes() {
       const etfRoutes = []
       const fs = require('fs')

@@ -1,12 +1,25 @@
 {
   "ticker": "ARKQ",
-  "exchange": "BATS",
+  "name": "ARK Autonomous Technology & Robotics ETF",
   "issuer": "ARK",
+  "website": "https://ark-funds.com/arkq",
   "holdingDataSource": {
     "url": "https://ark-funds.com/wp-content/fundsiteliterature/csv/ARK_AUTONOMOUS_TECHNOLOGY_&_ROBOTICS_ETF_ARKQ_HOLDINGS.csv",
     "fileExt": "csv",
     "transform": "ark"
   },
+  "Fund Type": "Active Equity ETF",
+  "CUSIP": "00214Q 203",
+  "Primary Exchange": "Cboe BZX Exchange",
+  "Net Assets": "$317 Million",
+  "Inception Date": "9/30/2014",
+  "Expense Ratio": "0.75%",
+  "Typical # of Holdings": "30-50",
+  "Indicative Value": "ARKQ.IV",
+  "Net Asset Value (NAV)": "ARKQ.NV",
+  "Weighted Avg Market CAP": "$135 Billion",
+  "Median Market CAP": "$24 Billion",
+  "Portfolio Managers": "Catherine D. Wood",
   "holdings": [
     {
       "date": "10/12/2020",

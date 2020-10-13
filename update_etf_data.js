@@ -51,23 +51,6 @@ const transforms = {
   },
 }
 
-for (const etf of etfMetadata.ETFs) {
-  const filepath =
-    './static/etf/' + etf.ticker + '.' + etf.holdingDataSource.fileExt
-  const jsonpath = './static/etf/' + etf.ticker + '.json'
-  console.log(etf.holdingDataSource.url)
-  downloadFile(etf.holdingDataSource.url, filepath, (data) => {
-    const transform = transforms[etf.holdingDataSource.transform]
-    let json = etf
-    etf.holdings = transform(data)
-    fs.writeFile(jsonpath, JSON.stringify(json, null, 2), (e, d) => {
-      if (e) {
-        console.error(e)
-      }
-    })
-  })
-}
-
 function downloadFile(url, path, processData) {
   const file = fs.createWriteStream(path)
   const chunks = []
@@ -80,4 +63,23 @@ function downloadFile(url, path, processData) {
     .on('error', (e) => {
       console.error(e)
     })
+}
+
+for (const etf of etfMetadata.ETFs) {
+  if (etf.ticker && etf.holdingDataSource && etf.holdingDataSource.url) {
+    const filepath =
+      './static/etf/' + etf.ticker + '.' + etf.holdingDataSource.fileExt
+    const jsonpath = './static/etf/' + etf.ticker + '.json'
+    console.log(etf.holdingDataSource.url)
+    downloadFile(etf.holdingDataSource.url, filepath, (data) => {
+      const transform = transforms[etf.holdingDataSource.transform]
+      let json = etf
+      etf.holdings = transform(data)
+      fs.writeFile(jsonpath, JSON.stringify(json, null, 2), (e, d) => {
+        if (e) {
+          console.error(e)
+        }
+      })
+    })
+  }
 }

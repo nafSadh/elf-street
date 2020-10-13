@@ -1,4 +1,10 @@
 {
+  "website": "https://www.invesco.com/us/financial-products/etfs/product-detail?audienceType=Investor&ticker=EELV",
+  "holdingDataSource": {
+    "url": "https://www.invesco.com/us/financial-products/etfs/holdings/main/holdings/0?audienceType=Investor&action=download&ticker=EELV",
+    "fileExt": "csv",
+    "transform": "invesco"
+  },
   "name": "S&P Emerging Markets Low Volatility ETF",
   "ticker": "EELV",
   "Inception": "1/13/2012",
@@ -11,12 +17,7 @@
   "Since Incept.": "0.62",
   "Category": "SP Factor",
   "SubCategory": "Low Volatility",
-  "holdingDataSourceFn": "invesco",
-  "holdingDataSource": {
-    "url": "https://www.invesco.com/us/financial-products/etfs/holdings/main/holdings/0?audienceType=Investor&action=download&ticker=EELV",
-    "fileExt": "csv",
-    "transform": "invesco"
-  },
+  "inferDataFn": "invesco",
   "holdings": [
     {
       "Fund Ticker": "EELV",

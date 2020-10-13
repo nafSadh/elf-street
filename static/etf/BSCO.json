@@ -1,4 +1,10 @@
 {
+  "website": "https://www.invesco.com/us/financial-products/etfs/product-detail?audienceType=Investor&ticker=BSCO",
+  "holdingDataSource": {
+    "url": "https://www.invesco.com/us/financial-products/etfs/holdings/main/holdings/0?audienceType=Investor&action=download&ticker=BSCO",
+    "fileExt": "csv",
+    "transform": "invesco"
+  },
   "name": "BulletShares 2024 Corporate Bond ETF",
   "ticker": "BSCO",
   "Inception": "9/17/2014",
@@ -11,12 +17,7 @@
   "Since Incept.": "4.89",
   "Category": "Income",
   "SubCategory": "BulletShares",
-  "holdingDataSourceFn": "invesco",
-  "holdingDataSource": {
-    "url": "https://www.invesco.com/us/financial-products/etfs/holdings/main/holdings/0?audienceType=Investor&action=download&ticker=BSCO",
-    "fileExt": "csv",
-    "transform": "invesco"
-  },
+  "inferDataFn": "invesco",
   "holdings": [
     {
       "Fund Ticker": "BSCO",

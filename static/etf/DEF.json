@@ -1,4 +1,10 @@
 {
+  "website": "https://www.invesco.com/us/financial-products/etfs/product-detail?audienceType=Investor&ticker=DEF",
+  "holdingDataSource": {
+    "url": "https://www.invesco.com/us/financial-products/etfs/holdings/main/holdings/0?audienceType=Investor&action=download&ticker=DEF",
+    "fileExt": "csv",
+    "transform": "invesco"
+  },
   "name": "Defensive Equity ETF",
   "ticker": "DEF",
   "Inception": "12/15/2006",
@@ -11,12 +17,7 @@
   "Since Incept.": "8.04",
   "Category": "Thematic",
   "SubCategory": "Access",
-  "holdingDataSourceFn": "invesco",
-  "holdingDataSource": {
-    "url": "https://www.invesco.com/us/financial-products/etfs/holdings/main/holdings/0?audienceType=Investor&action=download&ticker=DEF",
-    "fileExt": "csv",
-    "transform": "invesco"
-  },
+  "inferDataFn": "invesco",
   "holdings": [
     {
       "Fund Ticker": "DEF",

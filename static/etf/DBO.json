@@ -1,4 +1,10 @@
 {
+  "website": "https://www.invesco.com/us/financial-products/etfs/product-detail?audienceType=Investor&ticker=DBO",
+  "holdingDataSource": {
+    "url": "https://www.invesco.com/us/financial-products/etfs/holdings/main/holdings/0?audienceType=Investor&action=download&ticker=DBO",
+    "fileExt": "csv",
+    "transform": "invesco"
+  },
   "name": "DB Oil Fund",
   "ticker": "DBO",
   "Inception": "1/5/2007",
@@ -11,12 +17,7 @@
   "Since Incept.": "-7.93",
   "Category": "Alternatives",
   "SubCategory": "Commodity Sectors",
-  "holdingDataSourceFn": "invesco",
-  "holdingDataSource": {
-    "url": "https://www.invesco.com/us/financial-products/etfs/holdings/main/holdings/0?audienceType=Investor&action=download&ticker=DBO",
-    "fileExt": "csv",
-    "transform": "invesco"
-  },
+  "inferDataFn": "invesco",
   "holdings": [
     {
       "Fund Ticker": "DBO",

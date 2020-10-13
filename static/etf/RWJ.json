@@ -1,4 +1,10 @@
 {
+  "website": "https://www.invesco.com/us/financial-products/etfs/product-detail?audienceType=Investor&ticker=RWJ",
+  "holdingDataSource": {
+    "url": "https://www.invesco.com/us/financial-products/etfs/holdings/main/holdings/0?audienceType=Investor&action=download&ticker=RWJ",
+    "fileExt": "csv",
+    "transform": "invesco"
+  },
   "name": "S&P SmallCap 600 Revenue ETF",
   "ticker": "RWJ",
   "Inception": "2/19/2008",
@@ -11,12 +17,7 @@
   "Since Incept.": "8.08",
   "Category": "Thematic",
   "SubCategory": "Access",
-  "holdingDataSourceFn": "invesco",
-  "holdingDataSource": {
-    "url": "https://www.invesco.com/us/financial-products/etfs/holdings/main/holdings/0?audienceType=Investor&action=download&ticker=RWJ",
-    "fileExt": "csv",
-    "transform": "invesco"
-  },
+  "inferDataFn": "invesco",
   "holdings": [
     {
       "Fund Ticker": "RWJ",

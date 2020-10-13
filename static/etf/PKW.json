@@ -1,4 +1,10 @@
 {
+  "website": "https://www.invesco.com/us/financial-products/etfs/product-detail?audienceType=Investor&ticker=PKW",
+  "holdingDataSource": {
+    "url": "https://www.invesco.com/us/financial-products/etfs/holdings/main/holdings/0?audienceType=Investor&action=download&ticker=PKW",
+    "fileExt": "csv",
+    "transform": "invesco"
+  },
   "name": "BuyBack Achievers™ ETF",
   "ticker": "PKW",
   "Inception": "12/20/2006",
@@ -11,12 +17,7 @@
   "Since Incept.": "7.77",
   "Category": "Factor Access",
   "SubCategory": "Buy Backs",
-  "holdingDataSourceFn": "invesco",
-  "holdingDataSource": {
-    "url": "https://www.invesco.com/us/financial-products/etfs/holdings/main/holdings/0?audienceType=Investor&action=download&ticker=PKW",
-    "fileExt": "csv",
-    "transform": "invesco"
-  },
+  "inferDataFn": "invesco",
   "holdings": [
     {
       "Fund Ticker": "PKW",

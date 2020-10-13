@@ -1,4 +1,10 @@
 {
+  "website": "https://www.invesco.com/us/financial-products/etfs/product-detail?audienceType=Investor&ticker=RYU",
+  "holdingDataSource": {
+    "url": "https://www.invesco.com/us/financial-products/etfs/holdings/main/holdings/0?audienceType=Investor&action=download&ticker=RYU",
+    "fileExt": "csv",
+    "transform": "invesco"
+  },
   "name": "S&P 500® Equal Weight Utilities ETF",
   "ticker": "RYU",
   "Inception": "11/1/2006",
@@ -11,12 +17,7 @@
   "Since Incept.": "7.6",
   "Category": "SP Factor",
   "SubCategory": "Equal Weight Sectors",
-  "holdingDataSourceFn": "invesco",
-  "holdingDataSource": {
-    "url": "https://www.invesco.com/us/financial-products/etfs/holdings/main/holdings/0?audienceType=Investor&action=download&ticker=RYU",
-    "fileExt": "csv",
-    "transform": "invesco"
-  },
+  "inferDataFn": "invesco",
   "holdings": [
     {
       "Fund Ticker": "RYU",

@@ -1,4 +1,10 @@
 {
+  "website": "https://www.invesco.com/us/financial-products/etfs/product-detail?audienceType=Investor&ticker=PBDM",
+  "holdingDataSource": {
+    "url": "https://www.invesco.com/us/financial-products/etfs/holdings/main/holdings/0?audienceType=Investor&action=download&ticker=PBDM",
+    "fileExt": "csv",
+    "transform": "invesco"
+  },
   "name": "PureBeta℠ FTSE Developed ex-North America ETF",
   "ticker": "PBDM",
   "Inception": "9/22/2017",
@@ -11,12 +17,7 @@
   "Since Incept.": "0.67",
   "Category": "Bulk Beta",
   "SubCategory": "PureBeta",
-  "holdingDataSourceFn": "invesco",
-  "holdingDataSource": {
-    "url": "https://www.invesco.com/us/financial-products/etfs/holdings/main/holdings/0?audienceType=Investor&action=download&ticker=PBDM",
-    "fileExt": "csv",
-    "transform": "invesco"
-  },
+  "inferDataFn": "invesco",
   "holdings": [
     {
       "Fund Ticker": "PBDM",

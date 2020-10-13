@@ -1,4 +1,10 @@
 {
+  "website": "https://www.invesco.com/us/financial-products/etfs/product-detail?audienceType=Investor&ticker=RWK",
+  "holdingDataSource": {
+    "url": "https://www.invesco.com/us/financial-products/etfs/holdings/main/holdings/0?audienceType=Investor&action=download&ticker=RWK",
+    "fileExt": "csv",
+    "transform": "invesco"
+  },
   "name": "S&P MidCap 400 Revenue ETF",
   "ticker": "RWK",
   "Inception": "2/20/2008",
@@ -11,12 +17,7 @@
   "Since Incept.": "7.51",
   "Category": "Thematic",
   "SubCategory": "Access",
-  "holdingDataSourceFn": "invesco",
-  "holdingDataSource": {
-    "url": "https://www.invesco.com/us/financial-products/etfs/holdings/main/holdings/0?audienceType=Investor&action=download&ticker=RWK",
-    "fileExt": "csv",
-    "transform": "invesco"
-  },
+  "inferDataFn": "invesco",
   "holdings": [
     {
       "Fund Ticker": "RWK",

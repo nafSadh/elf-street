@@ -1,4 +1,10 @@
 {
+  "website": "https://www.invesco.com/us/financial-products/etfs/product-detail?audienceType=Investor&ticker=XSLV",
+  "holdingDataSource": {
+    "url": "https://www.invesco.com/us/financial-products/etfs/holdings/main/holdings/0?audienceType=Investor&action=download&ticker=XSLV",
+    "fileExt": "csv",
+    "transform": "invesco"
+  },
   "name": "S&P SmallCap Low Volatility ETF",
   "ticker": "XSLV",
   "Inception": "2/15/2013",
@@ -11,12 +17,7 @@
   "Since Incept.": "6.18",
   "Category": "SP Factor",
   "SubCategory": "Low Volatility",
-  "holdingDataSourceFn": "invesco",
-  "holdingDataSource": {
-    "url": "https://www.invesco.com/us/financial-products/etfs/holdings/main/holdings/0?audienceType=Investor&action=download&ticker=XSLV",
-    "fileExt": "csv",
-    "transform": "invesco"
-  },
+  "inferDataFn": "invesco",
   "holdings": [
     {
       "Fund Ticker": "XSLV",

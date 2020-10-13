@@ -1,4 +1,10 @@
 {
+  "website": "https://www.invesco.com/us/financial-products/etfs/product-detail?audienceType=Investor&ticker=PSCU",
+  "holdingDataSource": {
+    "url": "https://www.invesco.com/us/financial-products/etfs/holdings/main/holdings/0?audienceType=Investor&action=download&ticker=PSCU",
+    "fileExt": "csv",
+    "transform": "invesco"
+  },
   "name": "S&P SmallCap Utilities & Communication Services ETF",
   "ticker": "PSCU",
   "Inception": "4/7/2010",
@@ -11,12 +17,7 @@
   "Since Incept.": "8.89",
   "Category": "Bulk Beta",
   "SubCategory": "Small Cap Sectors",
-  "holdingDataSourceFn": "invesco",
-  "holdingDataSource": {
-    "url": "https://www.invesco.com/us/financial-products/etfs/holdings/main/holdings/0?audienceType=Investor&action=download&ticker=PSCU",
-    "fileExt": "csv",
-    "transform": "invesco"
-  },
+  "inferDataFn": "invesco",
   "holdings": [
     {
       "Fund Ticker": "PSCU",

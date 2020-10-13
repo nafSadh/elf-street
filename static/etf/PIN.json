@@ -1,4 +1,10 @@
 {
+  "website": "https://www.invesco.com/us/financial-products/etfs/product-detail?audienceType=Investor&ticker=PIN",
+  "holdingDataSource": {
+    "url": "https://www.invesco.com/us/financial-products/etfs/holdings/main/holdings/0?audienceType=Investor&action=download&ticker=PIN",
+    "fileExt": "csv",
+    "transform": "invesco"
+  },
   "name": "India ETF",
   "ticker": "PIN",
   "Inception": "3/5/2008",
@@ -11,12 +17,7 @@
   "Since Incept.": "0.81",
   "Category": "Bulk Beta",
   "SubCategory": "International",
-  "holdingDataSourceFn": "invesco",
-  "holdingDataSource": {
-    "url": "https://www.invesco.com/us/financial-products/etfs/holdings/main/holdings/0?audienceType=Investor&action=download&ticker=PIN",
-    "fileExt": "csv",
-    "transform": "invesco"
-  },
+  "inferDataFn": "invesco",
   "holdings": [
     {
       "Fund Ticker": "PIN",

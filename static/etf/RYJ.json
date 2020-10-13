@@ -1,4 +1,10 @@
 {
+  "website": "https://www.invesco.com/us/financial-products/etfs/product-detail?audienceType=Investor&ticker=RYJ",
+  "holdingDataSource": {
+    "url": "https://www.invesco.com/us/financial-products/etfs/holdings/main/holdings/0?audienceType=Investor&action=download&ticker=RYJ",
+    "fileExt": "csv",
+    "transform": "invesco"
+  },
   "name": "Raymond James SB-1 Equity ETF",
   "ticker": "RYJ",
   "Inception": "5/19/2006",
@@ -11,12 +17,7 @@
   "Since Incept.": "6.35",
   "Category": "Thematic",
   "SubCategory": "Access",
-  "holdingDataSourceFn": "invesco",
-  "holdingDataSource": {
-    "url": "https://www.invesco.com/us/financial-products/etfs/holdings/main/holdings/0?audienceType=Investor&action=download&ticker=RYJ",
-    "fileExt": "csv",
-    "transform": "invesco"
-  },
+  "inferDataFn": "invesco",
   "holdings": [
     {
       "Fund Ticker": "RYJ",

@@ -1,4 +1,10 @@
 {
+  "website": "https://www.invesco.com/us/financial-products/etfs/product-detail?audienceType=Investor&ticker=PDBC",
+  "holdingDataSource": {
+    "url": "https://www.invesco.com/us/financial-products/etfs/holdings/main/holdings/0?audienceType=Investor&action=download&ticker=PDBC",
+    "fileExt": "csv",
+    "transform": "invesco"
+  },
   "name": "Invesco Optimum Yield Diversified Commodity Strategy No K-1 ETF",
   "ticker": "PDBC",
   "Inception": "11/7/2014",
@@ -11,12 +17,7 @@
   "Since Incept.": "-7.83",
   "Category": "Alternatives",
   "SubCategory": "Commodities",
-  "holdingDataSourceFn": "invesco",
-  "holdingDataSource": {
-    "url": "https://www.invesco.com/us/financial-products/etfs/holdings/main/holdings/0?audienceType=Investor&action=download&ticker=PDBC",
-    "fileExt": "csv",
-    "transform": "invesco"
-  },
+  "inferDataFn": "invesco",
   "holdings": [
     {
       "Fund Ticker": "PDBC",

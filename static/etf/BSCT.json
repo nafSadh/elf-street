@@ -1,4 +1,10 @@
 {
+  "website": "https://www.invesco.com/us/financial-products/etfs/product-detail?audienceType=Investor&ticker=BSCT",
+  "holdingDataSource": {
+    "url": "https://www.invesco.com/us/financial-products/etfs/holdings/main/holdings/0?audienceType=Investor&action=download&ticker=BSCT",
+    "fileExt": "csv",
+    "transform": "invesco"
+  },
   "name": "BulletShares 2029 Corporate Bond ETF",
   "ticker": "BSCT",
   "Inception": "9/12/2019",
@@ -11,12 +17,7 @@
   "Since Incept.": "10.21",
   "Category": "Income",
   "SubCategory": "BulletShares",
-  "holdingDataSourceFn": "invesco",
-  "holdingDataSource": {
-    "url": "https://www.invesco.com/us/financial-products/etfs/holdings/main/holdings/0?audienceType=Investor&action=download&ticker=BSCT",
-    "fileExt": "csv",
-    "transform": "invesco"
-  },
+  "inferDataFn": "invesco",
   "holdings": [
     {
       "Fund Ticker": "BSCT",

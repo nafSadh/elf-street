@@ -1,4 +1,10 @@
 {
+  "website": "https://www.invesco.com/us/financial-products/etfs/product-detail?audienceType=Investor&ticker=PIO",
+  "holdingDataSource": {
+    "url": "https://www.invesco.com/us/financial-products/etfs/holdings/main/holdings/0?audienceType=Investor&action=download&ticker=PIO",
+    "fileExt": "csv",
+    "transform": "invesco"
+  },
   "name": "Global Water ETF",
   "ticker": "PIO",
   "Inception": "6/13/2007",
@@ -11,12 +17,7 @@
   "Since Incept.": "3.3",
   "Category": "Thematic",
   "SubCategory": "Sustainable",
-  "holdingDataSourceFn": "invesco",
-  "holdingDataSource": {
-    "url": "https://www.invesco.com/us/financial-products/etfs/holdings/main/holdings/0?audienceType=Investor&action=download&ticker=PIO",
-    "fileExt": "csv",
-    "transform": "invesco"
-  },
+  "inferDataFn": "invesco",
   "holdings": [
     {
       "Fund Ticker": "PIO",

@@ -1,4 +1,10 @@
 {
+  "website": "https://www.invesco.com/us/financial-products/etfs/product-detail?audienceType=Investor&ticker=BSJQ",
+  "holdingDataSource": {
+    "url": "https://www.invesco.com/us/financial-products/etfs/holdings/main/holdings/0?audienceType=Investor&action=download&ticker=BSJQ",
+    "fileExt": "csv",
+    "transform": "invesco"
+  },
   "name": "BulletShares 2026 High Yield Corporate Bond ETF",
   "ticker": "BSJQ",
   "Inception": "8/9/2018",
@@ -11,12 +17,7 @@
   "Since Incept.": "4.68",
   "Category": "Income",
   "SubCategory": "BulletShares",
-  "holdingDataSourceFn": "invesco",
-  "holdingDataSource": {
-    "url": "https://www.invesco.com/us/financial-products/etfs/holdings/main/holdings/0?audienceType=Investor&action=download&ticker=BSJQ",
-    "fileExt": "csv",
-    "transform": "invesco"
-  },
+  "inferDataFn": "invesco",
   "holdings": [
     {
       "Fund Ticker": "BSJQ",

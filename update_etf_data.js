@@ -63,6 +63,23 @@ const holdingDataSourceFn = {
   },
 }
 
+const inferDataFn = {
+  invesco: function (etf) {
+    return {
+      website:
+        'https://www.invesco.com/us/financial-products/etfs/product-detail?audienceType=Investor&ticker=' +
+        etf.ticker,
+      holdingDataSource: {
+        url:
+          'https://www.invesco.com/us/financial-products/etfs/holdings/main/holdings/0?audienceType=Investor&action=download&ticker=' +
+          etf.ticker,
+        fileExt: 'csv',
+        transform: 'invesco',
+      },
+    }
+  },
+}
+
 function downloadFile(url, path, processData) {
   const file = fs.createWriteStream(path)
   const chunks = []
@@ -77,11 +94,11 @@ function downloadFile(url, path, processData) {
     })
 }
 
-for (const etf of etfMetadata.ETFs) {
+for (let etf of etfMetadata.ETFs) {
   if (!etf.ticker) continue
-  if (etf.holdingDataSourceFn) {
-    const fn = holdingDataSourceFn[etf.holdingDataSourceFn]
-    etf.holdingDataSource = fn(etf.ticker)
+  if (etf.inferDataFn) {
+    const fn = inferDataFn[etf.inferDataFn]
+    etf = Object.assign(fn(etf), etf)
   }
   if (etf.holdingDataSource && etf.holdingDataSource.url) {
     const filepath =

@@ -1,4 +1,10 @@
 {
+  "website": "https://www.invesco.com/us/financial-products/etfs/product-detail?audienceType=Investor&ticker=FXB",
+  "holdingDataSource": {
+    "url": "https://www.invesco.com/us/financial-products/etfs/holdings/main/holdings/0?audienceType=Investor&action=download&ticker=FXB",
+    "fileExt": "csv",
+    "transform": "invesco"
+  },
   "name": "CurrencyShares® British Pound Sterling Trust ",
   "ticker": "FXB",
   "Inception": "6/21/2006",
@@ -11,11 +17,6 @@
   "Since Incept.": "-1.95",
   "Category": "Alternatives",
   "SubCategory": "Currencies",
-  "holdingDataSourceFn": "invesco",
-  "holdingDataSource": {
-    "url": "https://www.invesco.com/us/financial-products/etfs/holdings/main/holdings/0?audienceType=Investor&action=download&ticker=FXB",
-    "fileExt": "csv",
-    "transform": "invesco"
-  },
+  "inferDataFn": "invesco",
   "holdings": []
 }

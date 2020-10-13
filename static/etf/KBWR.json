@@ -1,4 +1,10 @@
 {
+  "website": "https://www.invesco.com/us/financial-products/etfs/product-detail?audienceType=Investor&ticker=KBWR",
+  "holdingDataSource": {
+    "url": "https://www.invesco.com/us/financial-products/etfs/holdings/main/holdings/0?audienceType=Investor&action=download&ticker=KBWR",
+    "fileExt": "csv",
+    "transform": "invesco"
+  },
   "name": "KBW Regional Banking ETF",
   "ticker": "KBWR",
   "Inception": "11/1/2011",
@@ -11,12 +17,7 @@
   "Since Incept.": "6.32",
   "Category": "Bulk Beta",
   "SubCategory": "Financial Sector",
-  "holdingDataSourceFn": "invesco",
-  "holdingDataSource": {
-    "url": "https://www.invesco.com/us/financial-products/etfs/holdings/main/holdings/0?audienceType=Investor&action=download&ticker=KBWR",
-    "fileExt": "csv",
-    "transform": "invesco"
-  },
+  "inferDataFn": "invesco",
   "holdings": [
     {
       "Fund Ticker": "KBWR",

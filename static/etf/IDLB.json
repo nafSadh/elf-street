@@ -1,4 +1,10 @@
 {
+  "website": "https://www.invesco.com/us/financial-products/etfs/product-detail?audienceType=Investor&ticker=IDLB",
+  "holdingDataSource": {
+    "url": "https://www.invesco.com/us/financial-products/etfs/holdings/main/holdings/0?audienceType=Investor&action=download&ticker=IDLB",
+    "fileExt": "csv",
+    "transform": "invesco"
+  },
   "name": "FTSE International Low Beta Equal Weight ETF",
   "ticker": "IDLB",
   "Inception": "11/5/2015",
@@ -11,12 +17,7 @@
   "Since Incept.": "4.23",
   "Category": "Multi Factor",
   "SubCategory": "Equal Weight",
-  "holdingDataSourceFn": "invesco",
-  "holdingDataSource": {
-    "url": "https://www.invesco.com/us/financial-products/etfs/holdings/main/holdings/0?audienceType=Investor&action=download&ticker=IDLB",
-    "fileExt": "csv",
-    "transform": "invesco"
-  },
+  "inferDataFn": "invesco",
   "holdings": [
     {
       "Fund Ticker": "IDLB",

@@ -1,4 +1,10 @@
 {
+  "website": "https://www.invesco.com/us/financial-products/etfs/product-detail?audienceType=Investor&ticker=PWB",
+  "holdingDataSource": {
+    "url": "https://www.invesco.com/us/financial-products/etfs/holdings/main/holdings/0?audienceType=Investor&action=download&ticker=PWB",
+    "fileExt": "csv",
+    "transform": "invesco"
+  },
   "name": "Dynamic Large Cap Growth ETF",
   "ticker": "PWB",
   "Inception": "3/3/2005",
@@ -11,12 +17,7 @@
   "Since Incept.": "10.26",
   "Category": "Multi Factor",
   "SubCategory": "Intellidex",
-  "holdingDataSourceFn": "invesco",
-  "holdingDataSource": {
-    "url": "https://www.invesco.com/us/financial-products/etfs/holdings/main/holdings/0?audienceType=Investor&action=download&ticker=PWB",
-    "fileExt": "csv",
-    "transform": "invesco"
-  },
+  "inferDataFn": "invesco",
   "holdings": [
     {
       "Fund Ticker": "PWB",

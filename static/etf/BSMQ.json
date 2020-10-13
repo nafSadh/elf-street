@@ -1,4 +1,10 @@
 {
+  "website": "https://www.invesco.com/us/financial-products/etfs/product-detail?audienceType=Investor&ticker=BSMQ",
+  "holdingDataSource": {
+    "url": "https://www.invesco.com/us/financial-products/etfs/holdings/main/holdings/0?audienceType=Investor&action=download&ticker=BSMQ",
+    "fileExt": "csv",
+    "transform": "invesco"
+  },
   "name": "BulletShares 2026 Municpal Bond ETF",
   "ticker": "BSMQ",
   "Inception": "9/25/2019",
@@ -11,12 +17,7 @@
   "Since Incept.": "3.38",
   "Category": "Income",
   "SubCategory": "BulletShares",
-  "holdingDataSourceFn": "invesco",
-  "holdingDataSource": {
-    "url": "https://www.invesco.com/us/financial-products/etfs/holdings/main/holdings/0?audienceType=Investor&action=download&ticker=BSMQ",
-    "fileExt": "csv",
-    "transform": "invesco"
-  },
+  "inferDataFn": "invesco",
   "holdings": [
     {
       "Fund Ticker": "BSMQ",

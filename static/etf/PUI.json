@@ -1,4 +1,10 @@
 {
+  "website": "https://www.invesco.com/us/financial-products/etfs/product-detail?audienceType=Investor&ticker=PUI",
+  "holdingDataSource": {
+    "url": "https://www.invesco.com/us/financial-products/etfs/holdings/main/holdings/0?audienceType=Investor&action=download&ticker=PUI",
+    "fileExt": "csv",
+    "transform": "invesco"
+  },
   "name": "DWA Utilities Momentum ETF",
   "ticker": "PUI",
   "Inception": "10/26/2005",
@@ -11,12 +17,7 @@
   "Since Incept.": "7.46",
   "Category": "Factor Access",
   "SubCategory": "Dorsey Wright Sectors",
-  "holdingDataSourceFn": "invesco",
-  "holdingDataSource": {
-    "url": "https://www.invesco.com/us/financial-products/etfs/holdings/main/holdings/0?audienceType=Investor&action=download&ticker=PUI",
-    "fileExt": "csv",
-    "transform": "invesco"
-  },
+  "inferDataFn": "invesco",
   "holdings": [
     {
       "Fund Ticker": "PUI",

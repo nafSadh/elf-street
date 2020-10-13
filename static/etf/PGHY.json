@@ -1,4 +1,10 @@
 {
+  "website": "https://www.invesco.com/us/financial-products/etfs/product-detail?audienceType=Investor&ticker=PGHY",
+  "holdingDataSource": {
+    "url": "https://www.invesco.com/us/financial-products/etfs/holdings/main/holdings/0?audienceType=Investor&action=download&ticker=PGHY",
+    "fileExt": "csv",
+    "transform": "invesco"
+  },
   "name": "Global Short Term High Yield Bond ETF",
   "ticker": "PGHY",
   "Inception": "6/20/2013",
@@ -11,12 +17,7 @@
   "Since Incept.": "3.46",
   "Category": "Income",
   "SubCategory": "Core Plus",
-  "holdingDataSourceFn": "invesco",
-  "holdingDataSource": {
-    "url": "https://www.invesco.com/us/financial-products/etfs/holdings/main/holdings/0?audienceType=Investor&action=download&ticker=PGHY",
-    "fileExt": "csv",
-    "transform": "invesco"
-  },
+  "inferDataFn": "invesco",
   "holdings": [
     {
       "Fund Ticker": "PGHY",

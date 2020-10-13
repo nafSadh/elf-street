@@ -1,4 +1,10 @@
 {
+  "website": "https://www.invesco.com/us/financial-products/etfs/product-detail?audienceType=Investor&ticker=RHS",
+  "holdingDataSource": {
+    "url": "https://www.invesco.com/us/financial-products/etfs/holdings/main/holdings/0?audienceType=Investor&action=download&ticker=RHS",
+    "fileExt": "csv",
+    "transform": "invesco"
+  },
   "name": "S&P 500® Equal Weight Consumer Staples ETF",
   "ticker": "RHS",
   "Inception": "11/1/2006",
@@ -11,12 +17,7 @@
   "Since Incept.": "10.38",
   "Category": "SP Factor",
   "SubCategory": "Equal Weight Sectors",
-  "holdingDataSourceFn": "invesco",
-  "holdingDataSource": {
-    "url": "https://www.invesco.com/us/financial-products/etfs/holdings/main/holdings/0?audienceType=Investor&action=download&ticker=RHS",
-    "fileExt": "csv",
-    "transform": "invesco"
-  },
+  "inferDataFn": "invesco",
   "holdings": [
     {
       "Fund Ticker": "RHS",

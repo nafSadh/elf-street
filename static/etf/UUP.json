@@ -1,4 +1,10 @@
 {
+  "website": "https://www.invesco.com/us/financial-products/etfs/product-detail?audienceType=Investor&ticker=UUP",
+  "holdingDataSource": {
+    "url": "https://www.invesco.com/us/financial-products/etfs/holdings/main/holdings/0?audienceType=Investor&action=download&ticker=UUP",
+    "fileExt": "csv",
+    "transform": "invesco"
+  },
   "name": "DB US Dollar Index Bullish Fund",
   "ticker": "UUP",
   "Inception": "2/20/2007",
@@ -11,12 +17,7 @@
   "Since Incept.": "0.43",
   "Category": "Alternatives",
   "SubCategory": "Currencies",
-  "holdingDataSourceFn": "invesco",
-  "holdingDataSource": {
-    "url": "https://www.invesco.com/us/financial-products/etfs/holdings/main/holdings/0?audienceType=Investor&action=download&ticker=UUP",
-    "fileExt": "csv",
-    "transform": "invesco"
-  },
+  "inferDataFn": "invesco",
   "holdings": [
     {
       "Fund Ticker": "UUP",

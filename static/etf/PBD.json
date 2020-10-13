@@ -1,4 +1,10 @@
 {
+  "website": "https://www.invesco.com/us/financial-products/etfs/product-detail?audienceType=Investor&ticker=PBD",
+  "holdingDataSource": {
+    "url": "https://www.invesco.com/us/financial-products/etfs/holdings/main/holdings/0?audienceType=Investor&action=download&ticker=PBD",
+    "fileExt": "csv",
+    "transform": "invesco"
+  },
   "name": "Global Clean Energy ETF",
   "ticker": "PBD",
   "Inception": "6/13/2007",
@@ -11,12 +17,7 @@
   "Since Incept.": "0.14",
   "Category": "Thematic",
   "SubCategory": "Sustainable",
-  "holdingDataSourceFn": "invesco",
-  "holdingDataSource": {
-    "url": "https://www.invesco.com/us/financial-products/etfs/holdings/main/holdings/0?audienceType=Investor&action=download&ticker=PBD",
-    "fileExt": "csv",
-    "transform": "invesco"
-  },
+  "inferDataFn": "invesco",
   "holdings": [
     {
       "Fund Ticker": "PBD",

@@ -1,4 +1,10 @@
 {
+  "website": "https://www.invesco.com/us/financial-products/etfs/product-detail?audienceType=Investor&ticker=SPMV",
+  "holdingDataSource": {
+    "url": "https://www.invesco.com/us/financial-products/etfs/holdings/main/holdings/0?audienceType=Investor&action=download&ticker=SPMV",
+    "fileExt": "csv",
+    "transform": "invesco"
+  },
   "name": "S&P 500 Minimum Variance ETF",
   "ticker": "SPMV",
   "Inception": "7/13/2017",
@@ -11,12 +17,7 @@
   "Since Incept.": "11.04",
   "Category": "Multi Factor",
   "SubCategory": "Minimum Volatility",
-  "holdingDataSourceFn": "invesco",
-  "holdingDataSource": {
-    "url": "https://www.invesco.com/us/financial-products/etfs/holdings/main/holdings/0?audienceType=Investor&action=download&ticker=SPMV",
-    "fileExt": "csv",
-    "transform": "invesco"
-  },
+  "inferDataFn": "invesco",
   "holdings": [
     {
       "Fund Ticker": "SPMV",

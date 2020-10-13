@@ -1,4 +1,10 @@
 {
+  "website": "https://www.invesco.com/us/financial-products/etfs/product-detail?audienceType=Investor&ticker=PFM",
+  "holdingDataSource": {
+    "url": "https://www.invesco.com/us/financial-products/etfs/holdings/main/holdings/0?audienceType=Investor&action=download&ticker=PFM",
+    "fileExt": "csv",
+    "transform": "invesco"
+  },
   "name": "Dividend Achievers™ ETF",
   "ticker": "PFM",
   "Inception": "9/15/2005",
@@ -11,12 +17,7 @@
   "Since Incept.": "7.19",
   "Category": "Factor Access",
   "SubCategory": "Dividend Achievers",
-  "holdingDataSourceFn": "invesco",
-  "holdingDataSource": {
-    "url": "https://www.invesco.com/us/financial-products/etfs/holdings/main/holdings/0?audienceType=Investor&action=download&ticker=PFM",
-    "fileExt": "csv",
-    "transform": "invesco"
-  },
+  "inferDataFn": "invesco",
   "holdings": [
     {
       "Fund Ticker": "PFM",

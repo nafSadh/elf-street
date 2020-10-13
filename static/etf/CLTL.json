@@ -1,4 +1,10 @@
 {
+  "website": "https://www.invesco.com/us/financial-products/etfs/product-detail?audienceType=Investor&ticker=CLTL",
+  "holdingDataSource": {
+    "url": "https://www.invesco.com/us/financial-products/etfs/holdings/main/holdings/0?audienceType=Investor&action=download&ticker=CLTL",
+    "fileExt": "csv",
+    "transform": "invesco"
+  },
   "name": "Treasury Collateral ETF",
   "ticker": "CLTL",
   "Inception": "1/12/2017",
@@ -11,12 +17,7 @@
   "Since Incept.": "1.55",
   "Category": "Income",
   "SubCategory": "Core",
-  "holdingDataSourceFn": "invesco",
-  "holdingDataSource": {
-    "url": "https://www.invesco.com/us/financial-products/etfs/holdings/main/holdings/0?audienceType=Investor&action=download&ticker=CLTL",
-    "fileExt": "csv",
-    "transform": "invesco"
-  },
+  "inferDataFn": "invesco",
   "holdings": [
     {
       "Fund Ticker": "CLTL",

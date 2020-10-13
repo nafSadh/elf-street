@@ -1,4 +1,10 @@
 {
+  "website": "https://www.invesco.com/us/financial-products/etfs/product-detail?audienceType=Investor&ticker=DJD",
+  "holdingDataSource": {
+    "url": "https://www.invesco.com/us/financial-products/etfs/holdings/main/holdings/0?audienceType=Investor&action=download&ticker=DJD",
+    "fileExt": "csv",
+    "transform": "invesco"
+  },
   "name": "Dow Jones Industrial Average Dividend ETF",
   "ticker": "DJD",
   "Inception": "12/16/2015",
@@ -11,12 +17,7 @@
   "Since Incept.": "9.85",
   "Category": "Income",
   "SubCategory": "Equity Income",
-  "holdingDataSourceFn": "invesco",
-  "holdingDataSource": {
-    "url": "https://www.invesco.com/us/financial-products/etfs/holdings/main/holdings/0?audienceType=Investor&action=download&ticker=DJD",
-    "fileExt": "csv",
-    "transform": "invesco"
-  },
+  "inferDataFn": "invesco",
   "holdings": [
     {
       "Fund Ticker": "DJD",

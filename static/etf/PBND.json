@@ -1,4 +1,10 @@
 {
+  "website": "https://www.invesco.com/us/financial-products/etfs/product-detail?audienceType=Investor&ticker=PBND",
+  "holdingDataSource": {
+    "url": "https://www.invesco.com/us/financial-products/etfs/holdings/main/holdings/0?audienceType=Investor&action=download&ticker=PBND",
+    "fileExt": "csv",
+    "transform": "invesco"
+  },
   "name": "PureBeta℠ US Aggregate Bond ETF",
   "ticker": "PBND",
   "Inception": "9/29/2017",
@@ -11,12 +17,7 @@
   "Since Incept.": "5.14",
   "Category": "Bulk Beta",
   "SubCategory": "PureBeta",
-  "holdingDataSourceFn": "invesco",
-  "holdingDataSource": {
-    "url": "https://www.invesco.com/us/financial-products/etfs/holdings/main/holdings/0?audienceType=Investor&action=download&ticker=PBND",
-    "fileExt": "csv",
-    "transform": "invesco"
-  },
+  "inferDataFn": "invesco",
   "holdings": [
     {
       "Fund Ticker": "PBND",

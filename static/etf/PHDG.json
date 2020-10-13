@@ -1,4 +1,10 @@
 {
+  "website": "https://www.invesco.com/us/financial-products/etfs/product-detail?audienceType=Investor&ticker=PHDG",
+  "holdingDataSource": {
+    "url": "https://www.invesco.com/us/financial-products/etfs/holdings/main/holdings/0?audienceType=Investor&action=download&ticker=PHDG",
+    "fileExt": "csv",
+    "transform": "invesco"
+  },
   "name": "S&P 500® Downside Hedged ETF",
   "ticker": "PHDG",
   "Inception": "12/6/2012",
@@ -11,12 +17,7 @@
   "Since Incept.": "5.78",
   "Category": "Alternatives",
   "SubCategory": "Alternative Solutions",
-  "holdingDataSourceFn": "invesco",
-  "holdingDataSource": {
-    "url": "https://www.invesco.com/us/financial-products/etfs/holdings/main/holdings/0?audienceType=Investor&action=download&ticker=PHDG",
-    "fileExt": "csv",
-    "transform": "invesco"
-  },
+  "inferDataFn": "invesco",
   "holdings": [
     {
       "Fund Ticker": "PHDG",

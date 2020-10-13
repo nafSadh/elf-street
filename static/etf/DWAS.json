@@ -1,4 +1,10 @@
 {
+  "website": "https://www.invesco.com/us/financial-products/etfs/product-detail?audienceType=Investor&ticker=DWAS",
+  "holdingDataSource": {
+    "url": "https://www.invesco.com/us/financial-products/etfs/holdings/main/holdings/0?audienceType=Investor&action=download&ticker=DWAS",
+    "fileExt": "csv",
+    "transform": "invesco"
+  },
   "name": "DWA SmallCap Momentum ETF",
   "ticker": "DWAS",
   "Inception": "7/19/2012",
@@ -11,12 +17,7 @@
   "Since Incept.": "11.46",
   "Category": "Factor Access",
   "SubCategory": "Dorsey Wright",
-  "holdingDataSourceFn": "invesco",
-  "holdingDataSource": {
-    "url": "https://www.invesco.com/us/financial-products/etfs/holdings/main/holdings/0?audienceType=Investor&action=download&ticker=DWAS",
-    "fileExt": "csv",
-    "transform": "invesco"
-  },
+  "inferDataFn": "invesco",
   "holdings": [
     {
       "Fund Ticker": "DWAS",

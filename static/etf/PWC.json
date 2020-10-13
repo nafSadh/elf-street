@@ -1,4 +1,10 @@
 {
+  "website": "https://www.invesco.com/us/financial-products/etfs/product-detail?audienceType=Investor&ticker=PWC",
+  "holdingDataSource": {
+    "url": "https://www.invesco.com/us/financial-products/etfs/holdings/main/holdings/0?audienceType=Investor&action=download&ticker=PWC",
+    "fileExt": "csv",
+    "transform": "invesco"
+  },
   "name": "Dynamic Market ETF",
   "ticker": "PWC",
   "Inception": "5/1/2003",
@@ -11,12 +17,7 @@
   "Since Incept.": "8.6",
   "Category": "Multi Factor",
   "SubCategory": "Intellidex",
-  "holdingDataSourceFn": "invesco",
-  "holdingDataSource": {
-    "url": "https://www.invesco.com/us/financial-products/etfs/holdings/main/holdings/0?audienceType=Investor&action=download&ticker=PWC",
-    "fileExt": "csv",
-    "transform": "invesco"
-  },
+  "inferDataFn": "invesco",
   "holdings": [
     {
       "Fund Ticker": "PWC",

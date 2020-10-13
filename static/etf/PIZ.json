@@ -1,4 +1,10 @@
 {
+  "website": "https://www.invesco.com/us/financial-products/etfs/product-detail?audienceType=Investor&ticker=PIZ",
+  "holdingDataSource": {
+    "url": "https://www.invesco.com/us/financial-products/etfs/holdings/main/holdings/0?audienceType=Investor&action=download&ticker=PIZ",
+    "fileExt": "csv",
+    "transform": "invesco"
+  },
   "name": "DWA Developed Markets Momentum ETF",
   "ticker": "PIZ",
   "Inception": "12/28/2007",
@@ -11,12 +17,7 @@
   "Since Incept.": "3.36",
   "Category": "Factor Access",
   "SubCategory": "Dorsey Wright",
-  "holdingDataSourceFn": "invesco",
-  "holdingDataSource": {
-    "url": "https://www.invesco.com/us/financial-products/etfs/holdings/main/holdings/0?audienceType=Investor&action=download&ticker=PIZ",
-    "fileExt": "csv",
-    "transform": "invesco"
-  },
+  "inferDataFn": "invesco",
   "holdings": [
     {
       "Fund Ticker": "PIZ",

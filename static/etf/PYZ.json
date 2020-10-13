@@ -1,4 +1,10 @@
 {
+  "website": "https://www.invesco.com/us/financial-products/etfs/product-detail?audienceType=Investor&ticker=PYZ",
+  "holdingDataSource": {
+    "url": "https://www.invesco.com/us/financial-products/etfs/holdings/main/holdings/0?audienceType=Investor&action=download&ticker=PYZ",
+    "fileExt": "csv",
+    "transform": "invesco"
+  },
   "name": "DWA Basic Materials Momentum ETF",
   "ticker": "PYZ",
   "Inception": "10/12/2006",
@@ -11,12 +17,7 @@
   "Since Incept.": "7.1",
   "Category": "Factor Access",
   "SubCategory": "Dorsey Wright Sectors",
-  "holdingDataSourceFn": "invesco",
-  "holdingDataSource": {
-    "url": "https://www.invesco.com/us/financial-products/etfs/holdings/main/holdings/0?audienceType=Investor&action=download&ticker=PYZ",
-    "fileExt": "csv",
-    "transform": "invesco"
-  },
+  "inferDataFn": "invesco",
   "holdings": [
     {
       "Fund Ticker": "PYZ",

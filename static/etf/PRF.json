@@ -1,4 +1,10 @@
 {
+  "website": "https://www.invesco.com/us/financial-products/etfs/product-detail?audienceType=Investor&ticker=PRF",
+  "holdingDataSource": {
+    "url": "https://www.invesco.com/us/financial-products/etfs/holdings/main/holdings/0?audienceType=Investor&action=download&ticker=PRF",
+    "fileExt": "csv",
+    "transform": "invesco"
+  },
   "name": "FTSE RAFI US 1000 ETF",
   "ticker": "PRF",
   "Inception": "12/19/2005",
@@ -11,12 +17,7 @@
   "Since Incept.": "7.83",
   "Category": "Multi Factor",
   "SubCategory": "RAFI Equity",
-  "holdingDataSourceFn": "invesco",
-  "holdingDataSource": {
-    "url": "https://www.invesco.com/us/financial-products/etfs/holdings/main/holdings/0?audienceType=Investor&action=download&ticker=PRF",
-    "fileExt": "csv",
-    "transform": "invesco"
-  },
+  "inferDataFn": "invesco",
   "holdings": [
     {
       "Fund Ticker": "PRF",

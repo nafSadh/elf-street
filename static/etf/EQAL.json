@@ -1,4 +1,10 @@
 {
+  "website": "https://www.invesco.com/us/financial-products/etfs/product-detail?audienceType=Investor&ticker=EQAL",
+  "holdingDataSource": {
+    "url": "https://www.invesco.com/us/financial-products/etfs/holdings/main/holdings/0?audienceType=Investor&action=download&ticker=EQAL",
+    "fileExt": "csv",
+    "transform": "invesco"
+  },
   "name": "Russell 1000 Equal Weight ETF",
   "ticker": "EQAL",
   "Inception": "12/23/2014",
@@ -11,12 +17,7 @@
   "Since Incept.": "6.05",
   "Category": "Multi Factor",
   "SubCategory": "Equal Weight",
-  "holdingDataSourceFn": "invesco",
-  "holdingDataSource": {
-    "url": "https://www.invesco.com/us/financial-products/etfs/holdings/main/holdings/0?audienceType=Investor&action=download&ticker=EQAL",
-    "fileExt": "csv",
-    "transform": "invesco"
-  },
+  "inferDataFn": "invesco",
   "holdings": [
     {
       "Fund Ticker": "EQAL",

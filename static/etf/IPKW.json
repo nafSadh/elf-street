@@ -1,4 +1,10 @@
 {
+  "website": "https://www.invesco.com/us/financial-products/etfs/product-detail?audienceType=Investor&ticker=IPKW",
+  "holdingDataSource": {
+    "url": "https://www.invesco.com/us/financial-products/etfs/holdings/main/holdings/0?audienceType=Investor&action=download&ticker=IPKW",
+    "fileExt": "csv",
+    "transform": "invesco"
+  },
   "name": "International BuyBack Achievers™ ETF",
   "ticker": "IPKW",
   "Inception": "2/27/2014",
@@ -11,12 +17,7 @@
   "Since Incept.": "5.65",
   "Category": "Factor Access",
   "SubCategory": "Buy Backs",
-  "holdingDataSourceFn": "invesco",
-  "holdingDataSource": {
-    "url": "https://www.invesco.com/us/financial-products/etfs/holdings/main/holdings/0?audienceType=Investor&action=download&ticker=IPKW",
-    "fileExt": "csv",
-    "transform": "invesco"
-  },
+  "inferDataFn": "invesco",
   "holdings": [
     {
       "Fund Ticker": "IPKW",

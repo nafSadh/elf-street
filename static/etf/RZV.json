@@ -1,4 +1,10 @@
 {
+  "website": "https://www.invesco.com/us/financial-products/etfs/product-detail?audienceType=Investor&ticker=RZV",
+  "holdingDataSource": {
+    "url": "https://www.invesco.com/us/financial-products/etfs/holdings/main/holdings/0?audienceType=Investor&action=download&ticker=RZV",
+    "fileExt": "csv",
+    "transform": "invesco"
+  },
   "name": "S&P SmallCap 600® Pure Value ETF",
   "ticker": "RZV",
   "Inception": "3/1/2006",
@@ -11,12 +17,7 @@
   "Since Incept.": "3.06",
   "Category": "SP Factor",
   "SubCategory": "Pure Styles",
-  "holdingDataSourceFn": "invesco",
-  "holdingDataSource": {
-    "url": "https://www.invesco.com/us/financial-products/etfs/holdings/main/holdings/0?audienceType=Investor&action=download&ticker=RZV",
-    "fileExt": "csv",
-    "transform": "invesco"
-  },
+  "inferDataFn": "invesco",
   "holdings": [
     {
       "Fund Ticker": "RZV",

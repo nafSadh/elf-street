@@ -1,4 +1,10 @@
 {
+  "website": "https://www.invesco.com/us/financial-products/etfs/product-detail?audienceType=Investor&ticker=BKLN",
+  "holdingDataSource": {
+    "url": "https://www.invesco.com/us/financial-products/etfs/holdings/main/holdings/0?audienceType=Investor&action=download&ticker=BKLN",
+    "fileExt": "csv",
+    "transform": "invesco"
+  },
   "name": "Senior Loan ETF",
   "ticker": "BKLN",
   "Inception": "3/3/2011",
@@ -11,12 +17,7 @@
   "Since Incept.": "2.87",
   "Category": "Income",
   "SubCategory": "Core Plus",
-  "holdingDataSourceFn": "invesco",
-  "holdingDataSource": {
-    "url": "https://www.invesco.com/us/financial-products/etfs/holdings/main/holdings/0?audienceType=Investor&action=download&ticker=BKLN",
-    "fileExt": "csv",
-    "transform": "invesco"
-  },
+  "inferDataFn": "invesco",
   "holdings": [
     {
       "Fund Ticker": "BKLN",

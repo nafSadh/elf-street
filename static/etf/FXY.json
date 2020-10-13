@@ -1,4 +1,10 @@
 {
+  "website": "https://www.invesco.com/us/financial-products/etfs/product-detail?audienceType=Investor&ticker=FXY",
+  "holdingDataSource": {
+    "url": "https://www.invesco.com/us/financial-products/etfs/holdings/main/holdings/0?audienceType=Investor&action=download&ticker=FXY",
+    "fileExt": "csv",
+    "transform": "invesco"
+  },
   "name": "CurrencyShares® Japanese Yen Trust ",
   "ticker": "FXY",
   "Inception": "2/12/2007",
@@ -11,11 +17,6 @@
   "Since Incept.": "0.64",
   "Category": "Alternatives",
   "SubCategory": "Currencies",
-  "holdingDataSourceFn": "invesco",
-  "holdingDataSource": {
-    "url": "https://www.invesco.com/us/financial-products/etfs/holdings/main/holdings/0?audienceType=Investor&action=download&ticker=FXY",
-    "fileExt": "csv",
-    "transform": "invesco"
-  },
+  "inferDataFn": "invesco",
   "holdings": []
 }

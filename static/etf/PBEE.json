@@ -1,4 +1,10 @@
 {
+  "website": "https://www.invesco.com/us/financial-products/etfs/product-detail?audienceType=Investor&ticker=PBEE",
+  "holdingDataSource": {
+    "url": "https://www.invesco.com/us/financial-products/etfs/holdings/main/holdings/0?audienceType=Investor&action=download&ticker=PBEE",
+    "fileExt": "csv",
+    "transform": "invesco"
+  },
   "name": "PureBeta℠ FTSE Emerging Markets ETF",
   "ticker": "PBEE",
   "Inception": "9/22/2017",
@@ -11,12 +17,7 @@
   "Since Incept.": "2.15",
   "Category": "Bulk Beta",
   "SubCategory": "PureBeta",
-  "holdingDataSourceFn": "invesco",
-  "holdingDataSource": {
-    "url": "https://www.invesco.com/us/financial-products/etfs/holdings/main/holdings/0?audienceType=Investor&action=download&ticker=PBEE",
-    "fileExt": "csv",
-    "transform": "invesco"
-  },
+  "inferDataFn": "invesco",
   "holdings": [
     {
       "Fund Ticker": "PBEE",

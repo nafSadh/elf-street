@@ -1,4 +1,10 @@
 {
+  "website": "https://www.invesco.com/us/financial-products/etfs/product-detail?audienceType=Investor&ticker=ISDX",
+  "holdingDataSource": {
+    "url": "https://www.invesco.com/us/financial-products/etfs/holdings/main/holdings/0?audienceType=Investor&action=download&ticker=ISDX",
+    "fileExt": "csv",
+    "transform": "invesco"
+  },
   "name": "Strategic Developed ex-US ETF",
   "ticker": "ISDX",
   "Inception": "9/12/2018",
@@ -11,12 +17,7 @@
   "Since Incept.": "-2.59",
   "Category": "Multi Factor",
   "SubCategory": "RAFI Equity",
-  "holdingDataSourceFn": "invesco",
-  "holdingDataSource": {
-    "url": "https://www.invesco.com/us/financial-products/etfs/holdings/main/holdings/0?audienceType=Investor&action=download&ticker=ISDX",
-    "fileExt": "csv",
-    "transform": "invesco"
-  },
+  "inferDataFn": "invesco",
   "holdings": [
     {
       "Fund Ticker": "ISDX",

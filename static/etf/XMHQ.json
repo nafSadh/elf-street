@@ -1,4 +1,10 @@
 {
+  "website": "https://www.invesco.com/us/financial-products/etfs/product-detail?audienceType=Investor&ticker=XMHQ",
+  "holdingDataSource": {
+    "url": "https://www.invesco.com/us/financial-products/etfs/holdings/main/holdings/0?audienceType=Investor&action=download&ticker=XMHQ",
+    "fileExt": "csv",
+    "transform": "invesco"
+  },
   "name": "S&P MidCap Quality ETF",
   "ticker": "XMHQ",
   "Inception": "12/1/2006",
@@ -11,12 +17,7 @@
   "Since Incept.": "6.96",
   "Category": "Multi Factor",
   "SubCategory": "Equal Weight",
-  "holdingDataSourceFn": "invesco",
-  "holdingDataSource": {
-    "url": "https://www.invesco.com/us/financial-products/etfs/holdings/main/holdings/0?audienceType=Investor&action=download&ticker=XMHQ",
-    "fileExt": "csv",
-    "transform": "invesco"
-  },
+  "inferDataFn": "invesco",
   "holdings": [
     {
       "Fund Ticker": "XMHQ",

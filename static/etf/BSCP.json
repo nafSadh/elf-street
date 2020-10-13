@@ -1,4 +1,10 @@
 {
+  "website": "https://www.invesco.com/us/financial-products/etfs/product-detail?audienceType=Investor&ticker=BSCP",
+  "holdingDataSource": {
+    "url": "https://www.invesco.com/us/financial-products/etfs/holdings/main/holdings/0?audienceType=Investor&action=download&ticker=BSCP",
+    "fileExt": "csv",
+    "transform": "invesco"
+  },
   "name": "BulletShares 2025 Corporate Bond ETF",
   "ticker": "BSCP",
   "Inception": "10/7/2015",
@@ -11,12 +17,7 @@
   "Since Incept.": "5.4",
   "Category": "Income",
   "SubCategory": "BulletShares",
-  "holdingDataSourceFn": "invesco",
-  "holdingDataSource": {
-    "url": "https://www.invesco.com/us/financial-products/etfs/holdings/main/holdings/0?audienceType=Investor&action=download&ticker=BSCP",
-    "fileExt": "csv",
-    "transform": "invesco"
-  },
+  "inferDataFn": "invesco",
   "holdings": [
     {
       "Fund Ticker": "BSCP",

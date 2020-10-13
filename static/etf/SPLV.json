@@ -1,4 +1,10 @@
 {
+  "website": "https://www.invesco.com/us/financial-products/etfs/product-detail?audienceType=Investor&ticker=SPLV",
+  "holdingDataSource": {
+    "url": "https://www.invesco.com/us/financial-products/etfs/holdings/main/holdings/0?audienceType=Investor&action=download&ticker=SPLV",
+    "fileExt": "csv",
+    "transform": "invesco"
+  },
   "name": "S&P 500® Low Volatility ETF",
   "ticker": "SPLV",
   "Inception": "5/5/2011",
@@ -11,12 +17,7 @@
   "Since Incept.": "11.28",
   "Category": "SP Factor",
   "SubCategory": "Low Volatility",
-  "holdingDataSourceFn": "invesco",
-  "holdingDataSource": {
-    "url": "https://www.invesco.com/us/financial-products/etfs/holdings/main/holdings/0?audienceType=Investor&action=download&ticker=SPLV",
-    "fileExt": "csv",
-    "transform": "invesco"
-  },
+  "inferDataFn": "invesco",
   "holdings": [
     {
       "Fund Ticker": "SPLV",

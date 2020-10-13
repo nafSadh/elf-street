@@ -1,4 +1,10 @@
 {
+  "website": "https://www.invesco.com/us/financial-products/etfs/product-detail?audienceType=Investor&ticker=DBV",
+  "holdingDataSource": {
+    "url": "https://www.invesco.com/us/financial-products/etfs/holdings/main/holdings/0?audienceType=Investor&action=download&ticker=DBV",
+    "fileExt": "csv",
+    "transform": "invesco"
+  },
   "name": "DB G10 Currency Harvest Fund",
   "ticker": "DBV",
   "Inception": "9/18/2006",
@@ -11,12 +17,7 @@
   "Since Incept.": "0.02",
   "Category": "Alternatives",
   "SubCategory": "Currencies",
-  "holdingDataSourceFn": "invesco",
-  "holdingDataSource": {
-    "url": "https://www.invesco.com/us/financial-products/etfs/holdings/main/holdings/0?audienceType=Investor&action=download&ticker=DBV",
-    "fileExt": "csv",
-    "transform": "invesco"
-  },
+  "inferDataFn": "invesco",
   "holdings": [
     {
       "Fund Ticker": "DBV",

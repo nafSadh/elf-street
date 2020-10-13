@@ -1,4 +1,10 @@
 {
+  "website": "https://www.invesco.com/us/financial-products/etfs/product-detail?audienceType=Investor&ticker=SPHQ",
+  "holdingDataSource": {
+    "url": "https://www.invesco.com/us/financial-products/etfs/holdings/main/holdings/0?audienceType=Investor&action=download&ticker=SPHQ",
+    "fileExt": "csv",
+    "transform": "invesco"
+  },
   "name": "S&P 500® Quality ETF",
   "ticker": "SPHQ",
   "Inception": "12/6/2005",
@@ -11,12 +17,7 @@
   "Since Incept.": "7.73",
   "Category": "SP Factor",
   "SubCategory": "Quality",
-  "holdingDataSourceFn": "invesco",
-  "holdingDataSource": {
-    "url": "https://www.invesco.com/us/financial-products/etfs/holdings/main/holdings/0?audienceType=Investor&action=download&ticker=SPHQ",
-    "fileExt": "csv",
-    "transform": "invesco"
-  },
+  "inferDataFn": "invesco",
   "holdings": [
     {
       "Fund Ticker": "SPHQ",

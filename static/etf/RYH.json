@@ -1,4 +1,10 @@
 {
+  "website": "https://www.invesco.com/us/financial-products/etfs/product-detail?audienceType=Investor&ticker=RYH",
+  "holdingDataSource": {
+    "url": "https://www.invesco.com/us/financial-products/etfs/holdings/main/holdings/0?audienceType=Investor&action=download&ticker=RYH",
+    "fileExt": "csv",
+    "transform": "invesco"
+  },
   "name": "S&P 500® Equal Weight Health Care ETF",
   "ticker": "RYH",
   "Inception": "11/1/2006",
@@ -11,12 +17,7 @@
   "Since Incept.": "12.48",
   "Category": "SP Factor",
   "SubCategory": "Equal Weight Sectors",
-  "holdingDataSourceFn": "invesco",
-  "holdingDataSource": {
-    "url": "https://www.invesco.com/us/financial-products/etfs/holdings/main/holdings/0?audienceType=Investor&action=download&ticker=RYH",
-    "fileExt": "csv",
-    "transform": "invesco"
-  },
+  "inferDataFn": "invesco",
   "holdings": [
     {
       "Fund Ticker": "RYH",

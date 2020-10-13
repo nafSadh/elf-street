@@ -1,4 +1,10 @@
 {
+  "website": "https://www.invesco.com/us/financial-products/etfs/product-detail?audienceType=Investor&ticker=IIGV",
+  "holdingDataSource": {
+    "url": "https://www.invesco.com/us/financial-products/etfs/holdings/main/holdings/0?audienceType=Investor&action=download&ticker=IIGV",
+    "fileExt": "csv",
+    "transform": "invesco"
+  },
   "name": "Investment Grade Value ETF",
   "ticker": "IIGV",
   "Inception": "7/25/2018",
@@ -11,12 +17,7 @@
   "Since Incept.": "9.22",
   "Category": "Multi Factor",
   "SubCategory": "RAFI Fixed Income",
-  "holdingDataSourceFn": "invesco",
-  "holdingDataSource": {
-    "url": "https://www.invesco.com/us/financial-products/etfs/holdings/main/holdings/0?audienceType=Investor&action=download&ticker=IIGV",
-    "fileExt": "csv",
-    "transform": "invesco"
-  },
+  "inferDataFn": "invesco",
   "holdings": [
     {
       "Fund Ticker": "IIGV",

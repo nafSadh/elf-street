@@ -1,4 +1,10 @@
 {
+  "website": "https://www.invesco.com/us/financial-products/etfs/product-detail?audienceType=Investor&ticker=PZT",
+  "holdingDataSource": {
+    "url": "https://www.invesco.com/us/financial-products/etfs/holdings/main/holdings/0?audienceType=Investor&action=download&ticker=PZT",
+    "fileExt": "csv",
+    "transform": "invesco"
+  },
   "name": "New York AMT-Free Municipal Bond ETF",
   "ticker": "PZT",
   "Inception": "10/11/2007",
@@ -11,12 +17,7 @@
   "Since Incept.": "4.04",
   "Category": "Income",
   "SubCategory": "Tax Free",
-  "holdingDataSourceFn": "invesco",
-  "holdingDataSource": {
-    "url": "https://www.invesco.com/us/financial-products/etfs/holdings/main/holdings/0?audienceType=Investor&action=download&ticker=PZT",
-    "fileExt": "csv",
-    "transform": "invesco"
-  },
+  "inferDataFn": "invesco",
   "holdings": [
     {
       "Fund Ticker": "PZT",

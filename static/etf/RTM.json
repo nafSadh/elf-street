@@ -1,4 +1,10 @@
 {
+  "website": "https://www.invesco.com/us/financial-products/etfs/product-detail?audienceType=Investor&ticker=RTM",
+  "holdingDataSource": {
+    "url": "https://www.invesco.com/us/financial-products/etfs/holdings/main/holdings/0?audienceType=Investor&action=download&ticker=RTM",
+    "fileExt": "csv",
+    "transform": "invesco"
+  },
   "name": "S&P 500® Equal Weight Materials ETF",
   "ticker": "RTM",
   "Inception": "11/1/2006",
@@ -11,12 +17,7 @@
   "Since Incept.": "8.46",
   "Category": "SP Factor",
   "SubCategory": "Equal Weight Sectors",
-  "holdingDataSourceFn": "invesco",
-  "holdingDataSource": {
-    "url": "https://www.invesco.com/us/financial-products/etfs/holdings/main/holdings/0?audienceType=Investor&action=download&ticker=RTM",
-    "fileExt": "csv",
-    "transform": "invesco"
-  },
+  "inferDataFn": "invesco",
   "holdings": [
     {
       "Fund Ticker": "RTM",

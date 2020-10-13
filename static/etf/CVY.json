@@ -1,4 +1,10 @@
 {
+  "website": "https://www.invesco.com/us/financial-products/etfs/product-detail?audienceType=Investor&ticker=CVY",
+  "holdingDataSource": {
+    "url": "https://www.invesco.com/us/financial-products/etfs/holdings/main/holdings/0?audienceType=Investor&action=download&ticker=CVY",
+    "fileExt": "csv",
+    "transform": "invesco"
+  },
   "name": "Zacks Multi-Asset Income ETF",
   "ticker": "CVY",
   "Inception": "9/21/2006",
@@ -11,12 +17,7 @@
   "Since Incept.": "2.22",
   "Category": "Income",
   "SubCategory": "Equity Income",
-  "holdingDataSourceFn": "invesco",
-  "holdingDataSource": {
-    "url": "https://www.invesco.com/us/financial-products/etfs/holdings/main/holdings/0?audienceType=Investor&action=download&ticker=CVY",
-    "fileExt": "csv",
-    "transform": "invesco"
-  },
+  "inferDataFn": "invesco",
   "holdings": [
     {
       "Fund Ticker": "CVY",

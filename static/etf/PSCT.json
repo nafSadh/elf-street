@@ -1,4 +1,10 @@
 {
+  "website": "https://www.invesco.com/us/financial-products/etfs/product-detail?audienceType=Investor&ticker=PSCT",
+  "holdingDataSource": {
+    "url": "https://www.invesco.com/us/financial-products/etfs/holdings/main/holdings/0?audienceType=Investor&action=download&ticker=PSCT",
+    "fileExt": "csv",
+    "transform": "invesco"
+  },
   "name": "S&P SmallCap Information Technology ETF",
   "ticker": "PSCT",
   "Inception": "4/7/2010",
@@ -11,12 +17,7 @@
   "Since Incept.": "12.64",
   "Category": "Bulk Beta",
   "SubCategory": "Small Cap Sectors",
-  "holdingDataSourceFn": "invesco",
-  "holdingDataSource": {
-    "url": "https://www.invesco.com/us/financial-products/etfs/holdings/main/holdings/0?audienceType=Investor&action=download&ticker=PSCT",
-    "fileExt": "csv",
-    "transform": "invesco"
-  },
+  "inferDataFn": "invesco",
   "holdings": [
     {
       "Fund Ticker": "PSCT",

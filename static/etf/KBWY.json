@@ -1,4 +1,10 @@
 {
+  "website": "https://www.invesco.com/us/financial-products/etfs/product-detail?audienceType=Investor&ticker=KBWY",
+  "holdingDataSource": {
+    "url": "https://www.invesco.com/us/financial-products/etfs/holdings/main/holdings/0?audienceType=Investor&action=download&ticker=KBWY",
+    "fileExt": "csv",
+    "transform": "invesco"
+  },
   "name": "KBW Premium Yield Equity REIT ETF",
   "ticker": "KBWY",
   "Inception": "12/2/2010",
@@ -11,12 +17,7 @@
   "Since Incept.": "2.85",
   "Category": "Income",
   "SubCategory": "Equity Income",
-  "holdingDataSourceFn": "invesco",
-  "holdingDataSource": {
-    "url": "https://www.invesco.com/us/financial-products/etfs/holdings/main/holdings/0?audienceType=Investor&action=download&ticker=KBWY",
-    "fileExt": "csv",
-    "transform": "invesco"
-  },
+  "inferDataFn": "invesco",
   "holdings": [
     {
       "Fund Ticker": "KBWY",

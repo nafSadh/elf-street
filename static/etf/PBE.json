@@ -1,4 +1,10 @@
 {
+  "website": "https://www.invesco.com/us/financial-products/etfs/product-detail?audienceType=Investor&ticker=PBE",
+  "holdingDataSource": {
+    "url": "https://www.invesco.com/us/financial-products/etfs/holdings/main/holdings/0?audienceType=Investor&action=download&ticker=PBE",
+    "fileExt": "csv",
+    "transform": "invesco"
+  },
   "name": "Dynamic Biotechnology & Genome ETF",
   "ticker": "PBE",
   "Inception": "6/23/2005",
@@ -11,12 +17,7 @@
   "Since Incept.": "9.46",
   "Category": "Multi Factor",
   "SubCategory": "Intellidex Industries",
-  "holdingDataSourceFn": "invesco",
-  "holdingDataSource": {
-    "url": "https://www.invesco.com/us/financial-products/etfs/holdings/main/holdings/0?audienceType=Investor&action=download&ticker=PBE",
-    "fileExt": "csv",
-    "transform": "invesco"
-  },
+  "inferDataFn": "invesco",
   "holdings": [
     {
       "Fund Ticker": "PBE",

@@ -1,4 +1,10 @@
 {
+  "website": "https://www.invesco.com/us/financial-products/etfs/product-detail?audienceType=Investor&ticker=EWCO",
+  "holdingDataSource": {
+    "url": "https://www.invesco.com/us/financial-products/etfs/holdings/main/holdings/0?audienceType=Investor&action=download&ticker=EWCO",
+    "fileExt": "csv",
+    "transform": "invesco"
+  },
   "name": "S&P 500 Equal Weight Communication Services ETF",
   "ticker": "EWCO",
   "Inception": "11/7/2018",
@@ -11,12 +17,7 @@
   "Since Incept.": "4.36",
   "Category": "SP Factor",
   "SubCategory": "Equal Weight Sectors",
-  "holdingDataSourceFn": "invesco",
-  "holdingDataSource": {
-    "url": "https://www.invesco.com/us/financial-products/etfs/holdings/main/holdings/0?audienceType=Investor&action=download&ticker=EWCO",
-    "fileExt": "csv",
-    "transform": "invesco"
-  },
+  "inferDataFn": "invesco",
   "holdings": [
     {
       "Fund Ticker": "EWCO",

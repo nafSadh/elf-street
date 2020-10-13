@@ -1,4 +1,10 @@
 {
+  "website": "https://www.invesco.com/us/financial-products/etfs/product-detail?audienceType=Investor&ticker=PVI",
+  "holdingDataSource": {
+    "url": "https://www.invesco.com/us/financial-products/etfs/holdings/main/holdings/0?audienceType=Investor&action=download&ticker=PVI",
+    "fileExt": "csv",
+    "transform": "invesco"
+  },
   "name": "VRDO Tax-Free Weekly ETF",
   "ticker": "PVI",
   "Inception": "11/15/2007",
@@ -11,12 +17,7 @@
   "Since Incept.": "0.7",
   "Category": "Income",
   "SubCategory": "Core Plus",
-  "holdingDataSourceFn": "invesco",
-  "holdingDataSource": {
-    "url": "https://www.invesco.com/us/financial-products/etfs/holdings/main/holdings/0?audienceType=Investor&action=download&ticker=PVI",
-    "fileExt": "csv",
-    "transform": "invesco"
-  },
+  "inferDataFn": "invesco",
   "holdings": [
     {
       "Fund Ticker": "PVI",

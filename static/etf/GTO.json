@@ -1,4 +1,10 @@
 {
+  "website": "https://www.invesco.com/us/financial-products/etfs/product-detail?audienceType=Investor&ticker=GTO",
+  "holdingDataSource": {
+    "url": "https://www.invesco.com/us/financial-products/etfs/holdings/main/holdings/0?audienceType=Investor&action=download&ticker=GTO",
+    "fileExt": "csv",
+    "transform": "invesco"
+  },
   "name": "Total Return Bond ETF",
   "ticker": "GTO",
   "Inception": "2/10/2016",
@@ -11,12 +17,7 @@
   "Since Incept.": "6.74",
   "Category": "Income",
   "SubCategory": "Core Plus",
-  "holdingDataSourceFn": "invesco",
-  "holdingDataSource": {
-    "url": "https://www.invesco.com/us/financial-products/etfs/holdings/main/holdings/0?audienceType=Investor&action=download&ticker=GTO",
-    "fileExt": "csv",
-    "transform": "invesco"
-  },
+  "inferDataFn": "invesco",
   "holdings": [
     {
       "Fund Ticker": "GTO",

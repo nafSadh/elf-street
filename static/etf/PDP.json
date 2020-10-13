@@ -1,4 +1,10 @@
 {
+  "website": "https://www.invesco.com/us/financial-products/etfs/product-detail?audienceType=Investor&ticker=PDP",
+  "holdingDataSource": {
+    "url": "https://www.invesco.com/us/financial-products/etfs/holdings/main/holdings/0?audienceType=Investor&action=download&ticker=PDP",
+    "fileExt": "csv",
+    "transform": "invesco"
+  },
   "name": "DWA Momentum ETF",
   "ticker": "PDP",
   "Inception": "3/1/2007",
@@ -11,12 +17,7 @@
   "Since Incept.": "9.31",
   "Category": "Factor Access",
   "SubCategory": "Dorsey Wright",
-  "holdingDataSourceFn": "invesco",
-  "holdingDataSource": {
-    "url": "https://www.invesco.com/us/financial-products/etfs/holdings/main/holdings/0?audienceType=Investor&action=download&ticker=PDP",
-    "fileExt": "csv",
-    "transform": "invesco"
-  },
+  "inferDataFn": "invesco",
   "holdings": [
     {
       "Fund Ticker": "PDP",

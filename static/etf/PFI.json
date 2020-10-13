@@ -1,4 +1,10 @@
 {
+  "website": "https://www.invesco.com/us/financial-products/etfs/product-detail?audienceType=Investor&ticker=PFI",
+  "holdingDataSource": {
+    "url": "https://www.invesco.com/us/financial-products/etfs/holdings/main/holdings/0?audienceType=Investor&action=download&ticker=PFI",
+    "fileExt": "csv",
+    "transform": "invesco"
+  },
   "name": "DWA Financial Momentum ETF",
   "ticker": "PFI",
   "Inception": "10/12/2006",
@@ -11,12 +17,7 @@
   "Since Incept.": "4.23",
   "Category": "Factor Access",
   "SubCategory": "Dorsey Wright Sectors",
-  "holdingDataSourceFn": "invesco",
-  "holdingDataSource": {
-    "url": "https://www.invesco.com/us/financial-products/etfs/holdings/main/holdings/0?audienceType=Investor&action=download&ticker=PFI",
-    "fileExt": "csv",
-    "transform": "invesco"
-  },
+  "inferDataFn": "invesco",
   "holdings": [
     {
       "Fund Ticker": "PFI",

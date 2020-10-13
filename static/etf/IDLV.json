@@ -1,4 +1,10 @@
 {
+  "website": "https://www.invesco.com/us/financial-products/etfs/product-detail?audienceType=Investor&ticker=IDLV",
+  "holdingDataSource": {
+    "url": "https://www.invesco.com/us/financial-products/etfs/holdings/main/holdings/0?audienceType=Investor&action=download&ticker=IDLV",
+    "fileExt": "csv",
+    "transform": "invesco"
+  },
   "name": "S&P International Developed Low Volatility ETF",
   "ticker": "IDLV",
   "Inception": "1/13/2012",
@@ -11,12 +17,7 @@
   "Since Incept.": "5.24",
   "Category": "SP Factor",
   "SubCategory": "Low Volatility",
-  "holdingDataSourceFn": "invesco",
-  "holdingDataSource": {
-    "url": "https://www.invesco.com/us/financial-products/etfs/holdings/main/holdings/0?audienceType=Investor&action=download&ticker=IDLV",
-    "fileExt": "csv",
-    "transform": "invesco"
-  },
+  "inferDataFn": "invesco",
   "holdings": [
     {
       "Fund Ticker": "IDLV",

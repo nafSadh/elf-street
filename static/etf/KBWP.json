@@ -1,4 +1,10 @@
 {
+  "website": "https://www.invesco.com/us/financial-products/etfs/product-detail?audienceType=Investor&ticker=KBWP",
+  "holdingDataSource": {
+    "url": "https://www.invesco.com/us/financial-products/etfs/holdings/main/holdings/0?audienceType=Investor&action=download&ticker=KBWP",
+    "fileExt": "csv",
+    "transform": "invesco"
+  },
   "name": "KBW Property & Casualty Insurance ETF",
   "ticker": "KBWP",
   "Inception": "12/2/2010",
@@ -11,12 +17,7 @@
   "Since Incept.": "11",
   "Category": "Bulk Beta",
   "SubCategory": "Financial Sector",
-  "holdingDataSourceFn": "invesco",
-  "holdingDataSource": {
-    "url": "https://www.invesco.com/us/financial-products/etfs/holdings/main/holdings/0?audienceType=Investor&action=download&ticker=KBWP",
-    "fileExt": "csv",
-    "transform": "invesco"
-  },
+  "inferDataFn": "invesco",
   "holdings": [
     {
       "Fund Ticker": "KBWP",

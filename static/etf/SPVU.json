@@ -1,4 +1,10 @@
 {
+  "website": "https://www.invesco.com/us/financial-products/etfs/product-detail?audienceType=Investor&ticker=SPVU",
+  "holdingDataSource": {
+    "url": "https://www.invesco.com/us/financial-products/etfs/holdings/main/holdings/0?audienceType=Investor&action=download&ticker=SPVU",
+    "fileExt": "csv",
+    "transform": "invesco"
+  },
   "name": "S&P 500® Enhanced Value ETF",
   "ticker": "SPVU",
   "Inception": "10/9/2015",
@@ -11,12 +17,7 @@
   "Since Incept.": "3.77",
   "Category": "SP Factor",
   "SubCategory": "Value",
-  "holdingDataSourceFn": "invesco",
-  "holdingDataSource": {
-    "url": "https://www.invesco.com/us/financial-products/etfs/holdings/main/holdings/0?audienceType=Investor&action=download&ticker=SPVU",
-    "fileExt": "csv",
-    "transform": "invesco"
-  },
+  "inferDataFn": "invesco",
   "holdings": [
     {
       "Fund Ticker": "SPVU",

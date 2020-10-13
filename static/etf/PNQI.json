@@ -1,4 +1,10 @@
 {
+  "website": "https://www.invesco.com/us/financial-products/etfs/product-detail?audienceType=Investor&ticker=PNQI",
+  "holdingDataSource": {
+    "url": "https://www.invesco.com/us/financial-products/etfs/holdings/main/holdings/0?audienceType=Investor&action=download&ticker=PNQI",
+    "fileExt": "csv",
+    "transform": "invesco"
+  },
   "name": "NASDAQ Internet ETF",
   "ticker": "PNQI",
   "Inception": "6/12/2008",
@@ -11,12 +17,7 @@
   "Since Incept.": "19.14",
   "Category": "Thematic",
   "SubCategory": "Access",
-  "holdingDataSourceFn": "invesco",
-  "holdingDataSource": {
-    "url": "https://www.invesco.com/us/financial-products/etfs/holdings/main/holdings/0?audienceType=Investor&action=download&ticker=PNQI",
-    "fileExt": "csv",
-    "transform": "invesco"
-  },
+  "inferDataFn": "invesco",
   "holdings": [
     {
       "Fund Ticker": "PNQI",

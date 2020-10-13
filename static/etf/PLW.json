@@ -1,4 +1,10 @@
 {
+  "website": "https://www.invesco.com/us/financial-products/etfs/product-detail?audienceType=Investor&ticker=PLW",
+  "holdingDataSource": {
+    "url": "https://www.invesco.com/us/financial-products/etfs/holdings/main/holdings/0?audienceType=Investor&action=download&ticker=PLW",
+    "fileExt": "csv",
+    "transform": "invesco"
+  },
   "name": "1-30 Laddered Treasury ETF",
   "ticker": "PLW",
   "Inception": "10/11/2007",
@@ -11,12 +17,7 @@
   "Since Incept.": "6.16",
   "Category": "Income",
   "SubCategory": "Core",
-  "holdingDataSourceFn": "invesco",
-  "holdingDataSource": {
-    "url": "https://www.invesco.com/us/financial-products/etfs/holdings/main/holdings/0?audienceType=Investor&action=download&ticker=PLW",
-    "fileExt": "csv",
-    "transform": "invesco"
-  },
+  "inferDataFn": "invesco",
   "holdings": [
     {
       "Fund Ticker": "PLW",

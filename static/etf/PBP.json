@@ -1,4 +1,10 @@
 {
+  "website": "https://www.invesco.com/us/financial-products/etfs/product-detail?audienceType=Investor&ticker=PBP",
+  "holdingDataSource": {
+    "url": "https://www.invesco.com/us/financial-products/etfs/holdings/main/holdings/0?audienceType=Investor&action=download&ticker=PBP",
+    "fileExt": "csv",
+    "transform": "invesco"
+  },
   "name": "S&P 500 BuyWrite ETF",
   "ticker": "PBP",
   "Inception": "12/20/2007",
@@ -11,12 +17,7 @@
   "Since Incept.": "3.03",
   "Category": "Alternatives",
   "SubCategory": "Alternative Solutions",
-  "holdingDataSourceFn": "invesco",
-  "holdingDataSource": {
-    "url": "https://www.invesco.com/us/financial-products/etfs/holdings/main/holdings/0?audienceType=Investor&action=download&ticker=PBP",
-    "fileExt": "csv",
-    "transform": "invesco"
-  },
+  "inferDataFn": "invesco",
   "holdings": [
     {
       "Fund Ticker": "PBP",

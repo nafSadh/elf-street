@@ -1,4 +1,10 @@
 {
+  "website": "https://www.invesco.com/us/financial-products/etfs/product-detail?audienceType=Investor&ticker=PBW",
+  "holdingDataSource": {
+    "url": "https://www.invesco.com/us/financial-products/etfs/holdings/main/holdings/0?audienceType=Investor&action=download&ticker=PBW",
+    "fileExt": "csv",
+    "transform": "invesco"
+  },
   "name": "WilderHill Clean Energy ETF",
   "ticker": "PBW",
   "Inception": "3/3/2005",
@@ -11,12 +17,7 @@
   "Since Incept.": "-0.31",
   "Category": "Thematic",
   "SubCategory": "Sustainable",
-  "holdingDataSourceFn": "invesco",
-  "holdingDataSource": {
-    "url": "https://www.invesco.com/us/financial-products/etfs/holdings/main/holdings/0?audienceType=Investor&action=download&ticker=PBW",
-    "fileExt": "csv",
-    "transform": "invesco"
-  },
+  "inferDataFn": "invesco",
   "holdings": [
     {
       "Fund Ticker": "PBW",

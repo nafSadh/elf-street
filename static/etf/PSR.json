@@ -1,4 +1,10 @@
 {
+  "website": "https://www.invesco.com/us/financial-products/etfs/product-detail?audienceType=Investor&ticker=PSR",
+  "holdingDataSource": {
+    "url": "https://www.invesco.com/us/financial-products/etfs/holdings/main/holdings/0?audienceType=Investor&action=download&ticker=PSR",
+    "fileExt": "csv",
+    "transform": "invesco"
+  },
   "name": "Active U.S. Real Estate ETF",
   "ticker": "PSR",
   "Inception": "11/20/2008",
@@ -11,12 +17,7 @@
   "Since Incept.": "14.95",
   "Category": "Alternatives",
   "SubCategory": "REITs",
-  "holdingDataSourceFn": "invesco",
-  "holdingDataSource": {
-    "url": "https://www.invesco.com/us/financial-products/etfs/holdings/main/holdings/0?audienceType=Investor&action=download&ticker=PSR",
-    "fileExt": "csv",
-    "transform": "invesco"
-  },
+  "inferDataFn": "invesco",
   "holdings": [
     {
       "Fund Ticker": "PSR",

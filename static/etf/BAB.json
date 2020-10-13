@@ -1,4 +1,10 @@
 {
+  "website": "https://www.invesco.com/us/financial-products/etfs/product-detail?audienceType=Investor&ticker=BAB",
+  "holdingDataSource": {
+    "url": "https://www.invesco.com/us/financial-products/etfs/holdings/main/holdings/0?audienceType=Investor&action=download&ticker=BAB",
+    "fileExt": "csv",
+    "transform": "invesco"
+  },
   "name": "Taxable Municipal Bond ETF",
   "ticker": "BAB",
   "Inception": "11/17/2009",
@@ -11,12 +17,7 @@
   "Since Incept.": "7.49",
   "Category": "Income",
   "SubCategory": "Core Plus",
-  "holdingDataSourceFn": "invesco",
-  "holdingDataSource": {
-    "url": "https://www.invesco.com/us/financial-products/etfs/holdings/main/holdings/0?audienceType=Investor&action=download&ticker=BAB",
-    "fileExt": "csv",
-    "transform": "invesco"
-  },
+  "inferDataFn": "invesco",
   "holdings": [
     {
       "Fund Ticker": "BAB",

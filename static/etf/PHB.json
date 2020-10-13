@@ -1,4 +1,10 @@
 {
+  "website": "https://www.invesco.com/us/financial-products/etfs/product-detail?audienceType=Investor&ticker=PHB",
+  "holdingDataSource": {
+    "url": "https://www.invesco.com/us/financial-products/etfs/holdings/main/holdings/0?audienceType=Investor&action=download&ticker=PHB",
+    "fileExt": "csv",
+    "transform": "invesco"
+  },
   "name": "Fundamental High Yield® Corporate Bond ETF",
   "ticker": "PHB",
   "Inception": "11/15/2007",
@@ -11,12 +17,7 @@
   "Since Incept.": "3.54",
   "Category": "Multi Factor",
   "SubCategory": "RAFI Fixed Income",
-  "holdingDataSourceFn": "invesco",
-  "holdingDataSource": {
-    "url": "https://www.invesco.com/us/financial-products/etfs/holdings/main/holdings/0?audienceType=Investor&action=download&ticker=PHB",
-    "fileExt": "csv",
-    "transform": "invesco"
-  },
+  "inferDataFn": "invesco",
   "holdings": [
     {
       "Fund Ticker": "PHB",

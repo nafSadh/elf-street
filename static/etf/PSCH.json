@@ -1,4 +1,10 @@
 {
+  "website": "https://www.invesco.com/us/financial-products/etfs/product-detail?audienceType=Investor&ticker=PSCH",
+  "holdingDataSource": {
+    "url": "https://www.invesco.com/us/financial-products/etfs/holdings/main/holdings/0?audienceType=Investor&action=download&ticker=PSCH",
+    "fileExt": "csv",
+    "transform": "invesco"
+  },
   "name": "S&P SmallCap Health Care ETF",
   "ticker": "PSCH",
   "Inception": "4/7/2010",
@@ -11,12 +17,7 @@
   "Since Incept.": "17.65",
   "Category": "Bulk Beta",
   "SubCategory": "PureBeta",
-  "holdingDataSourceFn": "invesco",
-  "holdingDataSource": {
-    "url": "https://www.invesco.com/us/financial-products/etfs/holdings/main/holdings/0?audienceType=Investor&action=download&ticker=PSCH",
-    "fileExt": "csv",
-    "transform": "invesco"
-  },
+  "inferDataFn": "invesco",
   "holdings": [
     {
       "Fund Ticker": "PSCH",

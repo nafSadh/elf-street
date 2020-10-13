@@ -1,4 +1,10 @@
 {
+  "website": "https://www.invesco.com/us/financial-products/etfs/product-detail?audienceType=Investor&ticker=XMMO",
+  "holdingDataSource": {
+    "url": "https://www.invesco.com/us/financial-products/etfs/holdings/main/holdings/0?audienceType=Investor&action=download&ticker=XMMO",
+    "fileExt": "csv",
+    "transform": "invesco"
+  },
   "name": "S&P MidCap Momentum ETF",
   "ticker": "XMMO",
   "Inception": "3/3/2005",
@@ -11,12 +17,7 @@
   "Since Incept.": "10.56",
   "Category": "Multi Factor",
   "SubCategory": "Pure Style",
-  "holdingDataSourceFn": "invesco",
-  "holdingDataSource": {
-    "url": "https://www.invesco.com/us/financial-products/etfs/holdings/main/holdings/0?audienceType=Investor&action=download&ticker=XMMO",
-    "fileExt": "csv",
-    "transform": "invesco"
-  },
+  "inferDataFn": "invesco",
   "holdings": [
     {
       "Fund Ticker": "XMMO",

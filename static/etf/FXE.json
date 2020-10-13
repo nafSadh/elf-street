@@ -1,4 +1,10 @@
 {
+  "website": "https://www.invesco.com/us/financial-products/etfs/product-detail?audienceType=Investor&ticker=FXE",
+  "holdingDataSource": {
+    "url": "https://www.invesco.com/us/financial-products/etfs/holdings/main/holdings/0?audienceType=Investor&action=download&ticker=FXE",
+    "fileExt": "csv",
+    "transform": "invesco"
+  },
   "name": "CurrencyShares® Euro Trust ",
   "ticker": "FXE",
   "Inception": "12/9/2005",
@@ -11,11 +17,6 @@
   "Since Incept.": "0.16",
   "Category": "Alternatives",
   "SubCategory": "Currencies",
-  "holdingDataSourceFn": "invesco",
-  "holdingDataSource": {
-    "url": "https://www.invesco.com/us/financial-products/etfs/holdings/main/holdings/0?audienceType=Investor&action=download&ticker=FXE",
-    "fileExt": "csv",
-    "transform": "invesco"
-  },
+  "inferDataFn": "invesco",
   "holdings": []
 }

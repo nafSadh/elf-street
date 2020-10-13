@@ -1,4 +1,10 @@
 {
+  "website": "https://www.invesco.com/us/financial-products/etfs/product-detail?audienceType=Investor&ticker=RSP",
+  "holdingDataSource": {
+    "url": "https://www.invesco.com/us/financial-products/etfs/holdings/main/holdings/0?audienceType=Investor&action=download&ticker=RSP",
+    "fileExt": "csv",
+    "transform": "invesco"
+  },
   "name": "S&P 500® Equal Weight ETF",
   "ticker": "RSP",
   "Inception": "4/24/2003",
@@ -11,12 +17,7 @@
   "Since Incept.": "10.36",
   "Category": "SP Factor",
   "SubCategory": "Size",
-  "holdingDataSourceFn": "invesco",
-  "holdingDataSource": {
-    "url": "https://www.invesco.com/us/financial-products/etfs/holdings/main/holdings/0?audienceType=Investor&action=download&ticker=RSP",
-    "fileExt": "csv",
-    "transform": "invesco"
-  },
+  "inferDataFn": "invesco",
   "holdings": [
     {
       "Fund Ticker": "RSP",

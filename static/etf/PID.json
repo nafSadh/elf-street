@@ -1,4 +1,10 @@
 {
+  "website": "https://www.invesco.com/us/financial-products/etfs/product-detail?audienceType=Investor&ticker=PID",
+  "holdingDataSource": {
+    "url": "https://www.invesco.com/us/financial-products/etfs/holdings/main/holdings/0?audienceType=Investor&action=download&ticker=PID",
+    "fileExt": "csv",
+    "transform": "invesco"
+  },
   "name": "International Dividend Achievers™ ETF",
   "ticker": "PID",
   "Inception": "9/15/2005",
@@ -11,12 +17,7 @@
   "Since Incept.": "2.37",
   "Category": "Factor Access",
   "SubCategory": "Dividend Achievers",
-  "holdingDataSourceFn": "invesco",
-  "holdingDataSource": {
-    "url": "https://www.invesco.com/us/financial-products/etfs/holdings/main/holdings/0?audienceType=Investor&action=download&ticker=PID",
-    "fileExt": "csv",
-    "transform": "invesco"
-  },
+  "inferDataFn": "invesco",
   "holdings": [
     {
       "Fund Ticker": "PID",

@@ -1,4 +1,10 @@
 {
+  "website": "https://www.invesco.com/us/financial-products/etfs/product-detail?audienceType=Investor&ticker=IDHD",
+  "holdingDataSource": {
+    "url": "https://www.invesco.com/us/financial-products/etfs/holdings/main/holdings/0?audienceType=Investor&action=download&ticker=IDHD",
+    "fileExt": "csv",
+    "transform": "invesco"
+  },
   "name": "S&P International Developed High Dividend Low Volatility ETF",
   "ticker": "IDHD",
   "Inception": "12/1/2016",
@@ -11,12 +17,7 @@
   "Since Incept.": "2.75",
   "Category": "SP Factor",
   "SubCategory": "Dividend",
-  "holdingDataSourceFn": "invesco",
-  "holdingDataSource": {
-    "url": "https://www.invesco.com/us/financial-products/etfs/holdings/main/holdings/0?audienceType=Investor&action=download&ticker=IDHD",
-    "fileExt": "csv",
-    "transform": "invesco"
-  },
+  "inferDataFn": "invesco",
   "holdings": [
     {
       "Fund Ticker": "IDHD",

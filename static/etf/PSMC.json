@@ -1,4 +1,10 @@
 {
+  "website": "https://www.invesco.com/us/financial-products/etfs/product-detail?audienceType=Investor&ticker=PSMC",
+  "holdingDataSource": {
+    "url": "https://www.invesco.com/us/financial-products/etfs/holdings/main/holdings/0?audienceType=Investor&action=download&ticker=PSMC",
+    "fileExt": "csv",
+    "transform": "invesco"
+  },
   "name": "Conservative Multi-Asset Allocation ETF",
   "ticker": "PSMC",
   "Inception": "2/23/2017",
@@ -11,12 +17,7 @@
   "Since Incept.": "5.22",
   "Category": "Thematic",
   "SubCategory": "Balanced",
-  "holdingDataSourceFn": "invesco",
-  "holdingDataSource": {
-    "url": "https://www.invesco.com/us/financial-products/etfs/holdings/main/holdings/0?audienceType=Investor&action=download&ticker=PSMC",
-    "fileExt": "csv",
-    "transform": "invesco"
-  },
+  "inferDataFn": "invesco",
   "holdings": [
     {
       "Fund Ticker": "PSMC",

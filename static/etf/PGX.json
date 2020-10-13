@@ -1,4 +1,10 @@
 {
+  "website": "https://www.invesco.com/us/financial-products/etfs/product-detail?audienceType=Investor&ticker=PGX",
+  "holdingDataSource": {
+    "url": "https://www.invesco.com/us/financial-products/etfs/holdings/main/holdings/0?audienceType=Investor&action=download&ticker=PGX",
+    "fileExt": "csv",
+    "transform": "invesco"
+  },
   "name": "Preferred ETF",
   "ticker": "PGX",
   "Inception": "1/31/2008",
@@ -11,12 +17,7 @@
   "Since Incept.": "4.07",
   "Category": "Income",
   "SubCategory": "Preferred",
-  "holdingDataSourceFn": "invesco",
-  "holdingDataSource": {
-    "url": "https://www.invesco.com/us/financial-products/etfs/holdings/main/holdings/0?audienceType=Investor&action=download&ticker=PGX",
-    "fileExt": "csv",
-    "transform": "invesco"
-  },
+  "inferDataFn": "invesco",
   "holdings": [
     {
       "Fund Ticker": "PGX",

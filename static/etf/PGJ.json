@@ -1,4 +1,10 @@
 {
+  "website": "https://www.invesco.com/us/financial-products/etfs/product-detail?audienceType=Investor&ticker=PGJ",
+  "holdingDataSource": {
+    "url": "https://www.invesco.com/us/financial-products/etfs/holdings/main/holdings/0?audienceType=Investor&action=download&ticker=PGJ",
+    "fileExt": "csv",
+    "transform": "invesco"
+  },
   "name": "Golden Dragon China ETF",
   "ticker": "PGJ",
   "Inception": "12/9/2004",
@@ -11,12 +17,7 @@
   "Since Incept.": "9.65",
   "Category": "Bulk Beta",
   "SubCategory": "International",
-  "holdingDataSourceFn": "invesco",
-  "holdingDataSource": {
-    "url": "https://www.invesco.com/us/financial-products/etfs/holdings/main/holdings/0?audienceType=Investor&action=download&ticker=PGJ",
-    "fileExt": "csv",
-    "transform": "invesco"
-  },
+  "inferDataFn": "invesco",
   "holdings": [
     {
       "Fund Ticker": "PGJ",

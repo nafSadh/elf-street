@@ -1,4 +1,10 @@
 {
+  "website": "https://www.invesco.com/us/financial-products/etfs/product-detail?audienceType=Investor&ticker=PBS",
+  "holdingDataSource": {
+    "url": "https://www.invesco.com/us/financial-products/etfs/holdings/main/holdings/0?audienceType=Investor&action=download&ticker=PBS",
+    "fileExt": "csv",
+    "transform": "invesco"
+  },
   "name": "Dynamic Media ETF",
   "ticker": "PBS",
   "Inception": "6/23/2005",
@@ -11,12 +17,7 @@
   "Since Incept.": "6.6",
   "Category": "Multi Factor",
   "SubCategory": "Intellidex Industries",
-  "holdingDataSourceFn": "invesco",
-  "holdingDataSource": {
-    "url": "https://www.invesco.com/us/financial-products/etfs/holdings/main/holdings/0?audienceType=Investor&action=download&ticker=PBS",
-    "fileExt": "csv",
-    "transform": "invesco"
-  },
+  "inferDataFn": "invesco",
   "holdings": [
     {
       "Fund Ticker": "PBS",

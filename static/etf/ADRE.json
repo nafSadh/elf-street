@@ -1,4 +1,10 @@
 {
+  "website": "https://www.invesco.com/us/financial-products/etfs/product-detail?audienceType=Investor&ticker=ADRE",
+  "holdingDataSource": {
+    "url": "https://www.invesco.com/us/financial-products/etfs/holdings/main/holdings/0?audienceType=Investor&action=download&ticker=ADRE",
+    "fileExt": "csv",
+    "transform": "invesco"
+  },
   "name": "BLDRS Emerging Markets 50 ADR Index Fund",
   "ticker": "ADRE",
   "Inception": "11/13/2002",
@@ -11,12 +17,7 @@
   "Since Incept.": "10.42",
   "Category": "Bulk Beta",
   "SubCategory": "International",
-  "holdingDataSourceFn": "invesco",
-  "holdingDataSource": {
-    "url": "https://www.invesco.com/us/financial-products/etfs/holdings/main/holdings/0?audienceType=Investor&action=download&ticker=ADRE",
-    "fileExt": "csv",
-    "transform": "invesco"
-  },
+  "inferDataFn": "invesco",
   "holdings": [
     {
       "Fund Ticker": "ADRE",

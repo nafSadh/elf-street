@@ -1,4 +1,10 @@
 {
+  "website": "https://www.invesco.com/us/financial-products/etfs/product-detail?audienceType=Investor&ticker=PRFZ",
+  "holdingDataSource": {
+    "url": "https://www.invesco.com/us/financial-products/etfs/holdings/main/holdings/0?audienceType=Investor&action=download&ticker=PRFZ",
+    "fileExt": "csv",
+    "transform": "invesco"
+  },
   "name": "FTSE RAFI US 1500 Small-Mid ETF",
   "ticker": "PRFZ",
   "Inception": "9/20/2006",
@@ -11,12 +17,7 @@
   "Since Incept.": "7.4",
   "Category": "Multi Factor",
   "SubCategory": "RAFI Equity",
-  "holdingDataSourceFn": "invesco",
-  "holdingDataSource": {
-    "url": "https://www.invesco.com/us/financial-products/etfs/holdings/main/holdings/0?audienceType=Investor&action=download&ticker=PRFZ",
-    "fileExt": "csv",
-    "transform": "invesco"
-  },
+  "inferDataFn": "invesco",
   "holdings": [
     {
       "Fund Ticker": "PRFZ",

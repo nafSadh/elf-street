@@ -1,4 +1,10 @@
 {
+  "website": "https://www.invesco.com/us/financial-products/etfs/product-detail?audienceType=Investor&ticker=RPG",
+  "holdingDataSource": {
+    "url": "https://www.invesco.com/us/financial-products/etfs/holdings/main/holdings/0?audienceType=Investor&action=download&ticker=RPG",
+    "fileExt": "csv",
+    "transform": "invesco"
+  },
   "name": "S&P 500® Pure Growth ETF",
   "ticker": "RPG",
   "Inception": "3/1/2006",
@@ -11,12 +17,7 @@
   "Since Incept.": "10.86",
   "Category": "SP Factor",
   "SubCategory": "Pure Styles",
-  "holdingDataSourceFn": "invesco",
-  "holdingDataSource": {
-    "url": "https://www.invesco.com/us/financial-products/etfs/holdings/main/holdings/0?audienceType=Investor&action=download&ticker=RPG",
-    "fileExt": "csv",
-    "transform": "invesco"
-  },
+  "inferDataFn": "invesco",
   "holdings": [
     {
       "Fund Ticker": "RPG",

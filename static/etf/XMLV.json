@@ -1,4 +1,10 @@
 {
+  "website": "https://www.invesco.com/us/financial-products/etfs/product-detail?audienceType=Investor&ticker=XMLV",
+  "holdingDataSource": {
+    "url": "https://www.invesco.com/us/financial-products/etfs/holdings/main/holdings/0?audienceType=Investor&action=download&ticker=XMLV",
+    "fileExt": "csv",
+    "transform": "invesco"
+  },
   "name": "S&P MidCap Low Volatility ETF",
   "ticker": "XMLV",
   "Inception": "2/15/2013",
@@ -11,12 +17,7 @@
   "Since Incept.": "9.04",
   "Category": "SP Factor",
   "SubCategory": "Low Volatility",
-  "holdingDataSourceFn": "invesco",
-  "holdingDataSource": {
-    "url": "https://www.invesco.com/us/financial-products/etfs/holdings/main/holdings/0?audienceType=Investor&action=download&ticker=XMLV",
-    "fileExt": "csv",
-    "transform": "invesco"
-  },
+  "inferDataFn": "invesco",
   "holdings": [
     {
       "Fund Ticker": "XMLV",

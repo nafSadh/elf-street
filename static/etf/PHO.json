@@ -1,4 +1,10 @@
 {
+  "website": "https://www.invesco.com/us/financial-products/etfs/product-detail?audienceType=Investor&ticker=PHO",
+  "holdingDataSource": {
+    "url": "https://www.invesco.com/us/financial-products/etfs/holdings/main/holdings/0?audienceType=Investor&action=download&ticker=PHO",
+    "fileExt": "csv",
+    "transform": "invesco"
+  },
   "name": "Water Resources ETF",
   "ticker": "PHO",
   "Inception": "12/6/2005",
@@ -11,12 +17,7 @@
   "Since Incept.": "7.27",
   "Category": "Thematic",
   "SubCategory": "Sustainable",
-  "holdingDataSourceFn": "invesco",
-  "holdingDataSource": {
-    "url": "https://www.invesco.com/us/financial-products/etfs/holdings/main/holdings/0?audienceType=Investor&action=download&ticker=PHO",
-    "fileExt": "csv",
-    "transform": "invesco"
-  },
+  "inferDataFn": "invesco",
   "holdings": [
     {
       "Fund Ticker": "PHO",

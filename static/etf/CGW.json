@@ -1,4 +1,10 @@
 {
+  "website": "https://www.invesco.com/us/financial-products/etfs/product-detail?audienceType=Investor&ticker=CGW",
+  "holdingDataSource": {
+    "url": "https://www.invesco.com/us/financial-products/etfs/holdings/main/holdings/0?audienceType=Investor&action=download&ticker=CGW",
+    "fileExt": "csv",
+    "transform": "invesco"
+  },
   "name": "S&P Global Water Index ETF",
   "ticker": "CGW",
   "Inception": "5/14/2007",
@@ -11,12 +17,7 @@
   "Since Incept.": "6.1",
   "Category": "Thematic",
   "SubCategory": "Sustainable",
-  "holdingDataSourceFn": "invesco",
-  "holdingDataSource": {
-    "url": "https://www.invesco.com/us/financial-products/etfs/holdings/main/holdings/0?audienceType=Investor&action=download&ticker=CGW",
-    "fileExt": "csv",
-    "transform": "invesco"
-  },
+  "inferDataFn": "invesco",
   "holdings": [
     {
       "Fund Ticker": "CGW",

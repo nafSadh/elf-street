@@ -1,4 +1,10 @@
 {
+  "website": "https://www.invesco.com/us/financial-products/etfs/product-detail?audienceType=Investor&ticker=EWSC",
+  "holdingDataSource": {
+    "url": "https://www.invesco.com/us/financial-products/etfs/holdings/main/holdings/0?audienceType=Investor&action=download&ticker=EWSC",
+    "fileExt": "csv",
+    "transform": "invesco"
+  },
   "name": "S&P SmallCap 600® Equal Weight ETF",
   "ticker": "EWSC",
   "Inception": "12/3/2010",
@@ -11,12 +17,7 @@
   "Since Incept.": "6",
   "Category": "SP Factor",
   "SubCategory": "Pure Styles",
-  "holdingDataSourceFn": "invesco",
-  "holdingDataSource": {
-    "url": "https://www.invesco.com/us/financial-products/etfs/holdings/main/holdings/0?audienceType=Investor&action=download&ticker=EWSC",
-    "fileExt": "csv",
-    "transform": "invesco"
-  },
+  "inferDataFn": "invesco",
   "holdings": [
     {
       "Fund Ticker": "EWSC",

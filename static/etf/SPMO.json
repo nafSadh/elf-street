@@ -1,4 +1,10 @@
 {
+  "website": "https://www.invesco.com/us/financial-products/etfs/product-detail?audienceType=Investor&ticker=SPMO",
+  "holdingDataSource": {
+    "url": "https://www.invesco.com/us/financial-products/etfs/holdings/main/holdings/0?audienceType=Investor&action=download&ticker=SPMO",
+    "fileExt": "csv",
+    "transform": "invesco"
+  },
   "name": "S&P 500® Momentum ETF",
   "ticker": "SPMO",
   "Inception": "10/9/2015",
@@ -11,12 +17,7 @@
   "Since Incept.": "16.35",
   "Category": "SP Factor",
   "SubCategory": "Momentum",
-  "holdingDataSourceFn": "invesco",
-  "holdingDataSource": {
-    "url": "https://www.invesco.com/us/financial-products/etfs/holdings/main/holdings/0?audienceType=Investor&action=download&ticker=SPMO",
-    "fileExt": "csv",
-    "transform": "invesco"
-  },
+  "inferDataFn": "invesco",
   "holdings": [
     {
       "Fund Ticker": "SPMO",

@@ -1,4 +1,10 @@
 {
+  "website": "https://www.invesco.com/us/financial-products/etfs/product-detail?audienceType=Investor&ticker=IDMO",
+  "holdingDataSource": {
+    "url": "https://www.invesco.com/us/financial-products/etfs/holdings/main/holdings/0?audienceType=Investor&action=download&ticker=IDMO",
+    "fileExt": "csv",
+    "transform": "invesco"
+  },
   "name": "S&P International Developed Momentum ETF",
   "ticker": "IDMO",
   "Inception": "2/24/2012",
@@ -11,12 +17,7 @@
   "Since Incept.": "4.43",
   "Category": "SP Factor",
   "SubCategory": "Momentum",
-  "holdingDataSourceFn": "invesco",
-  "holdingDataSource": {
-    "url": "https://www.invesco.com/us/financial-products/etfs/holdings/main/holdings/0?audienceType=Investor&action=download&ticker=IDMO",
-    "fileExt": "csv",
-    "transform": "invesco"
-  },
+  "inferDataFn": "invesco",
   "holdings": [
     {
       "Fund Ticker": "IDMO",

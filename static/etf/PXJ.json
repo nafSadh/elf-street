@@ -1,4 +1,10 @@
 {
+  "website": "https://www.invesco.com/us/financial-products/etfs/product-detail?audienceType=Investor&ticker=PXJ",
+  "holdingDataSource": {
+    "url": "https://www.invesco.com/us/financial-products/etfs/holdings/main/holdings/0?audienceType=Investor&action=download&ticker=PXJ",
+    "fileExt": "csv",
+    "transform": "invesco"
+  },
   "name": "Dynamic Oil & Gas Services ETF",
   "ticker": "PXJ",
   "Inception": "10/26/2005",
@@ -11,12 +17,7 @@
   "Since Incept.": "-12.31",
   "Category": "Multi Factor",
   "SubCategory": "Intellidex Industries",
-  "holdingDataSourceFn": "invesco",
-  "holdingDataSource": {
-    "url": "https://www.invesco.com/us/financial-products/etfs/holdings/main/holdings/0?audienceType=Investor&action=download&ticker=PXJ",
-    "fileExt": "csv",
-    "transform": "invesco"
-  },
+  "inferDataFn": "invesco",
   "holdings": [
     {
       "Fund Ticker": "PXJ",

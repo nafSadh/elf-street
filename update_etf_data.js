@@ -6,6 +6,14 @@ const Papa = require('./node_modules/papaparse')
 const _ = require('lodash')
 
 const etfMetadata = require('./static/etfs.json')
+const wisdomTree = (function () {
+  const json = require('./static/wisdomtree.json')
+  json.etf = {}
+  for (let entry of json.ETFs) {
+    json.etf[entry.bloombergTicker] = entry
+  }
+  return json
+})()
 
 const transforms = {
   csvToJson: function (data) {
@@ -24,11 +32,11 @@ const transforms = {
   },
   ark: function (data) {
     let jsonArray = []
-    for (const _ of transforms.csvToJson(data)) {
-      if (_.fund && _.fund != '') {
-        let obj = _
+    for (const obj of transforms.csvToJson(data)) {
+      if (obj.fund && obj.fund != '') {
+        let obj = obj
         obj.name = obj.company
-        obj.percent = Number(_['weight(%)'])
+        obj.percent = Number(obj['weight(%)'])
         obj.weight = 1 * (obj.percent / 100).toPrecision(8)
         jsonArray.push(obj)
       }
@@ -56,17 +64,20 @@ const transforms = {
     }
     return jsonArray
   },
-}
 
-const holdingDataSourceFn = {
-  invesco: function (ticker) {
-    return {
-      url:
-        'https://www.invesco.com/us/financial-products/etfs/holdings/main/holdings/0?audienceType=Investor&action=download&ticker=' +
-        ticker,
-      fileExt: 'csv',
-      transform: 'invesco',
+  wisdomTree: function (data) {
+    let jsonArray = []
+    for (const obj of transforms.csvToJson(data)) {
+      if (obj['Security Ticker'] && obje['Security Ticker'] != '') {
+        obj.ticker = _.split(obj['Security Ticker'], ' ')[0]
+        obj.name = obj['Security Description']
+        obj.weight = obj['Weight %']
+        obj.percent = obj.weight * 100.0
+        _.unset(obj, 'Fund Name')
+        jsonArray.push(obj)
+      }
     }
+    return jsonArray
   },
 }
 
@@ -85,6 +96,19 @@ const inferDataFn = {
         transform: 'invesco',
       },
     }
+  },
+
+  wisdomTree: function (etf) {
+    let wtEtf = wisdomTree.etf[etf.ticker]
+    _.assign(wtEtf, {
+      holdingDataSource: {
+        local: etf.ticker + '.csv',
+        fileExt: 'csv',
+        transform: 'wisdomTree',
+      },
+      website: wtEtf.url,
+    })
+    return wtEtf
   },
 }
 
@@ -112,6 +136,9 @@ for (let etf of etfMetadata.ETFs) {
     const filepath =
       './static/etf/' + etf.ticker + '.' + etf.holdingDataSource.fileExt
     const jsonpath = './static/etf/' + etf.ticker + '.json'
+    if (fs.existsSync(jsonpath)) {
+      continue
+    }
     console.log(etf.holdingDataSource.url)
     downloadFile(etf.holdingDataSource.url, filepath, (data) => {
       const transform = transforms[etf.holdingDataSource.transform]

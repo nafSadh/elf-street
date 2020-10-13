@@ -3395,7 +3395,11 @@
       "SubCategory": "Core Plus",
       "inferDataFn": "invesco"
     },
-
+    {
+      "ticker": "WCLD",
+      "name":"WisdomTree Cloud Computing Fund",
+      "inferDataFn": "wisdomTree"
+    },
     {
       "ticker": "",
       "name":"",
@@ -3407,7 +3411,6 @@
         "fileExt": "csv",
         "transform": ""
       }
-    },
-    {}
+    }
   ]
 }

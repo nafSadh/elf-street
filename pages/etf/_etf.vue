@@ -20,6 +20,7 @@
           <v-chip label small color="blue">
             {{ etf.holdings.length }} holdings
           </v-chip>
+          {{ $axios.defaults.baseURL }}
         </v-row>
       </v-container>
     </v-app-bar>

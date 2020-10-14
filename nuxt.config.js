@@ -45,7 +45,7 @@ export default {
   build: {},
 
   axios: {
-    baseURL: '/',
+    baseURL: '/elf-street/',
   },
 
   generate: {

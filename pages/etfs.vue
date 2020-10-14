@@ -14,7 +14,7 @@
       <v-container class="py-0 fill-height">
         <v-row>
           <v-toolbar-title>ETFs</v-toolbar-title>
-          <v-spacer />
+          <v-spacer /> {{ $axios.defaults.baseURL }}
         </v-row>
       </v-container>
     </v-app-bar>

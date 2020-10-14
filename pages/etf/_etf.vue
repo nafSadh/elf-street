@@ -127,7 +127,7 @@ export default {
     const etf = await $axios
       .$get(
         (env.BASE_URL || 'http://localhost:3000/elf-street/') +
-          '/etf/' +
+          'etf/' +
           route.params.etf +
           '.json'
       )

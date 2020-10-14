@@ -113,7 +113,7 @@ export default {
       }
       document.documentElement.style.setProperty('--headerHeight', height)
     },
-    updateComparison() {
+    async updateComparison() {
       const etfData = {}
       const tkrPerEtf = {}
       this.comprisonHeaders = [
@@ -125,7 +125,12 @@ export default {
           value: etfId,
           class: stickyHeaderStyle,
         })
-        etfData[etfId] = require('~/static/etf/' + etfId + '.json')
+        if (!etfData[etfId]) {
+          const etfJsonData = await this.$axios
+            .$get('etf/' + etfId + '.json')
+            .then((res) => res)
+          etfData[etfId] = etfJsonData
+        }
         for (const asset of etfData[etfId].holdings) {
           if (!tkrPerEtf[asset.ticker]) {
             tkrPerEtf[asset.ticker] = { ticker: asset.ticker }

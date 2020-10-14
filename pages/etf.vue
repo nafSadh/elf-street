@@ -127,15 +127,6 @@ export default {
     const etf = await $axios
       .$get('etf/' + query[''] + '.json')
       .then((res) => res)
-
-    /* if (process.server) {
-      data.etfDJ = JSON.parse(
-        require('fs').readFileSync('../static/etf/ARKK.json', 'utf8')
-      )
-    } else {
-      data.etfDJ = await axios.get('/ARKK.json').then((res) => res.data)
-    } */
-
     return { etf }
   },
   methods: {

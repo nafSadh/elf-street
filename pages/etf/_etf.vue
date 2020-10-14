@@ -123,14 +123,9 @@ export default {
       return etfs.ETFs
     },
   },
-  async asyncData({ $axios, route, env }) {
+  async asyncData({ $axios, route, env, query }) {
     const etf = await $axios
-      .$get(
-        (env.BASE_URL || 'http://localhost:3000/elf-street/') +
-          'etf/' +
-          route.params.etf +
-          '.json'
-      )
+      .$get('etf/' + route.params.etf + '.json')
       .then((res) => res)
 
     /* if (process.server) {

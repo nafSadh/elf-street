@@ -1,6 +1,8 @@
 {
-  "wtListingID": "2927365",
+  "ticker": "WCLD",
   "name": "WisdomTree Cloud Computing Fund",
+  "infer": "wisdomTree",
+  "wtListingID": "2927365",
   "wtDivisionID": "1",
   "wtDivision": "WT-US",
   "fundCategoryTier1": "Thematic",
@@ -54,13 +56,11 @@
   "QuarterlyDisclosureURL": null,
   "KIIDURL": null,
   "holdingDataSource": {
-    "file": "./static/etf/WCLD.csv",
+    "file": "./data/stored/WCLD.csv",
     "fileExt": "csv",
     "transform": "wisdomTree"
   },
   "website": "https://www.wisdomtree.com/etfs/thematic/WCLD",
-  "ticker": "WCLD",
-  "inferDataFn": "wisdomTree",
   "holdings": [
     {
       "Date": "10/12/2020",

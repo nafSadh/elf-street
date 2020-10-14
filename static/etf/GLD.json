@@ -1,0 +1,22 @@
+{
+  "ticker": "GLD",
+  "name": "SPDR® Gold Shares",
+  "ISIN": "US78463V1070",
+  "CUSIP": "78463V107",
+  "Inception Date": "Nov 18 2004",
+  "Gross Expense Ratio": "0.40%",
+  "* Net Expense Ratio": "-",
+  "Asset Class": "Alternative",
+  "Distribution Frequency": "-",
+  "Primary Exchange": "NYSE ARCA EXCHANGE",
+  "Primary Index": "LBMA Gold Price PM",
+  "Primary Index Ticker": "-",
+  "infer": "spdr",
+  "holdings": [],
+  "issuer": "SSGA",
+  "holdingDataSource": {
+    "fileUrl": "https://www.ssga.com/us/en/individual/etfs/library-content/products/fund-data/etfs/us/holdings-daily-us-en-gld.xlsx",
+    "fileExt": "xlsx",
+    "transform": "spdr"
+  }
+}

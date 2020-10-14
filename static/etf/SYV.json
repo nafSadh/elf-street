@@ -1,0 +1,731 @@
+{
+  "ticker": "SYV",
+  "name": "SPDR® MFS Systematic Value Equity ETF",
+  "ISIN": "US78467V8717",
+  "CUSIP": "78467V871",
+  "Inception Date": "Jan 08 2014",
+  "Gross Expense Ratio": "0.60%",
+  "* Net Expense Ratio": "-",
+  "Asset Class": "Equity",
+  "Distribution Frequency": "Quarterly",
+  "Primary Exchange": "NYSE ARCA EXCHANGE",
+  "Primary Index": "Russell 1000 Value Index",
+  "Primary Index Ticker": "RU10VATR",
+  "infer": "spdr",
+  "issuer": "SSGA",
+  "holdingDataSource": {
+    "fileUrl": "https://www.ssga.com/us/en/individual/etfs/library-content/products/fund-data/etfs/us/holdings-daily-us-en-syv.xlsx",
+    "fileExt": "xlsx",
+    "transform": "spdr"
+  },
+  "holdings": [
+    {
+      "Name": "Johnson & Johnson",
+      "Ticker": "JNJ US",
+      "Identifier": "478160104",
+      "Weight": "5.006148",
+      "Market Value": "889269.84",
+      "Sector": "Health Care",
+      "Shares Held": "5994.000",
+      "ticker": "JNJ US",
+      "name": "Johnson & Johnson"
+    },
+    {
+      "Name": "Intel Corp",
+      "Ticker": "INTC US",
+      "Identifier": "458140100",
+      "Weight": "3.968865",
+      "Market Value": "705011.51",
+      "Sector": "Technology",
+      "Shares Held": "13097.000",
+      "ticker": "INTC US",
+      "name": "Intel Corp"
+    },
+    {
+      "Name": "Eaton Corp PLC",
+      "Ticker": "ETN US",
+      "Identifier": "G29183103",
+      "Weight": "3.387268",
+      "Market Value": "601699.2",
+      "Sector": "Industrials",
+      "Shares Held": "5592.000",
+      "ticker": "ETN US",
+      "name": "Eaton Corp PLC"
+    },
+    {
+      "Name": "AGCO Corp",
+      "Ticker": "AGCO US",
+      "Identifier": "001084102",
+      "Weight": "3.344149",
+      "Market Value": "594039.78",
+      "Sector": "Industrials",
+      "Shares Held": "7362.000",
+      "ticker": "AGCO US",
+      "name": "AGCO Corp"
+    },
+    {
+      "Name": "Citigroup Inc",
+      "Ticker": "C US",
+      "Identifier": "172967424",
+      "Weight": "3.292066",
+      "Market Value": "584787.839999",
+      "Sector": "Financials",
+      "Shares Held": "13388.000",
+      "ticker": "C US",
+      "name": "Citigroup Inc"
+    },
+    {
+      "Name": "Bank of America Corp",
+      "Ticker": "BAC US",
+      "Identifier": "060505104",
+      "Weight": "3.136666",
+      "Market Value": "557183.4",
+      "Sector": "Financials",
+      "Shares Held": "22332.000",
+      "ticker": "BAC US",
+      "name": "Bank of America Corp"
+    },
+    {
+      "Name": "Exelon Corp",
+      "Ticker": "EXC US",
+      "Identifier": "30161N101",
+      "Weight": "2.938619",
+      "Market Value": "522003.24",
+      "Sector": "Utilities",
+      "Shares Held": "12738.000",
+      "ticker": "EXC US",
+      "name": "Exelon Corp"
+    },
+    {
+      "Name": "Charter Communications Inc",
+      "Ticker": "CHTR US",
+      "Identifier": "16119P108",
+      "Weight": "2.901505",
+      "Market Value": "515410.35",
+      "Sector": "Telecommunications",
+      "Shares Held": "793.000",
+      "ticker": "CHTR US",
+      "name": "Charter Communications Inc"
+    },
+    {
+      "Name": "Target Corp",
+      "Ticker": "TGT US",
+      "Identifier": "87612E106",
+      "Weight": "2.836577",
+      "Market Value": "503876.88",
+      "Sector": "Consumer Discretionary",
+      "Shares Held": "3042.000",
+      "ticker": "TGT US",
+      "name": "Target Corp"
+    },
+    {
+      "Name": "Regal Beloit Corp",
+      "Ticker": "RBC US",
+      "Identifier": "758750103",
+      "Weight": "2.536460",
+      "Market Value": "450565.5",
+      "Sector": "Industrials",
+      "Shares Held": "4565.000",
+      "ticker": "RBC US",
+      "name": "Regal Beloit Corp"
+    },
+    {
+      "Name": "McKesson Corp",
+      "Ticker": "MCK US",
+      "Identifier": "58155Q103",
+      "Weight": "2.479877",
+      "Market Value": "440514.2",
+      "Sector": "Consumer Staples",
+      "Shares Held": "2905.000",
+      "ticker": "MCK US",
+      "name": "McKesson Corp"
+    },
+    {
+      "Name": "Medical Properties Trust Inc REIT",
+      "Ticker": "MPW US",
+      "Identifier": "58463J304",
+      "Weight": "2.232590",
+      "Market Value": "396587.38",
+      "Sector": "Real Estate",
+      "Shares Held": "21299.000",
+      "ticker": "MPW US",
+      "name": "Medical Properties Trust Inc REIT"
+    },
+    {
+      "Name": "Philip Morris International Inc",
+      "Ticker": "PM US",
+      "Identifier": "718172109",
+      "Weight": "2.226444",
+      "Market Value": "395495.53",
+      "Sector": "Consumer Staples",
+      "Shares Held": "4993.000",
+      "ticker": "PM US",
+      "name": "Philip Morris International Inc"
+    },
+    {
+      "Name": "Tyson Foods Inc",
+      "Ticker": "TSN US",
+      "Identifier": "902494103",
+      "Weight": "2.208566",
+      "Market Value": "392319.84",
+      "Sector": "Consumer Staples",
+      "Shares Held": "6654.000",
+      "ticker": "TSN US",
+      "name": "Tyson Foods Inc"
+    },
+    {
+      "Name": "Microsoft Corp",
+      "Ticker": "MSFT US",
+      "Identifier": "594918104",
+      "Weight": "2.080112",
+      "Market Value": "369501.88",
+      "Sector": "Technology",
+      "Shares Held": "1658.000",
+      "ticker": "MSFT US",
+      "name": "Microsoft Corp"
+    },
+    {
+      "Name": "Bank of New York Mellon Corp",
+      "Ticker": "BK US",
+      "Identifier": "064058100",
+      "Weight": "2.060798",
+      "Market Value": "366070.88",
+      "Sector": "Financials",
+      "Shares Held": "9926.000",
+      "ticker": "BK US",
+      "name": "Bank of New York Mellon Corp"
+    },
+    {
+      "Name": "Alphabet Inc Class A",
+      "Ticker": "GOOGL US",
+      "Identifier": "02079K305",
+      "Weight": "2.029020",
+      "Market Value": "360426.1",
+      "Sector": "Technology",
+      "Shares Held": "230.000",
+      "ticker": "GOOGL US",
+      "name": "Alphabet Inc Class A"
+    },
+    {
+      "Name": "Union Pacific Corp",
+      "Ticker": "UNP US",
+      "Identifier": "907818108",
+      "Weight": "1.924457",
+      "Market Value": "341852",
+      "Sector": "Industrials",
+      "Shares Held": "1684.000",
+      "ticker": "UNP US",
+      "name": "Union Pacific Corp"
+    },
+    {
+      "Name": "Merck & Co Inc",
+      "Ticker": "MRK US",
+      "Identifier": "58933Y105",
+      "Weight": "1.924203",
+      "Market Value": "341806.85",
+      "Sector": "Health Care",
+      "Shares Held": "4235.000",
+      "ticker": "MRK US",
+      "name": "Merck & Co Inc"
+    },
+    {
+      "Name": "Equitable Holdings Inc",
+      "Ticker": "EQH US",
+      "Identifier": "29452E101",
+      "Weight": "1.831324",
+      "Market Value": "325308.24",
+      "Sector": "Financials",
+      "Shares Held": "15784.000",
+      "ticker": "EQH US",
+      "name": "Equitable Holdings Inc"
+    },
+    {
+      "Name": "AES Corp",
+      "Ticker": "AES US",
+      "Identifier": "00130H105",
+      "Weight": "1.814947",
+      "Market Value": "322399.05",
+      "Sector": "Utilities",
+      "Shares Held": "16491.000",
+      "ticker": "AES US",
+      "name": "AES Corp"
+    },
+    {
+      "Name": "Toll Brothers Inc",
+      "Ticker": "TOL US",
+      "Identifier": "889478103",
+      "Weight": "1.799396",
+      "Market Value": "319636.62",
+      "Sector": "Consumer Discretionary",
+      "Shares Held": "6498.000",
+      "ticker": "TOL US",
+      "name": "Toll Brothers Inc"
+    },
+    {
+      "Name": "Graphic Packaging Holding Co",
+      "Ticker": "GPK US",
+      "Identifier": "388689101",
+      "Weight": "1.755130",
+      "Market Value": "311773.44",
+      "Sector": "Industrials",
+      "Shares Held": "21472.000",
+      "ticker": "GPK US",
+      "name": "Graphic Packaging Holding Co"
+    },
+    {
+      "Name": "Verizon Communications Inc",
+      "Ticker": "VZ US",
+      "Identifier": "92343V104",
+      "Weight": "1.656468",
+      "Market Value": "294247.52",
+      "Sector": "Telecommunications",
+      "Shares Held": "4957.000",
+      "ticker": "VZ US",
+      "name": "Verizon Communications Inc"
+    },
+    {
+      "Name": "Oracle Corp",
+      "Ticker": "ORCL US",
+      "Identifier": "68389X105",
+      "Weight": "1.575430",
+      "Market Value": "279852.3",
+      "Sector": "Technology",
+      "Shares Held": "4590.000",
+      "ticker": "ORCL US",
+      "name": "Oracle Corp"
+    },
+    {
+      "Name": "MetLife Inc",
+      "Ticker": "MET US",
+      "Identifier": "59156R108",
+      "Weight": "1.561005",
+      "Market Value": "277290",
+      "Sector": "Financials",
+      "Shares Held": "7110.000",
+      "ticker": "MET US",
+      "name": "MetLife Inc"
+    },
+    {
+      "Name": "Morgan Stanley",
+      "Ticker": "MS US",
+      "Identifier": "617446448",
+      "Weight": "1.541576",
+      "Market Value": "273838.76",
+      "Sector": "Financials",
+      "Shares Held": "5429.000",
+      "ticker": "MS US",
+      "name": "Morgan Stanley"
+    },
+    {
+      "Name": "Valero Energy Corp",
+      "Ticker": "VLO US",
+      "Identifier": "91913Y100",
+      "Weight": "1.498505",
+      "Market Value": "266187.75",
+      "Sector": "Energy",
+      "Shares Held": "6425.000",
+      "ticker": "VLO US",
+      "name": "Valero Energy Corp"
+    },
+    {
+      "Name": "QTS Realty Trust Inc REIT",
+      "Ticker": "QTS US",
+      "Identifier": "74736A103",
+      "Weight": "1.473549",
+      "Market Value": "261754.68",
+      "Sector": "Real Estate",
+      "Shares Held": "3894.000",
+      "ticker": "QTS US",
+      "name": "QTS Realty Trust Inc REIT"
+    },
+    {
+      "Name": "Electronic Arts Inc",
+      "Ticker": "EA US",
+      "Identifier": "285512109",
+      "Weight": "1.465340",
+      "Market Value": "260296.52",
+      "Sector": "Consumer Discretionary",
+      "Shares Held": "1958.000",
+      "ticker": "EA US",
+      "name": "Electronic Arts Inc"
+    },
+    {
+      "Name": "Walmart Inc",
+      "Ticker": "WMT US",
+      "Identifier": "931142103",
+      "Weight": "1.446367",
+      "Market Value": "256926.11",
+      "Sector": "Consumer Discretionary",
+      "Shares Held": "1757.000",
+      "ticker": "WMT US",
+      "name": "Walmart Inc"
+    },
+    {
+      "Name": "Activision Blizzard Inc",
+      "Ticker": "ATVI US",
+      "Identifier": "00507V109",
+      "Weight": "1.412211",
+      "Market Value": "250858.8",
+      "Sector": "Consumer Discretionary",
+      "Shares Held": "3060.000",
+      "ticker": "ATVI US",
+      "name": "Activision Blizzard Inc"
+    },
+    {
+      "Name": "Mondelez International Inc",
+      "Ticker": "MDLZ US",
+      "Identifier": "609207105",
+      "Weight": "1.385995",
+      "Market Value": "246202",
+      "Sector": "Consumer Staples",
+      "Shares Held": "4180.000",
+      "ticker": "MDLZ US",
+      "name": "Mondelez International Inc"
+    },
+    {
+      "Name": "Medtronic PLC",
+      "Ticker": "MDT US",
+      "Identifier": "G5960L103",
+      "Weight": "1.365379",
+      "Market Value": "242539.92",
+      "Sector": "Health Care",
+      "Shares Held": "2268.000",
+      "ticker": "MDT US",
+      "name": "Medtronic PLC"
+    },
+    {
+      "Name": "NRG Energy Inc",
+      "Ticker": "NRG US",
+      "Identifier": "629377508",
+      "Weight": "1.285882",
+      "Market Value": "228418.38",
+      "Sector": "Utilities",
+      "Shares Held": "6878.000",
+      "ticker": "NRG US",
+      "name": "NRG Energy Inc"
+    },
+    {
+      "Name": "Eli Lilly and Co",
+      "Ticker": "LLY US",
+      "Identifier": "532457108",
+      "Weight": "1.247882",
+      "Market Value": "221668.16",
+      "Sector": "Health Care",
+      "Shares Held": "1477.000",
+      "ticker": "LLY US",
+      "name": "Eli Lilly and Co"
+    },
+    {
+      "Name": "Biogen Inc",
+      "Ticker": "BIIB US",
+      "Identifier": "09062X103",
+      "Weight": "1.209251",
+      "Market Value": "214806.02",
+      "Sector": "Health Care",
+      "Shares Held": "737.000",
+      "ticker": "BIIB US",
+      "name": "Biogen Inc"
+    },
+    {
+      "Name": "PulteGroup Inc",
+      "Ticker": "PHM US",
+      "Identifier": "745867101",
+      "Weight": "1.204924",
+      "Market Value": "214037.25",
+      "Sector": "Consumer Discretionary",
+      "Shares Held": "4425.000",
+      "ticker": "PHM US",
+      "name": "PulteGroup Inc"
+    },
+    {
+      "Name": "Digital Realty Trust Inc REIT",
+      "Ticker": "DLR US",
+      "Identifier": "253868103",
+      "Weight": "1.200621",
+      "Market Value": "213273",
+      "Sector": "Real Estate",
+      "Shares Held": "1350.000",
+      "ticker": "DLR US",
+      "name": "Digital Realty Trust Inc REIT"
+    },
+    {
+      "Name": "Take-Two Interactive Software Inc",
+      "Ticker": "TTWO US",
+      "Identifier": "874054109",
+      "Weight": "1.171313",
+      "Market Value": "208066.8",
+      "Sector": "Consumer Discretionary",
+      "Shares Held": "1230.000",
+      "ticker": "TTWO US",
+      "name": "Take-Two Interactive Software Inc"
+    },
+    {
+      "Name": "Phillips 66",
+      "Ticker": "PSX US",
+      "Identifier": "718546104",
+      "Weight": "1.168930",
+      "Market Value": "207643.5",
+      "Sector": "Energy",
+      "Shares Held": "4050.000",
+      "ticker": "PSX US",
+      "name": "Phillips 66"
+    },
+    {
+      "Name": "US DOLLARS",
+      "Ticker": "CASH_USD",
+      "Identifier": "CASH_USD",
+      "Weight": "1.110014",
+      "Market Value": "197177.92",
+      "Sector": "-",
+      "Shares Held": "197177.920",
+      "ticker": "CASH_USD",
+      "name": "US DOLLARS"
+    },
+    {
+      "Name": "Kroger Co",
+      "Ticker": "KR US",
+      "Identifier": "501044101",
+      "Weight": "1.080230",
+      "Market Value": "191887.2",
+      "Sector": "Consumer Staples",
+      "Shares Held": "5514.000",
+      "ticker": "KR US",
+      "name": "Kroger Co"
+    },
+    {
+      "Name": "Travelers Cos Inc",
+      "Ticker": "TRV US",
+      "Identifier": "89417E109",
+      "Weight": "1.040338",
+      "Market Value": "184800.93",
+      "Sector": "Financials",
+      "Shares Held": "1637.000",
+      "ticker": "TRV US",
+      "name": "Travelers Cos Inc"
+    },
+    {
+      "Name": "Polaris Inc",
+      "Ticker": "PII US",
+      "Identifier": "731068102",
+      "Weight": "1.038547",
+      "Market Value": "184482.9",
+      "Sector": "Consumer Discretionary",
+      "Shares Held": "1890.000",
+      "ticker": "PII US",
+      "name": "Polaris Inc"
+    },
+    {
+      "Name": "Eastman Chemical Co",
+      "Ticker": "EMN US",
+      "Identifier": "277432100",
+      "Weight": "1.030119",
+      "Market Value": "182985.8",
+      "Sector": "Basic Materials",
+      "Shares Held": "2165.000",
+      "ticker": "EMN US",
+      "name": "Eastman Chemical Co"
+    },
+    {
+      "Name": "Exxon Mobil Corp",
+      "Ticker": "XOM US",
+      "Identifier": "30231G102",
+      "Weight": "1.013680",
+      "Market Value": "180065.64",
+      "Sector": "Energy",
+      "Shares Held": "5262.000",
+      "ticker": "XOM US",
+      "name": "Exxon Mobil Corp"
+    },
+    {
+      "Name": "Spirit Realty Capital Inc REIT",
+      "Ticker": "SRC US",
+      "Identifier": "84860W300",
+      "Weight": "1.005165",
+      "Market Value": "178553.1",
+      "Sector": "Real Estate",
+      "Shares Held": "5322.000",
+      "ticker": "SRC US",
+      "name": "Spirit Realty Capital Inc REIT"
+    },
+    {
+      "Name": "Vistra Corp",
+      "Ticker": "VST US",
+      "Identifier": "92840M102",
+      "Weight": "0.923548",
+      "Market Value": "164054.97",
+      "Sector": "Utilities",
+      "Shares Held": "9099.000",
+      "ticker": "VST US",
+      "name": "Vistra Corp"
+    },
+    {
+      "Name": "Humana Inc",
+      "Ticker": "HUM US",
+      "Identifier": "444859102",
+      "Weight": "0.913690",
+      "Market Value": "162303.75",
+      "Sector": "Health Care",
+      "Shares Held": "375.000",
+      "ticker": "HUM US",
+      "name": "Humana Inc"
+    },
+    {
+      "Name": "Cigna Corp",
+      "Ticker": "CI US",
+      "Identifier": "125523100",
+      "Weight": "0.896313",
+      "Market Value": "159216.96",
+      "Sector": "Health Care",
+      "Shares Held": "912.000",
+      "ticker": "CI US",
+      "name": "Cigna Corp"
+    },
+    {
+      "Name": "FirstEnergy Corp",
+      "Ticker": "FE US",
+      "Identifier": "337932107",
+      "Weight": "0.885000",
+      "Market Value": "157207.51",
+      "Sector": "Utilities",
+      "Shares Held": "5021.000",
+      "ticker": "FE US",
+      "name": "FirstEnergy Corp"
+    },
+    {
+      "Name": "Wells Fargo & Co",
+      "Ticker": "WFC US",
+      "Identifier": "949746101",
+      "Weight": "0.816702",
+      "Market Value": "145075.36",
+      "Sector": "Financials",
+      "Shares Held": "5864.000",
+      "ticker": "WFC US",
+      "name": "Wells Fargo & Co"
+    },
+    {
+      "Name": "WP Carey Inc REIT",
+      "Ticker": "WPC US",
+      "Identifier": "92936U109",
+      "Weight": "0.789476",
+      "Market Value": "140239.04",
+      "Sector": "Real Estate",
+      "Shares Held": "2077.000",
+      "ticker": "WPC US",
+      "name": "WP Carey Inc REIT"
+    },
+    {
+      "Name": "Everest Re Group Ltd",
+      "Ticker": "RE US",
+      "Identifier": "G3223R108",
+      "Weight": "0.780921",
+      "Market Value": "138719.35",
+      "Sector": "Financials",
+      "Shares Held": "685.000",
+      "ticker": "RE US",
+      "name": "Everest Re Group Ltd"
+    },
+    {
+      "Name": "Leidos Holdings Inc",
+      "Ticker": "LDOS US",
+      "Identifier": "525327102",
+      "Weight": "0.773494",
+      "Market Value": "137400.02",
+      "Sector": "Technology",
+      "Shares Held": "1558.000",
+      "ticker": "LDOS US",
+      "name": "Leidos Holdings Inc"
+    },
+    {
+      "Name": "Schlumberger NV",
+      "Ticker": "SLB US",
+      "Identifier": "806857108",
+      "Weight": "0.684508",
+      "Market Value": "121592.9",
+      "Sector": "Energy",
+      "Shares Held": "7730.000",
+      "ticker": "SLB US",
+      "name": "Schlumberger NV"
+    },
+    {
+      "Name": "Citrix Systems Inc",
+      "Ticker": "CTXS US",
+      "Identifier": "177376100",
+      "Weight": "0.632438",
+      "Market Value": "112343.4",
+      "Sector": "Technology",
+      "Shares Held": "780.000",
+      "ticker": "CTXS US",
+      "name": "Citrix Systems Inc"
+    },
+    {
+      "Name": "Performance quoted represents past performance, which is no guarantee of future results. Investment return and principal value will fluctuate, so you may have a gain or loss when shares are sold. Current performance may be higher or lower than that quoted. Visit www.ssga.com for most recent month-end performance.",
+      "name": "Performance quoted represents past performance, which is no guarantee of future results. Investment return and principal value will fluctuate, so you may have a gain or loss when shares are sold. Current performance may be higher or lower than that quoted. Visit www.ssga.com for most recent month-end performance."
+    },
+    {
+      "Name": "This analysis or any portion thereof may not be revised or changed in any way, reprinted, sold or redistributed without the written consent of SSGA.",
+      "name": "This analysis or any portion thereof may not be revised or changed in any way, reprinted, sold or redistributed without the written consent of SSGA."
+    },
+    {
+      "Name": "Portfolio holdings, allocations and weightings are as of the date indicated, are subject to change and should not be considered a recommendation to buy individual securities. For most recent information visit www.ssga.com.",
+      "name": "Portfolio holdings, allocations and weightings are as of the date indicated, are subject to change and should not be considered a recommendation to buy individual securities. For most recent information visit www.ssga.com."
+    },
+    {
+      "Name": "Important Risk Information  ",
+      "name": "Important Risk Information  "
+    },
+    {
+      "Name": "Investing involves risk, and you could lose money on an investment in each of SPDR® Gold Shares Trust (“GLD®”) and SPDR® Gold MiniSharesSM Trust  (“GLDMSM”), a series of the World Gold Trust (together, the “Funds”). \n\nETFs trade like stocks, are subject to investment risk, fluctuate in market value and may trade at prices above or below the ETFs’ net asset value. Brokerage commissions and ETF expenses will reduce returns.\n\nCommodities and commodity-index linked securities may be affected by changes in overall market movements, changes in interest rates, and other factors such as weather, disease, embargoes, or political and regulatory developments, as well as trading activity of speculators and arbitrageurs in the underlying commodities.\n\nFrequent trading of ETFs could significantly increase commissions and other costs such that they may offset any savings from low fees or costs.\n\nDiversification does not ensure a profit or guarantee against loss.",
+      "name": "Investing involves risk, and you could lose money on an investment in each of SPDR® Gold Shares Trust (“GLD®”) and SPDR® Gold MiniSharesSM Trust  (“GLDMSM”), a series of the World Gold Trust (together, the “Funds”). \n\nETFs trade like stocks, are subject to investment risk, fluctuate in market value and may trade at prices above or below the ETFs’ net asset value. Brokerage commissions and ETF expenses will reduce returns.\n\nCommodities and commodity-index linked securities may be affected by changes in overall market movements, changes in interest rates, and other factors such as weather, disease, embargoes, or political and regulatory developments, as well as trading activity of speculators and arbitrageurs in the underlying commodities.\n\nFrequent trading of ETFs could significantly increase commissions and other costs such that they may offset any savings from low fees or costs.\n\nDiversification does not ensure a profit or guarantee against loss."
+    },
+    {
+      "Name": "Investing in commodities entails significant risk and is not appropriate for all investors.",
+      "name": "Investing in commodities entails significant risk and is not appropriate for all investors."
+    },
+    {
+      "Name": "Important Information Relating to SPDR® Gold Trust (“GLD®”) and SPDR® Gold MiniSharesSM Trust (“GLDMSM”):",
+      "name": "Important Information Relating to SPDR® Gold Trust (“GLD®”) and SPDR® Gold MiniSharesSM Trust (“GLDMSM”):"
+    },
+    {
+      "Name": "The SPDR Gold Trust (“GLD”) has filed a registration statement (including a prospectus) with the Securities and Exchange Commission (“SEC”) for GLD. The World Gold Trust has filed a registration statement (including a prospectus) with the SEC for GLDM. Before you invest, you should read the prospectus in the registration statement and other documents each Fund has filed with the SEC for more complete information about each Fund and these offerings. Please see each Fund’s prospectus for a detailed discussion of the risks of investing in each Fund’s shares.",
+      "name": "The SPDR Gold Trust (“GLD”) has filed a registration statement (including a prospectus) with the Securities and Exchange Commission (“SEC”) for GLD. The World Gold Trust has filed a registration statement (including a prospectus) with the SEC for GLDM. Before you invest, you should read the prospectus in the registration statement and other documents each Fund has filed with the SEC for more complete information about each Fund and these offerings. Please see each Fund’s prospectus for a detailed discussion of the risks of investing in each Fund’s shares."
+    },
+    {
+      "Name": "The GLD prospectus is available by clicking",
+      "Sector": "here.",
+      "name": "The GLD prospectus is available by clicking"
+    },
+    {
+      "Name": "The GLDM prospectus is available by clicking ",
+      "Sector": "here.",
+      "name": "The GLDM prospectus is available by clicking "
+    },
+    {
+      "Name": "You may get these documents for free by visiting EDGAR on the SEC website at sec.gov or by visiting spdrgoldshares.com. Alternatively, the Funds or any authorized participant will arrange to send you the prospectus if you request it by calling 866.320.4053.",
+      "name": "You may get these documents for free by visiting EDGAR on the SEC website at sec.gov or by visiting spdrgoldshares.com. Alternatively, the Funds or any authorized participant will arrange to send you the prospectus if you request it by calling 866.320.4053."
+    },
+    {
+      "Name": "None of the Funds is an investment company registered under the Investment Company Act of 1940 (the “1940 Act”). As a result, shareholders of each Fund do not have the protections associated with ownership of shares in an investment company registered under the 1940 Act. GLD and GLDM are not subject to regulation under the CEA. As a result, shareholders of each of GLD and GLDM do not have the protections afforded by the CEA. \n\nShares of each Fund trade like stocks, are subject to investment risk and will fluctuate in market value. \n\nThe values of GLD shares and GLDM shares relate directly to the value of the gold held by each Fund (less its expenses), respectively. Fluctuations in the price of gold could materially and adversely affect an investment in the shares. The price received upon the sale of the shares, which trade at market price, may be more or less than the value of the gold represented by them.  \n\nNone of the Funds generate any income, and as each Fund regularly sells gold to pay for its ongoing expenses, the amount of gold represented by each Fund share will decline over time to that extent.\n\nThe World Gold Council name and logo are a registered trademark and used with the permission of the World Gold Council pursuant to a license agreement. The World Gold Council is not responsible for the content of, and is not liable for the use of or reliance on, this material. World Gold Council is an affiliate of the Sponsor of each of GLD and GLDM.\n\nMiniSharesSM and GLDMSM are service marks of WGC USA Asset Management Company, LLC used with the permission of WGC USA Asset Management Company, LLC.\n\nGLD® is a registered trademark of World Gold Trust Services, LLC used with the permission of World Gold Trust Services, LLC.",
+      "name": "None of the Funds is an investment company registered under the Investment Company Act of 1940 (the “1940 Act”). As a result, shareholders of each Fund do not have the protections associated with ownership of shares in an investment company registered under the 1940 Act. GLD and GLDM are not subject to regulation under the CEA. As a result, shareholders of each of GLD and GLDM do not have the protections afforded by the CEA. \n\nShares of each Fund trade like stocks, are subject to investment risk and will fluctuate in market value. \n\nThe values of GLD shares and GLDM shares relate directly to the value of the gold held by each Fund (less its expenses), respectively. Fluctuations in the price of gold could materially and adversely affect an investment in the shares. The price received upon the sale of the shares, which trade at market price, may be more or less than the value of the gold represented by them.  \n\nNone of the Funds generate any income, and as each Fund regularly sells gold to pay for its ongoing expenses, the amount of gold represented by each Fund share will decline over time to that extent.\n\nThe World Gold Council name and logo are a registered trademark and used with the permission of the World Gold Council pursuant to a license agreement. The World Gold Council is not responsible for the content of, and is not liable for the use of or reliance on, this material. World Gold Council is an affiliate of the Sponsor of each of GLD and GLDM.\n\nMiniSharesSM and GLDMSM are service marks of WGC USA Asset Management Company, LLC used with the permission of WGC USA Asset Management Company, LLC.\n\nGLD® is a registered trademark of World Gold Trust Services, LLC used with the permission of World Gold Trust Services, LLC."
+    },
+    {
+      "Name": "For more information, please contact the Marketing Agent for GLD and GLDM: State Street Global Advisors Funds Distributors, LLC, One Iron Street, Boston, MA, 02210; T: +1 866 320 4053 spdrgoldshares.com",
+      "name": "For more information, please contact the Marketing Agent for GLD and GLDM: State Street Global Advisors Funds Distributors, LLC, One Iron Street, Boston, MA, 02210; T: +1 866 320 4053 spdrgoldshares.com"
+    },
+    {
+      "Name": "Standard & Poor’s®, S&P® and SPDR® are registered trademarks of Standard & Poor’s Financial Services LLC (S&P); Dow Jones is a registered trademark of Dow Jones Trademark Holdings LLC (Dow Jones); and these trademarks have been licensed for use by S&P Dow Jones Indices LLC (SPDJI) and sublicensed for certain purposes by State Street Corporation. State Street Corporation’s financial products are not sponsored, endorsed, sold or promoted by SPDJI, Dow Jones, S&P, their respective affiliates and third party licensors and none of such parties make any representation regarding the advisability of investing in such product(s) nor do they have any liability in relation thereto, including for any errors, omissions, or interruptions of any index.",
+      "name": "Standard & Poor’s®, S&P® and SPDR® are registered trademarks of Standard & Poor’s Financial Services LLC (S&P); Dow Jones is a registered trademark of Dow Jones Trademark Holdings LLC (Dow Jones); and these trademarks have been licensed for use by S&P Dow Jones Indices LLC (SPDJI) and sublicensed for certain purposes by State Street Corporation. State Street Corporation’s financial products are not sponsored, endorsed, sold or promoted by SPDJI, Dow Jones, S&P, their respective affiliates and third party licensors and none of such parties make any representation regarding the advisability of investing in such product(s) nor do they have any liability in relation thereto, including for any errors, omissions, or interruptions of any index."
+    },
+    {
+      "Name": "Bonds generally present less short-term risk and volatility than stocks, but contain interest rate risk (as interest rates raise, bond prices usually fall); issuer default risk; issuer credit risk; liquidity risk; and inflation risk. These effects are usually pronounced for longer-term securities. Any fixed income security sold or redeemed prior to maturity may be subject to a substantial gain or loss.\nInternational Government bonds and corporate bonds generally have more moderate short-term price fluctuations than stocks, but provide lower potential long-term returns.\nInvesting in high yield fixed income securities, otherwise known as \"junk bonds\", is considered speculative and involves greater risk of loss of principal and interest than investing in investment grade fixed income securities. These Lower-quality debt securities involve greater risk of default or price changes due to potential changes in the credit quality of the issuer.\nEquity securities may fluctuate in value in response to the activities of individual companies and general market and economic conditions.\nThere are risks associated with investing in Real Assets and the Real Assets sector, including real estate, precious metals and natural resources.  Investments can be significantly affected by events relating to these industries.\nInvesting in foreign domiciled securities may involve risk of capital loss from unfavorable fluctuation in currency values, withholding taxes, from differences in generally accepted accounting principles or from economic or political instability in other nations.  Investments in emerging or developing markets may be more volatile and less liquid than investing in developed markets and may involve exposure to economic structures that are generally less diverse and mature and to political systems which have less stability than those of more developed countries. The trademarks and service marks referenced herein are the property of their respective owners. Third party data providers make no warranties or representations of any kind relating to the accuracy, completeness or timeliness of the data and have no liability for damages of any kind relating to the use of such data. Investing involves risk including the risk of loss of principal.\nThe whole or any part of this work may not be reproduced, copied or transmitted or any of its contents disclosed to third parties without SSGA's express written consent.\nETFs trade like stocks, are subject to investment risk and will fluctuate in market value. The investment return and principal value of an investment will fluctuate in value, so that when shares are sold or redeemed, they may be worth more or less than when they were purchased.  Although shares may be bought or sold on an exchange through any brokerage account, shares are not individually redeemable from the fund.  Investors may acquire shares and tender them for redemption through the fund in large aggregations known as “creation units.”  Please see the fund’s prospectus for more details.\nInvesting in REITs involves certain distinct risks in addition to those risks associated with investing in the real estate industry in general. Equity REITs may be affected by changes in the value of the underlying property owned by the REITs, while mortgage REITs may be affected by the quality of credit extended. REITs are subject to heavy cash flow dependency, default by borrowers and self-liquidation. REITs, especially mortgage REITs, are also subject to interest rate risk (i.e., as interest rates rise, the value of the REIT may decline).\nInvestments in small/mid-sized companies may involve greater risks than in those of larger, better known companies. Concentrated investments in a particular Sector tend to be more volatile than the overall market and increases risk that events negatively affecting such sectors or industries could reduce returns, potentially causing the value of the Fund’s shares to decrease.\nStandard & Poor’s®, S&P® and SPDR® are registered trademarks of Standard & Poor’s Financial Services LLC (S&P); Dow Jones is a registered trademark of Dow Jones Trademark Holdings LLC (Dow Jones); and these trademarks have been licensed for use by S&P Dow Jones Indices LLC (SPDJI) and sublicensed for certain purposes by State Street Corporation. State Street Corporation’s financial products are not sponsored, endorsed, sold or promoted by SPDJI, Dow Jones, S&P, their respective affiliates and third party licensors and none of such parties make any representation regarding the advisability of investing in such product(s) nor do they have any liability in relation thereto, including for any errors, omissions, or interruptions of any index.\nCommodities and commodity-index linked securities may be affected by changes in overall market movements, changes in interest rates, and other factors such as weather, disease, embargoes, or political and regulatory developments, as well as trading activity of speculators and arbitrageurs in the underlying commodities. The returns on a portfolio of securities which exclude companies that do not meet the portfolio's specified ESG criteria may trail the returns on a portfolio of securities which include such companies. A portfolio's ESG criteria may result in the portfolio investing in industry sectors or securities which underperform the market as a whole.\nTechnology companies, including cyber security companies, can be significantly affected by obsolescence of existing technology, limited product lines, and competition for financial resources, qualified personnel, new market entrants or impairment of patent and intellectual property rights that can adversely affect profit margins.",
+      "name": "Bonds generally present less short-term risk and volatility than stocks, but contain interest rate risk (as interest rates raise, bond prices usually fall); issuer default risk; issuer credit risk; liquidity risk; and inflation risk. These effects are usually pronounced for longer-term securities. Any fixed income security sold or redeemed prior to maturity may be subject to a substantial gain or loss.\nInternational Government bonds and corporate bonds generally have more moderate short-term price fluctuations than stocks, but provide lower potential long-term returns.\nInvesting in high yield fixed income securities, otherwise known as \"junk bonds\", is considered speculative and involves greater risk of loss of principal and interest than investing in investment grade fixed income securities. These Lower-quality debt securities involve greater risk of default or price changes due to potential changes in the credit quality of the issuer.\nEquity securities may fluctuate in value in response to the activities of individual companies and general market and economic conditions.\nThere are risks associated with investing in Real Assets and the Real Assets sector, including real estate, precious metals and natural resources.  Investments can be significantly affected by events relating to these industries.\nInvesting in foreign domiciled securities may involve risk of capital loss from unfavorable fluctuation in currency values, withholding taxes, from differences in generally accepted accounting principles or from economic or political instability in other nations.  Investments in emerging or developing markets may be more volatile and less liquid than investing in developed markets and may involve exposure to economic structures that are generally less diverse and mature and to political systems which have less stability than those of more developed countries. The trademarks and service marks referenced herein are the property of their respective owners. Third party data providers make no warranties or representations of any kind relating to the accuracy, completeness or timeliness of the data and have no liability for damages of any kind relating to the use of such data. Investing involves risk including the risk of loss of principal.\nThe whole or any part of this work may not be reproduced, copied or transmitted or any of its contents disclosed to third parties without SSGA's express written consent.\nETFs trade like stocks, are subject to investment risk and will fluctuate in market value. The investment return and principal value of an investment will fluctuate in value, so that when shares are sold or redeemed, they may be worth more or less than when they were purchased.  Although shares may be bought or sold on an exchange through any brokerage account, shares are not individually redeemable from the fund.  Investors may acquire shares and tender them for redemption through the fund in large aggregations known as “creation units.”  Please see the fund’s prospectus for more details.\nInvesting in REITs involves certain distinct risks in addition to those risks associated with investing in the real estate industry in general. Equity REITs may be affected by changes in the value of the underlying property owned by the REITs, while mortgage REITs may be affected by the quality of credit extended. REITs are subject to heavy cash flow dependency, default by borrowers and self-liquidation. REITs, especially mortgage REITs, are also subject to interest rate risk (i.e., as interest rates rise, the value of the REIT may decline).\nInvestments in small/mid-sized companies may involve greater risks than in those of larger, better known companies. Concentrated investments in a particular Sector tend to be more volatile than the overall market and increases risk that events negatively affecting such sectors or industries could reduce returns, potentially causing the value of the Fund’s shares to decrease.\nStandard & Poor’s®, S&P® and SPDR® are registered trademarks of Standard & Poor’s Financial Services LLC (S&P); Dow Jones is a registered trademark of Dow Jones Trademark Holdings LLC (Dow Jones); and these trademarks have been licensed for use by S&P Dow Jones Indices LLC (SPDJI) and sublicensed for certain purposes by State Street Corporation. State Street Corporation’s financial products are not sponsored, endorsed, sold or promoted by SPDJI, Dow Jones, S&P, their respective affiliates and third party licensors and none of such parties make any representation regarding the advisability of investing in such product(s) nor do they have any liability in relation thereto, including for any errors, omissions, or interruptions of any index.\nCommodities and commodity-index linked securities may be affected by changes in overall market movements, changes in interest rates, and other factors such as weather, disease, embargoes, or political and regulatory developments, as well as trading activity of speculators and arbitrageurs in the underlying commodities. The returns on a portfolio of securities which exclude companies that do not meet the portfolio's specified ESG criteria may trail the returns on a portfolio of securities which include such companies. A portfolio's ESG criteria may result in the portfolio investing in industry sectors or securities which underperform the market as a whole.\nTechnology companies, including cyber security companies, can be significantly affected by obsolescence of existing technology, limited product lines, and competition for financial resources, qualified personnel, new market entrants or impairment of patent and intellectual property rights that can adversely affect profit margins."
+    },
+    {
+      "Name": "Distributor: State Street Global Advisors Funds Distributors, LLC, member FINRA(http://www.finra.org), SIPC(http://www.sipc.org), an indirect wholly owned subsidiary of State Street Corporation. References to State Street may include State Street Corporation and its affiliates. Certain State Street affiliates provide services and receive fees from the SPDR ETFs. ALPS Distributors, Inc., member FINRA, is the distributor for DIA, MDY and SPY, all unit investment trusts. ALPS Portfolio Solutions Distributor, Inc., member FINRA, is the distributor for Select Sector SPDRs. ALPS Distributors, Inc. and ALPS Portfolio Solutions Distributor, Inc. are not affiliated with State Street Global Advisors Funds Distributors, LLC.",
+      "name": "Distributor: State Street Global Advisors Funds Distributors, LLC, member FINRA(http://www.finra.org), SIPC(http://www.sipc.org), an indirect wholly owned subsidiary of State Street Corporation. References to State Street may include State Street Corporation and its affiliates. Certain State Street affiliates provide services and receive fees from the SPDR ETFs. ALPS Distributors, Inc., member FINRA, is the distributor for DIA, MDY and SPY, all unit investment trusts. ALPS Portfolio Solutions Distributor, Inc., member FINRA, is the distributor for Select Sector SPDRs. ALPS Distributors, Inc. and ALPS Portfolio Solutions Distributor, Inc. are not affiliated with State Street Global Advisors Funds Distributors, LLC."
+    },
+    {
+      "Name": "Before investing, consider the funds’ investment objectives, risks, charges and expenses. To obtain a prospectus or summary prospectus, this contains this and other information, call 1-866-787-2257 or visit www.ssga.com. Read it carefully.\n\nNot FDIC Insured * No Bank Guarantee * May Lose Value\n\n2529657.2.1.AM.RTL\nExpiration: 03/31/2021\nSPD002304",
+      "name": "Before investing, consider the funds’ investment objectives, risks, charges and expenses. To obtain a prospectus or summary prospectus, this contains this and other information, call 1-866-787-2257 or visit www.ssga.com. Read it carefully.\n\nNot FDIC Insured * No Bank Guarantee * May Lose Value\n\n2529657.2.1.AM.RTL\nExpiration: 03/31/2021\nSPD002304"
+    }
+  ]
+}

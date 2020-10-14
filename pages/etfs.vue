@@ -23,7 +23,7 @@
       <!-- Provides the application the proper gutter -->
       <v-container>
         <v-toolbar outlined tile>
-          <v-toolbar-title>ETF</v-toolbar-title>
+          <v-toolbar-title>ETF (A)</v-toolbar-title>
           <v-autocomplete
             filled
             dense

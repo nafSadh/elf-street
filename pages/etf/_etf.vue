@@ -104,8 +104,9 @@ export default {
       return this.$route.params.etf
     },
     etf() {
-      const etfJson = require('~/static/etf/' + this.etfId + '.json')
-      return etfJson
+      // const etfJson = require('~/static/etf/' + this.etfId + '.json')
+      // return etfJson
+      return {}
     },
     overviewProps() {
       return _.without(

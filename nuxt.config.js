@@ -2,7 +2,7 @@ import etfJson from './static/etfs.json'
 
 export default {
   // Disable server-side rendering (https://go.nuxtjs.dev/ssr-mode)
-  ssr: true,
+  ssr: false,
 
   // Target (https://go.nuxtjs.dev/config-target)
   target: 'static',
@@ -47,6 +47,7 @@ export default {
   generate: {
     routes() {
       const etfRoutes = []
+      /*
       const fs = require('fs')
       for (const etf of etfJson.ETFs) {
         if (etf.ticker) {
@@ -56,6 +57,7 @@ export default {
           }
         }
       }
+      */
       return etfRoutes
     },
   },

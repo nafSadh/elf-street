@@ -21,120 +21,39 @@
   },
   "holdings": [
     {
-      "Fund Ticker": "DGL",
-      "Security Identifier": "GCG1",
-      "Identifier": "",
-      "Shares": "875.00",
-      "Weight": "100.072",
-      "Name": "COMEX Gold 100 Troy Ounces Future",
-      "Contract Expiry Date": "02/24/2021",
-      "Sector": "Precious Metals",
-      "$ Value": "166,442,500.00",
-      "Date": "10/13/2020",
       "ticker": "GCG1",
       "name": "COMEX Gold 100 Troy Ounces Future",
-      "percent": "100.072",
-      "weight": 1.00072
+      "percent": "100.072"
     },
     {
-      "Fund Ticker": "DGL",
-      "Security Identifier": "825252885",
-      "Identifier": "AGPXX",
-      "Shares": "86,913,754.38",
-      "Weight": "52.256",
-      "Name": "STIT - Government & Agency Portfolio",
-      "Contract Expiry Date": "",
-      "Sector": "Collateral",
-      "$ Value": "86,913,754.38",
-      "Date": "10/13/2020",
       "ticker": "825252885",
       "name": "STIT - Government & Agency Portfolio",
-      "percent": "52.256",
-      "weight": 0.52256
+      "percent": "52.256"
     },
     {
-      "Fund Ticker": "DGL",
-      "Security Identifier": "9127963K3",
-      "Identifier": "",
-      "Shares": "30,000,000.00",
-      "Weight": "18.034",
-      "Name": "United States Treasury Bill",
-      "Contract Expiry Date": "12/17/2020",
-      "Sector": "Collateral",
-      "$ Value": "29,995,466.70",
-      "Date": "10/13/2020",
       "ticker": "9127963K3",
       "name": "United States Treasury Bill",
-      "percent": "18.034",
-      "weight": 0.18034
+      "percent": "18.034"
     },
     {
-      "Fund Ticker": "DGL",
-      "Security Identifier": "912796TU3",
-      "Identifier": "",
-      "Shares": "20,000,000.00",
-      "Weight": "12.023",
-      "Name": "United States Treasury Bill",
-      "Contract Expiry Date": "12/03/2020",
-      "Sector": "Collateral",
-      "$ Value": "19,997,638.80",
-      "Date": "10/13/2020",
       "ticker": "912796TU3",
       "name": "United States Treasury Bill",
-      "percent": "12.023",
-      "weight": 0.12023
+      "percent": "12.023"
     },
     {
-      "Fund Ticker": "DGL",
-      "Security Identifier": "46138G888",
-      "Identifier": "CLTL",
-      "Shares": "165,000.00",
-      "Weight": "10.491",
-      "Name": "Invesco Treasury Collateral ETF",
-      "Contract Expiry Date": "",
-      "Sector": "Collateral",
-      "$ Value": "17,448,750.00",
-      "Date": "10/13/2020",
       "ticker": "46138G888",
       "name": "Invesco Treasury Collateral ETF",
-      "percent": "10.491",
-      "weight": 0.10491
+      "percent": "10.491"
     },
     {
-      "Fund Ticker": "DGL",
-      "Security Identifier": "9127962Z1",
-      "Identifier": "",
-      "Shares": "15,000,000.00",
-      "Weight": "9.018",
-      "Name": "United States Treasury Bill",
-      "Contract Expiry Date": "11/12/2020",
-      "Sector": "Collateral",
-      "$ Value": "14,998,972.95",
-      "Date": "10/13/2020",
       "ticker": "9127962Z1",
       "name": "United States Treasury Bill",
-      "percent": "9.018",
-      "weight": 0.09018
+      "percent": "9.018"
     },
     {
-      "Fund Ticker": "DGL",
-      "Security Identifier": "CASHUSD00",
-      "Identifier": "-CASH-",
-      "Shares": "93,220.90",
-      "Weight": ".056",
-      "Name": "Cash/Receivables/Payables",
-      "Contract Expiry Date": "",
-      "Sector": "Collateral",
-      "$ Value": "93,220.90",
-      "Date": "10/13/2020",
       "ticker": "CASHUSD00",
       "name": "Cash/Receivables/Payables",
-      "percent": ".056",
-      "weight": 0.00056
-    },
-    {
-      "Fund Ticker": "",
-      "weight": null
+      "percent": ".056"
     }
   ]
 }

@@ -21,120 +21,39 @@
   },
   "holdings": [
     {
-      "Fund Ticker": "UUP",
-      "Security Identifier": "DXZ0",
-      "Identifier": "",
-      "Shares": "8,586.00",
-      "Weight": "100.011",
-      "Name": "NYBOT FINEX United States Dollar Index Future",
-      "Contract Expiry Date": "12/14/2020",
-      "Sector": "Currency",
-      "$ Value": "803,100,096.00",
-      "Date": "10/13/2020",
       "ticker": "DXZ0",
       "name": "NYBOT FINEX United States Dollar Index Future",
-      "percent": "100.011",
-      "weight": 1.00011
+      "percent": "100.011"
     },
     {
-      "Fund Ticker": "UUP",
-      "Security Identifier": "825252885",
-      "Identifier": "AGPXX",
-      "Shares": "434,643,024.26",
-      "Weight": "54.127",
-      "Name": "STIT - Government & Agency Portfolio",
-      "Contract Expiry Date": "",
-      "Sector": "Collateral",
-      "$ Value": "434,643,024.26",
-      "Date": "10/13/2020",
       "ticker": "825252885",
       "name": "STIT - Government & Agency Portfolio",
-      "percent": "54.127",
-      "weight": 0.54127
+      "percent": "54.127"
     },
     {
-      "Fund Ticker": "UUP",
-      "Security Identifier": "9127964C0",
-      "Identifier": "",
-      "Shares": "150,000,000.00",
-      "Weight": "18.673",
-      "Name": "United States Treasury Bill",
-      "Contract Expiry Date": "02/11/2021",
-      "Sector": "Collateral",
-      "$ Value": "149,950,000.50",
-      "Date": "10/13/2020",
       "ticker": "9127964C0",
       "name": "United States Treasury Bill",
-      "percent": "18.673",
-      "weight": 0.18673
+      "percent": "18.673"
     },
     {
-      "Fund Ticker": "UUP",
-      "Security Identifier": "912796TU3",
-      "Identifier": "",
-      "Shares": "100,000,000.00",
-      "Weight": "12.452",
-      "Name": "United States Treasury Bill",
-      "Contract Expiry Date": "12/03/2020",
-      "Sector": "Collateral",
-      "$ Value": "99,988,194.00",
-      "Date": "10/13/2020",
       "ticker": "912796TU3",
       "name": "United States Treasury Bill",
-      "percent": "12.452",
-      "weight": 0.12452
+      "percent": "12.452"
     },
     {
-      "Fund Ticker": "UUP",
-      "Security Identifier": "46138G888",
-      "Identifier": "CLTL",
-      "Shares": "757,000.00",
-      "Weight": "9.969",
-      "Name": "Invesco Treasury Collateral ETF",
-      "Contract Expiry Date": "",
-      "Sector": "Collateral",
-      "$ Value": "80,052,750.00",
-      "Date": "10/13/2020",
       "ticker": "46138G888",
       "name": "Invesco Treasury Collateral ETF",
-      "percent": "9.969",
-      "weight": 0.09969
+      "percent": "9.969"
     },
     {
-      "Fund Ticker": "UUP",
-      "Security Identifier": "9127963K3",
-      "Identifier": "",
-      "Shares": "20,000,000.00",
-      "Weight": "2.490",
-      "Name": "United States Treasury Bill",
-      "Contract Expiry Date": "12/17/2020",
-      "Sector": "Collateral",
-      "$ Value": "19,996,977.80",
-      "Date": "10/13/2020",
       "ticker": "9127963K3",
       "name": "United States Treasury Bill",
-      "percent": "2.490",
-      "weight": 0.0249
+      "percent": "2.490"
     },
     {
-      "Fund Ticker": "UUP",
-      "Security Identifier": "CASHUSD00",
-      "Identifier": "-CASH-",
-      "Shares": "15,122,974.87",
-      "Weight": "1.883",
-      "Name": "Cash/Receivables/Payables",
-      "Contract Expiry Date": "",
-      "Sector": "Collateral",
-      "$ Value": "15,122,974.87",
-      "Date": "10/13/2020",
       "ticker": "CASHUSD00",
       "name": "Cash/Receivables/Payables",
-      "percent": "1.883",
-      "weight": 0.01883
-    },
-    {
-      "Fund Ticker": "",
-      "weight": null
+      "percent": "1.883"
     }
   ]
 }

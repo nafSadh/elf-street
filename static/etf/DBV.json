@@ -21,168 +21,54 @@
   },
   "holdings": [
     {
-      "Fund Ticker": "DBV",
-      "Security Identifier": "825252885",
-      "Identifier": "AGPXX",
-      "Shares": "7,122,939.94",
-      "Weight": "50.491",
-      "Name": "STIT - Government & Agency Portfolio",
-      "Contract Expiry Date": "",
-      "Sector": "Collateral",
-      "$ Value": "7,122,939.94",
-      "Date": "10/13/2020",
       "ticker": "825252885",
       "name": "STIT - Government & Agency Portfolio",
-      "percent": "50.491",
-      "weight": 0.50491
+      "percent": "50.491"
     },
     {
-      "Fund Ticker": "DBV",
-      "Security Identifier": "9127963K3",
-      "Identifier": "",
-      "Shares": "5,000,000.00",
-      "Weight": "35.437",
-      "Name": "United States Treasury Bill",
-      "Contract Expiry Date": "12/17/2020",
-      "Sector": "Collateral",
-      "$ Value": "4,999,244.45",
-      "Date": "10/13/2020",
       "ticker": "9127963K3",
       "name": "United States Treasury Bill",
-      "percent": "35.437",
-      "weight": 0.35437
+      "percent": "35.437"
     },
     {
-      "Fund Ticker": "DBV",
-      "Security Identifier": "CDZ0",
-      "Identifier": "",
-      "Shares": "62.00",
-      "Weight": "33.449",
-      "Name": "CME Canadian Dollar Currency Future",
-      "Contract Expiry Date": "12/15/2020",
-      "Sector": "Currency",
-      "$ Value": "4,718,820.00",
-      "Date": "10/13/2020",
       "ticker": "CDZ0",
       "name": "CME Canadian Dollar Currency Future",
-      "percent": "33.449",
-      "weight": 0.33449
+      "percent": "33.449"
     },
     {
-      "Fund Ticker": "DBV",
-      "Security Identifier": "NVZ0",
-      "Identifier": "",
-      "Shares": "71.00",
-      "Weight": "33.433",
-      "Name": "CME New Zealand Dollar Currency Future",
-      "Contract Expiry Date": "12/14/2020",
-      "Sector": "Currency",
-      "$ Value": "4,716,530.00",
-      "Date": "10/13/2020",
       "ticker": "NVZ0",
       "name": "CME New Zealand Dollar Currency Future",
-      "percent": "33.433",
-      "weight": 0.33433
+      "percent": "33.433"
     },
     {
-      "Fund Ticker": "DBV",
-      "Security Identifier": "NOZ0",
-      "Identifier": "",
-      "Shares": "21.00",
-      "Weight": "32.207",
-      "Name": "CME Norwegian Krone Currency Future",
-      "Contract Expiry Date": "12/14/2020",
-      "Sector": "Currency",
-      "$ Value": "4,543,560.00",
-      "Date": "10/13/2020",
       "ticker": "NOZ0",
       "name": "CME Norwegian Krone Currency Future",
-      "percent": "32.207",
-      "weight": 0.32207
+      "percent": "32.207"
     },
     {
-      "Fund Ticker": "DBV",
-      "Security Identifier": "912796TU3",
-      "Identifier": "",
-      "Shares": "2,000,000.00",
-      "Weight": "14.175",
-      "Name": "United States Treasury Bill",
-      "Contract Expiry Date": "12/03/2020",
-      "Sector": "Collateral",
-      "$ Value": "1,999,763.88",
-      "Date": "10/13/2020",
       "ticker": "912796TU3",
       "name": "United States Treasury Bill",
-      "percent": "14.175",
-      "weight": 0.14175
+      "percent": "14.175"
     },
     {
-      "Fund Ticker": "DBV",
-      "Security Identifier": "CASHUSD00",
-      "Identifier": "-CASH-",
-      "Shares": "7,903.06",
-      "Weight": ".056",
-      "Name": "Cash/Receivables/Payables",
-      "Contract Expiry Date": "",
-      "Sector": "Collateral",
-      "$ Value": "7,903.06",
-      "Date": "10/13/2020",
       "ticker": "CASHUSD00",
       "name": "Cash/Receivables/Payables",
-      "percent": ".056",
-      "weight": 0.00056
+      "percent": ".056"
     },
     {
-      "Fund Ticker": "DBV",
-      "Security Identifier": "SFZ0",
-      "Identifier": "",
-      "Shares": "-34.00",
-      "Weight": "-32.997",
-      "Name": "CME Swiss Franc Currency Future",
-      "Contract Expiry Date": "12/14/2020",
-      "Sector": "Currency",
-      "$ Value": "-4,655,025.00",
-      "Date": "10/13/2020",
       "ticker": "SFZ0",
       "name": "CME Swiss Franc Currency Future",
-      "percent": "-32.997",
-      "weight": -0.32997
+      "percent": "-32.997"
     },
     {
-      "Fund Ticker": "DBV",
-      "Security Identifier": "ECZ0",
-      "Identifier": "",
-      "Shares": "-32.00",
-      "Weight": "-33.344",
-      "Name": "CME Euro Foreign Exchange Currency Future",
-      "Contract Expiry Date": "12/14/2020",
-      "Sector": "Currency",
-      "$ Value": "-4,704,000.00",
-      "Date": "10/13/2020",
       "ticker": "ECZ0",
       "name": "CME Euro Foreign Exchange Currency Future",
-      "percent": "-33.344",
-      "weight": -0.33344
+      "percent": "-33.344"
     },
     {
-      "Fund Ticker": "DBV",
-      "Security Identifier": "JYZ0",
-      "Identifier": "",
-      "Shares": "-40.00",
-      "Weight": "-33.619",
-      "Name": "CME Japanese Yen Currency Future",
-      "Contract Expiry Date": "12/14/2020",
-      "Sector": "Currency",
-      "$ Value": "-4,742,750.00",
-      "Date": "10/13/2020",
       "ticker": "JYZ0",
       "name": "CME Japanese Yen Currency Future",
-      "percent": "-33.619",
-      "weight": -0.33619
-    },
-    {
-      "Fund Ticker": "",
-      "weight": null
+      "percent": "-33.619"
     }
   ]
 }

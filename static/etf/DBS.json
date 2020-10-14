@@ -21,104 +21,34 @@
   },
   "holdings": [
     {
-      "Fund Ticker": "DBS",
-      "Security Identifier": "SIK1",
-      "Identifier": "",
-      "Shares": "225.00",
-      "Weight": "100.040",
-      "Name": "COMEX Silver Future",
-      "Contract Expiry Date": "05/26/2021",
-      "Sector": "Precious Metals",
-      "$ Value": "27,488,250.00",
-      "Date": "10/13/2020",
       "ticker": "SIK1",
       "name": "COMEX Silver Future",
-      "percent": "100.040",
-      "weight": 1.0004
+      "percent": "100.040"
     },
     {
-      "Fund Ticker": "DBS",
-      "Security Identifier": "825252885",
-      "Identifier": "AGPXX",
-      "Shares": "13,768,590.22",
-      "Weight": "50.109",
-      "Name": "STIT - Government & Agency Portfolio",
-      "Contract Expiry Date": "",
-      "Sector": "Collateral",
-      "$ Value": "13,768,590.22",
-      "Date": "10/13/2020",
       "ticker": "825252885",
       "name": "STIT - Government & Agency Portfolio",
-      "percent": "50.109",
-      "weight": 0.50109
+      "percent": "50.109"
     },
     {
-      "Fund Ticker": "DBS",
-      "Security Identifier": "9127963J6",
-      "Identifier": "",
-      "Shares": "7,000,000.00",
-      "Weight": "25.472",
-      "Name": "United States Treasury Bill",
-      "Contract Expiry Date": "12/10/2020",
-      "Sector": "Collateral",
-      "$ Value": "6,999,030.22",
-      "Date": "10/13/2020",
       "ticker": "9127963J6",
       "name": "United States Treasury Bill",
-      "percent": "25.472",
-      "weight": 0.25472
+      "percent": "25.472"
     },
     {
-      "Fund Ticker": "DBS",
-      "Security Identifier": "9127963K3",
-      "Identifier": "",
-      "Shares": "6,000,000.00",
-      "Weight": "21.833",
-      "Name": "United States Treasury Bill",
-      "Contract Expiry Date": "12/17/2020",
-      "Sector": "Collateral",
-      "$ Value": "5,999,093.34",
-      "Date": "10/13/2020",
       "ticker": "9127963K3",
       "name": "United States Treasury Bill",
-      "percent": "21.833",
-      "weight": 0.21833
+      "percent": "21.833"
     },
     {
-      "Fund Ticker": "DBS",
-      "Security Identifier": "9127962Z1",
-      "Identifier": "",
-      "Shares": "2,000,000.00",
-      "Weight": "7.278",
-      "Name": "United States Treasury Bill",
-      "Contract Expiry Date": "11/12/2020",
-      "Sector": "Collateral",
-      "$ Value": "1,999,863.06",
-      "Date": "10/13/2020",
       "ticker": "9127962Z1",
       "name": "United States Treasury Bill",
-      "percent": "7.278",
-      "weight": 0.07278
+      "percent": "7.278"
     },
     {
-      "Fund Ticker": "DBS",
-      "Security Identifier": "CASHUSD00",
-      "Identifier": "-CASH-",
-      "Shares": "16,290.45",
-      "Weight": ".059",
-      "Name": "Cash/Receivables/Payables",
-      "Contract Expiry Date": "",
-      "Sector": "Collateral",
-      "$ Value": "16,290.45",
-      "Date": "10/13/2020",
       "ticker": "CASHUSD00",
       "name": "Cash/Receivables/Payables",
-      "percent": ".059",
-      "weight": 0.00059
-    },
-    {
-      "Fund Ticker": "",
-      "weight": null
+      "percent": ".059"
     }
   ]
 }

@@ -20,1501 +20,649 @@
   },
   "holdings": [
     {
-      "Name": "AT&T Inc.",
-      "Ticker": "T",
-      "Identifier": "00206R10",
-      "SEDOL": "2831811",
-      "Weight": "1.976936",
-      "Sector": "Communication Services",
-      "Shares Held": "11083971.000",
-      "Local Currency": "USD",
       "ticker": "T",
-      "name": "AT&T Inc."
+      "name": "AT&T Inc.",
+      "percent": "1.976936"
     },
     {
-      "Name": "Eaton Vance Corp.",
-      "Ticker": "EV",
-      "Identifier": "27826510",
-      "SEDOL": "2301057",
-      "Weight": "1.967279",
-      "Sector": "Financials",
-      "Shares Held": "5006996.000",
-      "Local Currency": "USD",
       "ticker": "EV",
-      "name": "Eaton Vance Corp."
+      "name": "Eaton Vance Corp.",
+      "percent": "1.967279"
     },
     {
-      "Name": "Exxon Mobil Corporation",
-      "Ticker": "XOM",
-      "Identifier": "30231G10",
-      "SEDOL": "2326618",
-      "Weight": "1.877262",
-      "Sector": "Energy",
-      "Shares Held": "8535139.000",
-      "Local Currency": "USD",
       "ticker": "XOM",
-      "name": "Exxon Mobil Corporation"
+      "name": "Exxon Mobil Corporation",
+      "percent": "1.877262"
     },
     {
-      "Name": "National Retail Properties Inc.",
-      "Ticker": "NNN",
-      "Identifier": "63741710",
-      "SEDOL": "2211811",
-      "Weight": "1.841852",
-      "Sector": "Real Estate",
-      "Shares Held": "8117938.000",
-      "Local Currency": "USD",
       "ticker": "NNN",
-      "name": "National Retail Properties Inc."
+      "name": "National Retail Properties Inc.",
+      "percent": "1.841852"
     },
     {
-      "Name": "Franklin Resources Inc.",
-      "Ticker": "BEN",
-      "Identifier": "35461310",
-      "SEDOL": "2350684",
-      "Weight": "1.772776",
-      "Sector": "Financials",
-      "Shares Held": "11909156.000",
-      "Local Currency": "USD",
       "ticker": "BEN",
-      "name": "Franklin Resources Inc."
+      "name": "Franklin Resources Inc.",
+      "percent": "1.772776"
     },
     {
-      "Name": "Leggett & Platt Incorporated",
-      "Ticker": "LEG",
-      "Identifier": "52466010",
-      "SEDOL": "2510682",
-      "Weight": "1.721400",
-      "Sector": "Consumer Discretionary",
-      "Shares Held": "6034762.000",
-      "Local Currency": "USD",
       "ticker": "LEG",
-      "name": "Leggett & Platt Incorporated"
+      "name": "Leggett & Platt Incorporated",
+      "percent": "1.721400"
     },
     {
-      "Name": "People's United Financial Inc.",
-      "Ticker": "PBCT",
-      "Identifier": "71270410",
-      "SEDOL": "B1W41J2",
-      "Weight": "1.654407",
-      "Sector": "Financials",
-      "Shares Held": "24702468.000",
-      "Local Currency": "USD",
       "ticker": "PBCT",
-      "name": "People's United Financial Inc."
+      "name": "People's United Financial Inc.",
+      "percent": "1.654407"
     },
     {
-      "Name": "International Business Machines Corporation",
-      "Ticker": "IBM",
-      "Identifier": "45920010",
-      "SEDOL": "2005973",
-      "Weight": "1.643823",
-      "Sector": "Information Technology",
-      "Shares Held": "2044389.000",
-      "Local Currency": "USD",
       "ticker": "IBM",
-      "name": "International Business Machines Corporation"
+      "name": "International Business Machines Corporation",
+      "percent": "1.643823"
     },
     {
-      "Name": "Federal Realty Investment Trust",
-      "Ticker": "FRT",
-      "Identifier": "31374720",
-      "SEDOL": "2333931",
-      "Weight": "1.590572",
-      "Sector": "Real Estate",
-      "Shares Held": "3216795.000",
-      "Local Currency": "USD",
       "ticker": "FRT",
-      "name": "Federal Realty Investment Trust"
+      "name": "Federal Realty Investment Trust",
+      "percent": "1.590572"
     },
     {
-      "Name": "Realty Income Corporation",
-      "Ticker": "O",
-      "Identifier": "75610910",
-      "SEDOL": "2724193",
-      "Weight": "1.548545",
-      "Sector": "Real Estate",
-      "Shares Held": "3906750.000",
-      "Local Currency": "USD",
       "ticker": "O",
-      "name": "Realty Income Corporation"
+      "name": "Realty Income Corporation",
+      "percent": "1.548545"
     },
     {
-      "Name": "Old Republic International Corporation",
-      "Ticker": "ORI",
-      "Identifier": "68022310",
-      "SEDOL": "2659109",
-      "Weight": "1.497739",
-      "Sector": "Financials",
-      "Shares Held": "14823447.000",
-      "Local Currency": "USD",
       "ticker": "ORI",
-      "name": "Old Republic International Corporation"
+      "name": "Old Republic International Corporation",
+      "percent": "1.497739"
     },
     {
-      "Name": "Amcor PLC",
-      "Ticker": "AMCR",
-      "Identifier": "G0250X10",
-      "SEDOL": "BJ1F307",
-      "Weight": "1.475061",
-      "Sector": "Materials",
-      "Shares Held": "20113612.000",
-      "Local Currency": "USD",
       "ticker": "AMCR",
-      "name": "Amcor PLC"
+      "name": "Amcor PLC",
+      "percent": "1.475061"
     },
     {
-      "Name": "Chevron Corporation",
-      "Ticker": "CVX",
-      "Identifier": "16676410",
-      "SEDOL": "2838555",
-      "Weight": "1.441855",
-      "Sector": "Energy",
-      "Shares Held": "3056267.000",
-      "Local Currency": "USD",
       "ticker": "CVX",
-      "name": "Chevron Corporation"
+      "name": "Chevron Corporation",
+      "percent": "1.441855"
     },
     {
-      "Name": "Consolidated Edison Inc.",
-      "Ticker": "ED",
-      "Identifier": "20911510",
-      "SEDOL": "2216850",
-      "Weight": "1.418642",
-      "Sector": "Utilities",
-      "Shares Held": "2681224.000",
-      "Local Currency": "USD",
       "ticker": "ED",
-      "name": "Consolidated Edison Inc."
+      "name": "Consolidated Edison Inc.",
+      "percent": "1.418642"
     },
     {
-      "Name": "Nucor Corporation",
-      "Ticker": "NUE",
-      "Identifier": "67034610",
-      "SEDOL": "2651086",
-      "Weight": "1.352041",
-      "Sector": "Materials",
-      "Shares Held": "4322095.000",
-      "Local Currency": "USD",
       "ticker": "NUE",
-      "name": "Nucor Corporation"
+      "name": "Nucor Corporation",
+      "percent": "1.352041"
     },
     {
-      "Name": "UGI Corporation",
-      "Ticker": "UGI",
-      "Identifier": "90268110",
-      "SEDOL": "2910118",
-      "Weight": "1.335525",
-      "Sector": "Utilities",
-      "Shares Held": "6022802.000",
-      "Local Currency": "USD",
       "ticker": "UGI",
-      "name": "UGI Corporation"
+      "name": "UGI Corporation",
+      "percent": "1.335525"
     },
     {
-      "Name": "AbbVie Inc.",
-      "Ticker": "ABBV",
-      "Identifier": "00287Y10",
-      "SEDOL": "B92SR70",
-      "Weight": "1.331218",
-      "Sector": "Health Care",
-      "Shares Held": "2358154.000",
-      "Local Currency": "USD",
       "ticker": "ABBV",
-      "name": "AbbVie Inc."
+      "name": "AbbVie Inc.",
+      "percent": "1.331218"
     },
     {
-      "Name": "National Fuel Gas Company",
-      "Ticker": "NFG",
-      "Identifier": "63618010",
-      "SEDOL": "2626103",
-      "Weight": "1.330159",
-      "Sector": "Utilities",
-      "Shares Held": "4879790.000",
-      "Local Currency": "USD",
       "ticker": "NFG",
-      "name": "National Fuel Gas Company"
+      "name": "National Fuel Gas Company",
+      "percent": "1.330159"
     },
     {
-      "Name": "Archer-Daniels-Midland Company",
-      "Ticker": "ADM",
-      "Identifier": "03948310",
-      "SEDOL": "2047317",
-      "Weight": "1.281893",
-      "Sector": "Consumer Staples",
-      "Shares Held": "4084422.000",
-      "Local Currency": "USD",
       "ticker": "ADM",
-      "name": "Archer-Daniels-Midland Company"
+      "name": "Archer-Daniels-Midland Company",
+      "percent": "1.281893"
     },
     {
-      "Name": "Bank OZK",
-      "Ticker": "OZK",
-      "Identifier": "06417N10",
-      "SEDOL": "BZ56Q65",
-      "Weight": "1.280119",
-      "Sector": "Financials",
-      "Shares Held": "9096435.000",
-      "Local Currency": "USD",
       "ticker": "OZK",
-      "name": "Bank OZK"
+      "name": "Bank OZK",
+      "percent": "1.280119"
     },
     {
-      "Name": "Genuine Parts Company",
-      "Ticker": "GPC",
-      "Identifier": "37246010",
-      "SEDOL": "2367480",
-      "Weight": "1.253888",
-      "Sector": "Consumer Discretionary",
-      "Shares Held": "1952806.000",
-      "Local Currency": "USD",
       "ticker": "GPC",
-      "name": "Genuine Parts Company"
+      "name": "Genuine Parts Company",
+      "percent": "1.253888"
     },
     {
-      "Name": "V.F. Corporation",
-      "Ticker": "VFC",
-      "Identifier": "91820410",
-      "SEDOL": "2928683",
-      "Weight": "1.237093",
-      "Sector": "Consumer Discretionary",
-      "Shares Held": "2505497.000",
-      "Local Currency": "USD",
       "ticker": "VFC",
-      "name": "V.F. Corporation"
+      "name": "V.F. Corporation",
+      "percent": "1.237093"
     },
     {
-      "Name": "MDU Resources Group Inc",
-      "Ticker": "MDU",
-      "Identifier": "55269010",
-      "SEDOL": "2547323",
-      "Weight": "1.217669",
-      "Sector": "Utilities",
-      "Shares Held": "8172998.000",
-      "Local Currency": "USD",
       "ticker": "MDU",
-      "name": "MDU Resources Group Inc"
+      "name": "MDU Resources Group Inc",
+      "percent": "1.217669"
     },
     {
-      "Name": "Walgreens Boots Alliance Inc",
-      "Ticker": "WBA",
-      "Identifier": "93142710",
-      "SEDOL": "BTN1Y44",
-      "Weight": "1.206261",
-      "Sector": "Consumer Staples",
-      "Shares Held": "5187264.000",
-      "Local Currency": "USD",
       "ticker": "WBA",
-      "name": "Walgreens Boots Alliance Inc"
+      "name": "Walgreens Boots Alliance Inc",
+      "percent": "1.206261"
     },
     {
-      "Name": "3M Company",
-      "Ticker": "MMM",
-      "Identifier": "88579Y10",
-      "SEDOL": "2595708",
-      "Weight": "1.203121",
-      "Sector": "Industrials",
-      "Shares Held": "1123367.000",
-      "Local Currency": "USD",
       "ticker": "MMM",
-      "name": "3M Company"
+      "name": "3M Company",
+      "percent": "1.203121"
     },
     {
-      "Name": "Sysco Corporation",
-      "Ticker": "SYY",
-      "Identifier": "87182910",
-      "SEDOL": "2868165",
-      "Weight": "1.194319",
-      "Sector": "Consumer Staples",
-      "Shares Held": "2855213.000",
-      "Local Currency": "USD",
       "ticker": "SYY",
-      "name": "Sysco Corporation"
+      "name": "Sysco Corporation",
+      "percent": "1.194319"
     },
     {
-      "Name": "Caterpillar Inc.",
-      "Ticker": "CAT",
-      "Identifier": "14912310",
-      "SEDOL": "2180201",
-      "Weight": "1.175035",
-      "Sector": "Industrials",
-      "Shares Held": "1127665.000",
-      "Local Currency": "USD",
       "ticker": "CAT",
-      "name": "Caterpillar Inc."
+      "name": "Caterpillar Inc.",
+      "percent": "1.175035"
     },
     {
-      "Name": "Coca-Cola Company",
-      "Ticker": "KO",
-      "Identifier": "19121610",
-      "SEDOL": "2206657",
-      "Weight": "1.163879",
-      "Sector": "Consumer Staples",
-      "Shares Held": "3605759.000",
-      "Local Currency": "USD",
       "ticker": "KO",
-      "name": "Coca-Cola Company"
+      "name": "Coca-Cola Company",
+      "percent": "1.163879"
     },
     {
-      "Name": "J.M. Smucker Company",
-      "Ticker": "SJM",
-      "Identifier": "83269640",
-      "SEDOL": "2951452",
-      "Weight": "1.131072",
-      "Sector": "Consumer Staples",
-      "Shares Held": "1465376.000",
-      "Local Currency": "USD",
       "ticker": "SJM",
-      "name": "J.M. Smucker Company"
+      "name": "J.M. Smucker Company",
+      "percent": "1.131072"
     },
     {
-      "Name": "Black Hills Corporation",
-      "Ticker": "BKH",
-      "Identifier": "09211310",
-      "SEDOL": "2101741",
-      "Weight": "1.107132",
-      "Sector": "Utilities",
-      "Shares Held": "2969869.000",
-      "Local Currency": "USD",
       "ticker": "BKH",
-      "name": "Black Hills Corporation"
+      "name": "Black Hills Corporation",
+      "percent": "1.107132"
     },
     {
-      "Name": "Cincinnati Financial Corporation",
-      "Ticker": "CINF",
-      "Identifier": "17206210",
-      "SEDOL": "2196888",
-      "Weight": "1.091341",
-      "Sector": "Financials",
-      "Shares Held": "2145237.000",
-      "Local Currency": "USD",
       "ticker": "CINF",
-      "name": "Cincinnati Financial Corporation"
+      "name": "Cincinnati Financial Corporation",
+      "percent": "1.091341"
     },
     {
-      "Name": "Essex Property Trust Inc.",
-      "Ticker": "ESS",
-      "Identifier": "29717810",
-      "SEDOL": "2316619",
-      "Weight": "1.086131",
-      "Sector": "Real Estate",
-      "Shares Held": "806649.000",
-      "Local Currency": "USD",
       "ticker": "ESS",
-      "name": "Essex Property Trust Inc."
+      "name": "Essex Property Trust Inc.",
+      "percent": "1.086131"
     },
     {
-      "Name": "Cullen/Frost Bankers Inc.",
-      "Ticker": "CFR",
-      "Identifier": "22989910",
-      "SEDOL": "2239556",
-      "Weight": "1.082366",
-      "Sector": "Financials",
-      "Shares Held": "2480470.000",
-      "Local Currency": "USD",
       "ticker": "CFR",
-      "name": "Cullen/Frost Bankers Inc."
+      "name": "Cullen/Frost Bankers Inc.",
+      "percent": "1.082366"
     },
     {
-      "Name": "Emerson Electric Co.",
-      "Ticker": "EMR",
-      "Identifier": "29101110",
-      "SEDOL": "2313405",
-      "Weight": "1.073332",
-      "Sector": "Industrials",
-      "Shares Held": "2424061.000",
-      "Local Currency": "USD",
       "ticker": "EMR",
-      "name": "Emerson Electric Co."
+      "name": "Emerson Electric Co.",
+      "percent": "1.073332"
     },
     {
-      "Name": "United Bankshares Inc.",
-      "Ticker": "UBSI",
-      "Identifier": "90990710",
-      "SEDOL": "2905794",
-      "Weight": "1.013783",
-      "Sector": "Financials",
-      "Shares Held": "6616137.000",
-      "Local Currency": "USD",
       "ticker": "UBSI",
-      "name": "United Bankshares Inc."
+      "name": "United Bankshares Inc.",
+      "percent": "1.013783"
     },
     {
-      "Name": "Sonoco Products Company",
-      "Ticker": "SON",
-      "Identifier": "83549510",
-      "SEDOL": "2821395",
-      "Weight": "1.006716",
-      "Sector": "Materials",
-      "Shares Held": "2917288.000",
-      "Local Currency": "USD",
       "ticker": "SON",
-      "name": "Sonoco Products Company"
+      "name": "Sonoco Products Company",
+      "percent": "1.006716"
     },
     {
-      "Name": "PepsiCo Inc.",
-      "Ticker": "PEP",
-      "Identifier": "71344810",
-      "SEDOL": "2681511",
-      "Weight": "0.998844",
-      "Sector": "Consumer Staples",
-      "Shares Held": "1082656.000",
-      "Local Currency": "USD",
       "ticker": "PEP",
-      "name": "PepsiCo Inc."
+      "name": "PepsiCo Inc.",
+      "percent": "0.998844"
     },
     {
-      "Name": "Kimberly-Clark Corporation",
-      "Ticker": "KMB",
-      "Identifier": "49436810",
-      "SEDOL": "2491839",
-      "Weight": "0.970298",
-      "Sector": "Consumer Staples",
-      "Shares Held": "978882.000",
-      "Local Currency": "USD",
       "ticker": "KMB",
-      "name": "Kimberly-Clark Corporation"
+      "name": "Kimberly-Clark Corporation",
+      "percent": "0.970298"
     },
     {
-      "Name": "Cardinal Health Inc.",
-      "Ticker": "CAH",
-      "Identifier": "14149Y10",
-      "SEDOL": "2175672",
-      "Weight": "0.967230",
-      "Sector": "Health Care",
-      "Shares Held": "3140354.000",
-      "Local Currency": "USD",
       "ticker": "CAH",
-      "name": "Cardinal Health Inc."
+      "name": "Cardinal Health Inc.",
+      "percent": "0.967230"
     },
     {
-      "Name": "Aflac Incorporated",
-      "Ticker": "AFL",
-      "Identifier": "00105510",
-      "SEDOL": "2026361",
-      "Weight": "0.963103",
-      "Sector": "Financials",
-      "Shares Held": "4026974.000",
-      "Local Currency": "USD",
       "ticker": "AFL",
-      "name": "Aflac Incorporated"
+      "name": "Aflac Incorporated",
+      "percent": "0.963103"
     },
     {
-      "Name": "T. Rowe Price Group",
-      "Ticker": "TROW",
-      "Identifier": "74144T10",
-      "SEDOL": "2702337",
-      "Weight": "0.960432",
-      "Sector": "Financials",
-      "Shares Held": "1036400.000",
-      "Local Currency": "USD",
       "ticker": "TROW",
-      "name": "T. Rowe Price Group"
+      "name": "T. Rowe Price Group",
+      "percent": "0.960432"
     },
     {
-      "Name": "C.H. Robinson Worldwide Inc.",
-      "Ticker": "CHRW",
-      "Identifier": "12541W20",
-      "SEDOL": "2116228",
-      "Weight": "0.960209",
-      "Sector": "Industrials",
-      "Shares Held": "1428099.000",
-      "Local Currency": "USD",
       "ticker": "CHRW",
-      "name": "C.H. Robinson Worldwide Inc."
+      "name": "C.H. Robinson Worldwide Inc.",
+      "percent": "0.960209"
     },
     {
-      "Name": "McDonald's Corporation",
-      "Ticker": "MCD",
-      "Identifier": "58013510",
-      "SEDOL": "2550707",
-      "Weight": "0.949374",
-      "Sector": "Consumer Discretionary",
-      "Shares Held": "649693.000",
-      "Local Currency": "USD",
       "ticker": "MCD",
-      "name": "McDonald's Corporation"
+      "name": "McDonald's Corporation",
+      "percent": "0.949374"
     },
     {
-      "Name": "South Jersey Industries Inc.",
-      "Ticker": "SJI",
-      "Identifier": "83851810",
-      "SEDOL": "2825933",
-      "Weight": "0.942648",
-      "Sector": "Utilities",
-      "Shares Held": "7267652.000",
-      "Local Currency": "USD",
       "ticker": "SJI",
-      "name": "South Jersey Industries Inc."
+      "name": "South Jersey Industries Inc.",
+      "percent": "0.942648"
     },
     {
-      "Name": "Prosperity Bancshares Inc.(R)",
-      "Ticker": "PB",
-      "Identifier": "74360610",
-      "SEDOL": "2310257",
-      "Weight": "0.931189",
-      "Sector": "Financials",
-      "Shares Held": "2619863.000",
-      "Local Currency": "USD",
       "ticker": "PB",
-      "name": "Prosperity Bancshares Inc.(R)"
+      "name": "Prosperity Bancshares Inc.(R)",
+      "percent": "0.931189"
     },
     {
-      "Name": "Target Corporation",
-      "Ticker": "TGT",
-      "Identifier": "87612E10",
-      "SEDOL": "2259101",
-      "Weight": "0.929758",
-      "Sector": "Consumer Discretionary",
-      "Shares Held": "873314.000",
-      "Local Currency": "USD",
       "ticker": "TGT",
-      "name": "Target Corporation"
+      "name": "Target Corporation",
+      "percent": "0.929758"
     },
     {
-      "Name": "Procter & Gamble Company",
-      "Ticker": "PG",
-      "Identifier": "74271810",
-      "SEDOL": "2704407",
-      "Weight": "0.927237",
-      "Sector": "Consumer Staples",
-      "Shares Held": "1000371.000",
-      "Local Currency": "USD",
       "ticker": "PG",
-      "name": "Procter & Gamble Company"
+      "name": "Procter & Gamble Company",
+      "percent": "0.927237"
     },
     {
-      "Name": "Raytheon Technologies Corporation",
-      "Ticker": "RTX",
-      "Identifier": "75513E10",
-      "SEDOL": "BM5M5Y3",
-      "Weight": "0.905259",
-      "Sector": "Industrials",
-      "Shares Held": "2366333.000",
-      "Local Currency": "USD",
       "ticker": "RTX",
-      "name": "Raytheon Technologies Corporation"
+      "name": "Raytheon Technologies Corporation",
+      "percent": "0.905259"
     },
     {
-      "Name": "New Jersey Resources Corporation",
-      "Ticker": "NJR",
-      "Identifier": "64602510",
-      "SEDOL": "2630513",
-      "Weight": "0.891567",
-      "Sector": "Utilities",
-      "Shares Held": "4828187.000",
-      "Local Currency": "USD",
       "ticker": "NJR",
-      "name": "New Jersey Resources Corporation"
+      "name": "New Jersey Resources Corporation",
+      "percent": "0.891567"
     },
     {
-      "Name": "Johnson & Johnson",
-      "Ticker": "JNJ",
-      "Identifier": "47816010",
-      "SEDOL": "2475833",
-      "Weight": "0.880986",
-      "Sector": "Health Care",
-      "Shares Held": "923885.000",
-      "Local Currency": "USD",
       "ticker": "JNJ",
-      "name": "Johnson & Johnson"
+      "name": "Johnson & Johnson",
+      "percent": "0.880986"
     },
     {
-      "Name": "Eversource Energy",
-      "Ticker": "ES",
-      "Identifier": "30040W10",
-      "SEDOL": "BVVN4Q8",
-      "Weight": "0.864301",
-      "Sector": "Utilities",
-      "Shares Held": "1451238.000",
-      "Local Currency": "USD",
       "ticker": "ES",
-      "name": "Eversource Energy"
+      "name": "Eversource Energy",
+      "percent": "0.864301"
     },
     {
-      "Name": "General Dynamics Corporation",
-      "Ticker": "GD",
-      "Identifier": "36955010",
-      "SEDOL": "2365161",
-      "Weight": "0.859891",
-      "Sector": "Industrials",
-      "Shares Held": "933995.000",
-      "Local Currency": "USD",
       "ticker": "GD",
-      "name": "General Dynamics Corporation"
+      "name": "General Dynamics Corporation",
+      "percent": "0.859891"
     },
     {
-      "Name": "Medtronic Plc",
-      "Ticker": "MDT",
-      "Identifier": "G5960L10",
-      "SEDOL": "BTN1Y11",
-      "Weight": "0.859744",
-      "Sector": "Health Care",
-      "Shares Held": "1250820.000",
-      "Local Currency": "USD",
       "ticker": "MDT",
-      "name": "Medtronic Plc"
+      "name": "Medtronic Plc",
+      "percent": "0.859744"
     },
     {
-      "Name": "nVent Electric plc",
-      "Ticker": "NVT",
-      "Identifier": "G6700G10",
-      "SEDOL": "BDVJJQ5",
-      "Weight": "0.859069",
-      "Sector": "Industrials",
-      "Shares Held": "7174319.000",
-      "Local Currency": "USD",
       "ticker": "NVT",
-      "name": "nVent Electric plc"
+      "name": "nVent Electric plc",
+      "percent": "0.859069"
     },
     {
-      "Name": "Community Bank System Inc.",
-      "Ticker": "CBU",
-      "Identifier": "20360710",
-      "SEDOL": "2222062",
-      "Weight": "0.850690",
-      "Sector": "Financials",
-      "Shares Held": "2313880.000",
-      "Local Currency": "USD",
       "ticker": "CBU",
-      "name": "Community Bank System Inc."
+      "name": "Community Bank System Inc.",
+      "percent": "0.850690"
     },
     {
-      "Name": "Polaris Inc.",
-      "Ticker": "PII",
-      "Identifier": "73106810",
-      "SEDOL": "2692933",
-      "Weight": "0.839036",
-      "Sector": "Consumer Discretionary",
-      "Shares Held": "1337372.000",
-      "Local Currency": "USD",
       "ticker": "PII",
-      "name": "Polaris Inc."
+      "name": "Polaris Inc.",
+      "percent": "0.839036"
     },
     {
-      "Name": "Illinois Tool Works Inc.",
-      "Ticker": "ITW",
-      "Identifier": "45230810",
-      "SEDOL": "2457552",
-      "Weight": "0.824004",
-      "Sector": "Industrials",
-      "Shares Held": "631040.000",
-      "Local Currency": "USD",
       "ticker": "ITW",
-      "name": "Illinois Tool Works Inc."
+      "name": "Illinois Tool Works Inc.",
+      "percent": "0.824004"
     },
     {
-      "Name": "Colgate-Palmolive Company",
-      "Ticker": "CL",
-      "Identifier": "19416210",
-      "SEDOL": "2209106",
-      "Weight": "0.794342",
-      "Sector": "Consumer Staples",
-      "Shares Held": "1539835.000",
-      "Local Currency": "USD",
       "ticker": "CL",
-      "name": "Colgate-Palmolive Company"
+      "name": "Colgate-Palmolive Company",
+      "percent": "0.794342"
     },
     {
-      "Name": "Telephone and Data Systems Inc.",
-      "Ticker": "TDS",
-      "Identifier": "87943382",
-      "SEDOL": "B6YR5K3",
-      "Weight": "0.784236",
-      "Sector": "Communication Services",
-      "Shares Held": "6479805.000",
-      "Local Currency": "USD",
       "ticker": "TDS",
-      "name": "Telephone and Data Systems Inc."
+      "name": "Telephone and Data Systems Inc.",
+      "percent": "0.784236"
     },
     {
-      "Name": "Automatic Data Processing Inc.",
-      "Ticker": "ADP",
-      "Identifier": "05301510",
-      "SEDOL": "2065308",
-      "Weight": "0.770460",
-      "Sector": "Information Technology",
-      "Shares Held": "800798.000",
-      "Local Currency": "USD",
       "ticker": "ADP",
-      "name": "Automatic Data Processing Inc."
+      "name": "Automatic Data Processing Inc.",
+      "percent": "0.770460"
     },
     {
-      "Name": "NextEra Energy Inc.",
-      "Ticker": "NEE",
-      "Identifier": "65339F10",
-      "SEDOL": "2328915",
-      "Weight": "0.767869",
-      "Sector": "Utilities",
-      "Shares Held": "396286.000",
-      "Local Currency": "USD",
       "ticker": "NEE",
-      "name": "NextEra Energy Inc."
+      "name": "NextEra Energy Inc.",
+      "percent": "0.767869"
     },
     {
-      "Name": "Lincoln Electric Holdings Inc.",
-      "Ticker": "LECO",
-      "Identifier": "53390010",
-      "SEDOL": "2516851",
-      "Weight": "0.762782",
-      "Sector": "Industrials",
-      "Shares Held": "1210865.000",
-      "Local Currency": "USD",
       "ticker": "LECO",
-      "name": "Lincoln Electric Holdings Inc."
+      "name": "Lincoln Electric Holdings Inc.",
+      "percent": "0.762782"
     },
     {
-      "Name": "Stanley Black & Decker Inc.",
-      "Ticker": "SWK",
-      "Identifier": "85450210",
-      "SEDOL": "B3Q2FJ4",
-      "Weight": "0.715774",
-      "Sector": "Industrials",
-      "Shares Held": "625847.000",
-      "Local Currency": "USD",
       "ticker": "SWK",
-      "name": "Stanley Black & Decker Inc."
+      "name": "Stanley Black & Decker Inc.",
+      "percent": "0.715774"
     },
     {
-      "Name": "Pentair plc",
-      "Ticker": "PNR",
-      "Identifier": "G7S00T10",
-      "SEDOL": "BLS09M3",
-      "Weight": "0.712793",
-      "Sector": "Industrials",
-      "Shares Held": "2248567.000",
-      "Local Currency": "USD",
       "ticker": "PNR",
-      "name": "Pentair plc"
+      "name": "Pentair plc",
+      "percent": "0.712793"
     },
     {
-      "Name": "PPG Industries Inc.",
-      "Ticker": "PPG",
-      "Identifier": "69350610",
-      "SEDOL": "2698470",
-      "Weight": "0.711423",
-      "Sector": "Materials",
-      "Shares Held": "828676.000",
-      "Local Currency": "USD",
       "ticker": "PPG",
-      "name": "PPG Industries Inc."
+      "name": "PPG Industries Inc.",
+      "percent": "0.711423"
     },
     {
-      "Name": "Fastenal Company",
-      "Ticker": "FAST",
-      "Identifier": "31190010",
-      "SEDOL": "2332262",
-      "Weight": "0.708567",
-      "Sector": "Industrials",
-      "Shares Held": "2430913.000",
-      "Local Currency": "USD",
       "ticker": "FAST",
-      "name": "Fastenal Company"
+      "name": "Fastenal Company",
+      "percent": "0.708567"
     },
     {
-      "Name": "Air Products and Chemicals Inc.",
-      "Ticker": "APD",
-      "Identifier": "00915810",
-      "SEDOL": "2011602",
-      "Weight": "0.701934",
-      "Sector": "Materials",
-      "Shares Held": "362703.000",
-      "Local Currency": "USD",
       "ticker": "APD",
-      "name": "Air Products and Chemicals Inc."
+      "name": "Air Products and Chemicals Inc.",
+      "percent": "0.701934"
     },
     {
-      "Name": "ABM Industries Incorporated",
-      "Ticker": "ABM",
-      "Identifier": "00095710",
-      "SEDOL": "2024901",
-      "Weight": "0.674663",
-      "Sector": "Industrials",
-      "Shares Held": "2827775.000",
-      "Local Currency": "USD",
       "ticker": "ABM",
-      "name": "ABM Industries Incorporated"
+      "name": "ABM Industries Incorporated",
+      "percent": "0.674663"
     },
     {
-      "Name": "A. O. Smith Corporation",
-      "Ticker": "AOS",
-      "Identifier": "83186520",
-      "SEDOL": "2816023",
-      "Weight": "0.671070",
-      "Sector": "Industrials",
-      "Shares Held": "1891448.000",
-      "Local Currency": "USD",
       "ticker": "AOS",
-      "name": "A. O. Smith Corporation"
+      "name": "A. O. Smith Corporation",
+      "percent": "0.671070"
     },
     {
-      "Name": "Albemarle Corporation",
-      "Ticker": "ALB",
-      "Identifier": "01265310",
-      "SEDOL": "2046853",
-      "Weight": "0.667485",
-      "Sector": "Materials",
-      "Shares Held": "1091552.000",
-      "Local Currency": "USD",
       "ticker": "ALB",
-      "name": "Albemarle Corporation"
+      "name": "Albemarle Corporation",
+      "percent": "0.667485"
     },
     {
-      "Name": "Chubb Limited",
-      "Ticker": "CB",
-      "Identifier": "H1467J10",
-      "SEDOL": "B3BQMF6",
-      "Weight": "0.663066",
-      "Sector": "Financials",
-      "Shares Held": "870057.000",
-      "Local Currency": "USD",
       "ticker": "CB",
-      "name": "Chubb Limited"
+      "name": "Chubb Limited",
+      "percent": "0.663066"
     },
     {
-      "Name": "Dover Corporation",
-      "Ticker": "DOV",
-      "Identifier": "26000310",
-      "SEDOL": "2278407",
-      "Weight": "0.662216",
-      "Sector": "Industrials",
-      "Shares Held": "916396.000",
-      "Local Currency": "USD",
       "ticker": "DOV",
-      "name": "Dover Corporation"
+      "name": "Dover Corporation",
+      "percent": "0.662216"
     },
     {
-      "Name": "Atmos Energy Corporation",
-      "Ticker": "ATO",
-      "Identifier": "04956010",
-      "SEDOL": "2315359",
-      "Weight": "0.655060",
-      "Sector": "Utilities",
-      "Shares Held": "1068200.000",
-      "Local Currency": "USD",
       "ticker": "ATO",
-      "name": "Atmos Energy Corporation"
+      "name": "Atmos Energy Corporation",
+      "percent": "0.655060"
     },
     {
-      "Name": "RPM International Inc.",
-      "Ticker": "RPM",
-      "Identifier": "74968510",
-      "SEDOL": "2756174",
-      "Weight": "0.649000",
-      "Sector": "Materials",
-      "Shares Held": "1146782.000",
-      "Local Currency": "USD",
       "ticker": "RPM",
-      "name": "RPM International Inc."
+      "name": "RPM International Inc.",
+      "percent": "0.649000"
     },
     {
-      "Name": "John Wiley & Sons Inc. Class A",
-      "Ticker": "JW.A",
-      "Identifier": "96822320",
-      "SEDOL": "2965668",
-      "Weight": "0.633649",
-      "Sector": "Communication Services",
-      "Shares Held": "3032478.000",
-      "Local Currency": "USD",
       "ticker": "JW.A",
-      "name": "John Wiley & Sons Inc. Class A"
+      "name": "John Wiley & Sons Inc. Class A",
+      "percent": "0.633649"
     },
     {
-      "Name": "W.W. Grainger Inc.",
-      "Ticker": "GWW",
-      "Identifier": "38480210",
-      "SEDOL": "2380863",
-      "Weight": "0.631634",
-      "Sector": "Industrials",
-      "Shares Held": "255811.000",
-      "Local Currency": "USD",
       "ticker": "GWW",
-      "name": "W.W. Grainger Inc."
+      "name": "W.W. Grainger Inc.",
+      "percent": "0.631634"
     },
     {
-      "Name": "Lancaster Colony Corporation",
-      "Ticker": "LANC",
-      "Identifier": "51384710",
-      "SEDOL": "2503206",
-      "Weight": "0.630711",
-      "Sector": "Consumer Staples",
-      "Shares Held": "549864.000",
-      "Local Currency": "USD",
       "ticker": "LANC",
-      "name": "Lancaster Colony Corporation"
+      "name": "Lancaster Colony Corporation",
+      "percent": "0.630711"
     },
     {
-      "Name": "Essential Utilities Inc.",
-      "Ticker": "WTRG",
-      "Identifier": "29670G10",
-      "SEDOL": "BLCF3J9",
-      "Weight": "0.625666",
-      "Sector": "Utilities",
-      "Shares Held": "2312204.000",
-      "Local Currency": "USD",
       "ticker": "WTRG",
-      "name": "Essential Utilities Inc."
+      "name": "Essential Utilities Inc.",
+      "percent": "0.625666"
     },
     {
-      "Name": "Walmart Inc.",
-      "Ticker": "WMT",
-      "Identifier": "93114210",
-      "SEDOL": "2936921",
-      "Weight": "0.615174",
-      "Sector": "Consumer Staples",
-      "Shares Held": "654527.000",
-      "Local Currency": "USD",
       "ticker": "WMT",
-      "name": "Walmart Inc."
+      "name": "Walmart Inc.",
+      "percent": "0.615174"
     },
     {
-      "Name": "Clorox Company",
-      "Ticker": "CLX",
-      "Identifier": "18905410",
-      "SEDOL": "2204026",
-      "Weight": "0.603579",
-      "Sector": "Consumer Staples",
-      "Shares Held": "424594.000",
-      "Local Currency": "USD",
       "ticker": "CLX",
-      "name": "Clorox Company"
+      "name": "Clorox Company",
+      "percent": "0.603579"
     },
     {
-      "Name": "Lowe's Companies Inc.",
-      "Ticker": "LOW",
-      "Identifier": "54866110",
-      "SEDOL": "2536763",
-      "Weight": "0.594387",
-      "Sector": "Consumer Discretionary",
-      "Shares Held": "527447.000",
-      "Local Currency": "USD",
       "ticker": "LOW",
-      "name": "Lowe's Companies Inc."
+      "name": "Lowe's Companies Inc.",
+      "percent": "0.594387"
     },
     {
-      "Name": "Hormel Foods Corporation",
-      "Ticker": "HRL",
-      "Identifier": "44045210",
-      "SEDOL": "2437264",
-      "Weight": "0.594227",
-      "Sector": "Consumer Staples",
-      "Shares Held": "1825678.000",
-      "Local Currency": "USD",
       "ticker": "HRL",
-      "name": "Hormel Foods Corporation"
+      "name": "Hormel Foods Corporation",
+      "percent": "0.594227"
     },
     {
-      "Name": "Donaldson Company Inc.",
-      "Ticker": "DCI",
-      "Identifier": "25765110",
-      "SEDOL": "2276467",
-      "Weight": "0.579962",
-      "Sector": "Industrials",
-      "Shares Held": "1780094.000",
-      "Local Currency": "USD",
       "ticker": "DCI",
-      "name": "Donaldson Company Inc."
+      "name": "Donaldson Company Inc.",
+      "percent": "0.579962"
     },
     {
-      "Name": "MSA Safety Inc.",
-      "Ticker": "MSA",
-      "Identifier": "55349810",
-      "SEDOL": "BKM4S16",
-      "Weight": "0.577244",
-      "Sector": "Industrials",
-      "Shares Held": "623551.000",
-      "Local Currency": "USD",
       "ticker": "MSA",
-      "name": "MSA Safety Inc."
+      "name": "MSA Safety Inc.",
+      "percent": "0.577244"
     },
     {
-      "Name": "Commerce Bancshares Inc.",
-      "Ticker": "CBSH",
-      "Identifier": "20052510",
-      "SEDOL": "2213204",
-      "Weight": "0.556284",
-      "Sector": "Financials",
-      "Shares Held": "1482257.000",
-      "Local Currency": "USD",
       "ticker": "CBSH",
-      "name": "Commerce Bancshares Inc."
+      "name": "Commerce Bancshares Inc.",
+      "percent": "0.556284"
     },
     {
-      "Name": "Graco Inc.",
-      "Ticker": "GGG",
-      "Identifier": "38410910",
-      "SEDOL": "2380443",
-      "Weight": "0.542716",
-      "Sector": "Industrials",
-      "Shares Held": "1302654.000",
-      "Local Currency": "USD",
       "ticker": "GGG",
-      "name": "Graco Inc."
+      "name": "Graco Inc.",
+      "percent": "0.542716"
     },
     {
-      "Name": "Carrier Global Corp.",
-      "Ticker": "CARR",
-      "Identifier": "14448C10",
-      "SEDOL": "BK4N0D7",
-      "Weight": "0.538970",
-      "Sector": "Industrials",
-      "Shares Held": "2580955.000",
-      "Local Currency": "USD",
       "ticker": "CARR",
-      "name": "Carrier Global Corp."
+      "name": "Carrier Global Corp.",
+      "percent": "0.538970"
     },
     {
-      "Name": "Linde plc",
-      "Ticker": "LIN",
-      "Identifier": "G5494J10",
-      "SEDOL": "BZ12WP8",
-      "Weight": "0.537599",
-      "Sector": "Materials",
-      "Shares Held": "354445.000",
-      "Local Currency": "USD",
       "ticker": "LIN",
-      "name": "Linde plc"
+      "name": "Linde plc",
+      "percent": "0.537599"
     },
     {
-      "Name": "Carlisle Companies Incorporated",
-      "Ticker": "CSL",
-      "Identifier": "14233910",
-      "SEDOL": "2176318",
-      "Weight": "0.533577",
-      "Sector": "Industrials",
-      "Shares Held": "658754.000",
-      "Local Currency": "USD",
       "ticker": "CSL",
-      "name": "Carlisle Companies Incorporated"
+      "name": "Carlisle Companies Incorporated",
+      "percent": "0.533577"
     },
     {
-      "Name": "Abbott Laboratories",
-      "Ticker": "ABT",
-      "Identifier": "00282410",
-      "SEDOL": "2002305",
-      "Weight": "0.528121",
-      "Sector": "Health Care",
-      "Shares Held": "758211.000",
-      "Local Currency": "USD",
       "ticker": "ABT",
-      "name": "Abbott Laboratories"
+      "name": "Abbott Laboratories",
+      "percent": "0.528121"
     },
     {
-      "Name": "Northwest Natural Holding Co.",
-      "Ticker": "NWN",
-      "Identifier": "66765N10",
-      "SEDOL": "BFNR303",
-      "Weight": "0.506480",
-      "Sector": "Utilities",
-      "Shares Held": "1674820.000",
-      "Local Currency": "USD",
       "ticker": "NWN",
-      "name": "Northwest Natural Holding Co."
+      "name": "Northwest Natural Holding Co.",
+      "percent": "0.506480"
     },
     {
-      "Name": "California Water Service Group",
-      "Ticker": "CWT",
-      "Identifier": "13078810",
-      "SEDOL": "2165383",
-      "Weight": "0.501680",
-      "Sector": "Utilities",
-      "Shares Held": "1707207.000",
-      "Local Currency": "USD",
       "ticker": "CWT",
-      "name": "California Water Service Group"
+      "name": "California Water Service Group",
+      "percent": "0.501680"
     },
     {
-      "Name": "Expeditors International of Washington Inc.",
-      "Ticker": "EXPD",
-      "Identifier": "30213010",
-      "SEDOL": "2325507",
-      "Weight": "0.484970",
-      "Sector": "Industrials",
-      "Shares Held": "812466.000",
-      "Local Currency": "USD",
       "ticker": "EXPD",
-      "name": "Expeditors International of Washington Inc."
+      "name": "Expeditors International of Washington Inc.",
+      "percent": "0.484970"
     },
     {
-      "Name": "H.B. Fuller Company",
-      "Ticker": "FUL",
-      "Identifier": "35969410",
-      "SEDOL": "2354664",
-      "Weight": "0.484328",
-      "Sector": "Materials",
-      "Shares Held": "1544135.000",
-      "Local Currency": "USD",
       "ticker": "FUL",
-      "name": "H.B. Fuller Company"
+      "name": "H.B. Fuller Company",
+      "percent": "0.484328"
     },
     {
-      "Name": "Otis Worldwide Corporation",
-      "Ticker": "OTIS",
-      "Identifier": "68902V10",
-      "SEDOL": "BK531S8",
-      "Weight": "0.482659",
-      "Sector": "Industrials",
-      "Shares Held": "1152988.000",
-      "Local Currency": "USD",
       "ticker": "OTIS",
-      "name": "Otis Worldwide Corporation"
+      "name": "Otis Worldwide Corporation",
+      "percent": "0.482659"
     },
     {
-      "Name": "Brady Corporation Class A",
-      "Ticker": "BRC",
-      "Identifier": "10467410",
-      "SEDOL": "2117726",
-      "Weight": "0.467743",
-      "Sector": "Industrials",
-      "Shares Held": "1761217.000",
-      "Local Currency": "USD",
       "ticker": "BRC",
-      "name": "Brady Corporation Class A"
+      "name": "Brady Corporation Class A",
+      "percent": "0.467743"
     },
     {
-      "Name": "American States Water Company",
-      "Ticker": "AWR",
-      "Identifier": "02989910",
-      "SEDOL": "2267171",
-      "Weight": "0.463667",
-      "Sector": "Utilities",
-      "Shares Held": "921554.000",
-      "Local Currency": "USD",
       "ticker": "AWR",
-      "name": "American States Water Company"
+      "name": "American States Water Company",
+      "percent": "0.463667"
     },
     {
-      "Name": "McCormick & Company Incorporated",
-      "Ticker": "MKC",
-      "Identifier": "57978020",
-      "SEDOL": "2550161",
-      "Weight": "0.437952",
-      "Sector": "Consumer Staples",
-      "Shares Held": "340301.000",
-      "Local Currency": "USD",
       "ticker": "MKC",
-      "name": "McCormick & Company Incorporated"
+      "name": "McCormick & Company Incorporated",
+      "percent": "0.437952"
     },
     {
-      "Name": "Franklin Electric Co. Inc.",
-      "Ticker": "FELE",
-      "Identifier": "35351410",
-      "SEDOL": "2350383",
-      "Weight": "0.422776",
-      "Sector": "Industrials",
-      "Shares Held": "1052101.000",
-      "Local Currency": "USD",
       "ticker": "FELE",
-      "name": "Franklin Electric Co. Inc."
+      "name": "Franklin Electric Co. Inc.",
+      "percent": "0.422776"
     },
     {
-      "Name": "Church & Dwight Co. Inc.",
-      "Ticker": "CHD",
-      "Identifier": "17134010",
-      "SEDOL": "2195841",
-      "Weight": "0.421452",
-      "Sector": "Consumer Staples",
-      "Shares Held": "688919.000",
-      "Local Currency": "USD",
       "ticker": "CHD",
-      "name": "Church & Dwight Co. Inc."
+      "name": "Church & Dwight Co. Inc.",
+      "percent": "0.421452"
     },
     {
-      "Name": "SEI Investments Company",
-      "Ticker": "SEIC",
-      "Identifier": "78411710",
-      "SEDOL": "2793610",
-      "Weight": "0.412682",
-      "Sector": "Financials",
-      "Shares Held": "1144915.000",
-      "Local Currency": "USD",
       "ticker": "SEIC",
-      "name": "SEI Investments Company"
+      "name": "SEI Investments Company",
+      "percent": "0.412682"
     },
     {
-      "Name": "Aptargroup Inc.",
-      "Ticker": "ATR",
-      "Identifier": "03833610",
-      "SEDOL": "2045247",
-      "Weight": "0.389405",
-      "Sector": "Materials",
-      "Shares Held": "515357.000",
-      "Local Currency": "USD",
       "ticker": "ATR",
-      "name": "Aptargroup Inc."
+      "name": "Aptargroup Inc.",
+      "percent": "0.389405"
     },
     {
-      "Name": "Brown-Forman Corporation Class B",
-      "Ticker": "BF.B",
-      "Identifier": "11563720",
-      "SEDOL": "2146838",
-      "Weight": "0.384942",
-      "Sector": "Consumer Staples",
-      "Shares Held": "766948.000",
-      "Local Currency": "USD",
       "ticker": "BF.B",
-      "name": "Brown-Forman Corporation Class B"
+      "name": "Brown-Forman Corporation Class B",
+      "percent": "0.384942"
     },
     {
-      "Name": "Stepan Company",
-      "Ticker": "SCL",
-      "Identifier": "85858610",
-      "SEDOL": "2845005",
-      "Weight": "0.362361",
-      "Sector": "Materials",
-      "Shares Held": "497465.000",
-      "Local Currency": "USD",
       "ticker": "SCL",
-      "name": "Stepan Company"
+      "name": "Stepan Company",
+      "percent": "0.362361"
     },
     {
-      "Name": "Becton Dickinson and Company",
-      "Ticker": "BDX",
-      "Identifier": "07588710",
-      "SEDOL": "2087807",
-      "Weight": "0.351997",
-      "Sector": "Health Care",
-      "Shares Held": "231360.000",
-      "Local Currency": "USD",
       "ticker": "BDX",
-      "name": "Becton Dickinson and Company"
+      "name": "Becton Dickinson and Company",
+      "percent": "0.351997"
     },
     {
-      "Name": "Cintas Corporation",
-      "Ticker": "CTAS",
-      "Identifier": "17290810",
-      "SEDOL": "2197137",
-      "Weight": "0.341529",
-      "Sector": "Industrials",
-      "Shares Held": "150665.000",
-      "Local Currency": "USD",
       "ticker": "CTAS",
-      "name": "Cintas Corporation"
+      "name": "Cintas Corporation",
+      "percent": "0.341529"
     },
     {
-      "Name": "RLI Corp.",
-      "Ticker": "RLI",
-      "Identifier": "74960710",
-      "SEDOL": "2719070",
-      "Weight": "0.334037",
-      "Sector": "Financials",
-      "Shares Held": "610273.000",
-      "Local Currency": "USD",
       "ticker": "RLI",
-      "name": "RLI Corp."
+      "name": "RLI Corp.",
+      "percent": "0.334037"
     },
     {
-      "Name": "Sherwin-Williams Company",
-      "Ticker": "SHW",
-      "Identifier": "82434810",
-      "SEDOL": "2804211",
-      "Weight": "0.319140",
-      "Sector": "Materials",
-      "Shares Held": "71220.000",
-      "Local Currency": "USD",
       "ticker": "SHW",
-      "name": "Sherwin-Williams Company"
+      "name": "Sherwin-Williams Company",
+      "percent": "0.319140"
     },
     {
-      "Name": "Casey's General Stores Inc.",
-      "Ticker": "CASY",
-      "Identifier": "14752810",
-      "SEDOL": "2179414",
-      "Weight": "0.295516",
-      "Sector": "Consumer Staples",
-      "Shares Held": "249147.000",
-      "Local Currency": "USD",
       "ticker": "CASY",
-      "name": "Casey's General Stores Inc."
+      "name": "Casey's General Stores Inc.",
+      "percent": "0.295516"
     },
     {
-      "Name": "Ecolab Inc.",
-      "Ticker": "ECL",
-      "Identifier": "27886510",
-      "SEDOL": "2304227",
-      "Weight": "0.276934",
-      "Sector": "Materials",
-      "Shares Held": "214308.000",
-      "Local Currency": "USD",
       "ticker": "ECL",
-      "name": "Ecolab Inc."
+      "name": "Ecolab Inc.",
+      "percent": "0.276934"
     },
     {
-      "Name": "FactSet Research Systems Inc.",
-      "Ticker": "FDS",
-      "Identifier": "30307510",
-      "SEDOL": "2329770",
-      "Weight": "0.276665",
-      "Sector": "Financials",
-      "Shares Held": "128281.000",
-      "Local Currency": "USD",
       "ticker": "FDS",
-      "name": "FactSet Research Systems Inc."
+      "name": "FactSet Research Systems Inc.",
+      "percent": "0.276665"
     },
     {
-      "Name": "Brown & Brown Inc.",
-      "Ticker": "BRO",
-      "Identifier": "11523610",
-      "SEDOL": "2692687",
-      "Weight": "0.266457",
-      "Sector": "Financials",
-      "Shares Held": "875165.000",
-      "Local Currency": "USD",
       "ticker": "BRO",
-      "name": "Brown & Brown Inc."
+      "name": "Brown & Brown Inc.",
+      "percent": "0.266457"
     },
     {
-      "Name": "Nordson Corporation",
-      "Ticker": "NDSN",
-      "Identifier": "65566310",
-      "SEDOL": "2641838",
-      "Weight": "0.259276",
-      "Sector": "Industrials",
-      "Shares Held": "198520.000",
-      "Local Currency": "USD",
       "ticker": "NDSN",
-      "name": "Nordson Corporation"
+      "name": "Nordson Corporation",
+      "percent": "0.259276"
     },
     {
-      "Name": "S&P Global Inc.",
-      "Ticker": "SPGI",
-      "Identifier": "78409V10",
-      "SEDOL": "BYV2325",
-      "Weight": "0.251779",
-      "Sector": "Financials",
-      "Shares Held": "110658.000",
-      "Local Currency": "USD",
       "ticker": "SPGI",
-      "name": "S&P Global Inc."
+      "name": "S&P Global Inc.",
+      "percent": "0.251779"
     },
     {
-      "Name": "RenaissanceRe Holdings Ltd.",
-      "Ticker": "RNR",
-      "Identifier": "G7496G10",
-      "SEDOL": "2728429",
-      "Weight": "0.244189",
-      "Sector": "Financials",
-      "Shares Held": "216269.000",
-      "Local Currency": "USD",
       "ticker": "RNR",
-      "name": "RenaissanceRe Holdings Ltd."
+      "name": "RenaissanceRe Holdings Ltd.",
+      "percent": "0.244189"
     },
     {
-      "Name": "STATE STREET INSTITUTIONAL LIQ STATE STR",
-      "Ticker": "70286227",
-      "Identifier": "70286227",
-      "SEDOL": "Unassigned",
-      "Weight": "0.182552",
-      "Sector": "Unassigned",
-      "Shares Held": "28402236.000",
-      "Local Currency": "USD",
       "ticker": "70286227",
-      "name": "STATE STREET INSTITUTIONAL LIQ STATE STR"
+      "name": "STATE STREET INSTITUTIONAL LIQ STATE STR",
+      "percent": "0.182552"
     },
     {
-      "Name": "Roper Technologies Inc.",
-      "Ticker": "ROP",
-      "Identifier": "77669610",
-      "SEDOL": "2749602",
-      "Weight": "0.164970",
-      "Sector": "Industrials",
-      "Shares Held": "60569.000",
-      "Local Currency": "USD",
       "ticker": "ROP",
-      "name": "Roper Technologies Inc."
+      "name": "Roper Technologies Inc.",
+      "percent": "0.164970"
     },
     {
-      "Name": "West Pharmaceutical Services Inc.",
-      "Ticker": "WST",
-      "Identifier": "95530610",
-      "SEDOL": "2950482",
-      "Weight": "0.098255",
-      "Sector": "Health Care",
-      "Shares Held": "51045.000",
-      "Local Currency": "USD",
       "ticker": "WST",
-      "name": "West Pharmaceutical Services Inc."
+      "name": "West Pharmaceutical Services Inc.",
+      "percent": "0.098255"
     },
     {
-      "Name": "U.S. Dollar",
-      "Ticker": "CASH_USD",
-      "Identifier": "CASH_USD",
-      "SEDOL": "Unassigned",
-      "Weight": "0.000262",
-      "Sector": "Unassigned",
-      "Shares Held": "40789.230",
-      "Local Currency": "USD",
       "ticker": "CASH_USD",
-      "name": "U.S. Dollar"
+      "name": "U.S. Dollar",
+      "percent": "0.000262"
     },
     {
-      "Name": "Performance quoted represents past performance, which is no guarantee of future results. Investment return and principal value will fluctuate, so you may have a gain or loss when shares are sold. Current performance may be higher or lower than that quoted. Visit www.ssga.com for most recent month-end performance.",
       "name": "Performance quoted represents past performance, which is no guarantee of future results. Investment return and principal value will fluctuate, so you may have a gain or loss when shares are sold. Current performance may be higher or lower than that quoted. Visit www.ssga.com for most recent month-end performance."
     },
     {
-      "Name": "This analysis or any portion thereof may not be revised or changed in any way, reprinted, sold or redistributed without the written consent of SSGA.",
       "name": "This analysis or any portion thereof may not be revised or changed in any way, reprinted, sold or redistributed without the written consent of SSGA."
     },
     {
-      "Name": "Portfolio holdings, allocations and weightings are as of the date indicated, are subject to change and should not be considered a recommendation to buy individual securities. For most recent information visit www.ssga.com.",
       "name": "Portfolio holdings, allocations and weightings are as of the date indicated, are subject to change and should not be considered a recommendation to buy individual securities. For most recent information visit www.ssga.com."
     },
     {
-      "Name": "Important Risk Information  ",
       "name": "Important Risk Information  "
     },
     {
-      "Name": "Investing involves risk, and you could lose money on an investment in each of SPDR® Gold Shares Trust (“GLD®”) and SPDR® Gold MiniSharesSM Trust  (“GLDMSM”), a series of the World Gold Trust (together, the “Funds”). \n\nETFs trade like stocks, are subject to investment risk, fluctuate in market value and may trade at prices above or below the ETFs’ net asset value. Brokerage commissions and ETF expenses will reduce returns.\n\nCommodities and commodity-index linked securities may be affected by changes in overall market movements, changes in interest rates, and other factors such as weather, disease, embargoes, or political and regulatory developments, as well as trading activity of speculators and arbitrageurs in the underlying commodities.\n\nFrequent trading of ETFs could significantly increase commissions and other costs such that they may offset any savings from low fees or costs.\n\nDiversification does not ensure a profit or guarantee against loss.",
       "name": "Investing involves risk, and you could lose money on an investment in each of SPDR® Gold Shares Trust (“GLD®”) and SPDR® Gold MiniSharesSM Trust  (“GLDMSM”), a series of the World Gold Trust (together, the “Funds”). \n\nETFs trade like stocks, are subject to investment risk, fluctuate in market value and may trade at prices above or below the ETFs’ net asset value. Brokerage commissions and ETF expenses will reduce returns.\n\nCommodities and commodity-index linked securities may be affected by changes in overall market movements, changes in interest rates, and other factors such as weather, disease, embargoes, or political and regulatory developments, as well as trading activity of speculators and arbitrageurs in the underlying commodities.\n\nFrequent trading of ETFs could significantly increase commissions and other costs such that they may offset any savings from low fees or costs.\n\nDiversification does not ensure a profit or guarantee against loss."
     },
     {
-      "Name": "Investing in commodities entails significant risk and is not appropriate for all investors.",
       "name": "Investing in commodities entails significant risk and is not appropriate for all investors."
     },
     {
-      "Name": "Important Information Relating to SPDR® Gold Trust (“GLD®”) and SPDR® Gold MiniSharesSM Trust (“GLDMSM”):",
       "name": "Important Information Relating to SPDR® Gold Trust (“GLD®”) and SPDR® Gold MiniSharesSM Trust (“GLDMSM”):"
     },
     {
-      "Name": "The SPDR Gold Trust (“GLD”) has filed a registration statement (including a prospectus) with the Securities and Exchange Commission (“SEC”) for GLD. The World Gold Trust has filed a registration statement (including a prospectus) with the SEC for GLDM. Before you invest, you should read the prospectus in the registration statement and other documents each Fund has filed with the SEC for more complete information about each Fund and these offerings. Please see each Fund’s prospectus for a detailed discussion of the risks of investing in each Fund’s shares.",
       "name": "The SPDR Gold Trust (“GLD”) has filed a registration statement (including a prospectus) with the Securities and Exchange Commission (“SEC”) for GLD. The World Gold Trust has filed a registration statement (including a prospectus) with the SEC for GLDM. Before you invest, you should read the prospectus in the registration statement and other documents each Fund has filed with the SEC for more complete information about each Fund and these offerings. Please see each Fund’s prospectus for a detailed discussion of the risks of investing in each Fund’s shares."
     },
     {
-      "Name": "The GLD prospectus is available by clicking",
-      "Sector": "here.",
       "name": "The GLD prospectus is available by clicking"
     },
     {
-      "Name": "The GLDM prospectus is available by clicking ",
-      "Sector": "here.",
       "name": "The GLDM prospectus is available by clicking "
     },
     {
-      "Name": "You may get these documents for free by visiting EDGAR on the SEC website at sec.gov or by visiting spdrgoldshares.com. Alternatively, the Funds or any authorized participant will arrange to send you the prospectus if you request it by calling 866.320.4053.",
       "name": "You may get these documents for free by visiting EDGAR on the SEC website at sec.gov or by visiting spdrgoldshares.com. Alternatively, the Funds or any authorized participant will arrange to send you the prospectus if you request it by calling 866.320.4053."
     },
     {
-      "Name": "None of the Funds is an investment company registered under the Investment Company Act of 1940 (the “1940 Act”). As a result, shareholders of each Fund do not have the protections associated with ownership of shares in an investment company registered under the 1940 Act. GLD and GLDM are not subject to regulation under the CEA. As a result, shareholders of each of GLD and GLDM do not have the protections afforded by the CEA. \n\nShares of each Fund trade like stocks, are subject to investment risk and will fluctuate in market value. \n\nThe values of GLD shares and GLDM shares relate directly to the value of the gold held by each Fund (less its expenses), respectively. Fluctuations in the price of gold could materially and adversely affect an investment in the shares. The price received upon the sale of the shares, which trade at market price, may be more or less than the value of the gold represented by them.  \n\nNone of the Funds generate any income, and as each Fund regularly sells gold to pay for its ongoing expenses, the amount of gold represented by each Fund share will decline over time to that extent.\n\nThe World Gold Council name and logo are a registered trademark and used with the permission of the World Gold Council pursuant to a license agreement. The World Gold Council is not responsible for the content of, and is not liable for the use of or reliance on, this material. World Gold Council is an affiliate of the Sponsor of each of GLD and GLDM.\n\nMiniSharesSM and GLDMSM are service marks of WGC USA Asset Management Company, LLC used with the permission of WGC USA Asset Management Company, LLC.\n\nGLD® is a registered trademark of World Gold Trust Services, LLC used with the permission of World Gold Trust Services, LLC.",
       "name": "None of the Funds is an investment company registered under the Investment Company Act of 1940 (the “1940 Act”). As a result, shareholders of each Fund do not have the protections associated with ownership of shares in an investment company registered under the 1940 Act. GLD and GLDM are not subject to regulation under the CEA. As a result, shareholders of each of GLD and GLDM do not have the protections afforded by the CEA. \n\nShares of each Fund trade like stocks, are subject to investment risk and will fluctuate in market value. \n\nThe values of GLD shares and GLDM shares relate directly to the value of the gold held by each Fund (less its expenses), respectively. Fluctuations in the price of gold could materially and adversely affect an investment in the shares. The price received upon the sale of the shares, which trade at market price, may be more or less than the value of the gold represented by them.  \n\nNone of the Funds generate any income, and as each Fund regularly sells gold to pay for its ongoing expenses, the amount of gold represented by each Fund share will decline over time to that extent.\n\nThe World Gold Council name and logo are a registered trademark and used with the permission of the World Gold Council pursuant to a license agreement. The World Gold Council is not responsible for the content of, and is not liable for the use of or reliance on, this material. World Gold Council is an affiliate of the Sponsor of each of GLD and GLDM.\n\nMiniSharesSM and GLDMSM are service marks of WGC USA Asset Management Company, LLC used with the permission of WGC USA Asset Management Company, LLC.\n\nGLD® is a registered trademark of World Gold Trust Services, LLC used with the permission of World Gold Trust Services, LLC."
     },
     {
-      "Name": "For more information, please contact the Marketing Agent for GLD and GLDM: State Street Global Advisors Funds Distributors, LLC, One Iron Street, Boston, MA, 02210; T: +1 866 320 4053 spdrgoldshares.com",
       "name": "For more information, please contact the Marketing Agent for GLD and GLDM: State Street Global Advisors Funds Distributors, LLC, One Iron Street, Boston, MA, 02210; T: +1 866 320 4053 spdrgoldshares.com"
     },
     {
-      "Name": "Standard & Poor’s®, S&P® and SPDR® are registered trademarks of Standard & Poor’s Financial Services LLC (S&P); Dow Jones is a registered trademark of Dow Jones Trademark Holdings LLC (Dow Jones); and these trademarks have been licensed for use by S&P Dow Jones Indices LLC (SPDJI) and sublicensed for certain purposes by State Street Corporation. State Street Corporation’s financial products are not sponsored, endorsed, sold or promoted by SPDJI, Dow Jones, S&P, their respective affiliates and third party licensors and none of such parties make any representation regarding the advisability of investing in such product(s) nor do they have any liability in relation thereto, including for any errors, omissions, or interruptions of any index.",
       "name": "Standard & Poor’s®, S&P® and SPDR® are registered trademarks of Standard & Poor’s Financial Services LLC (S&P); Dow Jones is a registered trademark of Dow Jones Trademark Holdings LLC (Dow Jones); and these trademarks have been licensed for use by S&P Dow Jones Indices LLC (SPDJI) and sublicensed for certain purposes by State Street Corporation. State Street Corporation’s financial products are not sponsored, endorsed, sold or promoted by SPDJI, Dow Jones, S&P, their respective affiliates and third party licensors and none of such parties make any representation regarding the advisability of investing in such product(s) nor do they have any liability in relation thereto, including for any errors, omissions, or interruptions of any index."
     },
     {
-      "Name": "Bonds generally present less short-term risk and volatility than stocks, but contain interest rate risk (as interest rates raise, bond prices usually fall); issuer default risk; issuer credit risk; liquidity risk; and inflation risk. These effects are usually pronounced for longer-term securities. Any fixed income security sold or redeemed prior to maturity may be subject to a substantial gain or loss.\nInternational Government bonds and corporate bonds generally have more moderate short-term price fluctuations than stocks, but provide lower potential long-term returns.\nInvesting in high yield fixed income securities, otherwise known as \"junk bonds\", is considered speculative and involves greater risk of loss of principal and interest than investing in investment grade fixed income securities. These Lower-quality debt securities involve greater risk of default or price changes due to potential changes in the credit quality of the issuer.\nEquity securities may fluctuate in value in response to the activities of individual companies and general market and economic conditions.\nThere are risks associated with investing in Real Assets and the Real Assets sector, including real estate, precious metals and natural resources.  Investments can be significantly affected by events relating to these industries.\nInvesting in foreign domiciled securities may involve risk of capital loss from unfavorable fluctuation in currency values, withholding taxes, from differences in generally accepted accounting principles or from economic or political instability in other nations.  Investments in emerging or developing markets may be more volatile and less liquid than investing in developed markets and may involve exposure to economic structures that are generally less diverse and mature and to political systems which have less stability than those of more developed countries. The trademarks and service marks referenced herein are the property of their respective owners. Third party data providers make no warranties or representations of any kind relating to the accuracy, completeness or timeliness of the data and have no liability for damages of any kind relating to the use of such data. Investing involves risk including the risk of loss of principal.\nThe whole or any part of this work may not be reproduced, copied or transmitted or any of its contents disclosed to third parties without SSGA's express written consent.\nETFs trade like stocks, are subject to investment risk and will fluctuate in market value. The investment return and principal value of an investment will fluctuate in value, so that when shares are sold or redeemed, they may be worth more or less than when they were purchased.  Although shares may be bought or sold on an exchange through any brokerage account, shares are not individually redeemable from the fund.  Investors may acquire shares and tender them for redemption through the fund in large aggregations known as “creation units.”  Please see the fund’s prospectus for more details.\nInvesting in REITs involves certain distinct risks in addition to those risks associated with investing in the real estate industry in general. Equity REITs may be affected by changes in the value of the underlying property owned by the REITs, while mortgage REITs may be affected by the quality of credit extended. REITs are subject to heavy cash flow dependency, default by borrowers and self-liquidation. REITs, especially mortgage REITs, are also subject to interest rate risk (i.e., as interest rates rise, the value of the REIT may decline).\nInvestments in small/mid-sized companies may involve greater risks than in those of larger, better known companies. Concentrated investments in a particular Sector tend to be more volatile than the overall market and increases risk that events negatively affecting such sectors or industries could reduce returns, potentially causing the value of the Fund’s shares to decrease.\nStandard & Poor’s®, S&P® and SPDR® are registered trademarks of Standard & Poor’s Financial Services LLC (S&P); Dow Jones is a registered trademark of Dow Jones Trademark Holdings LLC (Dow Jones); and these trademarks have been licensed for use by S&P Dow Jones Indices LLC (SPDJI) and sublicensed for certain purposes by State Street Corporation. State Street Corporation’s financial products are not sponsored, endorsed, sold or promoted by SPDJI, Dow Jones, S&P, their respective affiliates and third party licensors and none of such parties make any representation regarding the advisability of investing in such product(s) nor do they have any liability in relation thereto, including for any errors, omissions, or interruptions of any index.\nCommodities and commodity-index linked securities may be affected by changes in overall market movements, changes in interest rates, and other factors such as weather, disease, embargoes, or political and regulatory developments, as well as trading activity of speculators and arbitrageurs in the underlying commodities. The returns on a portfolio of securities which exclude companies that do not meet the portfolio's specified ESG criteria may trail the returns on a portfolio of securities which include such companies. A portfolio's ESG criteria may result in the portfolio investing in industry sectors or securities which underperform the market as a whole.\nTechnology companies, including cyber security companies, can be significantly affected by obsolescence of existing technology, limited product lines, and competition for financial resources, qualified personnel, new market entrants or impairment of patent and intellectual property rights that can adversely affect profit margins.",
       "name": "Bonds generally present less short-term risk and volatility than stocks, but contain interest rate risk (as interest rates raise, bond prices usually fall); issuer default risk; issuer credit risk; liquidity risk; and inflation risk. These effects are usually pronounced for longer-term securities. Any fixed income security sold or redeemed prior to maturity may be subject to a substantial gain or loss.\nInternational Government bonds and corporate bonds generally have more moderate short-term price fluctuations than stocks, but provide lower potential long-term returns.\nInvesting in high yield fixed income securities, otherwise known as \"junk bonds\", is considered speculative and involves greater risk of loss of principal and interest than investing in investment grade fixed income securities. These Lower-quality debt securities involve greater risk of default or price changes due to potential changes in the credit quality of the issuer.\nEquity securities may fluctuate in value in response to the activities of individual companies and general market and economic conditions.\nThere are risks associated with investing in Real Assets and the Real Assets sector, including real estate, precious metals and natural resources.  Investments can be significantly affected by events relating to these industries.\nInvesting in foreign domiciled securities may involve risk of capital loss from unfavorable fluctuation in currency values, withholding taxes, from differences in generally accepted accounting principles or from economic or political instability in other nations.  Investments in emerging or developing markets may be more volatile and less liquid than investing in developed markets and may involve exposure to economic structures that are generally less diverse and mature and to political systems which have less stability than those of more developed countries. The trademarks and service marks referenced herein are the property of their respective owners. Third party data providers make no warranties or representations of any kind relating to the accuracy, completeness or timeliness of the data and have no liability for damages of any kind relating to the use of such data. Investing involves risk including the risk of loss of principal.\nThe whole or any part of this work may not be reproduced, copied or transmitted or any of its contents disclosed to third parties without SSGA's express written consent.\nETFs trade like stocks, are subject to investment risk and will fluctuate in market value. The investment return and principal value of an investment will fluctuate in value, so that when shares are sold or redeemed, they may be worth more or less than when they were purchased.  Although shares may be bought or sold on an exchange through any brokerage account, shares are not individually redeemable from the fund.  Investors may acquire shares and tender them for redemption through the fund in large aggregations known as “creation units.”  Please see the fund’s prospectus for more details.\nInvesting in REITs involves certain distinct risks in addition to those risks associated with investing in the real estate industry in general. Equity REITs may be affected by changes in the value of the underlying property owned by the REITs, while mortgage REITs may be affected by the quality of credit extended. REITs are subject to heavy cash flow dependency, default by borrowers and self-liquidation. REITs, especially mortgage REITs, are also subject to interest rate risk (i.e., as interest rates rise, the value of the REIT may decline).\nInvestments in small/mid-sized companies may involve greater risks than in those of larger, better known companies. Concentrated investments in a particular Sector tend to be more volatile than the overall market and increases risk that events negatively affecting such sectors or industries could reduce returns, potentially causing the value of the Fund’s shares to decrease.\nStandard & Poor’s®, S&P® and SPDR® are registered trademarks of Standard & Poor’s Financial Services LLC (S&P); Dow Jones is a registered trademark of Dow Jones Trademark Holdings LLC (Dow Jones); and these trademarks have been licensed for use by S&P Dow Jones Indices LLC (SPDJI) and sublicensed for certain purposes by State Street Corporation. State Street Corporation’s financial products are not sponsored, endorsed, sold or promoted by SPDJI, Dow Jones, S&P, their respective affiliates and third party licensors and none of such parties make any representation regarding the advisability of investing in such product(s) nor do they have any liability in relation thereto, including for any errors, omissions, or interruptions of any index.\nCommodities and commodity-index linked securities may be affected by changes in overall market movements, changes in interest rates, and other factors such as weather, disease, embargoes, or political and regulatory developments, as well as trading activity of speculators and arbitrageurs in the underlying commodities. The returns on a portfolio of securities which exclude companies that do not meet the portfolio's specified ESG criteria may trail the returns on a portfolio of securities which include such companies. A portfolio's ESG criteria may result in the portfolio investing in industry sectors or securities which underperform the market as a whole.\nTechnology companies, including cyber security companies, can be significantly affected by obsolescence of existing technology, limited product lines, and competition for financial resources, qualified personnel, new market entrants or impairment of patent and intellectual property rights that can adversely affect profit margins."
     },
     {
-      "Name": "Distributor: State Street Global Advisors Funds Distributors, LLC, member FINRA(http://www.finra.org), SIPC(http://www.sipc.org), an indirect wholly owned subsidiary of State Street Corporation. References to State Street may include State Street Corporation and its affiliates. Certain State Street affiliates provide services and receive fees from the SPDR ETFs. ALPS Distributors, Inc., member FINRA, is the distributor for DIA, MDY and SPY, all unit investment trusts. ALPS Portfolio Solutions Distributor, Inc., member FINRA, is the distributor for Select Sector SPDRs. ALPS Distributors, Inc. and ALPS Portfolio Solutions Distributor, Inc. are not affiliated with State Street Global Advisors Funds Distributors, LLC.",
       "name": "Distributor: State Street Global Advisors Funds Distributors, LLC, member FINRA(http://www.finra.org), SIPC(http://www.sipc.org), an indirect wholly owned subsidiary of State Street Corporation. References to State Street may include State Street Corporation and its affiliates. Certain State Street affiliates provide services and receive fees from the SPDR ETFs. ALPS Distributors, Inc., member FINRA, is the distributor for DIA, MDY and SPY, all unit investment trusts. ALPS Portfolio Solutions Distributor, Inc., member FINRA, is the distributor for Select Sector SPDRs. ALPS Distributors, Inc. and ALPS Portfolio Solutions Distributor, Inc. are not affiliated with State Street Global Advisors Funds Distributors, LLC."
     },
     {
-      "Name": "Before investing, consider the funds’ investment objectives, risks, charges and expenses. To obtain a prospectus or summary prospectus, this contains this and other information, call 1-866-787-2257 or visit www.ssga.com. Read it carefully.\n\nNot FDIC Insured * No Bank Guarantee * May Lose Value\n\n2529657.2.1.AM.RTL\nExpiration: 03/31/2021\nSPD002304",
       "name": "Before investing, consider the funds’ investment objectives, risks, charges and expenses. To obtain a prospectus or summary prospectus, this contains this and other information, call 1-866-787-2257 or visit www.ssga.com. Read it carefully.\n\nNot FDIC Insured * No Bank Guarantee * May Lose Value\n\n2529657.2.1.AM.RTL\nExpiration: 03/31/2021\nSPD002304"
     }
   ]

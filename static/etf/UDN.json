@@ -21,104 +21,34 @@
   },
   "holdings": [
     {
-      "Fund Ticker": "UDN",
-      "Security Identifier": "825252885",
-      "Identifier": "AGPXX",
-      "Shares": "28,718,750.79",
-      "Weight": "40.246",
-      "Name": "STIT - Government & Agency Portfolio",
-      "Contract Expiry Date": "",
-      "Sector": "Collateral",
-      "$ Value": "28,718,750.79",
-      "Date": "10/13/2020",
       "ticker": "825252885",
       "name": "STIT - Government & Agency Portfolio",
-      "percent": "40.246",
-      "weight": 0.40246
+      "percent": "40.246"
     },
     {
-      "Fund Ticker": "UDN",
-      "Security Identifier": "912796TU3",
-      "Identifier": "",
-      "Shares": "20,000,000.00",
-      "Weight": "28.024",
-      "Name": "United States Treasury Bill",
-      "Contract Expiry Date": "12/03/2020",
-      "Sector": "Collateral",
-      "$ Value": "19,997,638.80",
-      "Date": "10/13/2020",
       "ticker": "912796TU3",
       "name": "United States Treasury Bill",
-      "percent": "28.024",
-      "weight": 0.28024
+      "percent": "28.024"
     },
     {
-      "Fund Ticker": "UDN",
-      "Security Identifier": "9127962Z1",
-      "Identifier": "",
-      "Shares": "19,000,000.00",
-      "Weight": "26.624",
-      "Name": "United States Treasury Bill",
-      "Contract Expiry Date": "11/12/2020",
-      "Sector": "Collateral",
-      "$ Value": "18,998,699.07",
-      "Date": "10/13/2020",
       "ticker": "9127962Z1",
       "name": "United States Treasury Bill",
-      "percent": "26.624",
-      "weight": 0.26624
+      "percent": "26.624"
     },
     {
-      "Fund Ticker": "UDN",
-      "Security Identifier": "9127963K3",
-      "Identifier": "",
-      "Shares": "4,000,000.00",
-      "Weight": "5.605",
-      "Name": "United States Treasury Bill",
-      "Contract Expiry Date": "12/17/2020",
-      "Sector": "Collateral",
-      "$ Value": "3,999,395.56",
-      "Date": "10/13/2020",
       "ticker": "9127963K3",
       "name": "United States Treasury Bill",
-      "percent": "5.605",
-      "weight": 0.05605
+      "percent": "5.605"
     },
     {
-      "Fund Ticker": "UDN",
-      "Security Identifier": "CASHUSD00",
-      "Identifier": "-CASH-",
-      "Shares": "46,349.72",
-      "Weight": ".065",
-      "Name": "Cash/Receivables/Payables",
-      "Contract Expiry Date": "",
-      "Sector": "Collateral",
-      "$ Value": "46,349.72",
-      "Date": "10/13/2020",
       "ticker": "CASHUSD00",
       "name": "Cash/Receivables/Payables",
-      "percent": ".065",
-      "weight": 0.00065
+      "percent": ".065"
     },
     {
-      "Fund Ticker": "UDN",
-      "Security Identifier": "DXZ0",
-      "Identifier": "",
-      "Shares": "-766.00",
-      "Weight": "-100.407",
-      "Name": "NYBOT FINEX United States Dollar Index Future",
-      "Contract Expiry Date": "12/14/2020",
-      "Sector": "Currency",
-      "$ Value": "-71,648,576.00",
-      "Date": "10/13/2020",
       "ticker": "DXZ0",
       "name": "NYBOT FINEX United States Dollar Index Future",
-      "percent": "-100.407",
-      "weight": -1.00407
-    },
-    {
-      "Fund Ticker": "",
-      "weight": null
+      "percent": "-100.407"
     }
   ]
 }

@@ -20,973 +20,429 @@
   },
   "holdings": [
     {
-      "Name": "Apple Inc.",
-      "Ticker": "AAPL",
-      "Identifier": "03783310",
-      "SEDOL": "2046251",
-      "Weight": "23.606413",
-      "Sector": "Technology Hardware Storage & Peripherals",
-      "Shares Held": "69854340.000",
-      "Local Currency": "USD",
       "ticker": "AAPL",
-      "name": "Apple Inc."
+      "name": "Apple Inc.",
+      "percent": "23.606413"
     },
     {
-      "Name": "Microsoft Corporation",
-      "Ticker": "MSFT",
-      "Identifier": "59491810",
-      "SEDOL": "2588173",
-      "Weight": "20.449860",
-      "Sector": "Software",
-      "Shares Held": "32882564.000",
-      "Local Currency": "USD",
       "ticker": "MSFT",
-      "name": "Microsoft Corporation"
+      "name": "Microsoft Corporation",
+      "percent": "20.449860"
     },
     {
-      "Name": "NVIDIA Corporation",
-      "Ticker": "NVDA",
-      "Identifier": "67066G10",
-      "SEDOL": "2379504",
-      "Weight": "4.263863",
-      "Sector": "Semiconductors & Semiconductor Equipment",
-      "Shares Held": "2680953.000",
-      "Local Currency": "USD",
       "ticker": "NVDA",
-      "name": "NVIDIA Corporation"
+      "name": "NVIDIA Corporation",
+      "percent": "4.263863"
     },
     {
-      "Name": "Visa Inc. Class A",
-      "Ticker": "V",
-      "Identifier": "92826C83",
-      "SEDOL": "B2PZN04",
-      "Weight": "4.177015",
-      "Sector": "IT Services",
-      "Shares Held": "7325928.000",
-      "Local Currency": "USD",
       "ticker": "V",
-      "name": "Visa Inc. Class A"
+      "name": "Visa Inc. Class A",
+      "percent": "4.177015"
     },
     {
-      "Name": "Mastercard Incorporated Class A",
-      "Ticker": "MA",
-      "Identifier": "57636Q10",
-      "SEDOL": "B121557",
-      "Weight": "3.704307",
-      "Sector": "IT Services",
-      "Shares Held": "3838303.000",
-      "Local Currency": "USD",
       "ticker": "MA",
-      "name": "Mastercard Incorporated Class A"
+      "name": "Mastercard Incorporated Class A",
+      "percent": "3.704307"
     },
     {
-      "Name": "Adobe Inc.",
-      "Ticker": "ADBE",
-      "Identifier": "00724F10",
-      "SEDOL": "2008154",
-      "Weight": "2.991284",
-      "Sector": "Software",
-      "Shares Held": "2084204.000",
-      "Local Currency": "USD",
       "ticker": "ADBE",
-      "name": "Adobe Inc."
+      "name": "Adobe Inc.",
+      "percent": "2.991284"
     },
     {
-      "Name": "PayPal Holdings Inc",
-      "Ticker": "PYPL",
-      "Identifier": "70450Y10",
-      "SEDOL": "BYW36M8",
-      "Weight": "2.955481",
-      "Sector": "IT Services",
-      "Shares Held": "5098184.000",
-      "Local Currency": "USD",
       "ticker": "PYPL",
-      "name": "PayPal Holdings Inc"
+      "name": "PayPal Holdings Inc",
+      "percent": "2.955481"
     },
     {
-      "Name": "salesforce.com inc.",
-      "Ticker": "CRM",
-      "Identifier": "79466L30",
-      "SEDOL": "2310525",
-      "Weight": "2.944193",
-      "Sector": "Software",
-      "Shares Held": "3954023.000",
-      "Local Currency": "USD",
       "ticker": "CRM",
-      "name": "salesforce.com inc."
+      "name": "salesforce.com inc.",
+      "percent": "2.944193"
     },
     {
-      "Name": "Intel Corporation",
-      "Ticker": "INTC",
-      "Identifier": "45814010",
-      "SEDOL": "2463247",
-      "Weight": "2.775985",
-      "Sector": "Semiconductors & Semiconductor Equipment",
-      "Shares Held": "18479928.000",
-      "Local Currency": "USD",
       "ticker": "INTC",
-      "name": "Intel Corporation"
+      "name": "Intel Corporation",
+      "percent": "2.775985"
     },
     {
-      "Name": "Cisco Systems Inc.",
-      "Ticker": "CSCO",
-      "Identifier": "17275R10",
-      "SEDOL": "2198163",
-      "Weight": "2.043527",
-      "Sector": "Communications Equipment",
-      "Shares Held": "18394828.000",
-      "Local Currency": "USD",
       "ticker": "CSCO",
-      "name": "Cisco Systems Inc."
+      "name": "Cisco Systems Inc.",
+      "percent": "2.043527"
     },
     {
-      "Name": "Broadcom Inc.",
-      "Ticker": "AVGO",
-      "Identifier": "11135F10",
-      "SEDOL": "BDZ78H9",
-      "Weight": "1.860417",
-      "Sector": "Semiconductors & Semiconductor Equipment",
-      "Shares Held": "1747570.000",
-      "Local Currency": "USD",
       "ticker": "AVGO",
-      "name": "Broadcom Inc."
+      "name": "Broadcom Inc.",
+      "percent": "1.860417"
     },
     {
-      "Name": "Accenture Plc Class A",
-      "Ticker": "ACN",
-      "Identifier": "G1151C10",
-      "SEDOL": "B4BNMY3",
-      "Weight": "1.769502",
-      "Sector": "IT Services",
-      "Shares Held": "2764413.000",
-      "Local Currency": "USD",
       "ticker": "ACN",
-      "name": "Accenture Plc Class A"
+      "name": "Accenture Plc Class A",
+      "percent": "1.769502"
     },
     {
-      "Name": "QUALCOMM Incorporated",
-      "Ticker": "QCOM",
-      "Identifier": "74752510",
-      "SEDOL": "2714923",
-      "Weight": "1.743739",
-      "Sector": "Semiconductors & Semiconductor Equipment",
-      "Shares Held": "4902470.000",
-      "Local Currency": "USD",
       "ticker": "QCOM",
-      "name": "QUALCOMM Incorporated"
+      "name": "QUALCOMM Incorporated",
+      "percent": "1.743739"
     },
     {
-      "Name": "Texas Instruments Incorporated",
-      "Ticker": "TXN",
-      "Identifier": "88250810",
-      "SEDOL": "2885409",
-      "Weight": "1.715811",
-      "Sector": "Semiconductors & Semiconductor Equipment",
-      "Shares Held": "3979940.000",
-      "Local Currency": "USD",
       "ticker": "TXN",
-      "name": "Texas Instruments Incorporated"
+      "name": "Texas Instruments Incorporated",
+      "percent": "1.715811"
     },
     {
-      "Name": "Oracle Corporation",
-      "Ticker": "ORCL",
-      "Identifier": "68389X10",
-      "SEDOL": "2661568",
-      "Weight": "1.429250",
-      "Sector": "Software",
-      "Shares Held": "8400393.000",
-      "Local Currency": "USD",
       "ticker": "ORCL",
-      "name": "Oracle Corporation"
+      "name": "Oracle Corporation",
+      "percent": "1.429250"
     },
     {
-      "Name": "International Business Machines Corporation",
-      "Ticker": "IBM",
-      "Identifier": "45920010",
-      "SEDOL": "2005973",
-      "Weight": "1.350920",
-      "Sector": "IT Services",
-      "Shares Held": "3869723.000",
-      "Local Currency": "USD",
       "ticker": "IBM",
-      "name": "International Business Machines Corporation"
+      "name": "International Business Machines Corporation",
+      "percent": "1.350920"
     },
     {
-      "Name": "Advanced Micro Devices Inc.",
-      "Ticker": "AMD",
-      "Identifier": "00790310",
-      "SEDOL": "2007849",
-      "Weight": "1.214042",
-      "Sector": "Semiconductors & Semiconductor Equipment",
-      "Shares Held": "5101456.000",
-      "Local Currency": "USD",
       "ticker": "AMD",
-      "name": "Advanced Micro Devices Inc."
+      "name": "Advanced Micro Devices Inc.",
+      "percent": "1.214042"
     },
     {
-      "Name": "ServiceNow Inc.",
-      "Ticker": "NOW",
-      "Identifier": "81762P10",
-      "SEDOL": "B80NXX8",
-      "Weight": "1.205356",
-      "Sector": "Software",
-      "Shares Held": "833377.000",
-      "Local Currency": "USD",
       "ticker": "NOW",
-      "name": "ServiceNow Inc."
+      "name": "ServiceNow Inc.",
+      "percent": "1.205356"
     },
     {
-      "Name": "Intuit Inc.",
-      "Ticker": "INTU",
-      "Identifier": "46120210",
-      "SEDOL": "2459020",
-      "Weight": "1.109776",
-      "Sector": "Software",
-      "Shares Held": "1137585.000",
-      "Local Currency": "USD",
       "ticker": "INTU",
-      "name": "Intuit Inc."
+      "name": "Intuit Inc.",
+      "percent": "1.109776"
     },
     {
-      "Name": "Fidelity National Information Services Inc.",
-      "Ticker": "FIS",
-      "Identifier": "31620M10",
-      "SEDOL": "2769796",
-      "Weight": "1.096588",
-      "Sector": "IT Services",
-      "Shares Held": "2692261.000",
-      "Local Currency": "USD",
       "ticker": "FIS",
-      "name": "Fidelity National Information Services Inc."
+      "name": "Fidelity National Information Services Inc.",
+      "percent": "1.096588"
     },
     {
-      "Name": "Automatic Data Processing Inc.",
-      "Ticker": "ADP",
-      "Identifier": "05301510",
-      "SEDOL": "2065308",
-      "Weight": "0.780398",
-      "Sector": "IT Services",
-      "Shares Held": "1868232.000",
-      "Local Currency": "USD",
       "ticker": "ADP",
-      "name": "Automatic Data Processing Inc."
+      "name": "Automatic Data Processing Inc.",
+      "percent": "0.780398"
     },
     {
-      "Name": "Applied Materials Inc.",
-      "Ticker": "AMAT",
-      "Identifier": "03822210",
-      "SEDOL": "2046552",
-      "Weight": "0.716372",
-      "Sector": "Semiconductors & Semiconductor Equipment",
-      "Shares Held": "3968341.000",
-      "Local Currency": "USD",
       "ticker": "AMAT",
-      "name": "Applied Materials Inc."
+      "name": "Applied Materials Inc.",
+      "percent": "0.716372"
     },
     {
-      "Name": "Fiserv Inc.",
-      "Ticker": "FISV",
-      "Identifier": "33773810",
-      "SEDOL": "2342034",
-      "Weight": "0.706031",
-      "Sector": "IT Services",
-      "Shares Held": "2415103.000",
-      "Local Currency": "USD",
       "ticker": "FISV",
-      "name": "Fiserv Inc."
+      "name": "Fiserv Inc.",
+      "percent": "0.706031"
     },
     {
-      "Name": "Micron Technology Inc.",
-      "Ticker": "MU",
-      "Identifier": "59511210",
-      "SEDOL": "2588184",
-      "Weight": "0.698484",
-      "Sector": "Semiconductors & Semiconductor Equipment",
-      "Shares Held": "4827419.000",
-      "Local Currency": "USD",
       "ticker": "MU",
-      "name": "Micron Technology Inc."
+      "name": "Micron Technology Inc.",
+      "percent": "0.698484"
     },
     {
-      "Name": "Lam Research Corporation",
-      "Ticker": "LRCX",
-      "Identifier": "51280710",
-      "SEDOL": "2502247",
-      "Weight": "0.660670",
-      "Sector": "Semiconductors & Semiconductor Equipment",
-      "Shares Held": "632703.000",
-      "Local Currency": "USD",
       "ticker": "LRCX",
-      "name": "Lam Research Corporation"
+      "name": "Lam Research Corporation",
+      "percent": "0.660670"
     },
     {
-      "Name": "Global Payments Inc.",
-      "Ticker": "GPN",
-      "Identifier": "37940X10",
-      "SEDOL": "2712013",
-      "Weight": "0.653213",
-      "Sector": "IT Services",
-      "Shares Held": "1300221.000",
-      "Local Currency": "USD",
       "ticker": "GPN",
-      "name": "Global Payments Inc."
+      "name": "Global Payments Inc.",
+      "percent": "0.653213"
     },
     {
-      "Name": "Autodesk Inc.",
-      "Ticker": "ADSK",
-      "Identifier": "05276910",
-      "SEDOL": "2065159",
-      "Weight": "0.648959",
-      "Sector": "Software",
-      "Shares Held": "952741.000",
-      "Local Currency": "USD",
       "ticker": "ADSK",
-      "name": "Autodesk Inc."
+      "name": "Autodesk Inc.",
+      "percent": "0.648959"
     },
     {
-      "Name": "Analog Devices Inc.",
-      "Ticker": "ADI",
-      "Identifier": "03265410",
-      "SEDOL": "2032067",
-      "Weight": "0.553826",
-      "Sector": "Semiconductors & Semiconductor Equipment",
-      "Shares Held": "1605822.000",
-      "Local Currency": "USD",
       "ticker": "ADI",
-      "name": "Analog Devices Inc."
+      "name": "Analog Devices Inc.",
+      "percent": "0.553826"
     },
     {
-      "Name": "Cognizant Technology Solutions Corporation Class A",
-      "Ticker": "CTSH",
-      "Identifier": "19244610",
-      "SEDOL": "2257019",
-      "Weight": "0.481413",
-      "Sector": "IT Services",
-      "Shares Held": "2356112.000",
-      "Local Currency": "USD",
       "ticker": "CTSH",
-      "name": "Cognizant Technology Solutions Corporation Class A"
+      "name": "Cognizant Technology Solutions Corporation Class A",
+      "percent": "0.481413"
     },
     {
-      "Name": "TE Connectivity Ltd.",
-      "Ticker": "TEL",
-      "Identifier": "H8498910",
-      "SEDOL": "B62B7C3",
-      "Weight": "0.425710",
-      "Sector": "Electronic Equipment Instruments & Components",
-      "Shares Held": "1434041.000",
-      "Local Currency": "USD",
       "ticker": "TEL",
-      "name": "TE Connectivity Ltd."
+      "name": "TE Connectivity Ltd.",
+      "percent": "0.425710"
     },
     {
-      "Name": "Synopsys Inc.",
-      "Ticker": "SNPS",
-      "Identifier": "87160710",
-      "SEDOL": "2867719",
-      "Weight": "0.419865",
-      "Sector": "Software",
-      "Shares Held": "659386.000",
-      "Local Currency": "USD",
       "ticker": "SNPS",
-      "name": "Synopsys Inc."
+      "name": "Synopsys Inc.",
+      "percent": "0.419865"
     },
     {
-      "Name": "KLA Corporation",
-      "Ticker": "KLAC",
-      "Identifier": "48248010",
-      "SEDOL": "2480138",
-      "Weight": "0.414597",
-      "Sector": "Semiconductors & Semiconductor Equipment",
-      "Shares Held": "675507.000",
-      "Local Currency": "USD",
       "ticker": "KLAC",
-      "name": "KLA Corporation"
+      "name": "KLA Corporation",
+      "percent": "0.414597"
     },
     {
-      "Name": "Amphenol Corporation Class A",
-      "Ticker": "APH",
-      "Identifier": "03209510",
-      "SEDOL": "2145084",
-      "Weight": "0.408760",
-      "Sector": "Electronic Equipment Instruments & Components",
-      "Shares Held": "1296504.000",
-      "Local Currency": "USD",
       "ticker": "APH",
-      "name": "Amphenol Corporation Class A"
+      "name": "Amphenol Corporation Class A",
+      "percent": "0.408760"
     },
     {
-      "Name": "Cadence Design Systems Inc.",
-      "Ticker": "CDNS",
-      "Identifier": "12738710",
-      "SEDOL": "2302232",
-      "Weight": "0.394740",
-      "Sector": "Software",
-      "Shares Held": "1211400.000",
-      "Local Currency": "USD",
       "ticker": "CDNS",
-      "name": "Cadence Design Systems Inc."
+      "name": "Cadence Design Systems Inc.",
+      "percent": "0.394740"
     },
     {
-      "Name": "ANSYS Inc.",
-      "Ticker": "ANSS",
-      "Identifier": "03662Q10",
-      "SEDOL": "2045623",
-      "Weight": "0.365449",
-      "Sector": "Software",
-      "Shares Held": "372772.000",
-      "Local Currency": "USD",
       "ticker": "ANSS",
-      "name": "ANSYS Inc."
+      "name": "ANSYS Inc.",
+      "percent": "0.365449"
     },
     {
-      "Name": "Xilinx Inc.",
-      "Ticker": "XLNX",
-      "Identifier": "98391910",
-      "SEDOL": "2985677",
-      "Weight": "0.349340",
-      "Sector": "Semiconductors & Semiconductor Equipment",
-      "Shares Held": "1061618.000",
-      "Local Currency": "USD",
       "ticker": "XLNX",
-      "name": "Xilinx Inc."
+      "name": "Xilinx Inc.",
+      "percent": "0.349340"
     },
     {
-      "Name": "Motorola Solutions Inc.",
-      "Ticker": "MSI",
-      "Identifier": "62007630",
-      "SEDOL": "B5BKPQ4",
-      "Weight": "0.342231",
-      "Sector": "Communications Equipment",
-      "Shares Held": "737719.000",
-      "Local Currency": "USD",
       "ticker": "MSI",
-      "name": "Motorola Solutions Inc."
+      "name": "Motorola Solutions Inc.",
+      "percent": "0.342231"
     },
     {
-      "Name": "Microchip Technology Incorporated",
-      "Ticker": "MCHP",
-      "Identifier": "59501710",
-      "SEDOL": "2592174",
-      "Weight": "0.341557",
-      "Sector": "Semiconductors & Semiconductor Equipment",
-      "Shares Held": "1096943.000",
-      "Local Currency": "USD",
       "ticker": "MCHP",
-      "name": "Microchip Technology Incorporated"
+      "name": "Microchip Technology Incorporated",
+      "percent": "0.341557"
     },
     {
-      "Name": "HP Inc.",
-      "Ticker": "HPQ",
-      "Identifier": "40434L10",
-      "SEDOL": "BYX4D52",
-      "Weight": "0.327754",
-      "Sector": "Technology Hardware Storage & Peripherals",
-      "Shares Held": "5968020.000",
-      "Local Currency": "USD",
       "ticker": "HPQ",
-      "name": "HP Inc."
+      "name": "HP Inc.",
+      "percent": "0.327754"
     },
     {
-      "Name": "Paychex Inc.",
-      "Ticker": "PAYX",
-      "Identifier": "70432610",
-      "SEDOL": "2674458",
-      "Weight": "0.322431",
-      "Sector": "IT Services",
-      "Shares Held": "1392085.000",
-      "Local Currency": "USD",
       "ticker": "PAYX",
-      "name": "Paychex Inc."
+      "name": "Paychex Inc.",
+      "percent": "0.322431"
     },
     {
-      "Name": "Corning Inc",
-      "Ticker": "GLW",
-      "Identifier": "21935010",
-      "SEDOL": "2224701",
-      "Weight": "0.321737",
-      "Sector": "Electronic Equipment Instruments & Components",
-      "Shares Held": "3306406.000",
-      "Local Currency": "USD",
       "ticker": "GLW",
-      "name": "Corning Inc"
+      "name": "Corning Inc",
+      "percent": "0.321737"
     },
     {
-      "Name": "Skyworks Solutions Inc.",
-      "Ticker": "SWKS",
-      "Identifier": "83088M10",
-      "SEDOL": "2961053",
-      "Weight": "0.310267",
-      "Sector": "Semiconductors & Semiconductor Equipment",
-      "Shares Held": "725745.000",
-      "Local Currency": "USD",
       "ticker": "SWKS",
-      "name": "Skyworks Solutions Inc."
+      "name": "Skyworks Solutions Inc.",
+      "percent": "0.310267"
     },
     {
-      "Name": "VeriSign Inc.",
-      "Ticker": "VRSN",
-      "Identifier": "92343E10",
-      "SEDOL": "2142922",
-      "Weight": "0.264716",
-      "Sector": "IT Services",
-      "Shares Held": "439172.000",
-      "Local Currency": "USD",
       "ticker": "VRSN",
-      "name": "VeriSign Inc."
+      "name": "VeriSign Inc.",
+      "percent": "0.264716"
     },
     {
-      "Name": "FLEETCOR Technologies Inc.",
-      "Ticker": "FLT",
-      "Identifier": "33904110",
-      "SEDOL": "B4R28B3",
-      "Weight": "0.253538",
-      "Sector": "IT Services",
-      "Shares Held": "365233.000",
-      "Local Currency": "USD",
       "ticker": "FLT",
-      "name": "FLEETCOR Technologies Inc."
+      "name": "FLEETCOR Technologies Inc.",
+      "percent": "0.253538"
     },
     {
-      "Name": "Maxim Integrated Products Inc.",
-      "Ticker": "MXIM",
-      "Identifier": "57772K10",
-      "SEDOL": "2573760",
-      "Weight": "0.237276",
-      "Sector": "Semiconductors & Semiconductor Equipment",
-      "Shares Held": "1159368.000",
-      "Local Currency": "USD",
       "ticker": "MXIM",
-      "name": "Maxim Integrated Products Inc."
+      "name": "Maxim Integrated Products Inc.",
+      "percent": "0.237276"
     },
     {
-      "Name": "Keysight Technologies Inc",
-      "Ticker": "KEYS",
-      "Identifier": "49338L10",
-      "SEDOL": "BQZJ0Q9",
-      "Weight": "0.236959",
-      "Sector": "Electronic Equipment Instruments & Components",
-      "Shares Held": "812654.000",
-      "Local Currency": "USD",
       "ticker": "KEYS",
-      "name": "Keysight Technologies Inc"
+      "name": "Keysight Technologies Inc",
+      "percent": "0.236959"
     },
     {
-      "Name": "Akamai Technologies Inc.",
-      "Ticker": "AKAM",
-      "Identifier": "00971T10",
-      "SEDOL": "2507457",
-      "Weight": "0.227770",
-      "Sector": "IT Services",
-      "Shares Held": "706923.000",
-      "Local Currency": "USD",
       "ticker": "AKAM",
-      "name": "Akamai Technologies Inc."
+      "name": "Akamai Technologies Inc.",
+      "percent": "0.227770"
     },
     {
-      "Name": "CDW Corp.",
-      "Ticker": "CDW",
-      "Identifier": "12514G10",
-      "SEDOL": "BBM5MD6",
-      "Weight": "0.224771",
-      "Sector": "Electronic Equipment Instruments & Components",
-      "Shares Held": "619923.000",
-      "Local Currency": "USD",
       "ticker": "CDW",
-      "name": "CDW Corp."
+      "name": "CDW Corp.",
+      "percent": "0.224771"
     },
     {
-      "Name": "Paycom Software Inc.",
-      "Ticker": "PAYC",
-      "Identifier": "70432V10",
-      "SEDOL": "BL95MY0",
-      "Weight": "0.221869",
-      "Sector": "Software",
-      "Shares Held": "212710.000",
-      "Local Currency": "USD",
       "ticker": "PAYC",
-      "name": "Paycom Software Inc."
+      "name": "Paycom Software Inc.",
+      "percent": "0.221869"
     },
     {
-      "Name": "Citrix Systems Inc.",
-      "Ticker": "CTXS",
-      "Identifier": "17737610",
-      "SEDOL": "2182553",
-      "Weight": "0.215603",
-      "Sector": "Software",
-      "Shares Held": "536425.000",
-      "Local Currency": "USD",
       "ticker": "CTXS",
-      "name": "Citrix Systems Inc."
+      "name": "Citrix Systems Inc.",
+      "percent": "0.215603"
     },
     {
-      "Name": "Fortinet Inc.",
-      "Ticker": "FTNT",
-      "Identifier": "34959E10",
-      "SEDOL": "B5B2106",
-      "Weight": "0.212600",
-      "Sector": "Software",
-      "Shares Held": "583304.000",
-      "Local Currency": "USD",
       "ticker": "FTNT",
-      "name": "Fortinet Inc."
+      "name": "Fortinet Inc.",
+      "percent": "0.212600"
     },
     {
-      "Name": "Broadridge Financial Solutions Inc.",
-      "Ticker": "BR",
-      "Identifier": "11133T10",
-      "SEDOL": "B1VP7R6",
-      "Weight": "0.198648",
-      "Sector": "IT Services",
-      "Shares Held": "501023.000",
-      "Local Currency": "USD",
       "ticker": "BR",
-      "name": "Broadridge Financial Solutions Inc."
+      "name": "Broadridge Financial Solutions Inc.",
+      "percent": "0.198648"
     },
     {
-      "Name": "Tyler Technologies Inc.",
-      "Ticker": "TYL",
-      "Identifier": "90225210",
-      "SEDOL": "2909644",
-      "Weight": "0.191674",
-      "Sector": "Software",
-      "Shares Held": "174770.000",
-      "Local Currency": "USD",
       "ticker": "TYL",
-      "name": "Tyler Technologies Inc."
+      "name": "Tyler Technologies Inc.",
+      "percent": "0.191674"
     },
     {
-      "Name": "Qorvo Inc.",
-      "Ticker": "QRVO",
-      "Identifier": "74736K10",
-      "SEDOL": "BR9YYP4",
-      "Weight": "0.187241",
-      "Sector": "Semiconductors & Semiconductor Equipment",
-      "Shares Held": "496396.000",
-      "Local Currency": "USD",
       "ticker": "QRVO",
-      "name": "Qorvo Inc."
+      "name": "Qorvo Inc.",
+      "percent": "0.187241"
     },
     {
-      "Name": "Zebra Technologies Corporation Class A",
-      "Ticker": "ZBRA",
-      "Identifier": "98920710",
-      "SEDOL": "2989356",
-      "Weight": "0.185428",
-      "Sector": "Electronic Equipment Instruments & Components",
-      "Shares Held": "231744.000",
-      "Local Currency": "USD",
       "ticker": "ZBRA",
-      "name": "Zebra Technologies Corporation Class A"
+      "name": "Zebra Technologies Corporation Class A",
+      "percent": "0.185428"
     },
     {
-      "Name": "Teradyne Inc.",
-      "Ticker": "TER",
-      "Identifier": "88077010",
-      "SEDOL": "2884183",
-      "Weight": "0.176426",
-      "Sector": "Semiconductors & Semiconductor Equipment",
-      "Shares Held": "721468.000",
-      "Local Currency": "USD",
       "ticker": "TER",
-      "name": "Teradyne Inc."
+      "name": "Teradyne Inc.",
+      "percent": "0.176426"
     },
     {
-      "Name": "NortonLifeLock Inc.",
-      "Ticker": "NLOK",
-      "Identifier": "66877110",
-      "SEDOL": "BJN4XN5",
-      "Weight": "0.152638",
-      "Sector": "Software",
-      "Shares Held": "2567966.000",
-      "Local Currency": "USD",
       "ticker": "NLOK",
-      "name": "NortonLifeLock Inc."
+      "name": "NortonLifeLock Inc.",
+      "percent": "0.152638"
     },
     {
-      "Name": "Hewlett Packard Enterprise Co.",
-      "Ticker": "HPE",
-      "Identifier": "42824C10",
-      "SEDOL": "BYVYWS0",
-      "Weight": "0.152548",
-      "Sector": "Technology Hardware Storage & Peripherals",
-      "Shares Held": "5589512.000",
-      "Local Currency": "USD",
       "ticker": "HPE",
-      "name": "Hewlett Packard Enterprise Co."
+      "name": "Hewlett Packard Enterprise Co.",
+      "percent": "0.152548"
     },
     {
-      "Name": "Jack Henry & Associates Inc.",
-      "Ticker": "JKHY",
-      "Identifier": "42628110",
-      "SEDOL": "2469193",
-      "Weight": "0.150446",
-      "Sector": "IT Services",
-      "Shares Held": "332978.000",
-      "Local Currency": "USD",
       "ticker": "JKHY",
-      "name": "Jack Henry & Associates Inc."
+      "name": "Jack Henry & Associates Inc.",
+      "percent": "0.150446"
     },
     {
-      "Name": "Arista Networks Inc.",
-      "Ticker": "ANET",
-      "Identifier": "04041310",
-      "SEDOL": "BN33VM5",
-      "Weight": "0.149918",
-      "Sector": "Communications Equipment",
-      "Shares Held": "237882.000",
-      "Local Currency": "USD",
       "ticker": "ANET",
-      "name": "Arista Networks Inc."
+      "name": "Arista Networks Inc.",
+      "percent": "0.149918"
     },
     {
-      "Name": "Leidos Holdings Inc.",
-      "Ticker": "LDOS",
-      "Identifier": "52532710",
-      "SEDOL": "BDV82B8",
-      "Weight": "0.142918",
-      "Sector": "IT Services",
-      "Shares Held": "580731.000",
-      "Local Currency": "USD",
       "ticker": "LDOS",
-      "name": "Leidos Holdings Inc."
+      "name": "Leidos Holdings Inc.",
+      "percent": "0.142918"
     },
     {
-      "Name": "Western Digital Corporation",
-      "Ticker": "WDC",
-      "Identifier": "95810210",
-      "SEDOL": "2954699",
-      "Weight": "0.138758",
-      "Sector": "Technology Hardware Storage & Peripherals",
-      "Shares Held": "1313710.000",
-      "Local Currency": "USD",
       "ticker": "WDC",
-      "name": "Western Digital Corporation"
+      "name": "Western Digital Corporation",
+      "percent": "0.138758"
     },
     {
-      "Name": "Seagate Technology PLC",
-      "Ticker": "STX",
-      "Identifier": "G7945M10",
-      "SEDOL": "B58JVZ5",
-      "Weight": "0.138511",
-      "Sector": "Technology Hardware Storage & Peripherals",
-      "Shares Held": "969823.000",
-      "Local Currency": "USD",
       "ticker": "STX",
-      "name": "Seagate Technology PLC"
+      "name": "Seagate Technology PLC",
+      "percent": "0.138511"
     },
     {
-      "Name": "Gartner Inc.",
-      "Ticker": "IT",
-      "Identifier": "36665110",
-      "SEDOL": "2372763",
-      "Weight": "0.138503",
-      "Sector": "IT Services",
-      "Shares Held": "387755.000",
-      "Local Currency": "USD",
       "ticker": "IT",
-      "name": "Gartner Inc."
+      "name": "Gartner Inc.",
+      "percent": "0.138503"
     },
     {
-      "Name": "NetApp Inc.",
-      "Ticker": "NTAP",
-      "Identifier": "64110D10",
-      "SEDOL": "2630643",
-      "Weight": "0.126272",
-      "Sector": "Technology Hardware Storage & Peripherals",
-      "Shares Held": "965225.000",
-      "Local Currency": "USD",
       "ticker": "NTAP",
-      "name": "NetApp Inc."
+      "name": "NetApp Inc.",
+      "percent": "0.126272"
     },
     {
-      "Name": "Western Union Company",
-      "Ticker": "WU",
-      "Identifier": "95980210",
-      "SEDOL": "B1F76F9",
-      "Weight": "0.107897",
-      "Sector": "IT Services",
-      "Shares Held": "1785904.000",
-      "Local Currency": "USD",
       "ticker": "WU",
-      "name": "Western Union Company"
+      "name": "Western Union Company",
+      "percent": "0.107897"
     },
     {
-      "Name": "F5 Networks Inc.",
-      "Ticker": "FFIV",
-      "Identifier": "31561610",
-      "SEDOL": "2427599",
-      "Weight": "0.093817",
-      "Sector": "Communications Equipment",
-      "Shares Held": "265702.000",
-      "Local Currency": "USD",
       "ticker": "FFIV",
-      "name": "F5 Networks Inc."
+      "name": "F5 Networks Inc.",
+      "percent": "0.093817"
     },
     {
-      "Name": "STATE STREET INSTITUTIONAL LIQ STATE STR",
-      "Ticker": "70286227",
-      "Identifier": "70286227",
-      "SEDOL": "Unassigned",
-      "Weight": "0.093751",
-      "Sector": "Unassigned",
-      "Shares Held": "33595580.000",
-      "Local Currency": "USD",
       "ticker": "70286227",
-      "name": "STATE STREET INSTITUTIONAL LIQ STATE STR"
+      "name": "STATE STREET INSTITUTIONAL LIQ STATE STR",
+      "percent": "0.093751"
     },
     {
-      "Name": "Juniper Networks Inc.",
-      "Ticker": "JNPR",
-      "Identifier": "48203R10",
-      "SEDOL": "2431846",
-      "Weight": "0.090123",
-      "Sector": "Communications Equipment",
-      "Shares Held": "1446293.000",
-      "Local Currency": "USD",
       "ticker": "JNPR",
-      "name": "Juniper Networks Inc."
+      "name": "Juniper Networks Inc.",
+      "percent": "0.090123"
     },
     {
-      "Name": "IPG Photonics Corporation",
-      "Ticker": "IPGP",
-      "Identifier": "44980X10",
-      "SEDOL": "2698782",
-      "Weight": "0.079513",
-      "Sector": "Electronic Equipment Instruments & Components",
-      "Shares Held": "154983.000",
-      "Local Currency": "USD",
       "ticker": "IPGP",
-      "name": "IPG Photonics Corporation"
+      "name": "IPG Photonics Corporation",
+      "percent": "0.079513"
     },
     {
-      "Name": "DXC Technology Co.",
-      "Ticker": "DXC",
-      "Identifier": "23355L10",
-      "SEDOL": "BYXD7B3",
-      "Weight": "0.062420",
-      "Sector": "IT Services",
-      "Shares Held": "1106781.000",
-      "Local Currency": "USD",
       "ticker": "DXC",
-      "name": "DXC Technology Co."
+      "name": "DXC Technology Co.",
+      "percent": "0.062420"
     },
     {
-      "Name": "FLIR Systems Inc.",
-      "Ticker": "FLIR",
-      "Identifier": "30244510",
-      "SEDOL": "2344717",
-      "Weight": "0.057801",
-      "Sector": "Electronic Equipment Instruments & Components",
-      "Shares Held": "570605.000",
-      "Local Currency": "USD",
       "ticker": "FLIR",
-      "name": "FLIR Systems Inc."
+      "name": "FLIR Systems Inc.",
+      "percent": "0.057801"
     },
     {
-      "Name": "Vontier Corp",
-      "Ticker": "VNT",
-      "Identifier": "92888110",
-      "SEDOL": "BH4GV32",
-      "Weight": "0.043663",
-      "Sector": "Electronic Equipment Instruments & Components",
-      "Shares Held": "584700.000",
-      "Local Currency": "USD",
       "ticker": "VNT",
-      "name": "Vontier Corp"
+      "name": "Vontier Corp",
+      "percent": "0.043663"
     },
     {
-      "Name": "Xerox Holdings Corporation",
-      "Ticker": "XRX",
-      "Identifier": "98421M10",
-      "SEDOL": "BJJD5G3",
-      "Weight": "0.043392",
-      "Sector": "Technology Hardware Storage & Peripherals",
-      "Shares Held": "780210.000",
-      "Local Currency": "USD",
       "ticker": "XRX",
-      "name": "Xerox Holdings Corporation"
+      "name": "Xerox Holdings Corporation",
+      "percent": "0.043392"
     },
     {
-      "Name": "U.S. Dollar",
-      "Ticker": "CASH_USD",
-      "Identifier": "CASH_USD",
-      "SEDOL": "Unassigned",
-      "Weight": "-0.048530",
-      "Sector": "Unassigned",
-      "Shares Held": "-17390766.000",
-      "Local Currency": "USD",
       "ticker": "CASH_USD",
-      "name": "U.S. Dollar"
+      "name": "U.S. Dollar",
+      "percent": "-0.048530"
     },
     {
-      "Name": "Performance quoted represents past performance, which is no guarantee of future results. Investment return and principal value will fluctuate, so you may have a gain or loss when shares are sold. Current performance may be higher or lower than that quoted. Visit www.ssga.com for most recent month-end performance.",
       "name": "Performance quoted represents past performance, which is no guarantee of future results. Investment return and principal value will fluctuate, so you may have a gain or loss when shares are sold. Current performance may be higher or lower than that quoted. Visit www.ssga.com for most recent month-end performance."
     },
     {
-      "Name": "This analysis or any portion thereof may not be revised or changed in any way, reprinted, sold or redistributed without the written consent of SSGA.",
       "name": "This analysis or any portion thereof may not be revised or changed in any way, reprinted, sold or redistributed without the written consent of SSGA."
     },
     {
-      "Name": "Portfolio holdings, allocations and weightings are as of the date indicated, are subject to change and should not be considered a recommendation to buy individual securities. For most recent information visit www.ssga.com.",
       "name": "Portfolio holdings, allocations and weightings are as of the date indicated, are subject to change and should not be considered a recommendation to buy individual securities. For most recent information visit www.ssga.com."
     },
     {
-      "Name": "Important Risk Information  ",
       "name": "Important Risk Information  "
     },
     {
-      "Name": "Investing involves risk, and you could lose money on an investment in each of SPDR® Gold Shares Trust (“GLD®”) and SPDR® Gold MiniSharesSM Trust  (“GLDMSM”), a series of the World Gold Trust (together, the “Funds”). \n\nETFs trade like stocks, are subject to investment risk, fluctuate in market value and may trade at prices above or below the ETFs’ net asset value. Brokerage commissions and ETF expenses will reduce returns.\n\nCommodities and commodity-index linked securities may be affected by changes in overall market movements, changes in interest rates, and other factors such as weather, disease, embargoes, or political and regulatory developments, as well as trading activity of speculators and arbitrageurs in the underlying commodities.\n\nFrequent trading of ETFs could significantly increase commissions and other costs such that they may offset any savings from low fees or costs.\n\nDiversification does not ensure a profit or guarantee against loss.",
       "name": "Investing involves risk, and you could lose money on an investment in each of SPDR® Gold Shares Trust (“GLD®”) and SPDR® Gold MiniSharesSM Trust  (“GLDMSM”), a series of the World Gold Trust (together, the “Funds”). \n\nETFs trade like stocks, are subject to investment risk, fluctuate in market value and may trade at prices above or below the ETFs’ net asset value. Brokerage commissions and ETF expenses will reduce returns.\n\nCommodities and commodity-index linked securities may be affected by changes in overall market movements, changes in interest rates, and other factors such as weather, disease, embargoes, or political and regulatory developments, as well as trading activity of speculators and arbitrageurs in the underlying commodities.\n\nFrequent trading of ETFs could significantly increase commissions and other costs such that they may offset any savings from low fees or costs.\n\nDiversification does not ensure a profit or guarantee against loss."
     },
     {
-      "Name": "Investing in commodities entails significant risk and is not appropriate for all investors.",
       "name": "Investing in commodities entails significant risk and is not appropriate for all investors."
     },
     {
-      "Name": "Important Information Relating to SPDR® Gold Trust (“GLD®”) and SPDR® Gold MiniSharesSM Trust (“GLDMSM”):",
       "name": "Important Information Relating to SPDR® Gold Trust (“GLD®”) and SPDR® Gold MiniSharesSM Trust (“GLDMSM”):"
     },
     {
-      "Name": "The SPDR Gold Trust (“GLD”) has filed a registration statement (including a prospectus) with the Securities and Exchange Commission (“SEC”) for GLD. The World Gold Trust has filed a registration statement (including a prospectus) with the SEC for GLDM. Before you invest, you should read the prospectus in the registration statement and other documents each Fund has filed with the SEC for more complete information about each Fund and these offerings. Please see each Fund’s prospectus for a detailed discussion of the risks of investing in each Fund’s shares.",
       "name": "The SPDR Gold Trust (“GLD”) has filed a registration statement (including a prospectus) with the Securities and Exchange Commission (“SEC”) for GLD. The World Gold Trust has filed a registration statement (including a prospectus) with the SEC for GLDM. Before you invest, you should read the prospectus in the registration statement and other documents each Fund has filed with the SEC for more complete information about each Fund and these offerings. Please see each Fund’s prospectus for a detailed discussion of the risks of investing in each Fund’s shares."
     },
     {
-      "Name": "The GLD prospectus is available by clicking",
-      "Sector": "here.",
       "name": "The GLD prospectus is available by clicking"
     },
     {
-      "Name": "The GLDM prospectus is available by clicking ",
-      "Sector": "here.",
       "name": "The GLDM prospectus is available by clicking "
     },
     {
-      "Name": "You may get these documents for free by visiting EDGAR on the SEC website at sec.gov or by visiting spdrgoldshares.com. Alternatively, the Funds or any authorized participant will arrange to send you the prospectus if you request it by calling 866.320.4053.",
       "name": "You may get these documents for free by visiting EDGAR on the SEC website at sec.gov or by visiting spdrgoldshares.com. Alternatively, the Funds or any authorized participant will arrange to send you the prospectus if you request it by calling 866.320.4053."
     },
     {
-      "Name": "None of the Funds is an investment company registered under the Investment Company Act of 1940 (the “1940 Act”). As a result, shareholders of each Fund do not have the protections associated with ownership of shares in an investment company registered under the 1940 Act. GLD and GLDM are not subject to regulation under the CEA. As a result, shareholders of each of GLD and GLDM do not have the protections afforded by the CEA. \n\nShares of each Fund trade like stocks, are subject to investment risk and will fluctuate in market value. \n\nThe values of GLD shares and GLDM shares relate directly to the value of the gold held by each Fund (less its expenses), respectively. Fluctuations in the price of gold could materially and adversely affect an investment in the shares. The price received upon the sale of the shares, which trade at market price, may be more or less than the value of the gold represented by them.  \n\nNone of the Funds generate any income, and as each Fund regularly sells gold to pay for its ongoing expenses, the amount of gold represented by each Fund share will decline over time to that extent.\n\nThe World Gold Council name and logo are a registered trademark and used with the permission of the World Gold Council pursuant to a license agreement. The World Gold Council is not responsible for the content of, and is not liable for the use of or reliance on, this material. World Gold Council is an affiliate of the Sponsor of each of GLD and GLDM.\n\nMiniSharesSM and GLDMSM are service marks of WGC USA Asset Management Company, LLC used with the permission of WGC USA Asset Management Company, LLC.\n\nGLD® is a registered trademark of World Gold Trust Services, LLC used with the permission of World Gold Trust Services, LLC.",
       "name": "None of the Funds is an investment company registered under the Investment Company Act of 1940 (the “1940 Act”). As a result, shareholders of each Fund do not have the protections associated with ownership of shares in an investment company registered under the 1940 Act. GLD and GLDM are not subject to regulation under the CEA. As a result, shareholders of each of GLD and GLDM do not have the protections afforded by the CEA. \n\nShares of each Fund trade like stocks, are subject to investment risk and will fluctuate in market value. \n\nThe values of GLD shares and GLDM shares relate directly to the value of the gold held by each Fund (less its expenses), respectively. Fluctuations in the price of gold could materially and adversely affect an investment in the shares. The price received upon the sale of the shares, which trade at market price, may be more or less than the value of the gold represented by them.  \n\nNone of the Funds generate any income, and as each Fund regularly sells gold to pay for its ongoing expenses, the amount of gold represented by each Fund share will decline over time to that extent.\n\nThe World Gold Council name and logo are a registered trademark and used with the permission of the World Gold Council pursuant to a license agreement. The World Gold Council is not responsible for the content of, and is not liable for the use of or reliance on, this material. World Gold Council is an affiliate of the Sponsor of each of GLD and GLDM.\n\nMiniSharesSM and GLDMSM are service marks of WGC USA Asset Management Company, LLC used with the permission of WGC USA Asset Management Company, LLC.\n\nGLD® is a registered trademark of World Gold Trust Services, LLC used with the permission of World Gold Trust Services, LLC."
     },
     {
-      "Name": "For more information, please contact the Marketing Agent for GLD and GLDM: State Street Global Advisors Funds Distributors, LLC, One Iron Street, Boston, MA, 02210; T: +1 866 320 4053 spdrgoldshares.com",
       "name": "For more information, please contact the Marketing Agent for GLD and GLDM: State Street Global Advisors Funds Distributors, LLC, One Iron Street, Boston, MA, 02210; T: +1 866 320 4053 spdrgoldshares.com"
     },
     {
-      "Name": "Standard & Poor’s®, S&P® and SPDR® are registered trademarks of Standard & Poor’s Financial Services LLC (S&P); Dow Jones is a registered trademark of Dow Jones Trademark Holdings LLC (Dow Jones); and these trademarks have been licensed for use by S&P Dow Jones Indices LLC (SPDJI) and sublicensed for certain purposes by State Street Corporation. State Street Corporation’s financial products are not sponsored, endorsed, sold or promoted by SPDJI, Dow Jones, S&P, their respective affiliates and third party licensors and none of such parties make any representation regarding the advisability of investing in such product(s) nor do they have any liability in relation thereto, including for any errors, omissions, or interruptions of any index.",
       "name": "Standard & Poor’s®, S&P® and SPDR® are registered trademarks of Standard & Poor’s Financial Services LLC (S&P); Dow Jones is a registered trademark of Dow Jones Trademark Holdings LLC (Dow Jones); and these trademarks have been licensed for use by S&P Dow Jones Indices LLC (SPDJI) and sublicensed for certain purposes by State Street Corporation. State Street Corporation’s financial products are not sponsored, endorsed, sold or promoted by SPDJI, Dow Jones, S&P, their respective affiliates and third party licensors and none of such parties make any representation regarding the advisability of investing in such product(s) nor do they have any liability in relation thereto, including for any errors, omissions, or interruptions of any index."
     },
     {
-      "Name": "Bonds generally present less short-term risk and volatility than stocks, but contain interest rate risk (as interest rates raise, bond prices usually fall); issuer default risk; issuer credit risk; liquidity risk; and inflation risk. These effects are usually pronounced for longer-term securities. Any fixed income security sold or redeemed prior to maturity may be subject to a substantial gain or loss.\nInternational Government bonds and corporate bonds generally have more moderate short-term price fluctuations than stocks, but provide lower potential long-term returns.\nInvesting in high yield fixed income securities, otherwise known as \"junk bonds\", is considered speculative and involves greater risk of loss of principal and interest than investing in investment grade fixed income securities. These Lower-quality debt securities involve greater risk of default or price changes due to potential changes in the credit quality of the issuer.\nEquity securities may fluctuate in value in response to the activities of individual companies and general market and economic conditions.\nThere are risks associated with investing in Real Assets and the Real Assets sector, including real estate, precious metals and natural resources.  Investments can be significantly affected by events relating to these industries.\nInvesting in foreign domiciled securities may involve risk of capital loss from unfavorable fluctuation in currency values, withholding taxes, from differences in generally accepted accounting principles or from economic or political instability in other nations.  Investments in emerging or developing markets may be more volatile and less liquid than investing in developed markets and may involve exposure to economic structures that are generally less diverse and mature and to political systems which have less stability than those of more developed countries. The trademarks and service marks referenced herein are the property of their respective owners. Third party data providers make no warranties or representations of any kind relating to the accuracy, completeness or timeliness of the data and have no liability for damages of any kind relating to the use of such data. Investing involves risk including the risk of loss of principal.\nThe whole or any part of this work may not be reproduced, copied or transmitted or any of its contents disclosed to third parties without SSGA's express written consent.\nETFs trade like stocks, are subject to investment risk and will fluctuate in market value. The investment return and principal value of an investment will fluctuate in value, so that when shares are sold or redeemed, they may be worth more or less than when they were purchased.  Although shares may be bought or sold on an exchange through any brokerage account, shares are not individually redeemable from the fund.  Investors may acquire shares and tender them for redemption through the fund in large aggregations known as “creation units.”  Please see the fund’s prospectus for more details.\nInvesting in REITs involves certain distinct risks in addition to those risks associated with investing in the real estate industry in general. Equity REITs may be affected by changes in the value of the underlying property owned by the REITs, while mortgage REITs may be affected by the quality of credit extended. REITs are subject to heavy cash flow dependency, default by borrowers and self-liquidation. REITs, especially mortgage REITs, are also subject to interest rate risk (i.e., as interest rates rise, the value of the REIT may decline).\nInvestments in small/mid-sized companies may involve greater risks than in those of larger, better known companies. Concentrated investments in a particular Sector tend to be more volatile than the overall market and increases risk that events negatively affecting such sectors or industries could reduce returns, potentially causing the value of the Fund’s shares to decrease.\nStandard & Poor’s®, S&P® and SPDR® are registered trademarks of Standard & Poor’s Financial Services LLC (S&P); Dow Jones is a registered trademark of Dow Jones Trademark Holdings LLC (Dow Jones); and these trademarks have been licensed for use by S&P Dow Jones Indices LLC (SPDJI) and sublicensed for certain purposes by State Street Corporation. State Street Corporation’s financial products are not sponsored, endorsed, sold or promoted by SPDJI, Dow Jones, S&P, their respective affiliates and third party licensors and none of such parties make any representation regarding the advisability of investing in such product(s) nor do they have any liability in relation thereto, including for any errors, omissions, or interruptions of any index.\nCommodities and commodity-index linked securities may be affected by changes in overall market movements, changes in interest rates, and other factors such as weather, disease, embargoes, or political and regulatory developments, as well as trading activity of speculators and arbitrageurs in the underlying commodities. The returns on a portfolio of securities which exclude companies that do not meet the portfolio's specified ESG criteria may trail the returns on a portfolio of securities which include such companies. A portfolio's ESG criteria may result in the portfolio investing in industry sectors or securities which underperform the market as a whole.\nTechnology companies, including cyber security companies, can be significantly affected by obsolescence of existing technology, limited product lines, and competition for financial resources, qualified personnel, new market entrants or impairment of patent and intellectual property rights that can adversely affect profit margins.",
       "name": "Bonds generally present less short-term risk and volatility than stocks, but contain interest rate risk (as interest rates raise, bond prices usually fall); issuer default risk; issuer credit risk; liquidity risk; and inflation risk. These effects are usually pronounced for longer-term securities. Any fixed income security sold or redeemed prior to maturity may be subject to a substantial gain or loss.\nInternational Government bonds and corporate bonds generally have more moderate short-term price fluctuations than stocks, but provide lower potential long-term returns.\nInvesting in high yield fixed income securities, otherwise known as \"junk bonds\", is considered speculative and involves greater risk of loss of principal and interest than investing in investment grade fixed income securities. These Lower-quality debt securities involve greater risk of default or price changes due to potential changes in the credit quality of the issuer.\nEquity securities may fluctuate in value in response to the activities of individual companies and general market and economic conditions.\nThere are risks associated with investing in Real Assets and the Real Assets sector, including real estate, precious metals and natural resources.  Investments can be significantly affected by events relating to these industries.\nInvesting in foreign domiciled securities may involve risk of capital loss from unfavorable fluctuation in currency values, withholding taxes, from differences in generally accepted accounting principles or from economic or political instability in other nations.  Investments in emerging or developing markets may be more volatile and less liquid than investing in developed markets and may involve exposure to economic structures that are generally less diverse and mature and to political systems which have less stability than those of more developed countries. The trademarks and service marks referenced herein are the property of their respective owners. Third party data providers make no warranties or representations of any kind relating to the accuracy, completeness or timeliness of the data and have no liability for damages of any kind relating to the use of such data. Investing involves risk including the risk of loss of principal.\nThe whole or any part of this work may not be reproduced, copied or transmitted or any of its contents disclosed to third parties without SSGA's express written consent.\nETFs trade like stocks, are subject to investment risk and will fluctuate in market value. The investment return and principal value of an investment will fluctuate in value, so that when shares are sold or redeemed, they may be worth more or less than when they were purchased.  Although shares may be bought or sold on an exchange through any brokerage account, shares are not individually redeemable from the fund.  Investors may acquire shares and tender them for redemption through the fund in large aggregations known as “creation units.”  Please see the fund’s prospectus for more details.\nInvesting in REITs involves certain distinct risks in addition to those risks associated with investing in the real estate industry in general. Equity REITs may be affected by changes in the value of the underlying property owned by the REITs, while mortgage REITs may be affected by the quality of credit extended. REITs are subject to heavy cash flow dependency, default by borrowers and self-liquidation. REITs, especially mortgage REITs, are also subject to interest rate risk (i.e., as interest rates rise, the value of the REIT may decline).\nInvestments in small/mid-sized companies may involve greater risks than in those of larger, better known companies. Concentrated investments in a particular Sector tend to be more volatile than the overall market and increases risk that events negatively affecting such sectors or industries could reduce returns, potentially causing the value of the Fund’s shares to decrease.\nStandard & Poor’s®, S&P® and SPDR® are registered trademarks of Standard & Poor’s Financial Services LLC (S&P); Dow Jones is a registered trademark of Dow Jones Trademark Holdings LLC (Dow Jones); and these trademarks have been licensed for use by S&P Dow Jones Indices LLC (SPDJI) and sublicensed for certain purposes by State Street Corporation. State Street Corporation’s financial products are not sponsored, endorsed, sold or promoted by SPDJI, Dow Jones, S&P, their respective affiliates and third party licensors and none of such parties make any representation regarding the advisability of investing in such product(s) nor do they have any liability in relation thereto, including for any errors, omissions, or interruptions of any index.\nCommodities and commodity-index linked securities may be affected by changes in overall market movements, changes in interest rates, and other factors such as weather, disease, embargoes, or political and regulatory developments, as well as trading activity of speculators and arbitrageurs in the underlying commodities. The returns on a portfolio of securities which exclude companies that do not meet the portfolio's specified ESG criteria may trail the returns on a portfolio of securities which include such companies. A portfolio's ESG criteria may result in the portfolio investing in industry sectors or securities which underperform the market as a whole.\nTechnology companies, including cyber security companies, can be significantly affected by obsolescence of existing technology, limited product lines, and competition for financial resources, qualified personnel, new market entrants or impairment of patent and intellectual property rights that can adversely affect profit margins."
     },
     {
-      "Name": "Distributor: State Street Global Advisors Funds Distributors, LLC, member FINRA(http://www.finra.org), SIPC(http://www.sipc.org), an indirect wholly owned subsidiary of State Street Corporation. References to State Street may include State Street Corporation and its affiliates. Certain State Street affiliates provide services and receive fees from the SPDR ETFs. ALPS Distributors, Inc., member FINRA, is the distributor for DIA, MDY and SPY, all unit investment trusts. ALPS Portfolio Solutions Distributor, Inc., member FINRA, is the distributor for Select Sector SPDRs. ALPS Distributors, Inc. and ALPS Portfolio Solutions Distributor, Inc. are not affiliated with State Street Global Advisors Funds Distributors, LLC.",
       "name": "Distributor: State Street Global Advisors Funds Distributors, LLC, member FINRA(http://www.finra.org), SIPC(http://www.sipc.org), an indirect wholly owned subsidiary of State Street Corporation. References to State Street may include State Street Corporation and its affiliates. Certain State Street affiliates provide services and receive fees from the SPDR ETFs. ALPS Distributors, Inc., member FINRA, is the distributor for DIA, MDY and SPY, all unit investment trusts. ALPS Portfolio Solutions Distributor, Inc., member FINRA, is the distributor for Select Sector SPDRs. ALPS Distributors, Inc. and ALPS Portfolio Solutions Distributor, Inc. are not affiliated with State Street Global Advisors Funds Distributors, LLC."
     },
     {
-      "Name": "Before investing, consider the funds’ investment objectives, risks, charges and expenses. To obtain a prospectus or summary prospectus, this contains this and other information, call 1-866-787-2257 or visit www.ssga.com. Read it carefully.\n\nNot FDIC Insured * No Bank Guarantee * May Lose Value\n\n2529657.2.1.AM.RTL\nExpiration: 03/31/2021\nSPD002304",
       "name": "Before investing, consider the funds’ investment objectives, risks, charges and expenses. To obtain a prospectus or summary prospectus, this contains this and other information, call 1-866-787-2257 or visit www.ssga.com. Read it carefully.\n\nNot FDIC Insured * No Bank Guarantee * May Lose Value\n\n2529657.2.1.AM.RTL\nExpiration: 03/31/2021\nSPD002304"
     }
   ]

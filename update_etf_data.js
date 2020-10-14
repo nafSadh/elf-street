@@ -18,6 +18,50 @@ const wisdomTree = (function () {
   return json
 })()
 
+const infer = {
+  invesco: function (etf) {
+    return {
+      issuer: 'Invesco',
+      website:
+        'https://www.invesco.com/us/financial-products/etfs/product-detail?audienceType=Investor&ticker=' +
+        etf.ticker,
+      holdingDataSource: {
+        url:
+          'https://www.invesco.com/us/financial-products/etfs/holdings/main/holdings/0?audienceType=Investor&action=download&ticker=' +
+          etf.ticker,
+        fileExt: 'csv',
+        transform: 'invesco',
+      },
+    }
+  },
+  spdr: function (etf) {
+    const tkr = _.toLower(etf.ticker)
+    return {
+      issuer: 'SSGA',
+      holdingDataSource: {
+        fileUrl:
+          'https://www.ssga.com/us/en/individual/etfs/library-content/products/fund-data/etfs/us/holdings-daily-us-en-' +
+          tkr +
+          '.xlsx',
+        fileExt: 'xlsx',
+        transform: 'spdr',
+      },
+    }
+  },
+  wisdomTree: function (etf) {
+    let wtEtf = wisdomTree.etf[etf.ticker]
+    _.assign(wtEtf, {
+      holdingDataSource: {
+        file: './data/stored/' + etf.ticker + '.csv',
+        fileExt: 'csv',
+        transform: 'wisdomTree',
+      },
+      website: wtEtf.url,
+    })
+    return wtEtf
+  },
+}
+
 const transforms = {
   csvToJson: function (data) {
     const parsed = Papa.parse(data)
@@ -75,6 +119,7 @@ const transforms = {
     for (const obj of holdings) {
       obj.ticker = obj.Ticker
       obj.name = obj.Name
+      obj.percent = obj.Weight
     }
     return holdings
   },
@@ -91,50 +136,6 @@ const transforms = {
       }
     }
     return jsonArray
-  },
-}
-
-const infer = {
-  invesco: function (etf) {
-    return {
-      issuer: 'Invesco',
-      website:
-        'https://www.invesco.com/us/financial-products/etfs/product-detail?audienceType=Investor&ticker=' +
-        etf.ticker,
-      holdingDataSource: {
-        url:
-          'https://www.invesco.com/us/financial-products/etfs/holdings/main/holdings/0?audienceType=Investor&action=download&ticker=' +
-          etf.ticker,
-        fileExt: 'csv',
-        transform: 'invesco',
-      },
-    }
-  },
-  spdr: function (etf) {
-    const tkr = _.toLower(etf.ticker)
-    return {
-      issuer: 'SSGA',
-      holdingDataSource: {
-        fileUrl:
-          'https://www.ssga.com/us/en/individual/etfs/library-content/products/fund-data/etfs/us/holdings-daily-us-en-' +
-          tkr +
-          '.xlsx',
-        fileExt: 'xlsx',
-        transform: 'spdr',
-      },
-    }
-  },
-  wisdomTree: function (etf) {
-    let wtEtf = wisdomTree.etf[etf.ticker]
-    _.assign(wtEtf, {
-      holdingDataSource: {
-        file: './data/stored/' + etf.ticker + '.csv',
-        fileExt: 'csv',
-        transform: 'wisdomTree',
-      },
-      website: wtEtf.url,
-    })
-    return wtEtf
   },
 }
 
@@ -159,7 +160,21 @@ function fileFromUrl(fileUrl, path, callback) {
 }
 
 function dataToJsonFile(data, etf, jsonpath) {
-  etf.holdings = transforms[etf.holdingDataSource.transform](data)
+  const useLeanJson = true
+  const holdings = transforms[etf.holdingDataSource.transform](data)
+  if (useLeanJson) {
+    etf.holdings = []
+    for (const obj of holdings) {
+      if (obj.ticker || obj.name || obj.percent)
+        etf.holdings.push({
+          ticker: obj.ticker,
+          name: obj.name,
+          percent: obj.percent,
+        })
+    }
+  } else {
+    etf.holdings = holdings
+  }
   fs.writeFile(jsonpath, JSON.stringify(etf, null, 2), (e, d) => {
     if (e) {
       console.error(e)

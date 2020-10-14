@@ -103,7 +103,7 @@ export default {
     etfId() {
       return this.$route.params.etf
     },
-    etf() {
+    etfR() {
       // const etfJson = require('~/static/etf/' + this.etfId + '.json')
       // return etfJson
       return {}
@@ -122,6 +122,21 @@ export default {
       const etfs = require('~/static/etfs.json')
       return etfs.ETFs
     },
+  },
+  async asyncData({ $axios, route }) {
+    const etf = await $axios
+      .$get('elf-street/etf/' + route.params.etf + '.json')
+      .then((res) => res)
+
+    /* if (process.server) {
+      data.etfDJ = JSON.parse(
+        require('fs').readFileSync('../static/etf/ARKK.json', 'utf8')
+      )
+    } else {
+      data.etfDJ = await axios.get('/ARKK.json').then((res) => res.data)
+    } */
+
+    return { etf }
   },
   methods: {
     onMutate() {

@@ -8,8 +8,9 @@ const XLSX = require('xlsx')
 const _ = require('lodash')
 
 const etfMetadata = require('./static/etfs.json')
+
 const wisdomTree = (function () {
-  const json = require('./static/wisdomtree.json')
+  const json = require('./data/wisdomtree.json')
   json.etf = {}
   for (let entry of json.ETFs) {
     json.etf[entry.bloombergTicker] = entry
@@ -36,7 +37,6 @@ const transforms = {
     let jsonArray = []
     for (const obj of transforms.csvToJson(data)) {
       if (obj.fund && obj.fund != '') {
-        let obj = obj
         obj.name = obj.company
         obj.percent = Number(obj['weight(%)'])
         obj.weight = 1 * (obj.percent / 100).toPrecision(8)
@@ -66,10 +66,10 @@ const transforms = {
     }
     return jsonArray
   },
-
-  ssga: function (buf) {
+  spdr: function (buf) {
     const workbook = XLSX.read(buf, { type: 'buffer' })
     const holdings = XLSX.utils.sheet_to_json(workbook.Sheets['holdings'], {
+      // 5th row is header, https://github.com/SheetJS/sheetjs/issues/482
       range: 4,
     })
     for (const obj of holdings) {
@@ -78,7 +78,6 @@ const transforms = {
     }
     return holdings
   },
-
   wisdomTree: function (data) {
     let jsonArray = []
     for (const obj of transforms.csvToJson(data)) {
@@ -95,7 +94,7 @@ const transforms = {
   },
 }
 
-const inferDataFn = {
+const infer = {
   invesco: function (etf) {
     return {
       issuer: 'Invesco',
@@ -111,12 +110,25 @@ const inferDataFn = {
       },
     }
   },
-
+  spdr: function (etf) {
+    const tkr = _.toLower(etf.ticker)
+    return {
+      issuer: 'SSGA',
+      holdingDataSource: {
+        fileUrl:
+          'https://www.ssga.com/us/en/individual/etfs/library-content/products/fund-data/etfs/us/holdings-daily-us-en-' +
+          tkr +
+          '.xlsx',
+        fileExt: 'xlsx',
+        transform: 'spdr',
+      },
+    }
+  },
   wisdomTree: function (etf) {
     let wtEtf = wisdomTree.etf[etf.ticker]
     _.assign(wtEtf, {
       holdingDataSource: {
-        file: './static/etf/' + etf.ticker + '.csv',
+        file: './data/stored/' + etf.ticker + '.csv',
         fileExt: 'csv',
         transform: 'wisdomTree',
       },
@@ -127,7 +139,6 @@ const inferDataFn = {
 }
 
 function fromUrl(url, path, processData) {
-  console.log('downloading: ' + url)
   const file = fs.createWriteStream(path)
   const chunks = []
   https
@@ -141,9 +152,9 @@ function fromUrl(url, path, processData) {
     })
 }
 
-const fileFromUrl = (url, path, callback) => {
-  request.head(url, (err, res, body) => {
-    request(url).pipe(fs.createWriteStream(path)).on('close', callback)
+function fileFromUrl(fileUrl, path, callback) {
+  request.head(fileUrl, (err, res, body) => {
+    request(fileUrl).pipe(fs.createWriteStream(path)).on('close', callback)
   })
 }
 
@@ -158,27 +169,28 @@ function dataToJsonFile(data, etf, jsonpath) {
 
 for (const etf of etfMetadata.ETFs) {
   if (!etf.ticker) continue
-  if (etf.inferDataFn) {
-    const fn = inferDataFn[etf.inferDataFn]
-    etf = Object.assign(fn(etf), etf)
+  if (etf.infer) {
+    _.merge(etf, infer[etf.infer](etf))
   }
   if (etf.holdingDataSource) {
     const filepath =
-      './static/etf/' + etf.ticker + '.' + etf.holdingDataSource.fileExt
+      './data/download/' + etf.ticker + '.' + etf.holdingDataSource.fileExt
     const jsonpath = './static/etf/' + etf.ticker + '.json'
     if (fs.existsSync(jsonpath)) {
       continue
-    }
-    if (etf.holdingDataSource.url) {
+    } else if (etf.holdings) {
+      fs.writeFileSync(jsonpath, JSON.stringify(etf, null, 2))
+    } else if (etf.holdingDataSource.url) {
+      console.log('getting from: ' + etf.holdingDataSource.url)
       fromUrl(etf.holdingDataSource.url, filepath, (data) => {
         dataToJsonFile(data, etf, jsonpath)
       })
-    }
-    if (etf.holdingDataSource.file) {
+    } else if (etf.holdingDataSource.file) {
+      console.log('reading file: ' + etf.holdingDataSource.file)
       const data = fs.readFileSync(etf.holdingDataSource.file, 'utf8')
       dataToJsonFile(data, etf, jsonpath)
-    }
-    if (etf.holdingDataSource.fileUrl) {
+    } else if (etf.holdingDataSource.fileUrl) {
+      console.log('downloading: ' + etf.holdingDataSource.fileUrl)
       fileFromUrl(etf.holdingDataSource.fileUrl, filepath, () => {
         dataToJsonFile(fs.readFileSync(filepath), etf, jsonpath)
       })

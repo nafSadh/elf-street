@@ -178,7 +178,7 @@ for (const etf of etfMetadata.ETFs) {
     const jsonpath = './static/etf/' + etf.ticker + '.json'
     if (fs.existsSync(jsonpath)) {
       continue
-    } else if (etf.holdings || etf.infer === 'spdr') {
+    } else if (etf.holdings) {
       fs.writeFileSync(jsonpath, JSON.stringify(etf, null, 2))
     } else if (etf.holdingDataSource.url) {
       console.log('getting from: ' + etf.holdingDataSource.url)

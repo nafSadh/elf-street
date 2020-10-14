@@ -14,7 +14,7 @@
       <v-container class="py-0 fill-height">
         <v-row>
           <v-toolbar-title>ETFs</v-toolbar-title>
-          <v-spacer /> {{ $axios.defaults.baseURL }}
+          <v-spacer />
         </v-row>
       </v-container>
     </v-app-bar>
@@ -23,7 +23,7 @@
       <!-- Provides the application the proper gutter -->
       <v-container>
         <v-toolbar outlined tile>
-          <v-toolbar-title>ETF (A)</v-toolbar-title>
+          <v-toolbar-title>ETF</v-toolbar-title>
           <v-autocomplete
             filled
             dense

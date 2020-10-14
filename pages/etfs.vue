@@ -37,6 +37,9 @@
           />
         </v-toolbar>
       </v-container>
+      <p>params: {{ $route.params }}</p>
+      <p>query: {{ $route.query }}</p>
+      <p>hash: {{ $route.hash }}</p>
     </v-main>
 
     <v-footer app>
@@ -53,6 +56,9 @@ export default {
     toEtf: null,
   }),
   computed: {
+    routInfo() {
+      return this.$route
+    },
     ETFs() {
       const etfs = require('~/static/etfs.json')
       return etfs.ETFs

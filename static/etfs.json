@@ -2,8 +2,8 @@
   "ETFs": [
     {
       "ticker": "ARKK",
-      "name":"ARK Innovation ETF",
-      "website":"https://ark-funds.com/arkk",
+      "name": "ARK Innovation ETF",
+      "website": "https://ark-funds.com/arkk",
       "exchange": "NYSE Arca",
       "issuer": "ARK",
       "holdingDataSource": {
@@ -14,31 +14,31 @@
     },
     {
       "ticker": "ARKQ",
-      "name":"ARK Autonomous Technology & Robotics ETF",
+      "name": "ARK Autonomous Technology & Robotics ETF",
       "issuer": "ARK",
-      "website":"https://ark-funds.com/arkq",
+      "website": "https://ark-funds.com/arkq",
       "holdingDataSource": {
         "url": "https://ark-funds.com/wp-content/fundsiteliterature/csv/ARK_AUTONOMOUS_TECHNOLOGY_&_ROBOTICS_ETF_ARKQ_HOLDINGS.csv",
         "fileExt": "csv",
         "transform": "ark"
       },
-      "Fund Type":	"Active Equity ETF",
-      "CUSIP":	"00214Q 203",
-      "Primary Exchange":	"Cboe BZX Exchange",
-      "Net Assets":	"$317 Million",
-      "Inception Date":	"9/30/2014",
-      "Expense Ratio":	"0.75%",
-      "Typical # of Holdings":	"30-50",
-      "Indicative Value":	"ARKQ.IV",
-      "Net Asset Value (NAV)":	"ARKQ.NV",
-      "Weighted Avg Market CAP":	"$135 Billion",
-      "Median Market CAP":	"$24 Billion",
-      "Portfolio Managers":"Catherine D. Wood"
+      "Fund Type": "Active Equity ETF",
+      "CUSIP": "00214Q 203",
+      "Primary Exchange": "Cboe BZX Exchange",
+      "Net Assets": "$317 Million",
+      "Inception Date": "9/30/2014",
+      "Expense Ratio": "0.75%",
+      "Typical # of Holdings": "30-50",
+      "Indicative Value": "ARKQ.IV",
+      "Net Asset Value (NAV)": "ARKQ.NV",
+      "Weighted Avg Market CAP": "$135 Billion",
+      "Median Market CAP": "$24 Billion",
+      "Portfolio Managers": "Catherine D. Wood"
     },
     {
       "ticker": "ARKW",
-      "name":"ARK Next Generation Internet ETF",
-      "website":"https://ark-funds.com/arkw",
+      "name": "ARK Next Generation Internet ETF",
+      "website": "https://ark-funds.com/arkw",
       "exchange": "NYSE Arca",
       "issuer": "ARK",
       "holdingDataSource": {
@@ -49,8 +49,8 @@
     },
     {
       "ticker": "ARKG",
-      "name":"ARK Genomic Revolution ETF",
-      "website":"https://ark-funds.com/arkg",
+      "name": "ARK Genomic Revolution ETF",
+      "website": "https://ark-funds.com/arkg",
       "exchange": "Cboe BZX Exchange",
       "issuer": "ARK",
       "holdingDataSource": {
@@ -61,8 +61,8 @@
     },
     {
       "ticker": "ARKF",
-      "name":"ARK Fintech Innovation ETF",
-      "website":"https://ark-funds.com/fintech-etf",
+      "name": "ARK Fintech Innovation ETF",
+      "website": "https://ark-funds.com/fintech-etf",
       "exchange": "NYSE Arca",
       "issuer": "ARK",
       "holdingDataSource": {
@@ -73,8 +73,8 @@
     },
     {
       "ticker": "PRNT",
-      "name":"The 3D Printing ETF",
-      "website":"https://ark-funds.com/3d-printing-etf",
+      "name": "The 3D Printing ETF",
+      "website": "https://ark-funds.com/3d-printing-etf",
       "exchange": "Cboe Global Markets",
       "issuer": "ARK",
       "holdingDataSource": {
@@ -85,8 +85,8 @@
     },
     {
       "ticker": "IZRL",
-      "name":"Israel Innovative Technology ETF",
-      "website":"https://ark-funds.com/israel-etf",
+      "name": "Israel Innovative Technology ETF",
+      "website": "https://ark-funds.com/israel-etf",
       "exchange": "Cboe Global Markets",
       "issuer": "ARK",
       "holdingDataSource": {
@@ -3397,13 +3397,25 @@
     },
     {
       "ticker": "WCLD",
-      "name":"WisdomTree Cloud Computing Fund",
+      "name": "WisdomTree Cloud Computing Fund",
       "inferDataFn": "wisdomTree"
     },
     {
+      "ticker": "SPY",
+      "name": "SPDR S&P 500 ETF Trust",
+      "website": "https://www.ssga.com/us/en/individual/etfs/funds/spdr-sp-500-etf-trust-spy",
+      "exchange": "",
+      "issuer": "SSGA",
+      "holdingDataSource": {
+        "fileUrl": "https://www.ssga.com/us/en/individual/etfs/library-content/products/fund-data/etfs/us/holdings-daily-us-en-spy.xlsx",
+        "fileExt": "xlsx",
+        "transform": "ssga"
+      }
+    },
+    {
       "ticker": "",
-      "name":"",
-      "website":"",
+      "name": "",
+      "website": "",
       "exchange": "",
       "issuer": "",
       "holdingDataSource": {

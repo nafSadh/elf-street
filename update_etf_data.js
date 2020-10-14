@@ -1,8 +1,10 @@
 'use strict'
 const http = require('http')
 const https = require('https')
+const request = require('request')
 const fs = require('fs')
 const Papa = require('./node_modules/papaparse')
+const XLSX = require('xlsx')
 const _ = require('lodash')
 
 const etfMetadata = require('./static/etfs.json')
@@ -63,6 +65,18 @@ const transforms = {
       }
     }
     return jsonArray
+  },
+
+  ssga: function (buf) {
+    const workbook = XLSX.read(buf, { type: 'buffer' })
+    const holdings = XLSX.utils.sheet_to_json(workbook.Sheets['holdings'], {
+      range: 4,
+    })
+    for (const obj of holdings) {
+      obj.ticker = obj.Ticker
+      obj.name = obj.Name
+    }
+    return holdings
   },
 
   wisdomTree: function (data) {
@@ -127,6 +141,12 @@ function fromUrl(url, path, processData) {
     })
 }
 
+const fileFromUrl = (url, path, callback) => {
+  request.head(url, (err, res, body) => {
+    request(url).pipe(fs.createWriteStream(path)).on('close', callback)
+  })
+}
+
 function dataToJsonFile(data, etf, jsonpath) {
   etf.holdings = transforms[etf.holdingDataSource.transform](data)
   fs.writeFile(jsonpath, JSON.stringify(etf, null, 2), (e, d) => {
@@ -136,7 +156,7 @@ function dataToJsonFile(data, etf, jsonpath) {
   })
 }
 
-for (let etf of etfMetadata.ETFs) {
+for (const etf of etfMetadata.ETFs) {
   if (!etf.ticker) continue
   if (etf.inferDataFn) {
     const fn = inferDataFn[etf.inferDataFn]
@@ -155,9 +175,13 @@ for (let etf of etfMetadata.ETFs) {
       })
     }
     if (etf.holdingDataSource.file) {
-      // fs.existsSync(etf.holdingDataSource.file)
       const data = fs.readFileSync(etf.holdingDataSource.file, 'utf8')
       dataToJsonFile(data, etf, jsonpath)
+    }
+    if (etf.holdingDataSource.fileUrl) {
+      fileFromUrl(etf.holdingDataSource.fileUrl, filepath, () => {
+        dataToJsonFile(fs.readFileSync(filepath), etf, jsonpath)
+      })
     }
   }
 }

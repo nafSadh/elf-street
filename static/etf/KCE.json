@@ -13,6 +13,7 @@
   "Primary Index Ticker": "SPSICMT",
   "infer": "spdr",
   "issuer": "SSGA",
+  "website": "https://www.ssga.com/us/en/individual/etfs/funds/spdr-sp-capital-markets-etf-kce",
   "holdingDataSource": {
     "fileUrl": "https://www.ssga.com/us/en/individual/etfs/library-content/products/fund-data/etfs/us/holdings-daily-us-en-kce.xlsx",
     "fileExt": "xlsx",
@@ -22,292 +23,287 @@
     {
       "ticker": "EV",
       "name": "Eaton Vance Corp.",
-      "percent": "2.780194"
+      "percent": "2.786430"
     },
     {
       "ticker": "JHG",
       "name": "Janus Henderson Group PLC",
-      "percent": "2.568185"
+      "percent": "2.590501"
     },
     {
       "ticker": "IVZ",
       "name": "Invesco Ltd.",
-      "percent": "2.246082"
+      "percent": "2.280689"
     },
     {
       "ticker": "APAM",
       "name": "Artisan Partners Asset Management Inc. Class A",
-      "percent": "2.149712"
+      "percent": "2.163986"
     },
     {
       "ticker": "EVR",
       "name": "Evercore Inc Class A",
-      "percent": "2.138406"
+      "percent": "2.150814"
     },
     {
       "ticker": "MC",
       "name": "Moelis & Co. Class A",
-      "percent": "2.134249"
+      "percent": "2.118452"
     },
     {
       "ticker": "FOCS",
       "name": "Focus Financial Partners Inc. Class A",
-      "percent": "2.093045"
-    },
-    {
-      "ticker": "MKTX",
-      "name": "MarketAxess Holdings Inc.",
-      "percent": "2.071045"
+      "percent": "2.091699"
     },
     {
       "ticker": "BLK",
       "name": "BlackRock Inc.",
-      "percent": "2.050966"
+      "percent": "2.055738"
     },
     {
-      "ticker": "MORN",
-      "name": "Morningstar Inc.",
-      "percent": "2.038415"
-    },
-    {
-      "ticker": "FHI",
-      "name": "Federated Hermes Inc. Class B",
-      "percent": "2.027601"
-    },
-    {
-      "ticker": "AMG",
-      "name": "Affiliated Managers Group Inc.",
-      "percent": "2.006928"
-    },
-    {
-      "ticker": "BSIG",
-      "name": "BrightSphere Investment Group Inc.",
-      "percent": "2.002697"
-    },
-    {
-      "ticker": "BGCP",
-      "name": "BGC Partners Inc. Class A",
-      "percent": "1.994370"
-    },
-    {
-      "ticker": "TROW",
-      "name": "T. Rowe Price Group",
-      "percent": "1.992740"
-    },
-    {
-      "ticker": "BEN",
-      "name": "Franklin Resources Inc.",
-      "percent": "1.989421"
-    },
-    {
-      "ticker": "TW",
-      "name": "Tradeweb Markets Inc. Class A",
-      "percent": "1.964470"
-    },
-    {
-      "ticker": "HLNE",
-      "name": "Hamilton Lane Incorporated Class A",
-      "percent": "1.962752"
-    },
-    {
-      "ticker": "LAZ",
-      "name": "Lazard Ltd Class A",
-      "percent": "1.946542"
-    },
-    {
-      "ticker": "SEIC",
-      "name": "SEI Investments Company",
-      "percent": "1.946352"
-    },
-    {
-      "ticker": "HLI",
-      "name": "Houlihan Lokey Inc. Class A",
-      "percent": "1.938549"
+      "ticker": "MKTX",
+      "name": "MarketAxess Holdings Inc.",
+      "percent": "2.055091"
     },
     {
       "ticker": "WDR",
       "name": "Waddell & Reed Financial Inc. Class A",
-      "percent": "1.928271"
+      "percent": "2.054889"
+    },
+    {
+      "ticker": "AMG",
+      "name": "Affiliated Managers Group Inc.",
+      "percent": "2.048024"
+    },
+    {
+      "ticker": "BSIG",
+      "name": "BrightSphere Investment Group Inc.",
+      "percent": "2.030314"
+    },
+    {
+      "ticker": "FHI",
+      "name": "Federated Hermes Inc. Class B",
+      "percent": "2.019434"
+    },
+    {
+      "ticker": "MORN",
+      "name": "Morningstar Inc.",
+      "percent": "2.018409"
+    },
+    {
+      "ticker": "BEN",
+      "name": "Franklin Resources Inc.",
+      "percent": "2.012772"
+    },
+    {
+      "ticker": "TROW",
+      "name": "T. Rowe Price Group",
+      "percent": "2.001101"
+    },
+    {
+      "ticker": "LAZ",
+      "name": "Lazard Ltd Class A",
+      "percent": "1.956866"
+    },
+    {
+      "ticker": "HLNE",
+      "name": "Hamilton Lane Incorporated Class A",
+      "percent": "1.949493"
+    },
+    {
+      "ticker": "BGCP",
+      "name": "BGC Partners Inc. Class A",
+      "percent": "1.937518"
+    },
+    {
+      "ticker": "SEIC",
+      "name": "SEI Investments Company",
+      "percent": "1.933403"
+    },
+    {
+      "ticker": "HLI",
+      "name": "Houlihan Lokey Inc. Class A",
+      "percent": "1.930064"
     },
     {
       "ticker": "ARES",
       "name": "Ares Management Corporation",
-      "percent": "1.924469"
+      "percent": "1.915781"
     },
     {
       "ticker": "AMP",
       "name": "Ameriprise Financial Inc.",
-      "percent": "1.904816"
+      "percent": "1.910480"
+    },
+    {
+      "ticker": "TW",
+      "name": "Tradeweb Markets Inc. Class A",
+      "percent": "1.897958"
     },
     {
       "ticker": "SF",
       "name": "Stifel Financial Corp.",
-      "percent": "1.873018"
+      "percent": "1.884692"
     },
     {
       "ticker": "BX",
       "name": "Blackstone Group Inc. Class A",
-      "percent": "1.869024"
-    },
-    {
-      "ticker": "IBKR",
-      "name": "Interactive Brokers Group Inc. Class A",
-      "percent": "1.862926"
-    },
-    {
-      "ticker": "SCHW",
-      "name": "Charles Schwab Corporation",
-      "percent": "1.854600"
+      "percent": "1.861981"
     },
     {
       "ticker": "CG",
       "name": "Carlyle Group Inc",
-      "percent": "1.848197"
+      "percent": "1.855450"
     },
     {
       "ticker": "MSCI",
       "name": "MSCI Inc. Class A",
-      "percent": "1.844436"
+      "percent": "1.841386"
     },
     {
       "ticker": "RJF",
       "name": "Raymond James Financial Inc.",
-      "percent": "1.834903"
+      "percent": "1.840632"
     },
     {
       "ticker": "NTRS",
       "name": "Northern Trust Corporation",
-      "percent": "1.826445"
+      "percent": "1.838168"
+    },
+    {
+      "ticker": "SCHW",
+      "name": "Charles Schwab Corporation",
+      "percent": "1.832145"
     },
     {
       "ticker": "GS",
       "name": "Goldman Sachs Group Inc.",
-      "percent": "1.823032"
+      "percent": "1.828369"
     },
     {
       "ticker": "KKR",
       "name": "KKR & Co. Inc.",
-      "percent": "1.820482"
+      "percent": "1.827702"
+    },
+    {
+      "ticker": "IBKR",
+      "name": "Interactive Brokers Group Inc. Class A",
+      "percent": "1.820958"
     },
     {
       "ticker": "ICE",
       "name": "Intercontinental Exchange Inc.",
-      "percent": "1.815764"
+      "percent": "1.811438"
     },
     {
       "ticker": "LPLA",
       "name": "LPL Financial Holdings Inc.",
-      "percent": "1.802392"
-    },
-    {
-      "ticker": "MCO",
-      "name": "Moody's Corporation",
-      "percent": "1.789521"
-    },
-    {
-      "ticker": "CME",
-      "name": "CME Group Inc. Class A",
-      "percent": "1.783491"
+      "percent": "1.787914"
     },
     {
       "ticker": "FDS",
       "name": "FactSet Research Systems Inc.",
-      "percent": "1.782537"
+      "percent": "1.782552"
     },
     {
-      "ticker": "BK",
-      "name": "Bank of New York Mellon Corporation",
-      "percent": "1.780200"
+      "ticker": "CME",
+      "name": "CME Group Inc. Class A",
+      "percent": "1.776629"
+    },
+    {
+      "ticker": "MCO",
+      "name": "Moody's Corporation",
+      "percent": "1.771044"
     },
     {
       "ticker": "STT",
       "name": "State Street Corporation",
-      "percent": "1.769427"
+      "percent": "1.769469"
     },
     {
-      "ticker": "SPGI",
-      "name": "S&P Global Inc.",
-      "percent": "1.763526"
+      "ticker": "BK",
+      "name": "Bank of New York Mellon Corporation",
+      "percent": "1.767849"
     },
     {
       "ticker": "NDAQ",
       "name": "Nasdaq Inc.",
-      "percent": "1.747141"
+      "percent": "1.766344"
+    },
+    {
+      "ticker": "SPGI",
+      "name": "S&P Global Inc.",
+      "percent": "1.752755"
     },
     {
       "ticker": "MS",
       "name": "Morgan Stanley",
-      "percent": "1.742103"
+      "percent": "1.750987"
     },
     {
       "ticker": "CNS",
       "name": "Cohen & Steers Inc.",
-      "percent": "1.728994"
+      "percent": "1.726259"
     },
     {
       "ticker": "APO",
       "name": "Apollo Global Management Inc. Class A",
-      "percent": "1.675547"
-    },
-    {
-      "ticker": "PJT",
-      "name": "PJT Partners Inc. Class A",
-      "percent": "1.654761"
+      "percent": "1.671278"
     },
     {
       "ticker": "CBOE",
       "name": "Cboe Global Markets Inc",
-      "percent": "1.646862"
+      "percent": "1.655641"
+    },
+    {
+      "ticker": "PJT",
+      "name": "PJT Partners Inc. Class A",
+      "percent": "1.631722"
     },
     {
       "ticker": "VIRT",
       "name": "Virtu Financial Inc. Class A",
-      "percent": "1.459600"
+      "percent": "1.461600"
     },
     {
       "ticker": "PIPR",
       "name": "Piper Sandler Companies",
-      "percent": "1.221621"
+      "percent": "1.213123"
     },
     {
       "ticker": "VRTS",
       "name": "Virtus Investment Partners Inc.",
-      "percent": "1.123740"
+      "percent": "1.144237"
     },
     {
       "ticker": "COWN",
       "name": "Cowen Inc Class A",
-      "percent": "0.967142"
+      "percent": "0.971735"
     },
     {
       "ticker": "BCOR",
       "name": "Blucora Inc.",
-      "percent": "0.900073"
+      "percent": "0.894837"
     },
     {
       "ticker": "WETF",
       "name": "WisdomTree Investments Inc.",
-      "percent": "0.620921"
+      "percent": "0.596452"
     },
     {
       "ticker": "SNEX",
       "name": "StoneX Group Inc.",
-      "percent": "0.602308"
+      "percent": "0.592356"
     },
     {
       "ticker": "DHIL",
       "name": "Diamond Hill Investment Group Inc.",
-      "percent": "0.311620"
+      "percent": "0.308976"
     },
     {
       "ticker": "70286227",
       "name": "STATE STREET INSTITUTIONAL LIQ STATE STR",
-      "percent": "0.053429"
-    },
-    {
-      "ticker": "CASH_USD",
-      "name": "U.S. Dollar",
-      "percent": "-0.000051"
+      "percent": "0.053428"
     },
     {
       "name": "Performance quoted represents past performance, which is no guarantee of future results. Investment return and principal value will fluctuate, so you may have a gain or loss when shares are sold. Current performance may be higher or lower than that quoted. Visit www.ssga.com for most recent month-end performance."

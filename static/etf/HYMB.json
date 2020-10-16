@@ -13,6 +13,7 @@
   "Primary Index Ticker": "SPMUHT",
   "infer": "spdr",
   "issuer": "SSGA",
+  "website": "https://www.ssga.com/us/en/individual/etfs/funds/spdr-nuveen-bloomberg-barclays-high-yield-municipal-bond-etf-hymb",
   "holdingDataSource": {
     "fileUrl": "https://www.ssga.com/us/en/individual/etfs/library-content/products/fund-data/etfs/us/holdings-daily-us-en-hymb.xlsx",
     "fileExt": "xlsx",
@@ -33,7 +34,7 @@
     },
     {
       "name": "PRCGEN 4.329 07/01/40",
-      "percent": "1.560000"
+      "percent": "1.570000"
     },
     {
       "name": "PRCGEN 4.750 07/01/53",
@@ -48,12 +49,12 @@
       "percent": "0.630000"
     },
     {
-      "name": "PRCGEN 4.329 07/01/40",
+      "name": "GLDGEN 0.000 06/01/47",
       "percent": "0.580000"
     },
     {
-      "name": "GLDGEN 0.000 06/01/47",
-      "percent": "0.570000"
+      "name": "PRCGEN 4.329 07/01/40",
+      "percent": "0.580000"
     },
     {
       "name": "PRCGEN 4.784 07/01/58",
@@ -220,10 +221,6 @@
       "percent": "0.260000"
     },
     {
-      "name": "MISGEN 6.000 06/01/48",
-      "percent": "0.260000"
-    },
-    {
       "name": "OHSDEV 3.250 09/01/29",
       "percent": "0.260000"
     },
@@ -238,6 +235,10 @@
     {
       "name": "TSA 5.000 06/01/48",
       "percent": "0.260000"
+    },
+    {
+      "name": "MISGEN 6.000 06/01/48",
+      "percent": "0.250000"
     },
     {
       "name": "NYCDEV 2.450 09/15/69",
@@ -300,14 +301,6 @@
       "percent": "0.220000"
     },
     {
-      "name": "MPNFAC 4.250 06/15/42",
-      "percent": "0.220000"
-    },
-    {
-      "name": "NYTTRN 5.000 08/01/26",
-      "percent": "0.220000"
-    },
-    {
       "name": "OKSMED 5.250 08/15/48",
       "percent": "0.220000"
     },
@@ -325,6 +318,14 @@
     },
     {
       "name": "CASGEN 5.250 12/01/56",
+      "percent": "0.210000"
+    },
+    {
+      "name": "MPNFAC 4.250 06/15/42",
+      "percent": "0.210000"
+    },
+    {
+      "name": "NYTTRN 5.000 08/01/26",
       "percent": "0.210000"
     },
     {
@@ -536,6 +537,10 @@
       "percent": "0.140000"
     },
     {
+      "name": "MASDEV 5.000 11/15/38",
+      "percent": "0.140000"
+    },
+    {
       "name": "MISFIN 0.000 06/01/65",
       "percent": "0.140000"
     },
@@ -604,10 +609,6 @@
       "percent": "0.130000"
     },
     {
-      "name": "MASDEV 5.000 11/15/38",
-      "percent": "0.130000"
-    },
-    {
       "name": "MDTDEV 5.000 05/01/37",
       "percent": "0.130000"
     },
@@ -641,10 +642,6 @@
     },
     {
       "name": "ALTDEV 5.000 05/01/42",
-      "percent": "0.120000"
-    },
-    {
-      "name": "ATLMED 6.750 01/01/35",
       "percent": "0.120000"
     },
     {
@@ -845,6 +842,10 @@
     },
     {
       "name": "AMSDEV 6.625 09/01/35",
+      "percent": "0.100000"
+    },
+    {
+      "name": "ATLMED 6.750 01/01/35",
       "percent": "0.100000"
     },
     {
@@ -1053,10 +1054,6 @@
     },
     {
       "name": "CHIEDU 5.000 12/01/33",
-      "percent": "0.090000"
-    },
-    {
-      "name": "COOGEN 6.750 10/15/40",
       "percent": "0.090000"
     },
     {
@@ -1496,10 +1493,6 @@
       "percent": "0.080000"
     },
     {
-      "name": "STLGEN 4.750 11/15/47",
-      "percent": "0.080000"
-    },
-    {
       "name": "TERDEV 7.250 12/01/28",
       "percent": "0.080000"
     },
@@ -1761,6 +1754,10 @@
     },
     {
       "name": "SPCTRN 5.000 01/01/42",
+      "percent": "0.070000"
+    },
+    {
+      "name": "STLGEN 4.750 11/15/47",
       "percent": "0.070000"
     },
     {
@@ -2468,6 +2465,10 @@
       "percent": "0.050000"
     },
     {
+      "name": "NCSMED 5.000 07/01/44",
+      "percent": "0.050000"
+    },
+    {
       "name": "NHPFAC 5.000 01/01/47",
       "percent": "0.050000"
     },
@@ -3036,10 +3037,6 @@
       "percent": "0.040000"
     },
     {
-      "name": "NCSMED 5.000 07/01/44",
-      "percent": "0.040000"
-    },
-    {
       "name": "NCSMED 5.000 07/01/45",
       "percent": "0.040000"
     },
@@ -3073,10 +3070,6 @@
     },
     {
       "name": "NJSTRN 5.000 06/15/38",
-      "percent": "0.040000"
-    },
-    {
-      "name": "NJSTRN 5.000 12/15/29",
       "percent": "0.040000"
     },
     {
@@ -3185,10 +3178,6 @@
     },
     {
       "name": "PUBGEN 5.000 09/01/30",
-      "percent": "0.040000"
-    },
-    {
-      "name": "PUBGEN 6.250 01/01/38",
       "percent": "0.040000"
     },
     {
@@ -3345,10 +3334,6 @@
     },
     {
       "name": "CHI 5.000 01/01/35",
-      "percent": "0.030000"
-    },
-    {
-      "name": "CHI 5.250 01/01/27",
       "percent": "0.030000"
     },
     {
@@ -3676,6 +3661,10 @@
       "percent": "0.030000"
     },
     {
+      "name": "NJSTRN 5.000 12/15/29",
+      "percent": "0.030000"
+    },
+    {
       "name": "NJSTRN 5.250 06/15/30",
       "percent": "0.030000"
     },
@@ -3693,6 +3682,10 @@
     },
     {
       "name": "NYSHGR 5.250 07/01/31",
+      "percent": "0.030000"
+    },
+    {
+      "name": "NYSHGR 5.500 07/01/35",
       "percent": "0.030000"
     },
     {
@@ -3769,6 +3762,10 @@
     },
     {
       "name": "PUBGEN 5.125 06/01/48",
+      "percent": "0.030000"
+    },
+    {
+      "name": "PUBGEN 6.250 01/01/38",
       "percent": "0.030000"
     },
     {
@@ -3924,6 +3921,10 @@
       "percent": "0.030000"
     },
     {
+      "name": "-",
+      "percent": "0.020000"
+    },
+    {
       "name": "ALATRN 3.000 10/01/34",
       "percent": "0.020000"
     },
@@ -4057,6 +4058,10 @@
     },
     {
       "name": "CHI 5.000 01/01/34",
+      "percent": "0.020000"
+    },
+    {
+      "name": "CHI 5.250 01/01/27",
       "percent": "0.020000"
     },
     {
@@ -4336,10 +4341,6 @@
       "percent": "0.020000"
     },
     {
-      "name": "ILSGEN 6.750 10/15/40",
-      "percent": "0.020000"
-    },
-    {
       "name": "INFMED 3.000 02/01/30",
       "percent": "0.020000"
     },
@@ -4576,6 +4577,10 @@
       "percent": "0.020000"
     },
     {
+      "name": "NJSTRN 0.000 12/15/33",
+      "percent": "0.020000"
+    },
+    {
       "name": "NJSTRN 4.000 06/15/36",
       "percent": "0.020000"
     },
@@ -4645,10 +4650,6 @@
     },
     {
       "name": "NYSHGR 4.250 05/01/42",
-      "percent": "0.020000"
-    },
-    {
-      "name": "NYSHGR 5.500 07/01/35",
       "percent": "0.020000"
     },
     {
@@ -5696,10 +5697,6 @@
       "percent": "0.010000"
     },
     {
-      "name": "NJSTRN 0.000 12/15/33",
-      "percent": "0.010000"
-    },
-    {
       "name": "NJSTRN 5.000 06/15/24",
       "percent": "0.010000"
     },
@@ -6086,10 +6083,6 @@
     {
       "name": "WVSTRN 5.000 09/01/29",
       "percent": "0.010000"
-    },
-    {
-      "name": "-",
-      "percent": "-0.100000"
     },
     {
       "name": "Performance quoted represents past performance, which is no guarantee of future results. Investment return and principal value will fluctuate, so you may have a gain or loss when shares are sold. Current performance may be higher or lower than that quoted. Visit www.ssga.com for most recent month-end performance."

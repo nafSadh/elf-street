@@ -23,7 +23,7 @@
     {
       "ticker": "C K",
       "name": "Citigroup Inc",
-      "percent": "1.61"
+      "percent": "1.62"
     },
     {
       "ticker": "WFC Z",
@@ -86,6 +86,11 @@
       "percent": "0.96"
     },
     {
+      "ticker": "AGPXX",
+      "name": "STIT - Government & Agency Portfolio",
+      "percent": "0.90"
+    },
+    {
       "ticker": "JPM H",
       "name": "JPMorgan Chase & Co",
       "percent": "0.89"
@@ -96,11 +101,6 @@
       "percent": "0.88"
     },
     {
-      "ticker": "AGPXX",
-      "name": "STIT - Government & Agency Portfolio",
-      "percent": "0.88"
-    },
-    {
       "ticker": "WFC X",
       "name": "Wells Fargo & Co",
       "percent": "0.87"
@@ -108,7 +108,7 @@
     {
       "ticker": "ALL H",
       "name": "Allstate Corp/The",
-      "percent": "0.85"
+      "percent": "0.84"
     },
     {
       "ticker": "MS I",
@@ -138,7 +138,7 @@
     {
       "ticker": "WFC W",
       "name": "Wells Fargo & Co",
-      "percent": "0.77"
+      "percent": "0.78"
     },
     {
       "ticker": "GS J",
@@ -173,7 +173,7 @@
     {
       "ticker": "CTBB",
       "name": "Qwest Corp",
-      "percent": "0.70"
+      "percent": "0.71"
     },
     {
       "ticker": "MET F",
@@ -196,24 +196,24 @@
       "percent": "0.67"
     },
     {
-      "ticker": "ATH-PA",
-      "name": "Athene Holding Ltd",
-      "percent": "0.66"
-    },
-    {
       "ticker": "JPM J",
       "name": "JPMorgan Chase & Co",
       "percent": "0.66"
     },
     {
-      "ticker": "MS E",
-      "name": "Morgan Stanley",
+      "ticker": "ATH-PA",
+      "name": "Athene Holding Ltd",
       "percent": "0.66"
     },
     {
       "ticker": "AEFC",
       "name": "AEGON Funding Co LLC",
       "percent": "0.66"
+    },
+    {
+      "ticker": "MS E",
+      "name": "Morgan Stanley",
+      "percent": "0.65"
     },
     {
       "ticker": "SOJA",
@@ -223,12 +223,12 @@
     {
       "ticker": "TFC R",
       "name": "Truist Financial Corp",
-      "percent": "0.64"
+      "percent": "0.65"
     },
     {
       "ticker": "WFC Y",
       "name": "Wells Fargo & Co",
-      "percent": "0.63"
+      "percent": "0.64"
     },
     {
       "ticker": "TBC",
@@ -256,13 +256,13 @@
       "percent": "0.58"
     },
     {
-      "ticker": "SOJB",
-      "name": "Southern Co/The",
+      "ticker": "EQH A",
+      "name": "Equitable Holdings Inc",
       "percent": "0.57"
     },
     {
-      "ticker": "EQH A",
-      "name": "Equitable Holdings Inc",
+      "ticker": "SOJB",
+      "name": "Southern Co/The",
       "percent": "0.57"
     },
     {
@@ -278,7 +278,7 @@
     {
       "ticker": "EBAYL",
       "name": "eBay Inc",
-      "percent": "0.55"
+      "percent": "0.54"
     },
     {
       "ticker": "NEE N",
@@ -328,16 +328,16 @@
     {
       "ticker": "ALL G",
       "name": "Allstate Corp/The",
-      "percent": "0.48"
-    },
-    {
-      "ticker": "PSA E",
-      "name": "Public Storage",
       "percent": "0.47"
     },
     {
       "ticker": "ETP E",
       "name": "Energy Transfer Operating LP",
+      "percent": "0.47"
+    },
+    {
+      "ticker": "PSA E",
+      "name": "Public Storage",
       "percent": "0.47"
     },
     {
@@ -351,13 +351,13 @@
       "percent": "0.44"
     },
     {
-      "ticker": "WFC N",
-      "name": "Wells Fargo & Co",
-      "percent": "0.44"
-    },
-    {
       "ticker": "CTDD",
       "name": "Qwest Corp",
+      "percent": "0.43"
+    },
+    {
+      "ticker": "WFC N",
+      "name": "Wells Fargo & Co",
       "percent": "0.43"
     },
     {
@@ -366,13 +366,13 @@
       "percent": "0.43"
     },
     {
-      "ticker": "PUK A",
-      "name": "Prudential PLC",
+      "ticker": "HBANO",
+      "name": "Huntington Bancshares Inc/OH",
       "percent": "0.42"
     },
     {
-      "ticker": "HBANO",
-      "name": "Huntington Bancshares Inc/OH",
+      "ticker": "PUK A",
+      "name": "Prudential PLC",
       "percent": "0.42"
     },
     {
@@ -383,7 +383,7 @@
     {
       "ticker": "ENBA",
       "name": "Enbridge Inc",
-      "percent": "0.41"
+      "percent": "0.42"
     },
     {
       "ticker": "AXS E",
@@ -401,13 +401,23 @@
       "percent": "0.41"
     },
     {
-      "ticker": "RF B",
-      "name": "Regions Financial Corp",
+      "ticker": "SCHW C",
+      "name": "Charles Schwab Corp/The",
       "percent": "0.41"
     },
     {
-      "ticker": "SCHW C",
-      "name": "Charles Schwab Corp/The",
+      "ticker": "QRTEP",
+      "name": "Qurate Retail Inc",
+      "percent": "0.40"
+    },
+    {
+      "ticker": "FITBI",
+      "name": "Fifth Third Bancorp",
+      "percent": "0.40"
+    },
+    {
+      "ticker": "RF B",
+      "name": "Regions Financial Corp",
       "percent": "0.40"
     },
     {
@@ -421,23 +431,13 @@
       "percent": "0.40"
     },
     {
-      "ticker": "FITBI",
-      "name": "Fifth Third Bancorp",
-      "percent": "0.40"
+      "ticker": "STT G",
+      "name": "State Street Corp",
+      "percent": "0.39"
     },
     {
       "ticker": "TDI",
       "name": "Telephone and Data Systems Inc",
-      "percent": "0.39"
-    },
-    {
-      "ticker": "DUKH",
-      "name": "Duke Energy Corp",
-      "percent": "0.39"
-    },
-    {
-      "ticker": "STT G",
-      "name": "State Street Corp",
       "percent": "0.39"
     },
     {
@@ -446,14 +446,19 @@
       "percent": "0.39"
     },
     {
+      "ticker": "DUKH",
+      "name": "Duke Energy Corp",
+      "percent": "0.39"
+    },
+    {
       "ticker": "SCE L",
       "name": "SCE Trust VI",
       "percent": "0.39"
     },
     {
-      "ticker": "QRTEP",
-      "name": "Qurate Retail Inc",
-      "percent": "0.39"
+      "ticker": "SOJE",
+      "name": "Southern Co/The",
+      "percent": "0.38"
     },
     {
       "ticker": "NYCB A",
@@ -466,14 +471,14 @@
       "percent": "0.38"
     },
     {
-      "ticker": "COF H",
-      "name": "Capital One Financial Corp",
-      "percent": "0.37"
-    },
-    {
       "ticker": "PSA D",
       "name": "Public Storage",
-      "percent": "0.37"
+      "percent": "0.38"
+    },
+    {
+      "ticker": "COF H",
+      "name": "Capital One Financial Corp",
+      "percent": "0.38"
     },
     {
       "ticker": "RF C",
@@ -501,18 +506,23 @@
       "percent": "0.36"
     },
     {
-      "ticker": "RF A",
-      "name": "Regions Financial Corp",
-      "percent": "0.36"
-    },
-    {
       "ticker": "MS L",
       "name": "Morgan Stanley",
       "percent": "0.36"
     },
     {
+      "ticker": "RF A",
+      "name": "Regions Financial Corp",
+      "percent": "0.36"
+    },
+    {
       "ticker": "COF F",
       "name": "Capital One Financial Corp",
+      "percent": "0.36"
+    },
+    {
+      "ticker": "NEE J",
+      "name": "NextEra Energy Capital Holdings Inc",
       "percent": "0.35"
     },
     {
@@ -521,19 +531,9 @@
       "percent": "0.35"
     },
     {
-      "ticker": "NEE J",
-      "name": "NextEra Energy Capital Holdings Inc",
-      "percent": "0.35"
-    },
-    {
       "ticker": "UZD",
       "name": "United States Cellular Corp",
       "percent": "0.35"
-    },
-    {
-      "ticker": "SOJE",
-      "name": "Southern Co/The",
-      "percent": "0.34"
     },
     {
       "ticker": "WCC A",
@@ -561,28 +561,18 @@
       "percent": "0.33"
     },
     {
-      "ticker": "SOJC",
-      "name": "Southern Co/The",
-      "percent": "0.33"
-    },
-    {
       "ticker": "NEE I",
       "name": "NextEra Energy Capital Holdings Inc",
       "percent": "0.33"
     },
     {
-      "ticker": "QVCC",
-      "name": "QVC Inc",
+      "ticker": "SOJC",
+      "name": "Southern Co/The",
       "percent": "0.33"
     },
     {
-      "ticker": "ESGRP",
-      "name": "Enstar Group Ltd",
-      "percent": "0.32"
-    },
-    {
-      "ticker": "BHFAP",
-      "name": "Brighthouse Financial Inc",
+      "ticker": "QVCC",
+      "name": "QVC Inc",
       "percent": "0.32"
     },
     {
@@ -606,8 +596,18 @@
       "percent": "0.32"
     },
     {
-      "ticker": "BHFAL",
+      "ticker": "ESGRP",
+      "name": "Enstar Group Ltd",
+      "percent": "0.32"
+    },
+    {
+      "ticker": "BHFAP",
       "name": "Brighthouse Financial Inc",
+      "percent": "0.31"
+    },
+    {
+      "ticker": "RZB",
+      "name": "Reinsurance Group of America Inc",
       "percent": "0.31"
     },
     {
@@ -616,8 +616,8 @@
       "percent": "0.31"
     },
     {
-      "ticker": "RZB",
-      "name": "Reinsurance Group of America Inc",
+      "ticker": "BHFAL",
+      "name": "Brighthouse Financial Inc",
       "percent": "0.31"
     },
     {
@@ -696,11 +696,6 @@
       "percent": "0.26"
     },
     {
-      "ticker": "VNO K",
-      "name": "Vornado Realty Trust",
-      "percent": "0.26"
-    },
-    {
       "ticker": "DLR L",
       "name": "Digital Realty Trust Inc",
       "percent": "0.26"
@@ -708,7 +703,12 @@
     {
       "ticker": "HIG G",
       "name": "Hartford Financial Services Group Inc/The",
-      "percent": "0.25"
+      "percent": "0.26"
+    },
+    {
+      "ticker": "VNO K",
+      "name": "Vornado Realty Trust",
+      "percent": "0.26"
     },
     {
       "ticker": "SIVBP",
@@ -726,11 +726,6 @@
       "percent": "0.25"
     },
     {
-      "ticker": "PBI B",
-      "name": "Pitney Bowes Inc",
-      "percent": "0.25"
-    },
-    {
       "ticker": "GL C",
       "name": "Globe Life Inc",
       "percent": "0.25"
@@ -741,13 +736,18 @@
       "percent": "0.25"
     },
     {
-      "ticker": "VNO M",
-      "name": "Vornado Realty Trust",
+      "ticker": "PBI B",
+      "name": "Pitney Bowes Inc",
       "percent": "0.25"
     },
     {
       "ticker": "UZA",
       "name": "United States Cellular Corp",
+      "percent": "0.25"
+    },
+    {
+      "ticker": "VNO M",
+      "name": "Vornado Realty Trust",
       "percent": "0.25"
     },
     {
@@ -776,8 +776,8 @@
       "percent": "0.24"
     },
     {
-      "ticker": "UNMA",
-      "name": "Unum Group",
+      "ticker": "APO B",
+      "name": "Apollo Global Management Inc",
       "percent": "0.23"
     },
     {
@@ -786,8 +786,8 @@
       "percent": "0.23"
     },
     {
-      "ticker": "APO B",
-      "name": "Apollo Global Management Inc",
+      "ticker": "UNMA",
+      "name": "Unum Group",
       "percent": "0.23"
     },
     {
@@ -816,11 +816,6 @@
       "percent": "0.23"
     },
     {
-      "ticker": "VOYA B",
-      "name": "Voya Financial Inc",
-      "percent": "0.23"
-    },
-    {
       "ticker": "OPINI",
       "name": "Office Properties Income Trust",
       "percent": "0.22"
@@ -831,13 +826,18 @@
       "percent": "0.22"
     },
     {
+      "ticker": "SCE-PK",
+      "name": "SCE Trust V",
+      "percent": "0.22"
+    },
+    {
       "ticker": "ALL I",
       "name": "Allstate Corp/The",
       "percent": "0.22"
     },
     {
-      "ticker": "SCE-PK",
-      "name": "SCE Trust V",
+      "ticker": "VOYA B",
+      "name": "Voya Financial Inc",
       "percent": "0.22"
     },
     {
@@ -856,8 +856,8 @@
       "percent": "0.22"
     },
     {
-      "ticker": "JSM",
-      "name": "Navient Corp",
+      "ticker": "BAMACN",
+      "name": "Brookfield Finance Inc",
       "percent": "0.22"
     },
     {
@@ -866,23 +866,28 @@
       "percent": "0.21"
     },
     {
-      "ticker": "DTJ",
-      "name": "DTE Energy Co",
-      "percent": "0.21"
-    },
-    {
       "ticker": "EZT",
       "name": "Entergy Texas Inc",
       "percent": "0.21"
     },
     {
-      "ticker": "GPJA",
-      "name": "Georgia Power Co",
+      "ticker": "JSM",
+      "name": "Navient Corp",
+      "percent": "0.21"
+    },
+    {
+      "ticker": "DTJ",
+      "name": "DTE Energy Co",
       "percent": "0.21"
     },
     {
       "ticker": "PSA H",
       "name": "Public Storage",
+      "percent": "0.21"
+    },
+    {
+      "ticker": "GPJA",
+      "name": "Georgia Power Co",
       "percent": "0.21"
     },
     {
@@ -893,11 +898,6 @@
     {
       "ticker": "ELC",
       "name": "Entergy Louisiana LLC",
-      "percent": "0.21"
-    },
-    {
-      "ticker": "BAMACN",
-      "name": "Brookfield Finance Inc",
       "percent": "0.21"
     },
     {
@@ -916,11 +916,6 @@
       "percent": "0.21"
     },
     {
-      "ticker": "AMH F",
-      "name": "American Homes 4 Rent",
-      "percent": "0.21"
-    },
-    {
       "ticker": "APO A",
       "name": "Apollo Global Management Inc",
       "percent": "0.21"
@@ -929,6 +924,11 @@
       "ticker": "ENO",
       "name": "Entergy New Orleans LLC",
       "percent": "0.21"
+    },
+    {
+      "ticker": "AMH F",
+      "name": "American Homes 4 Rent",
+      "percent": "0.20"
     },
     {
       "ticker": "C J",
@@ -946,14 +946,9 @@
       "percent": "0.20"
     },
     {
-      "ticker": "DHCNI",
-      "name": "Diversified Healthcare Trust",
-      "percent": "0.20"
-    },
-    {
       "ticker": "SR A",
       "name": "Spire Inc",
-      "percent": "0.20"
+      "percent": "0.19"
     },
     {
       "ticker": "TCBIP",
@@ -961,18 +956,13 @@
       "percent": "0.19"
     },
     {
+      "ticker": "DHCNI",
+      "name": "Diversified Healthcare Trust",
+      "percent": "0.19"
+    },
+    {
       "ticker": "TDA",
       "name": "Telephone and Data Systems Inc",
-      "percent": "0.19"
-    },
-    {
-      "ticker": "OAK B",
-      "name": "Oaktree Capital Group LLC",
-      "percent": "0.19"
-    },
-    {
-      "ticker": "SFB",
-      "name": "Stifel Financial Corp",
       "percent": "0.19"
     },
     {
@@ -986,6 +976,16 @@
       "percent": "0.19"
     },
     {
+      "ticker": "OAK B",
+      "name": "Oaktree Capital Group LLC",
+      "percent": "0.19"
+    },
+    {
+      "ticker": "SFB",
+      "name": "Stifel Financial Corp",
+      "percent": "0.19"
+    },
+    {
       "ticker": "AHL C",
       "name": "Aspen Insurance Holdings Ltd",
       "percent": "0.19"
@@ -993,11 +993,6 @@
     {
       "ticker": "AHL D",
       "name": "Aspen Insurance Holdings Ltd",
-      "percent": "0.19"
-    },
-    {
-      "ticker": "BPYPO",
-      "name": "Brookfield Property Partners LP",
       "percent": "0.19"
     },
     {
@@ -1013,16 +1008,21 @@
     {
       "ticker": "FITBO",
       "name": "Fifth Third Bancorp",
-      "percent": "0.19"
+      "percent": "0.18"
     },
     {
-      "ticker": "PSA L",
-      "name": "Public Storage",
+      "ticker": "BPYPO",
+      "name": "Brookfield Property Partners LP",
       "percent": "0.18"
     },
     {
       "ticker": "AHL E",
       "name": "Aspen Insurance Holdings Ltd",
+      "percent": "0.18"
+    },
+    {
+      "ticker": "PSA L",
+      "name": "Public Storage",
       "percent": "0.18"
     },
     {
@@ -1041,13 +1041,13 @@
       "percent": "0.17"
     },
     {
-      "ticker": "BC C",
-      "name": "Brunswick Corp/DE",
+      "ticker": "UZB",
+      "name": "United States Cellular Corp",
       "percent": "0.17"
     },
     {
-      "ticker": "UZB",
-      "name": "United States Cellular Corp",
+      "ticker": "BC C",
+      "name": "Brunswick Corp/DE",
       "percent": "0.17"
     },
     {
@@ -1058,7 +1058,7 @@
     {
       "ticker": "TFC O",
       "name": "Truist Financial Corp",
-      "percent": "0.16"
+      "percent": "0.17"
     },
     {
       "ticker": "PSA N",
@@ -1066,13 +1066,13 @@
       "percent": "0.16"
     },
     {
-      "ticker": "KIM L",
-      "name": "Kimco Realty Corp",
+      "ticker": "LMICL",
+      "name": "Legg Mason Inc",
       "percent": "0.16"
     },
     {
-      "ticker": "LMICL",
-      "name": "Legg Mason Inc",
+      "ticker": "KIM L",
+      "name": "Kimco Realty Corp",
       "percent": "0.16"
     },
     {
@@ -1096,6 +1096,11 @@
       "percent": "0.16"
     },
     {
+      "ticker": "SNV D",
+      "name": "Synovus Financial Corp",
+      "percent": "0.16"
+    },
+    {
       "ticker": "DLR K",
       "name": "Digital Realty Trust Inc",
       "percent": "0.16"
@@ -1103,21 +1108,16 @@
     {
       "ticker": "OAK A",
       "name": "Oaktree Capital Group LLC",
-      "percent": "0.16"
-    },
-    {
-      "ticker": "SNV D",
-      "name": "Synovus Financial Corp",
-      "percent": "0.16"
-    },
-    {
-      "ticker": "QVCD",
-      "name": "QVC Inc",
       "percent": "0.15"
     },
     {
       "ticker": "IPLDP",
       "name": "Interstate Power and Light Co",
+      "percent": "0.15"
+    },
+    {
+      "ticker": "QVCD",
+      "name": "QVC Inc",
       "percent": "0.15"
     },
     {
@@ -1136,13 +1136,13 @@
       "percent": "0.15"
     },
     {
-      "ticker": "PSB Y",
-      "name": "PS Business Parks Inc",
+      "ticker": "TCFCP",
+      "name": "TCF Financial Corp",
       "percent": "0.15"
     },
     {
-      "ticker": "TCFCP",
-      "name": "TCF Financial Corp",
+      "ticker": "PSB Y",
+      "name": "PS Business Parks Inc",
       "percent": "0.15"
     },
     {
@@ -1176,13 +1176,13 @@
       "percent": "0.14"
     },
     {
-      "ticker": "DHCNL",
-      "name": "Diversified Healthcare Trust",
+      "ticker": "PSB W",
+      "name": "PS Business Parks Inc",
       "percent": "0.14"
     },
     {
-      "ticker": "PSB W",
-      "name": "PS Business Parks Inc",
+      "ticker": "DHCNL",
+      "name": "Diversified Healthcare Trust",
       "percent": "0.14"
     },
     {
@@ -1196,13 +1196,13 @@
       "percent": "0.14"
     },
     {
-      "ticker": "PSA-PI",
-      "name": "Public Storage",
+      "ticker": "WRB E",
+      "name": "W R Berkley Corp",
       "percent": "0.13"
     },
     {
-      "ticker": "WRB E",
-      "name": "W R Berkley Corp",
+      "ticker": "PSA-PI",
+      "name": "Public Storage",
       "percent": "0.13"
     },
     {
@@ -1211,18 +1211,13 @@
       "percent": "0.13"
     },
     {
-      "ticker": "BPYPN",
-      "name": "Brookfield Property Partners LP",
-      "percent": "0.13"
-    },
-    {
       "ticker": "AMH D",
       "name": "American Homes 4 Rent",
       "percent": "0.13"
     },
     {
-      "ticker": "SITC K",
-      "name": "SITE Centers Corp",
+      "ticker": "BPYPN",
+      "name": "Brookfield Property Partners LP",
       "percent": "0.13"
     },
     {
@@ -1231,13 +1226,18 @@
       "percent": "0.13"
     },
     {
-      "ticker": "PSA K",
-      "name": "Public Storage",
+      "ticker": "KKR B",
+      "name": "KKR & Co Inc",
       "percent": "0.13"
     },
     {
-      "ticker": "KKR B",
-      "name": "KKR & Co Inc",
+      "ticker": "SITC K",
+      "name": "SITE Centers Corp",
+      "percent": "0.13"
+    },
+    {
+      "ticker": "PSA K",
+      "name": "Public Storage",
       "percent": "0.13"
     },
     {
@@ -1251,18 +1251,23 @@
       "percent": "0.13"
     },
     {
-      "ticker": "GMTA",
-      "name": "GATX Corp",
-      "percent": "0.13"
-    },
-    {
       "ticker": "WRB G",
       "name": "W R Berkley Corp",
       "percent": "0.13"
     },
     {
+      "ticker": "WBS F",
+      "name": "Webster Financial Corp",
+      "percent": "0.12"
+    },
+    {
       "ticker": "SF A",
       "name": "Stifel Financial Corp",
+      "percent": "0.12"
+    },
+    {
+      "ticker": "GMTA",
+      "name": "GATX Corp",
       "percent": "0.12"
     },
     {
@@ -1271,23 +1276,18 @@
       "percent": "0.12"
     },
     {
-      "ticker": "WBS F",
-      "name": "Webster Financial Corp",
-      "percent": "0.12"
-    },
-    {
       "ticker": "FRC G",
       "name": "First Republic Bank/CA",
       "percent": "0.12"
     },
     {
-      "ticker": "HWCPL",
-      "name": "Hancock Whitney Corp",
+      "ticker": "FRT C",
+      "name": "Federal Realty Investment Trust",
       "percent": "0.12"
     },
     {
-      "ticker": "FRT C",
-      "name": "Federal Realty Investment Trust",
+      "ticker": "HWCPL",
+      "name": "Hancock Whitney Corp",
       "percent": "0.12"
     },
     {
@@ -1316,13 +1316,13 @@
       "percent": "0.11"
     },
     {
-      "ticker": "FHN E",
-      "name": "First Horizon National Corp",
+      "ticker": "AMH E",
+      "name": "American Homes 4 Rent",
       "percent": "0.11"
     },
     {
-      "ticker": "AMH E",
-      "name": "American Homes 4 Rent",
+      "ticker": "FHN E",
+      "name": "First Horizon National Corp",
       "percent": "0.11"
     },
     {
@@ -1348,11 +1348,6 @@
     {
       "ticker": "BC B",
       "name": "Brunswick Corp/DE",
-      "percent": "0.10"
-    },
-    {
-      "ticker": "BPYPP",
-      "name": "Brookfield Property Partners LP",
       "percent": "0.09"
     },
     {
@@ -1371,6 +1366,16 @@
       "percent": "0.09"
     },
     {
+      "ticker": "BPYPP",
+      "name": "Brookfield Property Partners LP",
+      "percent": "0.09"
+    },
+    {
+      "ticker": "BXP B",
+      "name": "Boston Properties Inc",
+      "percent": "0.09"
+    },
+    {
       "ticker": "BSA",
       "name": "Brightsphere Investment Group Inc",
       "percent": "0.09"
@@ -1378,11 +1383,6 @@
     {
       "ticker": "SITC A",
       "name": "SITE Centers Corp",
-      "percent": "0.09"
-    },
-    {
-      "ticker": "BXP B",
-      "name": "Boston Properties Inc",
       "percent": "0.09"
     },
     {
@@ -1403,7 +1403,7 @@
     {
       "ticker": "TRTN D",
       "name": "Triton International Ltd/Bermuda",
-      "percent": "0.09"
+      "percent": "0.08"
     },
     {
       "ticker": "FITBP",
@@ -1426,13 +1426,13 @@
       "percent": "0.08"
     },
     {
-      "ticker": "DCP B",
-      "name": "DCP Midstream LP",
+      "ticker": "ARGO A",
+      "name": "Argo Group International Holdings Ltd",
       "percent": "0.08"
     },
     {
-      "ticker": "ARGO A",
-      "name": "Argo Group International Holdings Ltd",
+      "ticker": "DCP B",
+      "name": "DCP Midstream LP",
       "percent": "0.08"
     },
     {
@@ -1441,23 +1441,23 @@
       "percent": "0.08"
     },
     {
-      "ticker": "AMH H",
-      "name": "American Homes 4 Rent",
-      "percent": "0.08"
-    },
-    {
       "ticker": "ESGRO",
       "name": "Enstar Group Ltd",
-      "percent": "0.08"
+      "percent": "0.07"
     },
     {
-      "ticker": "AMH G",
+      "ticker": "AMH H",
       "name": "American Homes 4 Rent",
       "percent": "0.07"
     },
     {
       "ticker": "SCE G",
       "name": "SCE Trust II",
+      "percent": "0.07"
+    },
+    {
+      "ticker": "AMH G",
+      "name": "American Homes 4 Rent",
       "percent": "0.07"
     },
     {
@@ -1476,13 +1476,13 @@
       "percent": "0.07"
     },
     {
-      "ticker": "DCOMP",
-      "name": "Dime Community Bancshares Inc",
+      "ticker": "AFGD",
+      "name": "American Financial Group Inc/OH",
       "percent": "0.07"
     },
     {
-      "ticker": "AFGD",
-      "name": "American Financial Group Inc/OH",
+      "ticker": "DCOMP",
+      "name": "Dime Community Bancshares Inc",
       "percent": "0.07"
     },
     {
@@ -1514,11 +1514,6 @@
       "ticker": "OPINL",
       "name": "Office Properties Income Trust",
       "percent": "0.03"
-    },
-    {
-      "ticker": "EAB",
-      "name": "Entergy Arkansas LLC",
-      "percent": "0.02"
     },
     {
       "ticker": "QTS A",

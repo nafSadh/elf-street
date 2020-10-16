@@ -1,0 +1,109 @@
+{
+  "name": "Conservative Multi-Asset Allocation ETF",
+  "ticker": "PSMC",
+  "Inception": "2/23/2017",
+  "Gross Exp. Ratio": "0.39%",
+  "YTD": "2.59",
+  "1Yr": "4.89",
+  "3Yr": "4.96",
+  "5Yr": "",
+  "10Yr": "",
+  "Since Incept.": "5.22",
+  "Category": "Thematic",
+  "SubCategory": "Balanced",
+  "infer": "invesco",
+  "issuer": "Invesco",
+  "website": "https://www.invesco.com/us/financial-products/etfs/product-detail?audienceType=Investor&ticker=PSMC",
+  "holdingDataSource": {
+    "url": "https://www.invesco.com/us/financial-products/etfs/holdings/main/holdings/0?audienceType=Investor&action=download&ticker=PSMC",
+    "fileExt": "csv",
+    "transform": "invesco"
+  },
+  "holdings": [
+    {
+      "ticker": "VRIG",
+      "name": "Invesco Variable Rate Investment Grade ETF",
+      "percent": "15.885"
+    },
+    {
+      "ticker": "IIGD",
+      "name": "Invesco Investment Grade Defensive ETF",
+      "percent": "12.723"
+    },
+    {
+      "ticker": "BAB",
+      "name": "Invesco Taxable Municipal Bond",
+      "percent": "8.466"
+    },
+    {
+      "ticker": "PHB",
+      "name": "Invesco Fundamental High Yield Corporate Bond ETF",
+      "percent": "7.678"
+    },
+    {
+      "ticker": "PCY",
+      "name": "Invesco Emerging Markets Sovereign Debt ETF",
+      "percent": "7.621"
+    },
+    {
+      "ticker": "IIGV",
+      "name": "Invesco Investment Grade Value ETF",
+      "percent": "6.866"
+    },
+    {
+      "ticker": "RPG",
+      "name": "Invesco S&P 500 Pure Growth ETF",
+      "percent": "6.416"
+    },
+    {
+      "ticker": "BKLN",
+      "name": "Invesco Senior Loan ETF",
+      "percent": "6.115"
+    },
+    {
+      "ticker": "PGX",
+      "name": "Invesco Preferred ETF",
+      "percent": "6.100"
+    },
+    {
+      "ticker": "IUS",
+      "name": "Invesco RAFI Strategic US ETF",
+      "percent": "5.104"
+    },
+    {
+      "ticker": "OMFL",
+      "name": "Invesco Russell 1000 Dynamic Multifactor ETF",
+      "percent": "4.553"
+    },
+    {
+      "ticker": "PBTP",
+      "name": "Invesco PureBeta 0-5 Yr US TIPS ETF",
+      "percent": "4.460"
+    },
+    {
+      "ticker": "PLW",
+      "name": "Invesco 1-30 Laddered Treasury ETF",
+      "percent": "3.464"
+    },
+    {
+      "ticker": "SPLV",
+      "name": "Invesco S&P 500 Low Volatility ETF",
+      "percent": "2.579"
+    },
+    {
+      "ticker": "IDLV",
+      "name": "Invesco S&P International Developed Low Volatility ETF",
+      "percent": "0.984"
+    },
+    {
+      "ticker": "ISDX",
+      "name": "Invesco RAFI Strategic Developed ex-US ETF",
+      "percent": "0.979"
+    },
+    {
+      "ticker": "-CASH-",
+      "name": "Cash/Receivables/Payables",
+      "percent": "0.008"
+    }
+  ]
+}

@@ -13,6 +13,7 @@
   "Primary Index Ticker": "I34301US",
   "infer": "spdr",
   "issuer": "SSGA",
+  "website": "https://www.ssga.com/us/en/individual/etfs/funds/spdr-nuveen-bloomberg-barclays-municipal-bond-etf-tfi",
   "holdingDataSource": {
     "fileUrl": "https://www.ssga.com/us/en/individual/etfs/library-content/products/fund-data/etfs/us/holdings-daily-us-en-tfi.xlsx",
     "fileExt": "xlsx",
@@ -45,7 +46,7 @@
     },
     {
       "name": "NYSDEV 5.000 03/15/35",
-      "percent": "0.410000"
+      "percent": "0.420000"
     },
     {
       "name": "CAS 3.000 10/01/37",
@@ -60,11 +61,11 @@
       "percent": "0.370000"
     },
     {
-      "name": "NCS 5.000 06/01/28",
-      "percent": "0.360000"
+      "name": "MDS 5.000 08/01/22",
+      "percent": "0.350000"
     },
     {
-      "name": "MDS 5.000 08/01/22",
+      "name": "NCS 5.000 06/01/28",
       "percent": "0.350000"
     },
     {
@@ -85,7 +86,7 @@
     },
     {
       "name": "CAS 3.000 10/01/34",
-      "percent": "0.310000"
+      "percent": "0.320000"
     },
     {
       "name": "CAS 5.000 04/01/24",
@@ -120,10 +121,6 @@
       "percent": "0.280000"
     },
     {
-      "name": "MDS 5.000 03/15/23",
-      "percent": "0.280000"
-    },
-    {
       "name": "MTATRN 5.000 11/15/34",
       "percent": "0.280000"
     },
@@ -149,6 +146,10 @@
     },
     {
       "name": "CAS 4.000 11/01/39",
+      "percent": "0.270000"
+    },
+    {
+      "name": "MDS 5.000 03/15/23",
       "percent": "0.270000"
     },
     {
@@ -188,6 +189,10 @@
       "percent": "0.250000"
     },
     {
+      "name": "STATE ST INST T/F MMKT-PREM",
+      "percent": "0.250000"
+    },
+    {
       "name": "WIS 5.000 11/01/26",
       "percent": "0.250000"
     },
@@ -216,11 +221,11 @@
       "percent": "0.230000"
     },
     {
-      "name": "TXSWTR 5.000 10/15/32",
-      "percent": "0.230000"
+      "name": "AUSSCD 4.000 08/01/34",
+      "percent": "0.220000"
     },
     {
-      "name": "AUSSCD 4.000 08/01/34",
+      "name": "TXSWTR 5.000 10/15/32",
       "percent": "0.220000"
     },
     {
@@ -245,10 +250,6 @@
     },
     {
       "name": "PORTRN 5.000 11/15/32",
-      "percent": "0.210000"
-    },
-    {
-      "name": "WAS 5.000 08/01/22",
       "percent": "0.210000"
     },
     {
@@ -333,6 +334,10 @@
     },
     {
       "name": "UNVHGR 5.000 05/15/43",
+      "percent": "0.200000"
+    },
+    {
+      "name": "WAS 5.000 08/01/22",
       "percent": "0.200000"
     },
     {
@@ -500,6 +505,10 @@
       "percent": "0.180000"
     },
     {
+      "name": "NYCGEN 4.000 11/01/42",
+      "percent": "0.180000"
+    },
+    {
       "name": "NYCUTL 4.000 06/15/41",
       "percent": "0.180000"
     },
@@ -577,10 +586,6 @@
     },
     {
       "name": "NYC 5.000 10/01/37",
-      "percent": "0.170000"
-    },
-    {
-      "name": "NYCGEN 4.000 11/01/42",
       "percent": "0.170000"
     },
     {
@@ -1084,10 +1089,6 @@
       "percent": "0.110000"
     },
     {
-      "name": "TXSWTR 4.000 10/15/36",
-      "percent": "0.110000"
-    },
-    {
       "name": "UNIHGR 5.000 08/15/24",
       "percent": "0.110000"
     },
@@ -1160,6 +1161,10 @@
       "percent": "0.100000"
     },
     {
+      "name": "MISFIN 4.000 11/01/45",
+      "percent": "0.100000"
+    },
+    {
       "name": "MOSFAC 5.000 10/01/27",
       "percent": "0.100000"
     },
@@ -1196,11 +1201,11 @@
       "percent": "0.100000"
     },
     {
-      "name": "SFOUTL 2.125 10/01/48",
+      "name": "TULGEN 5.000 06/01/25",
       "percent": "0.100000"
     },
     {
-      "name": "TULGEN 5.000 06/01/25",
+      "name": "TXSWTR 4.000 10/15/36",
       "percent": "0.100000"
     },
     {
@@ -1225,6 +1230,10 @@
     },
     {
       "name": "CASDEV 5.000 10/01/34",
+      "percent": "0.090000"
+    },
+    {
+      "name": "CLA 5.000 06/01/31",
       "percent": "0.090000"
     },
     {
@@ -1320,6 +1329,10 @@
       "percent": "0.090000"
     },
     {
+      "name": "SFOUTL 2.125 10/01/48",
+      "percent": "0.090000"
+    },
+    {
       "name": "SNOSCD 5.000 12/01/27",
       "percent": "0.090000"
     },
@@ -1393,10 +1406,6 @@
     },
     {
       "name": "CHAUTL 3.000 07/01/39",
-      "percent": "0.080000"
-    },
-    {
-      "name": "CLA 5.000 06/01/31",
       "percent": "0.080000"
     },
     {
@@ -1736,6 +1745,10 @@
       "percent": "0.070000"
     },
     {
+      "name": "NYC 5.000 10/01/32",
+      "percent": "0.070000"
+    },
+    {
       "name": "NYCFAC 5.000 07/15/43",
       "percent": "0.070000"
     },
@@ -1972,10 +1985,6 @@
       "percent": "0.060000"
     },
     {
-      "name": "NYC 5.000 10/01/32",
-      "percent": "0.060000"
-    },
-    {
       "name": "NYC 5.000 12/01/42",
       "percent": "0.060000"
     },
@@ -2021,10 +2030,6 @@
     },
     {
       "name": "SFOTRN 3.000 02/01/34",
-      "percent": "0.060000"
-    },
-    {
-      "name": "STATE ST INST T/F MMKT-PREM",
       "percent": "0.060000"
     },
     {
@@ -2656,6 +2661,10 @@
       "percent": "0.040000"
     },
     {
+      "name": "NYCGEN 4.000 05/01/45",
+      "percent": "0.040000"
+    },
+    {
       "name": "NYCUTL 4.000 06/15/33",
       "percent": "0.040000"
     },
@@ -2717,10 +2726,6 @@
     },
     {
       "name": "STSGEN 5.000 01/01/38",
-      "percent": "0.040000"
-    },
-    {
-      "name": "STTFAC 5.000 12/01/23",
       "percent": "0.040000"
     },
     {
@@ -3132,10 +3137,6 @@
       "percent": "0.030000"
     },
     {
-      "name": "NYCGEN 4.000 05/01/45",
-      "percent": "0.030000"
-    },
-    {
       "name": "NYCUTL 4.000 06/15/41",
       "percent": "0.030000"
     },
@@ -3217,6 +3218,10 @@
     },
     {
       "name": "STSGEN 5.000 01/01/35",
+      "percent": "0.030000"
+    },
+    {
+      "name": "STTFAC 5.000 12/01/23",
       "percent": "0.030000"
     },
     {
@@ -9429,7 +9434,7 @@
     },
     {
       "name": "US DOLLAR",
-      "percent": "-0.200000"
+      "percent": "-0.450000"
     },
     {
       "name": "Performance quoted represents past performance, which is no guarantee of future results. Investment return and principal value will fluctuate, so you may have a gain or loss when shares are sold. Current performance may be higher or lower than that quoted. Visit www.ssga.com for most recent month-end performance."

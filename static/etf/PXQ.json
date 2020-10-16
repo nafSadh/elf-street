@@ -1,0 +1,179 @@
+{
+  "name": "Dynamic Networking ETF",
+  "ticker": "PXQ",
+  "Inception": "6/23/2005",
+  "Gross Exp. Ratio": "0.64%",
+  "YTD": "12.57",
+  "1Yr": "21.67",
+  "3Yr": "15.28",
+  "5Yr": "16.32",
+  "10Yr": "12.03",
+  "Since Incept.": "10.79",
+  "Category": "Multi Factor",
+  "SubCategory": "Intellidex Industries",
+  "infer": "invesco",
+  "issuer": "Invesco",
+  "website": "https://www.invesco.com/us/financial-products/etfs/product-detail?audienceType=Investor&ticker=PXQ",
+  "holdingDataSource": {
+    "url": "https://www.invesco.com/us/financial-products/etfs/holdings/main/holdings/0?audienceType=Investor&action=download&ticker=PXQ",
+    "fileExt": "csv",
+    "transform": "invesco"
+  },
+  "holdings": [
+    {
+      "ticker": "DDOG",
+      "name": "Datadog Inc",
+      "percent": "6.519"
+    },
+    {
+      "ticker": "QCOM",
+      "name": "QUALCOMM Inc",
+      "percent": "5.369"
+    },
+    {
+      "ticker": "OKTA",
+      "name": "Okta Inc",
+      "percent": "5.338"
+    },
+    {
+      "ticker": "MSI",
+      "name": "Motorola Solutions Inc",
+      "percent": "5.273"
+    },
+    {
+      "ticker": "VMW",
+      "name": "VMware Inc",
+      "percent": "5.224"
+    },
+    {
+      "ticker": "APH",
+      "name": "Amphenol Corp",
+      "percent": "5.035"
+    },
+    {
+      "ticker": "AAPL",
+      "name": "Apple Inc",
+      "percent": "4.649"
+    },
+    {
+      "ticker": "CSCO",
+      "name": "Cisco Systems Inc",
+      "percent": "4.524"
+    },
+    {
+      "ticker": "CRWD",
+      "name": "Crowdstrike Holdings Inc",
+      "percent": "3.301"
+    },
+    {
+      "ticker": "TENB",
+      "name": "Tenable Holdings Inc",
+      "percent": "2.947"
+    },
+    {
+      "ticker": "ZS",
+      "name": "Zscaler Inc",
+      "percent": "2.924"
+    },
+    {
+      "ticker": "IPHI",
+      "name": "Inphi Corp",
+      "percent": "2.869"
+    },
+    {
+      "ticker": "AUDC",
+      "name": "AudioCodes Ltd",
+      "percent": "2.765"
+    },
+    {
+      "ticker": "VRNS",
+      "name": "Varonis Systems Inc",
+      "percent": "2.732"
+    },
+    {
+      "ticker": "UI",
+      "name": "Ubiquiti Inc",
+      "percent": "2.683"
+    },
+    {
+      "ticker": "DT",
+      "name": "Dynatrace Inc",
+      "percent": "2.679"
+    },
+    {
+      "ticker": "CALX",
+      "name": "Calix Inc",
+      "percent": "2.651"
+    },
+    {
+      "ticker": "CHKP",
+      "name": "Check Point Software Technologies Ltd",
+      "percent": "2.624"
+    },
+    {
+      "ticker": "NTCT",
+      "name": "NetScout Systems Inc",
+      "percent": "2.600"
+    },
+    {
+      "ticker": "AKAM",
+      "name": "Akamai Technologies Inc",
+      "percent": "2.599"
+    },
+    {
+      "ticker": "CTXS",
+      "name": "Citrix Systems Inc",
+      "percent": "2.592"
+    },
+    {
+      "ticker": "FTNT",
+      "name": "Fortinet Inc",
+      "percent": "2.578"
+    },
+    {
+      "ticker": "NTGR",
+      "name": "NETGEAR Inc",
+      "percent": "2.564"
+    },
+    {
+      "ticker": "LITE",
+      "name": "Lumentum Holdings Inc",
+      "percent": "2.562"
+    },
+    {
+      "ticker": "SCWX",
+      "name": "SecureWorks Corp",
+      "percent": "2.539"
+    },
+    {
+      "ticker": "GRMN",
+      "name": "Garmin Ltd",
+      "percent": "2.512"
+    },
+    {
+      "ticker": "FEYE",
+      "name": "FireEye Inc",
+      "percent": "2.502"
+    },
+    {
+      "ticker": "QLYS",
+      "name": "Qualys Inc",
+      "percent": "2.491"
+    },
+    {
+      "ticker": "COMM",
+      "name": "CommScope Holding Co Inc",
+      "percent": "2.307"
+    },
+    {
+      "ticker": "CIEN",
+      "name": "Ciena Corp",
+      "percent": "1.966"
+    },
+    {
+      "ticker": "AGPXX",
+      "name": "STIT - Government & Agency Portfolio",
+      "percent": "0.082"
+    }
+  ]
+}

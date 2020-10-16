@@ -43,7 +43,7 @@
     {
       "ticker": "PNC P",
       "name": "PNC Financial Services Group Inc/The",
-      "percent": "2.18"
+      "percent": "2.20"
     },
     {
       "ticker": "BAC-PM",
@@ -63,12 +63,12 @@
     {
       "ticker": "JPM G",
       "name": "JPMorgan Chase & Co",
-      "percent": "1.88"
+      "percent": "1.89"
     },
     {
       "ticker": "BAC N",
       "name": "Bank of America Corp",
-      "percent": "1.74"
+      "percent": "1.75"
     },
     {
       "ticker": "ALL H",
@@ -78,17 +78,17 @@
     {
       "ticker": "WFC X",
       "name": "Wells Fargo & Co",
-      "percent": "1.65"
+      "percent": "1.64"
     },
     {
       "ticker": "USB M",
       "name": "US Bancorp",
-      "percent": "1.63"
+      "percent": "1.64"
     },
     {
       "ticker": "COF-PI",
       "name": "Capital One Financial Corp",
-      "percent": "1.63"
+      "percent": "1.62"
     },
     {
       "ticker": "JPM H",
@@ -151,24 +151,24 @@
       "percent": "1.31"
     },
     {
-      "ticker": "ATH-PA",
-      "name": "Athene Holding Ltd",
-      "percent": "1.28"
-    },
-    {
       "ticker": "TFC R",
       "name": "Truist Financial Corp",
-      "percent": "1.28"
+      "percent": "1.29"
     },
     {
-      "ticker": "MS E",
-      "name": "Morgan Stanley",
+      "ticker": "ATH-PA",
+      "name": "Athene Holding Ltd",
       "percent": "1.27"
     },
     {
       "ticker": "C J",
       "name": "Citigroup Inc",
       "percent": "1.27"
+    },
+    {
+      "ticker": "MS E",
+      "name": "Morgan Stanley",
+      "percent": "1.26"
     },
     {
       "ticker": "JPM J",
@@ -178,12 +178,12 @@
     {
       "ticker": "C S",
       "name": "Citigroup Inc",
-      "percent": "1.26"
+      "percent": "1.25"
     },
     {
       "ticker": "MS F",
       "name": "Morgan Stanley",
-      "percent": "1.24"
+      "percent": "1.23"
     },
     {
       "ticker": "BAC A",
@@ -198,12 +198,12 @@
     {
       "ticker": "EQH A",
       "name": "Equitable Holdings Inc",
-      "percent": "1.17"
+      "percent": "1.18"
     },
     {
       "ticker": "STT D",
       "name": "State Street Corp",
-      "percent": "1.13"
+      "percent": "1.14"
     },
     {
       "ticker": "SCHW D",
@@ -223,7 +223,7 @@
     {
       "ticker": "WFC Y",
       "name": "Wells Fargo & Co",
-      "percent": "0.98"
+      "percent": "0.99"
     },
     {
       "ticker": "GS N",
@@ -261,11 +261,6 @@
       "percent": "0.84"
     },
     {
-      "ticker": "NYCB A",
-      "name": "New York Community Bancorp Inc",
-      "percent": "0.81"
-    },
-    {
       "ticker": "BK C",
       "name": "Bank of New York Mellon Corp/The",
       "percent": "0.81"
@@ -273,6 +268,11 @@
     {
       "ticker": "SCHW C",
       "name": "Charles Schwab Corp/The",
+      "percent": "0.80"
+    },
+    {
+      "ticker": "NYCB A",
+      "name": "New York Community Bancorp Inc",
       "percent": "0.80"
     },
     {
@@ -286,11 +286,6 @@
       "percent": "0.78"
     },
     {
-      "ticker": "RF B",
-      "name": "Regions Financial Corp",
-      "percent": "0.77"
-    },
-    {
       "ticker": "RF C",
       "name": "Regions Financial Corp",
       "percent": "0.77"
@@ -299,6 +294,11 @@
       "ticker": "STT G",
       "name": "State Street Corp",
       "percent": "0.77"
+    },
+    {
+      "ticker": "RF B",
+      "name": "Regions Financial Corp",
+      "percent": "0.76"
     },
     {
       "ticker": "AIG A",
@@ -321,29 +321,29 @@
       "percent": "0.69"
     },
     {
+      "ticker": "FITBI",
+      "name": "Fifth Third Bancorp",
+      "percent": "0.69"
+    },
+    {
       "ticker": "RF A",
       "name": "Regions Financial Corp",
       "percent": "0.69"
     },
     {
-      "ticker": "FITBI",
-      "name": "Fifth Third Bancorp",
-      "percent": "0.68"
-    },
-    {
       "ticker": "TFC G",
       "name": "Truist Financial Corp",
-      "percent": "0.67"
-    },
-    {
-      "ticker": "BHFAP",
-      "name": "Brighthouse Financial Inc",
-      "percent": "0.65"
+      "percent": "0.68"
     },
     {
       "ticker": "COF G",
       "name": "Capital One Financial Corp",
       "percent": "0.65"
+    },
+    {
+      "ticker": "BHFAP",
+      "name": "Brighthouse Financial Inc",
+      "percent": "0.64"
     },
     {
       "ticker": "FRC K",
@@ -353,7 +353,7 @@
     {
       "ticker": "KEY J",
       "name": "KeyCorp",
-      "percent": "0.64"
+      "percent": "0.63"
     },
     {
       "ticker": "KEY K",
@@ -363,16 +363,16 @@
     {
       "ticker": "TFC F",
       "name": "Truist Financial Corp",
+      "percent": "0.63"
+    },
+    {
+      "ticker": "CFG E",
+      "name": "Citizens Financial Group Inc",
       "percent": "0.62"
     },
     {
       "ticker": "ACGLP",
       "name": "Arch Capital Group Ltd",
-      "percent": "0.62"
-    },
-    {
-      "ticker": "CFG E",
-      "name": "Citizens Financial Group Inc",
       "percent": "0.62"
     },
     {
@@ -383,7 +383,7 @@
     {
       "ticker": "ESGRP",
       "name": "Enstar Group Ltd",
-      "percent": "0.61"
+      "percent": "0.60"
     },
     {
       "ticker": "FRC J",
@@ -391,13 +391,13 @@
       "percent": "0.58"
     },
     {
-      "ticker": "BHFAO",
-      "name": "Brighthouse Financial Inc",
+      "ticker": "AEL A",
+      "name": "American Equity Investment Life Holding Co",
       "percent": "0.56"
     },
     {
-      "ticker": "AEL A",
-      "name": "American Equity Investment Life Holding Co",
+      "ticker": "BHFAO",
+      "name": "Brighthouse Financial Inc",
       "percent": "0.56"
     },
     {
@@ -411,13 +411,13 @@
       "percent": "0.54"
     },
     {
-      "ticker": "COF F",
-      "name": "Capital One Financial Corp",
+      "ticker": "HIG G",
+      "name": "Hartford Financial Services Group Inc/The",
       "percent": "0.53"
     },
     {
-      "ticker": "HIG G",
-      "name": "Hartford Financial Services Group Inc/The",
+      "ticker": "COF F",
+      "name": "Capital One Financial Corp",
       "percent": "0.53"
     },
     {
@@ -438,16 +438,16 @@
     {
       "ticker": "ATH B",
       "name": "Athene Holding Ltd",
-      "percent": "0.48"
-    },
-    {
-      "ticker": "VOYA B",
-      "name": "Voya Financial Inc",
-      "percent": "0.47"
+      "percent": "0.49"
     },
     {
       "ticker": "ACGLO",
       "name": "Arch Capital Group Ltd",
+      "percent": "0.47"
+    },
+    {
+      "ticker": "VOYA B",
+      "name": "Voya Financial Inc",
       "percent": "0.47"
     },
     {
@@ -458,12 +458,12 @@
     {
       "ticker": "ALL I",
       "name": "Allstate Corp/The",
-      "percent": "0.46"
+      "percent": "0.45"
     },
     {
       "ticker": "FRC I",
       "name": "First Republic Bank/CA",
-      "percent": "0.46"
+      "percent": "0.45"
     },
     {
       "ticker": "CFG D",
@@ -493,7 +493,7 @@
     {
       "ticker": "RNR F",
       "name": "RenaissanceRe Holdings Ltd",
-      "percent": "0.38"
+      "percent": "0.37"
     },
     {
       "ticker": "PBCTP",

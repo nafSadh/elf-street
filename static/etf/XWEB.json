@@ -13,6 +13,7 @@
   "Primary Index Ticker": "SPSIIN",
   "infer": "spdr",
   "issuer": "SSGA",
+  "website": "https://www.ssga.com/us/en/individual/etfs/funds/spdr-sp-internet-etf-xweb",
   "holdingDataSource": {
     "fileUrl": "https://www.ssga.com/us/en/individual/etfs/library-content/products/fund-data/etfs/us/holdings-daily-us-en-xweb.xlsx",
     "fileExt": "xlsx",
@@ -20,244 +21,244 @@
   },
   "holdings": [
     {
-      "ticker": "FSLY",
-      "name": "Fastly Inc. Class A",
-      "percent": "3.482560"
-    },
-    {
       "ticker": "MGNI",
       "name": "Magnite Inc.",
-      "percent": "3.296173"
+      "percent": "3.427047"
+    },
+    {
+      "ticker": "FSLY",
+      "name": "Fastly Inc. Class A",
+      "percent": "3.385807"
     },
     {
       "ticker": "TWLO",
       "name": "Twilio Inc. Class A",
-      "percent": "3.093026"
+      "percent": "3.010429"
     },
     {
       "ticker": "ETSY",
       "name": "Etsy Inc.",
-      "percent": "2.843859"
+      "percent": "2.830702"
     },
     {
       "ticker": "PRTS",
       "name": "CarParts.com Inc",
-      "percent": "2.820689"
-    },
-    {
-      "ticker": "LLNW",
-      "name": "Limelight Networks Inc.",
-      "percent": "2.667146"
-    },
-    {
-      "ticker": "PINS",
-      "name": "Pinterest Inc. Class A",
-      "percent": "2.661737"
-    },
-    {
-      "ticker": "MDB",
-      "name": "MongoDB Inc. Class A",
-      "percent": "2.657365"
+      "percent": "2.728149"
     },
     {
       "ticker": "STMP",
       "name": "Stamps.com Inc.",
-      "percent": "2.654825"
+      "percent": "2.702530"
     },
     {
-      "ticker": "OSTK",
-      "name": "Overstock.com Inc.",
-      "percent": "2.652323"
+      "ticker": "PINS",
+      "name": "Pinterest Inc. Class A",
+      "percent": "2.696676"
+    },
+    {
+      "ticker": "MDB",
+      "name": "MongoDB Inc. Class A",
+      "percent": "2.672212"
     },
     {
       "ticker": "OKTA",
       "name": "Okta Inc. Class A",
-      "percent": "2.619939"
+      "percent": "2.622560"
+    },
+    {
+      "ticker": "OSTK",
+      "name": "Overstock.com Inc.",
+      "percent": "2.585584"
+    },
+    {
+      "ticker": "LLNW",
+      "name": "Limelight Networks Inc.",
+      "percent": "2.578009"
     },
     {
       "ticker": "FLWS",
       "name": "1-800-FLOWERS.COM Inc. Class A",
-      "percent": "2.579523"
-    },
-    {
-      "ticker": "CHWY",
-      "name": "Chewy Inc. Class A",
-      "percent": "2.554805"
+      "percent": "2.558413"
     },
     {
       "ticker": "SFIX",
       "name": "Stitch Fix Inc. Class A",
-      "percent": "2.507194"
-    },
-    {
-      "ticker": "W",
-      "name": "Wayfair Inc. Class A",
-      "percent": "2.498654"
-    },
-    {
-      "ticker": "TWTR",
-      "name": "Twitter Inc.",
-      "percent": "2.482047"
+      "percent": "2.532275"
     },
     {
       "ticker": "Z",
       "name": "Zillow Group Inc. Class C",
-      "percent": "2.437492"
+      "percent": "2.519369"
     },
     {
-      "ticker": "AMZN",
-      "name": "Amazon.com Inc.",
-      "percent": "2.296430"
+      "ticker": "CHWY",
+      "name": "Chewy Inc. Class A",
+      "percent": "2.491296"
     },
     {
-      "ticker": "SNAP",
-      "name": "Snap Inc. Class A",
-      "percent": "2.295186"
-    },
-    {
-      "ticker": "PETS",
-      "name": "PetMed Express Inc.",
-      "percent": "2.272526"
+      "ticker": "TWTR",
+      "name": "Twitter Inc.",
+      "percent": "2.469002"
     },
     {
       "ticker": "GRUB",
       "name": "Grubhub Inc.",
-      "percent": "2.252901"
+      "percent": "2.456043"
+    },
+    {
+      "ticker": "W",
+      "name": "Wayfair Inc. Class A",
+      "percent": "2.434143"
+    },
+    {
+      "ticker": "SNAP",
+      "name": "Snap Inc. Class A",
+      "percent": "2.361431"
+    },
+    {
+      "ticker": "AMZN",
+      "name": "Amazon.com Inc.",
+      "percent": "2.280845"
+    },
+    {
+      "ticker": "PETS",
+      "name": "PetMed Express Inc.",
+      "percent": "2.278296"
     },
     {
       "ticker": "SWCH",
       "name": "Switch Inc. Class A",
-      "percent": "2.248804"
-    },
-    {
-      "ticker": "EBAY",
-      "name": "eBay Inc.",
-      "percent": "2.244229"
+      "percent": "2.244369"
     },
     {
       "ticker": "VRSN",
       "name": "VeriSign Inc.",
-      "percent": "2.240515"
+      "percent": "2.237469"
+    },
+    {
+      "ticker": "EBAY",
+      "name": "eBay Inc.",
+      "percent": "2.237182"
     },
     {
       "ticker": "AKAM",
       "name": "Akamai Technologies Inc.",
-      "percent": "2.230319"
+      "percent": "2.225977"
     },
     {
       "ticker": "MTCH",
       "name": "Match Group Inc.",
-      "percent": "2.206334"
+      "percent": "2.215373"
     },
     {
       "ticker": "GOOG",
       "name": "Alphabet Inc. Class C",
-      "percent": "2.137480"
-    },
-    {
-      "ticker": "IAC",
-      "name": "IAC/InteractiveCorp.",
-      "percent": "2.132657"
-    },
-    {
-      "ticker": "FB",
-      "name": "Facebook Inc. Class A",
-      "percent": "2.132206"
+      "percent": "2.168436"
     },
     {
       "ticker": "GDDY",
       "name": "GoDaddy Inc. Class A",
-      "percent": "2.129687"
+      "percent": "2.139376"
+    },
+    {
+      "ticker": "FB",
+      "name": "Facebook Inc. Class A",
+      "percent": "2.134134"
+    },
+    {
+      "ticker": "IAC",
+      "name": "IAC/InteractiveCorp.",
+      "percent": "2.109503"
     },
     {
       "ticker": "EVER",
       "name": "EverQuote Inc. Class A",
-      "percent": "2.058725"
-    },
-    {
-      "ticker": "BKNG",
-      "name": "Booking Holdings Inc.",
-      "percent": "2.051419"
+      "percent": "2.047435"
     },
     {
       "ticker": "EXPE",
       "name": "Expedia Group Inc.",
-      "percent": "2.047252"
+      "percent": "2.039295"
     },
     {
-      "ticker": "YELP",
-      "name": "Yelp Inc",
-      "percent": "1.963355"
+      "ticker": "BKNG",
+      "name": "Booking Holdings Inc.",
+      "percent": "2.029254"
     },
     {
       "ticker": "TRIP",
       "name": "TripAdvisor Inc.",
-      "percent": "1.945129"
+      "percent": "1.960100"
     },
     {
       "ticker": "CARG",
       "name": "CarGurus Inc. Class A",
-      "percent": "1.895373"
+      "percent": "1.953612"
+    },
+    {
+      "ticker": "YELP",
+      "name": "Yelp Inc",
+      "percent": "1.923289"
     },
     {
       "ticker": "SSTK",
       "name": "Shutterstock Inc.",
-      "percent": "1.876210"
+      "percent": "1.916988"
     },
     {
       "ticker": "ANGI",
       "name": "ANGI Homeservices Inc Class A",
-      "percent": "1.849648"
+      "percent": "1.850245"
     },
     {
       "ticker": "EB",
       "name": "Eventbrite Inc. Class A",
-      "percent": "1.778032"
+      "percent": "1.759878"
     },
     {
       "ticker": "CARS",
       "name": "Cars.com Inc.",
-      "percent": "1.684206"
+      "percent": "1.652685"
     },
     {
       "ticker": "QRTEA",
       "name": "Qurate Retail Inc. Class A",
-      "percent": "1.506857"
+      "percent": "1.500720"
     },
     {
       "ticker": "GRPN",
       "name": "Groupon Inc.",
-      "percent": "1.340134"
+      "percent": "1.353626"
     },
     {
       "ticker": "QUOT",
       "name": "Quotient Technology Incorporated",
-      "percent": "0.783969"
+      "percent": "0.819763"
     },
     {
       "ticker": "QNST",
       "name": "QuinStreet Inc.",
-      "percent": "0.634413"
-    },
-    {
-      "ticker": "TRUE",
-      "name": "TrueCar Inc.",
-      "percent": "0.608106"
+      "percent": "0.624343"
     },
     {
       "ticker": "EIGI",
       "name": "Endurance International Group Holdings Inc.",
-      "percent": "0.596602"
+      "percent": "0.594853"
+    },
+    {
+      "ticker": "TRUE",
+      "name": "TrueCar Inc.",
+      "percent": "0.588470"
     },
     {
       "ticker": "70286227",
       "name": "STATE STREET INSTITUTIONAL LIQ STATE STR",
-      "percent": "0.051974"
+      "percent": "0.052811"
     },
     {
       "ticker": "CASH_USD",
       "name": "U.S. Dollar",
-      "percent": "-0.000036"
+      "percent": "0.000000"
     },
     {
       "name": "Performance quoted represents past performance, which is no guarantee of future results. Investment return and principal value will fluctuate, so you may have a gain or loss when shares are sold. Current performance may be higher or lower than that quoted. Visit www.ssga.com for most recent month-end performance."

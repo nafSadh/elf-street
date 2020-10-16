@@ -13,6 +13,7 @@
   "Primary Index Ticker": "NYTECHTR",
   "infer": "spdr",
   "issuer": "SSGA",
+  "website": "https://www.ssga.com/us/en/individual/etfs/funds/spdr-nyse-technology-etf-xntk",
   "holdingDataSource": {
     "fileUrl": "https://www.ssga.com/us/en/individual/etfs/library-content/products/fund-data/etfs/us/holdings-daily-us-en-xntk.xlsx",
     "fileExt": "xlsx",
@@ -22,187 +23,182 @@
     {
       "ticker": "TSLA",
       "name": "Tesla Inc",
-      "percent": "11.144796"
+      "percent": "11.551347"
     },
     {
       "ticker": "SHOP-CA",
       "name": "Shopify Inc. Class A",
-      "percent": "5.133806"
+      "percent": "5.042223"
     },
     {
       "ticker": "NVDA",
       "name": "NVIDIA Corporation",
-      "percent": "4.550705"
+      "percent": "4.517876"
     },
     {
       "ticker": "JD",
       "name": "JD.com Inc. Sponsored ADR Class A",
-      "percent": "4.347965"
+      "percent": "4.283696"
     },
     {
       "ticker": "AMD",
       "name": "Advanced Micro Devices Inc.",
-      "percent": "3.708460"
+      "percent": "3.674976"
     },
     {
       "ticker": "AMZN",
       "name": "Amazon.com Inc.",
-      "percent": "3.499420"
+      "percent": "3.430382"
     },
     {
       "ticker": "NOW",
       "name": "ServiceNow Inc.",
-      "percent": "3.391275"
+      "percent": "3.394098"
     },
     {
       "ticker": "NFLX",
       "name": "Netflix Inc.",
-      "percent": "3.314544"
+      "percent": "3.250470"
     },
     {
       "ticker": "AAPL",
       "name": "Apple Inc.",
-      "percent": "3.147001"
+      "percent": "3.160559"
     },
     {
       "ticker": "CRM",
       "name": "salesforce.com inc.",
-      "percent": "2.964231"
+      "percent": "2.919048"
     },
     {
       "ticker": "ADBE",
       "name": "Adobe Inc.",
-      "percent": "2.892125"
+      "percent": "2.857281"
     },
     {
       "ticker": "TSM",
       "name": "Taiwan Semiconductor Manufacturing Co. Ltd. Sponsored ADR",
-      "percent": "2.753661"
-    },
-    {
-      "ticker": "BABA",
-      "name": "Alibaba Group Holding Ltd. Sponsored ADR",
-      "percent": "2.696389"
-    },
-    {
-      "ticker": "WDAY",
-      "name": "Workday Inc. Class A",
-      "percent": "2.611952"
+      "percent": "2.731409"
     },
     {
       "ticker": "QCOM",
       "name": "QUALCOMM Incorporated",
-      "percent": "2.598021"
+      "percent": "2.656779"
+    },
+    {
+      "ticker": "BABA",
+      "name": "Alibaba Group Holding Ltd. Sponsored ADR",
+      "percent": "2.638165"
+    },
+    {
+      "ticker": "WDAY",
+      "name": "Workday Inc. Class A",
+      "percent": "2.594695"
     },
     {
       "ticker": "MSFT",
       "name": "Microsoft Corporation",
-      "percent": "2.577803"
+      "percent": "2.563770"
     },
     {
       "ticker": "FB",
       "name": "Facebook Inc. Class A",
-      "percent": "2.543957"
-    },
-    {
-      "ticker": "ASML",
-      "name": "ASML Holding NV ADR",
-      "percent": "2.502333"
+      "percent": "2.513079"
     },
     {
       "ticker": "ATVI",
       "name": "Activision Blizzard Inc.",
-      "percent": "2.501422"
+      "percent": "2.507883"
+    },
+    {
+      "ticker": "ASML",
+      "name": "ASML Holding NV ADR",
+      "percent": "2.467115"
     },
     {
       "ticker": "INTU",
       "name": "Intuit Inc.",
-      "percent": "2.405424"
+      "percent": "2.384370"
     },
     {
       "ticker": "LRCX",
       "name": "Lam Research Corporation",
-      "percent": "2.373420"
+      "percent": "2.382161"
     },
     {
       "ticker": "TXN",
       "name": "Texas Instruments Incorporated",
-      "percent": "2.181977"
+      "percent": "2.165370"
     },
     {
       "ticker": "AVGO",
       "name": "Broadcom Inc.",
-      "percent": "2.163808"
+      "percent": "2.164742"
     },
     {
       "ticker": "GOOGL",
       "name": "Alphabet Inc. Class A",
-      "percent": "2.081378"
-    },
-    {
-      "ticker": "ORCL",
-      "name": "Oracle Corporation",
-      "percent": "2.001728"
-    },
-    {
-      "ticker": "NXPI",
-      "name": "NXP Semiconductors NV",
-      "percent": "1.975083"
-    },
-    {
-      "ticker": "AMAT",
-      "name": "Applied Materials Inc.",
-      "percent": "1.933302"
+      "percent": "2.083954"
     },
     {
       "ticker": "BIDU",
       "name": "Baidu Inc. Sponsored ADR Class A",
-      "percent": "1.908161"
+      "percent": "2.050912"
+    },
+    {
+      "ticker": "ORCL",
+      "name": "Oracle Corporation",
+      "percent": "2.008529"
+    },
+    {
+      "ticker": "NXPI",
+      "name": "NXP Semiconductors NV",
+      "percent": "1.986030"
+    },
+    {
+      "ticker": "AMAT",
+      "name": "Applied Materials Inc.",
+      "percent": "1.918895"
     },
     {
       "ticker": "ADI",
       "name": "Analog Devices Inc.",
-      "percent": "1.858976"
+      "percent": "1.857296"
     },
     {
       "ticker": "VMW",
       "name": "VMware Inc. Class A",
-      "percent": "1.832844"
+      "percent": "1.846729"
     },
     {
       "ticker": "MU",
       "name": "Micron Technology Inc.",
-      "percent": "1.812064"
+      "percent": "1.810804"
     },
     {
       "ticker": "IBM",
       "name": "International Business Machines Corporation",
-      "percent": "1.667873"
+      "percent": "1.685053"
     },
     {
       "ticker": "INTC",
       "name": "Intel Corporation",
-      "percent": "1.667347"
-    },
-    {
-      "ticker": "BKNG",
-      "name": "Booking Holdings Inc.",
-      "percent": "1.611797"
+      "percent": "1.664583"
     },
     {
       "ticker": "CSCO",
       "name": "Cisco Systems Inc.",
-      "percent": "1.572958"
+      "percent": "1.581733"
+    },
+    {
+      "ticker": "BKNG",
+      "name": "Booking Holdings Inc.",
+      "percent": "1.573608"
     },
     {
       "ticker": "70286227",
       "name": "STATE STREET INSTITUTIONAL LIQ STATE STR",
-      "percent": "0.072048"
-    },
-    {
-      "ticker": "CASH_USD",
-      "name": "U.S. Dollar",
-      "percent": "-0.000047"
+      "percent": "0.080387"
     },
     {
       "name": "Performance quoted represents past performance, which is no guarantee of future results. Investment return and principal value will fluctuate, so you may have a gain or loss when shares are sold. Current performance may be higher or lower than that quoted. Visit www.ssga.com for most recent month-end performance."

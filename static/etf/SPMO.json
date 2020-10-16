@@ -21,89 +21,94 @@
   },
   "holdings": [
     {
-      "ticker": "AMZN",
-      "name": "Amazon.com Inc",
-      "percent": "8.943"
-    },
-    {
       "ticker": "MSFT",
       "name": "Microsoft Corp",
-      "percent": "8.854"
+      "percent": "8.861"
+    },
+    {
+      "ticker": "AMZN",
+      "name": "Amazon.com Inc",
+      "percent": "8.822"
     },
     {
       "ticker": "AAPL",
       "name": "Apple Inc",
-      "percent": "8.409"
+      "percent": "8.498"
     },
     {
       "ticker": "NVDA",
       "name": "NVIDIA Corp",
-      "percent": "6.341"
+      "percent": "6.335"
     },
     {
       "ticker": "FB",
       "name": "Facebook Inc",
-      "percent": "5.676"
+      "percent": "5.642"
     },
     {
       "ticker": "PYPL",
       "name": "PayPal Holdings Inc",
-      "percent": "3.479"
+      "percent": "3.443"
     },
     {
       "ticker": "NFLX",
       "name": "Netflix Inc",
-      "percent": "2.870"
+      "percent": "2.832"
     },
     {
       "ticker": "ADBE",
       "name": "Adobe Inc",
-      "percent": "2.706"
+      "percent": "2.690"
     },
     {
       "ticker": "HD",
       "name": "Home Depot Inc/The",
-      "percent": "2.450"
+      "percent": "2.446"
     },
     {
       "ticker": "TMO",
       "name": "Thermo Fisher Scientific Inc",
-      "percent": "2.375"
+      "percent": "2.396"
     },
     {
       "ticker": "ABBV",
       "name": "AbbVie Inc",
-      "percent": "2.125"
+      "percent": "2.103"
     },
     {
       "ticker": "DHR",
       "name": "Danaher Corp",
-      "percent": "1.834"
+      "percent": "1.860"
     },
     {
       "ticker": "AMD",
       "name": "Advanced Micro Devices Inc",
-      "percent": "1.807"
+      "percent": "1.802"
     },
     {
       "ticker": "BMY",
       "name": "Bristol Myers Squibb Co",
-      "percent": "1.695"
-    },
-    {
-      "ticker": "NEE",
-      "name": "NextEra Energy Inc",
-      "percent": "1.486"
+      "percent": "1.708"
     },
     {
       "ticker": "QCOM",
       "name": "QUALCOMM Inc",
-      "percent": "1.459"
+      "percent": "1.501"
+    },
+    {
+      "ticker": "NEE",
+      "name": "NextEra Energy Inc",
+      "percent": "1.497"
     },
     {
       "ticker": "AMGN",
       "name": "Amgen Inc",
-      "percent": "1.396"
+      "percent": "1.400"
+    },
+    {
+      "ticker": "COST",
+      "name": "Costco Wholesale Corp",
+      "percent": "1.376"
     },
     {
       "ticker": "LOW",
@@ -111,44 +116,39 @@
       "percent": "1.375"
     },
     {
-      "ticker": "COST",
-      "name": "Costco Wholesale Corp",
-      "percent": "1.371"
+      "ticker": "LLY",
+      "name": "Eli Lilly and Co",
+      "percent": "1.346"
     },
     {
       "ticker": "CHTR",
       "name": "Charter Communications Inc",
-      "percent": "1.353"
-    },
-    {
-      "ticker": "LLY",
-      "name": "Eli Lilly and Co",
-      "percent": "1.348"
-    },
-    {
-      "ticker": "REGN",
-      "name": "Regeneron Pharmaceuticals Inc",
-      "percent": "1.150"
+      "percent": "1.343"
     },
     {
       "ticker": "NOW",
       "name": "ServiceNow Inc",
-      "percent": "1.143"
+      "percent": "1.151"
+    },
+    {
+      "ticker": "REGN",
+      "name": "Regeneron Pharmaceuticals Inc",
+      "percent": "1.148"
     },
     {
       "ticker": "LIN",
       "name": "Linde PLC",
-      "percent": "1.129"
-    },
-    {
-      "ticker": "VRTX",
-      "name": "Vertex Pharmaceuticals Inc",
-      "percent": "1.011"
+      "percent": "1.135"
     },
     {
       "ticker": "ATVI",
       "name": "Activision Blizzard Inc",
-      "percent": "1.001"
+      "percent": "1.010"
+    },
+    {
+      "ticker": "VRTX",
+      "name": "Vertex Pharmaceuticals Inc",
+      "percent": "1.004"
     },
     {
       "ticker": "EQIX",
@@ -156,69 +156,69 @@
       "percent": "0.996"
     },
     {
-      "ticker": "TGT",
-      "name": "Target Corp",
-      "percent": "0.937"
-    },
-    {
       "ticker": "NEM",
       "name": "Newmont Corp",
-      "percent": "0.911"
+      "percent": "0.938"
+    },
+    {
+      "ticker": "TGT",
+      "name": "Target Corp",
+      "percent": "0.936"
     },
     {
       "ticker": "SPGI",
       "name": "S&P Global Inc",
-      "percent": "0.854"
+      "percent": "0.856"
     },
     {
       "ticker": "AMT",
       "name": "American Tower Corp",
-      "percent": "0.807"
+      "percent": "0.802"
     },
     {
       "ticker": "ISRG",
       "name": "Intuitive Surgical Inc",
-      "percent": "0.740"
+      "percent": "0.743"
     },
     {
       "ticker": "ZTS",
       "name": "Zoetis Inc",
-      "percent": "0.720"
+      "percent": "0.719"
     },
     {
       "ticker": "DG",
       "name": "Dollar General Corp",
-      "percent": "0.706"
-    },
-    {
-      "ticker": "DXCM",
-      "name": "DexCom Inc",
-      "percent": "0.688"
-    },
-    {
-      "ticker": "PLD",
-      "name": "Prologis Inc",
-      "percent": "0.683"
+      "percent": "0.704"
     },
     {
       "ticker": "LRCX",
       "name": "Lam Research Corp",
-      "percent": "0.681"
+      "percent": "0.688"
+    },
+    {
+      "ticker": "DXCM",
+      "name": "DexCom Inc",
+      "percent": "0.683"
+    },
+    {
+      "ticker": "PLD",
+      "name": "Prologis Inc",
+      "percent": "0.673"
     },
     {
       "ticker": "TMUS",
       "name": "T-Mobile US Inc",
-      "percent": "0.672"
+      "percent": "0.651"
+    },
+    {
+      "ticker": "ADSK",
+      "name": "Autodesk Inc",
+      "percent": "0.573"
     },
     {
       "ticker": "CCI",
       "name": "Crown Castle International Corp",
       "percent": "0.571"
-    },
-    {
-      "ticker": "ADSK",
-      "name": "Autodesk Inc",
-      "percent": "0.562"
     },
     {
       "ticker": "APD",
@@ -228,17 +228,17 @@
     {
       "ticker": "EA",
       "name": "Electronic Arts Inc",
-      "percent": "0.531"
+      "percent": "0.536"
     },
     {
       "ticker": "DLR",
       "name": "Digital Realty Trust Inc",
-      "percent": "0.461"
+      "percent": "0.460"
     },
     {
       "ticker": "KR",
       "name": "Kroger Co/The",
-      "percent": "0.456"
+      "percent": "0.448"
     },
     {
       "ticker": "CLX",
@@ -248,52 +248,52 @@
     {
       "ticker": "SNPS",
       "name": "Synopsys Inc",
-      "percent": "0.408"
+      "percent": "0.409"
     },
     {
       "ticker": "EBAY",
       "name": "eBay Inc",
-      "percent": "0.406"
+      "percent": "0.402"
     },
     {
       "ticker": "WST",
       "name": "West Pharmaceutical Services Inc",
-      "percent": "0.397"
+      "percent": "0.386"
     },
     {
       "ticker": "MCO",
       "name": "Moody's Corp",
-      "percent": "0.376"
+      "percent": "0.375"
     },
     {
       "ticker": "IDXX",
       "name": "IDEXX Laboratories Inc",
-      "percent": "0.372"
+      "percent": "0.375"
     },
     {
       "ticker": "MSCI",
       "name": "MSCI Inc",
-      "percent": "0.369"
+      "percent": "0.372"
     },
     {
       "ticker": "CMG",
       "name": "Chipotle Mexican Grill Inc",
-      "percent": "0.367"
+      "percent": "0.370"
     },
     {
       "ticker": "A",
       "name": "Agilent Technologies Inc",
-      "percent": "0.353"
+      "percent": "0.355"
     },
     {
       "ticker": "CDNS",
       "name": "Cadence Design Systems Inc",
-      "percent": "0.349"
+      "percent": "0.353"
     },
     {
       "ticker": "ANSS",
       "name": "ANSYS Inc",
-      "percent": "0.347"
+      "percent": "0.350"
     },
     {
       "ticker": "GIS",
@@ -301,24 +301,29 @@
       "percent": "0.336"
     },
     {
+      "ticker": "SWKS",
+      "name": "Skyworks Solutions Inc",
+      "percent": "0.328"
+    },
+    {
       "ticker": "FAST",
       "name": "Fastenal Co",
       "percent": "0.326"
     },
     {
-      "ticker": "SWKS",
-      "name": "Skyworks Solutions Inc",
-      "percent": "0.325"
-    },
-    {
       "ticker": "KLAC",
       "name": "KLA Corp",
-      "percent": "0.314"
+      "percent": "0.311"
     },
     {
       "ticker": "RMD",
       "name": "ResMed Inc",
-      "percent": "0.305"
+      "percent": "0.308"
+    },
+    {
+      "ticker": "ODFL",
+      "name": "Old Dominion Freight Line Inc",
+      "percent": "0.278"
     },
     {
       "ticker": "SBAC",
@@ -326,14 +331,9 @@
       "percent": "0.276"
     },
     {
-      "ticker": "ODFL",
-      "name": "Old Dominion Freight Line Inc",
-      "percent": "0.272"
-    },
-    {
       "ticker": "PCAR",
       "name": "PACCAR Inc",
-      "percent": "0.261"
+      "percent": "0.265"
     },
     {
       "ticker": "VRSK",
@@ -343,82 +343,82 @@
     {
       "ticker": "ROK",
       "name": "Rockwell Automation Inc",
-      "percent": "0.247"
+      "percent": "0.250"
     },
     {
       "ticker": "AWK",
       "name": "American Water Works Co Inc",
-      "percent": "0.238"
+      "percent": "0.240"
     },
     {
       "ticker": "DHI",
       "name": "DR Horton Inc",
-      "percent": "0.236"
-    },
-    {
-      "ticker": "CTXS",
-      "name": "Citrix Systems Inc",
-      "percent": "0.231"
+      "percent": "0.240"
     },
     {
       "ticker": "MKTX",
       "name": "MarketAxess Holdings Inc",
-      "percent": "0.229"
+      "percent": "0.230"
+    },
+    {
+      "ticker": "CTXS",
+      "name": "Citrix Systems Inc",
+      "percent": "0.228"
+    },
+    {
+      "ticker": "NLOK",
+      "name": "NortonLifeLock Inc",
+      "percent": "0.227"
     },
     {
       "ticker": "CHD",
       "name": "Church & Dwight Co Inc",
+      "percent": "0.227"
+    },
+    {
+      "ticker": "TYL",
+      "name": "Tyler Technologies Inc",
       "percent": "0.226"
     },
     {
       "ticker": "INFO",
       "name": "IHS Markit Ltd",
-      "percent": "0.224"
-    },
-    {
-      "ticker": "TYL",
-      "name": "Tyler Technologies Inc",
-      "percent": "0.223"
-    },
-    {
-      "ticker": "NLOK",
-      "name": "NortonLifeLock Inc",
-      "percent": "0.222"
+      "percent": "0.226"
     },
     {
       "ticker": "FTNT",
       "name": "Fortinet Inc",
-      "percent": "0.219"
+      "percent": "0.221"
     },
     {
       "ticker": "LEN",
       "name": "Lennar Corp",
-      "percent": "0.207"
+      "percent": "0.210"
     },
     {
       "ticker": "DPZ",
       "name": "Domino's Pizza Inc",
-      "percent": "0.204"
+      "percent": "0.203"
     },
     {
       "ticker": "QRVO",
       "name": "Qorvo Inc",
-      "percent": "0.191"
+      "percent": "0.193"
     },
     {
       "ticker": "BIO",
       "name": "Bio-Rad Laboratories Inc",
-      "percent": "0.178"
+      "percent": "0.177"
     },
     {
       "ticker": "TTWO",
       "name": "Take-Two Interactive Software Inc",
-      "percent": "0.176"
+      "percent": "0.177"
     },
     {
       "ticker": "CAG",
       "name": "Conagra Brands Inc",
-      "percent": "0.169"
+      "percent": "0.170"
     },
     {
       "ticker": "TSCO",
@@ -426,39 +426,39 @@
       "percent": "0.167"
     },
     {
-      "ticker": "AKAM",
-      "name": "Akamai Technologies Inc",
-      "percent": "0.162"
+      "ticker": "KSU",
+      "name": "Kansas City Southern",
+      "percent": "0.161"
     },
     {
       "ticker": "HOLX",
       "name": "Hologic Inc",
-      "percent": "0.162"
+      "percent": "0.161"
     },
     {
-      "ticker": "KSU",
-      "name": "Kansas City Southern",
-      "percent": "0.158"
+      "ticker": "AKAM",
+      "name": "Akamai Technologies Inc",
+      "percent": "0.160"
     },
     {
       "ticker": "MAS",
       "name": "Masco Corp",
-      "percent": "0.156"
+      "percent": "0.158"
     },
     {
       "ticker": "PKI",
       "name": "PerkinElmer Inc",
-      "percent": "0.152"
+      "percent": "0.150"
     },
     {
       "ticker": "NDAQ",
       "name": "Nasdaq Inc",
-      "percent": "0.143"
+      "percent": "0.145"
     },
     {
       "ticker": "K",
       "name": "Kellogg Co",
-      "percent": "0.140"
+      "percent": "0.141"
     },
     {
       "ticker": "HRL",
@@ -468,22 +468,22 @@
     {
       "ticker": "DGX",
       "name": "Quest Diagnostics Inc",
-      "percent": "0.130"
+      "percent": "0.131"
     },
     {
       "ticker": "GRMN",
       "name": "Garmin Ltd",
-      "percent": "0.128"
+      "percent": "0.129"
     },
     {
       "ticker": "ROL",
       "name": "Rollins Inc",
-      "percent": "0.127"
+      "percent": "0.129"
     },
     {
       "ticker": "BF/B",
       "name": "Brown-Forman Corp",
-      "percent": "0.119"
+      "percent": "0.120"
     },
     {
       "ticker": "JKHY",
@@ -493,7 +493,7 @@
     {
       "ticker": "FBHS",
       "name": "Fortune Brands Home & Security Inc",
-      "percent": "0.104"
+      "percent": "0.105"
     },
     {
       "ticker": "PHM",
@@ -503,7 +503,12 @@
     {
       "ticker": "JBHT",
       "name": "JB Hunt Transport Services Inc",
-      "percent": "0.094"
+      "percent": "0.096"
+    },
+    {
+      "ticker": "DVA",
+      "name": "DaVita Inc",
+      "percent": "0.079"
     },
     {
       "ticker": "CPB",
@@ -511,14 +516,9 @@
       "percent": "0.078"
     },
     {
-      "ticker": "DVA",
-      "name": "DaVita Inc",
-      "percent": "0.078"
-    },
-    {
       "ticker": "AGPXX",
       "name": "STIT - Government & Agency Portfolio",
-      "percent": "0.007"
+      "percent": "0.009"
     }
   ]
 }

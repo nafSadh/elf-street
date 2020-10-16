@@ -38,6 +38,11 @@ const infer = {
     const tkr = _.toLower(etf.ticker)
     return {
       issuer: 'SSGA',
+      website:
+        'https://www.ssga.com/us/en/individual/etfs/funds/' +
+        _.toLower(etf.name.replace(/[^0-9a-z\s]/gi, '').replace(/ /g, '-')) +
+        '-' +
+        tkr,
       holdingDataSource: {
         fileUrl:
           'https://www.ssga.com/us/en/individual/etfs/library-content/products/fund-data/etfs/us/holdings-daily-us-en-' +
@@ -191,7 +196,7 @@ for (const etf of etfMetadata.ETFs) {
     const filepath =
       './data/download/' + etf.ticker + '.' + etf.holdingDataSource.fileExt
     const jsonpath = './static/etf/' + etf.ticker + '.json'
-    if (fs.existsSync(jsonpath)) {
+    if (false && fs.existsSync(jsonpath)) {
       continue
     } else if (etf.holdings) {
       fs.writeFileSync(jsonpath, JSON.stringify(etf, null, 2))

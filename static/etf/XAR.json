@@ -13,6 +13,7 @@
   "Primary Index Ticker": "SPSIADTR",
   "infer": "spdr",
   "issuer": "SSGA",
+  "website": "https://www.ssga.com/us/en/individual/etfs/funds/spdr-sp-aerospace--defense-etf-xar",
   "holdingDataSource": {
     "fileUrl": "https://www.ssga.com/us/en/individual/etfs/library-content/products/fund-data/etfs/us/holdings-daily-us-en-xar.xlsx",
     "fileExt": "xlsx",
@@ -20,179 +21,179 @@
   },
   "holdings": [
     {
+      "ticker": "CUB",
+      "name": "Cubic Corporation",
+      "percent": "4.685504"
+    },
+    {
       "ticker": "SPCE",
       "name": "Virgin Galactic Holdings Inc",
-      "percent": "4.669487"
+      "percent": "4.549429"
     },
     {
       "ticker": "MAXR",
       "name": "Maxar Technologies Inc.",
-      "percent": "4.613744"
-    },
-    {
-      "ticker": "CUB",
-      "name": "Cubic Corporation",
-      "percent": "4.550327"
+      "percent": "4.540751"
     },
     {
       "ticker": "AAXN",
       "name": "Axon Enterprise Inc",
-      "percent": "4.299259"
+      "percent": "4.269091"
     },
     {
       "ticker": "MRCY",
       "name": "Mercury Systems Inc.",
-      "percent": "4.090215"
+      "percent": "4.091688"
     },
     {
       "ticker": "KTOS",
       "name": "Kratos Defense & Security Solutions Inc.",
-      "percent": "3.726630"
+      "percent": "3.721377"
     },
     {
       "ticker": "BWXT",
       "name": "BWX Technologies Inc.",
-      "percent": "3.629557"
+      "percent": "3.670836"
     },
     {
       "ticker": "TDY",
       "name": "Teledyne Technologies Incorporated",
-      "percent": "3.622277"
-    },
-    {
-      "ticker": "BA",
-      "name": "Boeing Company",
-      "percent": "3.587628"
-    },
-    {
-      "ticker": "CW",
-      "name": "Curtiss-Wright Corporation",
-      "percent": "3.574062"
-    },
-    {
-      "ticker": "AJRD",
-      "name": "Aerojet Rocketdyne Holdings Inc.",
-      "percent": "3.573646"
+      "percent": "3.641705"
     },
     {
       "ticker": "HII",
       "name": "Huntington Ingalls Industries Inc.",
-      "percent": "3.570805"
-    },
-    {
-      "ticker": "HEI",
-      "name": "HEICO Corporation",
-      "percent": "3.558519"
+      "percent": "3.630840"
     },
     {
       "ticker": "HWM",
       "name": "Howmet Aerospace Inc.",
-      "percent": "3.555437"
+      "percent": "3.623332"
+    },
+    {
+      "ticker": "BA",
+      "name": "Boeing Company",
+      "percent": "3.598289"
+    },
+    {
+      "ticker": "CW",
+      "name": "Curtiss-Wright Corporation",
+      "percent": "3.572869"
+    },
+    {
+      "ticker": "HEI",
+      "name": "HEICO Corporation",
+      "percent": "3.557029"
     },
     {
       "ticker": "LMT",
       "name": "Lockheed Martin Corporation",
-      "percent": "3.541214"
+      "percent": "3.543872"
     },
     {
-      "ticker": "GD",
-      "name": "General Dynamics Corporation",
-      "percent": "3.493889"
+      "ticker": "AJRD",
+      "name": "Aerojet Rocketdyne Holdings Inc.",
+      "percent": "3.520637"
     },
     {
       "ticker": "RTX",
       "name": "Raytheon Technologies Corporation",
-      "percent": "3.479396"
+      "percent": "3.490682"
+    },
+    {
+      "ticker": "GD",
+      "name": "General Dynamics Corporation",
+      "percent": "3.472161"
     },
     {
       "ticker": "LHX",
       "name": "L3Harris Technologies Inc",
-      "percent": "3.415760"
-    },
-    {
-      "ticker": "SPR",
-      "name": "Spirit AeroSystems Holdings Inc. Class A",
-      "percent": "3.373707"
+      "percent": "3.440676"
     },
     {
       "ticker": "TDG",
       "name": "TransDigm Group Incorporated",
-      "percent": "3.318063"
+      "percent": "3.377681"
     },
     {
-      "ticker": "TXT",
-      "name": "Textron Inc.",
-      "percent": "3.293792"
-    },
-    {
-      "ticker": "HXL",
-      "name": "Hexcel Corporation",
-      "percent": "3.283966"
+      "ticker": "SPR",
+      "name": "Spirit AeroSystems Holdings Inc. Class A",
+      "percent": "3.344722"
     },
     {
       "ticker": "NOC",
       "name": "Northrop Grumman Corporation",
-      "percent": "3.270692"
+      "percent": "3.282185"
+    },
+    {
+      "ticker": "TXT",
+      "name": "Textron Inc.",
+      "percent": "3.281320"
+    },
+    {
+      "ticker": "HXL",
+      "name": "Hexcel Corporation",
+      "percent": "3.263306"
     },
     {
       "ticker": "AVAV",
       "name": "AeroVironment Inc.",
-      "percent": "2.879572"
+      "percent": "2.875894"
     },
     {
       "ticker": "TGI",
       "name": "Triumph Group Inc.",
-      "percent": "2.865391"
+      "percent": "2.858803"
     },
     {
       "ticker": "MOG.A",
       "name": "Moog Inc. Class A",
-      "percent": "1.969953"
+      "percent": "1.978125"
     },
     {
       "ticker": "PSN",
       "name": "Parsons Corporation",
-      "percent": "1.906991"
+      "percent": "1.882191"
     },
     {
       "ticker": "AIR",
       "name": "AAR CORP.",
-      "percent": "1.528211"
+      "percent": "1.507147"
     },
     {
       "ticker": "KAMN",
       "name": "Kaman Corporation Class A",
-      "percent": "1.352226"
+      "percent": "1.352583"
     },
     {
       "ticker": "PAE",
       "name": "PAE Incorporated Class A",
-      "percent": "0.797666"
+      "percent": "0.778585"
     },
     {
       "ticker": "VEC",
       "name": "Vectrus Inc",
-      "percent": "0.695646"
+      "percent": "0.695099"
     },
     {
       "ticker": "DCO",
       "name": "Ducommun Incorporated",
-      "percent": "0.464580"
+      "percent": "0.460693"
     },
     {
       "ticker": "NPK",
       "name": "National Presto Industries Inc.",
-      "percent": "0.402270"
+      "percent": "0.395534"
     },
     {
       "ticker": "70286227",
       "name": "STATE STREET INSTITUTIONAL LIQ STATE STR",
-      "percent": "0.045485"
+      "percent": "0.045350"
     },
     {
       "ticker": "CASH_USD",
       "name": "U.S. Dollar",
-      "percent": "-0.000050"
+      "percent": "0.000014"
     },
     {
       "name": "Performance quoted represents past performance, which is no guarantee of future results. Investment return and principal value will fluctuate, so you may have a gain or loss when shares are sold. Current performance may be higher or lower than that quoted. Visit www.ssga.com for most recent month-end performance."

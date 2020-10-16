@@ -13,37 +13,42 @@
     {
       "ticker": "TSLA",
       "name": "TESLA INC",
-      "percent": 10.28
+      "percent": 10.14
     },
     {
       "ticker": "ROKU",
       "name": "ROKU INC",
-      "percent": 7.26
+      "percent": 6.74
     },
     {
       "ticker": "SQ",
       "name": "SQUARE INC - A",
-      "percent": 6.55
-    },
-    {
-      "ticker": "FB",
-      "name": "FACEBOOK INC-CLASS A",
-      "percent": 3.15
+      "percent": 6.32
     },
     {
       "ticker": "WORK",
       "name": "SLACK TECHNOLOGIES INC- CL A",
-      "percent": 3.02
+      "percent": 3.1
+    },
+    {
+      "ticker": "FB",
+      "name": "FACEBOOK INC-CLASS A",
+      "percent": 3.1
     },
     {
       "ticker": "PSTG",
       "name": "PURE STORAGE INC - CLASS A",
-      "percent": 2.92
+      "percent": 2.97
     },
     {
       "ticker": "PINS",
       "name": "PINTEREST INC- CLASS A",
-      "percent": 2.85
+      "percent": 2.87
+    },
+    {
+      "ticker": "TREE UW",
+      "name": "LENDINGTREE INC",
+      "percent": 2.73
     },
     {
       "ticker": "SPOT",
@@ -51,84 +56,79 @@
       "percent": 2.72
     },
     {
-      "ticker": "TREE UW",
-      "name": "LENDINGTREE INC",
-      "percent": 2.68
-    },
-    {
       "ticker": "PD",
       "name": "PAGERDUTY INC",
-      "percent": 2.66
+      "percent": 2.67
     },
     {
       "ticker": "TWLO",
       "name": "TWILIO INC - A",
-      "percent": 2.58
+      "percent": 2.54
     },
     {
       "ticker": "SE",
       "name": "SEA LTD-ADR",
-      "percent": 2.51
+      "percent": 2.52
     },
     {
       "ticker": "TWOU",
       "name": "2U INC",
-      "percent": 2.5
+      "percent": 2.37
     },
     {
       "ticker": "Z",
       "name": "ZILLOW GROUP INC - C",
+      "percent": 2.31
+    },
+    {
+      "ticker": "HUYA",
+      "name": "HUYA INC-ADR",
       "percent": 2.25
     },
     {
       "ticker": "TDOC",
       "name": "TELADOC HEALTH INC",
-      "percent": 2.25
+      "percent": 2.22
     },
     {
       "ticker": "TCEHY",
       "name": "TENCENT HOLDINGS LTD-UNS ADR",
-      "percent": 2.24
-    },
-    {
-      "ticker": "HUYA",
-      "name": "HUYA INC-ADR",
-      "percent": 2.23
+      "percent": 2.22
     },
     {
       "ticker": "SNAP",
       "name": "SNAP INC - A",
-      "percent": 2.08
+      "percent": 2.2
     },
     {
       "ticker": "VCYT",
       "name": "VERACYTE INC",
-      "percent": 2.07
+      "percent": 2.15
     },
     {
       "ticker": "GBTC",
       "name": "GRAYSCALE BITCOIN TRUST BTC",
-      "percent": 1.98
+      "percent": 2.03
     },
     {
       "ticker": "AMZN",
       "name": "AMAZON.COM INC",
-      "percent": 1.86
-    },
-    {
-      "ticker": "SPLK",
-      "name": "SPLUNK INC",
-      "percent": 1.8
+      "percent": 1.84
     },
     {
       "ticker": "MELI",
       "name": "MERCADOLIBRE INC",
-      "percent": 1.77
+      "percent": 1.79
+    },
+    {
+      "ticker": "SPLK",
+      "name": "SPLUNK INC",
+      "percent": 1.74
     },
     {
       "ticker": "BABA",
       "name": "ALIBABA GROUP HOLDING-SP ADR",
-      "percent": 1.73
+      "percent": 1.71
     },
     {
       "ticker": "NFLX",
@@ -138,32 +138,27 @@
     {
       "ticker": "ICE",
       "name": "INTERCONTINENTAL EXCHANGE IN",
-      "percent": 1.59
+      "percent": 1.61
     },
     {
       "ticker": "TTD",
       "name": "TRADE DESK INC/THE -CLASS A",
-      "percent": 1.58
-    },
-    {
-      "ticker": "CRWD",
-      "name": "CROWDSTRIKE HOLDINGS INC - A",
-      "percent": 1.33
+      "percent": 1.49
     },
     {
       "ticker": "IPOB",
       "name": "SOCIAL CAPITAL HEDOSOPHIA-A",
-      "percent": 1.32
+      "percent": 1.34
+    },
+    {
+      "ticker": "CRWD",
+      "name": "CROWDSTRIKE HOLDINGS INC - A",
+      "percent": 1.29
     },
     {
       "ticker": "HUBS",
       "name": "HUBSPOT INC",
       "percent": 1.18
-    },
-    {
-      "ticker": "XLNX",
-      "name": "XILINX INC",
-      "percent": 1.15
     },
     {
       "ticker": "TSM",
@@ -176,18 +171,18 @@
       "percent": 1.1
     },
     {
+      "ticker": "OKTA",
+      "name": "OKTA INC",
+      "percent": 1.05
+    },
+    {
       "ticker": "ADYEY",
       "name": "ADYEN NV-UNSPON ADR",
-      "percent": 1.04
+      "percent": 1.03
     },
     {
       "ticker": "NVDA",
       "name": "NVIDIA CORP",
-      "percent": 1.03
-    },
-    {
-      "ticker": "OKTA",
-      "name": "OKTA INC",
       "percent": 1.03
     },
     {
@@ -196,69 +191,89 @@
       "percent": 1.01
     },
     {
+      "ticker": "DOCU",
+      "name": "DOCUSIGN INC",
+      "percent": 1
+    },
+    {
+      "ticker": "U",
+      "name": "UNITY SOFTWARE INC",
+      "percent": 0.99
+    },
+    {
+      "ticker": "TEAM",
+      "name": "ATLASSIAN CORP PLC-CLASS A",
+      "percent": 0.98
+    },
+    {
       "ticker": "NTDOY",
       "name": "NINTENDO CO LTD-UNSPONS ADR",
       "percent": 0.98
     },
     {
-      "ticker": "U",
-      "name": "UNITY SOFTWARE INC",
-      "percent": 0.98
-    },
-    {
-      "ticker": "DOCU",
-      "name": "DOCUSIGN INC",
+      "ticker": "SNPS",
+      "name": "SYNOPSYS INC",
       "percent": 0.97
     },
     {
-      "ticker": "TEAM",
-      "name": "ATLASSIAN CORP PLC-CLASS A",
+      "ticker": "ZM",
+      "name": "ZOOM VIDEO COMMUNICATIONS-A",
       "percent": 0.97
     },
     {
       "ticker": "ADBE",
       "name": "ADOBE INC",
-      "percent": 0.96
-    },
-    {
-      "ticker": "LC",
-      "name": "LENDINGCLUB CORP",
-      "percent": 0.96
-    },
-    {
-      "ticker": "SNPS",
-      "name": "SYNOPSYS INC",
       "percent": 0.95
     },
     {
       "ticker": "JD",
       "name": "JD.COM INC-ADR",
-      "percent": 0.94
+      "percent": 0.93
+    },
+    {
+      "ticker": "FSLY",
+      "name": "FASTLY INC - CLASS A",
+      "percent": 0.91
+    },
+    {
+      "ticker": "LC",
+      "name": "LENDINGCLUB CORP",
+      "percent": 0.84
+    },
+    {
+      "ticker": "XLNX",
+      "name": "XILINX INC",
+      "percent": 0.64
     },
     {
       "ticker": "NET",
       "name": "CLOUDFLARE INC - CLASS A",
-      "percent": 0.53
+      "percent": 0.54
     },
     {
       "ticker": "ZS",
       "name": "ZSCALER INC",
-      "percent": 0.52
-    },
-    {
-      "ticker": "CRM",
-      "name": "SALESFORCE.COM INC",
-      "percent": 0.45
+      "percent": 0.53
     },
     {
       "ticker": "WIX",
       "name": "WIX.COM LTD",
-      "percent": 0.45
+      "percent": 0.44
     },
     {
       "ticker": "",
       "name": "MORGAN STANLEY GOVT INSTL 8035",
-      "percent": 0.25
+      "percent": 0.15
+    },
+    {
+      "ticker": "PLTR",
+      "name": "PALANTIR TECHNOLOGIES INC-A",
+      "percent": 0.01
+    },
+    {
+      "ticker": "CRM",
+      "name": "SALESFORCE.COM INC",
+      "percent": 0.01
     }
   ]
 }

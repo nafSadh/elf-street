@@ -33,7 +33,7 @@
     {
       "ticker": "46187BAC7",
       "name": "Invitation Homes 2017-SFR2 Trust",
-      "percent": "1.24"
+      "percent": "1.23"
     },
     {
       "ticker": "3137G0QQ5",
@@ -66,19 +66,19 @@
       "percent": "1.10"
     },
     {
-      "ticker": "747525AS2",
-      "name": "QUALCOMM Inc",
-      "percent": "1.10"
-    },
-    {
       "ticker": "816851BB4",
       "name": "Sempra Energy",
       "percent": "1.10"
     },
     {
+      "ticker": "747525AS2",
+      "name": "QUALCOMM Inc",
+      "percent": "1.09"
+    },
+    {
       "ticker": "125523AC4",
       "name": "Cigna Corp",
-      "percent": "1.01"
+      "percent": "1.00"
     },
     {
       "ticker": "25755TAF7",
@@ -121,6 +121,11 @@
       "percent": "0.95"
     },
     {
+      "ticker": "3137G0UD9",
+      "name": "Freddie Mac Structured Agency Credit Risk Debt Notes",
+      "percent": "0.94"
+    },
+    {
       "ticker": "87236YAG3",
       "name": "TD Ameritrade Holding Corp",
       "percent": "0.93"
@@ -128,11 +133,6 @@
     {
       "ticker": "075887BU2",
       "name": "Becton Dickinson and Co",
-      "percent": "0.93"
-    },
-    {
-      "ticker": "3137G0UD9",
-      "name": "Freddie Mac Structured Agency Credit Risk Debt Notes",
       "percent": "0.93"
     },
     {
@@ -328,7 +328,7 @@
     {
       "ticker": "65557CAZ6",
       "name": "Nordea Bank Abp",
-      "percent": "0.66"
+      "percent": "0.65"
     },
     {
       "ticker": "55261FAK0",
@@ -408,7 +408,7 @@
     {
       "ticker": "48127FAA1",
       "name": "JPMorgan Chase & Co",
-      "percent": "0.51"
+      "percent": "0.52"
     },
     {
       "ticker": "12653BAG5",
@@ -801,6 +801,11 @@
       "percent": "0.09"
     },
     {
+      "ticker": "AGPXX",
+      "name": "STIT - Government & Agency Portfolio",
+      "percent": "0.09"
+    },
+    {
       "ticker": "3136ART24",
       "name": "Fannie Mae REMICS",
       "percent": "0.09"
@@ -838,11 +843,6 @@
     {
       "ticker": "07384MYW6",
       "name": "Bear Stearns ARM Trust 2003-7",
-      "percent": "0.05"
-    },
-    {
-      "ticker": "-CASH-",
-      "name": "Cash/Receivables/Payables",
       "percent": "0.05"
     },
     {
@@ -886,11 +886,6 @@
       "percent": "0.02"
     },
     {
-      "ticker": "AGPXX",
-      "name": "STIT - Government & Agency Portfolio",
-      "percent": "0.01"
-    },
-    {
       "ticker": "3136A2TW3",
       "name": "Fannie Mae REMICS",
       "percent": "0.01"
@@ -909,6 +904,11 @@
       "ticker": "95001PAG8",
       "name": "Wells Fargo Commercial Mortgage Trust 2018-BXI",
       "percent": "0.00"
+    },
+    {
+      "ticker": "-CASH-",
+      "name": "Cash/Receivables/Payables",
+      "percent": "-0.01"
     }
   ]
 }

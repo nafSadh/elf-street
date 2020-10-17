@@ -1,21 +1,11 @@
 {
-  "name": "QQQ Trust",
-  "ticker": "QQQ",
-  "Inception": "3/10/1999",
-  "Gross Exp. Ratio": "0.20%",
-  "YTD": "31.5",
-  "1Yr": "48.44",
-  "3Yr": "25.1",
-  "5Yr": "23.37",
-  "10Yr": "20.17",
-  "Since Incept.": "8.88",
-  "Category": "Bulk Beta",
-  "SubCategory": "NASDAQ",
+  "name": "Invesco NASDAQ 100 ETF",
+  "ticker": "QQQM",
   "infer": "invesco",
   "issuer": "Invesco",
-  "website": "https://www.invesco.com/us/financial-products/etfs/product-detail?audienceType=Investor&ticker=QQQ",
+  "website": "https://www.invesco.com/us/financial-products/etfs/product-detail?audienceType=Investor&ticker=QQQM",
   "holdingDataSource": {
-    "url": "https://www.invesco.com/us/financial-products/etfs/holdings/main/holdings/0?audienceType=Investor&action=download&ticker=QQQ",
+    "url": "https://www.invesco.com/us/financial-products/etfs/holdings/main/holdings/0?audienceType=Investor&action=download&ticker=QQQM",
     "fileExt": "csv",
     "transform": "invesco"
   },
@@ -28,7 +18,7 @@
     {
       "ticker": "AMZN",
       "name": "Amazon.com Inc",
-      "percent": "10.872"
+      "percent": "10.873"
     },
     {
       "ticker": "MSFT",
@@ -43,7 +33,7 @@
     {
       "ticker": "GOOGL",
       "name": "Alphabet Inc",
-      "percent": "3.487"
+      "percent": "3.486"
     },
     {
       "ticker": "TSLA",
@@ -123,7 +113,7 @@
     {
       "ticker": "AMGN",
       "name": "Amgen Inc",
-      "percent": "1.142"
+      "percent": "1.141"
     },
     {
       "ticker": "CHTR",
@@ -148,7 +138,7 @@
     {
       "ticker": "INTU",
       "name": "Intuit Inc",
-      "percent": "0.743"
+      "percent": "0.742"
     },
     {
       "ticker": "ISRG",
@@ -228,7 +218,7 @@
     {
       "ticker": "LRCX",
       "name": "Lam Research Corp",
-      "percent": "0.454"
+      "percent": "0.453"
     },
     {
       "ticker": "ILMN",
@@ -253,7 +243,7 @@
     {
       "ticker": "LULU",
       "name": "Lululemon Athletica Inc",
-      "percent": "0.364"
+      "percent": "0.365"
     },
     {
       "ticker": "MNST",
@@ -296,13 +286,13 @@
       "percent": "0.317"
     },
     {
-      "ticker": "EA",
-      "name": "Electronic Arts Inc",
+      "ticker": "XEL",
+      "name": "Xcel Energy Inc",
       "percent": "0.315"
     },
     {
-      "ticker": "XEL",
-      "name": "Xcel Energy Inc",
+      "ticker": "EA",
+      "name": "Electronic Arts Inc",
       "percent": "0.315"
     },
     {
@@ -534,6 +524,11 @@
       "ticker": "LBTYA",
       "name": "Liberty Global PLC",
       "percent": "0.033"
+    },
+    {
+      "ticker": "-CASH-",
+      "name": "Cash/Receivables/Payables",
+      "percent": "0.000"
     }
   ]
 }

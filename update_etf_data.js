@@ -39,6 +39,9 @@ const infer = {
     return {
       issuer: 'SSGA',
       website:
+        // etf name formatted to lower-case-kabab-case,
+        // stripping of non alphamerics
+        // appending ticker name to end
         'https://www.ssga.com/us/en/individual/etfs/funds/' +
         _.toLower(etf.name.replace(/[^0-9a-z\s]/gi, '').replace(/ /g, '-')) +
         '-' +

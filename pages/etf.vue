@@ -28,7 +28,7 @@
       <!-- Provides the application the proper gutter -->
       <v-container>
         <v-toolbar outlined tile>
-          <v-toolbar-title>ETF (A)</v-toolbar-title>
+          <v-toolbar-title>ETF</v-toolbar-title>
           <v-autocomplete
             filled
             dense
@@ -45,9 +45,11 @@
         <v-card outlined tile>
           <v-card-title> {{ etf.name }} </v-card-title>
           <v-card-text>
-            <p>Issuer: {{ etf.issuer }}</p>
-            <p v-if="etf.website">
-              website: <a :href="etf.website">{{ etf.website }}</a>
+            <p>
+              Issuer: {{ etf.issuer }}
+              <span v-if="etf.website">
+                (<a :href="etf.website" target="_blank">website</a>)
+              </span>
             </p>
             <p v-for="field of overviewProps" :key="field">
               {{ field }} : {{ etf[field] }}

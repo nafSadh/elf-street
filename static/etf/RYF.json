@@ -1,17 +1,17 @@
 {
-  "name": "S&P 500® Equal Weight Financials ETF",
-  "ticker": "RYF",
-  "Inception": "11/1/2006",
+  "Products": "S&P 500® Equal Weight Financials ETF",
+  "Ticker": "RYF",
+  "Inception": "11/01/2006",
   "Gross Exp. Ratio": "0.40%",
-  "YTD": "-16.9",
-  "1Yr": "-10.3",
+  "YTD": "-16.90",
+  "1Yr": "-10.30",
   "3Yr": "-0.42",
   "5Yr": "7.74",
-  "10Yr": "10.2",
+  "10Yr": "10.20",
   "Since Incept.": "2.76",
   "Category": "SP Factor",
   "SubCategory": "Equal Weight Sectors",
-  "infer": "invesco",
+  "ticker": "RYF",
   "issuer": "Invesco",
   "website": "https://www.invesco.com/us/financial-products/etfs/product-detail?audienceType=Investor&ticker=RYF",
   "holdingDataSource": {
@@ -23,277 +23,267 @@
     {
       "ticker": "IVZ",
       "name": "Invesco Ltd",
-      "percent": "1.959"
+      "percent": "1.931"
     },
     {
       "ticker": "BLK",
       "name": "BlackRock Inc",
-      "percent": "1.760"
-    },
-    {
-      "ticker": "MKTX",
-      "name": "MarketAxess Holdings Inc",
-      "percent": "1.758"
+      "percent": "1.790"
     },
     {
       "ticker": "DFS",
       "name": "Discover Financial Services",
-      "percent": "1.739"
+      "percent": "1.763"
+    },
+    {
+      "ticker": "MKTX",
+      "name": "MarketAxess Holdings Inc",
+      "percent": "1.750"
     },
     {
       "ticker": "FRC",
       "name": "First Republic Bank/CA",
-      "percent": "1.730"
+      "percent": "1.747"
     },
     {
       "ticker": "TROW",
       "name": "T Rowe Price Group Inc",
-      "percent": "1.722"
+      "percent": "1.723"
     },
     {
       "ticker": "BEN",
       "name": "Franklin Resources Inc",
-      "percent": "1.721"
+      "percent": "1.711"
     },
     {
       "ticker": "SYF",
       "name": "Synchrony Financial",
-      "percent": "1.663"
+      "percent": "1.679"
     },
     {
       "ticker": "AMP",
       "name": "Ameriprise Financial Inc",
-      "percent": "1.657"
-    },
-    {
-      "ticker": "FITB",
-      "name": "Fifth Third Bancorp",
-      "percent": "1.639"
-    },
-    {
-      "ticker": "SCHW",
-      "name": "Charles Schwab Corp/The",
-      "percent": "1.632"
+      "percent": "1.647"
     },
     {
       "ticker": "COF",
       "name": "Capital One Financial Corp",
-      "percent": "1.629"
+      "percent": "1.643"
     },
     {
-      "ticker": "TFC",
-      "name": "Truist Financial Corp",
-      "percent": "1.623"
+      "ticker": "SCHW",
+      "name": "Charles Schwab Corp/The",
+      "percent": "1.643"
+    },
+    {
+      "ticker": "FITB",
+      "name": "Fifth Third Bancorp",
+      "percent": "1.629"
     },
     {
       "ticker": "SIVB",
       "name": "SVB Financial Group",
-      "percent": "1.621"
+      "percent": "1.620"
     },
     {
       "ticker": "NTRS",
       "name": "Northern Trust Corp",
-      "percent": "1.606"
+      "percent": "1.613"
     },
     {
-      "ticker": "RF",
-      "name": "Regions Financial Corp",
-      "percent": "1.604"
+      "ticker": "TFC",
+      "name": "Truist Financial Corp",
+      "percent": "1.606"
     },
     {
       "ticker": "RJF",
       "name": "Raymond James Financial Inc",
-      "percent": "1.589"
+      "percent": "1.596"
     },
     {
-      "ticker": "USB",
-      "name": "US Bancorp",
-      "percent": "1.572"
+      "ticker": "RF",
+      "name": "Regions Financial Corp",
+      "percent": "1.596"
     },
     {
       "ticker": "MSCI",
       "name": "MSCI Inc",
-      "percent": "1.568"
+      "percent": "1.586"
     },
     {
       "ticker": "AJG",
       "name": "Arthur J Gallagher & Co",
-      "percent": "1.566"
+      "percent": "1.575"
+    },
+    {
+      "ticker": "USB",
+      "name": "US Bancorp",
+      "percent": "1.573"
     },
     {
       "ticker": "AIG",
       "name": "American International Group Inc",
-      "percent": "1.555"
-    },
-    {
-      "ticker": "AON",
-      "name": "Aon PLC",
-      "percent": "1.554"
-    },
-    {
-      "ticker": "CMA",
-      "name": "Comerica Inc",
-      "percent": "1.554"
-    },
-    {
-      "ticker": "KEY",
-      "name": "KeyCorp",
-      "percent": "1.547"
-    },
-    {
-      "ticker": "WLTW",
-      "name": "Willis Towers Watson PLC",
-      "percent": "1.546"
-    },
-    {
-      "ticker": "PBCT",
-      "name": "People's United Financial Inc",
-      "percent": "1.537"
-    },
-    {
-      "ticker": "ICE",
-      "name": "Intercontinental Exchange Inc",
-      "percent": "1.531"
-    },
-    {
-      "ticker": "GS",
-      "name": "Goldman Sachs Group Inc/The",
-      "percent": "1.530"
-    },
-    {
-      "ticker": "AIZ",
-      "name": "Assurant Inc",
-      "percent": "1.528"
+      "percent": "1.572"
     },
     {
       "ticker": "BK",
       "name": "Bank of New York Mellon Corp/The",
-      "percent": "1.524"
+      "percent": "1.557"
     },
     {
-      "ticker": "STT",
-      "name": "State Street Corp",
-      "percent": "1.517"
+      "ticker": "AON",
+      "name": "Aon PLC",
+      "percent": "1.555"
     },
     {
-      "ticker": "CFG",
-      "name": "Citizens Financial Group Inc",
-      "percent": "1.515"
+      "ticker": "CMA",
+      "name": "Comerica Inc",
+      "percent": "1.551"
     },
     {
-      "ticker": "PGR",
-      "name": "Progressive Corp/The",
-      "percent": "1.513"
+      "ticker": "WLTW",
+      "name": "Willis Towers Watson PLC",
+      "percent": "1.547"
     },
     {
-      "ticker": "CINF",
-      "name": "Cincinnati Financial Corp",
-      "percent": "1.510"
+      "ticker": "KEY",
+      "name": "KeyCorp",
+      "percent": "1.542"
+    },
+    {
+      "ticker": "AIZ",
+      "name": "Assurant Inc",
+      "percent": "1.533"
+    },
+    {
+      "ticker": "PBCT",
+      "name": "People's United Financial Inc",
+      "percent": "1.532"
+    },
+    {
+      "ticker": "ICE",
+      "name": "Intercontinental Exchange Inc",
+      "percent": "1.520"
     },
     {
       "ticker": "CME",
       "name": "CME Group Inc",
-      "percent": "1.509"
-    },
-    {
-      "ticker": "AFL",
-      "name": "Aflac Inc",
-      "percent": "1.508"
-    },
-    {
-      "ticker": "MET",
-      "name": "MetLife Inc",
-      "percent": "1.508"
-    },
-    {
-      "ticker": "NDAQ",
-      "name": "Nasdaq Inc",
-      "percent": "1.503"
-    },
-    {
-      "ticker": "MCO",
-      "name": "Moody's Corp",
-      "percent": "1.502"
-    },
-    {
-      "ticker": "UNM",
-      "name": "Unum Group",
-      "percent": "1.501"
+      "percent": "1.517"
     },
     {
       "ticker": "MS",
       "name": "Morgan Stanley",
-      "percent": "1.500"
+      "percent": "1.515"
+    },
+    {
+      "ticker": "MET",
+      "name": "MetLife Inc",
+      "percent": "1.514"
+    },
+    {
+      "ticker": "GS",
+      "name": "Goldman Sachs Group Inc/The",
+      "percent": "1.513"
+    },
+    {
+      "ticker": "STT",
+      "name": "State Street Corp",
+      "percent": "1.509"
+    },
+    {
+      "ticker": "NDAQ",
+      "name": "Nasdaq Inc",
+      "percent": "1.508"
+    },
+    {
+      "ticker": "AFL",
+      "name": "Aflac Inc",
+      "percent": "1.507"
+    },
+    {
+      "ticker": "CINF",
+      "name": "Cincinnati Financial Corp",
+      "percent": "1.506"
     },
     {
       "ticker": "GL",
       "name": "Globe Life Inc",
-      "percent": "1.496"
+      "percent": "1.503"
     },
     {
-      "ticker": "PFG",
-      "name": "Principal Financial Group Inc",
-      "percent": "1.490"
+      "ticker": "PGR",
+      "name": "Progressive Corp/The",
+      "percent": "1.498"
+    },
+    {
+      "ticker": "MCO",
+      "name": "Moody's Corp",
+      "percent": "1.495"
     },
     {
       "ticker": "L",
       "name": "Loews Corp",
-      "percent": "1.489"
+      "percent": "1.493"
     },
     {
       "ticker": "AXP",
       "name": "American Express Co",
-      "percent": "1.486"
+      "percent": "1.493"
     },
     {
-      "ticker": "JPM",
-      "name": "JPMorgan Chase & Co",
-      "percent": "1.481"
-    },
-    {
-      "ticker": "HBAN",
-      "name": "Huntington Bancshares Inc/OH",
-      "percent": "1.468"
-    },
-    {
-      "ticker": "SPGI",
-      "name": "S&P Global Inc",
-      "percent": "1.465"
-    },
-    {
-      "ticker": "CB",
-      "name": "Chubb Ltd",
-      "percent": "1.465"
-    },
-    {
-      "ticker": "MTB",
-      "name": "M&T Bank Corp",
-      "percent": "1.462"
-    },
-    {
-      "ticker": "TRV",
-      "name": "Travelers Cos Inc/The",
-      "percent": "1.461"
+      "ticker": "UNM",
+      "name": "Unum Group",
+      "percent": "1.488"
     },
     {
       "ticker": "PNC",
       "name": "PNC Financial Services Group Inc/The",
-      "percent": "1.458"
+      "percent": "1.484"
     },
     {
-      "ticker": "ZION",
-      "name": "Zions Bancorp NA",
-      "percent": "1.456"
+      "ticker": "JPM",
+      "name": "JPMorgan Chase & Co",
+      "percent": "1.478"
     },
     {
-      "ticker": "LNC",
-      "name": "Lincoln National Corp",
-      "percent": "1.454"
+      "ticker": "PFG",
+      "name": "Principal Financial Group Inc",
+      "percent": "1.477"
+    },
+    {
+      "ticker": "TRV",
+      "name": "Travelers Cos Inc/The",
+      "percent": "1.470"
+    },
+    {
+      "ticker": "HBAN",
+      "name": "Huntington Bancshares Inc/OH",
+      "percent": "1.470"
+    },
+    {
+      "ticker": "SPGI",
+      "name": "S&P Global Inc",
+      "percent": "1.469"
     },
     {
       "ticker": "MMC",
       "name": "Marsh & McLennan Cos Inc",
-      "percent": "1.453"
+      "percent": "1.461"
+    },
+    {
+      "ticker": "ZION",
+      "name": "Zions Bancorp NA",
+      "percent": "1.455"
+    },
+    {
+      "ticker": "CB",
+      "name": "Chubb Ltd",
+      "percent": "1.454"
+    },
+    {
+      "ticker": "ALL",
+      "name": "Allstate Corp/The",
+      "percent": "1.452"
     },
     {
       "ticker": "WRB",
@@ -301,49 +291,59 @@
       "percent": "1.452"
     },
     {
+      "ticker": "MTB",
+      "name": "M&T Bank Corp",
+      "percent": "1.449"
+    },
+    {
+      "ticker": "CFG",
+      "name": "Citizens Financial Group Inc",
+      "percent": "1.445"
+    },
+    {
+      "ticker": "LNC",
+      "name": "Lincoln National Corp",
+      "percent": "1.444"
+    },
+    {
       "ticker": "HIG",
       "name": "Hartford Financial Services Group Inc/The",
-      "percent": "1.440"
+      "percent": "1.436"
     },
     {
       "ticker": "RE",
       "name": "Everest Re Group Ltd",
-      "percent": "1.439"
-    },
-    {
-      "ticker": "ALL",
-      "name": "Allstate Corp/The",
-      "percent": "1.438"
+      "percent": "1.432"
     },
     {
       "ticker": "PRU",
       "name": "Prudential Financial Inc",
-      "percent": "1.437"
+      "percent": "1.431"
     },
     {
       "ticker": "BRK/B",
       "name": "Berkshire Hathaway Inc",
-      "percent": "1.429"
+      "percent": "1.431"
     },
     {
       "ticker": "BAC",
       "name": "Bank of America Corp",
-      "percent": "1.393"
-    },
-    {
-      "ticker": "WFC",
-      "name": "Wells Fargo & Co",
-      "percent": "1.392"
+      "percent": "1.399"
     },
     {
       "ticker": "CBOE",
       "name": "Cboe Global Markets Inc",
+      "percent": "1.389"
+    },
+    {
+      "ticker": "WFC",
+      "name": "Wells Fargo & Co",
       "percent": "1.387"
     },
     {
       "ticker": "C",
       "name": "Citigroup Inc",
-      "percent": "1.258"
+      "percent": "1.246"
     },
     {
       "ticker": "AGPXX",

@@ -1,17 +1,17 @@
 {
-  "name": "QQQ Trust",
-  "ticker": "QQQ",
-  "Inception": "3/10/1999",
+  "Products": "QQQ Trust",
+  "Ticker": "QQQ",
+  "Inception": "03/10/1999",
   "Gross Exp. Ratio": "0.20%",
-  "YTD": "31.5",
+  "YTD": "31.50",
   "1Yr": "48.44",
-  "3Yr": "25.1",
+  "3Yr": "25.10",
   "5Yr": "23.37",
   "10Yr": "20.17",
   "Since Incept.": "8.88",
   "Category": "Bulk Beta",
   "SubCategory": "NASDAQ",
-  "infer": "invesco",
+  "ticker": "QQQ",
   "issuer": "Invesco",
   "website": "https://www.invesco.com/us/financial-products/etfs/product-detail?audienceType=Investor&ticker=QQQ",
   "holdingDataSource": {
@@ -23,227 +23,222 @@
     {
       "ticker": "AAPL",
       "name": "Apple Inc",
-      "percent": "13.422"
-    },
-    {
-      "ticker": "AMZN",
-      "name": "Amazon.com Inc",
-      "percent": "10.872"
+      "percent": "13.252"
     },
     {
       "ticker": "MSFT",
       "name": "Microsoft Corp",
-      "percent": "10.807"
+      "percent": "10.822"
+    },
+    {
+      "ticker": "AMZN",
+      "name": "Amazon.com Inc",
+      "percent": "10.672"
     },
     {
       "ticker": "FB",
       "name": "Facebook Inc",
-      "percent": "4.169"
+      "percent": "4.163"
     },
     {
       "ticker": "GOOGL",
       "name": "Alphabet Inc",
-      "percent": "3.487"
-    },
-    {
-      "ticker": "TSLA",
-      "name": "Tesla Inc",
-      "percent": "3.469"
+      "percent": "3.519"
     },
     {
       "ticker": "GOOG",
       "name": "Alphabet Inc",
-      "percent": "3.382"
+      "percent": "3.417"
+    },
+    {
+      "ticker": "TSLA",
+      "name": "Tesla Inc",
+      "percent": "3.402"
     },
     {
       "ticker": "NVDA",
       "name": "NVIDIA Corp",
-      "percent": "2.859"
+      "percent": "2.831"
     },
     {
       "ticker": "ADBE",
       "name": "Adobe Inc",
-      "percent": "1.994"
-    },
-    {
-      "ticker": "NFLX",
-      "name": "Netflix Inc",
-      "percent": "1.982"
+      "percent": "2.003"
     },
     {
       "ticker": "PYPL",
       "name": "PayPal Holdings Inc",
-      "percent": "1.977"
+      "percent": "1.992"
+    },
+    {
+      "ticker": "NFLX",
+      "name": "Netflix Inc",
+      "percent": "1.944"
     },
     {
       "ticker": "INTC",
       "name": "Intel Corp",
-      "percent": "1.899"
+      "percent": "1.913"
     },
     {
       "ticker": "CMCSA",
       "name": "Comcast Corp",
-      "percent": "1.705"
+      "percent": "1.725"
     },
     {
       "ticker": "PEP",
       "name": "PepsiCo Inc",
-      "percent": "1.624"
+      "percent": "1.630"
     },
     {
       "ticker": "CSCO",
       "name": "Cisco Systems Inc",
-      "percent": "1.400"
+      "percent": "1.408"
     },
     {
       "ticker": "COST",
       "name": "Costco Wholesale Corp",
-      "percent": "1.379"
+      "percent": "1.399"
     },
     {
       "ticker": "AVGO",
       "name": "Broadcom Inc",
-      "percent": "1.260"
+      "percent": "1.257"
     },
     {
       "ticker": "QCOM",
       "name": "QUALCOMM Inc",
-      "percent": "1.203"
+      "percent": "1.209"
     },
     {
       "ticker": "TMUS",
       "name": "T-Mobile US Inc",
-      "percent": "1.184"
+      "percent": "1.182"
     },
     {
       "ticker": "TXN",
       "name": "Texas Instruments Inc",
-      "percent": "1.159"
+      "percent": "1.165"
     },
     {
       "ticker": "AMGN",
       "name": "Amgen Inc",
-      "percent": "1.142"
+      "percent": "1.147"
     },
     {
       "ticker": "CHTR",
       "name": "Charter Communications Inc",
-      "percent": "1.082"
+      "percent": "1.079"
     },
     {
       "ticker": "SBUX",
       "name": "Starbucks Corp",
-      "percent": "0.861"
+      "percent": "0.859"
     },
     {
       "ticker": "ZM",
       "name": "Zoom Video Communications Inc",
-      "percent": "0.810"
+      "percent": "0.845"
     },
     {
       "ticker": "AMD",
       "name": "Advanced Micro Devices Inc",
-      "percent": "0.809"
+      "percent": "0.811"
     },
     {
       "ticker": "INTU",
       "name": "Intuit Inc",
-      "percent": "0.743"
+      "percent": "0.742"
     },
     {
       "ticker": "ISRG",
       "name": "Intuitive Surgical Inc",
-      "percent": "0.719"
+      "percent": "0.732"
     },
     {
       "ticker": "MDLZ",
       "name": "Mondelez International Inc",
-      "percent": "0.691"
+      "percent": "0.688"
     },
     {
       "ticker": "GILD",
       "name": "Gilead Sciences Inc",
-      "percent": "0.655"
+      "percent": "0.646"
     },
     {
       "ticker": "JD",
       "name": "JD.com Inc ADR",
-      "percent": "0.611"
+      "percent": "0.621"
     },
     {
       "ticker": "BKNG",
       "name": "Booking Holdings Inc",
-      "percent": "0.578"
+      "percent": "0.567"
     },
     {
       "ticker": "FISV",
       "name": "Fiserv Inc",
-      "percent": "0.565"
+      "percent": "0.563"
     },
     {
       "ticker": "ADP",
       "name": "Automatic Data Processing Inc",
-      "percent": "0.526"
+      "percent": "0.530"
     },
     {
       "ticker": "MELI",
       "name": "MercadoLibre Inc",
-      "percent": "0.519"
-    },
-    {
-      "ticker": "ATVI",
-      "name": "Activision Blizzard Inc",
-      "percent": "0.514"
-    },
-    {
-      "ticker": "CSX",
-      "name": "CSX Corp",
-      "percent": "0.514"
+      "percent": "0.525"
     },
     {
       "ticker": "REGN",
       "name": "Regeneron Pharmaceuticals Inc",
-      "percent": "0.507"
+      "percent": "0.521"
+    },
+    {
+      "ticker": "ATVI",
+      "name": "Activision Blizzard Inc",
+      "percent": "0.517"
+    },
+    {
+      "ticker": "CSX",
+      "name": "CSX Corp",
+      "percent": "0.509"
     },
     {
       "ticker": "AMAT",
       "name": "Applied Materials Inc",
-      "percent": "0.481"
+      "percent": "0.478"
     },
     {
       "ticker": "MU",
       "name": "Micron Technology Inc",
-      "percent": "0.479"
-    },
-    {
-      "ticker": "VRTX",
-      "name": "Vertex Pharmaceuticals Inc",
-      "percent": "0.465"
+      "percent": "0.476"
     },
     {
       "ticker": "ADSK",
       "name": "Autodesk Inc",
-      "percent": "0.458"
+      "percent": "0.473"
+    },
+    {
+      "ticker": "VRTX",
+      "name": "Vertex Pharmaceuticals Inc",
+      "percent": "0.472"
     },
     {
       "ticker": "LRCX",
       "name": "Lam Research Corp",
-      "percent": "0.454"
+      "percent": "0.441"
     },
     {
       "ticker": "ILMN",
       "name": "Illumina Inc",
-      "percent": "0.392"
+      "percent": "0.396"
     },
     {
       "ticker": "ADI",
       "name": "Analog Devices Inc",
-      "percent": "0.380"
-    },
-    {
-      "ticker": "DOCU",
-      "name": "DocuSign Inc",
-      "percent": "0.369"
+      "percent": "0.379"
     },
     {
       "ticker": "BIIB",
@@ -253,27 +248,37 @@
     {
       "ticker": "LULU",
       "name": "Lululemon Athletica Inc",
-      "percent": "0.364"
+      "percent": "0.361"
+    },
+    {
+      "ticker": "DOCU",
+      "name": "DocuSign Inc",
+      "percent": "0.360"
     },
     {
       "ticker": "MNST",
       "name": "Monster Beverage Corp",
-      "percent": "0.356"
+      "percent": "0.354"
+    },
+    {
+      "ticker": "KDP",
+      "name": "Keurig Dr Pepper Inc",
+      "percent": "0.348"
     },
     {
       "ticker": "EXC",
       "name": "Exelon Corp",
-      "percent": "0.335"
+      "percent": "0.341"
     },
     {
       "ticker": "WDAY",
       "name": "Workday Inc",
-      "percent": "0.333"
+      "percent": "0.337"
     },
     {
       "ticker": "CTSH",
       "name": "Cognizant Technology Solutions Corp",
-      "percent": "0.332"
+      "percent": "0.330"
     },
     {
       "ticker": "KHC",
@@ -283,32 +288,32 @@
     {
       "ticker": "EBAY",
       "name": "eBay Inc",
-      "percent": "0.322"
+      "percent": "0.325"
     },
     {
       "ticker": "DXCM",
       "name": "DexCom Inc",
-      "percent": "0.317"
-    },
-    {
-      "ticker": "NXPI",
-      "name": "NXP Semiconductors NV",
-      "percent": "0.317"
-    },
-    {
-      "ticker": "EA",
-      "name": "Electronic Arts Inc",
-      "percent": "0.315"
+      "percent": "0.322"
     },
     {
       "ticker": "XEL",
       "name": "Xcel Energy Inc",
-      "percent": "0.315"
+      "percent": "0.319"
+    },
+    {
+      "ticker": "NXPI",
+      "name": "NXP Semiconductors NV",
+      "percent": "0.318"
+    },
+    {
+      "ticker": "EA",
+      "name": "Electronic Arts Inc",
+      "percent": "0.316"
     },
     {
       "ticker": "BIDU",
       "name": "Baidu Inc ADR",
-      "percent": "0.303"
+      "percent": "0.304"
     },
     {
       "ticker": "CTAS",
@@ -318,42 +323,42 @@
     {
       "ticker": "IDXX",
       "name": "IDEXX Laboratories Inc",
-      "percent": "0.298"
+      "percent": "0.299"
     },
     {
       "ticker": "SGEN",
       "name": "Seagen Inc",
-      "percent": "0.295"
+      "percent": "0.290"
     },
     {
       "ticker": "ORLY",
       "name": "O'Reilly Automotive Inc",
-      "percent": "0.288"
+      "percent": "0.287"
     },
     {
       "ticker": "SNPS",
       "name": "Synopsys Inc",
-      "percent": "0.287"
+      "percent": "0.285"
     },
     {
       "ticker": "ROST",
       "name": "Ross Stores Inc",
-      "percent": "0.284"
-    },
-    {
-      "ticker": "KLAC",
-      "name": "KLA Corp",
-      "percent": "0.275"
-    },
-    {
-      "ticker": "WBA",
-      "name": "Walgreens Boots Alliance Inc",
-      "percent": "0.270"
+      "percent": "0.281"
     },
     {
       "ticker": "SPLK",
       "name": "Splunk Inc",
-      "percent": "0.270"
+      "percent": "0.273"
+    },
+    {
+      "ticker": "WBA",
+      "name": "Walgreens Boots Alliance Inc",
+      "percent": "0.269"
+    },
+    {
+      "ticker": "KLAC",
+      "name": "KLA Corp",
+      "percent": "0.269"
     },
     {
       "ticker": "CDNS",
@@ -363,37 +368,32 @@
     {
       "ticker": "NTES",
       "name": "NetEase Inc ADR",
-      "percent": "0.263"
+      "percent": "0.264"
     },
     {
       "ticker": "MAR",
       "name": "Marriott International Inc/MD",
-      "percent": "0.261"
+      "percent": "0.263"
     },
     {
       "ticker": "VRSK",
       "name": "Verisk Analytics Inc",
-      "percent": "0.259"
+      "percent": "0.260"
     },
     {
       "ticker": "PCAR",
       "name": "PACCAR Inc",
-      "percent": "0.256"
-    },
-    {
-      "ticker": "ANSS",
-      "name": "ANSYS Inc",
-      "percent": "0.250"
+      "percent": "0.259"
     },
     {
       "ticker": "PAYX",
       "name": "Paychex Inc",
-      "percent": "0.248"
+      "percent": "0.249"
     },
     {
-      "ticker": "MRNA",
-      "name": "Moderna Inc",
-      "percent": "0.247"
+      "ticker": "ANSS",
+      "name": "ANSYS Inc",
+      "percent": "0.249"
     },
     {
       "ticker": "ASML",
@@ -401,24 +401,29 @@
       "percent": "0.245"
     },
     {
+      "ticker": "MRNA",
+      "name": "Moderna Inc",
+      "percent": "0.242"
+    },
+    {
       "ticker": "XLNX",
       "name": "Xilinx Inc",
-      "percent": "0.240"
+      "percent": "0.239"
     },
     {
       "ticker": "MCHP",
       "name": "Microchip Technology Inc",
-      "percent": "0.233"
+      "percent": "0.232"
     },
     {
       "ticker": "CPRT",
       "name": "Copart Inc",
-      "percent": "0.229"
+      "percent": "0.228"
     },
     {
       "ticker": "ALXN",
       "name": "Alexion Pharmaceuticals Inc",
-      "percent": "0.222"
+      "percent": "0.226"
     },
     {
       "ticker": "ALGN",
@@ -426,64 +431,64 @@
       "percent": "0.220"
     },
     {
+      "ticker": "FAST",
+      "name": "Fastenal Co",
+      "percent": "0.216"
+    },
+    {
       "ticker": "SWKS",
       "name": "Skyworks Solutions Inc",
       "percent": "0.212"
     },
     {
-      "ticker": "FAST",
-      "name": "Fastenal Co",
-      "percent": "0.212"
-    },
-    {
       "ticker": "SIRI",
       "name": "Sirius XM Holdings Inc",
-      "percent": "0.210"
-    },
-    {
-      "ticker": "VRSN",
-      "name": "VeriSign Inc",
-      "percent": "0.199"
+      "percent": "0.211"
     },
     {
       "ticker": "PDD",
       "name": "Pinduoduo Inc ADR",
-      "percent": "0.198"
+      "percent": "0.201"
     },
     {
-      "ticker": "DLTR",
-      "name": "Dollar Tree Inc",
-      "percent": "0.190"
+      "ticker": "VRSN",
+      "name": "VeriSign Inc",
+      "percent": "0.198"
     },
     {
       "ticker": "CERN",
       "name": "Cerner Corp",
-      "percent": "0.187"
+      "percent": "0.189"
+    },
+    {
+      "ticker": "DLTR",
+      "name": "Dollar Tree Inc",
+      "percent": "0.188"
     },
     {
       "ticker": "INCY",
       "name": "Incyte Corp",
-      "percent": "0.164"
+      "percent": "0.165"
     },
     {
       "ticker": "MXIM",
       "name": "Maxim Integrated Products Inc",
-      "percent": "0.163"
+      "percent": "0.162"
     },
     {
       "ticker": "TTWO",
       "name": "Take-Two Interactive Software Inc",
-      "percent": "0.159"
+      "percent": "0.160"
     },
     {
       "ticker": "CDW",
       "name": "CDW Corp/DE",
-      "percent": "0.154"
+      "percent": "0.155"
     },
     {
       "ticker": "CHKP",
       "name": "Check Point Software Technologies Ltd",
-      "percent": "0.148"
+      "percent": "0.147"
     },
     {
       "ticker": "CTXS",
@@ -493,27 +498,22 @@
     {
       "ticker": "TCOM",
       "name": "Trip.com Group Ltd ADR",
-      "percent": "0.129"
+      "percent": "0.130"
     },
     {
       "ticker": "BMRN",
       "name": "BioMarin Pharmaceutical Inc",
-      "percent": "0.117"
+      "percent": "0.119"
     },
     {
       "ticker": "ULTA",
       "name": "Ulta Beauty Inc",
-      "percent": "0.112"
+      "percent": "0.113"
     },
     {
       "ticker": "EXPE",
       "name": "Expedia Group Inc",
       "percent": "0.102"
-    },
-    {
-      "ticker": "WDC",
-      "name": "Western Digital Corp",
-      "percent": "0.095"
     },
     {
       "ticker": "FOXA",
@@ -523,7 +523,7 @@
     {
       "ticker": "LBTYK",
       "name": "Liberty Global PLC",
-      "percent": "0.072"
+      "percent": "0.071"
     },
     {
       "ticker": "FOX",

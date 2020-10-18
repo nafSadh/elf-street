@@ -1,7 +1,7 @@
 {
-  "name": "KBW Regional Banking ETF",
-  "ticker": "KBWR",
-  "Inception": "11/1/2011",
+  "Products": "KBW Regional Banking ETF",
+  "Ticker": "KBWR",
+  "Inception": "11/01/2011",
   "Gross Exp. Ratio": "0.35%",
   "YTD": "-38.71",
   "1Yr": "-32.83",
@@ -11,7 +11,7 @@
   "Since Incept.": "6.32",
   "Category": "Bulk Beta",
   "SubCategory": "Financial Sector",
-  "infer": "invesco",
+  "ticker": "KBWR",
   "issuer": "Invesco",
   "website": "https://www.invesco.com/us/financial-products/etfs/product-detail?audienceType=Investor&ticker=KBWR",
   "holdingDataSource": {
@@ -21,204 +21,204 @@
   },
   "holdings": [
     {
-      "ticker": "EWBC",
-      "name": "East West Bancorp Inc",
-      "percent": "3.982"
-    },
-    {
       "ticker": "PB",
       "name": "Prosperity Bancshares Inc",
-      "percent": "3.977"
+      "percent": "4.005"
+    },
+    {
+      "ticker": "EWBC",
+      "name": "East West Bancorp Inc",
+      "percent": "3.978"
     },
     {
       "ticker": "CBSH",
       "name": "Commerce Bancshares Inc/MO",
-      "percent": "3.912"
+      "percent": "3.905"
     },
     {
       "ticker": "SBNY",
       "name": "Signature Bank/New York NY",
-      "percent": "3.568"
+      "percent": "3.570"
     },
     {
       "ticker": "CFR",
       "name": "Cullen/Frost Bankers Inc",
-      "percent": "3.328"
-    },
-    {
-      "ticker": "SNV",
-      "name": "Synovus Financial Corp",
-      "percent": "2.230"
+      "percent": "3.326"
     },
     {
       "ticker": "UMPQ",
       "name": "Umpqua Holdings Corp",
-      "percent": "2.177"
+      "percent": "2.188"
+    },
+    {
+      "ticker": "SNV",
+      "name": "Synovus Financial Corp",
+      "percent": "2.182"
     },
     {
       "ticker": "WTFC",
       "name": "Wintrust Financial Corp",
-      "percent": "2.161"
-    },
-    {
-      "ticker": "BPOP",
-      "name": "Popular Inc",
-      "percent": "2.119"
+      "percent": "2.173"
     },
     {
       "ticker": "WAL",
       "name": "Western Alliance Bancorp",
-      "percent": "2.104"
+      "percent": "2.115"
+    },
+    {
+      "ticker": "BPOP",
+      "name": "Popular Inc",
+      "percent": "2.103"
     },
     {
       "ticker": "STL",
       "name": "Sterling Bancorp/DE",
-      "percent": "2.095"
+      "percent": "2.097"
     },
     {
       "ticker": "WBS",
       "name": "Webster Financial Corp",
-      "percent": "2.090"
+      "percent": "2.092"
     },
     {
       "ticker": "BKU",
       "name": "BankUnited Inc",
-      "percent": "2.075"
+      "percent": "2.087"
     },
     {
       "ticker": "UMBF",
       "name": "UMB Financial Corp",
-      "percent": "2.066"
-    },
-    {
-      "ticker": "HOMB",
-      "name": "Home BancShares Inc/AR",
-      "percent": "2.040"
+      "percent": "2.072"
     },
     {
       "ticker": "ASB",
       "name": "Associated Banc-Corp",
-      "percent": "2.034"
-    },
-    {
-      "ticker": "BXS",
-      "name": "BancorpSouth Bank",
-      "percent": "2.023"
+      "percent": "2.033"
     },
     {
       "ticker": "ISBC",
       "name": "Investors Bancorp Inc",
-      "percent": "2.013"
+      "percent": "2.026"
+    },
+    {
+      "ticker": "BXS",
+      "name": "BancorpSouth Bank",
+      "percent": "2.025"
     },
     {
       "ticker": "TCBI",
       "name": "Texas Capital Bancshares Inc",
-      "percent": "2.011"
+      "percent": "2.015"
     },
     {
       "ticker": "VLY",
       "name": "Valley National Bancorp",
-      "percent": "2.008"
+      "percent": "2.013"
+    },
+    {
+      "ticker": "HOMB",
+      "name": "Home BancShares Inc/AR",
+      "percent": "2.009"
     },
     {
       "ticker": "TCF",
       "name": "TCF Financial Corp",
-      "percent": "2.002"
+      "percent": "2.005"
     },
     {
       "ticker": "BOH",
       "name": "Bank of Hawaii Corp",
-      "percent": "1.994"
-    },
-    {
-      "ticker": "HWC",
-      "name": "Hancock Whitney Corp",
-      "percent": "1.984"
+      "percent": "2.004"
     },
     {
       "ticker": "GBCI",
       "name": "Glacier Bancorp Inc",
-      "percent": "1.980"
-    },
-    {
-      "ticker": "FFIN",
-      "name": "First Financial Bankshares Inc",
-      "percent": "1.966"
-    },
-    {
-      "ticker": "PNFP",
-      "name": "Pinnacle Financial Partners Inc",
-      "percent": "1.966"
+      "percent": "1.994"
     },
     {
       "ticker": "FNB",
       "name": "FNB Corp/PA",
+      "percent": "1.990"
+    },
+    {
+      "ticker": "FFIN",
+      "name": "First Financial Bankshares Inc",
+      "percent": "1.979"
+    },
+    {
+      "ticker": "PNFP",
+      "name": "Pinnacle Financial Partners Inc",
+      "percent": "1.971"
+    },
+    {
+      "ticker": "HWC",
+      "name": "Hancock Whitney Corp",
       "percent": "1.964"
     },
     {
       "ticker": "ONB",
       "name": "Old National Bancorp/IN",
-      "percent": "1.954"
-    },
-    {
-      "ticker": "SSB",
-      "name": "South State Corp",
-      "percent": "1.953"
+      "percent": "1.959"
     },
     {
       "ticker": "CVBF",
       "name": "CVB Financial Corp",
-      "percent": "1.947"
+      "percent": "1.953"
     },
     {
       "ticker": "PACW",
       "name": "PacWest Bancorp",
-      "percent": "1.936"
+      "percent": "1.937"
     },
     {
-      "ticker": "OZK",
-      "name": "Bank OZK",
-      "percent": "1.928"
+      "ticker": "SSB",
+      "name": "South State Corp",
+      "percent": "1.912"
     },
     {
       "ticker": "CBU",
       "name": "Community Bank System Inc",
-      "percent": "1.894"
+      "percent": "1.895"
     },
     {
       "ticker": "CATY",
       "name": "Cathay General Bancorp",
-      "percent": "1.883"
+      "percent": "1.882"
     },
     {
       "ticker": "FHB",
       "name": "First Hawaiian Inc",
-      "percent": "1.872"
+      "percent": "1.880"
     },
     {
       "ticker": "NYCB",
       "name": "New York Community Bancorp Inc",
-      "percent": "1.866"
+      "percent": "1.876"
     },
     {
       "ticker": "COLB",
       "name": "Columbia Banking System Inc",
-      "percent": "1.857"
+      "percent": "1.870"
+    },
+    {
+      "ticker": "OZK",
+      "name": "Bank OZK",
+      "percent": "1.869"
     },
     {
       "ticker": "UBSI",
       "name": "United Bankshares Inc/WV",
-      "percent": "1.833"
+      "percent": "1.848"
     },
     {
       "ticker": "WAFD",
       "name": "Washington Federal Inc",
-      "percent": "1.810"
+      "percent": "1.791"
     },
     {
       "ticker": "FULT",
       "name": "Fulton Financial Corp",
-      "percent": "1.745"
+      "percent": "1.756"
     },
     {
       "ticker": "UCBI",
@@ -228,47 +228,47 @@
     {
       "ticker": "TRMK",
       "name": "Trustmark Corp",
-      "percent": "1.535"
+      "percent": "1.530"
     },
     {
       "ticker": "FMBI",
       "name": "First Midwest Bancorp Inc/IL",
-      "percent": "1.429"
+      "percent": "1.434"
     },
     {
       "ticker": "FFBC",
       "name": "First Financial Bancorp",
-      "percent": "1.403"
+      "percent": "1.396"
     },
     {
       "ticker": "CADE",
       "name": "Cadence BanCorp",
-      "percent": "1.385"
+      "percent": "1.382"
     },
     {
       "ticker": "HOPE",
       "name": "Hope Bancorp Inc",
-      "percent": "1.043"
+      "percent": "1.038"
     },
     {
       "ticker": "PFS",
       "name": "Provident Financial Services Inc",
-      "percent": "0.904"
+      "percent": "0.901"
     },
     {
       "ticker": "FCF",
       "name": "First Commonwealth Financial Corp",
-      "percent": "0.878"
+      "percent": "0.888"
     },
     {
       "ticker": "BRKL",
       "name": "Brookline Bancorp Inc",
-      "percent": "0.772"
+      "percent": "0.782"
     },
     {
       "ticker": "BPFH",
       "name": "Boston Private Financial Holdings Inc",
-      "percent": "0.556"
+      "percent": "0.552"
     },
     {
       "ticker": "AGPXX",

@@ -1,7 +1,7 @@
 {
-  "name": "BulletShares 2029 Corporate Bond ETF",
-  "ticker": "BSCT",
-  "Inception": "9/12/2019",
+  "Products": "BulletShares 2029 Corporate Bond ETF",
+  "Ticker": "BSCT",
+  "Inception": "09/12/2019",
   "Gross Exp. Ratio": "0.10%",
   "YTD": "8.49",
   "1Yr": "9.64",
@@ -11,7 +11,7 @@
   "Since Incept.": "10.21",
   "Category": "Income",
   "SubCategory": "BulletShares",
-  "infer": "invesco",
+  "ticker": "BSCT",
   "issuer": "Invesco",
   "website": "https://www.invesco.com/us/financial-products/etfs/product-detail?audienceType=Investor&ticker=BSCT",
   "holdingDataSource": {
@@ -28,12 +28,12 @@
     {
       "ticker": "92343VEU4",
       "name": "Verizon Communications Inc",
-      "percent": "2.43"
+      "percent": "2.44"
     },
     {
       "ticker": "459200KA8",
       "name": "International Business Machines Corp",
-      "percent": "1.98"
+      "percent": "1.97"
     },
     {
       "ticker": "02209SBD4",
@@ -43,7 +43,7 @@
     {
       "ticker": "00206RHJ4",
       "name": "AT&T Inc",
-      "percent": "1.87"
+      "percent": "1.88"
     },
     {
       "ticker": "337738AU2",
@@ -123,12 +123,12 @@
     {
       "ticker": "70450YAE3",
       "name": "PayPal Holdings Inc",
-      "percent": "0.89"
+      "percent": "0.90"
     },
     {
       "ticker": "161175BR4",
       "name": "Charter Communications Operating LLC / Charter Communication",
-      "percent": "0.86"
+      "percent": "0.87"
     },
     {
       "ticker": "822582CD2",
@@ -138,16 +138,11 @@
     {
       "ticker": "29278NAG8",
       "name": "Energy Transfer Operating LP",
-      "percent": "0.84"
+      "percent": "0.85"
     },
     {
       "ticker": "126408HM8",
       "name": "CSX Corp",
-      "percent": "0.84"
-    },
-    {
-      "ticker": "046353AT5",
-      "name": "AstraZeneca PLC",
       "percent": "0.84"
     },
     {
@@ -158,7 +153,12 @@
     {
       "ticker": "11271LAD4",
       "name": "Brookfield Finance Inc",
-      "percent": "0.83"
+      "percent": "0.84"
+    },
+    {
+      "ticker": "046353AT5",
+      "name": "AstraZeneca PLC",
+      "percent": "0.84"
     },
     {
       "ticker": "92343VES9",
@@ -168,7 +168,7 @@
     {
       "ticker": "89153VAQ2",
       "name": "Total Capital International SA",
-      "percent": "0.82"
+      "percent": "0.83"
     },
     {
       "ticker": "29379VBV4",
@@ -208,7 +208,7 @@
     {
       "ticker": "828807DF1",
       "name": "Simon Property Group LP",
-      "percent": "0.71"
+      "percent": "0.72"
     },
     {
       "ticker": "87612EBH8",
@@ -248,7 +248,7 @@
     {
       "ticker": "904764BH9",
       "name": "Unilever Capital Corp",
-      "percent": "0.66"
+      "percent": "0.67"
     },
     {
       "ticker": "260543BJ1",
@@ -261,13 +261,13 @@
       "percent": "0.66"
     },
     {
-      "ticker": "91913YAW0",
-      "name": "Valero Energy Corp",
+      "ticker": "65339KBM1",
+      "name": "NextEra Energy Capital Holdings Inc",
       "percent": "0.65"
     },
     {
-      "ticker": "65339KBM1",
-      "name": "NextEra Energy Capital Holdings Inc",
+      "ticker": "91913YAW0",
+      "name": "Valero Energy Corp",
       "percent": "0.65"
     },
     {
@@ -286,14 +286,14 @@
       "percent": "0.64"
     },
     {
-      "ticker": "09247XAP6",
-      "name": "BlackRock Inc",
+      "ticker": "855244AT6",
+      "name": "Starbucks Corp",
       "percent": "0.64"
     },
     {
-      "ticker": "855244AT6",
-      "name": "Starbucks Corp",
-      "percent": "0.63"
+      "ticker": "09247XAP6",
+      "name": "BlackRock Inc",
+      "percent": "0.64"
     },
     {
       "ticker": "720186AL9",
@@ -318,12 +318,12 @@
     {
       "ticker": "40414LAR0",
       "name": "Healthpeak Properties Inc",
-      "percent": "0.61"
+      "percent": "0.62"
     },
     {
       "ticker": "03040WAU9",
       "name": "American Water Capital Corp",
-      "percent": "0.60"
+      "percent": "0.61"
     },
     {
       "ticker": "29736RAP5",
@@ -331,23 +331,23 @@
       "percent": "0.60"
     },
     {
+      "ticker": "097023CD5",
+      "name": "Boeing Co/The",
+      "percent": "0.59"
+    },
+    {
       "ticker": "482480AG5",
       "name": "KLA Corp",
       "percent": "0.58"
     },
     {
-      "ticker": "097023CD5",
-      "name": "Boeing Co/The",
+      "ticker": "92940PAD6",
+      "name": "WRKCo Inc",
       "percent": "0.58"
     },
     {
       "ticker": "620076BN8",
       "name": "Motorola Solutions Inc",
-      "percent": "0.58"
-    },
-    {
-      "ticker": "92940PAD6",
-      "name": "WRKCo Inc",
       "percent": "0.58"
     },
     {
@@ -393,7 +393,7 @@
     {
       "ticker": "23291KAH8",
       "name": "DH Europe Finance II Sarl",
-      "percent": "0.53"
+      "percent": "0.54"
     },
     {
       "ticker": "808513BA2",
@@ -413,7 +413,7 @@
     {
       "ticker": "361841AL3",
       "name": "GLP Capital LP / GLP Financing II Inc",
-      "percent": "0.52"
+      "percent": "0.53"
     },
     {
       "ticker": "892331AG4",
@@ -424,6 +424,21 @@
       "ticker": "49326EEJ8",
       "name": "KeyCorp",
       "percent": "0.50"
+    },
+    {
+      "ticker": "88579YBG5",
+      "name": "3M Co",
+      "percent": "0.46"
+    },
+    {
+      "ticker": "418056AZ0",
+      "name": "Hasbro Inc",
+      "percent": "0.46"
+    },
+    {
+      "ticker": "191216CM0",
+      "name": "Coca-Cola Co/The",
+      "percent": "0.46"
     },
     {
       "ticker": "87165BAP8",
@@ -444,21 +459,6 @@
       "ticker": "06406YAA0",
       "name": "Bank of New York Mellon Corp/The",
       "percent": "0.46"
-    },
-    {
-      "ticker": "191216CM0",
-      "name": "Coca-Cola Co/The",
-      "percent": "0.45"
-    },
-    {
-      "ticker": "88579YBG5",
-      "name": "3M Co",
-      "percent": "0.45"
-    },
-    {
-      "ticker": "418056AZ0",
-      "name": "Hasbro Inc",
-      "percent": "0.45"
     },
     {
       "ticker": "20268JAB9",
@@ -491,11 +491,6 @@
       "percent": "0.43"
     },
     {
-      "ticker": "AGPXX",
-      "name": "STIT - Government & Agency Portfolio",
-      "percent": "0.42"
-    },
-    {
       "ticker": "595112BN2",
       "name": "Micron Technology Inc",
       "percent": "0.40"
@@ -521,13 +516,13 @@
       "percent": "0.39"
     },
     {
-      "ticker": "911312BR6",
-      "name": "United Parcel Service Inc",
-      "percent": "0.38"
-    },
-    {
       "ticker": "494368BZ5",
       "name": "Kimberly-Clark Corp",
+      "percent": "0.39"
+    },
+    {
+      "ticker": "911312BR6",
+      "name": "United Parcel Service Inc",
       "percent": "0.38"
     },
     {
@@ -546,13 +541,13 @@
       "percent": "0.37"
     },
     {
-      "ticker": "67077MAT5",
-      "name": "Nutrien Ltd",
+      "ticker": "92277GAN7",
+      "name": "Ventas Realty LP",
       "percent": "0.37"
     },
     {
-      "ticker": "92277GAN7",
-      "name": "Ventas Realty LP",
+      "ticker": "67077MAT5",
+      "name": "Nutrien Ltd",
       "percent": "0.37"
     },
     {
@@ -588,6 +583,11 @@
     {
       "ticker": "665859AU8",
       "name": "Northern Trust Corp",
+      "percent": "0.36"
+    },
+    {
+      "ticker": "302491AU9",
+      "name": "FMC Corp",
       "percent": "0.35"
     },
     {
@@ -596,18 +596,18 @@
       "percent": "0.35"
     },
     {
+      "ticker": "655044AQ8",
+      "name": "Noble Energy Inc",
+      "percent": "0.35"
+    },
+    {
       "ticker": "448055AP8",
       "name": "Husky Energy Inc",
       "percent": "0.35"
     },
     {
-      "ticker": "302491AU9",
-      "name": "FMC Corp",
-      "percent": "0.35"
-    },
-    {
-      "ticker": "655044AQ8",
-      "name": "Noble Energy Inc",
+      "ticker": "756109AW4",
+      "name": "Realty Income Corp",
       "percent": "0.35"
     },
     {
@@ -621,14 +621,9 @@
       "percent": "0.35"
     },
     {
-      "ticker": "756109AW4",
-      "name": "Realty Income Corp",
-      "percent": "0.34"
-    },
-    {
       "ticker": "913017BA6",
       "name": "Raytheon Technologies Corp",
-      "percent": "0.33"
+      "percent": "0.34"
     },
     {
       "ticker": "03938LBC7",
@@ -693,7 +688,12 @@
     {
       "ticker": "65339KBJ8",
       "name": "NextEra Energy Capital Holdings Inc",
-      "percent": "0.29"
+      "percent": "0.28"
+    },
+    {
+      "ticker": "124857AZ6",
+      "name": "ViacomCBS Inc",
+      "percent": "0.28"
     },
     {
       "ticker": "67103HAH0",
@@ -706,23 +706,23 @@
       "percent": "0.28"
     },
     {
-      "ticker": "641423CC0",
-      "name": "Nevada Power Co",
-      "percent": "0.28"
-    },
-    {
-      "ticker": "124857AZ6",
-      "name": "ViacomCBS Inc",
-      "percent": "0.28"
-    },
-    {
       "ticker": "74251VAR3",
       "name": "Principal Financial Group Inc",
       "percent": "0.28"
     },
     {
+      "ticker": "641423CC0",
+      "name": "Nevada Power Co",
+      "percent": "0.28"
+    },
+    {
       "ticker": "808513AZ8",
       "name": "Charles Schwab Corp/The",
+      "percent": "0.28"
+    },
+    {
+      "ticker": "26442UAH7",
+      "name": "Duke Energy Progress LLC",
       "percent": "0.28"
     },
     {
@@ -733,11 +733,6 @@
     {
       "ticker": "74834LBA7",
       "name": "Quest Diagnostics Inc",
-      "percent": "0.28"
-    },
-    {
-      "ticker": "26442UAH7",
-      "name": "Duke Energy Progress LLC",
       "percent": "0.28"
     },
     {
@@ -761,13 +756,13 @@
       "percent": "0.27"
     },
     {
-      "ticker": "98389BAW0",
-      "name": "Xcel Energy Inc",
+      "ticker": "842400GQ0",
+      "name": "Southern California Edison Co",
       "percent": "0.27"
     },
     {
-      "ticker": "842400GQ0",
-      "name": "Southern California Edison Co",
+      "ticker": "98389BAW0",
+      "name": "Xcel Energy Inc",
       "percent": "0.27"
     },
     {
@@ -791,13 +786,18 @@
       "percent": "0.27"
     },
     {
-      "ticker": "931142EQ2",
-      "name": "Walmart Inc",
-      "percent": "0.26"
+      "ticker": "AGPXX",
+      "name": "STIT - Government & Agency Portfolio",
+      "percent": "0.27"
     },
     {
       "ticker": "26884ABL6",
       "name": "ERP Operating LP",
+      "percent": "0.27"
+    },
+    {
+      "ticker": "931142EQ2",
+      "name": "Walmart Inc",
       "percent": "0.26"
     },
     {
@@ -821,13 +821,13 @@
       "percent": "0.26"
     },
     {
-      "ticker": "096630AG3",
-      "name": "Boardwalk Pipelines LP",
+      "ticker": "78409VAP9",
+      "name": "S&P Global Inc",
       "percent": "0.26"
     },
     {
-      "ticker": "78409VAP9",
-      "name": "S&P Global Inc",
+      "ticker": "096630AG3",
+      "name": "Boardwalk Pipelines LP",
       "percent": "0.26"
     },
     {
@@ -848,7 +848,7 @@
     {
       "ticker": "37045XCS3",
       "name": "General Motors Financial Co Inc",
-      "percent": "0.25"
+      "percent": "0.26"
     },
     {
       "ticker": "05723KAG5",
@@ -888,7 +888,7 @@
     {
       "ticker": "637071AM3",
       "name": "National Oilwell Varco Inc",
-      "percent": "0.23"
+      "percent": "0.24"
     },
     {
       "ticker": "292480AM2",

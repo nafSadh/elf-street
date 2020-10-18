@@ -1,7 +1,7 @@
 {
-  "name": "DB G10 Currency Harvest Fund",
-  "ticker": "DBV",
-  "Inception": "9/18/2006",
+  "Products": "DB G10 Currency Harvest Fund",
+  "Ticker": "DBV",
+  "Inception": "09/18/2006",
   "Gross Exp. Ratio": "0.77%",
   "YTD": "-3.98",
   "1Yr": "-3.22",
@@ -11,7 +11,7 @@
   "Since Incept.": "0.02",
   "Category": "Alternatives",
   "SubCategory": "Currencies",
-  "infer": "invesco",
+  "ticker": "DBV",
   "issuer": "Invesco",
   "website": "https://www.invesco.com/us/financial-products/etfs/product-detail?audienceType=Investor&ticker=DBV",
   "holdingDataSource": {
@@ -23,47 +23,47 @@
     {
       "ticker": "825252885",
       "name": "STIT - Government & Agency Portfolio",
-      "percent": "50.715"
+      "percent": "50.019"
     },
     {
       "ticker": "9127963K3",
       "name": "United States Treasury Bill",
-      "percent": "35.697"
+      "percent": "35.647"
     },
     {
       "ticker": "CDZ0",
       "name": "CME Canadian Dollar Currency Future",
-      "percent": "33.480"
+      "percent": "33.539"
     },
     {
       "ticker": "NVZ0",
       "name": "CME New Zealand Dollar Currency Future",
-      "percent": "33.430"
+      "percent": "33.474"
     },
     {
       "ticker": "NOZ0",
       "name": "CME Norwegian Krone Currency Future",
-      "percent": "32.026"
+      "percent": "32.005"
     },
     {
       "ticker": "912796TU3",
       "name": "United States Treasury Bill",
-      "percent": "14.279"
+      "percent": "14.259"
     },
     {
       "ticker": "SFZ0",
       "name": "CME Swiss Franc Currency Future",
-      "percent": "-33.215"
+      "percent": "-33.165"
     },
     {
       "ticker": "ECZ0",
       "name": "CME Euro Foreign Exchange Currency Future",
-      "percent": "-33.450"
+      "percent": "-33.463"
     },
     {
       "ticker": "JYZ0",
       "name": "CME Japanese Yen Currency Future",
-      "percent": "-33.878"
+      "percent": "-33.848"
     }
   ]
 }

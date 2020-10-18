@@ -1,7 +1,7 @@
 {
-  "name": "BulletShares 2022 High Yield Corporate Bond ETF",
-  "ticker": "BSJM",
-  "Inception": "9/17/2014",
+  "Products": "BulletShares 2022 High Yield Corporate Bond ETF",
+  "Ticker": "BSJM",
+  "Inception": "09/17/2014",
   "Gross Exp. Ratio": "0.42%",
   "YTD": "-2.98",
   "1Yr": "-1.56",
@@ -11,7 +11,7 @@
   "Since Incept.": "3.63",
   "Category": "Income",
   "SubCategory": "BulletShares",
-  "infer": "invesco",
+  "ticker": "BSJM",
   "issuer": "Invesco",
   "website": "https://www.invesco.com/us/financial-products/etfs/product-detail?audienceType=Investor&ticker=BSJM",
   "holdingDataSource": {
@@ -23,67 +23,67 @@
     {
       "ticker": "AGPXX",
       "name": "STIT - Government & Agency Portfolio",
-      "percent": "7.12"
+      "percent": "6.60"
     },
     {
       "ticker": "1248EPBT9",
       "name": "CCO Holdings LLC / CCO Holdings Capital Corp",
-      "percent": "2.78"
+      "percent": "2.80"
     },
     {
       "ticker": "852061AS9",
       "name": "Sprint Communications Inc",
-      "percent": "2.43"
+      "percent": "2.44"
     },
     {
       "ticker": "1248EPBX0",
       "name": "CCO Holdings LLC / CCO Holdings Capital Corp",
-      "percent": "2.13"
+      "percent": "2.14"
     },
     {
       "ticker": "019576AA5",
       "name": "Allied Universal Holdco LLC / Allied Universal Finance Corp",
-      "percent": "2.02"
+      "percent": "2.03"
     },
     {
       "ticker": "25470XAJ4",
       "name": "DISH DBS Corp",
-      "percent": "1.98"
+      "percent": "2.00"
     },
     {
       "ticker": "91911XAW4",
       "name": "Bausch Health Americas Inc",
-      "percent": "1.96"
+      "percent": "1.97"
     },
     {
       "ticker": "02156LAA9",
       "name": "Altice France SA/France",
-      "percent": "1.90"
+      "percent": "1.91"
     },
     {
       "ticker": "02156TAB0",
       "name": "Altice France Holding SA",
-      "percent": "1.69"
+      "percent": "1.71"
     },
     {
       "ticker": "460599AB9",
       "name": "International Game Technology PLC",
-      "percent": "1.62"
+      "percent": "1.63"
     },
     {
       "ticker": "91911XAV6",
       "name": "Bausch Health Americas Inc",
-      "percent": "1.58"
+      "percent": "1.59"
     },
     {
       "ticker": "82967NBA5",
       "name": "Sirius XM Radio Inc",
-      "percent": "1.57"
+      "percent": "1.58"
     },
     {
       "ticker": "95081QAN4",
       "name": "WESCO Distribution Inc",
-      "percent": "1.55"
+      "percent": "1.56"
     },
     {
       "ticker": "126307AQ0",
@@ -93,22 +93,22 @@
     {
       "ticker": "038522AR9",
       "name": "Aramark Services Inc",
-      "percent": "1.49"
+      "percent": "1.50"
     },
     {
       "ticker": "156700AS5",
       "name": "CenturyLink Inc",
-      "percent": "1.42"
+      "percent": "1.43"
     },
     {
       "ticker": "35671DAU9",
       "name": "Freeport-McMoRan Inc",
-      "percent": "1.33"
+      "percent": "1.34"
     },
     {
       "ticker": "737446AM6",
       "name": "Post Holdings Inc",
-      "percent": "1.33"
+      "percent": "1.34"
     },
     {
       "ticker": "983793AH3",
@@ -118,12 +118,12 @@
     {
       "ticker": "893647BK2",
       "name": "TransDigm Inc",
-      "percent": "1.17"
+      "percent": "1.18"
     },
     {
       "ticker": "451102BJ5",
       "name": "Icahn Enterprises LP / Icahn Enterprises Finance Corp",
-      "percent": "1.15"
+      "percent": "1.16"
     },
     {
       "ticker": "983793AD2",
@@ -133,17 +133,17 @@
     {
       "ticker": "911365BF0",
       "name": "United Rentals North America Inc",
-      "percent": "1.08"
+      "percent": "1.09"
     },
     {
       "ticker": "097751BJ9",
       "name": "Bombardier Inc",
-      "percent": "1.07"
+      "percent": "1.08"
     },
     {
       "ticker": "85172FAK5",
       "name": "OneMain Finance Corp",
-      "percent": "1.04"
+      "percent": "1.05"
     },
     {
       "ticker": "552953BX8",
@@ -158,7 +158,7 @@
     {
       "ticker": "01883LAA1",
       "name": "Alliant Holdings Intermediate LLC / Alliant Holdings Co-Issu",
-      "percent": "1.01"
+      "percent": "1.02"
     },
     {
       "ticker": "63938CAF5",
@@ -168,17 +168,17 @@
     {
       "ticker": "345397WF6",
       "name": "Ford Motor Credit Co LLC",
-      "percent": "0.97"
+      "percent": "0.98"
     },
     {
       "ticker": "82967NAY4",
       "name": "Sirius XM Radio Inc",
-      "percent": "0.96"
+      "percent": "0.97"
     },
     {
       "ticker": "058498AR7",
       "name": "Ball Corp",
-      "percent": "0.92"
+      "percent": "0.93"
     },
     {
       "ticker": "532716AU1",
@@ -203,7 +203,7 @@
     {
       "ticker": "78442FEL8",
       "name": "Navient Corp",
-      "percent": "0.80"
+      "percent": "0.81"
     },
     {
       "ticker": "48250NAC9",
@@ -218,26 +218,31 @@
     {
       "ticker": "64110LAJ5",
       "name": "Netflix Inc",
-      "percent": "0.76"
+      "percent": "0.77"
     },
     {
       "ticker": "674599CC7",
       "name": "Occidental Petroleum Corp",
-      "percent": "0.76"
-    },
-    {
-      "ticker": "83001WAC8",
-      "name": "Six Flags Theme Parks Inc",
-      "percent": "0.74"
+      "percent": "0.77"
     },
     {
       "ticker": "12686CBB4",
       "name": "CSC Holdings LLC",
-      "percent": "0.74"
+      "percent": "0.75"
     },
     {
       "ticker": "88033GDE7",
       "name": "Tenet Healthcare Corp",
+      "percent": "0.75"
+    },
+    {
+      "ticker": "83001WAC8",
+      "name": "Six Flags Theme Parks Inc",
+      "percent": "0.75"
+    },
+    {
+      "ticker": "412690AF6",
+      "name": "Vericast Corp",
       "percent": "0.74"
     },
     {
@@ -251,19 +256,14 @@
       "percent": "0.74"
     },
     {
-      "ticker": "412690AF6",
-      "name": "Vericast Corp",
-      "percent": "0.73"
-    },
-    {
       "ticker": "50168AAA8",
       "name": "LABL Escrow Issuer LLC",
-      "percent": "0.73"
+      "percent": "0.74"
     },
     {
       "ticker": "03969AAQ3",
       "name": "Ardagh Packaging Finance PLC / Ardagh Holdings USA Inc",
-      "percent": "0.73"
+      "percent": "0.74"
     },
     {
       "ticker": "095796AA6",
@@ -273,7 +273,7 @@
     {
       "ticker": "60855RAG5",
       "name": "Molina Healthcare Inc",
-      "percent": "0.72"
+      "percent": "0.73"
     },
     {
       "ticker": "26884LAE9",
@@ -283,16 +283,16 @@
     {
       "ticker": "03674XAC0",
       "name": "Antero Resources Corp",
-      "percent": "0.68"
-    },
-    {
-      "ticker": "34960PAA9",
-      "name": "Fortress Transportation and Infrastructure Investors LLC",
-      "percent": "0.67"
+      "percent": "0.69"
     },
     {
       "ticker": "17302XAJ5",
       "name": "CITGO Petroleum Corp",
+      "percent": "0.67"
+    },
+    {
+      "ticker": "34960PAA9",
+      "name": "Fortress Transportation and Infrastructure Investors LLC",
       "percent": "0.67"
     },
     {
@@ -301,18 +301,18 @@
       "percent": "0.65"
     },
     {
+      "ticker": "12510CAA9",
+      "name": "CD&R Smokey Buyer Inc",
+      "percent": "0.65"
+    },
+    {
       "ticker": "00688JAB3",
       "name": "Adient US LLC",
-      "percent": "0.64"
+      "percent": "0.65"
     },
     {
       "ticker": "12508EAF8",
       "name": "CDK Global Inc",
-      "percent": "0.64"
-    },
-    {
-      "ticker": "12510CAA9",
-      "name": "CD&R Smokey Buyer Inc",
       "percent": "0.64"
     },
     {
@@ -323,12 +323,12 @@
     {
       "ticker": "00213MAK0",
       "name": "APX Group Inc",
-      "percent": "0.63"
+      "percent": "0.64"
     },
     {
       "ticker": "85172FAS8",
       "name": "OneMain Finance Corp",
-      "percent": "0.63"
+      "percent": "0.64"
     },
     {
       "ticker": "103304BS9",
@@ -343,22 +343,17 @@
     {
       "ticker": "958254AB0",
       "name": "Western Midstream Operating LP",
-      "percent": "0.61"
+      "percent": "0.62"
     },
     {
       "ticker": "817565CD4",
       "name": "Service Corp International/US",
-      "percent": "0.58"
+      "percent": "0.59"
     },
     {
       "ticker": "34540XAB9",
       "name": "Ford Motor Credit Co LLC",
-      "percent": "0.57"
-    },
-    {
-      "ticker": "87264AAR6",
-      "name": "T-Mobile USA Inc",
-      "percent": "0.54"
+      "percent": "0.58"
     },
     {
       "ticker": "184496AN7",
@@ -366,14 +361,19 @@
       "percent": "0.54"
     },
     {
+      "ticker": "87264AAR6",
+      "name": "T-Mobile USA Inc",
+      "percent": "0.54"
+    },
+    {
       "ticker": "29266RAC2",
       "name": "Edgewell Personal Care Co",
-      "percent": "0.53"
+      "percent": "0.54"
     },
     {
       "ticker": "55354GAF7",
       "name": "MSCI Inc",
-      "percent": "0.51"
+      "percent": "0.52"
     },
     {
       "ticker": "18060TAA3",
@@ -391,34 +391,34 @@
       "percent": "0.51"
     },
     {
-      "ticker": "96926JAE7",
-      "name": "William Carter Co/The",
-      "percent": "0.50"
-    },
-    {
       "ticker": "57164PAG1",
       "name": "Marriott Ownership Resorts Inc",
-      "percent": "0.50"
+      "percent": "0.51"
+    },
+    {
+      "ticker": "96926JAE7",
+      "name": "William Carter Co/The",
+      "percent": "0.51"
     },
     {
       "ticker": "14879EAE8",
       "name": "Catalent Pharma Solutions Inc",
-      "percent": "0.49"
-    },
-    {
-      "ticker": "879369AF3",
-      "name": "Teleflex Inc",
-      "percent": "0.49"
-    },
-    {
-      "ticker": "037411AZ8",
-      "name": "Apache Corp",
-      "percent": "0.49"
+      "percent": "0.50"
     },
     {
       "ticker": "044209AF1",
       "name": "Ashland LLC",
-      "percent": "0.49"
+      "percent": "0.50"
+    },
+    {
+      "ticker": "879369AF3",
+      "name": "Teleflex Inc",
+      "percent": "0.50"
+    },
+    {
+      "ticker": "037411AZ8",
+      "name": "Apache Corp",
+      "percent": "0.50"
     },
     {
       "ticker": "05409QAA6",
@@ -441,11 +441,6 @@
       "percent": "0.45"
     },
     {
-      "ticker": "75281AAY5",
-      "name": "Range Resources Corp",
-      "percent": "0.45"
-    },
-    {
       "ticker": "04684LAA6",
       "name": "Atento Luxco 1 SA",
       "percent": "0.45"
@@ -453,6 +448,11 @@
     {
       "ticker": "81211KAV2",
       "name": "Sealed Air Corp",
+      "percent": "0.45"
+    },
+    {
+      "ticker": "75281AAY5",
+      "name": "Range Resources Corp",
       "percent": "0.44"
     },
     {
@@ -523,17 +523,17 @@
     {
       "ticker": "89620JAC5",
       "name": "Trilogy International Partners LLC / Trilogy International F",
-      "percent": "0.35"
+      "percent": "0.36"
     },
     {
       "ticker": "40423BAA8",
       "name": "Hillman Group Inc/The",
-      "percent": "0.34"
+      "percent": "0.35"
     },
     {
       "ticker": "59001AAQ5",
       "name": "Meritage Homes Corp",
-      "percent": "0.34"
+      "percent": "0.35"
     },
     {
       "ticker": "172441AX5",
@@ -593,7 +593,7 @@
     {
       "ticker": "950399AB1",
       "name": "Welltec A/S",
-      "percent": "0.28"
+      "percent": "0.29"
     },
     {
       "ticker": "55448QAQ9",

@@ -1,7 +1,7 @@
 {
-  "name": "DB Gold Fund",
-  "ticker": "DGL",
-  "Inception": "1/5/2007",
+  "Products": "DB Gold Fund",
+  "Ticker": "DGL",
+  "Inception": "01/05/2007",
   "Gross Exp. Ratio": "0.76%",
   "YTD": "22.37",
   "1Yr": "26.28",
@@ -11,7 +11,7 @@
   "Since Incept.": "6.81",
   "Category": "Alternatives",
   "SubCategory": "Commodity Sectors",
-  "infer": "invesco",
+  "ticker": "DGL",
   "issuer": "Invesco",
   "website": "https://www.invesco.com/us/financial-products/etfs/product-detail?audienceType=Investor&ticker=DGL",
   "holdingDataSource": {
@@ -23,37 +23,32 @@
     {
       "ticker": "GCG1",
       "name": "COMEX Gold 100 Troy Ounces Future",
-      "percent": "100.074"
+      "percent": "100.079"
     },
     {
       "ticker": "825252885",
       "name": "STIT - Government & Agency Portfolio",
-      "percent": "50.084"
+      "percent": "50.907"
     },
     {
       "ticker": "9127963K3",
       "name": "United States Treasury Bill",
-      "percent": "17.899"
+      "percent": "17.925"
     },
     {
       "ticker": "912796TU3",
       "name": "United States Treasury Bill",
-      "percent": "11.933"
+      "percent": "11.950"
     },
     {
       "ticker": "46138G888",
       "name": "Invesco Treasury Collateral ETF",
-      "percent": "10.413"
+      "percent": "10.429"
     },
     {
       "ticker": "9127962Z1",
       "name": "United States Treasury Bill",
-      "percent": "8.950"
-    },
-    {
-      "ticker": "CASHUSD00",
-      "name": "Cash/Receivables/Payables",
-      "percent": ".674"
+      "percent": "8.963"
     }
   ]
 }

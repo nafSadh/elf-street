@@ -1,7 +1,7 @@
 {
-  "name": "BulletShares 2023 USD Emerging Markets Debt ETF",
-  "ticker": "BSCE",
-  "Inception": "10/4/2018",
+  "Products": "BulletShares 2023 USD Emerging Markets Debt ETF",
+  "Ticker": "BSCE",
+  "Inception": "10/04/2018",
   "Gross Exp. Ratio": "0.29%",
   "YTD": "2.43",
   "1Yr": "3.62",
@@ -11,7 +11,7 @@
   "Since Incept.": "6.97",
   "Category": "Income",
   "SubCategory": "BulletShares",
-  "infer": "invesco",
+  "ticker": "BSCE",
   "issuer": "Invesco",
   "website": "https://www.invesco.com/us/financial-products/etfs/product-detail?audienceType=Investor&ticker=BSCE",
   "holdingDataSource": {
@@ -43,7 +43,7 @@
     {
       "ticker": "EJ5266394",
       "name": "Colombia Government International Bond",
-      "percent": "2.98"
+      "percent": "2.99"
     },
     {
       "ticker": "445545AJ5",
@@ -73,7 +73,7 @@
     {
       "ticker": "EJ7171295",
       "name": "Indian Oil Corp Ltd",
-      "percent": "2.12"
+      "percent": "2.11"
     },
     {
       "ticker": "82937VAB3",
@@ -81,13 +81,13 @@
       "percent": "2.11"
     },
     {
-      "ticker": "05990GAA3",
-      "name": "Banco de Credito del Peru",
+      "ticker": "05958AAH1",
+      "name": "Banco do Brasil SA/Cayman",
       "percent": "2.07"
     },
     {
-      "ticker": "05958AAH1",
-      "name": "Banco do Brasil SA/Cayman",
+      "ticker": "05990GAA3",
+      "name": "Banco de Credito del Peru",
       "percent": "2.07"
     },
     {
@@ -101,28 +101,8 @@
       "percent": "2.06"
     },
     {
-      "ticker": "05956NAE2",
-      "name": "Banco de Credito e Inversiones SA",
-      "percent": "2.06"
-    },
-    {
       "ticker": "EJ5698547",
       "name": "ADCB Finance Cayman Ltd",
-      "percent": "2.06"
-    },
-    {
-      "ticker": "549876AH3",
-      "name": "Lukoil International Finance BV",
-      "percent": "2.06"
-    },
-    {
-      "ticker": "26139PAA1",
-      "name": "DP World Crescent Ltd",
-      "percent": "2.06"
-    },
-    {
-      "ticker": "46556LAJ3",
-      "name": "Itau Unibanco Holding SA/Cayman Island",
       "percent": "2.06"
     },
     {
@@ -131,8 +111,28 @@
       "percent": "2.05"
     },
     {
+      "ticker": "26139PAA1",
+      "name": "DP World Crescent Ltd",
+      "percent": "2.05"
+    },
+    {
+      "ticker": "46556LAJ3",
+      "name": "Itau Unibanco Holding SA/Cayman Island",
+      "percent": "2.05"
+    },
+    {
       "ticker": "46128MAF8",
       "name": "Inversiones CMPC SA/Cayman Islands Branch",
+      "percent": "2.05"
+    },
+    {
+      "ticker": "05956NAE2",
+      "name": "Banco de Credito e Inversiones SA",
+      "percent": "2.05"
+    },
+    {
+      "ticker": "549876AH3",
+      "name": "Lukoil International Finance BV",
       "percent": "2.05"
     },
     {
@@ -158,7 +158,7 @@
     {
       "ticker": "AR5949987",
       "name": "Rizal Commercial Banking Corp",
-      "percent": "2.04"
+      "percent": "2.03"
     },
     {
       "ticker": "EJ5038918",
@@ -218,7 +218,7 @@
     {
       "ticker": "71654QBG6",
       "name": "Petroleos Mexicanos",
-      "percent": "1.90"
+      "percent": "1.91"
     },
     {
       "ticker": "421790AE6",
@@ -233,7 +233,7 @@
     {
       "ticker": "EJ7753969",
       "name": "Eskom Holdings SOC Ltd",
-      "percent": "1.82"
+      "percent": "1.83"
     },
     {
       "ticker": "71647NAF6",
@@ -248,7 +248,7 @@
     {
       "ticker": "AR0609537",
       "name": "JBS USA LUX SA / JBS USA Finance Inc",
-      "percent": "1.07"
+      "percent": "1.08"
     },
     {
       "ticker": "AP1710551",
@@ -258,17 +258,12 @@
     {
       "ticker": "29081YAD8",
       "name": "Embraer Overseas Ltd",
-      "percent": "0.60"
+      "percent": "0.61"
     },
     {
       "ticker": "AGPXX",
       "name": "STIT - Government & Agency Portfolio",
-      "percent": "0.43"
-    },
-    {
-      "ticker": "-CASH-",
-      "name": "Cash/Receivables/Payables",
-      "percent": "-0.00"
+      "percent": "0.46"
     }
   ]
 }

@@ -1,17 +1,17 @@
 {
-  "name": "Ultra Short Duration ETF",
-  "ticker": "GSY",
-  "Inception": "2/12/2008",
+  "Products": "Ultra Short Duration ETF",
+  "Ticker": "GSY",
+  "Inception": "02/12/2008",
   "Gross Exp. Ratio": "0.23%",
   "YTD": "1.57",
-  "1Yr": "2.2",
+  "1Yr": "2.20",
   "3Yr": "2.51",
   "5Yr": "2.18",
   "10Yr": "1.55",
   "Since Incept.": "1.36",
   "Category": "Income",
   "SubCategory": "Core",
-  "infer": "invesco",
+  "ticker": "GSY",
   "issuer": "Invesco",
   "website": "https://www.invesco.com/us/financial-products/etfs/product-detail?audienceType=Investor&ticker=GSY",
   "holdingDataSource": {
@@ -21,18 +21,18 @@
   },
   "holdings": [
     {
-      "ticker": "29277EKG8",
+      "ticker": "29277EKK9",
       "name": "ETP Legacy LP",
-      "percent": "2.03"
-    },
-    {
-      "ticker": "",
-      "name": "Citigroup Global Markets Inc",
-      "percent": "1.66"
+      "percent": "2.15"
     },
     {
       "ticker": "",
       "name": "SOCIETE GENERALE (PARIS BRANCH)",
+      "percent": "1.66"
+    },
+    {
+      "ticker": "",
+      "name": "Citigroup Global Markets Inc",
       "percent": "1.66"
     },
     {
@@ -63,7 +63,7 @@
     {
       "ticker": "07274NAE3",
       "name": "Bayer US Finance II LLC",
-      "percent": "1.09"
+      "percent": "1.08"
     },
     {
       "ticker": "61981FL41",
@@ -108,7 +108,7 @@
     {
       "ticker": "06742VWB3",
       "name": "BARCLAYS BANK PLC (NEW YORK BRANCH)",
-      "percent": "0.81"
+      "percent": "0.80"
     },
     {
       "ticker": "29248ELA6",
@@ -128,7 +128,7 @@
     {
       "ticker": "233851DD3",
       "name": "Daimler Finance North America LLC",
-      "percent": "0.76"
+      "percent": "0.75"
     },
     {
       "ticker": "94107MVG8",
@@ -188,12 +188,12 @@
     {
       "ticker": "63906AAA8",
       "name": "NatWest Markets PLC",
-      "percent": "0.62"
+      "percent": "0.61"
     },
     {
       "ticker": "13638WKK7",
       "name": "Canadian Natural Resources Ltd",
-      "percent": "0.62"
+      "percent": "0.61"
     },
     {
       "ticker": "60920LAC8",
@@ -203,7 +203,7 @@
     {
       "ticker": "04685A2M2",
       "name": "Athene Global Funding",
-      "percent": "0.61"
+      "percent": "0.60"
     },
     {
       "ticker": "6174468H5",
@@ -218,12 +218,12 @@
     {
       "ticker": "89236THF5",
       "name": "Toyota Motor Credit Corp",
-      "percent": "0.59"
+      "percent": "0.58"
     },
     {
       "ticker": "29287ALH1",
       "name": "Engie SA",
-      "percent": "0.59"
+      "percent": "0.58"
     },
     {
       "ticker": "912796UC1",
@@ -233,7 +233,7 @@
     {
       "ticker": "26441CBA2",
       "name": "Duke Energy Corp",
-      "percent": "0.58"
+      "percent": "0.57"
     },
     {
       "ticker": "13607GRK2",
@@ -248,12 +248,12 @@
     {
       "ticker": "14918EKN0",
       "name": "CommonSpirit Health",
-      "percent": "0.57"
+      "percent": "0.56"
     },
     {
       "ticker": "04635PKU2",
       "name": "AstraZeneca PLC",
-      "percent": "0.57"
+      "percent": "0.56"
     },
     {
       "ticker": "38141GGS7",
@@ -263,12 +263,12 @@
     {
       "ticker": "59217GCM9",
       "name": "Metropolitan Life Global Funding I",
-      "percent": "0.54"
+      "percent": "0.53"
     },
     {
       "ticker": "59217GBR9",
       "name": "Metropolitan Life Global Funding I",
-      "percent": "0.53"
+      "percent": "0.52"
     },
     {
       "ticker": "606822AX2",
@@ -293,16 +293,11 @@
     {
       "ticker": "62854AAM6",
       "name": "Mylan NV",
-      "percent": "0.51"
+      "percent": "0.50"
     },
     {
       "ticker": "22550UAA9",
       "name": "Credit Suisse AG/New York NY",
-      "percent": "0.50"
-    },
-    {
-      "ticker": "27743JKK8",
-      "name": "Eastman Chemical Co",
       "percent": "0.50"
     },
     {
@@ -311,9 +306,19 @@
       "percent": "0.50"
     },
     {
+      "ticker": "27743JKK8",
+      "name": "Eastman Chemical Co",
+      "percent": "0.50"
+    },
+    {
+      "ticker": "83225LKK3",
+      "name": "Smithfield Foods Inc",
+      "percent": "0.50"
+    },
+    {
       "ticker": "13638WLR1",
       "name": "Canadian Natural Resources Ltd",
-      "percent": "0.50"
+      "percent": "0.49"
     },
     {
       "ticker": "96437TNC7",
@@ -366,23 +371,23 @@
       "percent": "0.43"
     },
     {
-      "ticker": "30231GBL5",
-      "name": "Exxon Mobil Corp",
-      "percent": "0.43"
-    },
-    {
       "ticker": "65341KBF2",
       "name": "NextGear Floorplan Master Owner Trust",
-      "percent": "0.43"
+      "percent": "0.42"
     },
     {
-      "ticker": "49271VAE0",
-      "name": "Keurig Dr Pepper Inc",
+      "ticker": "30231GBL5",
+      "name": "Exxon Mobil Corp",
       "percent": "0.42"
     },
     {
       "ticker": "44891ABM8",
       "name": "Hyundai Capital America",
+      "percent": "0.42"
+    },
+    {
+      "ticker": "49271VAE0",
+      "name": "Keurig Dr Pepper Inc",
       "percent": "0.42"
     },
     {
@@ -398,22 +403,22 @@
     {
       "ticker": "29279GKL0",
       "name": "Enel Finance America LLC",
-      "percent": "0.42"
+      "percent": "0.41"
     },
     {
       "ticker": "29279GKM8",
       "name": "Enel Finance America LLC",
-      "percent": "0.42"
+      "percent": "0.41"
     },
     {
       "ticker": "26876ANF6",
       "name": "Eni Finance USA Inc",
-      "percent": "0.42"
+      "percent": "0.41"
     },
     {
       "ticker": "96437TPH4",
       "name": "White Plains Capital Co LLC",
-      "percent": "0.42"
+      "percent": "0.41"
     },
     {
       "ticker": "96437TKP1",
@@ -438,7 +443,7 @@
     {
       "ticker": "05583JAB8",
       "name": "BPCE SA",
-      "percent": "0.41"
+      "percent": "0.40"
     },
     {
       "ticker": "008117AN3",
@@ -478,7 +483,7 @@
     {
       "ticker": "49327M2Y9",
       "name": "KeyBank NA/Cleveland OH",
-      "percent": "0.39"
+      "percent": "0.38"
     },
     {
       "ticker": "571903AM5",
@@ -493,7 +498,7 @@
     {
       "ticker": "12597VAA3",
       "name": "COLT 2020-1R Mortgage Loan Trust",
-      "percent": "0.38"
+      "percent": "0.37"
     },
     {
       "ticker": "86563VAQ2",
@@ -513,7 +518,7 @@
     {
       "ticker": "30219GAS7",
       "name": "Evernorth Health Inc",
-      "percent": "0.36"
+      "percent": "0.35"
     },
     {
       "ticker": "58013MFG4",
@@ -546,19 +551,19 @@
       "percent": "0.34"
     },
     {
-      "ticker": "36166PAA6",
-      "name": "GCAT 2019-NQM1 LLC",
-      "percent": "0.34"
-    },
-    {
       "ticker": "86562MAJ9",
       "name": "Sumitomo Mitsui Financial Group Inc",
       "percent": "0.34"
     },
     {
+      "ticker": "36166PAA6",
+      "name": "GCAT 2019-NQM1 LLC",
+      "percent": "0.34"
+    },
+    {
       "ticker": "14040HBM6",
       "name": "Capital One Financial Corp",
-      "percent": "0.34"
+      "percent": "0.33"
     },
     {
       "ticker": "65341KBJ4",
@@ -606,8 +611,8 @@
       "percent": "0.33"
     },
     {
-      "ticker": "2063C0KG6",
-      "name": "Concord Minutemen Capital Co LLC",
+      "ticker": "92538CAA9",
+      "name": "Verus Securitization Trust 2020-5",
       "percent": "0.33"
     },
     {
@@ -651,13 +656,13 @@
       "percent": "0.33"
     },
     {
-      "ticker": "031162CP3",
-      "name": "Amgen Inc",
+      "ticker": "70450YAF0",
+      "name": "PayPal Holdings Inc",
       "percent": "0.33"
     },
     {
-      "ticker": "70450YAF0",
-      "name": "PayPal Holdings Inc",
+      "ticker": "031162CP3",
+      "name": "Amgen Inc",
       "percent": "0.33"
     },
     {
@@ -668,7 +673,7 @@
     {
       "ticker": "74982LAY6",
       "name": "Race Point VIII CLO Ltd",
-      "percent": "0.33"
+      "percent": "0.32"
     },
     {
       "ticker": "26442UAJ3",
@@ -686,13 +691,13 @@
       "percent": "0.32"
     },
     {
-      "ticker": "64828EAA3",
-      "name": "New Residential Mortgage Loan Trust 2019-NQM4",
+      "ticker": "59217GEH8",
+      "name": "Metropolitan Life Global Funding I",
       "percent": "0.32"
     },
     {
-      "ticker": "59217GEH8",
-      "name": "Metropolitan Life Global Funding I",
+      "ticker": "64828EAA3",
+      "name": "New Residential Mortgage Loan Trust 2019-NQM4",
       "percent": "0.32"
     },
     {
@@ -726,24 +731,24 @@
       "percent": "0.30"
     },
     {
-      "ticker": "64829PAA7",
-      "name": "New Residential Mortgage Loan Trust 2019-NQM3",
-      "percent": "0.30"
-    },
-    {
       "ticker": "05363LAU7",
       "name": "Avery Point VI CLO Ltd",
       "percent": "0.30"
     },
     {
+      "ticker": "64829PAA7",
+      "name": "New Residential Mortgage Loan Trust 2019-NQM3",
+      "percent": "0.30"
+    },
+    {
       "ticker": "49456BAA9",
       "name": "Kinder Morgan Inc",
-      "percent": "0.30"
+      "percent": "0.29"
     },
     {
       "ticker": "302637AA1",
       "name": "FS KKR MM CLO 1 LLC",
-      "percent": "0.30"
+      "percent": "0.29"
     },
     {
       "ticker": "36259WAA9",
@@ -763,12 +768,12 @@
     {
       "ticker": "00287YBL2",
       "name": "AbbVie Inc",
-      "percent": "0.28"
+      "percent": "0.27"
     },
     {
       "ticker": "86787EAZ0",
       "name": "Truist Bank",
-      "percent": "0.28"
+      "percent": "0.27"
     },
     {
       "ticker": "370334CB8",
@@ -831,19 +836,19 @@
       "percent": "0.25"
     },
     {
-      "ticker": "64952WDJ9",
-      "name": "New York Life Global Funding",
-      "percent": "0.25"
-    },
-    {
       "ticker": "62959AAA6",
       "name": "NXT Capital CLO 2017-1 LLC",
       "percent": "0.25"
     },
     {
+      "ticker": "64952WDJ9",
+      "name": "New York Life Global Funding",
+      "percent": "0.25"
+    },
+    {
       "ticker": "00138CAM0",
       "name": "AIG Global Funding",
-      "percent": "0.25"
+      "percent": "0.24"
     },
     {
       "ticker": "037833DV9",
@@ -878,16 +883,11 @@
     {
       "ticker": "928668AV4",
       "name": "Volkswagen Group of America Finance LLC",
-      "percent": "0.23"
+      "percent": "0.22"
     },
     {
       "ticker": "377373AF2",
       "name": "GlaxoSmithKline Capital PLC",
-      "percent": "0.23"
-    },
-    {
-      "ticker": "63941XAA5",
-      "name": "Navient Private Education Refi Loan Trust 2020-F",
       "percent": "0.22"
     },
     {
@@ -903,11 +903,6 @@
     {
       "ticker": "64952WCZ4",
       "name": "New York Life Global Funding",
-      "percent": "0.22"
-    },
-    {
-      "ticker": "865622CN2",
-      "name": "Sumitomo Mitsui Banking Corp",
       "percent": "0.22"
     },
     {
@@ -956,6 +951,11 @@
       "percent": "0.21"
     },
     {
+      "ticker": "63941XAA5",
+      "name": "Navient Private Education Refi Loan Trust 2020-F",
+      "percent": "0.21"
+    },
+    {
       "ticker": "31573TAA6",
       "name": "Ellington Financial Mortgage Trust 2019-2",
       "percent": "0.21"
@@ -966,14 +966,14 @@
       "percent": "0.21"
     },
     {
-      "ticker": "89236TDP7",
-      "name": "Toyota Motor Credit Corp",
-      "percent": "0.21"
-    },
-    {
       "ticker": "12481QAC9",
       "name": "CBAM 2018-5 Ltd",
-      "percent": "0.21"
+      "percent": "0.20"
+    },
+    {
+      "ticker": "89236TDP7",
+      "name": "Toyota Motor Credit Corp",
+      "percent": "0.20"
     },
     {
       "ticker": "14040HCD5",
@@ -996,13 +996,13 @@
       "percent": "0.20"
     },
     {
-      "ticker": "76119MAA7",
-      "name": "Residential Mortgage Loan Trust 2019-1",
+      "ticker": "03464MAA2",
+      "name": "Angel Oak Mortgage Trust I LLC 2019-1",
       "percent": "0.19"
     },
     {
-      "ticker": "03464MAA2",
-      "name": "Angel Oak Mortgage Trust I LLC 2019-1",
+      "ticker": "76119MAA7",
+      "name": "Residential Mortgage Loan Trust 2019-1",
       "percent": "0.19"
     },
     {
@@ -1066,11 +1066,6 @@
       "percent": "0.17"
     },
     {
-      "ticker": "63307A2L8",
-      "name": "National Bank of Canada",
-      "percent": "0.17"
-    },
-    {
       "ticker": "46124HAA4",
       "name": "Intuit Inc",
       "percent": "0.17"
@@ -1078,6 +1073,11 @@
     {
       "ticker": "571748BE1",
       "name": "Marsh & McLennan Cos Inc",
+      "percent": "0.17"
+    },
+    {
+      "ticker": "63307A2L8",
+      "name": "National Bank of Canada",
       "percent": "0.17"
     },
     {
@@ -1096,14 +1096,14 @@
       "percent": "0.17"
     },
     {
-      "ticker": "45866FAM6",
-      "name": "Intercontinental Exchange Inc",
-      "percent": "0.17"
-    },
-    {
       "ticker": "36320TAL7",
       "name": "Galaxy XXII CLO Ltd",
-      "percent": "0.17"
+      "percent": "0.16"
+    },
+    {
+      "ticker": "45866FAM6",
+      "name": "Intercontinental Exchange Inc",
+      "percent": "0.16"
     },
     {
       "ticker": "14913R2E6",
@@ -1178,7 +1178,7 @@
     {
       "ticker": "98389BAZ3",
       "name": "Xcel Energy Inc",
-      "percent": "0.15"
+      "percent": "0.14"
     },
     {
       "ticker": "74368CAZ7",
@@ -1196,11 +1196,6 @@
       "percent": "0.14"
     },
     {
-      "ticker": "165183BT0",
-      "name": "Chesapeake Funding II LLC",
-      "percent": "0.14"
-    },
-    {
       "ticker": "00138CAH1",
       "name": "AIG Global Funding",
       "percent": "0.13"
@@ -1211,13 +1206,18 @@
       "percent": "0.13"
     },
     {
+      "ticker": "41282JR60",
+      "name": "Harley-Davidson Financial Services Inc",
+      "percent": "0.13"
+    },
+    {
       "ticker": "756109AN4",
       "name": "Realty Income Corp",
       "percent": "0.13"
     },
     {
-      "ticker": "41282JR60",
-      "name": "Harley-Davidson Financial Services Inc",
+      "ticker": "165183BT0",
+      "name": "Chesapeake Funding II LLC",
       "percent": "0.13"
     },
     {
@@ -1233,7 +1233,7 @@
     {
       "ticker": "59217GEF2",
       "name": "Metropolitan Life Global Funding I",
-      "percent": "0.13"
+      "percent": "0.12"
     },
     {
       "ticker": "581557BM6",
@@ -1351,18 +1351,13 @@
       "percent": "0.07"
     },
     {
-      "ticker": "63935CAA9",
-      "name": "Navient Private Education Refi Loan Trust 2019-F",
+      "ticker": "22845TAU3",
+      "name": "Crown Point CLO III Ltd",
       "percent": "0.07"
     },
     {
       "ticker": "571900BA6",
       "name": "Marriott International Inc/MD",
-      "percent": "0.07"
-    },
-    {
-      "ticker": "22845TAU3",
-      "name": "Crown Point CLO III Ltd",
       "percent": "0.07"
     },
     {
@@ -1421,23 +1416,28 @@
       "percent": "0.05"
     },
     {
-      "ticker": "83404WAA5",
-      "name": "Sofi Professional Loan Program 2019-B LLC",
-      "percent": "0.05"
-    },
-    {
       "ticker": "19687XAA5",
       "name": "COLT 2019-1 Mortgage Loan Trust",
       "percent": "0.05"
     },
     {
-      "ticker": "26253KAA2",
-      "name": "DT Auto Owner Trust 2019-3",
+      "ticker": "63935CAA9",
+      "name": "Navient Private Education Refi Loan Trust 2019-F",
       "percent": "0.05"
     },
     {
       "ticker": "92329XAQ1",
       "name": "Venture XVI CLO Ltd",
+      "percent": "0.04"
+    },
+    {
+      "ticker": "83404WAA5",
+      "name": "Sofi Professional Loan Program 2019-B LLC",
+      "percent": "0.04"
+    },
+    {
+      "ticker": "26253KAA2",
+      "name": "DT Auto Owner Trust 2019-3",
       "percent": "0.04"
     },
     {
@@ -1448,11 +1448,6 @@
     {
       "ticker": "64828NAA3",
       "name": "New Residential Mortgage Loan Trust 2017-5",
-      "percent": "0.02"
-    },
-    {
-      "ticker": "14314PAC0",
-      "name": "CarMax Auto Owner Trust 2017-2",
       "percent": "0.02"
     },
     {
@@ -1469,6 +1464,11 @@
       "ticker": "04621XAL2",
       "name": "Assurant Inc",
       "percent": "0.02"
+    },
+    {
+      "ticker": "14314PAC0",
+      "name": "CarMax Auto Owner Trust 2017-2",
+      "percent": "0.01"
     },
     {
       "ticker": "40536AAE6",
@@ -1498,7 +1498,7 @@
     {
       "ticker": "-CASH-",
       "name": "Cash/Receivables/Payables",
-      "percent": "-0.00"
+      "percent": "-0.01"
     }
   ]
 }

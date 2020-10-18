@@ -1,7 +1,7 @@
 {
-  "name": "S&P Emerging Markets Low Volatility ETF",
-  "ticker": "EELV",
-  "Inception": "1/13/2012",
+  "Products": "S&P Emerging Markets Low Volatility ETF",
+  "Ticker": "EELV",
+  "Inception": "01/13/2012",
   "Gross Exp. Ratio": "0.45%",
   "YTD": "-12.99",
   "1Yr": "-8.28",
@@ -11,7 +11,7 @@
   "Since Incept.": "0.62",
   "Category": "SP Factor",
   "SubCategory": "Low Volatility",
-  "infer": "invesco",
+  "ticker": "EELV",
   "issuer": "Invesco",
   "website": "https://www.invesco.com/us/financial-products/etfs/product-detail?audienceType=Investor&ticker=EELV",
   "holdingDataSource": {
@@ -23,27 +23,27 @@
     {
       "ticker": "2412 TT",
       "name": "Chunghwa Telecom Co Ltd",
-      "percent": "1.381"
+      "percent": "1.378"
     },
     {
       "ticker": "ELEKTRA* M",
       "name": "Grupo Elektra SAB DE CV",
-      "percent": "0.967"
+      "percent": "0.974"
     },
     {
       "ticker": "3045 TT",
       "name": "Taiwan Mobile Co Ltd",
-      "percent": "0.913"
+      "percent": "0.902"
     },
     {
       "ticker": "4904 TT",
       "name": "Far EasTone Telecommunications Co Ltd",
-      "percent": "0.803"
+      "percent": "0.801"
     },
     {
       "ticker": "2912 TT",
       "name": "President Chain Store Corp",
-      "percent": "0.786"
+      "percent": "0.792"
     },
     {
       "ticker": "2002 TT",
@@ -53,92 +53,92 @@
     {
       "ticker": "2886 TT",
       "name": "Mega Financial Holding Co Ltd",
-      "percent": "0.715"
+      "percent": "0.713"
     },
     {
       "ticker": "2882 TT",
       "name": "Cathay Financial Holding Co Ltd",
-      "percent": "0.699"
-    },
-    {
-      "ticker": "2812 TT",
-      "name": "Taichung Commercial Bank Co Ltd",
-      "percent": "0.675"
-    },
-    {
-      "ticker": "2324 TT",
-      "name": "Compal Electronics Inc",
-      "percent": "0.673"
+      "percent": "0.697"
     },
     {
       "ticker": "CBPO",
       "name": "China Biologic Products Holdings Inc",
-      "percent": "0.668"
+      "percent": "0.673"
     },
     {
-      "ticker": "PEP",
-      "name": "PPB Group Bhd",
-      "percent": "0.662"
+      "ticker": "2812 TT",
+      "name": "Taichung Commercial Bank Co Ltd",
+      "percent": "0.670"
+    },
+    {
+      "ticker": "2324 TT",
+      "name": "Compal Electronics Inc",
+      "percent": "0.667"
     },
     {
       "ticker": "5880 TT",
       "name": "Taiwan Cooperative Financial Holding Co Ltd",
-      "percent": "0.649"
+      "percent": "0.648"
+    },
+    {
+      "ticker": "PEP",
+      "name": "PPB Group Bhd",
+      "percent": "0.648"
     },
     {
       "ticker": "2880 TT",
       "name": "Hua Nan Financial Holdings Co Ltd",
-      "percent": "0.641"
+      "percent": "0.636"
     },
     {
       "ticker": "MARK QD",
       "name": "Masraf Al Rayan QSC",
-      "percent": "0.634"
+      "percent": "0.633"
     },
     {
-      "ticker": "2801 TT",
-      "name": "Chang Hwa Commercial Bank Ltd",
+      "ticker": "2318 HK",
+      "name": "Ping An Insurance Group Co of China Ltd",
       "percent": "0.633"
     },
     {
       "ticker": "STC AB",
       "name": "Saudi Telecom Co",
-      "percent": "0.630"
+      "percent": "0.629"
     },
     {
-      "ticker": "2318 HK",
-      "name": "Ping An Insurance Group Co of China Ltd",
-      "percent": "0.628"
+      "ticker": "2801 TT",
+      "name": "Chang Hwa Commercial Bank Ltd",
+      "percent": "0.629"
     },
     {
       "ticker": "MAY",
       "name": "Malayan Banking Bhd",
-      "percent": "0.622"
-    },
-    {
-      "ticker": "1216 TT",
-      "name": "Uni-President Enterprises Corp",
       "percent": "0.617"
-    },
-    {
-      "ticker": "2347 TT",
-      "name": "Synnex Technology International Corp",
-      "percent": "0.613"
     },
     {
       "ticker": "1434 TT",
       "name": "Formosa Taffeta Co Ltd",
+      "percent": "0.614"
+    },
+    {
+      "ticker": "1216 TT",
+      "name": "Uni-President Enterprises Corp",
       "percent": "0.612"
+    },
+    {
+      "ticker": "2347 TT",
+      "name": "Synnex Technology International Corp",
+      "percent": "0.611"
     },
     {
       "ticker": "2881 TT",
       "name": "Fubon Financial Holding Co Ltd",
-      "percent": "0.610"
+      "percent": "0.609"
     },
     {
       "ticker": "SECO AB",
       "name": "Saudi Electricity Co",
-      "percent": "0.608"
+      "percent": "0.607"
     },
     {
       "ticker": "QIBK QD",
@@ -146,14 +146,24 @@
       "percent": "0.605"
     },
     {
-      "ticker": "2915 TT",
-      "name": "Ruentex Industries Ltd",
-      "percent": "0.603"
+      "ticker": "3988 HK",
+      "name": "Bank of China Ltd",
+      "percent": "0.605"
     },
     {
       "ticker": "1722 TT",
       "name": "Taiwan Fertilizer Co Ltd",
+      "percent": "0.604"
+    },
+    {
+      "ticker": "2915 TT",
+      "name": "Ruentex Industries Ltd",
       "percent": "0.602"
+    },
+    {
+      "ticker": "939 HK",
+      "name": "China Construction Bank Corp",
+      "percent": "0.598"
     },
     {
       "ticker": "1504 TT",
@@ -163,26 +173,21 @@
     {
       "ticker": "3702 TT",
       "name": "WPG Holdings Ltd",
-      "percent": "0.594"
+      "percent": "0.595"
     },
     {
       "ticker": "2883 TT",
       "name": "China Development Financial Holding Corp",
-      "percent": "0.592"
-    },
-    {
-      "ticker": "2892 TT",
-      "name": "First Financial Holding Co Ltd",
-      "percent": "0.592"
+      "percent": "0.591"
     },
     {
       "ticker": "DIGI",
       "name": "DiGi.Com Bhd",
-      "percent": "0.590"
+      "percent": "0.591"
     },
     {
-      "ticker": "3988 HK",
-      "name": "Bank of China Ltd",
+      "ticker": "2892 TT",
+      "name": "First Financial Holding Co Ltd",
       "percent": "0.587"
     },
     {
@@ -191,124 +196,119 @@
       "percent": "0.583"
     },
     {
-      "ticker": "2887 TT",
-      "name": "Taishin Financial Holding Co Ltd",
-      "percent": "0.583"
-    },
-    {
-      "ticker": "2891 TT",
-      "name": "CTBC Financial Holding Co Ltd",
-      "percent": "0.575"
-    },
-    {
-      "ticker": "939 HK",
-      "name": "China Construction Bank Corp",
-      "percent": "0.567"
-    },
-    {
-      "ticker": "2890 TT",
-      "name": "SinoPac Financial Holdings Co Ltd",
-      "percent": "0.564"
-    },
-    {
-      "ticker": "1301 TT",
-      "name": "Formosa Plastics Corp",
-      "percent": "0.558"
-    },
-    {
       "ticker": "1288 HK",
       "name": "Agricultural Bank of China Ltd",
-      "percent": "0.557"
-    },
-    {
-      "ticker": "2303 TT",
-      "name": "United Microelectronics Corp",
-      "percent": "0.555"
+      "percent": "0.580"
     },
     {
       "ticker": "1398 HK",
       "name": "Industrial & Commercial Bank of China Ltd",
+      "percent": "0.578"
+    },
+    {
+      "ticker": "2887 TT",
+      "name": "Taishin Financial Holding Co Ltd",
+      "percent": "0.577"
+    },
+    {
+      "ticker": "2891 TT",
+      "name": "CTBC Financial Holding Co Ltd",
+      "percent": "0.572"
+    },
+    {
+      "ticker": "1988 HK",
+      "name": "China Minsheng Banking Corp Ltd",
+      "percent": "0.566"
+    },
+    {
+      "ticker": "2890 TT",
+      "name": "SinoPac Financial Holdings Co Ltd",
+      "percent": "0.563"
+    },
+    {
+      "ticker": "3328 HK",
+      "name": "Bank of Communications Co Ltd",
+      "percent": "0.556"
+    },
+    {
+      "ticker": "AC*",
+      "name": "Arca Continental SAB de CV",
+      "percent": "0.556"
+    },
+    {
+      "ticker": "1301 TT",
+      "name": "Formosa Plastics Corp",
       "percent": "0.555"
     },
     {
       "ticker": "TNB",
       "name": "Tenaga Nasional Bhd",
-      "percent": "0.554"
+      "percent": "0.552"
     },
     {
       "ticker": "1101 TT",
       "name": "Taiwan Cement Corp",
-      "percent": "0.553"
+      "percent": "0.552"
     },
     {
       "ticker": "2834 TT",
       "name": "Taiwan Business Bank",
-      "percent": "0.549"
-    },
-    {
-      "ticker": "2356 TT",
-      "name": "Inventec Corp",
-      "percent": "0.548"
-    },
-    {
-      "ticker": "AC*",
-      "name": "Arca Continental SAB de CV",
       "percent": "0.547"
-    },
-    {
-      "ticker": "1988 HK",
-      "name": "China Minsheng Banking Corp Ltd",
-      "percent": "0.546"
     },
     {
       "ticker": "2542 TT",
       "name": "Highwealth Construction Corp",
-      "percent": "0.544"
+      "percent": "0.542"
     },
     {
-      "ticker": "586 HK",
-      "name": "China Conch Venture Holdings Ltd",
-      "percent": "0.540"
-    },
-    {
-      "ticker": "1326 TT",
-      "name": "Formosa Chemicals & Fibre Corp",
+      "ticker": "2356 TT",
+      "name": "Inventec Corp",
       "percent": "0.539"
+    },
+    {
+      "ticker": "2303 TT",
+      "name": "United Microelectronics Corp",
+      "percent": "0.538"
     },
     {
       "ticker": "JARIR AB",
       "name": "Jarir Marketing Co",
-      "percent": "0.537"
-    },
-    {
-      "ticker": "2633 TT",
-      "name": "Taiwan High Speed Rail Corp",
-      "percent": "0.537"
-    },
-    {
-      "ticker": "3328 HK",
-      "name": "Bank of Communications Co Ltd",
       "percent": "0.536"
+    },
+    {
+      "ticker": "586 HK",
+      "name": "China Conch Venture Holdings Ltd",
+      "percent": "0.536"
+    },
+    {
+      "ticker": "1326 TT",
+      "name": "Formosa Chemicals & Fibre Corp",
+      "percent": "0.535"
     },
     {
       "ticker": "BJAZ AB",
       "name": "Bank Al-Jazira",
-      "percent": "0.535"
+      "percent": "0.534"
+    },
+    {
+      "ticker": "2633 TT",
+      "name": "Taiwan High Speed Rail Corp",
+      "percent": "0.534"
+    },
+    {
+      "ticker": "6005 TT",
+      "name": "Capital Securities Corp",
+      "percent": "0.532"
     },
     {
       "ticker": "017670 KS",
       "name": "SK Telecom Co Ltd",
-      "percent": "0.533"
-    },
-    {
-      "ticker": "KLK",
-      "name": "Kuala Lumpur Kepong Bhd",
-      "percent": "0.532"
+      "percent": "0.531"
     },
     {
       "ticker": "1229 TT",
       "name": "Lien Hwa Industrial Holdings Corp",
-      "percent": "0.532"
+      "percent": "0.530"
     },
     {
       "ticker": "APPC AB",
@@ -316,9 +316,9 @@
       "percent": "0.528"
     },
     {
-      "ticker": "6005 TT",
-      "name": "Capital Securities Corp",
-      "percent": "0.528"
+      "ticker": "1658 HK",
+      "name": "Postal Savings Bank of China Co Ltd",
+      "percent": "0.527"
     },
     {
       "ticker": "HLBK",
@@ -326,18 +326,23 @@
       "percent": "0.526"
     },
     {
-      "ticker": "RJHI AB",
-      "name": "Al Rajhi Bank",
+      "ticker": "KLK",
+      "name": "Kuala Lumpur Kepong Bhd",
       "percent": "0.526"
     },
     {
-      "ticker": "CPALL-R TB",
-      "name": "CP ALL PCL",
-      "percent": "0.523"
+      "ticker": "RJHI AB",
+      "name": "Al Rajhi Bank",
+      "percent": "0.525"
     },
     {
       "ticker": "1102 TT",
       "name": "Asia Cement Corp",
+      "percent": "0.520"
+    },
+    {
+      "ticker": "1227 TT",
+      "name": "Standard Foods Corp",
       "percent": "0.519"
     },
     {
@@ -346,49 +351,54 @@
       "percent": "0.517"
     },
     {
-      "ticker": "1227 TT",
-      "name": "Standard Foods Corp",
+      "ticker": "CPALL-R TB",
+      "name": "CP ALL PCL",
       "percent": "0.516"
-    },
-    {
-      "ticker": "2884 TT",
-      "name": "E.Sun Financial Holding Co Ltd",
-      "percent": "0.515"
-    },
-    {
-      "ticker": "DLG",
-      "name": "Dialog Group Bhd",
-      "percent": "0.514"
-    },
-    {
-      "ticker": "123 HK",
-      "name": "Yuexiu Property Co Ltd",
-      "percent": "0.514"
     },
     {
       "ticker": "QNBK QD",
       "name": "Qatar National Bank QPSC",
-      "percent": "0.513"
+      "percent": "0.512"
+    },
+    {
+      "ticker": "DLG",
+      "name": "Dialog Group Bhd",
+      "percent": "0.511"
+    },
+    {
+      "ticker": "2884 TT",
+      "name": "E.Sun Financial Holding Co Ltd",
+      "percent": "0.511"
+    },
+    {
+      "ticker": "1816 HK",
+      "name": "CGN Power Co Ltd",
+      "percent": "0.507"
     },
     {
       "ticker": "2354 TT",
       "name": "Foxconn Technology Co Ltd",
-      "percent": "0.510"
+      "percent": "0.507"
+    },
+    {
+      "ticker": "2395 TT",
+      "name": "Advantech Co Ltd",
+      "percent": "0.507"
     },
     {
       "ticker": "9933 TT",
       "name": "CTCI Corp",
-      "percent": "0.509"
+      "percent": "0.506"
+    },
+    {
+      "ticker": "CEZ CP",
+      "name": "CEZ AS",
+      "percent": "0.506"
     },
     {
       "ticker": "BRES QD",
       "name": "Barwa Real Estate Co",
-      "percent": "0.504"
-    },
-    {
-      "ticker": "1658 HK",
-      "name": "Postal Savings Bank of China Co Ltd",
-      "percent": "0.504"
+      "percent": "0.503"
     },
     {
       "ticker": "033780 KS",
@@ -396,59 +406,59 @@
       "percent": "0.503"
     },
     {
-      "ticker": "2395 TT",
-      "name": "Advantech Co Ltd",
-      "percent": "0.502"
-    },
-    {
-      "ticker": "000120 KS",
-      "name": "CJ Logistics Corp",
-      "percent": "0.502"
-    },
-    {
-      "ticker": "CEZ CP",
-      "name": "CEZ AS",
-      "percent": "0.502"
-    },
-    {
-      "ticker": "QLG",
-      "name": "QL Resources Bhd",
+      "ticker": "998 HK",
+      "name": "China CITIC Bank Corp Ltd",
       "percent": "0.501"
-    },
-    {
-      "ticker": "2385 TT",
-      "name": "Chicony Electronics Co Ltd",
-      "percent": "0.499"
-    },
-    {
-      "ticker": "2317 TT",
-      "name": "Hon Hai Precision Industry Co Ltd",
-      "percent": "0.496"
-    },
-    {
-      "ticker": "1816 HK",
-      "name": "CGN Power Co Ltd",
-      "percent": "0.496"
     },
     {
       "ticker": "868 HK",
       "name": "Xinyi Glass Holdings Ltd",
-      "percent": "0.496"
+      "percent": "0.500"
+    },
+    {
+      "ticker": "2317 TT",
+      "name": "Hon Hai Precision Industry Co Ltd",
+      "percent": "0.499"
+    },
+    {
+      "ticker": "000120 KS",
+      "name": "CJ Logistics Corp",
+      "percent": "0.498"
+    },
+    {
+      "ticker": "2385 TT",
+      "name": "Chicony Electronics Co Ltd",
+      "percent": "0.497"
     },
     {
       "ticker": "2357 TT",
       "name": "Asustek Computer Inc",
-      "percent": "0.495"
+      "percent": "0.493"
     },
     {
-      "ticker": "6505 TT",
-      "name": "Formosa Petrochemical Corp",
-      "percent": "0.491"
+      "ticker": "AMM",
+      "name": "AMMB Holdings Bhd",
+      "percent": "0.493"
+    },
+    {
+      "ticker": "QLG",
+      "name": "QL Resources Bhd",
+      "percent": "0.492"
+    },
+    {
+      "ticker": "6147 TT",
+      "name": "Chipbond Technology Corp",
+      "percent": "0.488"
+    },
+    {
+      "ticker": "123 HK",
+      "name": "Yuexiu Property Co Ltd",
+      "percent": "0.488"
     },
     {
       "ticker": "KFH KK",
       "name": "Kuwait Finance House KSCP",
-      "percent": "0.487"
+      "percent": "0.486"
     },
     {
       "ticker": "ALINMA AB",
@@ -456,38 +466,33 @@
       "percent": "0.486"
     },
     {
-      "ticker": "MAXIS",
-      "name": "Maxis Bhd",
+      "ticker": "6505 TT",
+      "name": "Formosa Petrochemical Corp",
       "percent": "0.486"
     },
     {
-      "ticker": "6147 TT",
-      "name": "Chipbond Technology Corp",
-      "percent": "0.486"
+      "ticker": "2301 TT",
+      "name": "Lite-On Technology Corp",
+      "percent": "0.485"
     },
     {
       "ticker": "MISC",
       "name": "MISC Bhd",
-      "percent": "0.486"
+      "percent": "0.485"
     },
     {
-      "ticker": "2382 TT",
-      "name": "Quanta Computer Inc",
+      "ticker": "WALMEX*",
+      "name": "Wal-Mart de Mexico SAB de CV",
       "percent": "0.484"
     },
     {
-      "ticker": "2330 TT",
-      "name": "Taiwan Semiconductor Manufacturing Co Ltd",
-      "percent": "0.484"
-    },
-    {
-      "ticker": "YANSAB AB",
-      "name": "Yanbu National Petrochemical Co",
+      "ticker": "SIME",
+      "name": "Sime Darby Bhd",
       "percent": "0.483"
     },
     {
-      "ticker": "AMM",
-      "name": "AMMB Holdings Bhd",
+      "ticker": "1898 HK",
+      "name": "China Coal Energy Co Ltd",
       "percent": "0.483"
     },
     {
@@ -496,99 +501,104 @@
       "percent": "0.483"
     },
     {
-      "ticker": "2301 TT",
-      "name": "Lite-On Technology Corp",
+      "ticker": "YANSAB AB",
+      "name": "Yanbu National Petrochemical Co",
       "percent": "0.482"
-    },
-    {
-      "ticker": "177 HK",
-      "name": "Jiangsu Expressway Co Ltd",
-      "percent": "0.480"
-    },
-    {
-      "ticker": "1898 HK",
-      "name": "China Coal Energy Co Ltd",
-      "percent": "0.479"
-    },
-    {
-      "ticker": "2885 TT",
-      "name": "Yuanta Financial Holding Co Ltd",
-      "percent": "0.479"
     },
     {
       "ticker": "KOFUBL",
       "name": "Coca-Cola Femsa SAB de CV",
+      "percent": "0.482"
+    },
+    {
+      "ticker": "2330 TT",
+      "name": "Taiwan Semiconductor Manufacturing Co Ltd",
       "percent": "0.479"
     },
     {
-      "ticker": "1402 TT",
-      "name": "Far Eastern New Century Corp",
-      "percent": "0.479"
-    },
-    {
-      "ticker": "998 HK",
-      "name": "China CITIC Bank Corp Ltd",
-      "percent": "0.479"
-    },
-    {
-      "ticker": "WALMEX*",
-      "name": "Wal-Mart de Mexico SAB de CV",
+      "ticker": "177 HK",
+      "name": "Jiangsu Expressway Co Ltd",
       "percent": "0.478"
     },
     {
-      "ticker": "NCB AB",
-      "name": "National Commercial Bank",
+      "ticker": "2382 TT",
+      "name": "Quanta Computer Inc",
       "percent": "0.477"
-    },
-    {
-      "ticker": "SIME",
-      "name": "Sime Darby Bhd",
-      "percent": "0.476"
-    },
-    {
-      "ticker": "1303 TT",
-      "name": "Nan Ya Plastics Corp",
-      "percent": "0.475"
     },
     {
       "ticker": "1088 HK",
       "name": "China Shenhua Energy Co Ltd",
+      "percent": "0.476"
+    },
+    {
+      "ticker": "NCB AB",
+      "name": "National Commercial Bank",
+      "percent": "0.476"
+    },
+    {
+      "ticker": "MAXIS",
+      "name": "Maxis Bhd",
+      "percent": "0.476"
+    },
+    {
+      "ticker": "2885 TT",
+      "name": "Yuanta Financial Holding Co Ltd",
+      "percent": "0.475"
+    },
+    {
+      "ticker": "3618 HK",
+      "name": "Chongqing Rural Commercial Bank Co Ltd",
+      "percent": "0.475"
+    },
+    {
+      "ticker": "1402 TT",
+      "name": "Far Eastern New Century Corp",
       "percent": "0.474"
     },
     {
       "ticker": "ALMARAI AB",
       "name": "Almarai Co JSC",
-      "percent": "0.474"
+      "percent": "0.473"
+    },
+    {
+      "ticker": "1303 TT",
+      "name": "Nan Ya Plastics Corp",
+      "percent": "0.471"
     },
     {
       "ticker": "ALARKAN AB",
       "name": "Dar Al Arkan Real Estate Development Co",
-      "percent": "0.471"
+      "percent": "0.470"
     },
     {
       "ticker": "BUPA AB",
       "name": "Bupa Arabia for Cooperative Insurance Co",
-      "percent": "0.470"
+      "percent": "0.469"
+    },
+    {
+      "ticker": "TCELL TI",
+      "name": "Turkcell Iletisim Hizmetleri AS",
+      "percent": "0.469"
     },
     {
       "ticker": "2888 TT",
       "name": "Shin Kong Financial Holding Co Ltd",
-      "percent": "0.469"
+      "percent": "0.468"
     },
     {
       "ticker": "SABIC AB",
       "name": "Saudi Basic Industries Corp",
-      "percent": "0.469"
-    },
-    {
-      "ticker": "ADVANC-R T",
-      "name": "Advanced Info Service PCL",
       "percent": "0.468"
     },
     {
       "ticker": "ZAIN KK",
       "name": "Mobile Telecommunications Co KSC",
-      "percent": "0.467"
+      "percent": "0.466"
+    },
+    {
+      "ticker": "CUERVO*",
+      "name": "Becle SAB de CV",
+      "percent": "0.466"
     },
     {
       "ticker": "NIC AB",
@@ -596,38 +606,38 @@
       "percent": "0.466"
     },
     {
+      "ticker": "ADVANC-R T",
+      "name": "Advanced Info Service PCL",
+      "percent": "0.463"
+    },
+    {
       "ticker": "SAFCO AB",
       "name": "Saudi Arabian Fertilizer Co",
-      "percent": "0.463"
+      "percent": "0.462"
     },
     {
       "ticker": "MOUWASAT A",
       "name": "Mouwasat Medical Services Co",
-      "percent": "0.462"
+      "percent": "0.461"
     },
     {
       "ticker": "3706 TT",
       "name": "Mitac Holdings Corp",
-      "percent": "0.462"
+      "percent": "0.461"
     },
     {
       "ticker": "FEMSAUBD M",
       "name": "Fomento Economico Mexicano SAB de CV",
-      "percent": "0.461"
-    },
-    {
-      "ticker": "CUERVO*",
-      "name": "Becle SAB de CV",
       "percent": "0.460"
     },
     {
       "ticker": "PTG",
       "name": "Petronas Gas Bhd",
-      "percent": "0.460"
+      "percent": "0.459"
     },
     {
-      "ticker": "3618 HK",
-      "name": "Chongqing Rural Commercial Bank Co Ltd",
+      "ticker": "152 HK",
+      "name": "Shenzhen International Holdings Ltd",
       "percent": "0.459"
     },
     {
@@ -636,109 +646,89 @@
       "percent": "0.458"
     },
     {
-      "ticker": "152 HK",
-      "name": "Shenzhen International Holdings Ltd",
-      "percent": "0.458"
-    },
-    {
       "ticker": "2809 TT",
       "name": "King's Town Bank Co Ltd",
-      "percent": "0.457"
-    },
-    {
-      "ticker": "TCELL TI",
-      "name": "Turkcell Iletisim Hizmetleri AS",
-      "percent": "0.457"
-    },
-    {
-      "ticker": "EMAAR AB",
-      "name": "Emaar Economic City",
-      "percent": "0.456"
-    },
-    {
-      "ticker": "3799 HK",
-      "name": "Dali Foods Group Co Ltd",
-      "percent": "0.454"
+      "percent": "0.458"
     },
     {
       "ticker": "RDY",
       "name": "Dr Reddy's Laboratories Ltd ADR",
-      "percent": "0.454"
+      "percent": "0.456"
+    },
+    {
+      "ticker": "EMAAR AB",
+      "name": "Emaar Economic City",
+      "percent": "0.455"
     },
     {
       "ticker": "T",
       "name": "Telekom Malaysia Bhd",
-      "percent": "0.452"
-    },
-    {
-      "ticker": "AMXL",
-      "name": "America Movil SAB de CV",
-      "percent": "0.450"
-    },
-    {
-      "ticker": "1314 TT",
-      "name": "China Petrochemical Development Corp",
-      "percent": "0.450"
-    },
-    {
-      "ticker": "IQCD QD",
-      "name": "Industries Qatar QSC",
-      "percent": "0.450"
-    },
-    {
-      "ticker": "005930 KS",
-      "name": "Samsung Electronics Co Ltd",
-      "percent": "0.449"
+      "percent": "0.453"
     },
     {
       "ticker": "EREGL TI",
       "name": "Eregli Demir ve Celik Fabrikalari TAS",
+      "percent": "0.452"
+    },
+    {
+      "ticker": "3799 HK",
+      "name": "Dali Foods Group Co Ltd",
+      "percent": "0.451"
+    },
+    {
+      "ticker": "IQCD QD",
+      "name": "Industries Qatar QSC",
       "percent": "0.449"
     },
     {
-      "ticker": "576 HK",
-      "name": "Zhejiang Expressway Co Ltd",
-      "percent": "0.447"
+      "ticker": "AMXL",
+      "name": "America Movil SAB de CV",
+      "percent": "0.449"
     },
     {
-      "ticker": "007310 KS",
-      "name": "Ottogi Corp",
-      "percent": "0.446"
+      "ticker": "1314 TT",
+      "name": "China Petrochemical Development Corp",
+      "percent": "0.448"
     },
     {
       "ticker": "051600 KS",
       "name": "KEPCO Plant Service & Engineering Co Ltd",
-      "percent": "0.445"
-    },
-    {
-      "ticker": "COMI EY",
-      "name": "Commercial International Bank Egypt SAE",
-      "percent": "0.443"
-    },
-    {
-      "ticker": "257 HK",
-      "name": "China Everbright Environment Group Ltd",
-      "percent": "0.443"
+      "percent": "0.447"
     },
     {
       "ticker": "2059 TT",
       "name": "King Slide Works Co Ltd",
-      "percent": "0.442"
-    },
-    {
-      "ticker": "2352 TT",
-      "name": "Qisda Corp",
-      "percent": "0.442"
+      "percent": "0.446"
     },
     {
       "ticker": "700 HK",
       "name": "Tencent Holdings Ltd",
+      "percent": "0.444"
+    },
+    {
+      "ticker": "005930 KS",
+      "name": "Samsung Electronics Co Ltd",
+      "percent": "0.443"
+    },
+    {
+      "ticker": "COMI EY",
+      "name": "Commercial International Bank Egypt SAE",
+      "percent": "0.442"
+    },
+    {
+      "ticker": "257 HK",
+      "name": "China Everbright Environment Group Ltd",
       "percent": "0.441"
+    },
+    {
+      "ticker": "007310 KS",
+      "name": "Ottogi Corp",
+      "percent": "0.440"
     },
     {
       "ticker": "ADIB UH",
       "name": "Abu Dhabi Islamic Bank PJSC",
-      "percent": "0.441"
+      "percent": "0.440"
     },
     {
       "ticker": "2105 TT",
@@ -746,13 +736,8 @@
       "percent": "0.439"
     },
     {
-      "ticker": "270 HK",
-      "name": "Guangdong Investment Ltd",
-      "percent": "0.438"
-    },
-    {
-      "ticker": "1605 TT",
-      "name": "Walsin Lihwa Corp",
+      "ticker": "2352 TT",
+      "name": "Qisda Corp",
       "percent": "0.438"
     },
     {
@@ -761,54 +746,49 @@
       "percent": "0.437"
     },
     {
-      "ticker": "PBK",
-      "name": "Public Bank Bhd",
-      "percent": "0.437"
+      "ticker": "576 HK",
+      "name": "Zhejiang Expressway Co Ltd",
+      "percent": "0.436"
     },
     {
       "ticker": "220 HK",
       "name": "Uni-President China Holdings Ltd",
-      "percent": "0.436"
+      "percent": "0.432"
     },
     {
-      "ticker": "SPP",
-      "name": "SPAR Group Ltd/The",
-      "percent": "0.434"
+      "ticker": "1605 TT",
+      "name": "Walsin Lihwa Corp",
+      "percent": "0.431"
     },
     {
       "ticker": "IHH",
       "name": "IHH Healthcare Bhd",
-      "percent": "0.431"
-    },
-    {
-      "ticker": "2353 TT",
-      "name": "Acer Inc",
       "percent": "0.430"
     },
     {
-      "ticker": "2027 TT",
-      "name": "TA Chen Stainless Pipe",
-      "percent": "0.429"
+      "ticker": "SPP",
+      "name": "SPAR Group Ltd/The",
+      "percent": "0.430"
     },
     {
-      "ticker": "RHBBANK",
-      "name": "RHB Bank Bhd",
+      "ticker": "270 HK",
+      "name": "Guangdong Investment Ltd",
+      "percent": "0.430"
+    },
+    {
+      "ticker": "PBK",
+      "name": "Public Bank Bhd",
+      "percent": "0.430"
+    },
+    {
+      "ticker": "3968 HK",
+      "name": "China Merchants Bank Co Ltd",
+      "percent": "0.427"
+    },
+    {
+      "ticker": "1800 HK",
+      "name": "China Communications Construction Co Ltd",
       "percent": "0.426"
-    },
-    {
-      "ticker": "9904 TT",
-      "name": "Pou Chen Corp",
-      "percent": "0.425"
-    },
-    {
-      "ticker": "012750 KS",
-      "name": "S-1 Corp",
-      "percent": "0.424"
-    },
-    {
-      "ticker": "5876 TT",
-      "name": "Shanghai Commercial & Savings Bank Ltd/The",
-      "percent": "0.424"
     },
     {
       "ticker": "392 HK",
@@ -816,54 +796,74 @@
       "percent": "0.424"
     },
     {
-      "ticker": "371 HK",
-      "name": "Beijing Enterprises Water Group Ltd",
+      "ticker": "5876 TT",
+      "name": "Shanghai Commercial & Savings Bank Ltd/The",
+      "percent": "0.423"
+    },
+    {
+      "ticker": "2353 TT",
+      "name": "Acer Inc",
       "percent": "0.422"
     },
     {
-      "ticker": "1565 TT",
-      "name": "St Shine Optical Co Ltd",
-      "percent": "0.421"
+      "ticker": "012750 KS",
+      "name": "S-1 Corp",
+      "percent": "0.422"
+    },
+    {
+      "ticker": "RHBBANK",
+      "name": "RHB Bank Bhd",
+      "percent": "0.422"
     },
     {
       "ticker": "RIBL AB",
       "name": "Riyad Bank",
-      "percent": "0.421"
+      "percent": "0.420"
+    },
+    {
+      "ticker": "2027 TT",
+      "name": "TA Chen Stainless Pipe",
+      "percent": "0.419"
+    },
+    {
+      "ticker": "9904 TT",
+      "name": "Pou Chen Corp",
+      "percent": "0.419"
     },
     {
       "ticker": "032640 KS",
       "name": "LG Uplus Corp",
-      "percent": "0.420"
-    },
-    {
-      "ticker": "1800 HK",
-      "name": "China Communications Construction Co Ltd",
-      "percent": "0.419"
-    },
-    {
-      "ticker": "003410 KS",
-      "name": "Ssangyong Cement Industrial Co Ltd",
       "percent": "0.418"
+    },
+    {
+      "ticker": "1565 TT",
+      "name": "St Shine Optical Co Ltd",
+      "percent": "0.416"
     },
     {
       "ticker": "5347 TT",
       "name": "Vanguard International Semiconductor Corp",
-      "percent": "0.418"
+      "percent": "0.416"
     },
     {
       "ticker": "004370 KS",
       "name": "NongShim Co Ltd",
-      "percent": "0.416"
+      "percent": "0.414"
+    },
+    {
+      "ticker": "2439 TT",
+      "name": "Merry Electronics Co Ltd",
+      "percent": "0.412"
+    },
+    {
+      "ticker": "SAHOL TI",
+      "name": "Haci Omer Sabanci Holding AS",
+      "percent": "0.411"
     },
     {
       "ticker": "2823 TT",
       "name": "China Life Insurance Co Ltd/Taiwan",
-      "percent": "0.415"
-    },
-    {
-      "ticker": "6121 TT",
-      "name": "Simplo Technology Co Ltd",
-      "percent": "0.414"
+      "percent": "0.411"
     },
     {
       "ticker": "INTUCH-R T",
@@ -871,9 +871,34 @@
       "percent": "0.410"
     },
     {
+      "ticker": "371 HK",
+      "name": "Beijing Enterprises Water Group Ltd",
+      "percent": "0.410"
+    },
+    {
+      "ticker": "003410 KS",
+      "name": "Ssangyong Cement Industrial Co Ltd",
+      "percent": "0.409"
+    },
+    {
+      "ticker": "6121 TT",
+      "name": "Simplo Technology Co Ltd",
+      "percent": "0.408"
+    },
+    {
+      "ticker": "018260 KS",
+      "name": "Samsung SDS Co Ltd",
+      "percent": "0.407"
+    },
+    {
+      "ticker": "151 HK",
+      "name": "Want Want China Holdings Ltd",
+      "percent": "0.407"
+    },
+    {
       "ticker": "941 HK",
       "name": "China Mobile Ltd",
-      "percent": "0.410"
+      "percent": "0.407"
     },
     {
       "ticker": "1044 HK",
@@ -888,12 +913,7 @@
     {
       "ticker": "VOD",
       "name": "Vodacom Group Ltd",
-      "percent": "0.406"
-    },
-    {
-      "ticker": "3968 HK",
-      "name": "China Merchants Bank Co Ltd",
-      "percent": "0.406"
+      "percent": "0.405"
     },
     {
       "ticker": "DIB UH",
@@ -903,122 +923,102 @@
     {
       "ticker": "ETISALAT U",
       "name": "Emirates Telecommunications Group Co PJSC",
-      "percent": "0.405"
+      "percent": "0.404"
     },
     {
-      "ticker": "6285 TT",
-      "name": "Wistron NeWeb Corp",
+      "ticker": "1359 HK",
+      "name": "China Cinda Asset Management Co Ltd",
       "percent": "0.404"
     },
     {
       "ticker": "1766 HK",
       "name": "CRRC Corp Ltd",
-      "percent": "0.404"
-    },
-    {
-      "ticker": "2439 TT",
-      "name": "Merry Electronics Co Ltd",
       "percent": "0.403"
     },
     {
-      "ticker": "SAHOL TI",
-      "name": "Haci Omer Sabanci Holding AS",
-      "percent": "0.399"
+      "ticker": "6285 TT",
+      "name": "Wistron NeWeb Corp",
+      "percent": "0.401"
     },
     {
       "ticker": "GRUMAB",
       "name": "Gruma SAB de CV",
-      "percent": "0.395"
-    },
-    {
-      "ticker": "018260 KS",
-      "name": "Samsung SDS Co Ltd",
-      "percent": "0.395"
-    },
-    {
-      "ticker": "151 HK",
-      "name": "Want Want China Holdings Ltd",
-      "percent": "0.395"
+      "percent": "0.399"
     },
     {
       "ticker": "PINFRA*",
       "name": "Promotora y Operadora de Infraestructura SAB de CV",
-      "percent": "0.392"
-    },
-    {
-      "ticker": "1359 HK",
-      "name": "China Cinda Asset Management Co Ltd",
-      "percent": "0.391"
-    },
-    {
-      "ticker": "9945 TT",
-      "name": "Ruentex Development Co Ltd",
-      "percent": "0.390"
-    },
-    {
-      "ticker": "2610 TT",
-      "name": "China Airlines Ltd",
-      "percent": "0.386"
-    },
-    {
-      "ticker": "CPS",
-      "name": "Cyfrowy Polsat SA",
-      "percent": "0.384"
+      "percent": "0.388"
     },
     {
       "ticker": "390 HK",
       "name": "China Railway Group Ltd",
-      "percent": "0.384"
+      "percent": "0.388"
+    },
+    {
+      "ticker": "9945 TT",
+      "name": "Ruentex Development Co Ltd",
+      "percent": "0.385"
+    },
+    {
+      "ticker": "2610 TT",
+      "name": "China Airlines Ltd",
+      "percent": "0.383"
+    },
+    {
+      "ticker": "CPS",
+      "name": "Cyfrowy Polsat SA",
+      "percent": "0.383"
     },
     {
       "ticker": "2377 TT",
       "name": "Micro-Star International Co Ltd",
-      "percent": "0.377"
-    },
-    {
-      "ticker": "386 HK",
-      "name": "China Petroleum & Chemical Corp",
-      "percent": "0.375"
+      "percent": "0.376"
     },
     {
       "ticker": "2603 TT",
       "name": "Evergreen Marine Corp Taiwan Ltd",
-      "percent": "0.373"
+      "percent": "0.376"
     },
     {
       "ticker": "688 HK",
       "name": "China Overseas Land & Investment Ltd",
-      "percent": "0.373"
-    },
-    {
-      "ticker": "914 HK",
-      "name": "Anhui Conch Cement Co Ltd",
-      "percent": "0.370"
-    },
-    {
-      "ticker": "1313 HK",
-      "name": "China Resources Cement Holdings Ltd",
-      "percent": "0.369"
-    },
-    {
-      "ticker": "BDMS-R TB",
-      "name": "Bangkok Dusit Medical Services PCL",
-      "percent": "0.369"
-    },
-    {
-      "ticker": "AXIATA",
-      "name": "Axiata Group Bhd",
-      "percent": "0.367"
-    },
-    {
-      "ticker": "1193 HK",
-      "name": "China Resources Gas Group Ltd",
-      "percent": "0.363"
+      "percent": "0.375"
     },
     {
       "ticker": "KOMB CP",
       "name": "Komercni banka as",
-      "percent": "0.362"
+      "percent": "0.375"
+    },
+    {
+      "ticker": "386 HK",
+      "name": "China Petroleum & Chemical Corp",
+      "percent": "0.374"
+    },
+    {
+      "ticker": "914 HK",
+      "name": "Anhui Conch Cement Co Ltd",
+      "percent": "0.373"
+    },
+    {
+      "ticker": "1313 HK",
+      "name": "China Resources Cement Holdings Ltd",
+      "percent": "0.371"
+    },
+    {
+      "ticker": "1193 HK",
+      "name": "China Resources Gas Group Ltd",
+      "percent": "0.366"
+    },
+    {
+      "ticker": "BDMS-R TB",
+      "name": "Bangkok Dusit Medical Services PCL",
+      "percent": "0.365"
+    },
+    {
+      "ticker": "AXIATA",
+      "name": "Axiata Group Bhd",
+      "percent": "0.355"
     },
     {
       "ticker": "-Taiwan",
@@ -1033,22 +1033,17 @@
     {
       "ticker": "-SouthKore",
       "name": "Cash/Receivables/Payables",
-      "percent": "0.037"
+      "percent": "0.036"
     },
     {
       "ticker": "1644733D T",
       "name": "TA Chen Stainless Pipe",
-      "percent": "0.015"
+      "percent": "0.013"
     },
     {
       "ticker": "-SaudArabR",
       "name": "Cash/Receivables/Payables",
       "percent": "0.006"
-    },
-    {
-      "ticker": "-MalaysnRi",
-      "name": "Cash/Receivables/Payables",
-      "percent": "0.002"
     },
     {
       "ticker": "-SAfricaRa",
@@ -1073,6 +1068,11 @@
     {
       "ticker": "6863 HK",
       "name": "China Huishan Dairy Holdings Co Ltd",
+      "percent": "0.000"
+    },
+    {
+      "ticker": "-MalaysnRi",
+      "name": "Cash/Receivables/Payables",
       "percent": "0.000"
     },
     {
@@ -1108,7 +1108,7 @@
     {
       "ticker": "-CASH-",
       "name": "Cash/Receivables/Payables",
-      "percent": "-0.492"
+      "percent": "-0.489"
     }
   ]
 }

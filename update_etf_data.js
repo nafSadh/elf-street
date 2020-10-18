@@ -7,7 +7,12 @@ const Papa = require('./node_modules/papaparse')
 const XLSX = require('xlsx')
 const _ = require('lodash')
 
-const etfMetadata = require('./static/etfs.json')
+// const etfList = { ETFs: [] }
+// const etfMetadata = require('./static/etfs.json')
+
+// const spdr = require('./data/spdr.json')
+
+// console.log(spdr.ETFs.length)
 
 const wisdomTree = (function () {
   const json = require('./data/wisdomtree.json')
@@ -18,9 +23,16 @@ const wisdomTree = (function () {
   return json
 })()
 
-const infer = {
-  invesco: function (etf) {
-    return {
+const conversion = {
+  ark: function (etf) {
+    return etf
+  },
+  invesco: function (etf, sourceJson) {
+    etf.ticker = etf.Ticker
+    if (sourceJson.skip[etf.ticker]) {
+      return
+    }
+    return _.merge(etf, {
       issuer: 'Invesco',
       website:
         'https://www.invesco.com/us/financial-products/etfs/product-detail?audienceType=Investor&ticker=' +
@@ -32,11 +44,11 @@ const infer = {
         fileExt: 'csv',
         transform: 'invesco',
       },
-    }
+    })
   },
-  spdr: function (etf) {
+  spdr: function (etf, sourceJson) {
     const tkr = _.toLower(etf.ticker)
-    return {
+    return _.merge(etf, {
       issuer: 'SSGA',
       website:
         // etf name formatted to lower-case-kabab-case,
@@ -46,27 +58,29 @@ const infer = {
         _.toLower(etf.name.replace(/[^0-9a-z\s]/gi, '').replace(/ /g, '-')) +
         '-' +
         tkr,
-      holdingDataSource: {
-        fileUrl:
-          'https://www.ssga.com/us/en/individual/etfs/library-content/products/fund-data/etfs/us/holdings-daily-us-en-' +
-          tkr +
-          '.xlsx',
-        fileExt: 'xlsx',
-        transform: 'spdr',
-      },
-    }
+      holdingDataSource: sourceJson.skip[etf.ticker]
+        ? undefined
+        : {
+            fileUrl:
+              'https://www.ssga.com/us/en/individual/etfs/library-content/products/fund-data/etfs/us/holdings-daily-us-en-' +
+              tkr +
+              '.xlsx',
+            fileExt: 'xlsx',
+            transform: 'spdr',
+          },
+    })
   },
-  wisdomTree: function (etf) {
-    let wtEtf = wisdomTree.etf[etf.ticker]
-    _.assign(wtEtf, {
+  wisdomtree: function (etf) {
+    etf.ticker = etf.bloombergTicker
+    _.merge(etf, {
       holdingDataSource: {
         file: './data/stored/' + etf.ticker + '.csv',
         fileExt: 'csv',
-        transform: 'wisdomTree',
+        transform: 'wisdomtree',
       },
-      website: wtEtf.url,
+      website: etf.url,
     })
-    return wtEtf
+    return fs.existsSync(etf.holdingDataSource.file) ? etf : null
   },
 }
 
@@ -131,7 +145,7 @@ const transforms = {
     }
     return holdings
   },
-  wisdomTree: function (data) {
+  wisdomtree: function (data) {
     let jsonArray = []
     for (const obj of transforms.csvToJson(data)) {
       if (obj['Security Ticker'] && obj['Security Ticker'] != '') {
@@ -183,40 +197,56 @@ function dataToJsonFile(data, etf, jsonpath) {
   } else {
     etf.holdings = holdings
   }
-  fs.writeFile(jsonpath, JSON.stringify(etf, null, 2), (e, d) => {
+  writeJsonToFile(etf, jsonpath)
+}
+
+function writeJsonToFile(json, filepath) {
+  fs.writeFile(filepath, JSON.stringify(json, null, 2), (e, d) => {
     if (e) {
       console.error(e)
     }
   })
 }
 
-for (const etf of etfMetadata.ETFs) {
-  if (!etf.ticker) continue
-  if (etf.infer) {
-    _.merge(etf, infer[etf.infer](etf))
+function updateEtfData(updateExisting) {
+  const ETFs = []
+  for (const source of ['ark', 'invesco', 'spdr', 'wisdomtree']) {
+    const sourceJson = require('./data/' + source + '.json')
+    for (const etf of sourceJson.ETFs) {
+      ETFs.push(conversion[source](etf, sourceJson))
+    }
   }
-  if (etf.holdingDataSource) {
-    const filepath =
-      './data/download/' + etf.ticker + '.' + etf.holdingDataSource.fileExt
-    const jsonpath = './static/etf/' + etf.ticker + '.json'
-    if (false && fs.existsSync(jsonpath)) {
-      continue
-    } else if (etf.holdings) {
-      fs.writeFileSync(jsonpath, JSON.stringify(etf, null, 2))
-    } else if (etf.holdingDataSource.url) {
-      console.log('getting from: ' + etf.holdingDataSource.url)
-      fromUrl(etf.holdingDataSource.url, filepath, (data) => {
+  writeJsonToFile({ ETFs: ETFs }, './static/etfs.json')
+  for (const etf of ETFs) {
+    if (!etf) continue
+    if (etf.infer) {
+      _.merge(etf, conversion[etf.infer](etf))
+    }
+    if (etf.holdingDataSource) {
+      const filepath =
+        './data/download/' + etf.ticker + '.' + etf.holdingDataSource.fileExt
+      const jsonpath = './static/etf/' + etf.ticker + '.json'
+      if (!updateExisting && fs.existsSync(jsonpath)) {
+        continue
+      } else if (etf.holdings) {
+        fs.writeFileSync(jsonpath, JSON.stringify(etf, null, 2))
+      } else if (etf.holdingDataSource.url) {
+        console.log('getting from: ' + etf.holdingDataSource.url)
+        fromUrl(etf.holdingDataSource.url, filepath, (data) => {
+          dataToJsonFile(data, etf, jsonpath)
+        })
+      } else if (etf.holdingDataSource.file) {
+        console.log('reading file: ' + etf.holdingDataSource.file)
+        const data = fs.readFileSync(etf.holdingDataSource.file, 'utf8')
         dataToJsonFile(data, etf, jsonpath)
-      })
-    } else if (etf.holdingDataSource.file) {
-      console.log('reading file: ' + etf.holdingDataSource.file)
-      const data = fs.readFileSync(etf.holdingDataSource.file, 'utf8')
-      dataToJsonFile(data, etf, jsonpath)
-    } else if (etf.holdingDataSource.fileUrl) {
-      console.log('downloading: ' + etf.holdingDataSource.fileUrl)
-      fileFromUrl(etf.holdingDataSource.fileUrl, filepath, () => {
-        dataToJsonFile(fs.readFileSync(filepath), etf, jsonpath)
-      })
+      } else if (etf.holdingDataSource.fileUrl) {
+        console.log('downloading: ' + etf.holdingDataSource.fileUrl)
+        fileFromUrl(etf.holdingDataSource.fileUrl, filepath, () => {
+          dataToJsonFile(fs.readFileSync(filepath), etf, jsonpath)
+        })
+      }
     }
   }
 }
+
+updateEtfData(false)

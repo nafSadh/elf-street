@@ -1,7 +1,7 @@
 {
-  "name": "International Corporate Bond ETF",
-  "ticker": "PICB",
-  "Inception": "6/3/2010",
+  "Products": "International Corporate Bond ETF",
+  "Ticker": "PICB",
+  "Inception": "06/03/2010",
   "Gross Exp. Ratio": "0.50%",
   "YTD": "4.51",
   "1Yr": "8.37",
@@ -11,7 +11,7 @@
   "Since Incept.": "3.62",
   "Category": "Income",
   "SubCategory": "Core Plus",
-  "infer": "invesco",
+  "ticker": "PICB",
   "issuer": "Invesco",
   "website": "https://www.invesco.com/us/financial-products/etfs/product-detail?audienceType=Investor&ticker=PICB",
   "holdingDataSource": {
@@ -48,7 +48,7 @@
     {
       "ticker": "780086RF3",
       "name": "Royal Bank of Canada",
-      "percent": "0.54"
+      "percent": "0.55"
     },
     {
       "ticker": "06368BJ90",
@@ -83,7 +83,7 @@
     {
       "ticker": "AQ2321828",
       "name": "University of Oxford",
-      "percent": "0.49"
+      "percent": "0.48"
     },
     {
       "ticker": "QZ1617708",
@@ -133,16 +133,16 @@
     {
       "ticker": "EJ3722414",
       "name": "BHP Billiton Finance Ltd",
-      "percent": "0.41"
-    },
-    {
-      "ticker": "EK2758630",
-      "name": "Cooperatieve Rabobank UA",
       "percent": "0.40"
     },
     {
       "ticker": "AM0929183",
       "name": "Barclays PLC",
+      "percent": "0.40"
+    },
+    {
+      "ticker": "EK2758630",
+      "name": "Cooperatieve Rabobank UA",
       "percent": "0.40"
     },
     {
@@ -271,8 +271,8 @@
       "percent": "0.34"
     },
     {
-      "ticker": "AR0212944",
-      "name": "Wellcome Trust Ltd/The",
+      "ticker": "06368B5B0",
+      "name": "Bank of Montreal",
       "percent": "0.34"
     },
     {
@@ -281,19 +281,19 @@
       "percent": "0.34"
     },
     {
-      "ticker": "06368B5B0",
-      "name": "Bank of Montreal",
-      "percent": "0.34"
-    },
-    {
       "ticker": "JK4827529",
       "name": "Anheuser-Busch InBev SA/NV",
       "percent": "0.34"
     },
     {
+      "ticker": "AR0212944",
+      "name": "Wellcome Trust Ltd/The",
+      "percent": "0.34"
+    },
+    {
       "ticker": "06415EV93",
       "name": "Bank of Nova Scotia/The",
-      "percent": "0.33"
+      "percent": "0.34"
     },
     {
       "ticker": "89117FVY2",
@@ -353,7 +353,7 @@
     {
       "ticker": "06415EXV2",
       "name": "Bank of Nova Scotia/The",
-      "percent": "0.30"
+      "percent": "0.31"
     },
     {
       "ticker": "06368DCV4",
@@ -378,7 +378,7 @@
     {
       "ticker": "EI0493037",
       "name": "BAT International Finance PLC",
-      "percent": "0.30"
+      "percent": "0.29"
     },
     {
       "ticker": "QZ5429621",
@@ -436,13 +436,13 @@
       "percent": "0.28"
     },
     {
-      "ticker": "EJ9027123",
-      "name": "Heathrow Funding Ltd",
+      "ticker": "1360695D9",
+      "name": "Canadian Imperial Bank of Commerce",
       "percent": "0.28"
     },
     {
-      "ticker": "1360695D9",
-      "name": "Canadian Imperial Bank of Commerce",
+      "ticker": "EJ9027123",
+      "name": "Heathrow Funding Ltd",
       "percent": "0.28"
     },
     {
@@ -461,23 +461,18 @@
       "percent": "0.27"
     },
     {
-      "ticker": "EH9679034",
-      "name": "Koninklijke KPN NV",
-      "percent": "0.27"
-    },
-    {
       "ticker": "13607GFB5",
       "name": "Canadian Imperial Bank of Commerce",
       "percent": "0.27"
     },
     {
-      "ticker": "EH5463318",
-      "name": "Imperial Brands Finance PLC",
+      "ticker": "EH9679034",
+      "name": "Koninklijke KPN NV",
       "percent": "0.27"
     },
     {
-      "ticker": "EF2508671",
-      "name": "Telefonica Emisiones SA",
+      "ticker": "EH5463318",
+      "name": "Imperial Brands Finance PLC",
       "percent": "0.27"
     },
     {
@@ -488,6 +483,11 @@
     {
       "ticker": "780086RZ9",
       "name": "Royal Bank of Canada",
+      "percent": "0.27"
+    },
+    {
+      "ticker": "EF2508671",
+      "name": "Telefonica Emisiones SA",
       "percent": "0.27"
     },
     {
@@ -526,11 +526,6 @@
       "percent": "0.25"
     },
     {
-      "ticker": "-Canadian",
-      "name": "Cash/Receivables/Payables",
-      "percent": "0.25"
-    },
-    {
       "ticker": "EG5612957",
       "name": "Enel SpA",
       "percent": "0.25"
@@ -543,6 +538,11 @@
     {
       "ticker": "EK3311017",
       "name": "Thames Water Utilities Finance PLC",
+      "percent": "0.25"
+    },
+    {
+      "ticker": "-Canadian",
+      "name": "Cash/Receivables/Payables",
       "percent": "0.25"
     },
     {
@@ -563,6 +563,11 @@
     {
       "ticker": "AV5772257",
       "name": "ING Groep NV",
+      "percent": "0.25"
+    },
+    {
+      "ticker": "BH4497047",
+      "name": "Anheuser-Busch InBev SA/NV",
       "percent": "0.24"
     },
     {
@@ -576,18 +581,13 @@
       "percent": "0.24"
     },
     {
-      "ticker": "BH4497047",
-      "name": "Anheuser-Busch InBev SA/NV",
+      "ticker": "EI8731859",
+      "name": "Heathrow Funding Ltd",
       "percent": "0.24"
     },
     {
       "ticker": "QZ5429639",
       "name": "Cadent Finance PLC",
-      "percent": "0.24"
-    },
-    {
-      "ticker": "EI8731859",
-      "name": "Heathrow Funding Ltd",
       "percent": "0.24"
     },
     {
@@ -601,11 +601,6 @@
       "percent": "0.24"
     },
     {
-      "ticker": "EK8509714",
-      "name": "Credit Suisse Group Funding Guernsey Ltd",
-      "percent": "0.24"
-    },
-    {
       "ticker": "EF7012109",
       "name": "Thames Water Utilities Finance PLC",
       "percent": "0.24"
@@ -616,18 +611,23 @@
       "percent": "0.24"
     },
     {
-      "ticker": "EH5179385",
-      "name": "Heathrow Funding Ltd",
+      "ticker": "EK8509714",
+      "name": "Credit Suisse Group Funding Guernsey Ltd",
       "percent": "0.24"
     },
     {
-      "ticker": "AO2483268",
-      "name": "Annington Funding PLC",
+      "ticker": "EH5179385",
+      "name": "Heathrow Funding Ltd",
       "percent": "0.23"
     },
     {
       "ticker": "EK4884269",
       "name": "Total Capital Canada Ltd",
+      "percent": "0.23"
+    },
+    {
+      "ticker": "AO2483268",
+      "name": "Annington Funding PLC",
       "percent": "0.23"
     },
     {
@@ -666,13 +666,13 @@
       "percent": "0.23"
     },
     {
-      "ticker": "07813ZCD4",
-      "name": "Bell Canada",
+      "ticker": "BH5287496",
+      "name": "Shell International Finance BV",
       "percent": "0.23"
     },
     {
-      "ticker": "BH5287496",
-      "name": "Shell International Finance BV",
+      "ticker": "07813ZCD4",
+      "name": "Bell Canada",
       "percent": "0.23"
     },
     {
@@ -681,13 +681,13 @@
       "percent": "0.23"
     },
     {
-      "ticker": "BJ2580659",
-      "name": "GlaxoSmithKline Capital PLC",
+      "ticker": "ZQ0128970",
+      "name": "CK Hutchison Group Telecom Finance SA",
       "percent": "0.23"
     },
     {
-      "ticker": "ZQ0128970",
-      "name": "CK Hutchison Group Telecom Finance SA",
+      "ticker": "BJ2580659",
+      "name": "GlaxoSmithKline Capital PLC",
       "percent": "0.23"
     },
     {
@@ -701,23 +701,23 @@
       "percent": "0.23"
     },
     {
-      "ticker": "EJ6286110",
-      "name": "Scottish Widows Ltd",
-      "percent": "0.23"
-    },
-    {
       "ticker": "AR7572159",
       "name": "Sanofi",
       "percent": "0.23"
     },
     {
-      "ticker": "ZP3884209",
-      "name": "Deutsche Bank AG",
-      "percent": "0.22"
+      "ticker": "EJ6286110",
+      "name": "Scottish Widows Ltd",
+      "percent": "0.23"
     },
     {
       "ticker": "BH4959517",
       "name": "Pernod Ricard SA",
+      "percent": "0.22"
+    },
+    {
+      "ticker": "ZP3884209",
+      "name": "Deutsche Bank AG",
       "percent": "0.22"
     },
     {
@@ -736,7 +736,7 @@
       "percent": "0.22"
     },
     {
-      "ticker": "AZ8059745",
+      "ticker": "JK4672594",
       "name": "Banco Santander SA",
       "percent": "0.22"
     },
@@ -746,7 +746,7 @@
       "percent": "0.22"
     },
     {
-      "ticker": "JK4672594",
+      "ticker": "AZ8059745",
       "name": "Banco Santander SA",
       "percent": "0.22"
     },
@@ -791,8 +791,8 @@
       "percent": "0.22"
     },
     {
-      "ticker": "ED0954039",
-      "name": "HSBC Bank PLC",
+      "ticker": "AO1138905",
+      "name": "Daimler AG",
       "percent": "0.22"
     },
     {
@@ -801,13 +801,13 @@
       "percent": "0.22"
     },
     {
-      "ticker": "AL6886769",
-      "name": "Credit Agricole SA/London",
+      "ticker": "ED0954039",
+      "name": "HSBC Bank PLC",
       "percent": "0.22"
     },
     {
-      "ticker": "AO1138905",
-      "name": "Daimler AG",
+      "ticker": "AL6886769",
+      "name": "Credit Agricole SA/London",
       "percent": "0.22"
     },
     {
@@ -821,13 +821,13 @@
       "percent": "0.22"
     },
     {
-      "ticker": "AN6296759",
-      "name": "Banque Federative du Credit Mutuel SA",
+      "ticker": "QZ9130449",
+      "name": "UniCredit SpA",
       "percent": "0.22"
     },
     {
-      "ticker": "QZ9130449",
-      "name": "UniCredit SpA",
+      "ticker": "AN6296759",
+      "name": "Banque Federative du Credit Mutuel SA",
       "percent": "0.22"
     },
     {
@@ -886,13 +886,13 @@
       "percent": "0.21"
     },
     {
-      "ticker": "AT1823067",
-      "name": "Bayer Capital Corp BV",
+      "ticker": "AR0501700",
+      "name": "Banco Santander SA",
       "percent": "0.21"
     },
     {
-      "ticker": "89353ZCD8",
-      "name": "TransCanada PipeLines Ltd",
+      "ticker": "AT1823067",
+      "name": "Bayer Capital Corp BV",
       "percent": "0.21"
     },
     {
@@ -901,8 +901,8 @@
       "percent": "0.21"
     },
     {
-      "ticker": "AR0501700",
-      "name": "Banco Santander SA",
+      "ticker": "89353ZCD8",
+      "name": "TransCanada PipeLines Ltd",
       "percent": "0.21"
     },
     {
@@ -946,13 +946,13 @@
       "percent": "0.21"
     },
     {
-      "ticker": "QJ5812558",
-      "name": "UBS Group AG",
+      "ticker": "87971MAR4",
+      "name": "TELUS Corp",
       "percent": "0.21"
     },
     {
-      "ticker": "87971MAR4",
-      "name": "TELUS Corp",
+      "ticker": "QJ5812558",
+      "name": "UBS Group AG",
       "percent": "0.21"
     },
     {
@@ -966,8 +966,8 @@
       "percent": "0.21"
     },
     {
-      "ticker": "89353ZCC0",
-      "name": "TransCanada PipeLines Ltd",
+      "ticker": "AZ0978132",
+      "name": "CaixaBank SA",
       "percent": "0.21"
     },
     {
@@ -981,18 +981,18 @@
       "percent": "0.21"
     },
     {
-      "ticker": "AZ0978132",
-      "name": "CaixaBank SA",
-      "percent": "0.21"
-    },
-    {
-      "ticker": "EJ3496712",
-      "name": "Cooperatieve Rabobank UA",
+      "ticker": "89353ZCC0",
+      "name": "TransCanada PipeLines Ltd",
       "percent": "0.21"
     },
     {
       "ticker": "ZQ4375486",
       "name": "Skandinaviska Enskilda Banken AB",
+      "percent": "0.21"
+    },
+    {
+      "ticker": "EJ3496712",
+      "name": "Cooperatieve Rabobank UA",
       "percent": "0.21"
     },
     {
@@ -1003,16 +1003,16 @@
     {
       "ticker": "ZP3171193",
       "name": "Credit Agricole SA",
+      "percent": "0.21"
+    },
+    {
+      "ticker": "AM5978854",
+      "name": "Daimler AG",
       "percent": "0.20"
     },
     {
       "ticker": "AM9627952",
       "name": "Volkswagen International Finance NV",
-      "percent": "0.20"
-    },
-    {
-      "ticker": "AM5978854",
-      "name": "Daimler AG",
       "percent": "0.20"
     },
     {
@@ -1023,6 +1023,11 @@
     {
       "ticker": "BK3220856",
       "name": "Bayer AG",
+      "percent": "0.20"
+    },
+    {
+      "ticker": "29251ZBS5",
+      "name": "Enbridge Inc",
       "percent": "0.20"
     },
     {
@@ -1041,11 +1046,6 @@
       "percent": "0.20"
     },
     {
-      "ticker": "29251ZBS5",
-      "name": "Enbridge Inc",
-      "percent": "0.20"
-    },
-    {
       "ticker": "ZQ7076396",
       "name": "EssilorLuxottica SA",
       "percent": "0.20"
@@ -1056,13 +1056,18 @@
       "percent": "0.20"
     },
     {
+      "ticker": "BJ9231801",
+      "name": "Societe Generale SA",
+      "percent": "0.20"
+    },
+    {
       "ticker": "AV6469648",
       "name": "Takeda Pharmaceutical Co Ltd",
       "percent": "0.20"
     },
     {
-      "ticker": "BJ9231801",
-      "name": "Societe Generale SA",
+      "ticker": "63306AGD2",
+      "name": "National Bank of Canada",
       "percent": "0.20"
     },
     {
@@ -1076,18 +1081,13 @@
       "percent": "0.20"
     },
     {
-      "ticker": "63306AGD2",
-      "name": "National Bank of Canada",
+      "ticker": "ZP3535538",
+      "name": "ABN AMRO Bank NV",
       "percent": "0.20"
     },
     {
       "ticker": "AX3750244",
       "name": "Danske Bank A/S",
-      "percent": "0.20"
-    },
-    {
-      "ticker": "ZP3535538",
-      "name": "ABN AMRO Bank NV",
       "percent": "0.20"
     },
     {
@@ -1101,13 +1101,8 @@
       "percent": "0.20"
     },
     {
-      "ticker": "EK6887187",
-      "name": "Volkswagen International Finance NV",
-      "percent": "0.20"
-    },
-    {
-      "ticker": "AZ1870155",
-      "name": "BPCE SA",
+      "ticker": "31430WCG7",
+      "name": "Federation des Caisses Desjardins du Quebec",
       "percent": "0.20"
     },
     {
@@ -1116,18 +1111,28 @@
       "percent": "0.20"
     },
     {
-      "ticker": "EH6185894",
-      "name": "SSE PLC",
-      "percent": "0.20"
-    },
-    {
       "ticker": "ZR3437327",
       "name": "Siemens Financieringsmaatschappij NV",
       "percent": "0.20"
     },
     {
-      "ticker": "31430WCG7",
-      "name": "Federation des Caisses Desjardins du Quebec",
+      "ticker": "AZ1870155",
+      "name": "BPCE SA",
+      "percent": "0.20"
+    },
+    {
+      "ticker": "EK6887187",
+      "name": "Volkswagen International Finance NV",
+      "percent": "0.20"
+    },
+    {
+      "ticker": "EH6185894",
+      "name": "SSE PLC",
+      "percent": "0.20"
+    },
+    {
+      "ticker": "ZP9016616",
+      "name": "LVMH Moet Hennessy Louis Vuitton SE",
       "percent": "0.20"
     },
     {
@@ -1141,13 +1146,13 @@
       "percent": "0.20"
     },
     {
-      "ticker": "ZP9016616",
-      "name": "LVMH Moet Hennessy Louis Vuitton SE",
+      "ticker": "AS4443527",
+      "name": "Danske Bank A/S",
       "percent": "0.20"
     },
     {
-      "ticker": "AS4443527",
-      "name": "Danske Bank A/S",
+      "ticker": "ZP8702745",
+      "name": "Skandinaviska Enskilda Banken AB",
       "percent": "0.20"
     },
     {
@@ -1158,11 +1163,6 @@
     {
       "ticker": "EK7724785",
       "name": "Intesa Sanpaolo SpA",
-      "percent": "0.20"
-    },
-    {
-      "ticker": "ZP8702745",
-      "name": "Skandinaviska Enskilda Banken AB",
       "percent": "0.20"
     },
     {
@@ -1351,13 +1351,13 @@
       "percent": "0.16"
     },
     {
-      "ticker": "EH6022436",
-      "name": "Engie SA",
+      "ticker": "EK7473516",
+      "name": "Equinor ASA",
       "percent": "0.16"
     },
     {
-      "ticker": "EK7473516",
-      "name": "Equinor ASA",
+      "ticker": "EH6022436",
+      "name": "Engie SA",
       "percent": "0.16"
     },
     {
@@ -1506,13 +1506,13 @@
       "percent": "0.12"
     },
     {
-      "ticker": "EK5488946",
-      "name": "Society of Lloyd's",
+      "ticker": "AO1139366",
+      "name": "Daimler AG",
       "percent": "0.12"
     },
     {
-      "ticker": "AO1139366",
-      "name": "Daimler AG",
+      "ticker": "EK5488946",
+      "name": "Society of Lloyd's",
       "percent": "0.12"
     },
     {
@@ -1526,13 +1526,13 @@
       "percent": "0.12"
     },
     {
-      "ticker": "BH6823513",
-      "name": "Capgemini SE",
+      "ticker": "AU2721333",
+      "name": "Cie Generale des Etablissements Michelin SCA",
       "percent": "0.12"
     },
     {
-      "ticker": "AU2721333",
-      "name": "Cie Generale des Etablissements Michelin SCA",
+      "ticker": "BH6823513",
+      "name": "Capgemini SE",
       "percent": "0.12"
     },
     {
@@ -1568,7 +1568,7 @@
     {
       "ticker": "AW5684849",
       "name": "Orange SA",
-      "percent": "0.11"
+      "percent": "0.12"
     },
     {
       "ticker": "EK0946377",
@@ -1586,13 +1586,13 @@
       "percent": "0.11"
     },
     {
-      "ticker": "EK1485649",
-      "name": "Anheuser-Busch InBev SA/NV",
+      "ticker": "EK4808748",
+      "name": "Sky Ltd",
       "percent": "0.11"
     },
     {
-      "ticker": "EK4808748",
-      "name": "Sky Ltd",
+      "ticker": "EK1485649",
+      "name": "Anheuser-Busch InBev SA/NV",
       "percent": "0.11"
     },
     {
@@ -1656,13 +1656,13 @@
       "percent": "0.11"
     },
     {
-      "ticker": "UV7709727",
-      "name": "Banque Federative du Credit Mutuel SA",
+      "ticker": "AM0196130",
+      "name": "Banco Santander SA",
       "percent": "0.11"
     },
     {
-      "ticker": "AM0196130",
-      "name": "Banco Santander SA",
+      "ticker": "UV7709727",
+      "name": "Banque Federative du Credit Mutuel SA",
       "percent": "0.11"
     },
     {
@@ -1686,8 +1686,8 @@
       "percent": "0.11"
     },
     {
-      "ticker": "EJ7525417",
-      "name": "BPCE SA",
+      "ticker": "AX5438913",
+      "name": "Banque Federative du Credit Mutuel SA",
       "percent": "0.11"
     },
     {
@@ -1701,18 +1701,18 @@
       "percent": "0.11"
     },
     {
-      "ticker": "AX5438913",
-      "name": "Banque Federative du Credit Mutuel SA",
-      "percent": "0.11"
-    },
-    {
-      "ticker": "LW1558276",
-      "name": "BNP Paribas SA",
+      "ticker": "EJ7525417",
+      "name": "BPCE SA",
       "percent": "0.11"
     },
     {
       "ticker": "AQ6886040",
       "name": "Orange SA",
+      "percent": "0.11"
+    },
+    {
+      "ticker": "LW1558276",
+      "name": "BNP Paribas SA",
       "percent": "0.11"
     },
     {
@@ -1756,11 +1756,6 @@
       "percent": "0.11"
     },
     {
-      "ticker": "EJ7606910",
-      "name": "Cooperatieve Rabobank UA",
-      "percent": "0.11"
-    },
-    {
       "ticker": "EK8559263",
       "name": "Anheuser-Busch InBev SA/NV",
       "percent": "0.11"
@@ -1771,13 +1766,18 @@
       "percent": "0.11"
     },
     {
-      "ticker": "BH5288734",
-      "name": "Lloyds Bank Corporate Markets PLC",
+      "ticker": "EJ7606910",
+      "name": "Cooperatieve Rabobank UA",
       "percent": "0.11"
     },
     {
       "ticker": "AW5996979",
       "name": "Deutsche Bahn Finance GMBH",
+      "percent": "0.11"
+    },
+    {
+      "ticker": "BH5288734",
+      "name": "Lloyds Bank Corporate Markets PLC",
       "percent": "0.11"
     },
     {
@@ -1806,23 +1806,23 @@
       "percent": "0.11"
     },
     {
-      "ticker": "EK7212625",
-      "name": "Cooperatieve Rabobank UA",
-      "percent": "0.11"
-    },
-    {
       "ticker": "BH4959640",
       "name": "Total Capital International SA",
       "percent": "0.11"
     },
     {
-      "ticker": "LW0613627",
-      "name": "Mapfre SA",
+      "ticker": "EK7212625",
+      "name": "Cooperatieve Rabobank UA",
       "percent": "0.11"
     },
     {
       "ticker": "AX7293555",
       "name": "Abertis Infraestructuras SA",
+      "percent": "0.11"
+    },
+    {
+      "ticker": "LW0613627",
+      "name": "Mapfre SA",
       "percent": "0.11"
     },
     {
@@ -1836,13 +1836,13 @@
       "percent": "0.11"
     },
     {
-      "ticker": "EI6213447",
-      "name": "Barclays Bank PLC",
+      "ticker": "AM2479666",
+      "name": "Deutsche Telekom International Finance BV",
       "percent": "0.11"
     },
     {
-      "ticker": "AM2479666",
-      "name": "Deutsche Telekom International Finance BV",
+      "ticker": "EI6213447",
+      "name": "Barclays Bank PLC",
       "percent": "0.11"
     },
     {
@@ -1901,13 +1901,13 @@
       "percent": "0.11"
     },
     {
-      "ticker": "EJ3496415",
-      "name": "Cooperatieve Rabobank UA",
+      "ticker": "AS7502196",
+      "name": "Deutsche Telekom International Finance BV",
       "percent": "0.11"
     },
     {
-      "ticker": "AS7502196",
-      "name": "Deutsche Telekom International Finance BV",
+      "ticker": "EJ3496415",
+      "name": "Cooperatieve Rabobank UA",
       "percent": "0.11"
     },
     {
@@ -1921,18 +1921,13 @@
       "percent": "0.11"
     },
     {
-      "ticker": "026657AR7",
-      "name": "American Honda Finance Corp",
-      "percent": "0.11"
-    },
-    {
       "ticker": "ZS7766299",
       "name": "BNP Paribas SA",
       "percent": "0.11"
     },
     {
-      "ticker": "EK0137027",
-      "name": "Volkswagen Leasing GmbH",
+      "ticker": "026657AR7",
+      "name": "American Honda Finance Corp",
       "percent": "0.11"
     },
     {
@@ -1941,13 +1936,8 @@
       "percent": "0.11"
     },
     {
-      "ticker": "EK7642409",
-      "name": "Societe Generale SA",
-      "percent": "0.11"
-    },
-    {
-      "ticker": "EK1462895",
-      "name": "Airbus Finance BV",
+      "ticker": "EK0137027",
+      "name": "Volkswagen Leasing GmbH",
       "percent": "0.11"
     },
     {
@@ -1956,13 +1946,8 @@
       "percent": "0.11"
     },
     {
-      "ticker": "JV2247742",
-      "name": "Vonovia Finance BV",
-      "percent": "0.11"
-    },
-    {
-      "ticker": "LW0762689",
-      "name": "National Australia Bank Ltd",
+      "ticker": "EK7642409",
+      "name": "Societe Generale SA",
       "percent": "0.11"
     },
     {
@@ -1971,13 +1956,28 @@
       "percent": "0.11"
     },
     {
-      "ticker": "EK9468290",
-      "name": "Credit Agricole SA",
+      "ticker": "EK1462895",
+      "name": "Airbus Finance BV",
+      "percent": "0.11"
+    },
+    {
+      "ticker": "LW0762689",
+      "name": "National Australia Bank Ltd",
+      "percent": "0.11"
+    },
+    {
+      "ticker": "JV2247742",
+      "name": "Vonovia Finance BV",
       "percent": "0.11"
     },
     {
       "ticker": "LW0018397",
       "name": "Daimler AG",
+      "percent": "0.11"
+    },
+    {
+      "ticker": "EK9468290",
+      "name": "Credit Agricole SA",
       "percent": "0.11"
     },
     {
@@ -2016,13 +2016,13 @@
       "percent": "0.11"
     },
     {
-      "ticker": "AN5510507",
-      "name": "BNP Paribas SA",
+      "ticker": "AZ3706928",
+      "name": "Intesa Sanpaolo SpA",
       "percent": "0.11"
     },
     {
-      "ticker": "AZ3706928",
-      "name": "Intesa Sanpaolo SpA",
+      "ticker": "AN5510507",
+      "name": "BNP Paribas SA",
       "percent": "0.11"
     },
     {
@@ -2036,18 +2036,13 @@
       "percent": "0.11"
     },
     {
-      "ticker": "AW6375215",
-      "name": "CaixaBank SA",
-      "percent": "0.11"
-    },
-    {
-      "ticker": "BH5794459",
-      "name": "Naturgy Finance BV",
-      "percent": "0.11"
-    },
-    {
       "ticker": "AX3306799",
       "name": "Daimler International Finance BV",
+      "percent": "0.11"
+    },
+    {
+      "ticker": "AW6375215",
+      "name": "CaixaBank SA",
       "percent": "0.11"
     },
     {
@@ -2056,13 +2051,13 @@
       "percent": "0.11"
     },
     {
-      "ticker": "AX7293548",
-      "name": "Abertis Infraestructuras SA",
+      "ticker": "BH5794459",
+      "name": "Naturgy Finance BV",
       "percent": "0.11"
     },
     {
-      "ticker": "BK2909228",
-      "name": "Takeda Pharmaceutical Co Ltd",
+      "ticker": "AX7293548",
+      "name": "Abertis Infraestructuras SA",
       "percent": "0.11"
     },
     {
@@ -2071,8 +2066,8 @@
       "percent": "0.11"
     },
     {
-      "ticker": "BJ8145242",
-      "name": "Airbus SE",
+      "ticker": "BK2909228",
+      "name": "Takeda Pharmaceutical Co Ltd",
       "percent": "0.11"
     },
     {
@@ -2081,18 +2076,18 @@
       "percent": "0.11"
     },
     {
+      "ticker": "BJ8145242",
+      "name": "Airbus SE",
+      "percent": "0.11"
+    },
+    {
       "ticker": "ZS2150200",
       "name": "Auchan Holding SA",
-      "percent": "0.11"
+      "percent": "0.10"
     },
     {
       "ticker": "QZ8441011",
       "name": "Snam SpA",
-      "percent": "0.10"
-    },
-    {
-      "ticker": "AW8525577",
-      "name": "Auchan Holding SA",
       "percent": "0.10"
     },
     {
@@ -2101,8 +2096,8 @@
       "percent": "0.10"
     },
     {
-      "ticker": "JK2037758",
-      "name": "Vodafone Group PLC",
+      "ticker": "AW8525577",
+      "name": "Auchan Holding SA",
       "percent": "0.10"
     },
     {
@@ -2116,6 +2111,11 @@
       "percent": "0.10"
     },
     {
+      "ticker": "JK2037758",
+      "name": "Vodafone Group PLC",
+      "percent": "0.10"
+    },
+    {
       "ticker": "QZ6454628",
       "name": "Australia & New Zealand Banking Group Ltd",
       "percent": "0.10"
@@ -2126,13 +2126,13 @@
       "percent": "0.10"
     },
     {
-      "ticker": "ZQ0129309",
-      "name": "CK Hutchison Group Telecom Finance SA",
+      "ticker": "AS4915110",
+      "name": "Banco Bilbao Vizcaya Argentaria SA",
       "percent": "0.10"
     },
     {
-      "ticker": "AS4915110",
-      "name": "Banco Bilbao Vizcaya Argentaria SA",
+      "ticker": "ZQ0129309",
+      "name": "CK Hutchison Group Telecom Finance SA",
       "percent": "0.10"
     },
     {
@@ -2161,8 +2161,8 @@
       "percent": "0.10"
     },
     {
-      "ticker": "JK2700306",
-      "name": "UniCredit SpA",
+      "ticker": "ZS8244437",
+      "name": "Telenor ASA",
       "percent": "0.10"
     },
     {
@@ -2171,18 +2171,13 @@
       "percent": "0.10"
     },
     {
-      "ticker": "ZS8244437",
-      "name": "Telenor ASA",
-      "percent": "0.10"
-    },
-    {
       "ticker": "AQ6097812",
       "name": "BNP Paribas SA",
       "percent": "0.10"
     },
     {
-      "ticker": "EJ3421819",
-      "name": "Volkswagen Leasing GmbH",
+      "ticker": "JK2700306",
+      "name": "UniCredit SpA",
       "percent": "0.10"
     },
     {
@@ -2196,6 +2191,11 @@
       "percent": "0.10"
     },
     {
+      "ticker": "EJ3421819",
+      "name": "Volkswagen Leasing GmbH",
+      "percent": "0.10"
+    },
+    {
       "ticker": "AX8482850",
       "name": "Volkswagen Financial Services AG",
       "percent": "0.10"
@@ -2203,6 +2203,11 @@
     {
       "ticker": "AW5682827",
       "name": "BPCE SA",
+      "percent": "0.10"
+    },
+    {
+      "ticker": "JV5034337",
+      "name": "Daimler AG",
       "percent": "0.10"
     },
     {
@@ -2216,28 +2221,8 @@
       "percent": "0.10"
     },
     {
-      "ticker": "JV5034337",
-      "name": "Daimler AG",
-      "percent": "0.10"
-    },
-    {
-      "ticker": "QZ1467617",
-      "name": "EDP Finance BV",
-      "percent": "0.10"
-    },
-    {
       "ticker": "AO1672242",
       "name": "Volkswagen Leasing GmbH",
-      "percent": "0.10"
-    },
-    {
-      "ticker": "EJ5046861",
-      "name": "Deutsche Bank AG",
-      "percent": "0.10"
-    },
-    {
-      "ticker": "BK3220864",
-      "name": "Bayer AG",
       "percent": "0.10"
     },
     {
@@ -2246,13 +2231,23 @@
       "percent": "0.10"
     },
     {
+      "ticker": "QZ1467617",
+      "name": "EDP Finance BV",
+      "percent": "0.10"
+    },
+    {
+      "ticker": "BK3220864",
+      "name": "Bayer AG",
+      "percent": "0.10"
+    },
+    {
       "ticker": "ZQ3764136",
       "name": "Daimler AG",
       "percent": "0.10"
     },
     {
-      "ticker": "AW8221250",
-      "name": "KBC Group NV",
+      "ticker": "EJ5046861",
+      "name": "Deutsche Bank AG",
       "percent": "0.10"
     },
     {
@@ -2261,13 +2256,13 @@
       "percent": "0.10"
     },
     {
-      "ticker": "BJ3264311",
-      "name": "Nordea Bank Abp",
+      "ticker": "AW8221250",
+      "name": "KBC Group NV",
       "percent": "0.10"
     },
     {
-      "ticker": "AN5500565",
-      "name": "CaixaBank SA",
+      "ticker": "BJ3264311",
+      "name": "Nordea Bank Abp",
       "percent": "0.10"
     },
     {
@@ -2276,8 +2271,18 @@
       "percent": "0.10"
     },
     {
+      "ticker": "AN5500565",
+      "name": "CaixaBank SA",
+      "percent": "0.10"
+    },
+    {
       "ticker": "ZS4387925",
       "name": "BP Capital Markets PLC",
+      "percent": "0.10"
+    },
+    {
+      "ticker": "AZ3212786",
+      "name": "BNP Paribas SA",
       "percent": "0.10"
     },
     {
@@ -2286,8 +2291,13 @@
       "percent": "0.10"
     },
     {
-      "ticker": "AZ3212786",
-      "name": "BNP Paribas SA",
+      "ticker": "AZ5661865",
+      "name": "Logicor Financing Sarl",
+      "percent": "0.10"
+    },
+    {
+      "ticker": "BK4148171",
+      "name": "Credit Agricole Assurances SA",
       "percent": "0.10"
     },
     {
@@ -2301,11 +2311,6 @@
       "percent": "0.10"
     },
     {
-      "ticker": "AZ5661865",
-      "name": "Logicor Financing Sarl",
-      "percent": "0.10"
-    },
-    {
       "ticker": "AU5396927",
       "name": "ING Groep NV",
       "percent": "0.10"
@@ -2316,18 +2321,8 @@
       "percent": "0.10"
     },
     {
-      "ticker": "QZ8459823",
-      "name": "CNP Assurances",
-      "percent": "0.10"
-    },
-    {
       "ticker": "AQ8040612",
       "name": "Societe Generale SA",
-      "percent": "0.10"
-    },
-    {
-      "ticker": "BH9902322",
-      "name": "BPCE SA",
       "percent": "0.10"
     },
     {
@@ -2336,18 +2331,13 @@
       "percent": "0.10"
     },
     {
-      "ticker": "BK4148171",
-      "name": "Credit Agricole Assurances SA",
+      "ticker": "QZ8459823",
+      "name": "CNP Assurances",
       "percent": "0.10"
     },
     {
-      "ticker": "BJ7571927",
-      "name": "EssilorLuxottica SA",
-      "percent": "0.10"
-    },
-    {
-      "ticker": "AQ0264657",
-      "name": "British Telecommunications PLC",
+      "ticker": "BH9902322",
+      "name": "BPCE SA",
       "percent": "0.10"
     },
     {
@@ -2356,8 +2346,18 @@
       "percent": "0.10"
     },
     {
+      "ticker": "BJ7571927",
+      "name": "EssilorLuxottica SA",
+      "percent": "0.10"
+    },
+    {
       "ticker": "BK4514968",
       "name": "AMCO - Asset Management Co SpA",
+      "percent": "0.10"
+    },
+    {
+      "ticker": "AQ0264657",
+      "name": "British Telecommunications PLC",
       "percent": "0.10"
     },
     {
@@ -2371,6 +2371,11 @@
       "percent": "0.10"
     },
     {
+      "ticker": "AZ1277161",
+      "name": "Banco Bilbao Vizcaya Argentaria SA",
+      "percent": "0.10"
+    },
+    {
       "ticker": "JK3380728",
       "name": "British Telecommunications PLC",
       "percent": "0.10"
@@ -2381,18 +2386,8 @@
       "percent": "0.10"
     },
     {
-      "ticker": "AZ1277161",
-      "name": "Banco Bilbao Vizcaya Argentaria SA",
-      "percent": "0.10"
-    },
-    {
       "ticker": "AT8301380",
       "name": "Daimler International Finance BV",
-      "percent": "0.10"
-    },
-    {
-      "ticker": "AM0928672",
-      "name": "BPCE SA",
       "percent": "0.10"
     },
     {
@@ -2403,6 +2398,11 @@
     {
       "ticker": "BG0129927",
       "name": "Siemens Financieringsmaatschappij NV",
+      "percent": "0.10"
+    },
+    {
+      "ticker": "AM0928672",
+      "name": "BPCE SA",
       "percent": "0.10"
     },
     {
@@ -2426,23 +2426,23 @@
       "percent": "0.10"
     },
     {
-      "ticker": "BJ7571901",
-      "name": "EssilorLuxottica SA",
-      "percent": "0.10"
-    },
-    {
       "ticker": "ZP5396533",
       "name": "Eni SpA",
       "percent": "0.10"
     },
     {
-      "ticker": "AX3301345",
-      "name": "Cooperatieve Rabobank UA",
+      "ticker": "BJ7571901",
+      "name": "EssilorLuxottica SA",
       "percent": "0.10"
     },
     {
       "ticker": "AX3301147",
       "name": "Banco Bilbao Vizcaya Argentaria SA",
+      "percent": "0.10"
+    },
+    {
+      "ticker": "AX3301345",
+      "name": "Cooperatieve Rabobank UA",
       "percent": "0.10"
     },
     {
@@ -2481,18 +2481,8 @@
       "percent": "0.10"
     },
     {
-      "ticker": "AQ2336297",
-      "name": "Banco de Sabadell SA",
-      "percent": "0.10"
-    },
-    {
       "ticker": "ZS2148352",
       "name": "Toronto-Dominion Bank/The",
-      "percent": "0.10"
-    },
-    {
-      "ticker": "AL7274577",
-      "name": "Societe Generale SA",
       "percent": "0.10"
     },
     {
@@ -2501,13 +2491,8 @@
       "percent": "0.10"
     },
     {
-      "ticker": "ZP3887517",
-      "name": "Toyota Motor Credit Corp",
-      "percent": "0.10"
-    },
-    {
-      "ticker": "AM1714519",
-      "name": "Deutsche Bank AG",
+      "ticker": "AL7274577",
+      "name": "Societe Generale SA",
       "percent": "0.10"
     },
     {
@@ -2516,13 +2501,33 @@
       "percent": "0.10"
     },
     {
+      "ticker": "AQ2336297",
+      "name": "Banco de Sabadell SA",
+      "percent": "0.10"
+    },
+    {
+      "ticker": "ZP3887517",
+      "name": "Toyota Motor Credit Corp",
+      "percent": "0.10"
+    },
+    {
       "ticker": "ZR3637900",
       "name": "Orange SA",
       "percent": "0.10"
     },
     {
+      "ticker": "AM1714519",
+      "name": "Deutsche Bank AG",
+      "percent": "0.10"
+    },
+    {
       "ticker": "QZ4685587",
       "name": "Commerzbank AG",
+      "percent": "0.10"
+    },
+    {
+      "ticker": "ZR4413319",
+      "name": "Credit Suisse Group AG",
       "percent": "0.10"
     },
     {
@@ -2533,11 +2538,6 @@
     {
       "ticker": "ZQ0990833",
       "name": "Credit Agricole SA",
-      "percent": "0.10"
-    },
-    {
-      "ticker": "ZR4413319",
-      "name": "Credit Suisse Group AG",
       "percent": "0.10"
     },
     {
@@ -2571,8 +2571,8 @@
       "percent": "0.10"
     },
     {
-      "ticker": "AZ6770186",
-      "name": "Royal Bank of Canada",
+      "ticker": "ZQ4666819",
+      "name": "Shell International Finance BV",
       "percent": "0.10"
     },
     {
@@ -2581,18 +2581,18 @@
       "percent": "0.10"
     },
     {
-      "ticker": "ZQ4666819",
-      "name": "Shell International Finance BV",
-      "percent": "0.10"
-    },
-    {
-      "ticker": "AZ5985124",
-      "name": "Banco de Sabadell SA",
+      "ticker": "AZ6770186",
+      "name": "Royal Bank of Canada",
       "percent": "0.10"
     },
     {
       "ticker": "BK5395276",
       "name": "Nationwide Building Society",
+      "percent": "0.10"
+    },
+    {
+      "ticker": "AZ5985124",
+      "name": "Banco de Sabadell SA",
       "percent": "0.10"
     },
     {
@@ -2616,13 +2616,13 @@
       "percent": "0.10"
     },
     {
-      "ticker": "ZR3437111",
-      "name": "HSBC France SA",
+      "ticker": "ZO4944823",
+      "name": "Muenchener Rueckversicherungs-Gesellschaft AG in Muenchen",
       "percent": "0.10"
     },
     {
-      "ticker": "ZO4944823",
-      "name": "Muenchener Rueckversicherungs-Gesellschaft AG in Muenchen",
+      "ticker": "ZR3437111",
+      "name": "HSBC France SA",
       "percent": "0.10"
     },
     {
@@ -2693,7 +2693,7 @@
     {
       "ticker": "-CASH-",
       "name": "Cash/Receivables/Payables",
-      "percent": "-0.02"
+      "percent": "-0.01"
     }
   ]
 }

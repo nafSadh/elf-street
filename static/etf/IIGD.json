@@ -1,7 +1,7 @@
 {
-  "name": "Investment Grade Defensive ETF",
-  "ticker": "IIGD",
-  "Inception": "7/25/2018",
+  "Products": "Investment Grade Defensive ETF",
+  "Ticker": "IIGD",
+  "Inception": "07/25/2018",
   "Gross Exp. Ratio": "0.13%",
   "YTD": "5.69",
   "1Yr": "6.45",
@@ -11,7 +11,7 @@
   "Since Incept.": "6.76",
   "Category": "Multi Factor",
   "SubCategory": "RAFI Fixed Income",
-  "infer": "invesco",
+  "ticker": "IIGD",
   "issuer": "Invesco",
   "website": "https://www.invesco.com/us/financial-products/etfs/product-detail?audienceType=Investor&ticker=IIGD",
   "holdingDataSource": {
@@ -61,13 +61,13 @@
       "percent": "0.96"
     },
     {
-      "ticker": "478160BY9",
-      "name": "Johnson & Johnson",
+      "ticker": "637639AA3",
+      "name": "National Securities Clearing Corp",
       "percent": "0.95"
     },
     {
-      "ticker": "637639AA3",
-      "name": "National Securities Clearing Corp",
+      "ticker": "478160BY9",
+      "name": "Johnson & Johnson",
       "percent": "0.95"
     },
     {
@@ -91,13 +91,13 @@
       "percent": "0.93"
     },
     {
-      "ticker": "67080LAA3",
-      "name": "Nuveen LLC",
+      "ticker": "806854AH8",
+      "name": "Schlumberger Investment SA",
       "percent": "0.93"
     },
     {
-      "ticker": "806854AH8",
-      "name": "Schlumberger Investment SA",
+      "ticker": "90331HNV1",
+      "name": "US Bank NA/Cincinnati OH",
       "percent": "0.93"
     },
     {
@@ -111,13 +111,8 @@
       "percent": "0.93"
     },
     {
-      "ticker": "90331HNV1",
-      "name": "US Bank NA/Cincinnati OH",
-      "percent": "0.93"
-    },
-    {
-      "ticker": "313747AU1",
-      "name": "Federal Realty Investment Trust",
+      "ticker": "166764BW9",
+      "name": "Chevron Corp",
       "percent": "0.92"
     },
     {
@@ -126,13 +121,18 @@
       "percent": "0.92"
     },
     {
+      "ticker": "67080LAA3",
+      "name": "Nuveen LLC",
+      "percent": "0.92"
+    },
+    {
       "ticker": "04352EAA3",
       "name": "Ascension Health",
       "percent": "0.92"
     },
     {
-      "ticker": "166764BW9",
-      "name": "Chevron Corp",
+      "ticker": "313747AU1",
+      "name": "Federal Realty Investment Trust",
       "percent": "0.92"
     },
     {
@@ -141,13 +141,13 @@
       "percent": "0.92"
     },
     {
-      "ticker": "717081EA7",
-      "name": "Pfizer Inc",
+      "ticker": "67021CAM9",
+      "name": "NSTAR Electric Co",
       "percent": "0.92"
     },
     {
-      "ticker": "67021CAM9",
-      "name": "NSTAR Electric Co",
+      "ticker": "717081EA7",
+      "name": "Pfizer Inc",
       "percent": "0.92"
     },
     {
@@ -171,13 +171,13 @@
       "percent": "0.91"
     },
     {
-      "ticker": "07330NAT2",
-      "name": "Truist Bank",
+      "ticker": "140420NB2",
+      "name": "Capital One Bank USA NA",
       "percent": "0.91"
     },
     {
-      "ticker": "140420NB2",
-      "name": "Capital One Bank USA NA",
+      "ticker": "07330NAT2",
+      "name": "Truist Bank",
       "percent": "0.91"
     },
     {
@@ -196,6 +196,11 @@
       "percent": "0.91"
     },
     {
+      "ticker": "857477AT0",
+      "name": "State Street Corp",
+      "percent": "0.91"
+    },
+    {
       "ticker": "74432QBZ7",
       "name": "Prudential Financial Inc",
       "percent": "0.91"
@@ -206,11 +211,6 @@
       "percent": "0.91"
     },
     {
-      "ticker": "857477AT0",
-      "name": "State Street Corp",
-      "percent": "0.91"
-    },
-    {
       "ticker": "03076CAF3",
       "name": "Ameriprise Financial Inc",
       "percent": "0.91"
@@ -218,7 +218,7 @@
     {
       "ticker": "023135BC9",
       "name": "Amazon.com Inc",
-      "percent": "0.91"
+      "percent": "0.90"
     },
     {
       "ticker": "084670BS6",
@@ -236,11 +236,6 @@
       "percent": "0.90"
     },
     {
-      "ticker": "30231GBL5",
-      "name": "Exxon Mobil Corp",
-      "percent": "0.90"
-    },
-    {
       "ticker": "983919AJ0",
       "name": "Xilinx Inc",
       "percent": "0.90"
@@ -251,8 +246,18 @@
       "percent": "0.90"
     },
     {
+      "ticker": "30231GBL5",
+      "name": "Exxon Mobil Corp",
+      "percent": "0.90"
+    },
+    {
       "ticker": "375558BF9",
       "name": "Gilead Sciences Inc",
+      "percent": "0.90"
+    },
+    {
+      "ticker": "713448EQ7",
+      "name": "PepsiCo Inc",
       "percent": "0.90"
     },
     {
@@ -266,23 +271,13 @@
       "percent": "0.90"
     },
     {
-      "ticker": "713448EQ7",
-      "name": "PepsiCo Inc",
-      "percent": "0.90"
-    },
-    {
-      "ticker": "87612EBL9",
-      "name": "Target Corp",
-      "percent": "0.90"
-    },
-    {
       "ticker": "98978VAB9",
       "name": "Zoetis Inc",
       "percent": "0.90"
     },
     {
-      "ticker": "037833AK6",
-      "name": "Apple Inc",
+      "ticker": "87612EBL9",
+      "name": "Target Corp",
       "percent": "0.90"
     },
     {
@@ -296,6 +291,16 @@
       "percent": "0.90"
     },
     {
+      "ticker": "037833AK6",
+      "name": "Apple Inc",
+      "percent": "0.90"
+    },
+    {
+      "ticker": "458140AS9",
+      "name": "Intel Corp",
+      "percent": "0.90"
+    },
+    {
       "ticker": "06051GEU9",
       "name": "Bank of America Corp",
       "percent": "0.90"
@@ -303,11 +308,6 @@
     {
       "ticker": "341081FZ5",
       "name": "Florida Power & Light Co",
-      "percent": "0.90"
-    },
-    {
-      "ticker": "458140AS9",
-      "name": "Intel Corp",
       "percent": "0.90"
     },
     {
@@ -361,13 +361,13 @@
       "percent": "0.89"
     },
     {
-      "ticker": "69362BBC5",
-      "name": "PSEG Power LLC",
+      "ticker": "931142EK5",
+      "name": "Walmart Inc",
       "percent": "0.88"
     },
     {
-      "ticker": "931142EK5",
-      "name": "Walmart Inc",
+      "ticker": "69362BBC5",
+      "name": "PSEG Power LLC",
       "percent": "0.88"
     },
     {
@@ -381,8 +381,8 @@
       "percent": "0.88"
     },
     {
-      "ticker": "29449WAA5",
-      "name": "Equitable Financial Life Global Funding",
+      "ticker": "039483BL5",
+      "name": "Archer-Daniels-Midland Co",
       "percent": "0.87"
     },
     {
@@ -391,8 +391,8 @@
       "percent": "0.87"
     },
     {
-      "ticker": "039483BL5",
-      "name": "Archer-Daniels-Midland Co",
+      "ticker": "29449WAA5",
+      "name": "Equitable Financial Life Global Funding",
       "percent": "0.87"
     },
     {
@@ -403,7 +403,7 @@
     {
       "ticker": "141781BL7",
       "name": "Cargill Inc",
-      "percent": "0.86"
+      "percent": "0.87"
     },
     {
       "ticker": "55279HAK6",
@@ -451,13 +451,13 @@
       "percent": "0.85"
     },
     {
-      "ticker": "637432NP6",
-      "name": "National Rural Utilities Cooperative Finance Corp",
+      "ticker": "6944PL2B4",
+      "name": "Pacific Life Global Funding II",
       "percent": "0.85"
     },
     {
-      "ticker": "6944PL2B4",
-      "name": "Pacific Life Global Funding II",
+      "ticker": "637432NP6",
+      "name": "National Rural Utilities Cooperative Finance Corp",
       "percent": "0.85"
     },
     {
@@ -471,13 +471,13 @@
       "percent": "0.85"
     },
     {
-      "ticker": "718172CH0",
-      "name": "Philip Morris International Inc",
+      "ticker": "38141GXJ8",
+      "name": "Goldman Sachs Group Inc/The",
       "percent": "0.84"
     },
     {
-      "ticker": "38141GXJ8",
-      "name": "Goldman Sachs Group Inc/The",
+      "ticker": "718172CH0",
+      "name": "Philip Morris International Inc",
       "percent": "0.84"
     },
     {
@@ -609,11 +609,6 @@
       "ticker": "595620AT2",
       "name": "MidAmerican Energy Co",
       "percent": "0.41"
-    },
-    {
-      "ticker": "-CASH-",
-      "name": "Cash/Receivables/Payables",
-      "percent": "0.00"
     }
   ]
 }

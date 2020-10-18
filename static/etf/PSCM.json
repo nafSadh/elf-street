@@ -1,7 +1,7 @@
 {
-  "name": "S&P SmallCap Materials ETF",
-  "ticker": "PSCM",
-  "Inception": "4/7/2010",
+  "Products": "S&P SmallCap Materials ETF",
+  "Ticker": "PSCM",
+  "Inception": "04/07/2010",
   "Gross Exp. Ratio": "0.29%",
   "YTD": "-16.08",
   "1Yr": "-9.89",
@@ -11,7 +11,7 @@
   "Since Incept.": "5.19",
   "Category": "Bulk Beta",
   "SubCategory": "Small Cap Sectors",
-  "infer": "invesco",
+  "ticker": "PSCM",
   "issuer": "Invesco",
   "website": "https://www.invesco.com/us/financial-products/etfs/product-detail?audienceType=Investor&ticker=PSCM",
   "holdingDataSource": {
@@ -23,197 +23,192 @@
     {
       "ticker": "BCPC",
       "name": "Balchem Corp",
-      "percent": "8.728"
+      "percent": "8.787"
     },
     {
       "ticker": "CLF",
       "name": "Cleveland-Cliffs Inc",
-      "percent": "7.730"
-    },
-    {
-      "ticker": "FUL",
-      "name": "HB Fuller Co",
-      "percent": "6.596"
+      "percent": "7.835"
     },
     {
       "ticker": "KWR",
       "name": "Quaker Chemical Corp",
-      "percent": "6.507"
+      "percent": "6.692"
+    },
+    {
+      "ticker": "FUL",
+      "name": "HB Fuller Co",
+      "percent": "6.615"
     },
     {
       "ticker": "SCL",
       "name": "Stepan Co",
-      "percent": "6.314"
+      "percent": "6.318"
     },
     {
       "ticker": "ARNC",
       "name": "Arconic Corp",
-      "percent": "5.810"
-    },
-    {
-      "ticker": "BCC",
-      "name": "Boise Cascade Co",
-      "percent": "4.256"
+      "percent": "5.801"
     },
     {
       "ticker": "IOSP",
       "name": "Innospec Inc",
-      "percent": "4.254"
+      "percent": "4.242"
+    },
+    {
+      "ticker": "BCC",
+      "name": "Boise Cascade Co",
+      "percent": "4.081"
     },
     {
       "ticker": "LTHM",
       "name": "Livent Corp",
-      "percent": "4.157"
-    },
-    {
-      "ticker": "TSE",
-      "name": "Trinseo SA",
-      "percent": "3.074"
+      "percent": "3.860"
     },
     {
       "ticker": "ATI",
       "name": "Allegheny Technologies Inc",
-      "percent": "3.045"
+      "percent": "3.097"
+    },
+    {
+      "ticker": "TSE",
+      "name": "Trinseo SA",
+      "percent": "3.019"
     },
     {
       "ticker": "MTRN",
       "name": "Materion Corp",
-      "percent": "2.933"
+      "percent": "2.934"
     },
     {
       "ticker": "GCP",
       "name": "GCP Applied Technologies Inc",
-      "percent": "2.855"
+      "percent": "2.885"
     },
     {
       "ticker": "FOE",
       "name": "Ferro Corp",
-      "percent": "2.847"
+      "percent": "2.864"
     },
     {
       "ticker": "SWM",
       "name": "Schweitzer-Mauduit International Inc",
-      "percent": "2.745"
+      "percent": "2.740"
     },
     {
       "ticker": "KALU",
       "name": "Kaiser Aluminum Corp",
-      "percent": "2.586"
+      "percent": "2.659"
     },
     {
       "ticker": "KRA",
       "name": "Kraton Corp",
-      "percent": "2.392"
+      "percent": "2.430"
     },
     {
       "ticker": "CRS",
       "name": "Carpenter Technology Corp",
-      "percent": "2.298"
+      "percent": "2.290"
     },
     {
       "ticker": "HCC",
       "name": "Warrior Met Coal Inc",
-      "percent": "2.036"
-    },
-    {
-      "ticker": "NP",
-      "name": "Neenah Inc",
-      "percent": "1.714"
+      "percent": "2.017"
     },
     {
       "ticker": "CLW",
       "name": "Clearwater Paper Corp",
-      "percent": "1.709"
+      "percent": "1.714"
+    },
+    {
+      "ticker": "NP",
+      "name": "Neenah Inc",
+      "percent": "1.698"
     },
     {
       "ticker": "GLT",
       "name": "Glatfelter Corp",
-      "percent": "1.695"
+      "percent": "1.686"
     },
     {
       "ticker": "USCR",
       "name": "US Concrete Inc",
-      "percent": "1.383"
+      "percent": "1.385"
     },
     {
       "ticker": "MYE",
       "name": "Myers Industries Inc",
-      "percent": "1.362"
+      "percent": "1.347"
     },
     {
       "ticker": "KOP",
       "name": "Koppers Holdings Inc",
-      "percent": "1.353"
+      "percent": "1.347"
     },
     {
       "ticker": "HWKN",
       "name": "Hawkins Inc",
-      "percent": "1.230"
-    },
-    {
-      "ticker": "TG",
-      "name": "Tredegar Corp",
-      "percent": "1.054"
+      "percent": "1.247"
     },
     {
       "ticker": "ASIX",
       "name": "AdvanSix Inc",
-      "percent": "1.050"
+      "percent": "1.067"
     },
     {
-      "ticker": "CENX",
-      "name": "Century Aluminum Co",
-      "percent": "1.017"
+      "ticker": "TG",
+      "name": "Tredegar Corp",
+      "percent": "1.061"
     },
     {
       "ticker": "AVD",
       "name": "American Vanguard Corp",
-      "percent": "0.982"
+      "percent": "1.005"
+    },
+    {
+      "ticker": "CENX",
+      "name": "Century Aluminum Co",
+      "percent": "0.992"
     },
     {
       "ticker": "SXC",
       "name": "SunCoke Energy Inc",
-      "percent": "0.836"
+      "percent": "0.804"
     },
     {
       "ticker": "FF",
       "name": "FutureFuel Corp",
-      "percent": "0.792"
+      "percent": "0.789"
     },
     {
       "ticker": "MERC",
       "name": "Mercer International Inc",
-      "percent": "0.703"
+      "percent": "0.706"
     },
     {
       "ticker": "RYAM",
       "name": "Rayonier Advanced Materials Inc",
-      "percent": "0.663"
+      "percent": "0.667"
     },
     {
       "ticker": "HAYN",
       "name": "Haynes International Inc",
-      "percent": "0.575"
+      "percent": "0.569"
     },
     {
       "ticker": "TMST",
       "name": "TimkenSteel Corp",
-      "percent": "0.381"
+      "percent": "0.405"
     },
     {
       "ticker": "ZEUS",
       "name": "Olympic Steel Inc",
-      "percent": "0.272"
+      "percent": "0.281"
     },
     {
       "ticker": "AGPXX",
       "name": "STIT - Government & Agency Portfolio",
       "percent": "0.066"
-    },
-    {
-      "ticker": "-CASH-",
-      "name": "Cash/Receivables/Payables",
-      "percent": "-0.000"
     }
   ]
 }

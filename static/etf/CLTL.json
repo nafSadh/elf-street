@@ -1,17 +1,17 @@
 {
-  "name": "Treasury Collateral ETF",
-  "ticker": "CLTL",
-  "Inception": "1/12/2017",
+  "Products": "Treasury Collateral ETF",
+  "Ticker": "CLTL",
+  "Inception": "01/12/2017",
   "Gross Exp. Ratio": "0.08%",
   "YTD": "0.91",
-  "1Yr": "1.4",
+  "1Yr": "1.40",
   "3Yr": "1.76",
   "5Yr": "",
   "10Yr": "",
   "Since Incept.": "1.55",
   "Category": "Income",
   "SubCategory": "Core",
-  "infer": "invesco",
+  "ticker": "CLTL",
   "issuer": "Invesco",
   "website": "https://www.invesco.com/us/financial-products/etfs/product-detail?audienceType=Investor&ticker=CLTL",
   "holdingDataSource": {
@@ -23,7 +23,7 @@
     {
       "ticker": "912796TP4",
       "name": "United States Treasury Bill",
-      "percent": "3.58"
+      "percent": "3.59"
     },
     {
       "ticker": "9127962Z1",
@@ -141,12 +141,12 @@
       "percent": "1.59"
     },
     {
-      "ticker": "912828Y20",
+      "ticker": "912828N48",
       "name": "United States Treasury Note/Bond",
       "percent": "1.59"
     },
     {
-      "ticker": "912828N48",
+      "ticker": "912828Y20",
       "name": "United States Treasury Note/Bond",
       "percent": "1.59"
     },

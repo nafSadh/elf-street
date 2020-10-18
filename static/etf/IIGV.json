@@ -1,17 +1,17 @@
 {
-  "name": "Investment Grade Value ETF",
-  "ticker": "IIGV",
-  "Inception": "7/25/2018",
+  "Products": "Investment Grade Value ETF",
+  "Ticker": "IIGV",
+  "Inception": "07/25/2018",
   "Gross Exp. Ratio": "0.13%",
   "YTD": "6.59",
-  "1Yr": "7.8",
+  "1Yr": "7.80",
   "3Yr": "",
   "5Yr": "",
   "10Yr": "",
   "Since Incept.": "9.22",
   "Category": "Multi Factor",
   "SubCategory": "RAFI Fixed Income",
-  "infer": "invesco",
+  "ticker": "IIGV",
   "issuer": "Invesco",
   "website": "https://www.invesco.com/us/financial-products/etfs/product-detail?audienceType=Investor&ticker=IIGV",
   "holdingDataSource": {
@@ -36,6 +36,11 @@
       "percent": "0.73"
     },
     {
+      "ticker": "844741BK3",
+      "name": "Southwest Airlines Co",
+      "percent": "0.72"
+    },
+    {
       "ticker": "032095AJ0",
       "name": "Amphenol Corp",
       "percent": "0.72"
@@ -46,33 +51,28 @@
       "percent": "0.72"
     },
     {
-      "ticker": "844741BK3",
-      "name": "Southwest Airlines Co",
-      "percent": "0.72"
-    },
-    {
       "ticker": "254687FL5",
       "name": "Walt Disney Co/The",
       "percent": "0.72"
     },
     {
-      "ticker": "883203CB5",
-      "name": "Textron Inc",
+      "ticker": "74834LBB5",
+      "name": "Quest Diagnostics Inc",
       "percent": "0.72"
     },
     {
       "ticker": "92277GAN7",
       "name": "Ventas Realty LP",
-      "percent": "0.71"
+      "percent": "0.72"
     },
     {
       "ticker": "00108WAM2",
       "name": "AEP Texas Inc",
-      "percent": "0.71"
+      "percent": "0.72"
     },
     {
-      "ticker": "49338LAE3",
-      "name": "Keysight Technologies Inc",
+      "ticker": "883203CB5",
+      "name": "Textron Inc",
       "percent": "0.71"
     },
     {
@@ -81,8 +81,8 @@
       "percent": "0.71"
     },
     {
-      "ticker": "74834LBB5",
-      "name": "Quest Diagnostics Inc",
+      "ticker": "49338LAE3",
+      "name": "Keysight Technologies Inc",
       "percent": "0.71"
     },
     {
@@ -91,13 +91,8 @@
       "percent": "0.71"
     },
     {
-      "ticker": "722844AA5",
-      "name": "Pine Street Trust I",
-      "percent": "0.71"
-    },
-    {
-      "ticker": "693475AZ8",
-      "name": "PNC Financial Services Group Inc/The",
+      "ticker": "654106AK9",
+      "name": "NIKE Inc",
       "percent": "0.71"
     },
     {
@@ -106,43 +101,18 @@
       "percent": "0.71"
     },
     {
-      "ticker": "24906PAA7",
-      "name": "DENTSPLY SIRONA Inc",
-      "percent": "0.71"
-    },
-    {
-      "ticker": "871829BL0",
-      "name": "Sysco Corp",
-      "percent": "0.71"
-    },
-    {
-      "ticker": "29449WAA5",
-      "name": "Equitable Financial Life Global Funding",
-      "percent": "0.71"
-    },
-    {
       "ticker": "67066GAF1",
       "name": "NVIDIA Corp",
       "percent": "0.71"
     },
     {
-      "ticker": "731572AB9",
-      "name": "Ralph Lauren Corp",
+      "ticker": "722844AA5",
+      "name": "Pine Street Trust I",
       "percent": "0.71"
     },
     {
-      "ticker": "42218SAF5",
-      "name": "Health Care Service Corp A Mutual Legal Reserve Co",
-      "percent": "0.71"
-    },
-    {
-      "ticker": "35137LAH8",
-      "name": "Fox Corp",
-      "percent": "0.71"
-    },
-    {
-      "ticker": "02209SBD4",
-      "name": "Altria Group Inc",
+      "ticker": "682680BB8",
+      "name": "ONEOK Inc",
       "percent": "0.71"
     },
     {
@@ -151,23 +121,33 @@
       "percent": "0.71"
     },
     {
+      "ticker": "29449WAA5",
+      "name": "Equitable Financial Life Global Funding",
+      "percent": "0.71"
+    },
+    {
       "ticker": "110122CP1",
       "name": "Bristol Myers Squibb Co",
       "percent": "0.71"
     },
     {
-      "ticker": "460690BR0",
-      "name": "Interpublic Group of Cos Inc/The",
+      "ticker": "24906PAA7",
+      "name": "DENTSPLY SIRONA Inc",
       "percent": "0.71"
     },
     {
-      "ticker": "457187AC6",
-      "name": "Ingredion Inc",
+      "ticker": "731572AB9",
+      "name": "Ralph Lauren Corp",
       "percent": "0.71"
     },
     {
-      "ticker": "654106AK9",
-      "name": "NIKE Inc",
+      "ticker": "35137LAH8",
+      "name": "Fox Corp",
+      "percent": "0.71"
+    },
+    {
+      "ticker": "693475AZ8",
+      "name": "PNC Financial Services Group Inc/The",
       "percent": "0.71"
     },
     {
@@ -176,8 +156,18 @@
       "percent": "0.71"
     },
     {
-      "ticker": "22160KAP0",
-      "name": "Costco Wholesale Corp",
+      "ticker": "02209SBD4",
+      "name": "Altria Group Inc",
+      "percent": "0.71"
+    },
+    {
+      "ticker": "460690BR0",
+      "name": "Interpublic Group of Cos Inc/The",
+      "percent": "0.71"
+    },
+    {
+      "ticker": "871829BL0",
+      "name": "Sysco Corp",
       "percent": "0.71"
     },
     {
@@ -186,33 +176,18 @@
       "percent": "0.71"
     },
     {
+      "ticker": "42218SAF5",
+      "name": "Health Care Service Corp A Mutual Legal Reserve Co",
+      "percent": "0.71"
+    },
+    {
+      "ticker": "457187AC6",
+      "name": "Ingredion Inc",
+      "percent": "0.71"
+    },
+    {
       "ticker": "12503MAA6",
       "name": "Cboe Global Markets Inc",
-      "percent": "0.71"
-    },
-    {
-      "ticker": "084670BS6",
-      "name": "Berkshire Hathaway Inc",
-      "percent": "0.71"
-    },
-    {
-      "ticker": "313747AU1",
-      "name": "Federal Realty Investment Trust",
-      "percent": "0.71"
-    },
-    {
-      "ticker": "637432NP6",
-      "name": "National Rural Utilities Cooperative Finance Corp",
-      "percent": "0.71"
-    },
-    {
-      "ticker": "19565CAA8",
-      "name": "Colonial Enterprises Inc",
-      "percent": "0.71"
-    },
-    {
-      "ticker": "67080LAA3",
-      "name": "Nuveen LLC",
       "percent": "0.71"
     },
     {
@@ -221,13 +196,33 @@
       "percent": "0.71"
     },
     {
+      "ticker": "084670BS6",
+      "name": "Berkshire Hathaway Inc",
+      "percent": "0.71"
+    },
+    {
+      "ticker": "22160KAP0",
+      "name": "Costco Wholesale Corp",
+      "percent": "0.71"
+    },
+    {
+      "ticker": "19565CAA8",
+      "name": "Colonial Enterprises Inc",
+      "percent": "0.71"
+    },
+    {
+      "ticker": "637432NP6",
+      "name": "National Rural Utilities Cooperative Finance Corp",
+      "percent": "0.71"
+    },
+    {
       "ticker": "778296AB9",
       "name": "Ross Stores Inc",
       "percent": "0.71"
     },
     {
-      "ticker": "682680BB8",
-      "name": "ONEOK Inc",
+      "ticker": "313747AU1",
+      "name": "Federal Realty Investment Trust",
       "percent": "0.70"
     },
     {
@@ -241,23 +236,23 @@
       "percent": "0.70"
     },
     {
-      "ticker": "494368CB7",
-      "name": "Kimberly-Clark Corp",
-      "percent": "0.70"
-    },
-    {
       "ticker": "33767BAB5",
       "name": "FirstEnergy Transmission LLC",
       "percent": "0.70"
     },
     {
-      "ticker": "88579YBJ9",
-      "name": "3M Co",
+      "ticker": "494368CB7",
+      "name": "Kimberly-Clark Corp",
       "percent": "0.70"
     },
     {
       "ticker": "759351AN9",
       "name": "Reinsurance Group of America Inc",
+      "percent": "0.70"
+    },
+    {
+      "ticker": "88579YBJ9",
+      "name": "3M Co",
       "percent": "0.70"
     },
     {
@@ -271,98 +266,8 @@
       "percent": "0.70"
     },
     {
-      "ticker": "00287YBW8",
-      "name": "AbbVie Inc",
-      "percent": "0.70"
-    },
-    {
-      "ticker": "92940PAD6",
-      "name": "WRKCo Inc",
-      "percent": "0.70"
-    },
-    {
-      "ticker": "74251VAS1",
-      "name": "Principal Financial Group Inc",
-      "percent": "0.70"
-    },
-    {
       "ticker": "31620RAJ4",
       "name": "Fidelity National Financial Inc",
-      "percent": "0.70"
-    },
-    {
-      "ticker": "64952WDG5",
-      "name": "New York Life Global Funding",
-      "percent": "0.70"
-    },
-    {
-      "ticker": "03765HAD3",
-      "name": "Apollo Management Holdings LP",
-      "percent": "0.70"
-    },
-    {
-      "ticker": "913017CY3",
-      "name": "Raytheon Technologies Corp",
-      "percent": "0.70"
-    },
-    {
-      "ticker": "126650CX6",
-      "name": "CVS Health Corp",
-      "percent": "0.70"
-    },
-    {
-      "ticker": "48252AAA9",
-      "name": "KKR Group Finance Co VI LLC",
-      "percent": "0.70"
-    },
-    {
-      "ticker": "47233JBH0",
-      "name": "Jefferies Group LLC / Jefferies Group Capital Finance Inc",
-      "percent": "0.70"
-    },
-    {
-      "ticker": "025537AM3",
-      "name": "American Electric Power Co Inc",
-      "percent": "0.70"
-    },
-    {
-      "ticker": "6944PL2B4",
-      "name": "Pacific Life Global Funding II",
-      "percent": "0.70"
-    },
-    {
-      "ticker": "842400GN7",
-      "name": "Southern California Edison Co",
-      "percent": "0.70"
-    },
-    {
-      "ticker": "00206RGQ9",
-      "name": "AT&T Inc",
-      "percent": "0.70"
-    },
-    {
-      "ticker": "04686JAA9",
-      "name": "Athene Holding Ltd",
-      "percent": "0.70"
-    },
-    {
-      "ticker": "166764BW9",
-      "name": "Chevron Corp",
-      "percent": "0.70"
-    },
-    {
-      "ticker": "665859AV6",
-      "name": "Northern Trust Corp",
-      "percent": "0.70"
-    },
-    {
-      "ticker": "87236YAF5",
-      "name": "TD Ameritrade Holding Corp",
-      "percent": "0.70"
-    },
-    {
-      "ticker": "09062XAF0",
-      "name": "Biogen Inc",
       "percent": "0.70"
     },
     {
@@ -371,28 +276,93 @@
       "percent": "0.70"
     },
     {
-      "ticker": "26884ABL6",
-      "name": "ERP Operating LP",
+      "ticker": "126650CX6",
+      "name": "CVS Health Corp",
       "percent": "0.70"
     },
     {
-      "ticker": "61746BDZ6",
-      "name": "Morgan Stanley",
+      "ticker": "67080LAA3",
+      "name": "Nuveen LLC",
       "percent": "0.70"
     },
     {
-      "ticker": "101137BA4",
-      "name": "Boston Scientific Corp",
+      "ticker": "64952WDG5",
+      "name": "New York Life Global Funding",
       "percent": "0.70"
     },
     {
-      "ticker": "87246YAC0",
-      "name": "Nuveen Finance LLC",
+      "ticker": "92940PAD6",
+      "name": "WRKCo Inc",
       "percent": "0.70"
     },
     {
-      "ticker": "594918BR4",
-      "name": "Microsoft Corp",
+      "ticker": "03765HAD3",
+      "name": "Apollo Management Holdings LP",
+      "percent": "0.70"
+    },
+    {
+      "ticker": "74251VAS1",
+      "name": "Principal Financial Group Inc",
+      "percent": "0.70"
+    },
+    {
+      "ticker": "913017CY3",
+      "name": "Raytheon Technologies Corp",
+      "percent": "0.70"
+    },
+    {
+      "ticker": "842400GN7",
+      "name": "Southern California Edison Co",
+      "percent": "0.70"
+    },
+    {
+      "ticker": "48252AAA9",
+      "name": "KKR Group Finance Co VI LLC",
+      "percent": "0.70"
+    },
+    {
+      "ticker": "6944PL2B4",
+      "name": "Pacific Life Global Funding II",
+      "percent": "0.70"
+    },
+    {
+      "ticker": "47233JBH0",
+      "name": "Jefferies Group LLC / Jefferies Group Capital Finance Inc",
+      "percent": "0.70"
+    },
+    {
+      "ticker": "665859AV6",
+      "name": "Northern Trust Corp",
+      "percent": "0.70"
+    },
+    {
+      "ticker": "025537AM3",
+      "name": "American Electric Power Co Inc",
+      "percent": "0.70"
+    },
+    {
+      "ticker": "00206RGQ9",
+      "name": "AT&T Inc",
+      "percent": "0.70"
+    },
+    {
+      "ticker": "166764BW9",
+      "name": "Chevron Corp",
+      "percent": "0.70"
+    },
+    {
+      "ticker": "00287YBW8",
+      "name": "AbbVie Inc",
+      "percent": "0.70"
+    },
+    {
+      "ticker": "09062XAF0",
+      "name": "Biogen Inc",
+      "percent": "0.70"
+    },
+    {
+      "ticker": "04686JAA9",
+      "name": "Athene Holding Ltd",
       "percent": "0.70"
     },
     {
@@ -401,18 +371,53 @@
       "percent": "0.70"
     },
     {
-      "ticker": "718549AH1",
-      "name": "Phillips 66 Partners LP",
+      "ticker": "87236YAF5",
+      "name": "TD Ameritrade Holding Corp",
+      "percent": "0.70"
+    },
+    {
+      "ticker": "594918BR4",
+      "name": "Microsoft Corp",
+      "percent": "0.70"
+    },
+    {
+      "ticker": "61746BDZ6",
+      "name": "Morgan Stanley",
       "percent": "0.70"
     },
     {
       "ticker": "26884TAP7",
       "name": "ERAC USA Finance LLC",
-      "percent": "0.69"
+      "percent": "0.70"
+    },
+    {
+      "ticker": "26884ABL6",
+      "name": "ERP Operating LP",
+      "percent": "0.70"
+    },
+    {
+      "ticker": "406216BG5",
+      "name": "Halliburton Co",
+      "percent": "0.70"
+    },
+    {
+      "ticker": "87246YAC0",
+      "name": "Nuveen Finance LLC",
+      "percent": "0.70"
     },
     {
       "ticker": "98389BAV2",
       "name": "Xcel Energy Inc",
+      "percent": "0.69"
+    },
+    {
+      "ticker": "101137BA4",
+      "name": "Boston Scientific Corp",
+      "percent": "0.69"
+    },
+    {
+      "ticker": "718549AH1",
+      "name": "Phillips 66 Partners LP",
       "percent": "0.69"
     },
     {
@@ -421,13 +426,18 @@
       "percent": "0.69"
     },
     {
+      "ticker": "75884RBA0",
+      "name": "Regency Centers LP",
+      "percent": "0.69"
+    },
+    {
       "ticker": "440452AF7",
       "name": "Hormel Foods Corp",
       "percent": "0.69"
     },
     {
-      "ticker": "406216BG5",
-      "name": "Halliburton Co",
+      "ticker": "001055BJ0",
+      "name": "Aflac Inc",
       "percent": "0.69"
     },
     {
@@ -441,28 +451,8 @@
       "percent": "0.69"
     },
     {
-      "ticker": "75884RBA0",
-      "name": "Regency Centers LP",
-      "percent": "0.69"
-    },
-    {
-      "ticker": "25746UDG1",
-      "name": "Dominion Energy Inc",
-      "percent": "0.69"
-    },
-    {
-      "ticker": "29736RAQ3",
-      "name": "Estee Lauder Cos Inc/The",
-      "percent": "0.69"
-    },
-    {
-      "ticker": "001055BJ0",
-      "name": "Aflac Inc",
-      "percent": "0.69"
-    },
-    {
-      "ticker": "655664AU4",
-      "name": "Nordstrom Inc",
+      "ticker": "097023CY9",
+      "name": "Boeing Co/The",
       "percent": "0.69"
     },
     {
@@ -471,8 +461,13 @@
       "percent": "0.69"
     },
     {
-      "ticker": "92343VER1",
-      "name": "Verizon Communications Inc",
+      "ticker": "512807AU2",
+      "name": "Lam Research Corp",
+      "percent": "0.69"
+    },
+    {
+      "ticker": "29736RAQ3",
+      "name": "Estee Lauder Cos Inc/The",
       "percent": "0.69"
     },
     {
@@ -486,23 +481,28 @@
       "percent": "0.69"
     },
     {
+      "ticker": "25746UDG1",
+      "name": "Dominion Energy Inc",
+      "percent": "0.69"
+    },
+    {
+      "ticker": "92343VER1",
+      "name": "Verizon Communications Inc",
+      "percent": "0.69"
+    },
+    {
       "ticker": "92826CAD4",
       "name": "Visa Inc",
       "percent": "0.69"
     },
     {
-      "ticker": "512807AU2",
-      "name": "Lam Research Corp",
+      "ticker": "655664AU4",
+      "name": "Nordstrom Inc",
       "percent": "0.69"
     },
     {
-      "ticker": "097023CY9",
-      "name": "Boeing Co/The",
-      "percent": "0.69"
-    },
-    {
-      "ticker": "37331NAK7",
-      "name": "Georgia-Pacific LLC",
+      "ticker": "835495AL6",
+      "name": "Sonoco Products Co",
       "percent": "0.69"
     },
     {
@@ -511,13 +511,28 @@
       "percent": "0.69"
     },
     {
-      "ticker": "929160AZ2",
-      "name": "Vulcan Materials Co",
+      "ticker": "37331NAK7",
+      "name": "Georgia-Pacific LLC",
+      "percent": "0.69"
+    },
+    {
+      "ticker": "20268JAB9",
+      "name": "CommonSpirit Health",
       "percent": "0.69"
     },
     {
       "ticker": "75513EBE0",
       "name": "Raytheon Technologies Corp",
+      "percent": "0.69"
+    },
+    {
+      "ticker": "743820AA0",
+      "name": "Providence St Joseph Health Obligated Group",
+      "percent": "0.69"
+    },
+    {
+      "ticker": "929160AZ2",
+      "name": "Vulcan Materials Co",
       "percent": "0.69"
     },
     {
@@ -531,13 +546,8 @@
       "percent": "0.69"
     },
     {
-      "ticker": "743820AA0",
-      "name": "Providence St Joseph Health Obligated Group",
-      "percent": "0.69"
-    },
-    {
-      "ticker": "49271VAF7",
-      "name": "Keurig Dr Pepper Inc",
+      "ticker": "133131AZ5",
+      "name": "Camden Property Trust",
       "percent": "0.69"
     },
     {
@@ -546,18 +556,8 @@
       "percent": "0.69"
     },
     {
-      "ticker": "714046AG4",
-      "name": "PerkinElmer Inc",
-      "percent": "0.69"
-    },
-    {
-      "ticker": "835495AL6",
-      "name": "Sonoco Products Co",
-      "percent": "0.69"
-    },
-    {
-      "ticker": "133131AZ5",
-      "name": "Camden Property Trust",
+      "ticker": "49271VAF7",
+      "name": "Keurig Dr Pepper Inc",
       "percent": "0.69"
     },
     {
@@ -566,13 +566,13 @@
       "percent": "0.69"
     },
     {
-      "ticker": "20268JAB9",
-      "name": "CommonSpirit Health",
+      "ticker": "09857LAR9",
+      "name": "Booking Holdings Inc",
       "percent": "0.69"
     },
     {
-      "ticker": "09857LAR9",
-      "name": "Booking Holdings Inc",
+      "ticker": "714046AG4",
+      "name": "PerkinElmer Inc",
       "percent": "0.68"
     },
     {
@@ -643,7 +643,7 @@
     {
       "ticker": "806854AH8",
       "name": "Schlumberger Investment SA",
-      "percent": "0.61"
+      "percent": "0.62"
     },
     {
       "ticker": "806851AK7",
@@ -653,7 +653,7 @@
     {
       "ticker": "34964CAE6",
       "name": "Fortune Brands Home & Security Inc",
-      "percent": "0.61"
+      "percent": "0.60"
     },
     {
       "ticker": "42824CAW9",
@@ -668,7 +668,7 @@
     {
       "ticker": "459200KA8",
       "name": "International Business Machines Corp",
-      "percent": "0.59"
+      "percent": "0.58"
     },
     {
       "ticker": "723787AQ0",
@@ -763,7 +763,7 @@
     {
       "ticker": "12572QAG0",
       "name": "CME Group Inc",
-      "percent": "0.33"
+      "percent": "0.34"
     },
     {
       "ticker": "11133TAD5",
@@ -774,11 +774,6 @@
       "ticker": "718546AR5",
       "name": "Phillips 66",
       "percent": "0.23"
-    },
-    {
-      "ticker": "-CASH-",
-      "name": "Cash/Receivables/Payables",
-      "percent": "0.00"
     }
   ]
 }

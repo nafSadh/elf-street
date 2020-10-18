@@ -1,6 +1,6 @@
 {
-  "name": "DWA Financial Momentum ETF",
-  "ticker": "PFI",
+  "Products": "DWA Financial Momentum ETF",
+  "Ticker": "PFI",
   "Inception": "10/12/2006",
   "Gross Exp. Ratio": "0.75%",
   "YTD": "-2.68",
@@ -11,7 +11,7 @@
   "Since Incept.": "4.23",
   "Category": "Factor Access",
   "SubCategory": "Dorsey Wright Sectors",
-  "infer": "invesco",
+  "ticker": "PFI",
   "issuer": "Invesco",
   "website": "https://www.invesco.com/us/financial-products/etfs/product-detail?audienceType=Investor&ticker=PFI",
   "holdingDataSource": {
@@ -23,232 +23,232 @@
     {
       "ticker": "MA",
       "name": "Mastercard Inc",
-      "percent": "4.286"
-    },
-    {
-      "ticker": "MCO",
-      "name": "Moody's Corp",
-      "percent": "4.030"
+      "percent": "4.311"
     },
     {
       "ticker": "SPGI",
       "name": "S&P Global Inc",
-      "percent": "4.022"
+      "percent": "4.044"
+    },
+    {
+      "ticker": "MCO",
+      "name": "Moody's Corp",
+      "percent": "4.024"
     },
     {
       "ticker": "MSCI",
       "name": "MSCI Inc",
-      "percent": "3.810"
+      "percent": "3.865"
     },
     {
       "ticker": "V",
       "name": "Visa Inc",
-      "percent": "3.711"
+      "percent": "3.737"
     },
     {
       "ticker": "DRE",
       "name": "Duke Realty Corp",
-      "percent": "3.657"
+      "percent": "3.662"
     },
     {
       "ticker": "RDFN",
       "name": "Redfin Corp",
-      "percent": "3.584"
+      "percent": "3.361"
     },
     {
       "ticker": "PGR",
       "name": "Progressive Corp/The",
-      "percent": "3.198"
+      "percent": "3.176"
     },
     {
       "ticker": "CCI",
       "name": "Crown Castle International Corp",
-      "percent": "3.147"
+      "percent": "3.135"
     },
     {
       "ticker": "NDAQ",
       "name": "Nasdaq Inc",
-      "percent": "3.095"
+      "percent": "3.117"
     },
     {
       "ticker": "MMC",
       "name": "Marsh & McLennan Cos Inc",
-      "percent": "2.643"
+      "percent": "2.666"
     },
     {
       "ticker": "KNSL",
       "name": "Kinsale Capital Group Inc",
-      "percent": "2.531"
+      "percent": "2.552"
     },
     {
       "ticker": "TRUP",
       "name": "Trupanion Inc",
-      "percent": "2.521"
+      "percent": "2.516"
     },
     {
       "ticker": "PLD",
       "name": "Prologis Inc",
-      "percent": "2.501"
+      "percent": "2.492"
     },
     {
       "ticker": "EQIX",
       "name": "Equinix Inc",
-      "percent": "2.457"
-    },
-    {
-      "ticker": "KKR",
-      "name": "KKR & Co Inc",
-      "percent": "2.443"
+      "percent": "2.474"
     },
     {
       "ticker": "BLK",
       "name": "BlackRock Inc",
-      "percent": "2.420"
+      "percent": "2.470"
     },
     {
-      "ticker": "IIPR",
-      "name": "Innovative Industrial Properties Inc",
-      "percent": "2.381"
-    },
-    {
-      "ticker": "ARE",
-      "name": "Alexandria Real Estate Equities Inc",
-      "percent": "2.346"
+      "ticker": "KKR",
+      "name": "KKR & Co Inc",
+      "percent": "2.442"
     },
     {
       "ticker": "FRC",
       "name": "First Republic Bank/CA",
-      "percent": "2.336"
+      "percent": "2.365"
     },
     {
-      "ticker": "PFSI",
-      "name": "PennyMac Financial Services Inc",
-      "percent": "2.320"
+      "ticker": "IIPR",
+      "name": "Innovative Industrial Properties Inc",
+      "percent": "2.358"
+    },
+    {
+      "ticker": "ARE",
+      "name": "Alexandria Real Estate Equities Inc",
+      "percent": "2.356"
     },
     {
       "ticker": "FDS",
       "name": "FactSet Research Systems Inc",
-      "percent": "2.299"
+      "percent": "2.320"
+    },
+    {
+      "ticker": "PFSI",
+      "name": "PennyMac Financial Services Inc",
+      "percent": "2.300"
     },
     {
       "ticker": "DFS",
       "name": "Discover Financial Services",
-      "percent": "2.156"
+      "percent": "2.194"
     },
     {
       "ticker": "COOP",
       "name": "Mr Cooper Group Inc",
-      "percent": "2.120"
-    },
-    {
-      "ticker": "RLGY",
-      "name": "Realogy Holdings Corp",
-      "percent": "2.038"
-    },
-    {
-      "ticker": "GDOT",
-      "name": "Green Dot Corp",
-      "percent": "1.948"
+      "percent": "2.102"
     },
     {
       "ticker": "ARES",
       "name": "Ares Management Corp",
-      "percent": "1.933"
+      "percent": "1.962"
+    },
+    {
+      "ticker": "RLGY",
+      "name": "Realogy Holdings Corp",
+      "percent": "1.953"
+    },
+    {
+      "ticker": "GDOT",
+      "name": "Green Dot Corp",
+      "percent": "1.920"
     },
     {
       "ticker": "HASI",
       "name": "Hannon Armstrong Sustainable Infrastructure Capital Inc",
-      "percent": "1.876"
+      "percent": "1.866"
     },
     {
       "ticker": "PLMR",
       "name": "Palomar Holdings Inc",
-      "percent": "1.863"
+      "percent": "1.860"
     },
     {
       "ticker": "PRI",
       "name": "Primerica Inc",
-      "percent": "1.696"
+      "percent": "1.724"
     },
     {
       "ticker": "APAM",
       "name": "Artisan Partners Asset Management Inc",
-      "percent": "1.564"
+      "percent": "1.576"
     },
     {
       "ticker": "ENV",
       "name": "Envestnet Inc",
-      "percent": "1.561"
+      "percent": "1.558"
     },
     {
       "ticker": "PMT",
       "name": "PennyMac Mortgage Investment Trust",
-      "percent": "1.456"
-    },
-    {
-      "ticker": "ABR",
-      "name": "Arbor Realty Trust Inc",
-      "percent": "1.449"
+      "percent": "1.452"
     },
     {
       "ticker": "RHP",
       "name": "Ryman Hospitality Properties Inc",
-      "percent": "1.429"
+      "percent": "1.421"
+    },
+    {
+      "ticker": "ABR",
+      "name": "Arbor Realty Trust Inc",
+      "percent": "1.419"
     },
     {
       "ticker": "OMF",
       "name": "OneMain Holdings Inc",
-      "percent": "1.386"
+      "percent": "1.390"
     },
     {
       "ticker": "STAG",
       "name": "STAG Industrial Inc",
-      "percent": "1.275"
+      "percent": "1.266"
     },
     {
       "ticker": "BSIG",
       "name": "Brightsphere Investment Group Inc",
-      "percent": "1.231"
+      "percent": "1.233"
     },
     {
       "ticker": "FR",
       "name": "First Industrial Realty Trust Inc",
-      "percent": "1.219"
+      "percent": "1.210"
     },
     {
       "ticker": "BRP",
       "name": "BRP Group Inc",
-      "percent": "1.046"
+      "percent": "1.051"
     },
     {
       "ticker": "RWT",
       "name": "Redwood Trust Inc",
-      "percent": "1.004"
+      "percent": "1.048"
     },
     {
       "ticker": "PJT",
       "name": "PJT Partners Inc",
-      "percent": "0.985"
+      "percent": "0.988"
     },
     {
       "ticker": "UNIT",
       "name": "Uniti Group Inc",
-      "percent": "0.924"
+      "percent": "0.929"
     },
     {
       "ticker": "EPRT",
       "name": "Essential Properties Realty Trust Inc",
-      "percent": "0.881"
+      "percent": "0.879"
     },
     {
       "ticker": "ECPG",
       "name": "Encore Capital Group Inc",
-      "percent": "0.866"
+      "percent": "0.878"
     },
     {
       "ticker": "AGPXX",
       "name": "STIT - Government & Agency Portfolio",
-      "percent": "0.331"
+      "percent": "0.360"
     },
     {
       "ticker": "-CASH-",

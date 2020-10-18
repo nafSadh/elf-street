@@ -1,7 +1,7 @@
 {
-  "name": "Variable Rate Investment Grade ETF",
-  "ticker": "VRIG",
-  "Inception": "9/22/2016",
+  "Products": "Variable Rate Investment Grade ETF",
+  "Ticker": "VRIG",
+  "Inception": "09/22/2016",
   "Gross Exp. Ratio": "0.30%",
   "YTD": "1.08",
   "1Yr": "2.01",
@@ -11,7 +11,7 @@
   "Since Incept.": "2.48",
   "Category": "Income",
   "SubCategory": "Core Plus",
-  "infer": "invesco",
+  "ticker": "VRIG",
   "issuer": "Invesco",
   "website": "https://www.invesco.com/us/financial-products/etfs/product-detail?audienceType=Investor&ticker=VRIG",
   "holdingDataSource": {
@@ -73,7 +73,7 @@
     {
       "ticker": "747525AS2",
       "name": "QUALCOMM Inc",
-      "percent": "1.09"
+      "percent": "1.10"
     },
     {
       "ticker": "125523AC4",
@@ -103,7 +103,7 @@
     {
       "ticker": "30711XJX3",
       "name": "Fannie Mae Connecticut Avenue Securities",
-      "percent": "0.97"
+      "percent": "0.96"
     },
     {
       "ticker": "30711XNX8",
@@ -123,7 +123,7 @@
     {
       "ticker": "3137G0UD9",
       "name": "Freddie Mac Structured Agency Credit Risk Debt Notes",
-      "percent": "0.94"
+      "percent": "0.93"
     },
     {
       "ticker": "87236YAG3",
@@ -171,13 +171,13 @@
       "percent": "0.88"
     },
     {
-      "ticker": "14149YBG2",
-      "name": "Cardinal Health Inc",
+      "ticker": "780097BF7",
+      "name": "Natwest Group PLC",
       "percent": "0.88"
     },
     {
-      "ticker": "780097BF7",
-      "name": "Natwest Group PLC",
+      "ticker": "14149YBG2",
+      "name": "Cardinal Health Inc",
       "percent": "0.88"
     },
     {
@@ -376,6 +376,11 @@
       "percent": "0.55"
     },
     {
+      "ticker": "17308CC38",
+      "name": "Citigroup Inc",
+      "percent": "0.55"
+    },
+    {
       "ticker": "95000CBK8",
       "name": "Wells Fargo Commercial Mortgage Trust 2016-NXS5",
       "percent": "0.55"
@@ -383,11 +388,6 @@
     {
       "ticker": "61744YAJ7",
       "name": "Morgan Stanley",
-      "percent": "0.55"
-    },
-    {
-      "ticker": "17308CC38",
-      "name": "Citigroup Inc",
       "percent": "0.55"
     },
     {
@@ -408,7 +408,7 @@
     {
       "ticker": "48127FAA1",
       "name": "JPMorgan Chase & Co",
-      "percent": "0.52"
+      "percent": "0.51"
     },
     {
       "ticker": "12653BAG5",
@@ -461,13 +461,13 @@
       "percent": "0.44"
     },
     {
-      "ticker": "37045XCN4",
-      "name": "General Motors Financial Co Inc",
+      "ticker": "02665WDG3",
+      "name": "American Honda Finance Corp",
       "percent": "0.44"
     },
     {
-      "ticker": "02665WDG3",
-      "name": "American Honda Finance Corp",
+      "ticker": "37045XCN4",
+      "name": "General Motors Financial Co Inc",
       "percent": "0.44"
     },
     {
@@ -796,13 +796,13 @@
       "percent": "0.10"
     },
     {
-      "ticker": "3136B0GG5",
-      "name": "Fannie Mae REMICS",
-      "percent": "0.09"
-    },
-    {
       "ticker": "AGPXX",
       "name": "STIT - Government & Agency Portfolio",
+      "percent": "0.10"
+    },
+    {
+      "ticker": "3136B0GG5",
+      "name": "Fannie Mae REMICS",
       "percent": "0.09"
     },
     {
@@ -896,6 +896,11 @@
       "percent": "0.01"
     },
     {
+      "ticker": "-CASH-",
+      "name": "Cash/Receivables/Payables",
+      "percent": "0.01"
+    },
+    {
       "ticker": "125282AA1",
       "name": "CGDBB Commercial Mortgage Trust 2017-BIOC",
       "percent": "0.00"
@@ -904,11 +909,6 @@
       "ticker": "95001PAG8",
       "name": "Wells Fargo Commercial Mortgage Trust 2018-BXI",
       "percent": "0.00"
-    },
-    {
-      "ticker": "-CASH-",
-      "name": "Cash/Receivables/Payables",
-      "percent": "-0.01"
     }
   ]
 }

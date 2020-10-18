@@ -1,6 +1,6 @@
 {
-  "name": "DWA Utilities Momentum ETF",
-  "ticker": "PUI",
+  "Products": "DWA Utilities Momentum ETF",
+  "Ticker": "PUI",
   "Inception": "10/26/2005",
   "Gross Exp. Ratio": "0.73%",
   "YTD": "-12.35",
@@ -11,7 +11,7 @@
   "Since Incept.": "7.46",
   "Category": "Factor Access",
   "SubCategory": "Dorsey Wright Sectors",
-  "infer": "invesco",
+  "ticker": "PUI",
   "issuer": "Invesco",
   "website": "https://www.invesco.com/us/financial-products/etfs/product-detail?audienceType=Investor&ticker=PUI",
   "holdingDataSource": {
@@ -23,167 +23,162 @@
     {
       "ticker": "NRG",
       "name": "NRG Energy Inc",
-      "percent": "3.803"
-    },
-    {
-      "ticker": "AWK",
-      "name": "American Water Works Co Inc",
-      "percent": "3.585"
+      "percent": "3.749"
     },
     {
       "ticker": "NEE",
       "name": "NextEra Energy Inc",
-      "percent": "3.557"
+      "percent": "3.628"
+    },
+    {
+      "ticker": "AWK",
+      "name": "American Water Works Co Inc",
+      "percent": "3.567"
     },
     {
       "ticker": "ETR",
       "name": "Entergy Corp",
-      "percent": "3.391"
+      "percent": "3.421"
     },
     {
       "ticker": "XEL",
       "name": "Xcel Energy Inc",
-      "percent": "3.388"
-    },
-    {
-      "ticker": "ES",
-      "name": "Eversource Energy",
-      "percent": "3.357"
-    },
-    {
-      "ticker": "SO",
-      "name": "Southern Co/The",
-      "percent": "3.354"
+      "percent": "3.418"
     },
     {
       "ticker": "DTE",
       "name": "DTE Energy Co",
-      "percent": "3.344"
+      "percent": "3.370"
     },
     {
-      "ticker": "SRE",
-      "name": "Sempra Energy",
-      "percent": "3.262"
+      "ticker": "SO",
+      "name": "Southern Co/The",
+      "percent": "3.360"
+    },
+    {
+      "ticker": "ES",
+      "name": "Eversource Energy",
+      "percent": "3.359"
     },
     {
       "ticker": "LNT",
       "name": "Alliant Energy Corp",
-      "percent": "3.251"
+      "percent": "3.258"
     },
     {
       "ticker": "DUK",
       "name": "Duke Energy Corp",
-      "percent": "3.245"
+      "percent": "3.246"
     },
     {
-      "ticker": "AES",
-      "name": "AES Corp/The",
-      "percent": "3.177"
-    },
-    {
-      "ticker": "CMS",
-      "name": "CMS Energy Corp",
-      "percent": "3.155"
+      "ticker": "SRE",
+      "name": "Sempra Energy",
+      "percent": "3.239"
     },
     {
       "ticker": "AEP",
       "name": "American Electric Power Co Inc",
-      "percent": "3.133"
+      "percent": "3.190"
+    },
+    {
+      "ticker": "AES",
+      "name": "AES Corp/The",
+      "percent": "3.171"
+    },
+    {
+      "ticker": "CMS",
+      "name": "CMS Energy Corp",
+      "percent": "3.167"
     },
     {
       "ticker": "WEC",
       "name": "WEC Energy Group Inc",
-      "percent": "3.052"
+      "percent": "3.088"
     },
     {
       "ticker": "ATO",
       "name": "Atmos Energy Corp",
-      "percent": "2.941"
+      "percent": "2.929"
     },
     {
       "ticker": "NI",
       "name": "NiSource Inc",
-      "percent": "2.851"
+      "percent": "2.853"
     },
     {
       "ticker": "D",
       "name": "Dominion Energy Inc",
-      "percent": "2.666"
-    },
-    {
-      "ticker": "EQT",
-      "name": "EQT Corp",
-      "percent": "2.601"
-    },
-    {
-      "ticker": "OKE",
-      "name": "ONEOK Inc",
-      "percent": "2.545"
+      "percent": "2.676"
     },
     {
       "ticker": "EVRG",
       "name": "Evergy Inc",
-      "percent": "2.534"
+      "percent": "2.548"
+    },
+    {
+      "ticker": "EQT",
+      "name": "EQT Corp",
+      "percent": "2.524"
     },
     {
       "ticker": "PNW",
       "name": "Pinnacle West Capital Corp",
-      "percent": "2.527"
+      "percent": "2.522"
     },
     {
       "ticker": "WTRG",
       "name": "Essential Utilities Inc",
-      "percent": "2.478"
+      "percent": "2.491"
     },
     {
-      "ticker": "CNP",
-      "name": "CenterPoint Energy Inc",
-      "percent": "2.350"
-    },
-    {
-      "ticker": "PNM",
-      "name": "PNM Resources Inc",
-      "percent": "2.334"
+      "ticker": "OKE",
+      "name": "ONEOK Inc",
+      "percent": "2.457"
     },
     {
       "ticker": "AEE",
       "name": "Ameren Corp",
-      "percent": "2.326"
+      "percent": "2.352"
+    },
+    {
+      "ticker": "PNM",
+      "name": "PNM Resources Inc",
+      "percent": "2.338"
     },
     {
       "ticker": "PEG",
       "name": "Public Service Enterprise Group Inc",
-      "percent": "2.303"
+      "percent": "2.335"
+    },
+    {
+      "ticker": "CNP",
+      "name": "CenterPoint Energy Inc",
+      "percent": "2.333"
     },
     {
       "ticker": "IDA",
       "name": "IDACORP Inc",
-      "percent": "2.090"
+      "percent": "2.066"
     },
     {
       "ticker": "VZ",
       "name": "Verizon Communications Inc",
-      "percent": "2.043"
+      "percent": "2.031"
     },
     {
       "ticker": "VST",
       "name": "Vistra Corp",
-      "percent": "1.937"
-    },
-    {
-      "ticker": "UGI",
-      "name": "UGI Corp",
-      "percent": "1.934"
+      "percent": "1.958"
     },
     {
       "ticker": "MDU",
       "name": "MDU Resources Group Inc",
-      "percent": "1.929"
+      "percent": "1.953"
     },
     {
-      "ticker": "NFG",
-      "name": "National Fuel Gas Co",
-      "percent": "1.887"
+      "ticker": "UGI",
+      "name": "UGI Corp",
+      "percent": "1.935"
     },
     {
       "ticker": "AWR",
@@ -191,24 +186,29 @@
       "percent": "1.884"
     },
     {
+      "ticker": "NFG",
+      "name": "National Fuel Gas Co",
+      "percent": "1.849"
+    },
+    {
       "ticker": "OGS",
       "name": "ONE Gas Inc",
-      "percent": "1.848"
+      "percent": "1.834"
     },
     {
       "ticker": "NWE",
       "name": "NorthWestern Corp",
-      "percent": "1.840"
+      "percent": "1.824"
     },
     {
       "ticker": "SHEN",
       "name": "Shenandoah Telecommunications Co",
-      "percent": "1.807"
+      "percent": "1.791"
     },
     {
       "ticker": "AGPXX",
       "name": "STIT - Government & Agency Portfolio",
-      "percent": "0.290"
+      "percent": "0.289"
     },
     {
       "ticker": "-CASH-",

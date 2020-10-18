@@ -1,7 +1,7 @@
 {
-  "name": "Zacks Multi-Asset Income ETF",
-  "ticker": "CVY",
-  "Inception": "9/21/2006",
+  "Products": "Zacks Multi-Asset Income ETF",
+  "Ticker": "CVY",
+  "Inception": "09/21/2006",
   "Gross Exp. Ratio": "0.97%",
   "YTD": "-27.78",
   "1Yr": "-23.68",
@@ -11,7 +11,7 @@
   "Since Incept.": "2.22",
   "Category": "Income",
   "SubCategory": "Equity Income",
-  "infer": "invesco",
+  "ticker": "CVY",
   "issuer": "Invesco",
   "website": "https://www.invesco.com/us/financial-products/etfs/product-detail?audienceType=Investor&ticker=CVY",
   "holdingDataSource": {
@@ -23,47 +23,42 @@
     {
       "ticker": "ALLY",
       "name": "Ally Financial Inc",
-      "percent": "1.242"
+      "percent": "1.282"
     },
     {
       "ticker": "OMP",
       "name": "Oasis Midstream Partners LP",
-      "percent": "1.200"
-    },
-    {
-      "ticker": "CEQP",
-      "name": "Crestwood Equity Partners LP",
-      "percent": "1.190"
-    },
-    {
-      "ticker": "OXLC",
-      "name": "Oxford Lane Capital Corp",
-      "percent": "1.186"
+      "percent": "1.230"
     },
     {
       "ticker": "SYF",
       "name": "Synchrony Financial",
-      "percent": "1.183"
+      "percent": "1.199"
     },
     {
-      "ticker": "USAC",
-      "name": "USA Compression Partners LP",
-      "percent": "1.139"
+      "ticker": "OXLC",
+      "name": "Oxford Lane Capital Corp",
+      "percent": "1.169"
     },
     {
-      "ticker": "ATH C",
-      "name": "Athene Holding Ltd",
-      "percent": "1.121"
+      "ticker": "CEQP",
+      "name": "Crestwood Equity Partners LP",
+      "percent": "1.168"
     },
     {
       "ticker": "DCUE",
       "name": "Dominion Energy Inc",
+      "percent": "1.126"
+    },
+    {
+      "ticker": "ATH C",
+      "name": "Athene Holding Ltd",
       "percent": "1.115"
     },
     {
-      "ticker": "TFC O",
-      "name": "Truist Financial Corp",
-      "percent": "1.106"
+      "ticker": "USAC",
+      "name": "USA Compression Partners LP",
+      "percent": "1.109"
     },
     {
       "ticker": "WFC Z",
@@ -71,104 +66,114 @@
       "percent": "1.105"
     },
     {
-      "ticker": "DSL",
-      "name": "DoubleLine Income Solutions Fund",
+      "ticker": "TFC O",
+      "name": "Truist Financial Corp",
       "percent": "1.104"
     },
     {
-      "ticker": "AMP",
-      "name": "Ameriprise Financial Inc",
-      "percent": "1.091"
+      "ticker": "DSL",
+      "name": "DoubleLine Income Solutions Fund",
+      "percent": "1.098"
     },
     {
       "ticker": "INTC",
       "name": "Intel Corp",
-      "percent": "1.080"
+      "percent": "1.091"
+    },
+    {
+      "ticker": "AMP",
+      "name": "Ameriprise Financial Inc",
+      "percent": "1.089"
     },
     {
       "ticker": "EXR",
       "name": "Extra Space Storage Inc",
-      "percent": "1.080"
+      "percent": "1.082"
     },
     {
       "ticker": "WFC L",
       "name": "Wells Fargo & Co",
-      "percent": "1.068"
+      "percent": "1.073"
     },
     {
       "ticker": "CNP",
       "name": "CenterPoint Energy Inc",
-      "percent": "1.059"
-    },
-    {
-      "ticker": "COR",
-      "name": "CoreSite Realty Corp",
-      "percent": "1.031"
-    },
-    {
-      "ticker": "AFL",
-      "name": "Aflac Inc",
-      "percent": "1.016"
-    },
-    {
-      "ticker": "MET",
-      "name": "MetLife Inc",
-      "percent": "1.015"
+      "percent": "1.060"
     },
     {
       "ticker": "BK",
       "name": "Bank of New York Mellon Corp/The",
-      "percent": "1.011"
+      "percent": "1.036"
+    },
+    {
+      "ticker": "COR",
+      "name": "CoreSite Realty Corp",
+      "percent": "1.032"
+    },
+    {
+      "ticker": "MET",
+      "name": "MetLife Inc",
+      "percent": "1.023"
+    },
+    {
+      "ticker": "AFL",
+      "name": "Aflac Inc",
+      "percent": "1.019"
     },
     {
       "ticker": "FNF",
       "name": "Fidelity National Financial Inc",
-      "percent": "1.006"
-    },
-    {
-      "ticker": "GS",
-      "name": "Goldman Sachs Group Inc/The",
-      "percent": "1.000"
-    },
-    {
-      "ticker": "T C",
-      "name": "AT&T Inc",
-      "percent": "1.000"
-    },
-    {
-      "ticker": "HYT",
-      "name": "BlackRock Corporate High Yield Fund Inc",
-      "percent": "0.997"
-    },
-    {
-      "ticker": "VIAC",
-      "name": "ViacomCBS Inc",
-      "percent": "0.992"
+      "percent": "1.018"
     },
     {
       "ticker": "RTX",
       "name": "Raytheon Technologies Corp",
-      "percent": "0.989"
+      "percent": "1.014"
     },
     {
       "ticker": "TX",
       "name": "Ternium SA ADR",
-      "percent": "0.987"
+      "percent": "1.004"
+    },
+    {
+      "ticker": "T C",
+      "name": "AT&T Inc",
+      "percent": "1.002"
     },
     {
       "ticker": "MS",
       "name": "Morgan Stanley",
-      "percent": "0.987"
+      "percent": "1.001"
+    },
+    {
+      "ticker": "VIAC",
+      "name": "ViacomCBS Inc",
+      "percent": "1.000"
+    },
+    {
+      "ticker": "GS",
+      "name": "Goldman Sachs Group Inc/The",
+      "percent": "0.993"
+    },
+    {
+      "ticker": "HYT",
+      "name": "BlackRock Corporate High Yield Fund Inc",
+      "percent": "0.991"
     },
     {
       "ticker": "GGN",
       "name": "GAMCO Global Gold Natural Resources & Income Trust",
+      "percent": "0.983"
+    },
+    {
+      "ticker": "BMY",
+      "name": "Bristol Myers Squibb Co",
       "percent": "0.982"
     },
     {
       "ticker": "STT",
       "name": "State Street Corp",
-      "percent": "0.979"
+      "percent": "0.978"
     },
     {
       "ticker": "BHFAO",
@@ -176,84 +181,84 @@
       "percent": "0.977"
     },
     {
-      "ticker": "DOC",
-      "name": "Physicians Realty Trust",
-      "percent": "0.974"
-    },
-    {
       "ticker": "WBA",
       "name": "Walgreens Boots Alliance Inc",
-      "percent": "0.968"
+      "percent": "0.966"
     },
     {
-      "ticker": "BMY",
-      "name": "Bristol Myers Squibb Co",
-      "percent": "0.964"
+      "ticker": "DOC",
+      "name": "Physicians Realty Trust",
+      "percent": "0.962"
     },
     {
       "ticker": "CAH",
       "name": "Cardinal Health Inc",
-      "percent": "0.954"
-    },
-    {
-      "ticker": "ADC",
-      "name": "Agree Realty Corp",
-      "percent": "0.949"
-    },
-    {
-      "ticker": "TSN",
-      "name": "Tyson Foods Inc",
-      "percent": "0.948"
+      "percent": "0.956"
     },
     {
       "ticker": "CVS",
       "name": "CVS Health Corp",
-      "percent": "0.941"
+      "percent": "0.949"
     },
     {
       "ticker": "BAC",
       "name": "Bank of America Corp",
-      "percent": "0.939"
+      "percent": "0.947"
     },
     {
-      "ticker": "AMGN",
-      "name": "Amgen Inc",
-      "percent": "0.934"
+      "ticker": "ADC",
+      "name": "Agree Realty Corp",
+      "percent": "0.946"
     },
     {
       "ticker": "GD",
       "name": "General Dynamics Corp",
-      "percent": "0.930"
+      "percent": "0.944"
+    },
+    {
+      "ticker": "AMGN",
+      "name": "Amgen Inc",
+      "percent": "0.941"
+    },
+    {
+      "ticker": "TSN",
+      "name": "Tyson Foods Inc",
+      "percent": "0.939"
     },
     {
       "ticker": "HIG",
       "name": "Hartford Financial Services Group Inc/The",
-      "percent": "0.929"
+      "percent": "0.930"
     },
     {
       "ticker": "IIPR",
       "name": "Innovative Industrial Properties Inc",
-      "percent": "0.920"
+      "percent": "0.912"
     },
     {
       "ticker": "IRM",
       "name": "Iron Mountain Inc",
-      "percent": "0.908"
+      "percent": "0.907"
+    },
+    {
+      "ticker": "WRK",
+      "name": "Westrock Co",
+      "percent": "0.893"
     },
     {
       "ticker": "IVZ",
       "name": "Invesco Ltd",
-      "percent": "0.893"
+      "percent": "0.884"
     },
     {
       "ticker": "VIV",
       "name": "Telefonica Brasil SA ADR",
-      "percent": "0.889"
+      "percent": "0.875"
     },
     {
       "ticker": "MPLX",
       "name": "MPLX LP",
-      "percent": "0.867"
+      "percent": "0.862"
     },
     {
       "ticker": "SNP",
@@ -261,39 +266,29 @@
       "percent": "0.861"
     },
     {
-      "ticker": "WRK",
-      "name": "Westrock Co",
-      "percent": "0.860"
+      "ticker": "MBT",
+      "name": "Mobile TeleSystems PJSC ADR",
+      "percent": "0.849"
     },
     {
       "ticker": "C",
       "name": "Citigroup Inc",
-      "percent": "0.853"
+      "percent": "0.848"
     },
     {
       "ticker": "CUBE",
       "name": "CubeSmart",
-      "percent": "0.843"
-    },
-    {
-      "ticker": "WES",
-      "name": "Western Midstream Partners LP",
-      "percent": "0.841"
-    },
-    {
-      "ticker": "MBT",
-      "name": "Mobile TeleSystems PJSC ADR",
-      "percent": "0.836"
+      "percent": "0.832"
     },
     {
       "ticker": "STAG",
       "name": "STAG Industrial Inc",
-      "percent": "0.835"
+      "percent": "0.829"
     },
     {
-      "ticker": "MTG",
-      "name": "MGIC Investment Corp",
-      "percent": "0.797"
+      "ticker": "WES",
+      "name": "Western Midstream Partners LP",
+      "percent": "0.823"
     },
     {
       "ticker": "RDN",
@@ -301,84 +296,79 @@
       "percent": "0.794"
     },
     {
-      "ticker": "FANG",
-      "name": "Diamondback Energy Inc",
-      "percent": "0.773"
+      "ticker": "MTG",
+      "name": "MGIC Investment Corp",
+      "percent": "0.781"
     },
     {
       "ticker": "CE",
       "name": "Celanese Corp",
-      "percent": "0.770"
+      "percent": "0.777"
     },
     {
       "ticker": "RGA",
       "name": "Reinsurance Group of America Inc",
-      "percent": "0.745"
+      "percent": "0.757"
     },
     {
       "ticker": "WHR",
       "name": "Whirlpool Corp",
-      "percent": "0.744"
+      "percent": "0.745"
+    },
+    {
+      "ticker": "FANG",
+      "name": "Diamondback Energy Inc",
+      "percent": "0.742"
     },
     {
       "ticker": "HBI",
       "name": "Hanesbrands Inc",
-      "percent": "0.738"
+      "percent": "0.735"
     },
     {
       "ticker": "DCP",
       "name": "DCP Midstream LP",
-      "percent": "0.731"
-    },
-    {
-      "ticker": "AFG",
-      "name": "American Financial Group Inc/OH",
-      "percent": "0.718"
+      "percent": "0.730"
     },
     {
       "ticker": "SNA",
       "name": "Snap-on Inc",
-      "percent": "0.711"
+      "percent": "0.720"
+    },
+    {
+      "ticker": "AFG",
+      "name": "American Financial Group Inc/OH",
+      "percent": "0.716"
     },
     {
       "ticker": "EC",
       "name": "Ecopetrol SA ADR",
-      "percent": "0.705"
+      "percent": "0.704"
     },
     {
       "ticker": "WAL",
       "name": "Western Alliance Bancorp",
+      "percent": "0.699"
+    },
+    {
+      "ticker": "FAF",
+      "name": "First American Financial Corp",
       "percent": "0.695"
     },
     {
       "ticker": "UNM",
       "name": "Unum Group",
-      "percent": "0.679"
-    },
-    {
-      "ticker": "FAF",
-      "name": "First American Financial Corp",
       "percent": "0.676"
     },
     {
       "ticker": "PB",
       "name": "Prosperity Bancshares Inc",
-      "percent": "0.668"
+      "percent": "0.674"
     },
     {
       "ticker": "NRG",
       "name": "NRG Energy Inc",
-      "percent": "0.665"
-    },
-    {
-      "ticker": "ENBL",
-      "name": "Enable Midstream Partners LP",
-      "percent": "0.662"
-    },
-    {
-      "ticker": "RA",
-      "name": "Brookfield Real Assets Income Fund Inc",
-      "percent": "0.658"
+      "percent": "0.661"
     },
     {
       "ticker": "EWBC",
@@ -386,19 +376,19 @@
       "percent": "0.656"
     },
     {
+      "ticker": "RA",
+      "name": "Brookfield Real Assets Income Fund Inc",
+      "percent": "0.654"
+    },
+    {
       "ticker": "TOT",
       "name": "TOTAL SE ADR",
-      "percent": "0.654"
+      "percent": "0.651"
     },
     {
       "ticker": "WFC Q",
       "name": "Wells Fargo & Co",
-      "percent": "0.651"
-    },
-    {
-      "ticker": "EQH",
-      "name": "Equitable Holdings Inc",
-      "percent": "0.645"
+      "percent": "0.649"
     },
     {
       "ticker": "COF J",
@@ -406,209 +396,219 @@
       "percent": "0.644"
     },
     {
-      "ticker": "XEC",
-      "name": "Cimarex Energy Co",
-      "percent": "0.642"
+      "ticker": "ENBL",
+      "name": "Enable Midstream Partners LP",
+      "percent": "0.643"
     },
     {
       "ticker": "HII",
       "name": "Huntington Ingalls Industries Inc",
-      "percent": "0.636"
+      "percent": "0.640"
     },
     {
-      "ticker": "FPF",
-      "name": "First Trust Intermediate Duration Preferred & Income Fund",
-      "percent": "0.628"
+      "ticker": "EQH",
+      "name": "Equitable Holdings Inc",
+      "percent": "0.637"
     },
     {
       "ticker": "NXST",
       "name": "Nexstar Media Group Inc",
-      "percent": "0.627"
+      "percent": "0.628"
+    },
+    {
+      "ticker": "FPF",
+      "name": "First Trust Intermediate Duration Preferred & Income Fund",
+      "percent": "0.625"
     },
     {
       "ticker": "LNC",
       "name": "Lincoln National Corp",
-      "percent": "0.627"
+      "percent": "0.625"
     },
     {
       "ticker": "EPD",
       "name": "Enterprise Products Partners LP",
-      "percent": "0.619"
+      "percent": "0.612"
+    },
+    {
+      "ticker": "XEC",
+      "name": "Cimarex Energy Co",
+      "percent": "0.610"
     },
     {
       "ticker": "NS",
       "name": "NuStar Energy LP",
-      "percent": "0.604"
+      "percent": "0.596"
     },
     {
       "ticker": "VIRT",
       "name": "Virtu Financial Inc",
-      "percent": "0.594"
+      "percent": "0.591"
     },
     {
       "ticker": "SMFG",
       "name": "Sumitomo Mitsui Financial Group Inc ADR",
-      "percent": "0.586"
+      "percent": "0.591"
     },
     {
       "ticker": "GEL",
       "name": "Genesis Energy LP",
-      "percent": "0.580"
-    },
-    {
-      "ticker": "OVV",
-      "name": "Ovintiv Inc",
-      "percent": "0.574"
+      "percent": "0.582"
     },
     {
       "ticker": "KB",
       "name": "KB Financial Group Inc ADR",
-      "percent": "0.570"
-    },
-    {
-      "ticker": "JPM D",
-      "name": "JPMorgan Chase & Co",
-      "percent": "0.568"
+      "percent": "0.576"
     },
     {
       "ticker": "SBGI",
       "name": "Sinclair Broadcast Group Inc",
-      "percent": "0.568"
+      "percent": "0.574"
+    },
+    {
+      "ticker": "JPM D",
+      "name": "JPMorgan Chase & Co",
+      "percent": "0.565"
+    },
+    {
+      "ticker": "OVV",
+      "name": "Ovintiv Inc",
+      "percent": "0.552"
     },
     {
       "ticker": "ELP",
       "name": "Cia Paranaense de Energia ADR",
-      "percent": "0.566"
+      "percent": "0.550"
     },
     {
       "ticker": "MUFG",
       "name": "Mitsubishi UFJ Financial Group Inc ADR",
-      "percent": "0.533"
+      "percent": "0.539"
     },
     {
       "ticker": "ETRN",
       "name": "Equitrans Midstream Corp",
-      "percent": "0.528"
+      "percent": "0.514"
     },
     {
-      "ticker": "EVA",
-      "name": "Enviva Partners LP",
-      "percent": "0.509"
+      "ticker": "GSK",
+      "name": "GlaxoSmithKline PLC ADR",
+      "percent": "0.510"
     },
     {
       "ticker": "KOF",
       "name": "Coca-Cola Femsa SAB de CV ADR",
+      "percent": "0.507"
+    },
+    {
+      "ticker": "EVA",
+      "name": "Enviva Partners LP",
       "percent": "0.503"
     },
     {
       "ticker": "JPC",
       "name": "Nuveen Preferred & Income Opportunities Fund",
-      "percent": "0.503"
-    },
-    {
-      "ticker": "GSK",
-      "name": "GlaxoSmithKline PLC ADR",
-      "percent": "0.500"
-    },
-    {
-      "ticker": "NBLX",
-      "name": "Noble Midstream Partners LP",
-      "percent": "0.497"
+      "percent": "0.501"
     },
     {
       "ticker": "BAC-PM",
       "name": "Bank of America Corp",
-      "percent": "0.494"
+      "percent": "0.491"
+    },
+    {
+      "ticker": "NBLX",
+      "name": "Noble Midstream Partners LP",
+      "percent": "0.490"
     },
     {
       "ticker": "HASI",
       "name": "Hannon Armstrong Sustainable Infrastructure Capital Inc",
-      "percent": "0.476"
+      "percent": "0.474"
     },
     {
       "ticker": "LXP",
       "name": "Lexington Realty Trust",
-      "percent": "0.472"
+      "percent": "0.469"
     },
     {
       "ticker": "VALE",
       "name": "Vale SA ADR",
-      "percent": "0.469"
+      "percent": "0.467"
     },
     {
       "ticker": "BIT",
       "name": "BlackRock Multi-Sector Income Trust",
-      "percent": "0.441"
-    },
-    {
-      "ticker": "AGO",
-      "name": "Assured Guaranty Ltd",
-      "percent": "0.420"
+      "percent": "0.440"
     },
     {
       "ticker": "BGB",
       "name": "Blackstone / GSO Strategic Credit Fund",
-      "percent": "0.419"
+      "percent": "0.417"
     },
     {
-      "ticker": "OMF",
-      "name": "OneMain Holdings Inc",
-      "percent": "0.409"
+      "ticker": "AGO",
+      "name": "Assured Guaranty Ltd",
+      "percent": "0.416"
     },
     {
       "ticker": "EVR",
       "name": "Evercore Inc",
-      "percent": "0.407"
+      "percent": "0.411"
+    },
+    {
+      "ticker": "OMF",
+      "name": "OneMain Holdings Inc",
+      "percent": "0.410"
     },
     {
       "ticker": "GBX",
       "name": "Greenbrier Cos Inc/The",
-      "percent": "0.403"
-    },
-    {
-      "ticker": "MDC",
-      "name": "MDC Holdings Inc",
-      "percent": "0.386"
+      "percent": "0.402"
     },
     {
       "ticker": "LFC",
       "name": "China Life Insurance Co Ltd ADR",
-      "percent": "0.383"
-    },
-    {
-      "ticker": "DEA",
-      "name": "Easterly Government Properties Inc",
-      "percent": "0.381"
+      "percent": "0.397"
     },
     {
       "ticker": "SCS",
       "name": "Steelcase Inc",
+      "percent": "0.389"
+    },
+    {
+      "ticker": "MDC",
+      "name": "MDC Holdings Inc",
       "percent": "0.381"
+    },
+    {
+      "ticker": "DEA",
+      "name": "Easterly Government Properties Inc",
+      "percent": "0.377"
     },
     {
       "ticker": "NAVI",
       "name": "Navient Corp",
-      "percent": "0.379"
-    },
-    {
-      "ticker": "GRA",
-      "name": "W R Grace & Co",
-      "percent": "0.375"
-    },
-    {
-      "ticker": "CNO",
-      "name": "CNO Financial Group Inc",
-      "percent": "0.371"
-    },
-    {
-      "ticker": "OFC",
-      "name": "Corporate Office Properties Trust",
-      "percent": "0.369"
+      "percent": "0.373"
     },
     {
       "ticker": "UNIT",
       "name": "Uniti Group Inc",
-      "percent": "0.367"
+      "percent": "0.369"
+    },
+    {
+      "ticker": "CNO",
+      "name": "CNO Financial Group Inc",
+      "percent": "0.369"
+    },
+    {
+      "ticker": "GRA",
+      "name": "W R Grace & Co",
+      "percent": "0.366"
+    },
+    {
+      "ticker": "OFC",
+      "name": "Corporate Office Properties Trust",
+      "percent": "0.362"
     },
     {
       "ticker": "WD",
@@ -618,32 +618,32 @@
     {
       "ticker": "WTFC",
       "name": "Wintrust Financial Corp",
-      "percent": "0.357"
+      "percent": "0.359"
     },
     {
       "ticker": "TROX",
       "name": "Tronox Holdings PLC",
-      "percent": "0.352"
-    },
-    {
-      "ticker": "NRGX",
-      "name": "PIMCO Energy & Tactical Credit Opportunities Fund",
-      "percent": "0.349"
+      "percent": "0.353"
     },
     {
       "ticker": "BPOP",
       "name": "Popular Inc",
-      "percent": "0.348"
+      "percent": "0.346"
     },
     {
       "ticker": "JPI",
       "name": "Nuveen Preferred & Income Term Fund",
-      "percent": "0.346"
+      "percent": "0.345"
+    },
+    {
+      "ticker": "NRGX",
+      "name": "PIMCO Energy & Tactical Credit Opportunities Fund",
+      "percent": "0.344"
     },
     {
       "ticker": "ISD",
       "name": "PGIM High Yield Bond Fund Inc",
-      "percent": "0.342"
+      "percent": "0.341"
     },
     {
       "ticker": "TM",
@@ -651,18 +651,23 @@
       "percent": "0.338"
     },
     {
-      "ticker": "HOMB",
-      "name": "Home BancShares Inc/AR",
-      "percent": "0.336"
-    },
-    {
       "ticker": "BXS",
       "name": "BancorpSouth Bank",
-      "percent": "0.332"
+      "percent": "0.333"
+    },
+    {
+      "ticker": "HOMB",
+      "name": "Home BancShares Inc/AR",
+      "percent": "0.331"
     },
     {
       "ticker": "SFNC",
       "name": "Simmons First National Corp",
+      "percent": "0.331"
+    },
+    {
+      "ticker": "BKU",
+      "name": "BankUnited Inc",
       "percent": "0.330"
     },
     {
@@ -671,74 +676,69 @@
       "percent": "0.329"
     },
     {
-      "ticker": "BKU",
-      "name": "BankUnited Inc",
-      "percent": "0.328"
-    },
-    {
       "ticker": "HIX",
       "name": "Western Asset High Income Fund II Inc",
-      "percent": "0.325"
+      "percent": "0.327"
     },
     {
       "ticker": "HI",
       "name": "Hillenbrand Inc",
-      "percent": "0.322"
+      "percent": "0.324"
     },
     {
       "ticker": "EAD",
       "name": "Wells Fargo Income Opportunities Fund",
-      "percent": "0.321"
-    },
-    {
-      "ticker": "SSB",
-      "name": "South State Corp",
-      "percent": "0.317"
+      "percent": "0.320"
     },
     {
       "ticker": "THG",
       "name": "Hanover Insurance Group Inc/The",
-      "percent": "0.315"
-    },
-    {
-      "ticker": "STNG",
-      "name": "Scorpio Tankers Inc",
-      "percent": "0.311"
+      "percent": "0.318"
     },
     {
       "ticker": "CR",
       "name": "Crane Co",
-      "percent": "0.309"
+      "percent": "0.314"
     },
     {
       "ticker": "XPER",
       "name": "Xperi Holding Corp",
-      "percent": "0.309"
+      "percent": "0.314"
+    },
+    {
+      "ticker": "SSB",
+      "name": "South State Corp",
+      "percent": "0.311"
+    },
+    {
+      "ticker": "STNG",
+      "name": "Scorpio Tankers Inc",
+      "percent": "0.305"
     },
     {
       "ticker": "NSA",
       "name": "National Storage Affiliates Trust",
-      "percent": "0.302"
+      "percent": "0.298"
     },
     {
       "ticker": "DLX",
       "name": "Deluxe Corp",
-      "percent": "0.296"
+      "percent": "0.290"
     },
     {
       "ticker": "GHY",
       "name": "PGIM Global High Yield Fund Inc",
-      "percent": "0.291"
+      "percent": "0.289"
     },
     {
       "ticker": "AGPXX",
       "name": "STIT - Government & Agency Portfolio",
-      "percent": "0.262"
+      "percent": "0.289"
     },
     {
       "ticker": "ARDC",
       "name": "Ares Dynamic Credit Allocation Fund Inc",
-      "percent": "0.248"
+      "percent": "0.245"
     },
     {
       "ticker": "BAC B",
@@ -746,19 +746,19 @@
       "percent": "0.220"
     },
     {
-      "ticker": "CHCT",
-      "name": "Community Healthcare Trust Inc",
-      "percent": "0.215"
-    },
-    {
       "ticker": "TEI",
       "name": "Templeton Emerging Markets Income Fund",
       "percent": "0.214"
     },
     {
+      "ticker": "CHCT",
+      "name": "Community Healthcare Trust Inc",
+      "percent": "0.214"
+    },
+    {
       "ticker": "HYI",
       "name": "Western Asset High Yield Defined Opportunity Fund Inc",
-      "percent": "0.192"
+      "percent": "0.193"
     },
     {
       "ticker": "EHI",

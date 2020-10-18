@@ -1,7 +1,7 @@
 {
-  "name": "BulletShares 2027 High Yield Corporate Bond ETF",
-  "ticker": "BSJR",
-  "Inception": "9/12/2019",
+  "Products": "BulletShares 2027 High Yield Corporate Bond ETF",
+  "Ticker": "BSJR",
+  "Inception": "09/12/2019",
   "Gross Exp. Ratio": "0.42%",
   "YTD": "-0.47",
   "1Yr": "2.51",
@@ -11,7 +11,7 @@
   "Since Incept.": "2.47",
   "Category": "Income",
   "SubCategory": "BulletShares",
-  "infer": "invesco",
+  "ticker": "BSJR",
   "issuer": "Invesco",
   "website": "https://www.invesco.com/us/financial-products/etfs/product-detail?audienceType=Investor&ticker=BSJR",
   "holdingDataSource": {
@@ -28,12 +28,12 @@
     {
       "ticker": "98954NAA7",
       "name": "Ziggo BV",
-      "percent": "2.71"
+      "percent": "2.70"
     },
     {
       "ticker": "88033GDA5",
       "name": "Tenet Healthcare Corp",
-      "percent": "2.16"
+      "percent": "2.17"
     },
     {
       "ticker": "98919VAA3",
@@ -48,7 +48,7 @@
     {
       "ticker": "92840VAF9",
       "name": "Vistra Operations Co LLC",
-      "percent": "1.96"
+      "percent": "1.97"
     },
     {
       "ticker": "69346VAA7",
@@ -63,7 +63,7 @@
     {
       "ticker": "42704LAA2",
       "name": "Herc Holdings Inc",
-      "percent": "1.80"
+      "percent": "1.81"
     },
     {
       "ticker": "364760AN8",
@@ -78,7 +78,7 @@
     {
       "ticker": "46284VAC5",
       "name": "Iron Mountain Inc",
-      "percent": "1.63"
+      "percent": "1.62"
     },
     {
       "ticker": "12674TAA4",
@@ -88,12 +88,12 @@
     {
       "ticker": "552704AE8",
       "name": "MEG Energy Corp",
-      "percent": "1.60"
+      "percent": "1.59"
     },
     {
       "ticker": "00774CAB3",
       "name": "AECOM",
-      "percent": "1.52"
+      "percent": "1.53"
     },
     {
       "ticker": "019576AB3",
@@ -103,12 +103,12 @@
     {
       "ticker": "451102BZ9",
       "name": "Icahn Enterprises LP / Icahn Enterprises Finance Corp",
-      "percent": "1.46"
+      "percent": "1.47"
     },
     {
       "ticker": "88146LAA1",
       "name": "Terrier Media Buyer Inc",
-      "percent": "1.46"
+      "percent": "1.45"
     },
     {
       "ticker": "78410GAC8",
@@ -123,12 +123,12 @@
     {
       "ticker": "98954UAB9",
       "name": "Ziggo Bond Co BV",
-      "percent": "1.34"
+      "percent": "1.35"
     },
     {
       "ticker": "03969AAR1",
       "name": "Ardagh Packaging Finance PLC / Ardagh Holdings USA Inc",
-      "percent": "1.31"
+      "percent": "1.32"
     },
     {
       "ticker": "538034AR0",
@@ -153,27 +153,27 @@
     {
       "ticker": "345397A45",
       "name": "Ford Motor Credit Co LLC",
-      "percent": "1.16"
+      "percent": "1.15"
     },
     {
       "ticker": "91740PAF5",
       "name": "USA Compression Partners LP / USA Compression Finance Corp",
+      "percent": "1.12"
+    },
+    {
+      "ticker": "92564RAD7",
+      "name": "VICI Properties LP / VICI Note Co Inc",
       "percent": "1.11"
     },
     {
       "ticker": "538034AV1",
       "name": "Live Nation Entertainment Inc",
-      "percent": "1.11"
-    },
-    {
-      "ticker": "92564RAD7",
-      "name": "VICI Properties LP / VICI Note Co Inc",
       "percent": "1.10"
     },
     {
       "ticker": "87612BBL5",
       "name": "Targa Resources Partners LP / Targa Resources Partners Finan",
-      "percent": "1.09"
+      "percent": "1.10"
     },
     {
       "ticker": "44055PAA4",
@@ -201,13 +201,18 @@
       "percent": "1.03"
     },
     {
+      "ticker": "109696AA2",
+      "name": "Brink's Co/The",
+      "percent": "1.00"
+    },
+    {
       "ticker": "00213MAV6",
       "name": "APX Group Inc",
       "percent": "1.00"
     },
     {
-      "ticker": "109696AA2",
-      "name": "Brink's Co/The",
+      "ticker": "345397YT4",
+      "name": "Ford Motor Credit Co LLC",
       "percent": "1.00"
     },
     {
@@ -216,19 +221,14 @@
       "percent": "0.99"
     },
     {
-      "ticker": "345397YT4",
-      "name": "Ford Motor Credit Co LLC",
-      "percent": "0.99"
-    },
-    {
       "ticker": "505742AM8",
       "name": "Ladder Capital Finance Holdings LLLP / Ladder Capital Financ",
-      "percent": "0.98"
+      "percent": "0.97"
     },
     {
       "ticker": "749571AF2",
       "name": "RHP Hotel Properties LP / RHP Finance Corp",
-      "percent": "0.95"
+      "percent": "0.96"
     },
     {
       "ticker": "12543DBD1",
@@ -243,7 +243,7 @@
     {
       "ticker": "150190AB2",
       "name": "Cedar Fair LP / Canada's Wonderland Co / Magnum Management C",
-      "percent": "0.93"
+      "percent": "0.92"
     },
     {
       "ticker": "432891AK5",
@@ -253,21 +253,21 @@
     {
       "ticker": "577081BD3",
       "name": "Mattel Inc",
-      "percent": "0.88"
+      "percent": "0.89"
     },
     {
       "ticker": "57701RAJ1",
       "name": "Mattamy Group Corp",
-      "percent": "0.84"
-    },
-    {
-      "ticker": "53219LAS8",
-      "name": "Legacy LifePoint Health LLC",
-      "percent": "0.82"
+      "percent": "0.83"
     },
     {
       "ticker": "674599CM5",
       "name": "Occidental Petroleum Corp",
+      "percent": "0.82"
+    },
+    {
+      "ticker": "53219LAS8",
+      "name": "Legacy LifePoint Health LLC",
       "percent": "0.82"
     },
     {
@@ -281,24 +281,24 @@
       "percent": "0.79"
     },
     {
+      "ticker": "65342QAB8",
+      "name": "NextEra Energy Operating Partners LP",
+      "percent": "0.78"
+    },
+    {
       "ticker": "030981AL8",
       "name": "AmeriGas Partners LP / AmeriGas Finance Corp",
       "percent": "0.77"
     },
     {
-      "ticker": "65342QAB8",
-      "name": "NextEra Energy Operating Partners LP",
-      "percent": "0.77"
-    },
-    {
       "ticker": "594087AU2",
       "name": "Michaels Stores Inc",
-      "percent": "0.77"
+      "percent": "0.76"
     },
     {
       "ticker": "70137TAP0",
       "name": "Parkland Corp/Canada",
-      "percent": "0.74"
+      "percent": "0.75"
     },
     {
       "ticker": "42829LAF1",
@@ -313,7 +313,7 @@
     {
       "ticker": "415864AM9",
       "name": "Harsco Corp",
-      "percent": "0.72"
+      "percent": "0.73"
     },
     {
       "ticker": "62886EAU2",
@@ -331,13 +331,13 @@
       "percent": "0.71"
     },
     {
-      "ticker": "626717AM4",
-      "name": "Murphy Oil Corp",
+      "ticker": "07556QBR5",
+      "name": "Beazer Homes USA Inc",
       "percent": "0.70"
     },
     {
-      "ticker": "07556QBR5",
-      "name": "Beazer Homes USA Inc",
+      "ticker": "626717AM4",
+      "name": "Murphy Oil Corp",
       "percent": "0.70"
     },
     {
@@ -353,12 +353,12 @@
     {
       "ticker": "02406PAU4",
       "name": "American Axle & Manufacturing Inc",
-      "percent": "0.68"
+      "percent": "0.69"
     },
     {
       "ticker": "83001AAC6",
       "name": "Six Flags Entertainment Corp",
-      "percent": "0.68"
+      "percent": "0.67"
     },
     {
       "ticker": "019736AE7",
@@ -368,7 +368,7 @@
     {
       "ticker": "98310WAN8",
       "name": "Wyndham Destinations Inc",
-      "percent": "0.67"
+      "percent": "0.66"
     },
     {
       "ticker": "87952VAP1",
@@ -383,16 +383,16 @@
     {
       "ticker": "87952VAM8",
       "name": "Telesat Canada / Telesat LLC",
+      "percent": "0.65"
+    },
+    {
+      "ticker": "053773BC0",
+      "name": "Avis Budget Car Rental LLC / Avis Budget Finance Inc",
       "percent": "0.64"
     },
     {
       "ticker": "163851AE8",
       "name": "Chemours Co/The",
-      "percent": "0.64"
-    },
-    {
-      "ticker": "053773BC0",
-      "name": "Avis Budget Car Rental LLC / Avis Budget Finance Inc",
       "percent": "0.64"
     },
     {
@@ -431,13 +431,13 @@
       "percent": "0.55"
     },
     {
-      "ticker": "65548PAF3",
-      "name": "Norbord Inc",
+      "ticker": "845467AN9",
+      "name": "Southwestern Energy Co",
       "percent": "0.55"
     },
     {
-      "ticker": "845467AN9",
-      "name": "Southwestern Energy Co",
+      "ticker": "65548PAF3",
+      "name": "Norbord Inc",
       "percent": "0.54"
     },
     {
@@ -446,18 +446,18 @@
       "percent": "0.54"
     },
     {
-      "ticker": "97789LAA4",
-      "name": "Wolverine Escrow LLC",
-      "percent": "0.54"
-    },
-    {
       "ticker": "536797AE3",
       "name": "Lithia Motors Inc",
-      "percent": "0.54"
+      "percent": "0.53"
     },
     {
       "ticker": "36485MAK5",
       "name": "Garda World Security Corp",
+      "percent": "0.53"
+    },
+    {
+      "ticker": "97789LAA4",
+      "name": "Wolverine Escrow LLC",
       "percent": "0.53"
     },
     {
@@ -473,7 +473,7 @@
     {
       "ticker": "201723AL7",
       "name": "Commercial Metals Co",
-      "percent": "0.49"
+      "percent": "0.48"
     },
     {
       "ticker": "87470LAG6",
@@ -503,7 +503,7 @@
     {
       "ticker": "553777AA1",
       "name": "MTS Systems Corp",
-      "percent": "0.39"
+      "percent": "0.38"
     },
     {
       "ticker": "87265HAF6",
@@ -523,7 +523,7 @@
     {
       "ticker": "07335BAA4",
       "name": "US Renal Care Inc",
-      "percent": "0.35"
+      "percent": "0.34"
     },
     {
       "ticker": "080555AE5",
@@ -531,13 +531,13 @@
       "percent": "0.29"
     },
     {
-      "ticker": "080555AF2",
-      "name": "Belo Corp",
-      "percent": "0.29"
-    },
-    {
       "ticker": "880394AE1",
       "name": "Pactiv LLC",
+      "percent": "0.28"
+    },
+    {
+      "ticker": "080555AF2",
+      "name": "Belo Corp",
       "percent": "0.28"
     },
     {

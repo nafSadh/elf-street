@@ -1,7 +1,7 @@
 {
-  "name": "BulletShares 2021 High Yield Corporate Bond ETF",
-  "ticker": "BSJL",
-  "Inception": "9/17/2014",
+  "Products": "BulletShares 2021 High Yield Corporate Bond ETF",
+  "Ticker": "BSJL",
+  "Inception": "09/17/2014",
   "Gross Exp. Ratio": "0.43%",
   "YTD": "-3.69",
   "1Yr": "-2.29",
@@ -11,7 +11,7 @@
   "Since Incept.": "3.53",
   "Category": "Income",
   "SubCategory": "BulletShares",
-  "infer": "invesco",
+  "ticker": "BSJL",
   "issuer": "Invesco",
   "website": "https://www.invesco.com/us/financial-products/etfs/product-detail?audienceType=Investor&ticker=BSJL",
   "holdingDataSource": {
@@ -21,73 +21,78 @@
   },
   "holdings": [
     {
-      "ticker": "25470XAE5",
-      "name": "DISH DBS Corp",
-      "percent": "3.91"
-    },
-    {
       "ticker": "AGPXX",
       "name": "STIT - Government & Agency Portfolio",
-      "percent": "3.84"
+      "percent": "6.55"
+    },
+    {
+      "ticker": "25470XAE5",
+      "name": "DISH DBS Corp",
+      "percent": "3.87"
     },
     {
       "ticker": "1248EPBM4",
       "name": "CCO Holdings LLC / CCO Holdings Capital Corp",
-      "percent": "3.73"
+      "percent": "3.70"
     },
     {
       "ticker": "345397VU4",
       "name": "Ford Motor Credit Co LLC",
-      "percent": "3.26"
+      "percent": "3.23"
     },
     {
       "ticker": "67054KAA7",
       "name": "Altice France SA/France",
-      "percent": "3.22"
+      "percent": "3.18"
     },
     {
       "ticker": "156700AR7",
       "name": "CenturyLink Inc",
-      "percent": "2.63"
+      "percent": "2.61"
     },
     {
       "ticker": "91911KAK8",
       "name": "Bausch Health Cos Inc",
-      "percent": "2.60"
+      "percent": "2.58"
     },
     {
       "ticker": "91911KAP7",
       "name": "Bausch Health Cos Inc",
-      "percent": "2.48"
+      "percent": "2.46"
     },
     {
       "ticker": "629377CC4",
       "name": "NRG Energy Inc",
-      "percent": "2.40"
+      "percent": "2.37"
     },
     {
       "ticker": "48250NAB1",
       "name": "KFC Holding Co/Pizza Hut Holdings LLC/Taco Bell of America L",
-      "percent": "2.11"
+      "percent": "2.09"
     },
     {
       "ticker": "629377CA8",
       "name": "NRG Energy Inc",
-      "percent": "2.07"
+      "percent": "2.05"
     },
     {
       "ticker": "92840VAA0",
       "name": "Vistra Operations Co LLC",
-      "percent": "2.05"
+      "percent": "2.04"
+    },
+    {
+      "ticker": "85572NAA6",
+      "name": "Stars Group Holdings BV / Stars Group US Co-Borrower LLC",
+      "percent": "2.00"
+    },
+    {
+      "ticker": "82967NAW8",
+      "name": "Sirius XM Radio Inc",
+      "percent": "1.99"
     },
     {
       "ticker": "126307AF4",
       "name": "CSC Holdings LLC",
-      "percent": "1.99"
-    },
-    {
-      "ticker": "911365BE3",
-      "name": "United Rentals North America Inc",
       "percent": "1.97"
     },
     {
@@ -96,89 +101,84 @@
       "percent": "1.96"
     },
     {
-      "ticker": "82967NAW8",
-      "name": "Sirius XM Radio Inc",
+      "ticker": "911365BE3",
+      "name": "United Rentals North America Inc",
       "percent": "1.95"
     },
     {
       "ticker": "345397ZH9",
       "name": "Ford Motor Credit Co LLC",
-      "percent": "1.84"
-    },
-    {
-      "ticker": "74736KAF8",
-      "name": "Qorvo Inc",
-      "percent": "1.82"
+      "percent": "1.81"
     },
     {
       "ticker": "02154CAE3",
       "name": "Altice Financing SA",
-      "percent": "1.82"
+      "percent": "1.81"
     },
     {
       "ticker": "444454AA0",
       "name": "Hughes Satellite Systems Corp",
-      "percent": "1.81"
-    },
-    {
-      "ticker": "85572NAA6",
-      "name": "Stars Group Holdings BV / Stars Group US Co-Borrower LLC",
-      "percent": "1.81"
+      "percent": "1.80"
     },
     {
       "ticker": "85207UAE5",
       "name": "Sprint Corp",
-      "percent": "1.77"
+      "percent": "1.76"
     },
     {
       "ticker": "527298BK8",
       "name": "Level 3 Financing Inc",
-      "percent": "1.70"
+      "percent": "1.68"
     },
     {
       "ticker": "683715AB2",
       "name": "Open Text Corp",
-      "percent": "1.69"
+      "percent": "1.68"
     },
     {
       "ticker": "25272KAU7",
       "name": "Dell International LLC / EMC Corp",
-      "percent": "1.62"
+      "percent": "1.61"
     },
     {
       "ticker": "93369KAB1",
       "name": "Nationstar Mortgage Holdings Inc",
-      "percent": "1.53"
+      "percent": "1.54"
     },
     {
       "ticker": "29413XAD9",
       "name": "Enviva Partners LP / Enviva Partners Finance Corp",
-      "percent": "1.50"
+      "percent": "1.48"
     },
     {
       "ticker": "87264AAP0",
       "name": "T-Mobile USA Inc",
-      "percent": "1.48"
+      "percent": "1.46"
     },
     {
       "ticker": "81727TAA6",
       "name": "Sensata Technologies UK Financing Co PLC",
-      "percent": "1.39"
+      "percent": "1.45"
     },
     {
       "ticker": "37247DAP1",
       "name": "Genworth Holdings Inc",
-      "percent": "1.37"
+      "percent": "1.36"
     },
     {
       "ticker": "85571BAG0",
       "name": "Starwood Property Trust Inc",
-      "percent": "1.37"
+      "percent": "1.36"
+    },
+    {
+      "ticker": "513075BL4",
+      "name": "Lamar Media Corp",
+      "percent": "1.25"
     },
     {
       "ticker": "85172FAD1",
       "name": "OneMain Finance Corp",
-      "percent": "1.26"
+      "percent": "1.25"
     },
     {
       "ticker": "63938CAD0",
@@ -186,14 +186,14 @@
       "percent": "1.23"
     },
     {
-      "ticker": "1248EPBK8",
-      "name": "CCO Holdings LLC / CCO Holdings Capital Corp",
+      "ticker": "18539UAB1",
+      "name": "Clearway Energy Operating LLC",
       "percent": "1.21"
     },
     {
-      "ticker": "18539UAB1",
-      "name": "Clearway Energy Operating LLC",
-      "percent": "1.19"
+      "ticker": "1248EPBK8",
+      "name": "CCO Holdings LLC / CCO Holdings Capital Corp",
+      "percent": "1.20"
     },
     {
       "ticker": "103557AA2",
@@ -203,62 +203,52 @@
     {
       "ticker": "63938CAC2",
       "name": "Navient Corp",
-      "percent": "1.13"
-    },
-    {
-      "ticker": "513075BL4",
-      "name": "Lamar Media Corp",
-      "percent": "1.04"
-    },
-    {
-      "ticker": "412690AE9",
-      "name": "Vericast Corp",
-      "percent": "1.04"
-    },
-    {
-      "ticker": "852061AM2",
-      "name": "Sprint Communications Inc",
-      "percent": "1.03"
-    },
-    {
-      "ticker": "12508EAG6",
-      "name": "CDK Global Inc",
-      "percent": "1.02"
-    },
-    {
-      "ticker": "28414HAF0",
-      "name": "Elanco Animal Health Inc",
-      "percent": "1.01"
-    },
-    {
-      "ticker": "64110LAE6",
-      "name": "Netflix Inc",
-      "percent": "1.00"
+      "percent": "1.12"
     },
     {
       "ticker": "88158UAA6",
       "name": "Tervita Corp",
+      "percent": "1.10"
+    },
+    {
+      "ticker": "412690AE9",
+      "name": "Vericast Corp",
+      "percent": "1.03"
+    },
+    {
+      "ticker": "852061AM2",
+      "name": "Sprint Communications Inc",
+      "percent": "1.02"
+    },
+    {
+      "ticker": "12508EAG6",
+      "name": "CDK Global Inc",
+      "percent": "1.00"
+    },
+    {
+      "ticker": "28414HAF0",
+      "name": "Elanco Animal Health Inc",
+      "percent": "1.00"
+    },
+    {
+      "ticker": "64110LAE6",
+      "name": "Netflix Inc",
       "percent": "0.99"
     },
     {
       "ticker": "451102BM8",
       "name": "Icahn Enterprises LP / Icahn Enterprises Finance Corp",
-      "percent": "0.98"
-    },
-    {
-      "ticker": "48666KAT6",
-      "name": "KB Home",
-      "percent": "0.95"
+      "percent": "0.96"
     },
     {
       "ticker": "23311RAE6",
       "name": "DCP Midstream Operating LP",
-      "percent": "0.94"
+      "percent": "0.95"
     },
     {
-      "ticker": "532716AT4",
-      "name": "L Brands Inc",
-      "percent": "0.93"
+      "ticker": "48666KAT6",
+      "name": "KB Home",
+      "percent": "0.94"
     },
     {
       "ticker": "984121CD3",
@@ -268,7 +258,12 @@
     {
       "ticker": "008911AZ2",
       "name": "Air Canada",
-      "percent": "0.84"
+      "percent": "0.83"
+    },
+    {
+      "ticker": "958254AA2",
+      "name": "Western Midstream Operating LP",
+      "percent": "0.82"
     },
     {
       "ticker": "38869PAK0",
@@ -278,7 +273,7 @@
     {
       "ticker": "02753GAA7",
       "name": "American Midstream Partners LP / American Midstream Finance",
-      "percent": "0.79"
+      "percent": "0.78"
     },
     {
       "ticker": "03674PAL7",
@@ -288,7 +283,7 @@
     {
       "ticker": "95081QAK0",
       "name": "WESCO Distribution Inc",
-      "percent": "0.78"
+      "percent": "0.77"
     },
     {
       "ticker": "26209NAK9",
@@ -296,29 +291,24 @@
       "percent": "0.76"
     },
     {
-      "ticker": "958254AA2",
-      "name": "Western Midstream Operating LP",
-      "percent": "0.76"
-    },
-    {
       "ticker": "24702RAQ4",
       "name": "Dell Inc",
-      "percent": "0.75"
+      "percent": "0.74"
     },
     {
       "ticker": "284697AA7",
       "name": "Eldorado Intl. Finance GmbH",
-      "percent": "0.73"
+      "percent": "0.72"
     },
     {
       "ticker": "37247DAN6",
       "name": "Genworth Holdings Inc",
-      "percent": "0.71"
+      "percent": "0.70"
     },
     {
       "ticker": "879369AE6",
       "name": "Teleflex Inc",
-      "percent": "0.68"
+      "percent": "0.69"
     },
     {
       "ticker": "87264AAQ8",
@@ -333,27 +323,27 @@
     {
       "ticker": "988498AH4",
       "name": "Yum! Brands Inc",
-      "percent": "0.58"
+      "percent": "0.57"
     },
     {
       "ticker": "82873LAB1",
       "name": "Simmons Foods Inc",
-      "percent": "0.52"
-    },
-    {
-      "ticker": "67059TAD7",
-      "name": "NuStar Logistics LP",
       "percent": "0.51"
     },
     {
       "ticker": "505742AD8",
       "name": "Ladder Capital Finance Holdings LLLP / Ladder Capital Financ",
+      "percent": "0.51"
+    },
+    {
+      "ticker": "67059TAD7",
+      "name": "NuStar Logistics LP",
       "percent": "0.50"
     },
     {
       "ticker": "98310WAG3",
       "name": "Wyndham Destinations Inc",
-      "percent": "0.42"
+      "percent": "0.48"
     },
     {
       "ticker": "86765NAA1",

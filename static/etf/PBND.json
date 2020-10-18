@@ -1,7 +1,7 @@
 {
-  "name": "PureBeta℠ US Aggregate Bond ETF",
-  "ticker": "PBND",
-  "Inception": "9/29/2017",
+  "Products": "PureBeta℠ US Aggregate Bond ETF",
+  "Ticker": "PBND",
+  "Inception": "09/29/2017",
   "Gross Exp. Ratio": "0.05%",
   "YTD": "6.66",
   "1Yr": "6.85",
@@ -11,7 +11,7 @@
   "Since Incept.": "5.14",
   "Category": "Bulk Beta",
   "SubCategory": "PureBeta",
-  "infer": "invesco",
+  "ticker": "PBND",
   "issuer": "Invesco",
   "website": "https://www.invesco.com/us/financial-products/etfs/product-detail?audienceType=Investor&ticker=PBND",
   "holdingDataSource": {
@@ -108,16 +108,16 @@
     {
       "ticker": "013051DZ7",
       "name": "Province of Alberta Canada",
+      "percent": "0.64"
+    },
+    {
+      "ticker": "9128284N7",
+      "name": "United States Treasury Note/Bond",
       "percent": "0.63"
     },
     {
       "ticker": "892331AD1",
       "name": "Toyota Motor Corp",
-      "percent": "0.63"
-    },
-    {
-      "ticker": "9128284N7",
-      "name": "United States Treasury Note/Bond",
       "percent": "0.63"
     },
     {
@@ -146,13 +146,13 @@
       "percent": "0.59"
     },
     {
-      "ticker": "05565QDB1",
-      "name": "BP Capital Markets PLC",
+      "ticker": "445545AH9",
+      "name": "Hungary Government International Bond",
       "percent": "0.59"
     },
     {
-      "ticker": "445545AH9",
-      "name": "Hungary Government International Bond",
+      "ticker": "05565QDB1",
+      "name": "BP Capital Markets PLC",
       "percent": "0.59"
     },
     {
@@ -213,7 +213,7 @@
     {
       "ticker": "912828J27",
       "name": "United States Treasury Note/Bond",
-      "percent": "0.57"
+      "percent": "0.58"
     },
     {
       "ticker": "9128286G0",
@@ -243,11 +243,6 @@
     {
       "ticker": "9128282A7",
       "name": "United States Treasury Note/Bond",
-      "percent": "0.57"
-    },
-    {
-      "ticker": "31418DSD5",
-      "name": "Fannie Mae Pool",
       "percent": "0.57"
     },
     {
@@ -306,18 +301,13 @@
       "percent": "0.55"
     },
     {
-      "ticker": "29273RBJ7",
-      "name": "Energy Transfer Operating LP",
-      "percent": "0.55"
-    },
-    {
       "ticker": "912828TY6",
       "name": "United States Treasury Note/Bond",
       "percent": "0.55"
     },
     {
-      "ticker": "912810RY6",
-      "name": "United States Treasury Note/Bond",
+      "ticker": "298785HH2",
+      "name": "European Investment Bank",
       "percent": "0.55"
     },
     {
@@ -326,8 +316,8 @@
       "percent": "0.55"
     },
     {
-      "ticker": "298785HH2",
-      "name": "European Investment Bank",
+      "ticker": "29273RBJ7",
+      "name": "Energy Transfer Operating LP",
       "percent": "0.55"
     },
     {
@@ -337,6 +327,11 @@
     },
     {
       "ticker": "912828TJ9",
+      "name": "United States Treasury Note/Bond",
+      "percent": "0.55"
+    },
+    {
+      "ticker": "912810RY6",
       "name": "United States Treasury Note/Bond",
       "percent": "0.55"
     },
@@ -356,6 +351,11 @@
       "percent": "0.55"
     },
     {
+      "ticker": "31418DSD5",
+      "name": "Fannie Mae Pool",
+      "percent": "0.55"
+    },
+    {
       "ticker": "912828G53",
       "name": "United States Treasury Note/Bond",
       "percent": "0.55"
@@ -366,13 +366,13 @@
       "percent": "0.54"
     },
     {
-      "ticker": "36179S5M5",
-      "name": "Ginnie Mae II Pool",
+      "ticker": "045167EU3",
+      "name": "Asian Development Bank",
       "percent": "0.54"
     },
     {
-      "ticker": "045167EU3",
-      "name": "Asian Development Bank",
+      "ticker": "36179S5M5",
+      "name": "Ginnie Mae II Pool",
       "percent": "0.54"
     },
     {
@@ -461,13 +461,13 @@
       "percent": "0.42"
     },
     {
-      "ticker": "912828ZC7",
-      "name": "United States Treasury Note/Bond",
+      "ticker": "20826FAQ9",
+      "name": "ConocoPhillips Co",
       "percent": "0.42"
     },
     {
-      "ticker": "20826FAQ9",
-      "name": "ConocoPhillips Co",
+      "ticker": "912828ZC7",
+      "name": "United States Treasury Note/Bond",
       "percent": "0.42"
     },
     {
@@ -491,9 +491,14 @@
       "percent": "0.39"
     },
     {
+      "ticker": "002824BH2",
+      "name": "Abbott Laboratories",
+      "percent": "0.38"
+    },
+    {
       "ticker": "92343VDS0",
       "name": "Verizon Communications Inc",
-      "percent": "0.39"
+      "percent": "0.38"
     },
     {
       "ticker": "31418CND2",
@@ -511,11 +516,6 @@
       "percent": "0.38"
     },
     {
-      "ticker": "002824BH2",
-      "name": "Abbott Laboratories",
-      "percent": "0.38"
-    },
-    {
       "ticker": "927804FA7",
       "name": "Virginia Electric and Power Co",
       "percent": "0.38"
@@ -523,16 +523,16 @@
     {
       "ticker": "912810RT7",
       "name": "United States Treasury Note/Bond",
-      "percent": "0.38"
-    },
-    {
-      "ticker": "902494BH5",
-      "name": "Tyson Foods Inc",
       "percent": "0.37"
     },
     {
       "ticker": "3622A2YZ9",
       "name": "Ginnie Mae II Pool",
+      "percent": "0.37"
+    },
+    {
+      "ticker": "902494BH5",
+      "name": "Tyson Foods Inc",
       "percent": "0.37"
     },
     {
@@ -546,11 +546,6 @@
       "percent": "0.37"
     },
     {
-      "ticker": "912810SF6",
-      "name": "United States Treasury Note/Bond",
-      "percent": "0.36"
-    },
-    {
       "ticker": "9128285N6",
       "name": "United States Treasury Note/Bond",
       "percent": "0.36"
@@ -561,12 +556,12 @@
       "percent": "0.36"
     },
     {
-      "ticker": "912810SD1",
+      "ticker": "912810SF6",
       "name": "United States Treasury Note/Bond",
       "percent": "0.36"
     },
     {
-      "ticker": "912810RX8",
+      "ticker": "912810SD1",
       "name": "United States Treasury Note/Bond",
       "percent": "0.36"
     },
@@ -576,13 +571,13 @@
       "percent": "0.36"
     },
     {
-      "ticker": "031162CF5",
-      "name": "Amgen Inc",
-      "percent": "0.35"
+      "ticker": "912810RX8",
+      "name": "United States Treasury Note/Bond",
+      "percent": "0.36"
     },
     {
-      "ticker": "912810SJ8",
-      "name": "United States Treasury Note/Bond",
+      "ticker": "031162CF5",
+      "name": "Amgen Inc",
       "percent": "0.35"
     },
     {
@@ -593,6 +588,11 @@
     {
       "ticker": "3140J8JG9",
       "name": "Fannie Mae Pool",
+      "percent": "0.35"
+    },
+    {
+      "ticker": "912810SJ8",
+      "name": "United States Treasury Note/Bond",
       "percent": "0.35"
     },
     {
@@ -611,23 +611,23 @@
       "percent": "0.34"
     },
     {
-      "ticker": "75513EBF7",
-      "name": "Raytheon Technologies Corp",
-      "percent": "0.34"
-    },
-    {
       "ticker": "30231GBG6",
       "name": "Exxon Mobil Corp",
       "percent": "0.34"
     },
     {
-      "ticker": "58013MFR0",
-      "name": "McDonald's Corp",
-      "percent": "0.33"
+      "ticker": "75513EBF7",
+      "name": "Raytheon Technologies Corp",
+      "percent": "0.34"
     },
     {
       "ticker": "59156RAP3",
       "name": "MetLife Inc",
+      "percent": "0.33"
+    },
+    {
+      "ticker": "58013MFR0",
+      "name": "McDonald's Corp",
       "percent": "0.33"
     },
     {
@@ -636,13 +636,13 @@
       "percent": "0.33"
     },
     {
-      "ticker": "46647PAL0",
-      "name": "JPMorgan Chase & Co",
+      "ticker": "31418CEF7",
+      "name": "Fannie Mae Pool",
       "percent": "0.33"
     },
     {
-      "ticker": "31418CEF7",
-      "name": "Fannie Mae Pool",
+      "ticker": "46647PAL0",
+      "name": "JPMorgan Chase & Co",
       "percent": "0.33"
     },
     {
@@ -651,13 +651,13 @@
       "percent": "0.32"
     },
     {
-      "ticker": "373334KA8",
-      "name": "Georgia Power Co",
+      "ticker": "20030NCT6",
+      "name": "Comcast Corp",
       "percent": "0.32"
     },
     {
-      "ticker": "20030NCT6",
-      "name": "Comcast Corp",
+      "ticker": "373334KA8",
+      "name": "Georgia Power Co",
       "percent": "0.32"
     },
     {
@@ -681,23 +681,23 @@
       "percent": "0.32"
     },
     {
-      "ticker": "911312AR7",
-      "name": "United Parcel Service Inc",
-      "percent": "0.32"
-    },
-    {
       "ticker": "36179UWA6",
       "name": "Ginnie Mae II Pool",
       "percent": "0.32"
     },
     {
-      "ticker": "89352HAM1",
-      "name": "TransCanada PipeLines Ltd",
+      "ticker": "911312AR7",
+      "name": "United Parcel Service Inc",
       "percent": "0.32"
     },
     {
       "ticker": "98389BAV2",
       "name": "Xcel Energy Inc",
+      "percent": "0.32"
+    },
+    {
+      "ticker": "89352HAM1",
+      "name": "TransCanada PipeLines Ltd",
       "percent": "0.32"
     },
     {
@@ -726,23 +726,23 @@
       "percent": "0.31"
     },
     {
-      "ticker": "68389XBW4",
-      "name": "Oracle Corp",
-      "percent": "0.31"
-    },
-    {
       "ticker": "26441CAT2",
       "name": "Duke Energy Corp",
       "percent": "0.31"
     },
     {
-      "ticker": "891160MJ9",
-      "name": "Toronto-Dominion Bank/The",
-      "percent": "0.30"
+      "ticker": "68389XBW4",
+      "name": "Oracle Corp",
+      "percent": "0.31"
     },
     {
       "ticker": "03522AAG5",
       "name": "Anheuser-Busch Cos LLC / Anheuser-Busch InBev Worldwide Inc",
+      "percent": "0.30"
+    },
+    {
+      "ticker": "891160MJ9",
+      "name": "Toronto-Dominion Bank/The",
       "percent": "0.30"
     },
     {
@@ -781,13 +781,13 @@
       "percent": "0.30"
     },
     {
-      "ticker": "713448EL8",
-      "name": "PepsiCo Inc",
+      "ticker": "00287YAQ2",
+      "name": "AbbVie Inc",
       "percent": "0.30"
     },
     {
-      "ticker": "00287YAQ2",
-      "name": "AbbVie Inc",
+      "ticker": "713448EL8",
+      "name": "PepsiCo Inc",
       "percent": "0.30"
     },
     {
@@ -796,18 +796,18 @@
       "percent": "0.30"
     },
     {
-      "ticker": "694308JN8",
-      "name": "Pacific Gas and Electric Co",
-      "percent": "0.30"
-    },
-    {
       "ticker": "717081DM2",
       "name": "Pfizer Inc",
       "percent": "0.30"
     },
     {
-      "ticker": "912828YS3",
-      "name": "United States Treasury Note/Bond",
+      "ticker": "694308JN8",
+      "name": "Pacific Gas and Electric Co",
+      "percent": "0.30"
+    },
+    {
+      "ticker": "097023CT0",
+      "name": "Boeing Co/The",
       "percent": "0.29"
     },
     {
@@ -816,8 +816,8 @@
       "percent": "0.29"
     },
     {
-      "ticker": "097023CT0",
-      "name": "Boeing Co/The",
+      "ticker": "912828YS3",
+      "name": "United States Treasury Note/Bond",
       "percent": "0.29"
     },
     {
@@ -831,13 +831,13 @@
       "percent": "0.29"
     },
     {
-      "ticker": "606822BA1",
-      "name": "Mitsubishi UFJ Financial Group Inc",
+      "ticker": "247109BS9",
+      "name": "Delmarva Power & Light Co",
       "percent": "0.29"
     },
     {
-      "ticker": "247109BS9",
-      "name": "Delmarva Power & Light Co",
+      "ticker": "606822BA1",
+      "name": "Mitsubishi UFJ Financial Group Inc",
       "percent": "0.29"
     },
     {
@@ -856,6 +856,11 @@
       "percent": "0.29"
     },
     {
+      "ticker": "36179TEZ4",
+      "name": "Ginnie Mae II Pool",
+      "percent": "0.29"
+    },
+    {
       "ticker": "026874DQ7",
       "name": "American International Group Inc",
       "percent": "0.29"
@@ -866,18 +871,13 @@
       "percent": "0.29"
     },
     {
-      "ticker": "36179TEZ4",
-      "name": "Ginnie Mae II Pool",
+      "ticker": "126408HQ9",
+      "name": "CSX Corp",
       "percent": "0.29"
     },
     {
       "ticker": "912828R36",
       "name": "United States Treasury Note/Bond",
-      "percent": "0.29"
-    },
-    {
-      "ticker": "126408HQ9",
-      "name": "CSX Corp",
       "percent": "0.29"
     },
     {
@@ -891,13 +891,13 @@
       "percent": "0.28"
     },
     {
-      "ticker": "912828YY0",
-      "name": "United States Treasury Note/Bond",
+      "ticker": "3128MJYG9",
+      "name": "Freddie Mac Gold Pool",
       "percent": "0.28"
     },
     {
-      "ticker": "3128MJYG9",
-      "name": "Freddie Mac Gold Pool",
+      "ticker": "912828YY0",
+      "name": "United States Treasury Note/Bond",
       "percent": "0.28"
     },
     {
@@ -921,13 +921,13 @@
       "percent": "0.28"
     },
     {
-      "ticker": "037833AK6",
-      "name": "Apple Inc",
+      "ticker": "084670BR8",
+      "name": "Berkshire Hathaway Inc",
       "percent": "0.28"
     },
     {
-      "ticker": "084670BR8",
-      "name": "Berkshire Hathaway Inc",
+      "ticker": "037833AK6",
+      "name": "Apple Inc",
       "percent": "0.28"
     },
     {
@@ -966,13 +966,13 @@
       "percent": "0.28"
     },
     {
-      "ticker": "06051GGQ6",
-      "name": "Bank of America Corp",
+      "ticker": "05526DAV7",
+      "name": "BAT Capital Corp",
       "percent": "0.28"
     },
     {
-      "ticker": "05526DAV7",
-      "name": "BAT Capital Corp",
+      "ticker": "06051GGQ6",
+      "name": "Bank of America Corp",
       "percent": "0.28"
     },
     {
@@ -1013,7 +1013,7 @@
     {
       "ticker": "36179VMD9",
       "name": "Ginnie Mae II Pool",
-      "percent": "0.27"
+      "percent": "0.28"
     },
     {
       "ticker": "36179TVC6",
@@ -1031,6 +1031,11 @@
       "percent": "0.27"
     },
     {
+      "ticker": "36179MAX8",
+      "name": "Ginnie Mae II Pool",
+      "percent": "0.27"
+    },
+    {
       "ticker": "26614NAA0",
       "name": "DuPont de Nemours Inc",
       "percent": "0.27"
@@ -1038,11 +1043,6 @@
     {
       "ticker": "912828T34",
       "name": "United States Treasury Note/Bond",
-      "percent": "0.27"
-    },
-    {
-      "ticker": "36179MAX8",
-      "name": "Ginnie Mae II Pool",
       "percent": "0.27"
     },
     {
@@ -1056,6 +1056,11 @@
       "percent": "0.27"
     },
     {
+      "ticker": "06051GJF7",
+      "name": "Bank of America Corp",
+      "percent": "0.27"
+    },
+    {
       "ticker": "912828ZU7",
       "name": "United States Treasury Note/Bond",
       "percent": "0.27"
@@ -1063,11 +1068,6 @@
     {
       "ticker": "912828ZV5",
       "name": "United States Treasury Note/Bond",
-      "percent": "0.27"
-    },
-    {
-      "ticker": "06051GJF7",
-      "name": "Bank of America Corp",
       "percent": "0.27"
     },
     {
@@ -1081,13 +1081,13 @@
       "percent": "0.27"
     },
     {
-      "ticker": "89788MAC6",
-      "name": "Truist Financial Corp",
+      "ticker": "91282CAM3",
+      "name": "United States Treasury Note/Bond",
       "percent": "0.27"
     },
     {
-      "ticker": "91282CAM3",
-      "name": "United States Treasury Note/Bond",
+      "ticker": "89788MAC6",
+      "name": "Truist Financial Corp",
       "percent": "0.27"
     },
     {
@@ -1171,12 +1171,12 @@
       "percent": "0.23"
     },
     {
-      "ticker": "912810QE1",
+      "ticker": "91282CAB7",
       "name": "United States Treasury Note/Bond",
       "percent": "0.21"
     },
     {
-      "ticker": "91282CAB7",
+      "ticker": "912810QE1",
       "name": "United States Treasury Note/Bond",
       "percent": "0.21"
     },
@@ -1231,13 +1231,13 @@
       "percent": "0.15"
     },
     {
-      "ticker": "53079EBK9",
-      "name": "Liberty Mutual Group Inc",
+      "ticker": "747525BJ1",
+      "name": "QUALCOMM Inc",
       "percent": "0.15"
     },
     {
-      "ticker": "747525BJ1",
-      "name": "QUALCOMM Inc",
+      "ticker": "53079EBK9",
+      "name": "Liberty Mutual Group Inc",
       "percent": "0.15"
     },
     {

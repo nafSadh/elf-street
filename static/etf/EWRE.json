@@ -1,7 +1,7 @@
 {
-  "name": "S&P 500® Equal Weight Real Estate ETF",
-  "ticker": "EWRE",
-  "Inception": "8/13/2015",
+  "Products": "S&P 500® Equal Weight Real Estate ETF",
+  "Ticker": "EWRE",
+  "Inception": "08/13/2015",
   "Gross Exp. Ratio": "0.40%",
   "YTD": "-14.45",
   "1Yr": "-15.03",
@@ -11,7 +11,7 @@
   "Since Incept.": "3.59",
   "Category": "SP Factor",
   "SubCategory": "Equal Weight Sectors",
-  "infer": "invesco",
+  "ticker": "EWRE",
   "issuer": "Invesco",
   "website": "https://www.invesco.com/us/financial-products/etfs/product-detail?audienceType=Investor&ticker=EWRE",
   "holdingDataSource": {
@@ -23,162 +23,162 @@
     {
       "ticker": "EQIX",
       "name": "Equinix Inc",
-      "percent": "3.481"
+      "percent": "3.526"
     },
     {
       "ticker": "DLR",
       "name": "Digital Realty Trust Inc",
-      "percent": "3.439"
-    },
-    {
-      "ticker": "PSA",
-      "name": "Public Storage",
-      "percent": "3.396"
-    },
-    {
-      "ticker": "CCI",
-      "name": "Crown Castle International Corp",
-      "percent": "3.388"
+      "percent": "3.494"
     },
     {
       "ticker": "SLG",
       "name": "SL Green Realty Corp",
-      "percent": "3.381"
+      "percent": "3.410"
     },
     {
-      "ticker": "MAA",
-      "name": "Mid-America Apartment Communities Inc",
-      "percent": "3.377"
+      "ticker": "PSA",
+      "name": "Public Storage",
+      "percent": "3.408"
+    },
+    {
+      "ticker": "CCI",
+      "name": "Crown Castle International Corp",
+      "percent": "3.395"
     },
     {
       "ticker": "DRE",
       "name": "Duke Realty Corp",
-      "percent": "3.350"
-    },
-    {
-      "ticker": "WY",
-      "name": "Weyerhaeuser Co",
-      "percent": "3.349"
+      "percent": "3.375"
     },
     {
       "ticker": "PLD",
       "name": "Prologis Inc",
-      "percent": "3.348"
+      "percent": "3.357"
+    },
+    {
+      "ticker": "WY",
+      "name": "Weyerhaeuser Co",
+      "percent": "3.351"
     },
     {
       "ticker": "CBRE",
       "name": "CBRE Group Inc",
-      "percent": "3.341"
+      "percent": "3.343"
     },
     {
       "ticker": "EXR",
       "name": "Extra Space Storage Inc",
-      "percent": "3.304"
+      "percent": "3.326"
+    },
+    {
+      "ticker": "MAA",
+      "name": "Mid-America Apartment Communities Inc",
+      "percent": "3.325"
     },
     {
       "ticker": "ARE",
       "name": "Alexandria Real Estate Equities Inc",
-      "percent": "3.268"
-    },
-    {
-      "ticker": "AVB",
-      "name": "AvalonBay Communities Inc",
-      "percent": "3.266"
+      "percent": "3.302"
     },
     {
       "ticker": "SBAC",
       "name": "SBA Communications Corp",
-      "percent": "3.259"
+      "percent": "3.286"
     },
     {
       "ticker": "VNO",
       "name": "Vornado Realty Trust",
-      "percent": "3.247"
+      "percent": "3.264"
     },
     {
       "ticker": "SPG",
       "name": "Simon Property Group Inc",
-      "percent": "3.244"
+      "percent": "3.260"
     },
     {
-      "ticker": "AIV",
-      "name": "Apartment Investment and Management Co",
-      "percent": "3.220"
-    },
-    {
-      "ticker": "UDR",
-      "name": "UDR Inc",
-      "percent": "3.210"
-    },
-    {
-      "ticker": "REG",
-      "name": "Regency Centers Corp",
-      "percent": "3.191"
-    },
-    {
-      "ticker": "VTR",
-      "name": "Ventas Inc",
-      "percent": "3.178"
-    },
-    {
-      "ticker": "PEAK",
-      "name": "Healthpeak Properties Inc",
-      "percent": "3.165"
+      "ticker": "AVB",
+      "name": "AvalonBay Communities Inc",
+      "percent": "3.206"
     },
     {
       "ticker": "HST",
       "name": "Host Hotels & Resorts Inc",
-      "percent": "3.165"
+      "percent": "3.174"
     },
     {
-      "ticker": "FRT",
-      "name": "Federal Realty Investment Trust",
-      "percent": "3.156"
+      "ticker": "AIV",
+      "name": "Apartment Investment and Management Co",
+      "percent": "3.172"
     },
     {
-      "ticker": "ESS",
-      "name": "Essex Property Trust Inc",
-      "percent": "3.069"
+      "ticker": "UDR",
+      "name": "UDR Inc",
+      "percent": "3.164"
+    },
+    {
+      "ticker": "VTR",
+      "name": "Ventas Inc",
+      "percent": "3.145"
+    },
+    {
+      "ticker": "REG",
+      "name": "Regency Centers Corp",
+      "percent": "3.138"
     },
     {
       "ticker": "AMT",
       "name": "American Tower Corp",
-      "percent": "3.065"
+      "percent": "3.135"
     },
     {
-      "ticker": "EQR",
-      "name": "Equity Residential",
-      "percent": "3.058"
+      "ticker": "PEAK",
+      "name": "Healthpeak Properties Inc",
+      "percent": "3.127"
     },
     {
-      "ticker": "BXP",
-      "name": "Boston Properties Inc",
-      "percent": "3.054"
+      "ticker": "FRT",
+      "name": "Federal Realty Investment Trust",
+      "percent": "3.110"
     },
     {
       "ticker": "O",
       "name": "Realty Income Corp",
-      "percent": "3.048"
+      "percent": "3.082"
+    },
+    {
+      "ticker": "EQR",
+      "name": "Equity Residential",
+      "percent": "3.060"
+    },
+    {
+      "ticker": "ESS",
+      "name": "Essex Property Trust Inc",
+      "percent": "3.057"
     },
     {
       "ticker": "KIM",
       "name": "Kimco Realty Corp",
-      "percent": "3.045"
+      "percent": "3.049"
     },
     {
-      "ticker": "WELL",
-      "name": "Welltower Inc",
-      "percent": "2.989"
+      "ticker": "BXP",
+      "name": "Boston Properties Inc",
+      "percent": "3.012"
     },
     {
       "ticker": "IRM",
       "name": "Iron Mountain Inc",
-      "percent": "2.964"
+      "percent": "2.976"
+    },
+    {
+      "ticker": "WELL",
+      "name": "Welltower Inc",
+      "percent": "2.975"
     },
     {
       "ticker": "-CASH-",
       "name": "Cash/Receivables/Payables",
-      "percent": "-0.017"
+      "percent": "-0.003"
     }
   ]
 }

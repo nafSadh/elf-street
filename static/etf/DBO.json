@@ -1,7 +1,7 @@
 {
-  "name": "DB Oil Fund",
-  "ticker": "DBO",
-  "Inception": "1/5/2007",
+  "Products": "DB Oil Fund",
+  "Ticker": "DBO",
+  "Inception": "01/05/2007",
   "Gross Exp. Ratio": "0.78%",
   "YTD": "-32.33",
   "1Yr": "-22.01",
@@ -11,7 +11,7 @@
   "Since Incept.": "-7.93",
   "Category": "Alternatives",
   "SubCategory": "Commodity Sectors",
-  "infer": "invesco",
+  "ticker": "DBO",
   "issuer": "Invesco",
   "website": "https://www.invesco.com/us/financial-products/etfs/product-detail?audienceType=Investor&ticker=DBO",
   "holdingDataSource": {
@@ -23,32 +23,27 @@
     {
       "ticker": "CLH1",
       "name": "NYMEX Light Sweet Crude Oil Future",
-      "percent": "98.982"
+      "percent": "100.007"
     },
     {
       "ticker": "825252885",
       "name": "STIT - Government & Agency Portfolio",
-      "percent": "43.016"
+      "percent": "43.945"
     },
     {
       "ticker": "9127963K3",
       "name": "United States Treasury Bill",
-      "percent": "27.840"
+      "percent": "28.222"
     },
     {
       "ticker": "912796XE4",
       "name": "United States Treasury Bill",
-      "percent": "18.556"
+      "percent": "18.811"
     },
     {
       "ticker": "46138G888",
       "name": "Invesco Treasury Collateral ETF",
-      "percent": "9.264"
-    },
-    {
-      "ticker": "CASHUSD00",
-      "name": "Cash/Receivables/Payables",
-      "percent": "1.711"
+      "percent": "9.392"
     }
   ]
 }

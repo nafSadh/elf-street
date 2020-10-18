@@ -1,7 +1,7 @@
 {
-  "name": "BulletShares 2024 USD Emerging Markets Debt ETF",
-  "ticker": "BSDE",
-  "Inception": "10/4/2018",
+  "Products": "BulletShares 2024 USD Emerging Markets Debt ETF",
+  "Ticker": "BSDE",
+  "Inception": "10/04/2018",
   "Gross Exp. Ratio": "0.29%",
   "YTD": "0.54",
   "1Yr": "2.03",
@@ -11,7 +11,7 @@
   "Since Incept.": "6.85",
   "Category": "Income",
   "SubCategory": "BulletShares",
-  "infer": "invesco",
+  "ticker": "BSDE",
   "issuer": "Invesco",
   "website": "https://www.invesco.com/us/financial-products/etfs/product-detail?audienceType=Investor&ticker=BSDE",
   "holdingDataSource": {
@@ -41,13 +41,13 @@
       "percent": "2.85"
     },
     {
-      "ticker": "EK5706768",
-      "name": "Empresa Nacional del Petroleo",
-      "percent": "2.82"
-    },
-    {
       "ticker": "EJ8914859",
       "name": "Comision Federal de Electricidad",
+      "percent": "2.83"
+    },
+    {
+      "ticker": "EK5706768",
+      "name": "Empresa Nacional del Petroleo",
       "percent": "2.82"
     },
     {
@@ -73,7 +73,7 @@
     {
       "ticker": "718286BY2",
       "name": "Philippine Government International Bond",
-      "percent": "2.18"
+      "percent": "2.17"
     },
     {
       "ticker": "AGPXX",
@@ -121,11 +121,6 @@
       "percent": "1.46"
     },
     {
-      "ticker": "EK0560087",
-      "name": "Minsur SA",
-      "percent": "1.45"
-    },
-    {
       "ticker": "455780CG9",
       "name": "Indonesia Government International Bond",
       "percent": "1.44"
@@ -136,12 +131,12 @@
       "percent": "1.44"
     },
     {
-      "ticker": "EK2695477",
+      "ticker": "69367PAA4",
       "name": "Perusahaan Gas Negara Tbk PT",
       "percent": "1.44"
     },
     {
-      "ticker": "69367PAA4",
+      "ticker": "EK2695477",
       "name": "Perusahaan Gas Negara Tbk PT",
       "percent": "1.44"
     },
@@ -151,18 +146,28 @@
       "percent": "1.44"
     },
     {
-      "ticker": "01609WAQ5",
-      "name": "Alibaba Group Holding Ltd",
+      "ticker": "EK0560087",
+      "name": "Minsur SA",
+      "percent": "1.44"
+    },
+    {
+      "ticker": "857004AC9",
+      "name": "State Grid Overseas Investment 2014 Ltd",
       "percent": "1.43"
     },
     {
       "ticker": "EK2476571",
       "name": "State Grid Overseas Investment 2014 Ltd",
-      "percent": "1.42"
+      "percent": "1.43"
     },
     {
-      "ticker": "857004AC9",
-      "name": "State Grid Overseas Investment 2014 Ltd",
+      "ticker": "01609WAQ5",
+      "name": "Alibaba Group Holding Ltd",
+      "percent": "1.43"
+    },
+    {
+      "ticker": "EK1766139",
+      "name": "SURA Asset Management SA",
       "percent": "1.42"
     },
     {
@@ -181,13 +186,8 @@
       "percent": "1.42"
     },
     {
-      "ticker": "EK1766139",
-      "name": "SURA Asset Management SA",
-      "percent": "1.42"
-    },
-    {
-      "ticker": "40052VAC8",
-      "name": "Grupo Bimbo SAB de CV",
+      "ticker": "200447AD2",
+      "name": "Comision Federal de Electricidad",
       "percent": "1.42"
     },
     {
@@ -196,14 +196,14 @@
       "percent": "1.41"
     },
     {
-      "ticker": "200447AD2",
-      "name": "Comision Federal de Electricidad",
+      "ticker": "40052VAC8",
+      "name": "Grupo Bimbo SAB de CV",
       "percent": "1.41"
     },
     {
       "ticker": "EK2480003",
       "name": "MAF Global Securities Ltd",
-      "percent": "1.41"
+      "percent": "1.40"
     },
     {
       "ticker": "EK4680857",
@@ -278,7 +278,7 @@
     {
       "ticker": "191229AB9",
       "name": "Coca-Cola Icecek AS",
-      "percent": "1.32"
+      "percent": "1.33"
     },
     {
       "ticker": "900123CV0",
@@ -288,7 +288,7 @@
     {
       "ticker": "80386WAA3",
       "name": "Sasol Financing USA LLC",
-      "percent": "1.28"
+      "percent": "1.27"
     },
     {
       "ticker": "90011QAB6",
@@ -298,7 +298,7 @@
     {
       "ticker": "900123CW8",
       "name": "Turkey Government International Bond",
-      "percent": "1.26"
+      "percent": "1.27"
     },
     {
       "ticker": "EK6081567",
@@ -306,12 +306,12 @@
       "percent": "1.24"
     },
     {
-      "ticker": "EK3063865",
+      "ticker": "05969LAA9",
       "name": "Banco Inbursa SA Institucion De Banca Multiple Grupo Financi",
       "percent": "1.03"
     },
     {
-      "ticker": "05969LAA9",
+      "ticker": "EK3063865",
       "name": "Banco Inbursa SA Institucion De Banca Multiple Grupo Financi",
       "percent": "1.03"
     },
@@ -323,7 +323,7 @@
     {
       "ticker": "92241TAM4",
       "name": "Vedanta Resources Ltd",
-      "percent": "0.76"
+      "percent": "0.75"
     },
     {
       "ticker": "04522KAA4",
@@ -339,11 +339,6 @@
       "ticker": "03439TAF8",
       "name": "Andrade Gutierrez International SA",
       "percent": "0.44"
-    },
-    {
-      "ticker": "-CASH-",
-      "name": "Cash/Receivables/Payables",
-      "percent": "0.00"
     }
   ]
 }

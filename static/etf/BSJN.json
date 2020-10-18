@@ -1,7 +1,7 @@
 {
-  "name": "BulletShares 2023 High Yield Corporate Bond ETF",
-  "ticker": "BSJN",
-  "Inception": "10/7/2015",
+  "Products": "BulletShares 2023 High Yield Corporate Bond ETF",
+  "Ticker": "BSJN",
+  "Inception": "10/07/2015",
   "Gross Exp. Ratio": "0.42%",
   "YTD": "-2.17",
   "1Yr": "-0.39",
@@ -11,7 +11,7 @@
   "Since Incept.": "5.02",
   "Category": "Income",
   "SubCategory": "BulletShares",
-  "infer": "invesco",
+  "ticker": "BSJN",
   "issuer": "Invesco",
   "website": "https://www.invesco.com/us/financial-products/etfs/product-detail?audienceType=Investor&ticker=BSJN",
   "holdingDataSource": {
@@ -23,7 +23,7 @@
     {
       "ticker": "AGPXX",
       "name": "STIT - Government & Agency Portfolio",
-      "percent": "4.96"
+      "percent": "4.90"
     },
     {
       "ticker": "85207UAF2",
@@ -38,12 +38,12 @@
     {
       "ticker": "345370CV0",
       "name": "Ford Motor Co",
-      "percent": "2.31"
+      "percent": "2.32"
     },
     {
       "ticker": "69888XAA7",
       "name": "Par Pharmaceutical Inc",
-      "percent": "2.28"
+      "percent": "2.29"
     },
     {
       "ticker": "88033GCN8",
@@ -91,13 +91,13 @@
       "percent": "1.13"
     },
     {
-      "ticker": "26885BAD2",
-      "name": "EQM Midstream Partners LP",
+      "ticker": "097751BF7",
+      "name": "Bombardier Inc",
       "percent": "1.13"
     },
     {
-      "ticker": "097751BF7",
-      "name": "Bombardier Inc",
+      "ticker": "26885BAD2",
+      "name": "EQM Midstream Partners LP",
       "percent": "1.13"
     },
     {
@@ -118,7 +118,7 @@
     {
       "ticker": "984121CQ4",
       "name": "Xerox Corp",
-      "percent": "1.08"
+      "percent": "1.09"
     },
     {
       "ticker": "126307AS6",
@@ -131,13 +131,13 @@
       "percent": "1.06"
     },
     {
-      "ticker": "268648AN2",
-      "name": "EMC Corp",
+      "ticker": "78472GAA7",
+      "name": "SSL Robotics LLC",
       "percent": "1.05"
     },
     {
-      "ticker": "78472GAA7",
-      "name": "SSL Robotics LLC",
+      "ticker": "268648AN2",
+      "name": "EMC Corp",
       "percent": "1.05"
     },
     {
@@ -148,7 +148,7 @@
     {
       "ticker": "472141AA8",
       "name": "JBS USA LUX SA / JBS USA Finance Inc",
-      "percent": "1.01"
+      "percent": "1.02"
     },
     {
       "ticker": "50106GAA0",
@@ -168,12 +168,12 @@
     {
       "ticker": "163851AB4",
       "name": "Chemours Co/The",
-      "percent": "0.96"
+      "percent": "0.95"
     },
     {
       "ticker": "18539UAC9",
       "name": "Clearway Energy Operating LLC",
-      "percent": "0.94"
+      "percent": "0.95"
     },
     {
       "ticker": "366651AC1",
@@ -216,13 +216,13 @@
       "percent": "0.77"
     },
     {
-      "ticker": "28414HAE3",
-      "name": "Elanco Animal Health Inc",
-      "percent": "0.76"
-    },
-    {
       "ticker": "12527GAC7",
       "name": "CF Industries Inc",
+      "percent": "0.77"
+    },
+    {
+      "ticker": "28414HAE3",
+      "name": "Elanco Animal Health Inc",
       "percent": "0.76"
     },
     {
@@ -241,19 +241,19 @@
       "percent": "0.72"
     },
     {
-      "ticker": "00404AAJ8",
-      "name": "Acadia Healthcare Co Inc",
-      "percent": "0.70"
-    },
-    {
       "ticker": "35804HAA4",
       "name": "Fresh Market Inc/The",
       "percent": "0.70"
     },
     {
+      "ticker": "00404AAJ8",
+      "name": "Acadia Healthcare Co Inc",
+      "percent": "0.70"
+    },
+    {
       "ticker": "73179PAK2",
       "name": "Avient Corp",
-      "percent": "0.67"
+      "percent": "0.68"
     },
     {
       "ticker": "345397WK5",
@@ -281,13 +281,13 @@
       "percent": "0.60"
     },
     {
-      "ticker": "27890GAB6",
-      "name": "Montage Resources Corp",
+      "ticker": "345397XZ1",
+      "name": "Ford Motor Credit Co LLC",
       "percent": "0.59"
     },
     {
-      "ticker": "345397XZ1",
-      "name": "Ford Motor Credit Co LLC",
+      "ticker": "27890GAB6",
+      "name": "Montage Resources Corp",
       "percent": "0.59"
     },
     {
@@ -298,7 +298,7 @@
     {
       "ticker": "23311VAD9",
       "name": "DCP Midstream Operating LP",
-      "percent": "0.57"
+      "percent": "0.58"
     },
     {
       "ticker": "20341WAA3",
@@ -311,23 +311,18 @@
       "percent": "0.56"
     },
     {
-      "ticker": "12663QAA3",
-      "name": "CVR Partners LP / CVR Nitrogen Finance Corp",
-      "percent": "0.56"
-    },
-    {
       "ticker": "81725WAG8",
       "name": "Sensata Technologies BV",
       "percent": "0.56"
     },
     {
-      "ticker": "87612BAM4",
-      "name": "Targa Resources Partners LP / Targa Resources Partners Finan",
+      "ticker": "12663QAA3",
+      "name": "CVR Partners LP / CVR Nitrogen Finance Corp",
       "percent": "0.55"
     },
     {
-      "ticker": "01741RAF9",
-      "name": "Allegheny Technologies Inc",
+      "ticker": "87612BAM4",
+      "name": "Targa Resources Partners LP / Targa Resources Partners Finan",
       "percent": "0.55"
     },
     {
@@ -336,18 +331,23 @@
       "percent": "0.55"
     },
     {
+      "ticker": "01741RAF9",
+      "name": "Allegheny Technologies Inc",
+      "percent": "0.55"
+    },
+    {
       "ticker": "345397A78",
       "name": "Ford Motor Credit Co LLC",
       "percent": "0.54"
     },
     {
-      "ticker": "983793AF7",
-      "name": "XPO Logistics Inc",
+      "ticker": "88104LAC7",
+      "name": "TerraForm Power Operating LLC",
       "percent": "0.54"
     },
     {
-      "ticker": "88104LAC7",
-      "name": "TerraForm Power Operating LLC",
+      "ticker": "983793AF7",
+      "name": "XPO Logistics Inc",
       "percent": "0.54"
     },
     {
@@ -366,18 +366,13 @@
       "percent": "0.52"
     },
     {
-      "ticker": "47010BAA2",
-      "name": "Jaguar Land Rover Automotive PLC",
-      "percent": "0.52"
-    },
-    {
       "ticker": "118230AK7",
       "name": "Buckeye Partners LP",
       "percent": "0.52"
     },
     {
-      "ticker": "55616XAH0",
-      "name": "Macy's Retail Holdings LLC",
+      "ticker": "47010BAA2",
+      "name": "Jaguar Land Rover Automotive PLC",
       "percent": "0.52"
     },
     {
@@ -386,9 +381,14 @@
       "percent": "0.52"
     },
     {
+      "ticker": "55616XAH0",
+      "name": "Macy's Retail Holdings LLC",
+      "percent": "0.51"
+    },
+    {
       "ticker": "501797AJ3",
       "name": "L Brands Inc",
-      "percent": "0.51"
+      "percent": "0.50"
     },
     {
       "ticker": "92346LAB9",
@@ -401,13 +401,13 @@
       "percent": "0.50"
     },
     {
-      "ticker": "88023UAD3",
-      "name": "Tempur Sealy International Inc",
+      "ticker": "78573NAB8",
+      "name": "Sabre GLBL Inc",
       "percent": "0.49"
     },
     {
-      "ticker": "78573NAB8",
-      "name": "Sabre GLBL Inc",
+      "ticker": "88023UAD3",
+      "name": "Tempur Sealy International Inc",
       "percent": "0.49"
     },
     {
@@ -426,28 +426,28 @@
       "percent": "0.48"
     },
     {
+      "ticker": "699320AH0",
+      "name": "Seven Generations Energy Ltd",
+      "percent": "0.47"
+    },
+    {
       "ticker": "983130AU9",
       "name": "Wynn Las Vegas LLC / Wynn Las Vegas Capital Corp",
       "percent": "0.47"
     },
     {
-      "ticker": "81211KAU4",
-      "name": "Sealed Air Corp",
+      "ticker": "085790AY9",
+      "name": "Berry Global Inc",
       "percent": "0.47"
     },
     {
-      "ticker": "085790AY9",
-      "name": "Berry Global Inc",
+      "ticker": "81211KAU4",
+      "name": "Sealed Air Corp",
       "percent": "0.46"
     },
     {
       "ticker": "436440AM3",
       "name": "Hologic Inc",
-      "percent": "0.46"
-    },
-    {
-      "ticker": "699320AH0",
-      "name": "Seven Generations Energy Ltd",
       "percent": "0.46"
     },
     {
@@ -471,13 +471,13 @@
       "percent": "0.43"
     },
     {
-      "ticker": "23422RAB8",
-      "name": "Diamond Resorts International Inc",
+      "ticker": "00213MAS3",
+      "name": "APX Group Inc",
       "percent": "0.42"
     },
     {
-      "ticker": "50200RAA1",
-      "name": "Cirsa Finance International Sarl",
+      "ticker": "23422RAB8",
+      "name": "Diamond Resorts International Inc",
       "percent": "0.42"
     },
     {
@@ -486,8 +486,8 @@
       "percent": "0.42"
     },
     {
-      "ticker": "00213MAS3",
-      "name": "APX Group Inc",
+      "ticker": "50200RAA1",
+      "name": "Cirsa Finance International Sarl",
       "percent": "0.42"
     },
     {
@@ -516,6 +516,11 @@
       "percent": "0.39"
     },
     {
+      "ticker": "131477AQ4",
+      "name": "Calumet Specialty Products Partners LP / Calumet Finance Cor",
+      "percent": "0.39"
+    },
+    {
       "ticker": "00653VAA9",
       "name": "AdaptHealth LLC",
       "percent": "0.39"
@@ -531,14 +536,9 @@
       "percent": "0.39"
     },
     {
-      "ticker": "131477AQ4",
-      "name": "Calumet Specialty Products Partners LP / Calumet Finance Cor",
-      "percent": "0.39"
-    },
-    {
       "ticker": "12532MAA1",
       "name": "CGG Holding US Inc",
-      "percent": "0.39"
+      "percent": "0.38"
     },
     {
       "ticker": "928377AB6",
@@ -548,7 +548,7 @@
     {
       "ticker": "98310WAL2",
       "name": "Wyndham Destinations Inc",
-      "percent": "0.38"
+      "percent": "0.37"
     },
     {
       "ticker": "87261NAJ9",
@@ -568,7 +568,7 @@
     {
       "ticker": "201723AK9",
       "name": "Commercial Metals Co",
-      "percent": "0.37"
+      "percent": "0.36"
     },
     {
       "ticker": "988498AJ0",
@@ -583,7 +583,7 @@
     {
       "ticker": "015514AA0",
       "name": "Algeco Global Finance 2 PLC",
-      "percent": "0.35"
+      "percent": "0.34"
     },
     {
       "ticker": "85172FAF6",
@@ -648,7 +648,7 @@
     {
       "ticker": "65548PAE6",
       "name": "Norbord Inc",
-      "percent": "0.28"
+      "percent": "0.27"
     },
     {
       "ticker": "14282LAA1",
@@ -691,13 +691,13 @@
       "percent": "0.20"
     },
     {
-      "ticker": "79546VAK2",
-      "name": "Sally Holdings LLC / Sally Capital Inc",
+      "ticker": "892231AA9",
+      "name": "Townsquare Media Inc",
       "percent": "0.20"
     },
     {
-      "ticker": "892231AA9",
-      "name": "Townsquare Media Inc",
+      "ticker": "79546VAK2",
+      "name": "Sally Holdings LLC / Sally Capital Inc",
       "percent": "0.20"
     },
     {

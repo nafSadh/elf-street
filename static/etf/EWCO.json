@@ -1,7 +1,7 @@
 {
-  "name": "S&P 500 Equal Weight Communication Services ETF",
-  "ticker": "EWCO",
-  "Inception": "11/7/2018",
+  "Products": "S&P 500 Equal Weight Communication Services ETF",
+  "Ticker": "EWCO",
+  "Inception": "11/07/2018",
   "Gross Exp. Ratio": "0.40%",
   "YTD": "3.55",
   "1Yr": "9.81",
@@ -11,7 +11,7 @@
   "Since Incept.": "4.36",
   "Category": "SP Factor",
   "SubCategory": "Equal Weight Sectors",
-  "infer": "invesco",
+  "ticker": "EWCO",
   "issuer": "Invesco",
   "website": "https://www.invesco.com/us/financial-products/etfs/product-detail?audienceType=Investor&ticker=EWCO",
   "holdingDataSource": {
@@ -23,132 +23,132 @@
     {
       "ticker": "TWTR",
       "name": "Twitter Inc",
-      "percent": "5.360"
+      "percent": "5.336"
     },
     {
       "ticker": "NFLX",
       "name": "Netflix Inc",
-      "percent": "5.097"
+      "percent": "4.993"
     },
     {
       "ticker": "TTWO",
       "name": "Take-Two Interactive Software Inc",
-      "percent": "4.962"
-    },
-    {
-      "ticker": "CHTR",
-      "name": "Charter Communications Inc",
-      "percent": "4.800"
-    },
-    {
-      "ticker": "EA",
-      "name": "Electronic Arts Inc",
-      "percent": "4.725"
+      "percent": "4.968"
     },
     {
       "ticker": "IPG",
       "name": "Interpublic Group of Cos Inc/The",
-      "percent": "4.706"
+      "percent": "4.786"
     },
     {
-      "ticker": "TMUS",
-      "name": "T-Mobile US Inc",
-      "percent": "4.685"
+      "ticker": "CHTR",
+      "name": "Charter Communications Inc",
+      "percent": "4.779"
+    },
+    {
+      "ticker": "EA",
+      "name": "Electronic Arts Inc",
+      "percent": "4.747"
     },
     {
       "ticker": "ATVI",
       "name": "Activision Blizzard Inc",
+      "percent": "4.689"
+    },
+    {
+      "ticker": "TMUS",
+      "name": "T-Mobile US Inc",
       "percent": "4.672"
     },
     {
       "ticker": "CMCSA",
       "name": "Comcast Corp",
-      "percent": "4.578"
+      "percent": "4.625"
     },
     {
       "ticker": "OMC",
       "name": "Omnicom Group Inc",
-      "percent": "4.574"
+      "percent": "4.548"
     },
     {
       "ticker": "FB",
       "name": "Facebook Inc",
-      "percent": "4.535"
+      "percent": "4.522"
     },
     {
       "ticker": "VZ",
       "name": "Verizon Communications Inc",
-      "percent": "4.410"
+      "percent": "4.403"
     },
     {
       "ticker": "DIS",
       "name": "Walt Disney Co/The",
-      "percent": "4.382"
+      "percent": "4.364"
     },
     {
       "ticker": "LYV",
       "name": "Live Nation Entertainment Inc",
-      "percent": "4.314"
+      "percent": "4.333"
     },
     {
       "ticker": "VIAC",
       "name": "ViacomCBS Inc",
-      "percent": "4.309"
+      "percent": "4.327"
     },
     {
       "ticker": "T",
       "name": "AT&T Inc",
-      "percent": "4.291"
+      "percent": "4.273"
     },
     {
       "ticker": "LUMN",
       "name": "CenturyLink Inc",
-      "percent": "4.227"
+      "percent": "4.198"
     },
     {
       "ticker": "DISH",
       "name": "DISH Network Corp",
-      "percent": "3.903"
+      "percent": "3.906"
     },
     {
       "ticker": "NWSA",
       "name": "News Corp",
-      "percent": "3.203"
+      "percent": "3.224"
     },
     {
       "ticker": "FOXA",
       "name": "Fox Corp",
-      "percent": "2.962"
+      "percent": "2.955"
     },
     {
       "ticker": "DISCK",
       "name": "Discovery Inc",
-      "percent": "2.661"
+      "percent": "2.670"
     },
     {
       "ticker": "GOOGL",
       "name": "Alphabet Inc",
-      "percent": "2.355"
+      "percent": "2.374"
     },
     {
       "ticker": "GOOG",
       "name": "Alphabet Inc",
-      "percent": "2.300"
+      "percent": "2.321"
     },
     {
       "ticker": "DISCA",
       "name": "Discovery Inc",
-      "percent": "1.492"
+      "percent": "1.491"
     },
     {
       "ticker": "FOX",
       "name": "Fox Corp",
-      "percent": "1.390"
+      "percent": "1.387"
     },
     {
       "ticker": "NWS",
       "name": "News Corp",
-      "percent": "0.997"
+      "percent": "1.001"
     },
     {
       "ticker": "AGPXX",

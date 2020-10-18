@@ -1,7 +1,7 @@
 {
-  "name": "BulletShares 2024 Municipal Bond ETF",
-  "ticker": "BSMO",
-  "Inception": "9/25/2019",
+  "Products": "BulletShares 2024 Municipal Bond ETF",
+  "Ticker": "BSMO",
+  "Inception": "09/25/2019",
   "Gross Exp. Ratio": "0.18%",
   "YTD": "2.71",
   "1Yr": "3.47",
@@ -11,7 +11,7 @@
   "Since Incept.": "3.34",
   "Category": "Income",
   "SubCategory": "BulletShares",
-  "infer": "invesco",
+  "ticker": "BSMO",
   "issuer": "Invesco",
   "website": "https://www.invesco.com/us/financial-products/etfs/product-detail?audienceType=Investor&ticker=BSMO",
   "holdingDataSource": {
@@ -118,7 +118,7 @@
     {
       "ticker": "650035N53",
       "name": "New York State Urban Development Corp",
-      "percent": "1.52"
+      "percent": "1.51"
     },
     {
       "ticker": "86476PTY4",
@@ -576,6 +576,11 @@
       "percent": "0.20"
     },
     {
+      "ticker": "249182JW7",
+      "name": "City & County of Denver CO Airport System Revenue",
+      "percent": "0.19"
+    },
+    {
       "ticker": "574193NW4",
       "name": "State of Maryland",
       "percent": "0.19"
@@ -583,11 +588,6 @@
     {
       "ticker": "851018KM2",
       "name": "City of Springfield MO Public Utility Revenue",
-      "percent": "0.19"
-    },
-    {
-      "ticker": "249182JW7",
-      "name": "City & County of Denver CO Airport System Revenue",
       "percent": "0.19"
     },
     {
@@ -626,13 +626,13 @@
       "percent": "0.16"
     },
     {
-      "ticker": "54438CSY9",
-      "name": "Los Angeles Community College District/CA",
+      "ticker": "56045PDF7",
+      "name": "Maine Municipal Bond Bank",
       "percent": "0.16"
     },
     {
-      "ticker": "56045PDF7",
-      "name": "Maine Municipal Bond Bank",
+      "ticker": "54438CSY9",
+      "name": "Los Angeles Community College District/CA",
       "percent": "0.16"
     },
     {
@@ -766,12 +766,12 @@
       "percent": "0.08"
     },
     {
-      "ticker": "64966MPB9",
+      "ticker": "64966MSS9",
       "name": "City of New York NY",
       "percent": "0.08"
     },
     {
-      "ticker": "64966MSS9",
+      "ticker": "64966MPB9",
       "name": "City of New York NY",
       "percent": "0.08"
     },

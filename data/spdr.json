@@ -1,4 +1,22 @@
 {
+  "org": {
+    "name": "State Stree Global Advisors",
+    "shortName": "SSGA"
+  },
+  "source": {
+    "webpage": "https://www.ssga.com/us/en/individual/etfs/fund-finder",
+    "url": "https://www.ssga.com/library-content/products/fund-data/etfs/us/spdr-product-data-us-en.xlsx",
+    "conversionMethod": "manual",
+    "description": [
+      "Download from webpage: 'Download Performance'",
+      "Copy cols B-M to a CSV, use VS Code plugin to convert CSV to JSON",
+      "Update ETFs here"
+    ]
+  },
+  "skip": {
+    "GLD": true,
+    "GLDM": true
+  },
   "ETFs": [
     {
       "ticker": "SRLN",
@@ -12,8 +30,7 @@
       "Distribution Frequency": "Monthly",
       "Primary Exchange": "NYSE ARCA EXCHANGE",
       "Primary Index": "Markit iBoxx USD Liquid Leveraged Loan Index",
-      "Primary Index Ticker": "IBOXLCPI",
-      "infer": "spdr"
+      "Primary Index Ticker": "IBOXLCPI"
     },
     {
       "ticker": "TIPX",
@@ -27,8 +44,7 @@
       "Distribution Frequency": "Monthly",
       "Primary Exchange": "NYSE ARCA EXCHANGE",
       "Primary Index": "Bloomberg Barclays 1-10 Year U.S. Government Inflation-Linked Bond Index",
-      "Primary Index Ticker": "BCIT3T",
-      "infer": "spdr"
+      "Primary Index Ticker": "BCIT3T"
     },
     {
       "ticker": "BIL",
@@ -42,8 +58,7 @@
       "Distribution Frequency": "Monthly",
       "Primary Exchange": "NYSE ARCA EXCHANGE",
       "Primary Index": "Bloomberg Barclays 1-3 Month U.S. Treasury Bill Index",
-      "Primary Index Ticker": "LD12TRUU",
-      "infer": "spdr"
+      "Primary Index Ticker": "LD12TRUU"
     },
     {
       "ticker": "BILS",
@@ -57,8 +72,7 @@
       "Distribution Frequency": "Monthly",
       "Primary Exchange": "NYSE ARCA EXCHANGE",
       "Primary Index": "Bloomberg Barclays 3-12 Month U.S. Treasury Bill Index",
-      "Primary Index Ticker": "BC35620",
-      "infer": "spdr"
+      "Primary Index Ticker": "BC35620"
     },
     {
       "ticker": "CWB",
@@ -72,8 +86,7 @@
       "Distribution Frequency": "Monthly",
       "Primary Exchange": "NYSE ARCA EXCHANGE",
       "Primary Index": "Bloomberg Barclays U.S. Convertible Liquid Bond Index",
-      "Primary Index Ticker": "BCS5TRUU",
-      "infer": "spdr"
+      "Primary Index Ticker": "BCS5TRUU"
     },
     {
       "ticker": "EBND",
@@ -87,8 +100,7 @@
       "Distribution Frequency": "Monthly",
       "Primary Exchange": "NYSE ARCA EXCHANGE",
       "Primary Index": "Bloomberg Barclays EM Local Currency Government Diversified Index",
-      "Primary Index Ticker": "BLCDTRUU",
-      "infer": "spdr"
+      "Primary Index Ticker": "BLCDTRUU"
     },
     {
       "ticker": "JNK",
@@ -102,8 +114,7 @@
       "Distribution Frequency": "Monthly",
       "Primary Exchange": "NYSE ARCA EXCHANGE",
       "Primary Index": "Bloomberg Barclays High Yield Very Liquid Index",
-      "Primary Index Ticker": "LHVLTRUU",
-      "infer": "spdr"
+      "Primary Index Ticker": "LHVLTRUU"
     },
     {
       "ticker": "IBND",
@@ -117,8 +128,7 @@
       "Distribution Frequency": "Monthly",
       "Primary Exchange": "NYSE ARCA EXCHANGE",
       "Primary Index": "Bloomberg Barclays Global Aggregate ex-USD >$1B: Corporate Bond Index",
-      "Primary Index Ticker": "BG1BTRUU",
-      "infer": "spdr"
+      "Primary Index Ticker": "BG1BTRUU"
     },
     {
       "ticker": "BWX",
@@ -132,8 +142,7 @@
       "Distribution Frequency": "Monthly",
       "Primary Exchange": "NYSE ARCA EXCHANGE",
       "Primary Index": "Bloomberg Barclays Global Treasury ex-US Capped Index",
-      "Primary Index Ticker": "LTXUTRUU",
-      "infer": "spdr"
+      "Primary Index Ticker": "LTXUTRUU"
     },
     {
       "ticker": "FLRN",
@@ -147,8 +156,7 @@
       "Distribution Frequency": "Monthly",
       "Primary Exchange": "NYSE ARCA EXCHANGE",
       "Primary Index": "Bloomberg Barclays U.S. Dollar Floating Rate Note < 5 Years Index",
-      "Primary Index Ticker": "BFU5TRUU",
-      "infer": "spdr"
+      "Primary Index Ticker": "BFU5TRUU"
     },
     {
       "ticker": "SJNK",
@@ -162,8 +170,7 @@
       "Distribution Frequency": "Monthly",
       "Primary Exchange": "NYSE ARCA EXCHANGE",
       "Primary Index": "Bloomberg Barclays US High Yield 350mn Cash Pay 0-5 Yr 2% Capped Index",
-      "Primary Index Ticker": "BHY5TRUU",
-      "infer": "spdr"
+      "Primary Index Ticker": "BHY5TRUU"
     },
     {
       "ticker": "BWZ",
@@ -177,8 +184,7 @@
       "Distribution Frequency": "Monthly",
       "Primary Exchange": "NYSE ARCA EXCHANGE",
       "Primary Index": "Bloomberg Barclays 1-3 Year Global Treasury ex-US Capped Index",
-      "Primary Index Ticker": "LGT3TRUU",
-      "infer": "spdr"
+      "Primary Index Ticker": "LGT3TRUU"
     },
     {
       "ticker": "DWFI",
@@ -192,8 +198,7 @@
       "Distribution Frequency": "Monthly",
       "Primary Exchange": "NASDAQ REGULAR MARKET",
       "Primary Index": "Dorsey Wright Fixed Income Allocation Index",
-      "Primary Index Ticker": "DWAFIR",
-      "infer": "spdr"
+      "Primary Index Ticker": "DWAFIR"
     },
     {
       "ticker": "EMTL",
@@ -207,8 +212,7 @@
       "Distribution Frequency": "Monthly",
       "Primary Exchange": "Bats Global Markets",
       "Primary Index": "JP Morgan Corporate Emerging Market Bond Index Broad Diversified",
-      "Primary Index Ticker": "JBCDCPPI",
-      "infer": "spdr"
+      "Primary Index Ticker": "JBCDCPPI"
     },
     {
       "ticker": "STOT",
@@ -222,8 +226,7 @@
       "Distribution Frequency": "Monthly",
       "Primary Exchange": "Bats Global Markets",
       "Primary Index": "Bloomberg Barclays U.S. Aggregate 1-3 Year Index",
-      "Primary Index Ticker": "LU13TRUU",
-      "infer": "spdr"
+      "Primary Index Ticker": "LU13TRUU"
     },
     {
       "ticker": "TOTL",
@@ -237,8 +240,7 @@
       "Distribution Frequency": "Monthly",
       "Primary Exchange": "NYSE ARCA EXCHANGE",
       "Primary Index": "Bloomberg Barclays U.S. Aggregate Bond Index",
-      "Primary Index Ticker": "LBUSTRUU",
-      "infer": "spdr"
+      "Primary Index Ticker": "LBUSTRUU"
     },
     {
       "ticker": "RWO",
@@ -252,8 +254,7 @@
       "Distribution Frequency": "Quarterly",
       "Primary Exchange": "NYSE ARCA EXCHANGE",
       "Primary Index": "Dow Jones Global Select Real Estate Securities Index",
-      "Primary Index Ticker": "DWGRSAN",
-      "infer": "spdr"
+      "Primary Index Ticker": "DWGRSAN"
     },
     {
       "ticker": "DIA",
@@ -267,8 +268,7 @@
       "Distribution Frequency": "Monthly",
       "Primary Exchange": "NYSE ARCA EXCHANGE",
       "Primary Index": "Dow Jones Industrial Average",
-      "Primary Index Ticker": "DJITR",
-      "infer": "spdr"
+      "Primary Index Ticker": "DJITR"
     },
     {
       "ticker": "RWX",
@@ -282,8 +282,7 @@
       "Distribution Frequency": "Quarterly",
       "Primary Exchange": "NYSE ARCA EXCHANGE",
       "Primary Index": "Dow Jones Global ex-U.S. Select Real Estate Securities Index",
-      "Primary Index Ticker": "DWXRSN",
-      "infer": "spdr"
+      "Primary Index Ticker": "DWXRSN"
     },
     {
       "ticker": "RWR",
@@ -297,8 +296,7 @@
       "Distribution Frequency": "Quarterly",
       "Primary Exchange": "NYSE ARCA EXCHANGE",
       "Primary Index": "Dow Jones U.S. Select REIT Index",
-      "Primary Index Ticker": "DWRTFT",
-      "infer": "spdr"
+      "Primary Index Ticker": "DWRTFT"
     },
     {
       "ticker": "FEZ",
@@ -312,8 +310,7 @@
       "Distribution Frequency": "Quarterly",
       "Primary Exchange": "NYSE ARCA EXCHANGE",
       "Primary Index": "EURO STOXX 50 Index",
-      "Primary Index Ticker": "SX5U",
-      "infer": "spdr"
+      "Primary Index Ticker": "SX5U"
     },
     {
       "ticker": "SMEZ",
@@ -327,8 +324,7 @@
       "Distribution Frequency": "Semi-Annually",
       "Primary Exchange": "NYSE ARCA EXCHANGE",
       "Primary Index": "EURO STOXX Small Index",
-      "Primary Index Ticker": "SCXU",
-      "infer": "spdr"
+      "Primary Index Ticker": "SCXU"
     },
     {
       "ticker": "XITK",
@@ -342,8 +338,7 @@
       "Distribution Frequency": "Quarterly",
       "Primary Exchange": "NYSE ARCA EXCHANGE",
       "Primary Index": "FactSet Innovative Technology Index",
-      "Primary Index Ticker": "FDSITTR",
-      "infer": "spdr"
+      "Primary Index Ticker": "FDSITTR"
     },
     {
       "ticker": "WIP",
@@ -357,8 +352,7 @@
       "Distribution Frequency": "Monthly",
       "Primary Exchange": "NYSE ARCA EXCHANGE",
       "Primary Index": "FTSE International Inflation-Linked Securities Select Index",
-      "Primary Index Ticker": "CFIIWILC",
-      "infer": "spdr"
+      "Primary Index Ticker": "CFIIWILC"
     },
     {
       "ticker": "DGT",
@@ -372,8 +366,7 @@
       "Distribution Frequency": "Quarterly",
       "Primary Exchange": "NYSE ARCA EXCHANGE",
       "Primary Index": "The Global Dow",
-      "Primary Index Ticker": "GDOWD",
-      "infer": "spdr"
+      "Primary Index Ticker": "GDOWD"
     },
     {
       "ticker": "GLDM",
@@ -387,8 +380,7 @@
       "Distribution Frequency": "-",
       "Primary Exchange": "NYSE ARCA EXCHANGE",
       "Primary Index": "LBMA Gold Price PM",
-      "Primary Index Ticker": "-",
-      "infer": "spdr"
+      "Primary Index Ticker": "-"
     },
     {
       "ticker": "GLD",
@@ -402,8 +394,7 @@
       "Distribution Frequency": "-",
       "Primary Exchange": "NYSE ARCA EXCHANGE",
       "Primary Index": "LBMA Gold Price PM",
-      "Primary Index Ticker": "-",
-      "infer": "spdr"
+      "Primary Index Ticker": "-"
     },
     {
       "ticker": "SYE",
@@ -417,8 +408,7 @@
       "Distribution Frequency": "Quarterly",
       "Primary Exchange": "NYSE ARCA EXCHANGE",
       "Primary Index": "S&P 500 Index",
-      "Primary Index Ticker": "SPTR",
-      "infer": "spdr"
+      "Primary Index Ticker": "SPTR"
     },
     {
       "ticker": "SYG",
@@ -432,8 +422,7 @@
       "Distribution Frequency": "Quarterly",
       "Primary Exchange": "NYSE ARCA EXCHANGE",
       "Primary Index": "Russell 1000 Growth Index",
-      "Primary Index Ticker": "RU10GRTR",
-      "infer": "spdr"
+      "Primary Index Ticker": "RU10GRTR"
     },
     {
       "ticker": "SYV",
@@ -447,8 +436,7 @@
       "Distribution Frequency": "Quarterly",
       "Primary Exchange": "NYSE ARCA EXCHANGE",
       "Primary Index": "Russell 1000 Value Index",
-      "Primary Index Ticker": "RU10VATR",
-      "infer": "spdr"
+      "Primary Index Ticker": "RU10VATR"
     },
     {
       "ticker": "CWI",
@@ -462,8 +450,7 @@
       "Distribution Frequency": "Semi-Annually",
       "Primary Exchange": "NYSE ARCA EXCHANGE",
       "Primary Index": "MSCI ACWI ex USA Index",
-      "Primary Index Ticker": "NDUEACWZ",
-      "infer": "spdr"
+      "Primary Index Ticker": "NDUEACWZ"
     },
     {
       "ticker": "LOWC",
@@ -477,8 +464,7 @@
       "Distribution Frequency": "Semi-Annually",
       "Primary Exchange": "NYSE ARCA EXCHANGE",
       "Primary Index": "MSCI ACWI Low Carbon Target Index",
-      "Primary Index Ticker": "M1WDLCTR",
-      "infer": "spdr"
+      "Primary Index Ticker": "M1WDLCTR"
     },
     {
       "ticker": "EFAX",
@@ -492,8 +478,7 @@
       "Distribution Frequency": "Semi-Annually",
       "Primary Exchange": "NYSE ARCA EXCHANGE",
       "Primary Index": "MSCI EAFE ex Fossil Fuels Index",
-      "Primary Index Ticker": "MXCXSGA",
-      "infer": "spdr"
+      "Primary Index Ticker": "MXCXSGA"
     },
     {
       "ticker": "QEFA",
@@ -507,8 +492,7 @@
       "Distribution Frequency": "Semi-Annually",
       "Primary Exchange": "NYSE ARCA EXCHANGE",
       "Primary Index": "MSCI EAFE Factor Mix A-Series Index",
-      "Primary Index Ticker": "M1EAQMR",
-      "infer": "spdr"
+      "Primary Index Ticker": "M1EAQMR"
     },
     {
       "ticker": "EEMX",
@@ -522,8 +506,7 @@
       "Distribution Frequency": "Semi-Annually",
       "Primary Exchange": "NYSE ARCA EXCHANGE",
       "Primary Index": "MSCI Emerging Markets ex Fossil Fuels Index",
-      "Primary Index Ticker": "MXCXSGB",
-      "infer": "spdr"
+      "Primary Index Ticker": "MXCXSGB"
     },
     {
       "ticker": "QEMM",
@@ -537,8 +520,7 @@
       "Distribution Frequency": "Semi-Annually",
       "Primary Exchange": "NYSE ARCA EXCHANGE",
       "Primary Index": "MSCI Emerging Markets Factor Mix A-Series Index",
-      "Primary Index Ticker": "M1EFQMR",
-      "infer": "spdr"
+      "Primary Index Ticker": "M1EFQMR"
     },
     {
       "ticker": "QUS",
@@ -552,8 +534,7 @@
       "Distribution Frequency": "Semi-Annually",
       "Primary Exchange": "NYSE ARCA EXCHANGE",
       "Primary Index": "MSCI USA Factor Mix A-Series Capped Index",
-      "Primary Index Ticker": "M1USQMAR",
-      "infer": "spdr"
+      "Primary Index Ticker": "M1USQMAR"
     },
     {
       "ticker": "QWLD",
@@ -567,8 +548,7 @@
       "Distribution Frequency": "Semi-Annually",
       "Primary Exchange": "NYSE ARCA EXCHANGE",
       "Primary Index": "MSCI World Factor Mix A-Series Index",
-      "Primary Index Ticker": "M1WOQMR",
-      "infer": "spdr"
+      "Primary Index Ticker": "M1WOQMR"
     },
     {
       "ticker": "HYMB",
@@ -582,8 +562,7 @@
       "Distribution Frequency": "Monthly",
       "Primary Exchange": "NYSE ARCA EXCHANGE",
       "Primary Index": "Bloomberg Barclays Municipal Yield Index",
-      "Primary Index Ticker": "SPMUHT",
-      "infer": "spdr"
+      "Primary Index Ticker": "SPMUHT"
     },
     {
       "ticker": "TFI",
@@ -597,8 +576,7 @@
       "Distribution Frequency": "Monthly",
       "Primary Exchange": "NYSE ARCA EXCHANGE",
       "Primary Index": "Bloomberg Barclays Municipal Managed Money 1-25 Years Index",
-      "Primary Index Ticker": "I34301US",
-      "infer": "spdr"
+      "Primary Index Ticker": "I34301US"
     },
     {
       "ticker": "SHM",
@@ -612,8 +590,7 @@
       "Distribution Frequency": "Monthly",
       "Primary Exchange": "NYSE ARCA EXCHANGE",
       "Primary Index": "Bloomberg Barclays Managed Money Municipal Short Term Index",
-      "Primary Index Ticker": "LMM1TR",
-      "infer": "spdr"
+      "Primary Index Ticker": "LMM1TR"
     },
     {
       "ticker": "XNTK",
@@ -627,8 +604,7 @@
       "Distribution Frequency": "Quarterly",
       "Primary Exchange": "NYSE ARCA EXCHANGE",
       "Primary Index": "NYSE Technology Index",
-      "Primary Index Ticker": "NYTECHTR",
-      "infer": "spdr"
+      "Primary Index Ticker": "NYTECHTR"
     },
     {
       "ticker": "SPAB",
@@ -642,8 +618,7 @@
       "Distribution Frequency": "Monthly",
       "Primary Exchange": "NYSE ARCA EXCHANGE",
       "Primary Index": "Bloomberg Barclays U.S. Aggregate Bond Index",
-      "Primary Index Ticker": "LBUSTRUU",
-      "infer": "spdr"
+      "Primary Index Ticker": "LBUSTRUU"
     },
     {
       "ticker": "SPBO",
@@ -657,8 +632,7 @@
       "Distribution Frequency": "Monthly",
       "Primary Exchange": "NYSE ARCA EXCHANGE",
       "Primary Index": "Bloomberg Barclays U.S. Corporate Bond Index",
-      "Primary Index Ticker": "LUACTRUU",
-      "infer": "spdr"
+      "Primary Index Ticker": "LUACTRUU"
     },
     {
       "ticker": "SPDW",
@@ -672,8 +646,7 @@
       "Distribution Frequency": "Semi-Annually",
       "Primary Exchange": "NYSE ARCA EXCHANGE",
       "Primary Index": "S&P Developed Ex-U.S. BMI Index",
-      "Primary Index Ticker": "STBMWUU",
-      "infer": "spdr"
+      "Primary Index Ticker": "STBMWUU"
     },
     {
       "ticker": "SPEM",
@@ -687,8 +660,7 @@
       "Distribution Frequency": "Semi-Annually",
       "Primary Exchange": "NYSE ARCA EXCHANGE",
       "Primary Index": "S&P Emerging BMI Index",
-      "Primary Index Ticker": "SEMUN",
-      "infer": "spdr"
+      "Primary Index Ticker": "SEMUN"
     },
     {
       "ticker": "SPEU",
@@ -702,8 +674,7 @@
       "Distribution Frequency": "Quarterly",
       "Primary Exchange": "NYSE ARCA EXCHANGE",
       "Primary Index": "STOXX Europe Total Market Index",
-      "Primary Index Ticker": "BKXV",
-      "infer": "spdr"
+      "Primary Index Ticker": "BKXV"
     },
     {
       "ticker": "SPHY",
@@ -717,8 +688,7 @@
       "Distribution Frequency": "Monthly",
       "Primary Exchange": "NYSE ARCA EXCHANGE",
       "Primary Index": "ICE BofA US High Yield Index",
-      "Primary Index Ticker": "H0A0",
-      "infer": "spdr"
+      "Primary Index Ticker": "H0A0"
     },
     {
       "ticker": "SPIB",
@@ -732,8 +702,7 @@
       "Distribution Frequency": "Monthly",
       "Primary Exchange": "NYSE ARCA EXCHANGE",
       "Primary Index": "Bloomberg Barclays U.S. Intermediate Corporate Bond Index",
-      "Primary Index Ticker": "LD06TRUU",
-      "infer": "spdr"
+      "Primary Index Ticker": "LD06TRUU"
     },
     {
       "ticker": "SPTI",
@@ -747,8 +716,7 @@
       "Distribution Frequency": "Monthly",
       "Primary Exchange": "NYSE ARCA EXCHANGE",
       "Primary Index": "Bloomberg Barclays 3-10 Year U.S. Treasury Index",
-      "Primary Index Ticker": "LT31TRUU",
-      "infer": "spdr"
+      "Primary Index Ticker": "LT31TRUU"
     },
     {
       "ticker": "SPLB",
@@ -762,8 +730,7 @@
       "Distribution Frequency": "Monthly",
       "Primary Exchange": "NYSE ARCA EXCHANGE",
       "Primary Index": "Bloomberg Barclays U.S. Long Term Corporate Bond Index",
-      "Primary Index Ticker": "LD07TRUU",
-      "infer": "spdr"
+      "Primary Index Ticker": "LD07TRUU"
     },
     {
       "ticker": "SPTL",
@@ -777,8 +744,7 @@
       "Distribution Frequency": "Monthly",
       "Primary Exchange": "NYSE ARCA EXCHANGE",
       "Primary Index": "Bloomberg Barclays Long U.S. Treasury Index",
-      "Primary Index Ticker": "LUTLTRUU",
-      "infer": "spdr"
+      "Primary Index Ticker": "LUTLTRUU"
     },
     {
       "ticker": "SPMB",
@@ -792,8 +758,7 @@
       "Distribution Frequency": "Monthly",
       "Primary Exchange": "NYSE ARCA EXCHANGE",
       "Primary Index": "Bloomberg Barclays U.S. MBS Index",
-      "Primary Index Ticker": "LUMSTRUU",
-      "infer": "spdr"
+      "Primary Index Ticker": "LUMSTRUU"
     },
     {
       "ticker": "SPGM",
@@ -807,8 +772,7 @@
       "Distribution Frequency": "Semi-Annually",
       "Primary Exchange": "NYSE ARCA EXCHANGE",
       "Primary Index": "MSCI ACWI IMI Index",
-      "Primary Index Ticker": "MIMUAWON",
-      "infer": "spdr"
+      "Primary Index Ticker": "MIMUAWON"
     },
     {
       "ticker": "SPTM",
@@ -822,8 +786,7 @@
       "Distribution Frequency": "Quarterly",
       "Primary Exchange": "NYSE ARCA EXCHANGE",
       "Primary Index": "S&P Composite 1500 Index",
-      "Primary Index Ticker": "SPTRSUPR",
-      "infer": "spdr"
+      "Primary Index Ticker": "SPTRSUPR"
     },
     {
       "ticker": "SPMD",
@@ -837,8 +800,7 @@
       "Distribution Frequency": "Quarterly",
       "Primary Exchange": "NYSE ARCA EXCHANGE",
       "Primary Index": "S&P MidCap 400 Index",
-      "Primary Index Ticker": "SPTRMDCP",
-      "infer": "spdr"
+      "Primary Index Ticker": "SPTRMDCP"
     },
     {
       "ticker": "SPLG",
@@ -852,8 +814,7 @@
       "Distribution Frequency": "Quarterly",
       "Primary Exchange": "NYSE ARCA EXCHANGE",
       "Primary Index": "S&P 500 Index",
-      "Primary Index Ticker": "SPXT",
-      "infer": "spdr"
+      "Primary Index Ticker": "SPXT"
     },
     {
       "ticker": "SPYG",
@@ -867,8 +828,7 @@
       "Distribution Frequency": "Quarterly",
       "Primary Exchange": "NYSE ARCA EXCHANGE",
       "Primary Index": "S&P 500 Growth Index",
-      "Primary Index Ticker": "SPTRSGX",
-      "infer": "spdr"
+      "Primary Index Ticker": "SPTRSGX"
     },
     {
       "ticker": "SPYD",
@@ -882,8 +842,7 @@
       "Distribution Frequency": "Quarterly",
       "Primary Exchange": "NYSE ARCA EXCHANGE",
       "Primary Index": "S&P 500 High Dividend Index",
-      "Primary Index Ticker": "SPXHDUT",
-      "infer": "spdr"
+      "Primary Index Ticker": "SPXHDUT"
     },
     {
       "ticker": "SPYV",
@@ -897,8 +856,7 @@
       "Distribution Frequency": "Quarterly",
       "Primary Exchange": "NYSE ARCA EXCHANGE",
       "Primary Index": "S&P 500 Value Index",
-      "Primary Index Ticker": "SPTRSVX",
-      "infer": "spdr"
+      "Primary Index Ticker": "SPTRSVX"
     },
     {
       "ticker": "SPSM",
@@ -912,8 +870,7 @@
       "Distribution Frequency": "Quarterly",
       "Primary Exchange": "NYSE ARCA EXCHANGE",
       "Primary Index": "S&P SmallCap 600 Index",
-      "Primary Index Ticker": "SPTRSMCP",
-      "infer": "spdr"
+      "Primary Index Ticker": "SPTRSMCP"
     },
     {
       "ticker": "SPSB",
@@ -927,8 +884,7 @@
       "Distribution Frequency": "Monthly",
       "Primary Exchange": "NYSE ARCA EXCHANGE",
       "Primary Index": "Bloomberg Barclays U.S. 1-3 Year Corporate Bond Index",
-      "Primary Index Ticker": "LF99TRUU",
-      "infer": "spdr"
+      "Primary Index Ticker": "LF99TRUU"
     },
     {
       "ticker": "SPTS",
@@ -942,8 +898,7 @@
       "Distribution Frequency": "Monthly",
       "Primary Exchange": "NYSE ARCA EXCHANGE",
       "Primary Index": "Bloomberg Barclays 1-3 Year U.S. Treasury Index",
-      "Primary Index Ticker": "LT01TRUU",
-      "infer": "spdr"
+      "Primary Index Ticker": "LT01TRUU"
     },
     {
       "ticker": "SPIP",
@@ -957,8 +912,7 @@
       "Distribution Frequency": "Monthly",
       "Primary Exchange": "NYSE ARCA EXCHANGE",
       "Primary Index": "Bloomberg Barclays U.S. Government Inflation-Linked Bond Index",
-      "Primary Index Ticker": "BCIT1T",
-      "infer": "spdr"
+      "Primary Index Ticker": "BCIT1T"
     },
     {
       "ticker": "ONEV",
@@ -972,8 +926,7 @@
       "Distribution Frequency": "Quarterly",
       "Primary Exchange": "NYSE ARCA EXCHANGE",
       "Primary Index": "Russell 1000 Low Volatility Focused Factor Index",
-      "Primary Index Ticker": "R1VFFTR",
-      "infer": "spdr"
+      "Primary Index Ticker": "R1VFFTR"
     },
     {
       "ticker": "ONEO",
@@ -987,8 +940,7 @@
       "Distribution Frequency": "Quarterly",
       "Primary Exchange": "NYSE ARCA EXCHANGE",
       "Primary Index": "Russell 1000 Momentum Focused Factor Index",
-      "Primary Index Ticker": "R1MFFTR",
-      "infer": "spdr"
+      "Primary Index Ticker": "R1MFFTR"
     },
     {
       "ticker": "ONEY",
@@ -1002,8 +954,7 @@
       "Distribution Frequency": "Quarterly",
       "Primary Exchange": "NYSE ARCA EXCHANGE",
       "Primary Index": "Russell 1000 Yield Focused Factor Index",
-      "Primary Index Ticker": "R1YFFTR",
-      "infer": "spdr"
+      "Primary Index Ticker": "R1YFFTR"
     },
     {
       "ticker": "EFIV",
@@ -1017,8 +968,7 @@
       "Distribution Frequency": "Quarterly",
       "Primary Exchange": "NYSE ARCA EXCHANGE",
       "Primary Index": "S&P 500 ESG Index",
-      "Primary Index Ticker": "SPXESUT",
-      "infer": "spdr"
+      "Primary Index Ticker": "SPXESUT"
     },
     {
       "ticker": "SPY",
@@ -1032,8 +982,7 @@
       "Distribution Frequency": "Quarterly",
       "Primary Exchange": "NYSE ARCA EXCHANGE",
       "Primary Index": "S&P 500 Index",
-      "Primary Index Ticker": "SPXT",
-      "infer": "spdr"
+      "Primary Index Ticker": "SPXT"
     },
     {
       "ticker": "EDIV",
@@ -1047,8 +996,7 @@
       "Distribution Frequency": "Quarterly",
       "Primary Exchange": "NYSE ARCA EXCHANGE",
       "Primary Index": "S&P Emerging Markets Dividend Opportunities Index",
-      "Primary Index Ticker": "SPGTEDUN",
-      "infer": "spdr"
+      "Primary Index Ticker": "SPGTEDUN"
     },
     {
       "ticker": "CNRG",
@@ -1062,8 +1010,7 @@
       "Distribution Frequency": "Quarterly",
       "Primary Exchange": "NYSE ARCA EXCHANGE",
       "Primary Index": "S&P Kensho Clean Power Index",
-      "Primary Index Ticker": "SAPKPOWER",
-      "infer": "spdr"
+      "Primary Index Ticker": "SAPKPOWER"
     },
     {
       "ticker": "ROKT",
@@ -1077,8 +1024,7 @@
       "Distribution Frequency": "Quarterly",
       "Primary Exchange": "NYSE ARCA EXCHANGE",
       "Primary Index": "S&P Kensho Final Frontiers Index",
-      "Primary Index Ticker": "SAPKEXPLORE",
-      "infer": "spdr"
+      "Primary Index Ticker": "SAPKEXPLORE"
     },
     {
       "ticker": "FITE",
@@ -1092,8 +1038,7 @@
       "Distribution Frequency": "Quarterly",
       "Primary Exchange": "NYSE ARCA EXCHANGE",
       "Primary Index": "S&P Kensho Future Security Index",
-      "Primary Index Ticker": "SAPKSECURE",
-      "infer": "spdr"
+      "Primary Index Ticker": "SAPKSECURE"
     },
     {
       "ticker": "SIMS",
@@ -1107,8 +1052,7 @@
       "Distribution Frequency": "Quarterly",
       "Primary Exchange": "NYSE ARCA EXCHANGE",
       "Primary Index": "S&P Kensho Intelligent Infrastructure Index",
-      "Primary Index Ticker": "SAPKINFRA",
-      "infer": "spdr"
+      "Primary Index Ticker": "SAPKINFRA"
     },
     {
       "ticker": "KOMP",
@@ -1122,8 +1066,7 @@
       "Distribution Frequency": "Quarterly",
       "Primary Exchange": "NYSE ARCA EXCHANGE",
       "Primary Index": "S&P Kensho New Economies Composite Index",
-      "Primary Index Ticker": "SAPKNEX",
-      "infer": "spdr"
+      "Primary Index Ticker": "SAPKNEX"
     },
     {
       "ticker": "HAIL",
@@ -1137,8 +1080,7 @@
       "Distribution Frequency": "Quarterly",
       "Primary Exchange": "NYSE ARCA EXCHANGE",
       "Primary Index": "S&P Kensho Smart Transportation Index",
-      "Primary Index Ticker": "SAPKMOVE",
-      "infer": "spdr"
+      "Primary Index Ticker": "SAPKMOVE"
     },
     {
       "ticker": "MDY",
@@ -1152,8 +1094,7 @@
       "Distribution Frequency": "Quarterly",
       "Primary Exchange": "NYSE ARCA EXCHANGE",
       "Primary Index": "S&P MidCap 400 Index",
-      "Primary Index Ticker": "JMDY",
-      "infer": "spdr"
+      "Primary Index Ticker": "JMDY"
     },
     {
       "ticker": "MMTM",
@@ -1167,8 +1108,7 @@
       "Distribution Frequency": "Quarterly",
       "Primary Exchange": "NYSE ARCA EXCHANGE",
       "Primary Index": "S&P 1500 Positive Momentum Tilt Index",
-      "Primary Index Ticker": "SPCPMTUT",
-      "infer": "spdr"
+      "Primary Index Ticker": "SPCPMTUT"
     },
     {
       "ticker": "VLU",
@@ -1182,8 +1122,7 @@
       "Distribution Frequency": "Quarterly",
       "Primary Exchange": "NYSE ARCA EXCHANGE",
       "Primary Index": "S&P 1500 Low Valuation Tilt Index",
-      "Primary Index Ticker": "SPCLVTUT",
-      "infer": "spdr"
+      "Primary Index Ticker": "SPCLVTUT"
     },
     {
       "ticker": "MDYG",
@@ -1197,8 +1136,7 @@
       "Distribution Frequency": "Quarterly",
       "Primary Exchange": "NYSE ARCA EXCHANGE",
       "Primary Index": "S&P MidCap 400 Growth Index",
-      "Primary Index Ticker": "SPTRMG",
-      "infer": "spdr"
+      "Primary Index Ticker": "SPTRMG"
     },
     {
       "ticker": "MDYV",
@@ -1212,8 +1150,7 @@
       "Distribution Frequency": "Quarterly",
       "Primary Exchange": "NYSE ARCA EXCHANGE",
       "Primary Index": "S&P MidCap 400 Value Index",
-      "Primary Index Ticker": "SPTRMV",
-      "infer": "spdr"
+      "Primary Index Ticker": "SPTRMV"
     },
     {
       "ticker": "SPYX",
@@ -1227,8 +1164,7 @@
       "Distribution Frequency": "Quarterly",
       "Primary Exchange": "NYSE ARCA EXCHANGE",
       "Primary Index": "S&P 500 Fossil Fuel Free Index",
-      "Primary Index Ticker": "SP5F3UN",
-      "infer": "spdr"
+      "Primary Index Ticker": "SP5F3UN"
     },
     {
       "ticker": "SLY",
@@ -1242,8 +1178,7 @@
       "Distribution Frequency": "Quarterly",
       "Primary Exchange": "NYSE ARCA EXCHANGE",
       "Primary Index": "S&P SmallCap 600 Index",
-      "Primary Index Ticker": "SPTRSMCP",
-      "infer": "spdr"
+      "Primary Index Ticker": "SPTRSMCP"
     },
     {
       "ticker": "SLYG",
@@ -1257,8 +1192,7 @@
       "Distribution Frequency": "Quarterly",
       "Primary Exchange": "NYSE ARCA EXCHANGE",
       "Primary Index": "S&P SmallCap 600 Growth Index",
-      "Primary Index Ticker": "SPTRSG",
-      "infer": "spdr"
+      "Primary Index Ticker": "SPTRSG"
     },
     {
       "ticker": "SLYV",
@@ -1272,8 +1206,7 @@
       "Distribution Frequency": "Quarterly",
       "Primary Exchange": "NYSE ARCA EXCHANGE",
       "Primary Index": "S&P SmallCap 600 Value Index",
-      "Primary Index Ticker": "SPTRSV",
-      "infer": "spdr"
+      "Primary Index Ticker": "SPTRSV"
     },
     {
       "ticker": "XAR",
@@ -1287,8 +1220,7 @@
       "Distribution Frequency": "Quarterly",
       "Primary Exchange": "NYSE ARCA EXCHANGE",
       "Primary Index": "S&P Aerospace & Defense Select Industry Index",
-      "Primary Index Ticker": "SPSIADTR",
-      "infer": "spdr"
+      "Primary Index Ticker": "SPSIADTR"
     },
     {
       "ticker": "KBE",
@@ -1302,8 +1234,7 @@
       "Distribution Frequency": "Quarterly",
       "Primary Exchange": "NYSE ARCA EXCHANGE",
       "Primary Index": "S&P Banks Select Industry Index",
-      "Primary Index Ticker": "SPSIBKT",
-      "infer": "spdr"
+      "Primary Index Ticker": "SPSIBKT"
     },
     {
       "ticker": "XBI",
@@ -1317,8 +1248,7 @@
       "Distribution Frequency": "Quarterly",
       "Primary Exchange": "NYSE ARCA EXCHANGE",
       "Primary Index": "S&P Biotechnology Select Industry Index",
-      "Primary Index Ticker": "SPSIBITR",
-      "infer": "spdr"
+      "Primary Index Ticker": "SPSIBITR"
     },
     {
       "ticker": "KCE",
@@ -1332,8 +1262,7 @@
       "Distribution Frequency": "Quarterly",
       "Primary Exchange": "NYSE ARCA EXCHANGE",
       "Primary Index": "S&P Capital Markets Select Industry Index",
-      "Primary Index Ticker": "SPSICMT",
-      "infer": "spdr"
+      "Primary Index Ticker": "SPSICMT"
     },
     {
       "ticker": "GXC",
@@ -1347,8 +1276,7 @@
       "Distribution Frequency": "Semi-Annually",
       "Primary Exchange": "NYSE ARCA EXCHANGE",
       "Primary Index": "S&P China BMI Index",
-      "Primary Index Ticker": "STBCCNU",
-      "infer": "spdr"
+      "Primary Index Ticker": "STBCCNU"
     },
     {
       "ticker": "SDY",
@@ -1362,8 +1290,7 @@
       "Distribution Frequency": "Quarterly",
       "Primary Exchange": "NYSE ARCA EXCHANGE",
       "Primary Index": "S&P High Yield Dividend Aristocrats Index",
-      "Primary Index Ticker": "SPHYDATR",
-      "infer": "spdr"
+      "Primary Index Ticker": "SPHYDATR"
     },
     {
       "ticker": "GMF",
@@ -1377,8 +1304,7 @@
       "Distribution Frequency": "Semi-Annually",
       "Primary Exchange": "NYSE ARCA EXCHANGE",
       "Primary Index": "S&P Asia Pacific Emerging BMI Index",
-      "Primary Index Ticker": "STBMAEU",
-      "infer": "spdr"
+      "Primary Index Ticker": "STBMAEU"
     },
     {
       "ticker": "EWX",
@@ -1392,8 +1318,7 @@
       "Distribution Frequency": "Semi-Annually",
       "Primary Exchange": "NYSE ARCA EXCHANGE",
       "Primary Index": "S&P Emerging Markets Under USD2 Billion Index",
-      "Primary Index Ticker": "SPBMKSUT",
-      "infer": "spdr"
+      "Primary Index Ticker": "SPBMKSUT"
     },
     {
       "ticker": "WDIV",
@@ -1407,8 +1332,7 @@
       "Distribution Frequency": "Quarterly",
       "Primary Exchange": "NYSE ARCA EXCHANGE",
       "Primary Index": "S&P Global Dividend Aristocrats Index",
-      "Primary Index Ticker": "SPGDAAN",
-      "infer": "spdr"
+      "Primary Index Ticker": "SPGDAAN"
     },
     {
       "ticker": "GII",
@@ -1422,8 +1346,7 @@
       "Distribution Frequency": "Semi-Annually",
       "Primary Exchange": "NYSE ARCA EXCHANGE",
       "Primary Index": "S&P Global Infrastructure Index",
-      "Primary Index Ticker": "SPGTINNT",
-      "infer": "spdr"
+      "Primary Index Ticker": "SPGTINNT"
     },
     {
       "ticker": "GNR",
@@ -1437,8 +1360,7 @@
       "Distribution Frequency": "Semi-Annually",
       "Primary Exchange": "NYSE ARCA EXCHANGE",
       "Primary Index": "S&P Global Natural Resources Index",
-      "Primary Index Ticker": "SPGNRUT",
-      "infer": "spdr"
+      "Primary Index Ticker": "SPGNRUT"
     },
     {
       "ticker": "XHE",
@@ -1452,8 +1374,7 @@
       "Distribution Frequency": "Quarterly",
       "Primary Exchange": "NYSE ARCA EXCHANGE",
       "Primary Index": "S&P Health Care Equipment Select Industry Index",
-      "Primary Index Ticker": "SPSIHETR",
-      "infer": "spdr"
+      "Primary Index Ticker": "SPSIHETR"
     },
     {
       "ticker": "XHS",
@@ -1467,8 +1388,7 @@
       "Distribution Frequency": "Quarterly",
       "Primary Exchange": "NYSE ARCA EXCHANGE",
       "Primary Index": "S&P Health Care Services Select Industry Index",
-      "Primary Index Ticker": "SPSIHPTR",
-      "infer": "spdr"
+      "Primary Index Ticker": "SPSIHPTR"
     },
     {
       "ticker": "XHB",
@@ -1482,8 +1402,7 @@
       "Distribution Frequency": "Quarterly",
       "Primary Exchange": "NYSE ARCA EXCHANGE",
       "Primary Index": "S&P Homebuilders Select Industry Index",
-      "Primary Index Ticker": "SPSIHOTR",
-      "infer": "spdr"
+      "Primary Index Ticker": "SPSIHOTR"
     },
     {
       "ticker": "KIE",
@@ -1497,8 +1416,7 @@
       "Distribution Frequency": "Quarterly",
       "Primary Exchange": "NYSE ARCA EXCHANGE",
       "Primary Index": "S&P Insurance Select Industry Index",
-      "Primary Index Ticker": "SPSIINST",
-      "infer": "spdr"
+      "Primary Index Ticker": "SPSIINST"
     },
     {
       "ticker": "DWX",
@@ -1512,8 +1430,7 @@
       "Distribution Frequency": "Quarterly",
       "Primary Exchange": "NYSE ARCA EXCHANGE",
       "Primary Index": "S&P International Dividend Opportunities Index",
-      "Primary Index Ticker": "SPGTDOUN",
-      "infer": "spdr"
+      "Primary Index Ticker": "SPGTDOUN"
     },
     {
       "ticker": "GWX",
@@ -1527,8 +1444,7 @@
       "Distribution Frequency": "Semi-Annually",
       "Primary Exchange": "NYSE ARCA EXCHANGE",
       "Primary Index": "S&P Developed Ex-U.S. Under USD2 Billion",
-      "Primary Index Ticker": "STBMWUU2",
-      "infer": "spdr"
+      "Primary Index Ticker": "STBMWUU2"
     },
     {
       "ticker": "XWEB",
@@ -1542,8 +1458,7 @@
       "Distribution Frequency": "Quarterly",
       "Primary Exchange": "NYSE ARCA EXCHANGE",
       "Primary Index": "S&P Internet Select Industry Index",
-      "Primary Index Ticker": "SPSIIN",
-      "infer": "spdr"
+      "Primary Index Ticker": "SPSIIN"
     },
     {
       "ticker": "XME",
@@ -1557,8 +1472,7 @@
       "Distribution Frequency": "Quarterly",
       "Primary Exchange": "NYSE ARCA EXCHANGE",
       "Primary Index": "S&P Metals & Mining Select Industry Index",
-      "Primary Index Ticker": "SPSIMMTR",
-      "infer": "spdr"
+      "Primary Index Ticker": "SPSIMMTR"
     },
     {
       "ticker": "NANR",
@@ -1572,8 +1486,7 @@
       "Distribution Frequency": "Semi-Annually",
       "Primary Exchange": "NYSE ARCA EXCHANGE",
       "Primary Index": "S&P BMI North American Natural Resources Index",
-      "Primary Index Ticker": "SPNANRUN",
-      "infer": "spdr"
+      "Primary Index Ticker": "SPNANRUN"
     },
     {
       "ticker": "XES",
@@ -1587,8 +1500,7 @@
       "Distribution Frequency": "Quarterly",
       "Primary Exchange": "NYSE ARCA EXCHANGE",
       "Primary Index": "S&P Oil & Gas Equipment & Services Select Industry Index",
-      "Primary Index Ticker": "SPSIOSTR",
-      "infer": "spdr"
+      "Primary Index Ticker": "SPSIOSTR"
     },
     {
       "ticker": "XOP",
@@ -1602,8 +1514,7 @@
       "Distribution Frequency": "Quarterly",
       "Primary Exchange": "NYSE ARCA EXCHANGE",
       "Primary Index": "S&P Oil & Gas Exploration & Production Select Industry Index",
-      "Primary Index Ticker": "SPSIOPTR",
-      "infer": "spdr"
+      "Primary Index Ticker": "SPSIOPTR"
     },
     {
       "ticker": "XPH",
@@ -1617,8 +1528,7 @@
       "Distribution Frequency": "Quarterly",
       "Primary Exchange": "NYSE ARCA EXCHANGE",
       "Primary Index": "S&P Pharmaceuticals Select Industry Index",
-      "Primary Index Ticker": "SPSIPHTR",
-      "infer": "spdr"
+      "Primary Index Ticker": "SPSIPHTR"
     },
     {
       "ticker": "KRE",
@@ -1632,8 +1542,7 @@
       "Distribution Frequency": "Quarterly",
       "Primary Exchange": "NYSE ARCA EXCHANGE",
       "Primary Index": "S&P Regional Banks Select Industry Index",
-      "Primary Index Ticker": "SPSIRBKT",
-      "infer": "spdr"
+      "Primary Index Ticker": "SPSIRBKT"
     },
     {
       "ticker": "XRT",
@@ -1647,8 +1556,7 @@
       "Distribution Frequency": "Quarterly",
       "Primary Exchange": "NYSE ARCA EXCHANGE",
       "Primary Index": "S&P Retail Select Industry Index",
-      "Primary Index Ticker": "SPSIRETR",
-      "infer": "spdr"
+      "Primary Index Ticker": "SPSIRETR"
     },
     {
       "ticker": "XSD",
@@ -1662,8 +1570,7 @@
       "Distribution Frequency": "Quarterly",
       "Primary Exchange": "NYSE ARCA EXCHANGE",
       "Primary Index": "S&P Semiconductor Select Industry Index",
-      "Primary Index Ticker": "SPSISCTR",
-      "infer": "spdr"
+      "Primary Index Ticker": "SPSISCTR"
     },
     {
       "ticker": "XSW",
@@ -1677,8 +1584,7 @@
       "Distribution Frequency": "Quarterly",
       "Primary Exchange": "NYSE ARCA EXCHANGE",
       "Primary Index": "S&P Software & Services Select Industry Index",
-      "Primary Index Ticker": "SPSISST",
-      "infer": "spdr"
+      "Primary Index Ticker": "SPSISST"
     },
     {
       "ticker": "XTL",
@@ -1692,8 +1598,7 @@
       "Distribution Frequency": "Quarterly",
       "Primary Exchange": "NYSE ARCA EXCHANGE",
       "Primary Index": "S&P Telecom Select Industry Index",
-      "Primary Index Ticker": "SPSITETR",
-      "infer": "spdr"
+      "Primary Index Ticker": "SPSITETR"
     },
     {
       "ticker": "XTN",
@@ -1707,8 +1612,7 @@
       "Distribution Frequency": "Quarterly",
       "Primary Exchange": "NYSE ARCA EXCHANGE",
       "Primary Index": "S&P Transportation Select Industry Index",
-      "Primary Index Ticker": "SPSITNTR",
-      "infer": "spdr"
+      "Primary Index Ticker": "SPSITNTR"
     },
     {
       "ticker": "ZCAN",
@@ -1722,8 +1626,7 @@
       "Distribution Frequency": "Semi-Annually",
       "Primary Exchange": "NYSE ARCA EXCHANGE",
       "Primary Index": "Solactive GBS Canada Large & Mid Cap USD Index NTR",
-      "Primary Index Ticker": "SCALMCUN",
-      "infer": "spdr"
+      "Primary Index Ticker": "SCALMCUN"
     },
     {
       "ticker": "ZDEU",
@@ -1737,8 +1640,7 @@
       "Distribution Frequency": "Semi-Annually",
       "Primary Exchange": "NYSE ARCA EXCHANGE",
       "Primary Index": "Solactive GBS Germany Large & Mid Cap USD Index NTR",
-      "Primary Index Ticker": "SDELMCUN",
-      "infer": "spdr"
+      "Primary Index Ticker": "SDELMCUN"
     },
     {
       "ticker": "ZHOK",
@@ -1752,8 +1654,7 @@
       "Distribution Frequency": "Semi-Annually",
       "Primary Exchange": "NYSE ARCA EXCHANGE",
       "Primary Index": "Solactive GBS Hong Kong Large & Mid Cap USD Index NTR",
-      "Primary Index Ticker": "SHKLMCUN",
-      "infer": "spdr"
+      "Primary Index Ticker": "SHKLMCUN"
     },
     {
       "ticker": "ZJPN",
@@ -1767,8 +1668,7 @@
       "Distribution Frequency": "Semi-Annually",
       "Primary Exchange": "NYSE ARCA EXCHANGE",
       "Primary Index": "Solactive GBS Japan Large & Mid Cap USD Index NTR",
-      "Primary Index Ticker": "SJPLMCUN",
-      "infer": "spdr"
+      "Primary Index Ticker": "SJPLMCUN"
     },
     {
       "ticker": "ZGBR",
@@ -1782,8 +1682,7 @@
       "Distribution Frequency": "Semi-Annually",
       "Primary Exchange": "NYSE ARCA EXCHANGE",
       "Primary Index": "Solactive GBS United Kingdom Large & Mid Cap USD Index NTR",
-      "Primary Index Ticker": "SGBLMCUN",
-      "infer": "spdr"
+      "Primary Index Ticker": "SGBLMCUN"
     },
     {
       "ticker": "FISR",
@@ -1797,8 +1696,7 @@
       "Distribution Frequency": "Monthly",
       "Primary Exchange": "NYSE ARCA EXCHANGE",
       "Primary Index": "Bloomberg Barclays U.S. Aggregate Bond Index",
-      "Primary Index Ticker": "LBUSTRUU",
-      "infer": "spdr"
+      "Primary Index Ticker": "LBUSTRUU"
     },
     {
       "ticker": "SHE",
@@ -1812,8 +1710,7 @@
       "Distribution Frequency": "Quarterly",
       "Primary Exchange": "NYSE ARCA EXCHANGE",
       "Primary Index": "SSGA Gender Diversity Index",
-      "Primary Index Ticker": "SSGAGDIT",
-      "infer": "spdr"
+      "Primary Index Ticker": "SSGAGDIT"
     },
     {
       "ticker": "GAL",
@@ -1827,8 +1724,7 @@
       "Distribution Frequency": "Quarterly",
       "Primary Exchange": "NYSE ARCA EXCHANGE",
       "Primary Index": "MSCI ACWI IMI Index",
-      "Primary Index Ticker": "-",
-      "infer": "spdr"
+      "Primary Index Ticker": "-"
     },
     {
       "ticker": "INKM",
@@ -1842,8 +1738,7 @@
       "Distribution Frequency": "Quarterly",
       "Primary Exchange": "NYSE ARCA EXCHANGE",
       "Primary Index": "MSCI World Index",
-      "Primary Index Ticker": "MXWO",
-      "infer": "spdr"
+      "Primary Index Ticker": "MXWO"
     },
     {
       "ticker": "RLY",
@@ -1857,8 +1752,7 @@
       "Distribution Frequency": "Quarterly",
       "Primary Exchange": "NYSE ARCA EXCHANGE",
       "Primary Index": "Bloomberg Barclays U.S. Government Inflation-Linked Bond Index",
-      "Primary Index Ticker": "BCIT1T",
-      "infer": "spdr"
+      "Primary Index Ticker": "BCIT1T"
     },
     {
       "ticker": "ULST",
@@ -1872,8 +1766,7 @@
       "Distribution Frequency": "Monthly",
       "Primary Exchange": "NYSE ARCA EXCHANGE",
       "Primary Index": "Bloomberg Barclays US Treasury Bellwether 3 Month Index",
-      "Primary Index Ticker": "BARUST3MO",
-      "infer": "spdr"
+      "Primary Index Ticker": "BARUST3MO"
     },
     {
       "ticker": "LGLV",
@@ -1887,8 +1780,7 @@
       "Distribution Frequency": "Quarterly",
       "Primary Exchange": "NYSE ARCA EXCHANGE",
       "Primary Index": "SSGA US Large Cap Low Volatility Index",
-      "Primary Index Ticker": "SSGALLVT",
-      "infer": "spdr"
+      "Primary Index Ticker": "SSGALLVT"
     },
     {
       "ticker": "XLSR",
@@ -1902,8 +1794,7 @@
       "Distribution Frequency": "Quarterly",
       "Primary Exchange": "NYSE ARCA EXCHANGE",
       "Primary Index": "S&P 500 Index",
-      "Primary Index Ticker": "SPTR",
-      "infer": "spdr"
+      "Primary Index Ticker": "SPTR"
     },
     {
       "ticker": "SMLV",
@@ -1917,8 +1808,7 @@
       "Distribution Frequency": "Quarterly",
       "Primary Exchange": "NYSE ARCA EXCHANGE",
       "Primary Index": "SSGA US Small Cap Low Volatility Index",
-      "Primary Index Ticker": "SSGASLVT",
-      "infer": "spdr"
+      "Primary Index Ticker": "SSGASLVT"
     },
     {
       "ticker": "PSK",
@@ -1932,8 +1822,7 @@
       "Distribution Frequency": "Monthly",
       "Primary Exchange": "NYSE ARCA EXCHANGE",
       "Primary Index": "Wells Fargo Hybrid and Preferred Securities Aggregate Index",
-      "Primary Index Ticker": "WAGG",
-      "infer": "spdr"
+      "Primary Index Ticker": "WAGG"
     },
     {
       "ticker": "XLC",
@@ -1947,8 +1836,7 @@
       "Distribution Frequency": "Quarterly",
       "Primary Exchange": "NYSE ARCA EXCHANGE",
       "Primary Index": "Communication Services Select Sector Index",
-      "Primary Index Ticker": "IXCNTR",
-      "infer": "spdr"
+      "Primary Index Ticker": "IXCNTR"
     },
     {
       "ticker": "XLY",
@@ -1962,8 +1850,7 @@
       "Distribution Frequency": "Quarterly",
       "Primary Exchange": "NYSE ARCA EXCHANGE",
       "Primary Index": "Consumer Discretionary Select Sector Index",
-      "Primary Index Ticker": "IXYTR",
-      "infer": "spdr"
+      "Primary Index Ticker": "IXYTR"
     },
     {
       "ticker": "XLP",
@@ -1977,8 +1864,7 @@
       "Distribution Frequency": "Quarterly",
       "Primary Exchange": "NYSE ARCA EXCHANGE",
       "Primary Index": "Consumer Staples Select Sector Index",
-      "Primary Index Ticker": "IXRTR",
-      "infer": "spdr"
+      "Primary Index Ticker": "IXRTR"
     },
     {
       "ticker": "XLE",
@@ -1992,8 +1878,7 @@
       "Distribution Frequency": "Quarterly",
       "Primary Exchange": "NYSE ARCA EXCHANGE",
       "Primary Index": "Energy Select Sector Index",
-      "Primary Index Ticker": "IXETR",
-      "infer": "spdr"
+      "Primary Index Ticker": "IXETR"
     },
     {
       "ticker": "XLF",
@@ -2007,8 +1892,7 @@
       "Distribution Frequency": "Quarterly",
       "Primary Exchange": "NYSE ARCA EXCHANGE",
       "Primary Index": "Financial Select Sector Index",
-      "Primary Index Ticker": "IXMTR",
-      "infer": "spdr"
+      "Primary Index Ticker": "IXMTR"
     },
     {
       "ticker": "XLV",
@@ -2022,8 +1906,7 @@
       "Distribution Frequency": "Quarterly",
       "Primary Exchange": "NYSE ARCA EXCHANGE",
       "Primary Index": "Health Care Select Sector Index",
-      "Primary Index Ticker": "IXVTR",
-      "infer": "spdr"
+      "Primary Index Ticker": "IXVTR"
     },
     {
       "ticker": "XLI",
@@ -2037,8 +1920,7 @@
       "Distribution Frequency": "Quarterly",
       "Primary Exchange": "NYSE ARCA EXCHANGE",
       "Primary Index": "Industrial Select Sector Index",
-      "Primary Index Ticker": "IXITR",
-      "infer": "spdr"
+      "Primary Index Ticker": "IXITR"
     },
     {
       "ticker": "XLB",
@@ -2052,8 +1934,7 @@
       "Distribution Frequency": "Quarterly",
       "Primary Exchange": "NYSE ARCA EXCHANGE",
       "Primary Index": "Materials Select Sector Index",
-      "Primary Index Ticker": "IXBTR",
-      "infer": "spdr"
+      "Primary Index Ticker": "IXBTR"
     },
     {
       "ticker": "XLRE",
@@ -2067,8 +1948,7 @@
       "Distribution Frequency": "Quarterly",
       "Primary Exchange": "NYSE ARCA EXCHANGE",
       "Primary Index": "Real Estate Select Sector Index",
-      "Primary Index Ticker": "IXRETR",
-      "infer": "spdr"
+      "Primary Index Ticker": "IXRETR"
     },
     {
       "ticker": "XLK",
@@ -2082,8 +1962,7 @@
       "Distribution Frequency": "Quarterly",
       "Primary Exchange": "NYSE ARCA EXCHANGE",
       "Primary Index": "Technology Select Sector Index",
-      "Primary Index Ticker": "IXTTR",
-      "infer": "spdr"
+      "Primary Index Ticker": "IXTTR"
     },
     {
       "ticker": "XLU",
@@ -2097,11 +1976,7 @@
       "Distribution Frequency": "Quarterly",
       "Primary Exchange": "NYSE ARCA EXCHANGE",
       "Primary Index": "Utilities Select Sector Index",
-      "Primary Index Ticker": "IXUTR",
-      "infer": "spdr"
-    },
-    {
-      "ticker": ""
+      "Primary Index Ticker": "IXUTR"
     }
   ]
 }

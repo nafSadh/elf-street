@@ -1,7 +1,7 @@
 {
-  "name": "S&P Ultra Dividend Revenue ETF",
-  "ticker": "RDIV",
-  "Inception": "9/30/2013",
+  "Products": "S&P Ultra Dividend Revenue ETF",
+  "Ticker": "RDIV",
+  "Inception": "09/30/2013",
   "Gross Exp. Ratio": "0.39%",
   "YTD": "-29.48",
   "1Yr": "-25.28",
@@ -11,7 +11,7 @@
   "Since Incept.": "5.23",
   "Category": "Income",
   "SubCategory": "Equity Income",
-  "infer": "invesco",
+  "ticker": "RDIV",
   "issuer": "Invesco",
   "website": "https://www.invesco.com/us/financial-products/etfs/product-detail?audienceType=Investor&ticker=RDIV",
   "holdingDataSource": {
@@ -23,147 +23,147 @@
     {
       "ticker": "DOW",
       "name": "Dow Inc",
-      "percent": "5.761"
+      "percent": "5.823"
     },
     {
       "ticker": "LYB",
       "name": "LyondellBasell Industries NV",
-      "percent": "5.629"
-    },
-    {
-      "ticker": "PRU",
-      "name": "Prudential Financial Inc",
-      "percent": "5.133"
+      "percent": "5.658"
     },
     {
       "ticker": "MET",
       "name": "MetLife Inc",
-      "percent": "5.128"
+      "percent": "5.172"
+    },
+    {
+      "ticker": "PRU",
+      "name": "Prudential Financial Inc",
+      "percent": "5.138"
     },
     {
       "ticker": "IBM",
       "name": "International Business Machines Corp",
-      "percent": "4.973"
+      "percent": "5.038"
     },
     {
       "ticker": "WFC",
       "name": "Wells Fargo & Co",
-      "percent": "4.377"
+      "percent": "4.381"
     },
     {
       "ticker": "IP",
       "name": "International Paper Co",
-      "percent": "4.156"
+      "percent": "4.267"
     },
     {
       "ticker": "CVX",
       "name": "Chevron Corp",
-      "percent": "4.085"
+      "percent": "4.070"
     },
     {
       "ticker": "PSX",
       "name": "Phillips 66",
-      "percent": "4.042"
+      "percent": "3.913"
     },
     {
       "ticker": "MPC",
       "name": "Marathon Petroleum Corp",
-      "percent": "3.952"
-    },
-    {
-      "ticker": "VLO",
-      "name": "Valero Energy Corp",
-      "percent": "3.590"
+      "percent": "3.819"
     },
     {
       "ticker": "WRK",
       "name": "Westrock Co",
-      "percent": "3.586"
+      "percent": "3.725"
     },
     {
       "ticker": "KHC",
       "name": "Kraft Heinz Co/The",
-      "percent": "3.518"
+      "percent": "3.520"
+    },
+    {
+      "ticker": "VLO",
+      "name": "Valero Energy Corp",
+      "percent": "3.491"
     },
     {
       "ticker": "BKR",
       "name": "Baker Hughes Co",
-      "percent": "2.915"
+      "percent": "2.862"
     },
     {
       "ticker": "HAL",
       "name": "Halliburton Co",
-      "percent": "2.894"
+      "percent": "2.726"
     },
     {
       "ticker": "PFG",
       "name": "Principal Financial Group Inc",
-      "percent": "2.379"
+      "percent": "2.370"
     },
     {
       "ticker": "UNM",
       "name": "Unum Group",
-      "percent": "1.854"
+      "percent": "1.847"
     },
     {
       "ticker": "KMI",
       "name": "Kinder Morgan Inc",
-      "percent": "1.744"
+      "percent": "1.735"
     },
     {
       "ticker": "CNP",
       "name": "CenterPoint Energy Inc",
-      "percent": "1.705"
+      "percent": "1.707"
     },
     {
       "ticker": "XRX",
       "name": "Xerox Holdings Corp",
-      "percent": "1.696"
+      "percent": "1.701"
     },
     {
       "ticker": "STX",
       "name": "Seagate Technology PLC",
-      "percent": "1.662"
+      "percent": "1.673"
     },
     {
       "ticker": "R",
       "name": "Ryder System Inc",
-      "percent": "1.603"
+      "percent": "1.596"
     },
     {
       "ticker": "FITB",
       "name": "Fifth Third Bancorp",
-      "percent": "1.581"
+      "percent": "1.579"
     },
     {
       "ticker": "IPG",
       "name": "Interpublic Group of Cos Inc/The",
-      "percent": "1.485"
+      "percent": "1.517"
     },
     {
       "ticker": "OLN",
       "name": "Olin Corp",
-      "percent": "1.312"
+      "percent": "1.318"
     },
     {
       "ticker": "PPL",
       "name": "PPL Corp",
-      "percent": "1.290"
+      "percent": "1.298"
     },
     {
       "ticker": "HBI",
       "name": "Hanesbrands Inc",
-      "percent": "1.247"
-    },
-    {
-      "ticker": "CFG",
-      "name": "Citizens Financial Group Inc",
-      "percent": "1.227"
+      "percent": "1.243"
     },
     {
       "ticker": "KEY",
       "name": "KeyCorp",
-      "percent": "1.223"
+      "percent": "1.224"
+    },
+    {
+      "ticker": "CFG",
+      "name": "Citizens Financial Group Inc",
+      "percent": "1.176"
     },
     {
       "ticker": "RF",
@@ -178,32 +178,32 @@
     {
       "ticker": "NLSN",
       "name": "Nielsen Holdings PLC",
-      "percent": "0.909"
+      "percent": "0.914"
     },
     {
       "ticker": "PDCO",
       "name": "Patterson Cos Inc",
-      "percent": "0.894"
+      "percent": "0.908"
     },
     {
       "ticker": "LEG",
       "name": "Leggett & Platt Inc",
-      "percent": "0.886"
-    },
-    {
-      "ticker": "WELL",
-      "name": "Welltower Inc",
-      "percent": "0.820"
+      "percent": "0.887"
     },
     {
       "ticker": "GEF",
       "name": "Greif Inc",
-      "percent": "0.811"
+      "percent": "0.822"
+    },
+    {
+      "ticker": "WELL",
+      "name": "Welltower Inc",
+      "percent": "0.813"
     },
     {
       "ticker": "HBAN",
       "name": "Huntington Bancshares Inc/OH",
-      "percent": "0.806"
+      "percent": "0.810"
     },
     {
       "ticker": "VNO",
@@ -211,79 +211,79 @@
       "percent": "0.744"
     },
     {
+      "ticker": "CIT",
+      "name": "CIT Group Inc",
+      "percent": "0.636"
+    },
+    {
       "ticker": "WYND",
       "name": "Wyndham Destinations Inc",
-      "percent": "0.619"
+      "percent": "0.618"
     },
     {
       "ticker": "CMA",
       "name": "Comerica Inc",
-      "percent": "0.609"
+      "percent": "0.611"
     },
     {
       "ticker": "MCY",
       "name": "Mercury General Corp",
-      "percent": "0.565"
-    },
-    {
-      "ticker": "CIT",
-      "name": "CIT Group Inc",
-      "percent": "0.499"
+      "percent": "0.571"
     },
     {
       "ticker": "HRB",
       "name": "H&R Block Inc",
-      "percent": "0.472"
+      "percent": "0.474"
     },
     {
       "ticker": "NUS",
       "name": "Nu Skin Enterprises Inc",
-      "percent": "0.436"
+      "percent": "0.432"
     },
     {
       "ticker": "SNV",
       "name": "Synovus Financial Corp",
-      "percent": "0.424"
+      "percent": "0.416"
     },
     {
       "ticker": "FHN",
       "name": "First Horizon National Corp",
-      "percent": "0.378"
+      "percent": "0.377"
     },
     {
       "ticker": "LAMR",
       "name": "Lamar Advertising Co",
-      "percent": "0.272"
+      "percent": "0.271"
     },
     {
       "ticker": "UMPQ",
       "name": "Umpqua Holdings Corp",
-      "percent": "0.228"
+      "percent": "0.230"
     },
     {
       "ticker": "WBS",
       "name": "Webster Financial Corp",
-      "percent": "0.226"
+      "percent": "0.227"
     },
     {
       "ticker": "FNB",
       "name": "FNB Corp/PA",
-      "percent": "0.222"
+      "percent": "0.226"
     },
     {
       "ticker": "VLY",
       "name": "Valley National Bancorp",
-      "percent": "0.219"
+      "percent": "0.221"
     },
     {
       "ticker": "SLG",
       "name": "SL Green Realty Corp",
-      "percent": "0.199"
+      "percent": "0.200"
     },
     {
       "ticker": "REG",
       "name": "Regency Centers Corp",
-      "percent": "0.158"
+      "percent": "0.155"
     },
     {
       "ticker": "ACC",
@@ -293,7 +293,7 @@
     {
       "ticker": "MPW",
       "name": "Medical Properties Trust Inc",
-      "percent": "0.141"
+      "percent": "0.139"
     },
     {
       "ticker": "STOR",
@@ -301,24 +301,24 @@
       "percent": "0.125"
     },
     {
+      "ticker": "AGPXX",
+      "name": "STIT - Government & Agency Portfolio",
+      "percent": "0.104"
+    },
+    {
       "ticker": "HIW",
       "name": "Highwoods Properties Inc",
-      "percent": "0.105"
+      "percent": "0.104"
     },
     {
       "ticker": "NNN",
       "name": "National Retail Properties Inc",
-      "percent": "0.103"
-    },
-    {
-      "ticker": "AGPXX",
-      "name": "STIT - Government & Agency Portfolio",
       "percent": "0.102"
     },
     {
       "ticker": "DOC",
       "name": "Physicians Realty Trust",
-      "percent": "0.066"
+      "percent": "0.065"
     }
   ]
 }

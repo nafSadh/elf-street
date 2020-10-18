@@ -1,7 +1,7 @@
 {
-  "name": "BulletShares 2028 Corporate Bond ETF",
-  "ticker": "BSCS",
-  "Inception": "8/9/2018",
+  "Products": "BulletShares 2028 Corporate Bond ETF",
+  "Ticker": "BSCS",
+  "Inception": "08/09/2018",
   "Gross Exp. Ratio": "0.10%",
   "YTD": "7.51",
   "1Yr": "8.77",
@@ -11,7 +11,7 @@
   "Since Incept.": "10.55",
   "Category": "Income",
   "SubCategory": "BulletShares",
-  "infer": "invesco",
+  "ticker": "BSCS",
   "issuer": "Invesco",
   "website": "https://www.invesco.com/us/financial-products/etfs/product-detail?audienceType=Investor&ticker=BSCS",
   "holdingDataSource": {
@@ -23,12 +23,12 @@
     {
       "ticker": "126650CX6",
       "name": "CVS Health Corp",
-      "percent": "4.59"
+      "percent": "4.60"
     },
     {
       "ticker": "125523AH3",
       "name": "Cigna Corp",
-      "percent": "2.73"
+      "percent": "2.74"
     },
     {
       "ticker": "92857WBK5",
@@ -43,7 +43,7 @@
     {
       "ticker": "931142EE9",
       "name": "Walmart Inc",
-      "percent": "1.99"
+      "percent": "1.98"
     },
     {
       "ticker": "035240AL4",
@@ -53,12 +53,12 @@
     {
       "ticker": "172967KU4",
       "name": "Citigroup Inc",
-      "percent": "1.50"
+      "percent": "1.51"
     },
     {
       "ticker": "874060AW6",
       "name": "Takeda Pharmaceutical Co Ltd",
-      "percent": "1.40"
+      "percent": "1.41"
     },
     {
       "ticker": "00206RKG6",
@@ -151,24 +151,24 @@
       "percent": "0.92"
     },
     {
-      "ticker": "904764BC0",
-      "name": "Unilever Capital Corp",
-      "percent": "0.90"
-    },
-    {
       "ticker": "161175BK9",
       "name": "Charter Communications Operating LLC / Charter Communication",
       "percent": "0.90"
     },
     {
+      "ticker": "904764BC0",
+      "name": "Unilever Capital Corp",
+      "percent": "0.90"
+    },
+    {
       "ticker": "606822AV6",
       "name": "Mitsubishi UFJ Financial Group Inc",
-      "percent": "0.87"
+      "percent": "0.88"
     },
     {
       "ticker": "960386AM2",
       "name": "Westinghouse Air Brake Technologies Corp",
-      "percent": "0.85"
+      "percent": "0.84"
     },
     {
       "ticker": "55336VAR1",
@@ -176,13 +176,13 @@
       "percent": "0.83"
     },
     {
-      "ticker": "11134LAR0",
-      "name": "Broadcom Corp / Broadcom Cayman Finance Ltd",
+      "ticker": "49456BAP6",
+      "name": "Kinder Morgan Inc",
       "percent": "0.83"
     },
     {
-      "ticker": "49456BAP6",
-      "name": "Kinder Morgan Inc",
+      "ticker": "11134LAR0",
+      "name": "Broadcom Corp / Broadcom Cayman Finance Ltd",
       "percent": "0.82"
     },
     {
@@ -273,7 +273,7 @@
     {
       "ticker": "06406RAH0",
       "name": "Bank of New York Mellon Corp/The",
-      "percent": "0.63"
+      "percent": "0.62"
     },
     {
       "ticker": "29446MAB8",
@@ -281,13 +281,13 @@
       "percent": "0.62"
     },
     {
-      "ticker": "254687FW1",
-      "name": "Walt Disney Co/The",
+      "ticker": "126408HJ5",
+      "name": "CSX Corp",
       "percent": "0.62"
     },
     {
-      "ticker": "126408HJ5",
-      "name": "CSX Corp",
+      "ticker": "254687FW1",
+      "name": "Walt Disney Co/The",
       "percent": "0.61"
     },
     {
@@ -306,19 +306,19 @@
       "percent": "0.59"
     },
     {
-      "ticker": "30212PAP0",
-      "name": "Expedia Group Inc",
+      "ticker": "776743AF3",
+      "name": "Roper Technologies Inc",
       "percent": "0.59"
     },
     {
       "ticker": "91159HHS2",
       "name": "US Bancorp",
-      "percent": "0.59"
+      "percent": "0.58"
     },
     {
-      "ticker": "776743AF3",
-      "name": "Roper Technologies Inc",
-      "percent": "0.59"
+      "ticker": "30212PAP0",
+      "name": "Expedia Group Inc",
+      "percent": "0.58"
     },
     {
       "ticker": "00037BAF9",
@@ -343,7 +343,7 @@
     {
       "ticker": "86562MAY6",
       "name": "Sumitomo Mitsui Financial Group Inc",
-      "percent": "0.55"
+      "percent": "0.54"
     },
     {
       "ticker": "927804FZ2",
@@ -361,13 +361,13 @@
       "percent": "0.54"
     },
     {
-      "ticker": "026874DK0",
-      "name": "American International Group Inc",
+      "ticker": "247361ZV3",
+      "name": "Delta Air Lines 2020-1 Class AA Pass Through Trust",
       "percent": "0.54"
     },
     {
-      "ticker": "247361ZV3",
-      "name": "Delta Air Lines 2020-1 Class AA Pass Through Trust",
+      "ticker": "026874DK0",
+      "name": "American International Group Inc",
       "percent": "0.53"
     },
     {
@@ -378,7 +378,7 @@
     {
       "ticker": "03027XAR1",
       "name": "American Tower Corp",
-      "percent": "0.52"
+      "percent": "0.53"
     },
     {
       "ticker": "05565QDH8",
@@ -386,13 +386,13 @@
       "percent": "0.52"
     },
     {
-      "ticker": "21036PAY4",
-      "name": "Constellation Brands Inc",
+      "ticker": "212015AS0",
+      "name": "Continental Resources Inc/OK",
       "percent": "0.52"
     },
     {
-      "ticker": "212015AS0",
-      "name": "Continental Resources Inc/OK",
+      "ticker": "21036PAY4",
+      "name": "Constellation Brands Inc",
       "percent": "0.52"
     },
     {
@@ -431,13 +431,13 @@
       "percent": "0.50"
     },
     {
-      "ticker": "06406RAF4",
-      "name": "Bank of New York Mellon Corp/The",
+      "ticker": "25243YAZ2",
+      "name": "Diageo Capital PLC",
       "percent": "0.50"
     },
     {
-      "ticker": "25243YAZ2",
-      "name": "Diageo Capital PLC",
+      "ticker": "06406RAF4",
+      "name": "Bank of New York Mellon Corp/The",
       "percent": "0.50"
     },
     {
@@ -456,13 +456,13 @@
       "percent": "0.48"
     },
     {
-      "ticker": "808513AU9",
-      "name": "Charles Schwab Corp/The",
+      "ticker": "92277GAM9",
+      "name": "Ventas Realty LP",
       "percent": "0.48"
     },
     {
-      "ticker": "92277GAM9",
-      "name": "Ventas Realty LP",
+      "ticker": "808513AU9",
+      "name": "Charles Schwab Corp/The",
       "percent": "0.48"
     },
     {
@@ -488,7 +488,7 @@
     {
       "ticker": "292480AL4",
       "name": "Enable Midstream Partners LP",
-      "percent": "0.47"
+      "percent": "0.46"
     },
     {
       "ticker": "655044AP0",
@@ -526,13 +526,13 @@
       "percent": "0.44"
     },
     {
-      "ticker": "26444HAE1",
-      "name": "Duke Energy Florida LLC",
+      "ticker": "98389BAV2",
+      "name": "Xcel Energy Inc",
       "percent": "0.43"
     },
     {
-      "ticker": "98389BAV2",
-      "name": "Xcel Energy Inc",
+      "ticker": "26444HAE1",
+      "name": "Duke Energy Florida LLC",
       "percent": "0.43"
     },
     {
@@ -591,13 +591,13 @@
       "percent": "0.40"
     },
     {
-      "ticker": "002824BP4",
-      "name": "Abbott Laboratories",
+      "ticker": "845437BR2",
+      "name": "Southwestern Electric Power Co",
       "percent": "0.39"
     },
     {
-      "ticker": "845437BR2",
-      "name": "Southwestern Electric Power Co",
+      "ticker": "002824BP4",
+      "name": "Abbott Laboratories",
       "percent": "0.39"
     },
     {
@@ -671,18 +671,13 @@
       "percent": "0.34"
     },
     {
-      "ticker": "256677AF2",
-      "name": "Dollar General Corp",
-      "percent": "0.34"
-    },
-    {
       "ticker": "534187BH1",
       "name": "Lincoln National Corp",
-      "percent": "0.34"
+      "percent": "0.33"
     },
     {
-      "ticker": "892331AD1",
-      "name": "Toyota Motor Corp",
+      "ticker": "256677AF2",
+      "name": "Dollar General Corp",
       "percent": "0.33"
     },
     {
@@ -691,13 +686,18 @@
       "percent": "0.33"
     },
     {
-      "ticker": "042735BF6",
-      "name": "Arrow Electronics Inc",
+      "ticker": "892331AD1",
+      "name": "Toyota Motor Corp",
       "percent": "0.33"
     },
     {
       "ticker": "718172CE7",
       "name": "Philip Morris International Inc",
+      "percent": "0.33"
+    },
+    {
+      "ticker": "042735BF6",
+      "name": "Arrow Electronics Inc",
       "percent": "0.33"
     },
     {
@@ -741,13 +741,13 @@
       "percent": "0.29"
     },
     {
-      "ticker": "343412AF9",
-      "name": "Fluor Corp",
+      "ticker": "747262AZ6",
+      "name": "QVC Inc",
       "percent": "0.29"
     },
     {
-      "ticker": "747262AZ6",
-      "name": "QVC Inc",
+      "ticker": "343412AF9",
+      "name": "Fluor Corp",
       "percent": "0.29"
     },
     {
@@ -758,7 +758,7 @@
     {
       "ticker": "247361ZN1",
       "name": "Delta Air Lines Inc",
-      "percent": "0.26"
+      "percent": "0.27"
     },
     {
       "ticker": "703481AB7",

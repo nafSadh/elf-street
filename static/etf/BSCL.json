@@ -1,17 +1,17 @@
 {
-  "name": "BulletShares 2021 Corporate Bond ETF",
-  "ticker": "BSCL",
-  "Inception": "7/17/2013",
+  "Products": "BulletShares 2021 Corporate Bond ETF",
+  "Ticker": "BSCL",
+  "Inception": "07/17/2013",
   "Gross Exp. Ratio": "0.10%",
   "YTD": "2.15",
   "1Yr": "2.95",
   "3Yr": "2.66",
-  "5Yr": "3.1",
+  "5Yr": "3.10",
   "10Yr": "",
   "Since Incept.": "3.58",
   "Category": "Income",
   "SubCategory": "BulletShares",
-  "infer": "invesco",
+  "ticker": "BSCL",
   "issuer": "Invesco",
   "website": "https://www.invesco.com/us/financial-products/etfs/product-detail?audienceType=Investor&ticker=BSCL",
   "holdingDataSource": {
@@ -23,7 +23,7 @@
     {
       "ticker": "AGPXX",
       "name": "STIT - Government & Agency Portfolio",
-      "percent": "2.81"
+      "percent": "2.79"
     },
     {
       "ticker": "68389XBK0",
@@ -33,22 +33,22 @@
     {
       "ticker": "38141GGQ1",
       "name": "Goldman Sachs Group Inc/The",
-      "percent": "1.19"
+      "percent": "1.18"
     },
     {
       "ticker": "251526BX6",
       "name": "Deutsche Bank AG/New York NY",
-      "percent": "1.04"
+      "percent": "1.06"
     },
     {
       "ticker": "61746BED4",
       "name": "Morgan Stanley",
-      "percent": "0.99"
+      "percent": "0.98"
     },
     {
       "ticker": "05567LT31",
       "name": "BNP Paribas SA",
-      "percent": "0.91"
+      "percent": "0.90"
     },
     {
       "ticker": "037833AR1",
@@ -58,7 +58,7 @@
     {
       "ticker": "949746SA0",
       "name": "Wells Fargo & Co",
-      "percent": "0.88"
+      "percent": "0.87"
     },
     {
       "ticker": "037833BS8",
@@ -88,12 +88,12 @@
     {
       "ticker": "172967LC3",
       "name": "Citigroup Inc",
-      "percent": "0.77"
+      "percent": "0.76"
     },
     {
       "ticker": "94974BEV8",
       "name": "Wells Fargo & Co",
-      "percent": "0.77"
+      "percent": "0.76"
     },
     {
       "ticker": "61747WAF6",
@@ -104,6 +104,11 @@
       "ticker": "172967KK6",
       "name": "Citigroup Inc",
       "percent": "0.76"
+    },
+    {
+      "ticker": "404280AY5",
+      "name": "HSBC Holdings PLC",
+      "percent": "0.74"
     },
     {
       "ticker": "17275RBD3",
@@ -143,7 +148,12 @@
     {
       "ticker": "22546QAR8",
       "name": "Credit Suisse AG/New York NY",
-      "percent": "0.61"
+      "percent": "0.60"
+    },
+    {
+      "ticker": "458140AJ9",
+      "name": "Intel Corp",
+      "percent": "0.60"
     },
     {
       "ticker": "22550L2A8",
@@ -153,7 +163,7 @@
     {
       "ticker": "126650DC1",
       "name": "CVS Health Corp",
-      "percent": "0.60"
+      "percent": "0.59"
     },
     {
       "ticker": "17275RBJ0",
@@ -168,26 +178,21 @@
     {
       "ticker": "06739FJJ1",
       "name": "Barclays Bank PLC",
-      "percent": "0.59"
+      "percent": "0.58"
     },
     {
       "ticker": "369550BE7",
       "name": "General Dynamics Corp",
-      "percent": "0.59"
+      "percent": "0.58"
     },
     {
       "ticker": "80105NAG0",
       "name": "Sanofi",
-      "percent": "0.59"
+      "percent": "0.58"
     },
     {
       "ticker": "06051GFW4",
       "name": "Bank of America Corp",
-      "percent": "0.58"
-    },
-    {
-      "ticker": "458140AJ9",
-      "name": "Intel Corp",
       "percent": "0.58"
     },
     {
@@ -246,14 +251,9 @@
       "percent": "0.49"
     },
     {
-      "ticker": "404280AY5",
-      "name": "HSBC Holdings PLC",
-      "percent": "0.49"
-    },
-    {
       "ticker": "78013XKG2",
       "name": "Royal Bank of Canada",
-      "percent": "0.47"
+      "percent": "0.46"
     },
     {
       "ticker": "06406HBY4",
@@ -268,12 +268,12 @@
     {
       "ticker": "911312AM8",
       "name": "United Parcel Service Inc",
-      "percent": "0.45"
+      "percent": "0.44"
     },
     {
       "ticker": "94974BFR6",
       "name": "Wells Fargo & Co",
-      "percent": "0.45"
+      "percent": "0.44"
     },
     {
       "ticker": "65339KAS9",
@@ -318,7 +318,7 @@
     {
       "ticker": "026874DG9",
       "name": "American International Group Inc",
-      "percent": "0.44"
+      "percent": "0.43"
     },
     {
       "ticker": "86960BAL6",
@@ -373,12 +373,12 @@
     {
       "ticker": "064159LG9",
       "name": "Bank of Nova Scotia/The",
-      "percent": "0.40"
+      "percent": "0.39"
     },
     {
       "ticker": "14040HBY0",
       "name": "Capital One Financial Corp",
-      "percent": "0.40"
+      "percent": "0.39"
     },
     {
       "ticker": "437076BL5",
@@ -436,19 +436,24 @@
       "percent": "0.37"
     },
     {
-      "ticker": "49327M2Q6",
-      "name": "KeyBank NA/Cleveland OH",
+      "ticker": "60687YAE9",
+      "name": "Mizuho Financial Group Inc",
       "percent": "0.37"
     },
     {
-      "ticker": "60687YAE9",
-      "name": "Mizuho Financial Group Inc",
+      "ticker": "49327M2Q6",
+      "name": "KeyBank NA/Cleveland OH",
       "percent": "0.37"
     },
     {
       "ticker": "149123BV2",
       "name": "Caterpillar Inc",
       "percent": "0.37"
+    },
+    {
+      "ticker": "05578DAW2",
+      "name": "BPCE SA",
+      "percent": "0.36"
     },
     {
       "ticker": "78012KKU0",
@@ -458,11 +463,6 @@
     {
       "ticker": "025816BU2",
       "name": "American Express Co",
-      "percent": "0.36"
-    },
-    {
-      "ticker": "05578DAW2",
-      "name": "BPCE SA",
       "percent": "0.36"
     },
     {
@@ -486,13 +486,13 @@
       "percent": "0.36"
     },
     {
-      "ticker": "36962G5J9",
-      "name": "General Electric Co",
+      "ticker": "15135BAJ0",
+      "name": "Centene Corp",
       "percent": "0.36"
     },
     {
-      "ticker": "15135BAJ0",
-      "name": "Centene Corp",
+      "ticker": "36962G5J9",
+      "name": "General Electric Co",
       "percent": "0.36"
     },
     {
@@ -573,7 +573,7 @@
     {
       "ticker": "904764AM9",
       "name": "Unilever Capital Corp",
-      "percent": "0.31"
+      "percent": "0.30"
     },
     {
       "ticker": "06051GEH8",
@@ -626,13 +626,13 @@
       "percent": "0.30"
     },
     {
-      "ticker": "91159HHA1",
-      "name": "US Bancorp",
+      "ticker": "717081EM1",
+      "name": "Pfizer Inc",
       "percent": "0.30"
     },
     {
-      "ticker": "717081EM1",
-      "name": "Pfizer Inc",
+      "ticker": "91159HHA1",
+      "name": "US Bancorp",
       "percent": "0.30"
     },
     {
@@ -648,16 +648,21 @@
     {
       "ticker": "075887BA6",
       "name": "Becton Dickinson and Co",
-      "percent": "0.30"
+      "percent": "0.29"
     },
     {
       "ticker": "064159FL5",
       "name": "Bank of Nova Scotia/The",
-      "percent": "0.30"
+      "percent": "0.29"
     },
     {
       "ticker": "830505AT0",
       "name": "Skandinaviska Enskilda Banken AB",
+      "percent": "0.29"
+    },
+    {
+      "ticker": "05565QBU1",
+      "name": "BP Capital Markets PLC",
       "percent": "0.29"
     },
     {
@@ -681,18 +686,13 @@
       "percent": "0.29"
     },
     {
-      "ticker": "05565QBU1",
-      "name": "BP Capital Markets PLC",
+      "ticker": "717081DZ3",
+      "name": "Pfizer Inc",
       "percent": "0.29"
     },
     {
       "ticker": "446150AJ3",
       "name": "Huntington Bancshares Inc/OH",
-      "percent": "0.29"
-    },
-    {
-      "ticker": "717081DZ3",
-      "name": "Pfizer Inc",
       "percent": "0.29"
     },
     {
@@ -788,12 +788,12 @@
     {
       "ticker": "606822AW4",
       "name": "Mitsubishi UFJ Financial Group Inc",
-      "percent": "0.27"
+      "percent": "0.26"
     },
     {
       "ticker": "69353RFH6",
       "name": "PNC Bank NA",
-      "percent": "0.27"
+      "percent": "0.26"
     },
     {
       "ticker": "375558AQ6",
@@ -858,7 +858,7 @@
     {
       "ticker": "438516BA3",
       "name": "Honeywell International Inc",
-      "percent": "0.24"
+      "percent": "0.23"
     },
     {
       "ticker": "26884AAZ6",
@@ -881,13 +881,13 @@
       "percent": "0.23"
     },
     {
-      "ticker": "06051GEE5",
-      "name": "Bank of America Corp",
+      "ticker": "855244AJ8",
+      "name": "Starbucks Corp",
       "percent": "0.23"
     },
     {
-      "ticker": "855244AJ8",
-      "name": "Starbucks Corp",
+      "ticker": "06051GEE5",
+      "name": "Bank of America Corp",
       "percent": "0.23"
     },
     {
@@ -921,13 +921,13 @@
       "percent": "0.22"
     },
     {
-      "ticker": "713448BW7",
-      "name": "PepsiCo Inc",
+      "ticker": "494550BT2",
+      "name": "Kinder Morgan Energy Partners LP",
       "percent": "0.22"
     },
     {
-      "ticker": "494550BT2",
-      "name": "Kinder Morgan Energy Partners LP",
+      "ticker": "713448BW7",
+      "name": "PepsiCo Inc",
       "percent": "0.22"
     },
     {
@@ -971,13 +971,13 @@
       "percent": "0.22"
     },
     {
-      "ticker": "80283LAR4",
-      "name": "Santander UK PLC",
+      "ticker": "084664BQ3",
+      "name": "Berkshire Hathaway Finance Corp",
       "percent": "0.22"
     },
     {
-      "ticker": "084664BQ3",
-      "name": "Berkshire Hathaway Finance Corp",
+      "ticker": "80283LAR4",
+      "name": "Santander UK PLC",
       "percent": "0.22"
     },
     {
@@ -996,13 +996,13 @@
       "percent": "0.22"
     },
     {
-      "ticker": "713448DL9",
-      "name": "PepsiCo Inc",
+      "ticker": "064149C88",
+      "name": "Bank of Nova Scotia/The",
       "percent": "0.22"
     },
     {
-      "ticker": "064149C88",
-      "name": "Bank of Nova Scotia/The",
+      "ticker": "713448DL9",
+      "name": "PepsiCo Inc",
       "percent": "0.22"
     },
     {
@@ -1023,7 +1023,7 @@
     {
       "ticker": "89153VAR0",
       "name": "Total Capital International SA",
-      "percent": "0.22"
+      "percent": "0.21"
     },
     {
       "ticker": "02665WCD1",
@@ -1178,7 +1178,7 @@
     {
       "ticker": "44932HAB9",
       "name": "IBM Credit LLC",
-      "percent": "0.18"
+      "percent": "0.17"
     },
     {
       "ticker": "808513AW5",
@@ -1188,6 +1188,11 @@
     {
       "ticker": "743315AN3",
       "name": "Progressive Corp/The",
+      "percent": "0.17"
+    },
+    {
+      "ticker": "247361ZM3",
+      "name": "Delta Air Lines Inc",
       "percent": "0.17"
     },
     {
@@ -1216,11 +1221,6 @@
       "percent": "0.17"
     },
     {
-      "ticker": "247361ZM3",
-      "name": "Delta Air Lines Inc",
-      "percent": "0.17"
-    },
-    {
       "ticker": "12592BAF1",
       "name": "CNH Industrial Capital LLC",
       "percent": "0.17"
@@ -1241,19 +1241,19 @@
       "percent": "0.17"
     },
     {
-      "ticker": "745310AD4",
-      "name": "Puget Energy Inc",
-      "percent": "0.17"
-    },
-    {
       "ticker": "00130HBX2",
       "name": "AES Corp/The",
       "percent": "0.17"
     },
     {
+      "ticker": "745310AD4",
+      "name": "Puget Energy Inc",
+      "percent": "0.17"
+    },
+    {
       "ticker": "72650RAY8",
       "name": "Plains All American Pipeline LP / PAA Finance Corp",
-      "percent": "0.17"
+      "percent": "0.16"
     },
     {
       "ticker": "74834LAS9",
@@ -1298,7 +1298,7 @@
     {
       "ticker": "871829BA4",
       "name": "Sysco Corp",
-      "percent": "0.16"
+      "percent": "0.15"
     },
     {
       "ticker": "931142DD2",
@@ -1406,13 +1406,13 @@
       "percent": "0.15"
     },
     {
-      "ticker": "369550AR9",
-      "name": "General Dynamics Corp",
+      "ticker": "00928QAM3",
+      "name": "Aircastle Ltd",
       "percent": "0.15"
     },
     {
-      "ticker": "00928QAM3",
-      "name": "Aircastle Ltd",
+      "ticker": "369550AR9",
+      "name": "General Dynamics Corp",
       "percent": "0.15"
     },
     {
@@ -1448,11 +1448,16 @@
     {
       "ticker": "21036PAK4",
       "name": "Constellation Brands Inc",
-      "percent": "0.15"
+      "percent": "0.14"
     },
     {
       "ticker": "136385AR2",
       "name": "Canadian Natural Resources Ltd",
+      "percent": "0.14"
+    },
+    {
+      "ticker": "125581GV4",
+      "name": "CIT Group Inc",
       "percent": "0.14"
     },
     {
@@ -1468,11 +1473,6 @@
     {
       "ticker": "89152UAB8",
       "name": "Total Capital SA",
-      "percent": "0.14"
-    },
-    {
-      "ticker": "125581GV4",
-      "name": "CIT Group Inc",
       "percent": "0.14"
     },
     {
@@ -1533,7 +1533,7 @@
     {
       "ticker": "655664AP5",
       "name": "Nordstrom Inc",
-      "percent": "0.14"
+      "percent": "0.13"
     },
     {
       "ticker": "46625HHZ6",
@@ -1568,7 +1568,7 @@
     {
       "ticker": "-CASH-",
       "name": "Cash/Receivables/Payables",
-      "percent": "0.00"
+      "percent": "-0.00"
     }
   ]
 }

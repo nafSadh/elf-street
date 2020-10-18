@@ -1,7 +1,7 @@
 {
-  "name": "BulletShares 2028 High Yield Corporate Bond ETF",
-  "ticker": "BSJS",
-  "Inception": "9/16/2020",
+  "Products": "BulletShares 2028 High Yield Corporate Bond ETF",
+  "Ticker": "BSJS",
+  "Inception": "09/16/2020",
   "Gross Exp. Ratio": "0.42%",
   "YTD": "",
   "1Yr": "",
@@ -11,7 +11,7 @@
   "Since Incept.": "-1.29",
   "Category": "Income",
   "SubCategory": "BulletShares",
-  "infer": "invesco",
+  "ticker": "BSJS",
   "issuer": "Invesco",
   "website": "https://www.invesco.com/us/financial-products/etfs/product-detail?audienceType=Investor&ticker=BSJS",
   "holdingDataSource": {
@@ -23,7 +23,7 @@
     {
       "ticker": "852060AD4",
       "name": "Sprint Capital Corp",
-      "percent": "4.57"
+      "percent": "4.56"
     },
     {
       "ticker": "64110LAT3",
@@ -33,7 +33,7 @@
     {
       "ticker": "02156LAC5",
       "name": "Altice France SA/France",
-      "percent": "2.81"
+      "percent": "2.83"
     },
     {
       "ticker": "02156TAA2",
@@ -43,17 +43,17 @@
     {
       "ticker": "404121AJ4",
       "name": "HCA Inc",
-      "percent": "2.40"
+      "percent": "2.39"
     },
     {
       "ticker": "911365BG8",
       "name": "United Rentals North America Inc",
-      "percent": "2.35"
+      "percent": "2.34"
     },
     {
       "ticker": "131347CN4",
       "name": "Calpine Corp",
-      "percent": "2.01"
+      "percent": "2.00"
     },
     {
       "ticker": "74166MAE6",
@@ -78,12 +78,12 @@
     {
       "ticker": "071734AH0",
       "name": "Bausch Health Cos Inc",
-      "percent": "1.64"
+      "percent": "1.65"
     },
     {
       "ticker": "038522AQ1",
       "name": "Aramark Services Inc",
-      "percent": "1.60"
+      "percent": "1.61"
     },
     {
       "ticker": "98919VAB1",
@@ -93,17 +93,22 @@
     {
       "ticker": "092174AA9",
       "name": "Black Knight InfoServ LLC",
-      "percent": "1.39"
+      "percent": "1.40"
     },
     {
       "ticker": "74840LAB8",
       "name": "Quicken Loans LLC",
-      "percent": "1.37"
+      "percent": "1.38"
     },
     {
       "ticker": "29260FAE0",
       "name": "Endeavor Energy Resources LP / EER Finance Inc",
-      "percent": "1.36"
+      "percent": "1.35"
+    },
+    {
+      "ticker": "87901JAE5",
+      "name": "TEGNA Inc",
+      "percent": "1.31"
     },
     {
       "ticker": "737446AN4",
@@ -111,14 +116,9 @@
       "percent": "1.31"
     },
     {
-      "ticker": "87901JAE5",
-      "name": "TEGNA Inc",
-      "percent": "1.30"
-    },
-    {
       "ticker": "69331CAH1",
       "name": "PG&E Corp",
-      "percent": "1.30"
+      "percent": "1.29"
     },
     {
       "ticker": "46284VAE1",
@@ -173,7 +173,7 @@
     {
       "ticker": "47010LAA0",
       "name": "Jaguar Holding Co II / PPD Development LP",
-      "percent": "1.01"
+      "percent": "1.00"
     },
     {
       "ticker": "203372AV9",
@@ -188,17 +188,12 @@
     {
       "ticker": "70339PAA7",
       "name": "Pattern Energy Operations LP / Pattern Energy Operations Inc",
-      "percent": "0.94"
+      "percent": "0.93"
     },
     {
       "ticker": "68752DAA6",
       "name": "Ortho-Clinical Diagnostics Inc / Ortho-Clinical Diagnostics",
-      "percent": "0.92"
-    },
-    {
-      "ticker": "35671DCE3",
-      "name": "Freeport-McMoRan Inc",
-      "percent": "0.92"
+      "percent": "0.93"
     },
     {
       "ticker": "552848AG8",
@@ -211,14 +206,19 @@
       "percent": "0.92"
     },
     {
+      "ticker": "35671DCE3",
+      "name": "Freeport-McMoRan Inc",
+      "percent": "0.92"
+    },
+    {
       "ticker": "25470XBB0",
       "name": "DISH DBS Corp",
-      "percent": "0.92"
+      "percent": "0.91"
     },
     {
       "ticker": "03966VAA5",
       "name": "Arconic Corp",
-      "percent": "0.87"
+      "percent": "0.88"
     },
     {
       "ticker": "14739LAB8",
@@ -233,7 +233,7 @@
     {
       "ticker": "827048AW9",
       "name": "Silgan Holdings Inc",
-      "percent": "0.86"
+      "percent": "0.85"
     },
     {
       "ticker": "69318FAH1",
@@ -253,7 +253,7 @@
     {
       "ticker": "417558AA1",
       "name": "Harvest Midstream I LP",
-      "percent": "0.83"
+      "percent": "0.82"
     },
     {
       "ticker": "87422VAG3",
@@ -276,19 +276,19 @@
       "percent": "0.77"
     },
     {
-      "ticker": "98421MAB2",
-      "name": "Xerox Holdings Corp",
-      "percent": "0.76"
-    },
-    {
       "ticker": "428104AA1",
       "name": "Hess Midstream Operations LP",
       "percent": "0.76"
     },
     {
+      "ticker": "98421MAB2",
+      "name": "Xerox Holdings Corp",
+      "percent": "0.76"
+    },
+    {
       "ticker": "513272AC8",
       "name": "Lamb Weston Holdings Inc",
-      "percent": "0.76"
+      "percent": "0.75"
     },
     {
       "ticker": "45232TAA9",
@@ -321,14 +321,14 @@
       "percent": "0.71"
     },
     {
-      "ticker": "171484AE8",
-      "name": "Churchill Downs Inc",
-      "percent": "0.71"
-    },
-    {
       "ticker": "46284VAG6",
       "name": "Iron Mountain Inc",
-      "percent": "0.71"
+      "percent": "0.70"
+    },
+    {
+      "ticker": "171484AE8",
+      "name": "Churchill Downs Inc",
+      "percent": "0.70"
     },
     {
       "ticker": "14180LAA4",
@@ -341,11 +341,6 @@
       "percent": "0.69"
     },
     {
-      "ticker": "501797AN4",
-      "name": "L Brands Inc",
-      "percent": "0.68"
-    },
-    {
       "ticker": "98311AAB1",
       "name": "Wyndham Hotels & Resorts Inc",
       "percent": "0.68"
@@ -356,9 +351,19 @@
       "percent": "0.68"
     },
     {
+      "ticker": "501797AN4",
+      "name": "L Brands Inc",
+      "percent": "0.68"
+    },
+    {
       "ticker": "483007AJ9",
       "name": "Kaiser Aluminum Corp",
       "percent": "0.68"
+    },
+    {
+      "ticker": "125581GX0",
+      "name": "CIT Group Inc",
+      "percent": "0.67"
     },
     {
       "ticker": "435765AH5",
@@ -366,13 +371,13 @@
       "percent": "0.67"
     },
     {
-      "ticker": "45174HBG1",
-      "name": "iHeartCommunications Inc",
+      "ticker": "03959KAC4",
+      "name": "Archrock Partners LP / Archrock Partners Finance Corp",
       "percent": "0.66"
     },
     {
-      "ticker": "03959KAC4",
-      "name": "Archrock Partners LP / Archrock Partners Finance Corp",
+      "ticker": "45174HBG1",
+      "name": "iHeartCommunications Inc",
       "percent": "0.66"
     },
     {
@@ -381,9 +386,9 @@
       "percent": "0.65"
     },
     {
-      "ticker": "125581GX0",
-      "name": "CIT Group Inc",
-      "percent": "0.64"
+      "ticker": "29089QAC9",
+      "name": "Emergent BioSolutions Inc",
+      "percent": "0.63"
     },
     {
       "ticker": "81721MAM1",
@@ -391,28 +396,13 @@
       "percent": "0.62"
     },
     {
-      "ticker": "29089QAC9",
-      "name": "Emergent BioSolutions Inc",
-      "percent": "0.62"
-    },
-    {
       "ticker": "667449AA0",
       "name": "Northwest Fiber LLC / Northwest Fiber Finance Sub Inc",
-      "percent": "0.60"
-    },
-    {
-      "ticker": "29362UAC8",
-      "name": "Entegris Inc",
-      "percent": "0.58"
+      "percent": "0.61"
     },
     {
       "ticker": "74112BAL9",
       "name": "Prestige Brands Inc",
-      "percent": "0.58"
-    },
-    {
-      "ticker": "74101XAF7",
-      "name": "Presidio Holdings Inc",
       "percent": "0.58"
     },
     {
@@ -421,13 +411,18 @@
       "percent": "0.58"
     },
     {
-      "ticker": "808625AA5",
-      "name": "Science Applications International Corp",
+      "ticker": "74101XAF7",
+      "name": "Presidio Holdings Inc",
       "percent": "0.57"
     },
     {
-      "ticker": "55305BAS0",
-      "name": "M/I Homes Inc",
+      "ticker": "29362UAC8",
+      "name": "Entegris Inc",
+      "percent": "0.57"
+    },
+    {
+      "ticker": "808625AA5",
+      "name": "Science Applications International Corp",
       "percent": "0.57"
     },
     {
@@ -436,18 +431,23 @@
       "percent": "0.57"
     },
     {
+      "ticker": "55305BAS0",
+      "name": "M/I Homes Inc",
+      "percent": "0.57"
+    },
+    {
       "ticker": "92552VAN0",
       "name": "ViaSat Inc",
       "percent": "0.56"
     },
     {
-      "ticker": "05605HAB6",
-      "name": "BWX Technologies Inc",
+      "ticker": "02406PBA7",
+      "name": "American Axle & Manufacturing Inc",
       "percent": "0.56"
     },
     {
-      "ticker": "02406PBA7",
-      "name": "American Axle & Manufacturing Inc",
+      "ticker": "05605HAB6",
+      "name": "BWX Technologies Inc",
       "percent": "0.56"
     },
     {
@@ -476,13 +476,13 @@
       "percent": "0.46"
     },
     {
-      "ticker": "153527AM8",
-      "name": "Central Garden & Pet Co",
+      "ticker": "12662PAD0",
+      "name": "CVR Energy Inc",
       "percent": "0.44"
     },
     {
-      "ticker": "12662PAD0",
-      "name": "CVR Energy Inc",
+      "ticker": "153527AM8",
+      "name": "Central Garden & Pet Co",
       "percent": "0.44"
     },
     {
@@ -498,7 +498,7 @@
     {
       "ticker": "63530QAJ8",
       "name": "National CineMedia LLC",
-      "percent": "0.41"
+      "percent": "0.40"
     },
     {
       "ticker": "87265HAG4",
@@ -538,7 +538,7 @@
     {
       "ticker": "14852LAA1",
       "name": "Castle US Holding Corp",
-      "percent": "0.33"
+      "percent": "0.32"
     },
     {
       "ticker": "644274AG7",

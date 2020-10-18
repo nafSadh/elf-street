@@ -1,7 +1,7 @@
 {
-  "name": "S&P SmallCap Consumer Staples ETF",
-  "ticker": "PSCC",
-  "Inception": "4/7/2010",
+  "Products": "S&P SmallCap Consumer Staples ETF",
+  "Ticker": "PSCC",
+  "Inception": "04/07/2010",
   "Gross Exp. Ratio": "0.29%",
   "YTD": "-6.97",
   "1Yr": "0.84",
@@ -11,7 +11,7 @@
   "Since Incept.": "12.05",
   "Category": "Bulk Beta",
   "SubCategory": "Small Cap Sectors",
-  "infer": "invesco",
+  "ticker": "PSCC",
   "issuer": "Invesco",
   "website": "https://www.invesco.com/us/financial-products/etfs/product-detail?audienceType=Investor&ticker=PSCC",
   "holdingDataSource": {
@@ -23,107 +23,107 @@
     {
       "ticker": "WDFC",
       "name": "WD-40 Co",
-      "percent": "10.28"
+      "percent": "10.39"
     },
     {
       "ticker": "JJSF",
       "name": "J & J Snack Foods Corp",
-      "percent": "7.52"
+      "percent": "7.51"
     },
     {
       "ticker": "MED",
       "name": "Medifast Inc",
-      "percent": "7.32"
+      "percent": "7.05"
     },
     {
       "ticker": "BGS",
       "name": "B&G Foods Inc",
-      "percent": "7.20"
+      "percent": "7.03"
     },
     {
       "ticker": "CENTA",
       "name": "Central Garden & Pet Co",
-      "percent": "5.77"
+      "percent": "5.74"
     },
     {
       "ticker": "CVGW",
       "name": "Calavo Growers Inc",
-      "percent": "4.75"
-    },
-    {
-      "ticker": "VGR",
-      "name": "Vector Group Ltd",
-      "percent": "4.54"
+      "percent": "4.81"
     },
     {
       "ticker": "UNFI",
       "name": "United Natural Foods Inc",
-      "percent": "4.49"
+      "percent": "4.61"
+    },
+    {
+      "ticker": "VGR",
+      "name": "Vector Group Ltd",
+      "percent": "4.53"
     },
     {
       "ticker": "PSMT",
       "name": "PriceSmart Inc",
-      "percent": "4.34"
-    },
-    {
-      "ticker": "UVV",
-      "name": "Universal Corp/VA",
-      "percent": "4.31"
+      "percent": "4.38"
     },
     {
       "ticker": "CALM",
       "name": "Cal-Maine Foods Inc",
-      "percent": "4.28"
+      "percent": "4.33"
+    },
+    {
+      "ticker": "UVV",
+      "name": "Universal Corp/VA",
+      "percent": "4.32"
     },
     {
       "ticker": "FIZZ",
       "name": "National Beverage Corp",
-      "percent": "4.14"
+      "percent": "4.18"
     },
     {
       "ticker": "COKE",
       "name": "Coca-Cola Consolidated Inc",
-      "percent": "4.11"
+      "percent": "4.14"
     },
     {
       "ticker": "USNA",
       "name": "USANA Health Sciences Inc",
-      "percent": "4.06"
+      "percent": "4.00"
     },
     {
       "ticker": "FDP",
       "name": "Fresh Del Monte Produce Inc",
-      "percent": "3.24"
+      "percent": "3.23"
     },
     {
       "ticker": "SPTN",
       "name": "SpartanNash Co",
-      "percent": "3.23"
+      "percent": "3.22"
     },
     {
       "ticker": "IPAR",
       "name": "Inter Parfums Inc",
-      "percent": "3.11"
+      "percent": "3.13"
     },
     {
       "ticker": "ANDE",
       "name": "Andersons Inc/The",
-      "percent": "2.99"
+      "percent": "3.07"
     },
     {
       "ticker": "JBSS",
       "name": "John B Sanfilippo & Son Inc",
-      "percent": "2.90"
+      "percent": "2.92"
     },
     {
       "ticker": "MGPI",
       "name": "MGP Ingredients Inc",
-      "percent": "2.29"
+      "percent": "2.31"
     },
     {
       "ticker": "CHEF",
       "name": "Chefs' Warehouse Inc/The",
-      "percent": "2.24"
+      "percent": "2.22"
     },
     {
       "ticker": "CENT",
@@ -139,11 +139,6 @@
       "ticker": "AGPXX",
       "name": "STIT - Government & Agency Portfolio",
       "percent": "0.08"
-    },
-    {
-      "ticker": "-CASH-",
-      "name": "Cash/Receivables/Payables",
-      "percent": "-0.00"
     }
   ]
 }

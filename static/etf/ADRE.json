@@ -1,6 +1,6 @@
 {
-  "name": "BLDRS Emerging Markets 50 ADR Index Fund",
-  "ticker": "ADRE",
+  "Products": "BLDRS Emerging Markets 50 ADR Index Fund",
+  "Ticker": "ADRE",
   "Inception": "11/13/2002",
   "Gross Exp. Ratio": "0.30%",
   "YTD": "6.29",
@@ -11,7 +11,7 @@
   "Since Incept.": "10.42",
   "Category": "Bulk Beta",
   "SubCategory": "International",
-  "infer": "invesco",
+  "ticker": "ADRE",
   "issuer": "Invesco",
   "website": "https://www.invesco.com/us/financial-products/etfs/product-detail?audienceType=Investor&ticker=ADRE",
   "holdingDataSource": {
@@ -21,254 +21,254 @@
   },
   "holdings": [
     {
-      "ticker": "TSM",
-      "name": "Taiwan Semiconductor Manufacturing Co Ltd ADR",
-      "percent": "20.900"
-    },
-    {
       "ticker": "BABA",
       "name": "Alibaba Group Holding Ltd ADR",
-      "percent": "20.639"
+      "percent": "21.097"
+    },
+    {
+      "ticker": "TSM",
+      "name": "Taiwan Semiconductor Manufacturing Co Ltd ADR",
+      "percent": "20.476"
     },
     {
       "ticker": "JD",
       "name": "JD.com Inc ADR",
-      "percent": "4.830"
+      "percent": "4.888"
     },
     {
       "ticker": "HDB",
       "name": "HDFC Bank Ltd ADR",
-      "percent": "4.705"
+      "percent": "4.738"
     },
     {
       "ticker": "INFY",
       "name": "Infosys Ltd ADR",
-      "percent": "3.837"
+      "percent": "3.885"
     },
     {
       "ticker": "VALE",
       "name": "Vale SA ADR",
-      "percent": "2.613"
+      "percent": "2.582"
     },
     {
       "ticker": "CHL",
       "name": "China Mobile Ltd ADR",
-      "percent": "2.433"
+      "percent": "2.420"
     },
     {
       "ticker": "BIDU",
       "name": "Baidu Inc ADR",
-      "percent": "2.413"
+      "percent": "2.409"
     },
     {
       "ticker": "NTES",
       "name": "NetEase Inc ADR",
-      "percent": "2.409"
+      "percent": "2.405"
     },
     {
       "ticker": "TAL",
       "name": "TAL Education Group ADR",
-      "percent": "2.175"
+      "percent": "2.158"
     },
     {
       "ticker": "NIO",
       "name": "NIO Inc ADR",
-      "percent": "2.039"
+      "percent": "2.061"
     },
     {
       "ticker": "PDD",
       "name": "Pinduoduo Inc ADR",
-      "percent": "1.904"
+      "percent": "1.924"
     },
     {
       "ticker": "IBN",
       "name": "ICICI Bank Ltd ADR",
-      "percent": "1.887"
+      "percent": "1.895"
     },
     {
       "ticker": "EDU",
       "name": "New Oriental Education & Technology Group Inc ADR",
-      "percent": "1.547"
+      "percent": "1.541"
     },
     {
       "ticker": "ITUB",
       "name": "Itau Unibanco Holding SA ADR",
-      "percent": "1.374"
+      "percent": "1.339"
     },
     {
       "ticker": "LFC",
       "name": "China Life Insurance Co Ltd ADR",
-      "percent": "1.178"
+      "percent": "1.212"
     },
     {
       "ticker": "BBD",
       "name": "Banco Bradesco SA ADR",
-      "percent": "1.104"
+      "percent": "1.081"
     },
     {
       "ticker": "PBR/A",
       "name": "Petroleo Brasileiro SA ADR",
-      "percent": "1.098"
+      "percent": "1.069"
     },
     {
       "ticker": "CEO",
       "name": "CNOOC Ltd ADR",
-      "percent": "1.038"
+      "percent": "1.022"
     },
     {
       "ticker": "AMX",
       "name": "America Movil SAB de CV ADR",
-      "percent": "1.027"
+      "percent": "1.020"
     },
     {
       "ticker": "PKX",
       "name": "POSCO ADR",
-      "percent": "0.972"
+      "percent": "0.966"
     },
     {
       "ticker": "CHT",
       "name": "Chunghwa Telecom Co Ltd ADR",
-      "percent": "0.951"
+      "percent": "0.949"
     },
     {
       "ticker": "TCOM",
       "name": "Trip.com Group Ltd ADR",
-      "percent": "0.926"
+      "percent": "0.928"
     },
     {
       "ticker": "KB",
       "name": "KB Financial Group Inc ADR",
-      "percent": "0.917"
+      "percent": "0.919"
     },
     {
       "ticker": "PBR",
       "name": "Petroleo Brasileiro SA ADR",
-      "percent": "0.889"
-    },
-    {
-      "ticker": "UMC",
-      "name": "United Microelectronics Corp ADR",
-      "percent": "0.839"
+      "percent": "0.867"
     },
     {
       "ticker": "BGNE",
       "name": "BeiGene Ltd ADR",
-      "percent": "0.803"
+      "percent": "0.833"
     },
     {
-      "ticker": "AU",
-      "name": "AngloGold Ashanti Ltd ADR",
-      "percent": "0.770"
-    },
-    {
-      "ticker": "GFI",
-      "name": "Gold Fields Ltd ADR",
-      "percent": "0.767"
+      "ticker": "UMC",
+      "name": "United Microelectronics Corp ADR",
+      "percent": "0.804"
     },
     {
       "ticker": "SHG",
       "name": "Shinhan Financial Group Co Ltd ADR",
-      "percent": "0.755"
+      "percent": "0.757"
+    },
+    {
+      "ticker": "AU",
+      "name": "AngloGold Ashanti Ltd ADR",
+      "percent": "0.754"
     },
     {
       "ticker": "ZTO",
       "name": "ZTO Express Cayman Inc ADR",
+      "percent": "0.747"
+    },
+    {
+      "ticker": "GFI",
+      "name": "Gold Fields Ltd ADR",
       "percent": "0.745"
     },
     {
       "ticker": "FMX",
       "name": "Fomento Economico Mexicano SAB de CV ADR",
-      "percent": "0.735"
+      "percent": "0.728"
     },
     {
       "ticker": "ABEV",
       "name": "Ambev SA ADR",
-      "percent": "0.727"
+      "percent": "0.703"
     },
     {
       "ticker": "SNP",
       "name": "China Petroleum & Chemical Corp ADR",
-      "percent": "0.678"
+      "percent": "0.673"
     },
     {
       "ticker": "TLK",
       "name": "Telekomunikasi Indonesia Persero Tbk PT ADR",
-      "percent": "0.614"
+      "percent": "0.609"
     },
     {
       "ticker": "RDY",
       "name": "Dr Reddy's Laboratories Ltd ADR",
-      "percent": "0.564"
+      "percent": "0.566"
     },
     {
       "ticker": "SKM",
       "name": "SK Telecom Co Ltd ADR",
-      "percent": "0.546"
-    },
-    {
-      "ticker": "WIT",
-      "name": "Wipro Ltd ADR",
-      "percent": "0.509"
+      "percent": "0.548"
     },
     {
       "ticker": "GDS",
       "name": "GDS Holdings Ltd ADR",
-      "percent": "0.508"
+      "percent": "0.513"
     },
     {
-      "ticker": "NTCO",
-      "name": "Natura & Co Holding SA ADR",
+      "ticker": "WIT",
+      "name": "Wipro Ltd ADR",
+      "percent": "0.505"
+    },
+    {
+      "ticker": "VIPS",
+      "name": "Vipshop Holdings Ltd ADR",
       "percent": "0.505"
     },
     {
       "ticker": "ASX",
       "name": "ASE Technology Holding Co Ltd ADR",
-      "percent": "0.489"
+      "percent": "0.487"
+    },
+    {
+      "ticker": "NTCO",
+      "name": "Natura & Co Holding SA ADR",
+      "percent": "0.486"
     },
     {
       "ticker": "SBSW",
       "name": "Sibanye Stillwater Ltd ADR",
-      "percent": "0.468"
+      "percent": "0.466"
     },
     {
-      "ticker": "VIPS",
-      "name": "Vipshop Holdings Ltd ADR",
-      "percent": "0.461"
-    },
-    {
-      "ticker": "IQ",
-      "name": "iQIYI Inc ADR",
+      "ticker": "SUZ",
+      "name": "Suzano SA ADR",
       "percent": "0.430"
     },
     {
       "ticker": "CX",
       "name": "Cemex SAB de CV ADR",
-      "percent": "0.426"
+      "percent": "0.422"
     },
     {
-      "ticker": "SUZ",
-      "name": "Suzano SA ADR",
-      "percent": "0.413"
+      "ticker": "IQ",
+      "name": "iQIYI Inc ADR",
+      "percent": "0.417"
     },
     {
       "ticker": "PTR",
       "name": "PetroChina Co Ltd ADR",
-      "percent": "0.410"
+      "percent": "0.406"
     },
     {
       "ticker": "TME",
       "name": "Tencent Music Entertainment Group ADR",
-      "percent": "0.405"
+      "percent": "0.402"
     },
     {
       "ticker": "ATHM",
       "name": "Autohome Inc ADR",
-      "percent": "0.381"
+      "percent": "0.389"
     },
     {
       "ticker": "ENIA",
       "name": "Enel Americas SA ADR",
-      "percent": "0.246"
+      "percent": "0.253"
     }
   ]
 }

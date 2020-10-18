@@ -1,0 +1,111 @@
+{
+  "org": {
+    "name": "ARK Invest",
+    "shortName": "ARK"
+  },
+  "source": {
+    "webpage": "https://ark-funds.com/",
+    "conversionMethod": "manual",
+    "description": [
+      "They have a few (=7) funds, just inserted here once.",
+      "If new one comes out, those needs to be manually inserted."
+    ]
+  },
+  "ETFs": [
+    {
+      "ticker": "ARKK",
+      "name": "ARK Innovation ETF",
+      "website": "https://ark-funds.com/arkk",
+      "exchange": "NYSE Arca",
+      "issuer": "ARK",
+      "holdingDataSource": {
+        "url": "https://ark-funds.com/wp-content/fundsiteliterature/csv/ARK_INNOVATION_ETF_ARKK_HOLDINGS.csv",
+        "fileExt": "csv",
+        "transform": "ark"
+      }
+    },
+    {
+      "ticker": "ARKQ",
+      "name": "ARK Autonomous Technology & Robotics ETF",
+      "issuer": "ARK",
+      "website": "https://ark-funds.com/arkq",
+      "holdingDataSource": {
+        "url": "https://ark-funds.com/wp-content/fundsiteliterature/csv/ARK_AUTONOMOUS_TECHNOLOGY_&_ROBOTICS_ETF_ARKQ_HOLDINGS.csv",
+        "fileExt": "csv",
+        "transform": "ark"
+      },
+      "Fund Type": "Active Equity ETF",
+      "CUSIP": "00214Q 203",
+      "Primary Exchange": "Cboe BZX Exchange",
+      "Net Assets": "$317 Million",
+      "Inception Date": "9/30/2014",
+      "Expense Ratio": "0.75%",
+      "Typical # of Holdings": "30-50",
+      "Indicative Value": "ARKQ.IV",
+      "Net Asset Value (NAV)": "ARKQ.NV",
+      "Weighted Avg Market CAP": "$135 Billion",
+      "Median Market CAP": "$24 Billion",
+      "Portfolio Managers": "Catherine D. Wood"
+    },
+    {
+      "ticker": "ARKW",
+      "name": "ARK Next Generation Internet ETF",
+      "website": "https://ark-funds.com/arkw",
+      "exchange": "NYSE Arca",
+      "issuer": "ARK",
+      "holdingDataSource": {
+        "url": "https://ark-funds.com/wp-content/fundsiteliterature/csv/ARK_NEXT_GENERATION_INTERNET_ETF_ARKW_HOLDINGS.csv",
+        "fileExt": "csv",
+        "transform": "ark"
+      }
+    },
+    {
+      "ticker": "ARKG",
+      "name": "ARK Genomic Revolution ETF",
+      "website": "https://ark-funds.com/arkg",
+      "exchange": "Cboe BZX Exchange",
+      "issuer": "ARK",
+      "holdingDataSource": {
+        "url": "https://ark-funds.com/wp-content/fundsiteliterature/csv/ARK_GENOMIC_REVOLUTION_MULTISECTOR_ETF_ARKG_HOLDINGS.csv",
+        "fileExt": "csv",
+        "transform": "ark"
+      }
+    },
+    {
+      "ticker": "ARKF",
+      "name": "ARK Fintech Innovation ETF",
+      "website": "https://ark-funds.com/fintech-etf",
+      "exchange": "NYSE Arca",
+      "issuer": "ARK",
+      "holdingDataSource": {
+        "url": "https://ark-funds.com/wp-content/fundsiteliterature/csv/ARK_FINTECH_INNOVATION_ETF_ARKF_HOLDINGS.csv",
+        "fileExt": "csv",
+        "transform": "ark"
+      }
+    },
+    {
+      "ticker": "PRNT",
+      "name": "The 3D Printing ETF",
+      "website": "https://ark-funds.com/3d-printing-etf",
+      "exchange": "Cboe Global Markets",
+      "issuer": "ARK",
+      "holdingDataSource": {
+        "url": "https://ark-funds.com/wp-content/fundsiteliterature/csv/THE_3D_PRINTING_ETF_PRNT_HOLDINGS.csv",
+        "fileExt": "csv",
+        "transform": "ark"
+      }
+    },
+    {
+      "ticker": "IZRL",
+      "name": "Israel Innovative Technology ETF",
+      "website": "https://ark-funds.com/israel-etf",
+      "exchange": "Cboe Global Markets",
+      "issuer": "ARK",
+      "holdingDataSource": {
+        "url": "https://ark-funds.com/wp-content/fundsiteliterature/csv/ARK_ISRAEL_INNOVATIVE_TECHNOLOGY_ETF_IZRL_HOLDINGS.csv",
+        "fileExt": "csv",
+        "transform": "ark"
+      }
+    }
+  ]
+}

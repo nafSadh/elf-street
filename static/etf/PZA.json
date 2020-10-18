@@ -1,6 +1,6 @@
 {
-  "name": "National AMT-Free Municipal Bond ETF",
-  "ticker": "PZA",
+  "Products": "National AMT-Free Municipal Bond ETF",
+  "Ticker": "PZA",
   "Inception": "10/11/2007",
   "Gross Exp. Ratio": "0.28%",
   "YTD": "2.73",
@@ -11,7 +11,7 @@
   "Since Incept.": "4.47",
   "Category": "Income",
   "SubCategory": "Tax Free",
-  "infer": "invesco",
+  "ticker": "PZA",
   "issuer": "Invesco",
   "website": "https://www.invesco.com/us/financial-products/etfs/product-detail?audienceType=Investor&ticker=PZA",
   "holdingDataSource": {
@@ -51,13 +51,13 @@
       "percent": "0.80"
     },
     {
-      "ticker": "575579J57",
-      "name": "Massachusetts Bay Transportation Authority",
+      "ticker": "45750TAC7",
+      "name": "Inland Valley Development Agency",
       "percent": "0.79"
     },
     {
-      "ticker": "45750TAC7",
-      "name": "Inland Valley Development Agency",
+      "ticker": "575579J57",
+      "name": "Massachusetts Bay Transportation Authority",
       "percent": "0.79"
     },
     {
@@ -296,13 +296,13 @@
       "percent": "0.44"
     },
     {
-      "ticker": "59261AYW1",
-      "name": "Metropolitan Transportation Authority",
+      "ticker": "64971XRZ3",
+      "name": "New York City Transitional Finance Authority Future Tax Secu",
       "percent": "0.41"
     },
     {
-      "ticker": "64971XRZ3",
-      "name": "New York City Transitional Finance Authority Future Tax Secu",
+      "ticker": "59261AYW1",
+      "name": "Metropolitan Transportation Authority",
       "percent": "0.41"
     },
     {
@@ -333,7 +333,7 @@
     {
       "ticker": "114731AT9",
       "name": "Broome County Local Development Corp",
-      "percent": "0.39"
+      "percent": "0.38"
     },
     {
       "ticker": "64990FNH3",
@@ -431,13 +431,13 @@
       "percent": "0.33"
     },
     {
-      "ticker": "167727YL4",
-      "name": "City of Chicago IL Wastewater Transmission Revenue",
+      "ticker": "64972GSX3",
+      "name": "New York City Water & Sewer System",
       "percent": "0.32"
     },
     {
-      "ticker": "64972GSX3",
-      "name": "New York City Water & Sewer System",
+      "ticker": "167727YL4",
+      "name": "City of Chicago IL Wastewater Transmission Revenue",
       "percent": "0.32"
     },
     {
@@ -556,13 +556,13 @@
       "percent": "0.27"
     },
     {
-      "ticker": "57604THF6",
-      "name": "Commonwealth of Massachusetts Transportation Fund Revenue",
+      "ticker": "64972GVJ0",
+      "name": "New York City Water & Sewer System",
       "percent": "0.26"
     },
     {
-      "ticker": "64972GVJ0",
-      "name": "New York City Water & Sewer System",
+      "ticker": "57604THF6",
+      "name": "Commonwealth of Massachusetts Transportation Fund Revenue",
       "percent": "0.26"
     },
     {
@@ -581,13 +581,13 @@
       "percent": "0.26"
     },
     {
-      "ticker": "590760QK3",
-      "name": "Mesquite Independent School District",
+      "ticker": "45528UZH7",
+      "name": "Indianapolis Local Public Improvement Bond Bank",
       "percent": "0.26"
     },
     {
-      "ticker": "45528UZH7",
-      "name": "Indianapolis Local Public Improvement Bond Bank",
+      "ticker": "590760QK3",
+      "name": "Mesquite Independent School District",
       "percent": "0.26"
     },
     {
@@ -606,13 +606,13 @@
       "percent": "0.26"
     },
     {
-      "ticker": "882854B84",
-      "name": "Texas Water Development Board",
+      "ticker": "93974DF94",
+      "name": "State of Washington",
       "percent": "0.26"
     },
     {
-      "ticker": "93974DF94",
-      "name": "State of Washington",
+      "ticker": "882854B84",
+      "name": "Texas Water Development Board",
       "percent": "0.26"
     },
     {
@@ -723,11 +723,16 @@
     {
       "ticker": "64966MHL6",
       "name": "City of New York NY",
-      "percent": "0.25"
+      "percent": "0.24"
     },
     {
       "ticker": "798136WT0",
       "name": "Norman Y Mineta San Jose International Airport SJC",
+      "percent": "0.24"
+    },
+    {
+      "ticker": "44420RBE9",
+      "name": "Hudson Yards Infrastructure Corp",
       "percent": "0.24"
     },
     {
@@ -738,11 +743,6 @@
     {
       "ticker": "650010CC3",
       "name": "New York State Thruway Authority",
-      "percent": "0.24"
-    },
-    {
-      "ticker": "44420RBE9",
-      "name": "Hudson Yards Infrastructure Corp",
       "percent": "0.24"
     },
     {
@@ -1056,17 +1056,17 @@
       "percent": "0.17"
     },
     {
-      "ticker": "64990GYA4",
-      "name": "New York State Dormitory Authority",
-      "percent": "0.17"
-    },
-    {
       "ticker": "13063CNS5",
       "name": "State of California",
       "percent": "0.17"
     },
     {
       "ticker": "6499025Z2",
+      "name": "New York State Dormitory Authority",
+      "percent": "0.17"
+    },
+    {
+      "ticker": "64990GYA4",
       "name": "New York State Dormitory Authority",
       "percent": "0.17"
     },
@@ -1136,13 +1136,13 @@
       "percent": "0.16"
     },
     {
-      "ticker": "114731AU6",
-      "name": "Broome County Local Development Corp",
+      "ticker": "20772KJD2",
+      "name": "State of Connecticut",
       "percent": "0.16"
     },
     {
-      "ticker": "20772KJD2",
-      "name": "State of Connecticut",
+      "ticker": "114731AU6",
+      "name": "Broome County Local Development Corp",
       "percent": "0.16"
     },
     {
@@ -1461,6 +1461,11 @@
       "percent": "0.12"
     },
     {
+      "ticker": "59261AE29",
+      "name": "Metropolitan Transportation Authority",
+      "percent": "0.12"
+    },
+    {
       "ticker": "64990BFL2",
       "name": "New York State Dormitory Authority",
       "percent": "0.12"
@@ -1473,11 +1478,6 @@
     {
       "ticker": "91882RGS5",
       "name": "Val Verde Unified School District",
-      "percent": "0.12"
-    },
-    {
-      "ticker": "59261AE29",
-      "name": "Metropolitan Transportation Authority",
       "percent": "0.12"
     },
     {
@@ -1933,7 +1933,7 @@
     {
       "ticker": "89602N7S7",
       "name": "Triborough Bridge & Tunnel Authority",
-      "percent": "0.07"
+      "percent": "0.08"
     },
     {
       "ticker": "53945CDH0",
@@ -2376,6 +2376,11 @@
       "percent": "0.04"
     },
     {
+      "ticker": "6460666L9",
+      "name": "New Jersey Educational Facilities Authority",
+      "percent": "0.04"
+    },
+    {
       "ticker": "57583UVL9",
       "name": "Massachusetts Development Finance Agency",
       "percent": "0.04"
@@ -2393,11 +2398,6 @@
     {
       "ticker": "64542PAW5",
       "name": "New Hope Cultural Education Facilities Finance Corp",
-      "percent": "0.04"
-    },
-    {
-      "ticker": "6460666L9",
-      "name": "New Jersey Educational Facilities Authority",
       "percent": "0.04"
     },
     {

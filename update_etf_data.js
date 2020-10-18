@@ -73,6 +73,7 @@ const conversion = {
   wisdomtree: function (etf) {
     etf.ticker = etf.bloombergTicker
     _.merge(etf, {
+      issuer: 'WisdomTree',
       holdingDataSource: {
         file: './data/stored/' + etf.ticker + '.csv',
         fileExt: 'csv',
@@ -210,18 +211,15 @@ function writeJsonToFile(json, filepath) {
 
 function updateEtfData(updateExisting) {
   const ETFs = []
-  for (const source of ['ark', 'invesco', 'spdr', 'wisdomtree']) {
-    const sourceJson = require('./data/' + source + '.json')
+  for (const issuer of ['ark', 'invesco', 'spdr', 'wisdomtree']) {
+    const sourceJson = require('./data/' + issuer + '.json')
     for (const etf of sourceJson.ETFs) {
-      ETFs.push(conversion[source](etf, sourceJson))
+      ETFs.push(conversion[issuer](etf, sourceJson))
     }
   }
   writeJsonToFile({ ETFs: ETFs }, './static/etfs.json')
   for (const etf of ETFs) {
     if (!etf) continue
-    if (etf.infer) {
-      _.merge(etf, conversion[etf.infer](etf))
-    }
     if (etf.holdingDataSource) {
       const filepath =
         './data/download/' + etf.ticker + '.' + etf.holdingDataSource.fileExt

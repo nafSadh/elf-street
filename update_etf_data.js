@@ -7,22 +7,6 @@ const Papa = require('./node_modules/papaparse')
 const XLSX = require('xlsx')
 const _ = require('lodash')
 
-// const etfList = { ETFs: [] }
-// const etfMetadata = require('./static/etfs.json')
-
-// const spdr = require('./data/spdr.json')
-
-// console.log(spdr.ETFs.length)
-
-const wisdomTree = (function () {
-  const json = require('./data/wisdomtree.json')
-  json.etf = {}
-  for (let entry of json.ETFs) {
-    json.etf[entry.bloombergTicker] = entry
-  }
-  return json
-})()
-
 const conversion = {
   ark: function (etf) {
     return etf

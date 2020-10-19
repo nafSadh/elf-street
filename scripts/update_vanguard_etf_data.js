@@ -8,6 +8,7 @@ const XLSX = require('xlsx')
 const _ = require('lodash')
 
 function sleep(ms) {
+  // https://www.sitepoint.com/delay-sleep-pause-wait/
   return new Promise((resolve) => setTimeout(resolve, ms))
 }
 

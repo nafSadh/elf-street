@@ -28,11 +28,7 @@
           />
         </v-toolbar>
       </v-container>
-      <p>params: {{ $route.params }}</p>
-      <p>query: {{ $route.query }}</p>
-      <p>hash: {{ $route.hash }}</p>
     </v-main>
-
     <v-footer app>
       <!-- -->
     </v-footer>

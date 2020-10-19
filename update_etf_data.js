@@ -55,6 +55,7 @@ const conversion = {
   },
   vanguard: function (obj) {
     const etf = obj.profile
+    etf.name = etf.longName
     etf.fundFact = undefined
     etf.associatedFundIds = undefined
     etf.fundCategory = etf.fundCategory.customizedHighCategoryName
@@ -144,7 +145,7 @@ const transforms = {
   },
   vanguard: function (data) {
     const holdings = []
-    for (const obj of data) {
+    for (const obj of JSON.parse(data)) {
       holdings.push({
         ticker: obj.asset,
         percent: obj.weightPercentage,
@@ -252,4 +253,4 @@ function updateEtfData(skipExisting) {
   }
 }
 
-updateEtfData(true)
+updateEtfData(false)

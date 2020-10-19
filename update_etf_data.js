@@ -193,7 +193,7 @@ function writeJsonToFile(json, filepath) {
   })
 }
 
-function updateEtfData(updateExisting) {
+function updateEtfData(skipExisting) {
   const ETFs = []
   for (const issuer of ['ark', 'invesco', 'spdr', 'wisdomtree']) {
     const sourceJson = require('./data/' + issuer + '.json')
@@ -201,14 +201,14 @@ function updateEtfData(updateExisting) {
       ETFs.push(conversion[issuer](etf, sourceJson))
     }
   }
-  writeJsonToFile({ ETFs: ETFs }, './static/etfs.json')
+  writeJsonToFile({ ETFs }, './static/etfs.json')
   for (const etf of ETFs) {
     if (!etf) continue
     if (etf.holdingDataSource) {
       const filepath =
         './data/download/' + etf.ticker + '.' + etf.holdingDataSource.fileExt
       const jsonpath = './static/etf/' + etf.ticker + '.json'
-      if (!updateExisting && fs.existsSync(jsonpath)) {
+      if (skipExisting && fs.existsSync(jsonpath)) {
         continue
       } else if (etf.holdings) {
         fs.writeFileSync(jsonpath, JSON.stringify(etf, null, 2))
@@ -231,4 +231,4 @@ function updateEtfData(updateExisting) {
   }
 }
 
-updateEtfData(false)
+updateEtfData(true)

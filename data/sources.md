@@ -9,4 +9,6 @@
 ## APIs
 
 - https://finnhub.io/ free for misc data
-- https://financialmodelingprep.com/developer/docs/#ETF-Holders
+- https://financialmodelingprep.com/developer/docs/#ETF-Holders free limited
+- https://docs.intrinio.com/documentation/web_api/get_etf_holdings_v2 free doesn't offer holdings
+- https://www.cloudquote.io/products/api/barchart-getETFDetails uncertain how to get it

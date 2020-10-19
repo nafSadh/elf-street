@@ -27,6 +27,8 @@
         <v-toolbar outlined tile>
           <v-toolbar-title>ETF</v-toolbar-title>
           <v-autocomplete
+            :placeholder="etf.name ? etf.ticker + ' - ' + etf.name : 'select one'"
+            hint="select one"
             filled
             dense
             hide-details
@@ -76,6 +78,10 @@
 <script>
 import _ from 'lodash'
 const stickyHeaderStyle = 'sticky-header blue-grey darken-4'
+const etfNotSelected = {
+  ticker: '{select one}',
+  holdings: [],
+}
 
 export default {
   mounted() {
@@ -83,7 +89,7 @@ export default {
   },
   data: () => ({
     menuVisible: false,
-    toEtf: null,
+    toEtf: undefined,
     holdingsHeaders: [
       {
         text: 'Ticker',
@@ -98,11 +104,6 @@ export default {
     etfId() {
       return this.query['']
     },
-    etfR() {
-      // const etfJson = require('~/static/etf/' + this.etfId + '.json')
-      // return etfJson
-      return {}
-    },
     overviewProps() {
       return _.without(_.keys(this.etf), 'ticker', 'website', 'issuer', 'holdings', 'holdingDataSource')
     },
@@ -112,7 +113,7 @@ export default {
     },
   },
   async asyncData({ $axios, route, env, query }) {
-    const etf = await $axios.$get('etf/' + query[''] + '.json').then((res) => res)
+    const etf = query[''] ? await $axios.$get('etf/' + query[''] + '.json').then((res) => res) : etfNotSelected
     return { etf }
   },
   methods: {

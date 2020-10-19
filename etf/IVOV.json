@@ -1,0 +1,1226 @@
+{
+  "fundId": "3344",
+  "ticker": "IVOV",
+  "instrumentId": 6018240,
+  "shortName": "S&P Mid-Cap 400 Value ETF",
+  "longName": "Vanguard S&P Mid-Cap 400 Value ETF",
+  "cusip": "921932844",
+  "IOVTicker": "IVOV.IV",
+  "inceptionDate": "2010-09-07T00:00:00-04:00",
+  "newspaperAbbreviation": "VangdMC400VlETF     ",
+  "style": "Stock Funds",
+  "type": "Domestic Stock - More Aggressive",
+  "category": "Mid Value",
+  "customizedStyle": "Stock - Mid-Cap Value",
+  "equityInvestmentStyleId": "4",
+  "equityInvestmentStyleName": "Mid-cap value",
+  "secDesignation": "",
+  "maximumYearlyInvestment": "",
+  "expenseRatio": "0.1500",
+  "expenseRatioAsOfDate": "2019-12-20T00:00:00-05:00",
+  "isInternalFund": true,
+  "isExternalFund": false,
+  "isMutualFund": false,
+  "isETF": true,
+  "isVLIP": false,
+  "isVVAP": false,
+  "is529": false,
+  "hasAssociatedInvestorFund": false,
+  "hasMoreThan1ShareClass": true,
+  "isPESite": false,
+  "fundCategory": "Stock - Mid-Cap Value",
+  "signalFundFlag": false,
+  "name": "Vanguard S&P Mid-Cap 400 Value ETF",
+  "website": "https://investor.vanguard.com/etf/profile/overview/IVOV",
+  "holdingDataSource": {
+    "file": "./data/stored/vanguard/IVOV.json",
+    "fileExt": "json",
+    "transform": "vanguard"
+  },
+  "holdings": [
+    {
+      "ticker": "MPW",
+      "percent": 1.41
+    },
+    {
+      "ticker": null,
+      "percent": 1
+    },
+    {
+      "ticker": "XPO",
+      "percent": 1
+    },
+    {
+      "ticker": "UGI",
+      "percent": 0.94
+    },
+    {
+      "ticker": "CREE",
+      "percent": 0.91
+    },
+    {
+      "ticker": "OGE",
+      "percent": 0.86
+    },
+    {
+      "ticker": "ACM",
+      "percent": 0.85
+    },
+    {
+      "ticker": "LEA",
+      "percent": 0.84
+    },
+    {
+      "ticker": "THO",
+      "percent": 0.83
+    },
+    {
+      "ticker": "SBNY",
+      "percent": 0.81
+    },
+    {
+      "ticker": "INGR",
+      "percent": 0.79
+    },
+    {
+      "ticker": "PB",
+      "percent": 0.78
+    },
+    {
+      "ticker": "ARW",
+      "percent": 0.77
+    },
+    {
+      "ticker": "FAF",
+      "percent": 0.76
+    },
+    {
+      "ticker": "UTHR",
+      "percent": 0.76
+    },
+    {
+      "ticker": "RGA",
+      "percent": 0.75
+    },
+    {
+      "ticker": "SON",
+      "percent": 0.74
+    },
+    {
+      "ticker": "EWBC",
+      "percent": 0.73
+    },
+    {
+      "ticker": "SNX",
+      "percent": 0.7
+    },
+    {
+      "ticker": "AFG",
+      "percent": 0.67
+    },
+    {
+      "ticker": "ORI",
+      "percent": 0.66
+    },
+    {
+      "ticker": "MOH",
+      "percent": 0.66
+    },
+    {
+      "ticker": "BJ",
+      "percent": 0.65
+    },
+    {
+      "ticker": "TCF",
+      "percent": 0.63
+    },
+    {
+      "ticker": "KMPR",
+      "percent": 0.63
+    },
+    {
+      "ticker": "FLO",
+      "percent": 0.61
+    },
+    {
+      "ticker": "LOPE",
+      "percent": 0.61
+    },
+    {
+      "ticker": "CFR",
+      "percent": 0.6
+    },
+    {
+      "ticker": "WTRG",
+      "percent": 0.6
+    },
+    {
+      "ticker": "ASH",
+      "percent": 0.59
+    },
+    {
+      "ticker": "LM",
+      "percent": 0.59
+    },
+    {
+      "ticker": "IIVI",
+      "percent": 0.59
+    },
+    {
+      "ticker": "DAR",
+      "percent": 0.57
+    },
+    {
+      "ticker": "HELE",
+      "percent": 0.28
+    },
+    {
+      "ticker": "MMS",
+      "percent": 0.28
+    },
+    {
+      "ticker": "TDS",
+      "percent": 0.28
+    },
+    {
+      "ticker": "HIW",
+      "percent": 0.27
+    },
+    {
+      "ticker": "TRIP",
+      "percent": 0.27
+    },
+    {
+      "ticker": "TPH",
+      "percent": 0.27
+    },
+    {
+      "ticker": "ADS",
+      "percent": 0.27
+    },
+    {
+      "ticker": "PDCO",
+      "percent": 0.27
+    },
+    {
+      "ticker": "THC",
+      "percent": 0.27
+    },
+    {
+      "ticker": "BKH",
+      "percent": 0.27
+    },
+    {
+      "ticker": "TOL",
+      "percent": 0.27
+    },
+    {
+      "ticker": "PBH",
+      "percent": 0.27
+    },
+    {
+      "ticker": "DEI",
+      "percent": 0.27
+    },
+    {
+      "ticker": "MIDD",
+      "percent": 0.26
+    },
+    {
+      "ticker": "HWC",
+      "percent": 0.26
+    },
+    {
+      "ticker": "HCSG",
+      "percent": 0.26
+    },
+    {
+      "ticker": "OLN",
+      "percent": 0.26
+    },
+    {
+      "ticker": "CHX",
+      "percent": 0.26
+    },
+    {
+      "ticker": "DOC",
+      "percent": 0.26
+    },
+    {
+      "ticker": "PEB",
+      "percent": 0.25
+    },
+    {
+      "ticker": "IBOC",
+      "percent": 0.25
+    },
+    {
+      "ticker": "KAR",
+      "percent": 0.25
+    },
+    {
+      "ticker": "DAN",
+      "percent": 0.25
+    },
+    {
+      "ticker": "IDCC",
+      "percent": 0.25
+    },
+    {
+      "ticker": "LSI",
+      "percent": 0.25
+    },
+    {
+      "ticker": "FULT",
+      "percent": 0.24
+    },
+    {
+      "ticker": "JW.A",
+      "percent": 0.24
+    },
+    {
+      "ticker": "AEO",
+      "percent": 0.24
+    },
+    {
+      "ticker": "FLR",
+      "percent": 0.24
+    },
+    {
+      "ticker": "EPC",
+      "percent": 0.24
+    },
+    {
+      "ticker": "JWN",
+      "percent": 0.24
+    },
+    {
+      "ticker": "TXRH",
+      "percent": 0.24
+    },
+    {
+      "ticker": "ITT",
+      "percent": 0.24
+    },
+    {
+      "ticker": "BRX",
+      "percent": 0.24
+    },
+    {
+      "ticker": "SMTC",
+      "percent": 0.24
+    },
+    {
+      "ticker": "RAMP",
+      "percent": 0.24
+    },
+    {
+      "ticker": "FR",
+      "percent": 0.24
+    },
+    {
+      "ticker": "SF",
+      "percent": 0.23
+    },
+    {
+      "ticker": "VVV",
+      "percent": 0.23
+    },
+    {
+      "ticker": "INT",
+      "percent": 0.23
+    },
+    {
+      "ticker": "WEN",
+      "percent": 0.23
+    },
+    {
+      "ticker": "HAE",
+      "percent": 0.23
+    },
+    {
+      "ticker": "NTCT",
+      "percent": 0.23
+    },
+    {
+      "ticker": "AGCO",
+      "percent": 0.23
+    },
+    {
+      "ticker": "CNX",
+      "percent": 0.23
+    },
+    {
+      "ticker": "ATGE",
+      "percent": 0.23
+    },
+    {
+      "ticker": "STRA",
+      "percent": 0.23
+    },
+    {
+      "ticker": "MTX",
+      "percent": 0.23
+    },
+    {
+      "ticker": "X",
+      "percent": 0.23
+    },
+    {
+      "ticker": "LANC",
+      "percent": 0.22
+    },
+    {
+      "ticker": "TCBI",
+      "percent": 0.22
+    },
+    {
+      "ticker": "TRMK",
+      "percent": 0.22
+    },
+    {
+      "ticker": "KEX",
+      "percent": 0.22
+    },
+    {
+      "ticker": "OFC",
+      "percent": 0.22
+    },
+    {
+      "ticker": "LFUS",
+      "percent": 0.22
+    },
+    {
+      "ticker": "PNM",
+      "percent": 0.22
+    },
+    {
+      "ticker": "LOGM",
+      "percent": 0.21
+    },
+    {
+      "ticker": "FFIN",
+      "percent": 0.21
+    },
+    {
+      "ticker": "MSA",
+      "percent": 0.21
+    },
+    {
+      "ticker": "GHC",
+      "percent": 0.21
+    },
+    {
+      "ticker": "KBH",
+      "percent": 0.2
+    },
+    {
+      "ticker": "EPR",
+      "percent": 0.2
+    },
+    {
+      "ticker": "GEO",
+      "percent": 0.2
+    },
+    {
+      "ticker": "AM",
+      "percent": 0.2
+    },
+    {
+      "ticker": "ADNT",
+      "percent": 0.2
+    },
+    {
+      "ticker": "SBH",
+      "percent": 0.2
+    },
+    {
+      "ticker": "OI",
+      "percent": 0.2
+    },
+    {
+      "ticker": "AVNS",
+      "percent": 0.2
+    },
+    {
+      "ticker": "CLI",
+      "percent": 0.2
+    },
+    {
+      "ticker": "LSTR",
+      "percent": 0.2
+    },
+    {
+      "ticker": "TDC",
+      "percent": 0.2
+    },
+    {
+      "ticker": "PCH",
+      "percent": 0.19
+    },
+    {
+      "ticker": "WOR",
+      "percent": 0.19
+    },
+    {
+      "ticker": "WYND",
+      "percent": 0.19
+    },
+    {
+      "ticker": "ASGN",
+      "percent": 0.19
+    },
+    {
+      "ticker": "WERN",
+      "percent": 0.19
+    },
+    {
+      "ticker": "TCO",
+      "percent": 0.19
+    },
+    {
+      "ticker": "AAN",
+      "percent": 0.19
+    },
+    {
+      "ticker": "SLM",
+      "percent": 0.19
+    },
+    {
+      "ticker": "VMI",
+      "percent": 0.19
+    },
+    {
+      "ticker": "HNI",
+      "percent": 0.18
+    },
+    {
+      "ticker": "CRI",
+      "percent": 0.18
+    },
+    {
+      "ticker": "DY",
+      "percent": 0.18
+    },
+    {
+      "ticker": "XEC",
+      "percent": 0.18
+    },
+    {
+      "ticker": "CFX",
+      "percent": 0.18
+    },
+    {
+      "ticker": "GBCI",
+      "percent": 0.18
+    },
+    {
+      "ticker": "WRI",
+      "percent": 0.18
+    },
+    {
+      "ticker": "EV",
+      "percent": 0.18
+    },
+    {
+      "ticker": "NCR",
+      "percent": 0.18
+    },
+    {
+      "ticker": "BDC",
+      "percent": 0.18
+    },
+    {
+      "ticker": "CNK",
+      "percent": 0.18
+    },
+    {
+      "ticker": "DLPH",
+      "percent": 0.17
+    },
+    {
+      "ticker": "CAR",
+      "percent": 0.17
+    },
+    {
+      "ticker": "RLI",
+      "percent": 0.17
+    },
+    {
+      "ticker": "NAVI",
+      "percent": 0.17
+    },
+    {
+      "ticker": "TEX",
+      "percent": 0.17
+    },
+    {
+      "ticker": "SVC",
+      "percent": 0.17
+    },
+    {
+      "ticker": "STOR",
+      "percent": 0.17
+    },
+    {
+      "ticker": "UFS",
+      "percent": 0.17
+    },
+    {
+      "ticker": "GNW",
+      "percent": 0.16
+    },
+    {
+      "ticker": "SABR",
+      "percent": 0.16
+    },
+    {
+      "ticker": "CBT",
+      "percent": 0.16
+    },
+    {
+      "ticker": "LIVN",
+      "percent": 0.16
+    },
+    {
+      "ticker": "CXW",
+      "percent": 0.16
+    },
+    {
+      "ticker": "MUR",
+      "percent": 0.16
+    },
+    {
+      "ticker": "MCY",
+      "percent": 0.16
+    },
+    {
+      "ticker": "VSAT",
+      "percent": 0.16
+    },
+    {
+      "ticker": "ENPH",
+      "percent": 0.15
+    },
+    {
+      "ticker": "CIT",
+      "percent": 0.15
+    },
+    {
+      "ticker": "URBN",
+      "percent": 0.15
+    },
+    {
+      "ticker": "RIG",
+      "percent": 0.15
+    },
+    {
+      "ticker": "PBF",
+      "percent": 0.15
+    },
+    {
+      "ticker": "MAC",
+      "percent": 0.15
+    },
+    {
+      "ticker": "NSP",
+      "percent": 0.15
+    },
+    {
+      "ticker": "BOH",
+      "percent": 0.15
+    },
+    {
+      "ticker": "NEU",
+      "percent": 0.14
+    },
+    {
+      "ticker": "SLGN",
+      "percent": 0.14
+    },
+    {
+      "ticker": "CW",
+      "percent": 0.14
+    },
+    {
+      "ticker": "NUVA",
+      "percent": 0.14
+    },
+    {
+      "ticker": "GO",
+      "percent": 0.14
+    },
+    {
+      "ticker": "FCFS",
+      "percent": 0.14
+    },
+    {
+      "ticker": "AMCX",
+      "percent": 0.13
+    },
+    {
+      "ticker": "GEF",
+      "percent": 0.13
+    },
+    {
+      "ticker": "MD",
+      "percent": 0.13
+    },
+    {
+      "ticker": "COLM",
+      "percent": 0.12
+    },
+    {
+      "ticker": "WWE",
+      "percent": 0.12
+    },
+    {
+      "ticker": "JACK",
+      "percent": 0.12
+    },
+    {
+      "ticker": "CVLT",
+      "percent": 0.12
+    },
+    {
+      "ticker": "LPX",
+      "percent": 0.11
+    },
+    {
+      "ticker": "SYNA",
+      "percent": 0.11
+    },
+    {
+      "ticker": "SIX",
+      "percent": 0.11
+    },
+    {
+      "ticker": "CPT",
+      "percent": 0.57
+    },
+    {
+      "ticker": "MAN",
+      "percent": 0.57
+    },
+    {
+      "ticker": "PENN",
+      "percent": 0.56
+    },
+    {
+      "ticker": "RPM",
+      "percent": 0.55
+    },
+    {
+      "ticker": "PTC",
+      "percent": 0.55
+    },
+    {
+      "ticker": "THG",
+      "percent": 0.55
+    },
+    {
+      "ticker": "SWX",
+      "percent": 0.54
+    },
+    {
+      "ticker": "AYI",
+      "percent": 0.54
+    },
+    {
+      "ticker": "NFG",
+      "percent": 0.54
+    },
+    {
+      "ticker": "FSLR",
+      "percent": 0.54
+    },
+    {
+      "ticker": "OHI",
+      "percent": 0.53
+    },
+    {
+      "ticker": "HOG",
+      "percent": 0.52
+    },
+    {
+      "ticker": "RBC",
+      "percent": 0.5
+    },
+    {
+      "ticker": "AMG",
+      "percent": 0.5
+    },
+    {
+      "ticker": "UBSI",
+      "percent": 0.5
+    },
+    {
+      "ticker": "JEF",
+      "percent": 0.5
+    },
+    {
+      "ticker": "Y",
+      "percent": 0.5
+    },
+    {
+      "ticker": "JBGS",
+      "percent": 0.49
+    },
+    {
+      "ticker": "SCI",
+      "percent": 0.48
+    },
+    {
+      "ticker": "ETRN",
+      "percent": 0.48
+    },
+    {
+      "ticker": "SR",
+      "percent": 0.48
+    },
+    {
+      "ticker": "MAT",
+      "percent": 0.48
+    },
+    {
+      "ticker": "MSM",
+      "percent": 0.47
+    },
+    {
+      "ticker": "HRC",
+      "percent": 0.47
+    },
+    {
+      "ticker": "EHC",
+      "percent": 0.46
+    },
+    {
+      "ticker": "JHG",
+      "percent": 0.46
+    },
+    {
+      "ticker": "CDAY",
+      "percent": 0.46
+    },
+    {
+      "ticker": "IBKR",
+      "percent": 0.45
+    },
+    {
+      "ticker": "CIEN",
+      "percent": 0.45
+    },
+    {
+      "ticker": "SIGI",
+      "percent": 0.45
+    },
+    {
+      "ticker": "NJR",
+      "percent": 0.44
+    },
+    {
+      "ticker": "FHN",
+      "percent": 0.44
+    },
+    {
+      "ticker": "VLY",
+      "percent": 0.43
+    },
+    {
+      "ticker": "EQT",
+      "percent": 0.43
+    },
+    {
+      "ticker": "FL",
+      "percent": 0.43
+    },
+    {
+      "ticker": "POST",
+      "percent": 0.43
+    },
+    {
+      "ticker": "SNV",
+      "percent": 0.43
+    },
+    {
+      "ticker": "SFM",
+      "percent": 0.43
+    },
+    {
+      "ticker": "PNFP",
+      "percent": 0.42
+    },
+    {
+      "ticker": "SBRA",
+      "percent": 0.42
+    },
+    {
+      "ticker": "JBLU",
+      "percent": 0.42
+    },
+    {
+      "ticker": "CLGX",
+      "percent": 0.42
+    },
+    {
+      "ticker": "CONE",
+      "percent": 0.42
+    },
+    {
+      "ticker": "CR",
+      "percent": 0.42
+    },
+    {
+      "ticker": "NVT",
+      "percent": 0.42
+    },
+    {
+      "ticker": "ATR",
+      "percent": 0.41
+    },
+    {
+      "ticker": "SRCL",
+      "percent": 0.41
+    },
+    {
+      "ticker": "WSO",
+      "percent": 0.4
+    },
+    {
+      "ticker": "GRUB",
+      "percent": 0.4
+    },
+    {
+      "ticker": "OZK",
+      "percent": 0.4
+    },
+    {
+      "ticker": "ALE",
+      "percent": 0.4
+    },
+    {
+      "ticker": "OC",
+      "percent": 0.4
+    },
+    {
+      "ticker": "NKTR",
+      "percent": 0.4
+    },
+    {
+      "ticker": "STLD",
+      "percent": 0.4
+    },
+    {
+      "ticker": "JLL",
+      "percent": 0.39
+    },
+    {
+      "ticker": "LII",
+      "percent": 0.39
+    },
+    {
+      "ticker": "AVT",
+      "percent": 0.39
+    },
+    {
+      "ticker": "NWE",
+      "percent": 0.39
+    },
+    {
+      "ticker": "NNN",
+      "percent": 0.39
+    },
+    {
+      "ticker": "ENS",
+      "percent": 0.39
+    },
+    {
+      "ticker": "DKS",
+      "percent": 0.38
+    },
+    {
+      "ticker": "CBSH",
+      "percent": 0.38
+    },
+    {
+      "ticker": "CBRL",
+      "percent": 0.37
+    },
+    {
+      "ticker": "BHF",
+      "percent": 0.37
+    },
+    {
+      "ticker": "BC",
+      "percent": 0.37
+    },
+    {
+      "ticker": "WBS",
+      "percent": 0.37
+    },
+    {
+      "ticker": "MDU",
+      "percent": 0.37
+    },
+    {
+      "ticker": "CC",
+      "percent": 0.36
+    },
+    {
+      "ticker": "WTFC",
+      "percent": 0.36
+    },
+    {
+      "ticker": "ACC",
+      "percent": 0.35
+    },
+    {
+      "ticker": "TMHC",
+      "percent": 0.35
+    },
+    {
+      "ticker": "KRC",
+      "percent": 0.35
+    },
+    {
+      "ticker": "HAIN",
+      "percent": 0.35
+    },
+    {
+      "ticker": "THS",
+      "percent": 0.35
+    },
+    {
+      "ticker": "HPP",
+      "percent": 0.35
+    },
+    {
+      "ticker": "TGNA",
+      "percent": 0.35
+    },
+    {
+      "ticker": "OLLI",
+      "percent": 0.34
+    },
+    {
+      "ticker": "CMC",
+      "percent": 0.34
+    },
+    {
+      "ticker": "IDA",
+      "percent": 0.34
+    },
+    {
+      "ticker": "FNB",
+      "percent": 0.34
+    },
+    {
+      "ticker": "NATI",
+      "percent": 0.34
+    },
+    {
+      "ticker": "POL",
+      "percent": 0.34
+    },
+    {
+      "ticker": "KMT",
+      "percent": 0.34
+    },
+    {
+      "ticker": "NYCB",
+      "percent": 0.34
+    },
+    {
+      "ticker": "HOMB",
+      "percent": 0.33
+    },
+    {
+      "ticker": "UMPQ",
+      "percent": 0.33
+    },
+    {
+      "ticker": "UNVR",
+      "percent": 0.33
+    },
+    {
+      "ticker": "PK",
+      "percent": 0.33
+    },
+    {
+      "ticker": "PACW",
+      "percent": 0.33
+    },
+    {
+      "ticker": "STL",
+      "percent": 0.32
+    },
+    {
+      "ticker": "LAMR",
+      "percent": 0.32
+    },
+    {
+      "ticker": "CNO",
+      "percent": 0.32
+    },
+    {
+      "ticker": "ACHC",
+      "percent": 0.32
+    },
+    {
+      "ticker": "BXS",
+      "percent": 0.31
+    },
+    {
+      "ticker": "SXT",
+      "percent": 0.31
+    },
+    {
+      "ticker": "UMBF",
+      "percent": 0.31
+    },
+    {
+      "ticker": "AN",
+      "percent": 0.31
+    },
+    {
+      "ticker": "HR",
+      "percent": 0.3
+    },
+    {
+      "ticker": "GATX",
+      "percent": 0.3
+    },
+    {
+      "ticker": "DCI",
+      "percent": 0.3
+    },
+    {
+      "ticker": "SAIC",
+      "percent": 0.3
+    },
+    {
+      "ticker": "ASB",
+      "percent": 0.3
+    },
+    {
+      "ticker": "SRC",
+      "percent": 0.3
+    },
+    {
+      "ticker": "GT",
+      "percent": 0.3
+    },
+    {
+      "ticker": "NYT",
+      "percent": 0.29
+    },
+    {
+      "ticker": "HE",
+      "percent": 0.29
+    },
+    {
+      "ticker": "OGS",
+      "percent": 0.29
+    },
+    {
+      "ticker": "VSH",
+      "percent": 0.29
+    },
+    {
+      "ticker": "R",
+      "percent": 0.29
+    },
+    {
+      "ticker": "TRN",
+      "percent": 0.28
+    },
+    {
+      "ticker": "OSK",
+      "percent": 0.28
+    },
+    {
+      "ticker": "RYN",
+      "percent": 0.28
+    },
+    {
+      "ticker": "CATY",
+      "percent": 0.28
+    },
+    {
+      "ticker": "NUS",
+      "percent": 0.28
+    },
+    {
+      "ticker": "WSM",
+      "percent": 0.28
+    },
+    {
+      "ticker": "CDK",
+      "percent": 0.28
+    },
+    {
+      "ticker": "EME",
+      "percent": 0.28
+    },
+    {
+      "ticker": "WAFD",
+      "percent": 0.11
+    },
+    {
+      "ticker": "CMD",
+      "percent": 0.1
+    },
+    {
+      "ticker": "EVR",
+      "percent": 0.1
+    },
+    {
+      "ticker": "UE",
+      "percent": 0.1
+    },
+    {
+      "ticker": "FHI",
+      "percent": 0.09
+    },
+    {
+      "ticker": "ATI",
+      "percent": 0.09
+    },
+    {
+      "ticker": "PZZA",
+      "percent": 0.09
+    },
+    {
+      "ticker": "WW",
+      "percent": 0.08
+    },
+    {
+      "ticker": "VC",
+      "percent": 0.08
+    },
+    {
+      "ticker": "DLX",
+      "percent": 0.08
+    },
+    {
+      "ticker": "CRS",
+      "percent": 0.07
+    },
+    {
+      "ticker": "CMP",
+      "percent": 0.07
+    },
+    {
+      "ticker": "TR",
+      "percent": 0.04
+    },
+    {
+      "ticker": "PPC",
+      "percent": 0.04
+    },
+    {
+      "ticker": null,
+      "percent": 0.01
+    }
+  ]
+}

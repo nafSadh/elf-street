@@ -1,0 +1,180 @@
+{
+  "Products": "Dynamic Semiconductors ETF",
+  "Ticker": "PSI",
+  "Inception": "06/23/2005",
+  "Gross Exp. Ratio": "0.58%",
+  "YTD": "15.62",
+  "1Yr": "34.27",
+  "3Yr": "16.78",
+  "5Yr": "27.44",
+  "10Yr": "20.21",
+  "Since Incept.": "11.93",
+  "Category": "Multi Factor",
+  "SubCategory": "Intellidex Industries",
+  "ticker": "PSI",
+  "name": "Dynamic Semiconductors ETF",
+  "issuer": "Invesco",
+  "website": "https://www.invesco.com/us/financial-products/etfs/product-detail?audienceType=Investor&ticker=PSI",
+  "holdingDataSource": {
+    "url": "https://www.invesco.com/us/financial-products/etfs/holdings/main/holdings/0?audienceType=Investor&action=download&ticker=PSI",
+    "fileExt": "csv",
+    "transform": "invesco"
+  },
+  "holdings": [
+    {
+      "ticker": "NVDA",
+      "name": "NVIDIA Corp",
+      "percent": "5.208"
+    },
+    {
+      "ticker": "SWKS",
+      "name": "Skyworks Solutions Inc",
+      "percent": "5.206"
+    },
+    {
+      "ticker": "TXN",
+      "name": "Texas Instruments Inc",
+      "percent": "5.154"
+    },
+    {
+      "ticker": "LRCX",
+      "name": "Lam Research Corp",
+      "percent": "5.090"
+    },
+    {
+      "ticker": "MCHP",
+      "name": "Microchip Technology Inc",
+      "percent": "4.913"
+    },
+    {
+      "ticker": "KLAC",
+      "name": "KLA Corp",
+      "percent": "4.854"
+    },
+    {
+      "ticker": "AMAT",
+      "name": "Applied Materials Inc",
+      "percent": "4.837"
+    },
+    {
+      "ticker": "AMD",
+      "name": "Advanced Micro Devices Inc",
+      "percent": "4.726"
+    },
+    {
+      "ticker": "ON",
+      "name": "ON Semiconductor Corp",
+      "percent": "3.175"
+    },
+    {
+      "ticker": "ENTG",
+      "name": "Entegris Inc",
+      "percent": "3.117"
+    },
+    {
+      "ticker": "MPWR",
+      "name": "Monolithic Power Systems Inc",
+      "percent": "3.101"
+    },
+    {
+      "ticker": "LSCC",
+      "name": "Lattice Semiconductor Corp",
+      "percent": "3.021"
+    },
+    {
+      "ticker": "COHU",
+      "name": "Cohu Inc",
+      "percent": "2.946"
+    },
+    {
+      "ticker": "FORM",
+      "name": "FormFactor Inc",
+      "percent": "2.858"
+    },
+    {
+      "ticker": "POWI",
+      "name": "Power Integrations Inc",
+      "percent": "2.819"
+    },
+    {
+      "ticker": "IPHI",
+      "name": "Inphi Corp",
+      "percent": "2.798"
+    },
+    {
+      "ticker": "NVMI",
+      "name": "Nova Measuring Instruments Ltd",
+      "percent": "2.771"
+    },
+    {
+      "ticker": "CEVA",
+      "name": "CEVA Inc",
+      "percent": "2.718"
+    },
+    {
+      "ticker": "MXIM",
+      "name": "Maxim Integrated Products Inc",
+      "percent": "2.711"
+    },
+    {
+      "ticker": "TER",
+      "name": "Teradyne Inc",
+      "percent": "2.653"
+    },
+    {
+      "ticker": "AMKR",
+      "name": "Amkor Technology Inc",
+      "percent": "2.651"
+    },
+    {
+      "ticker": "MTSI",
+      "name": "MACOM Technology Solutions Holdings Inc",
+      "percent": "2.646"
+    },
+    {
+      "ticker": "LASR",
+      "name": "nLight Inc",
+      "percent": "2.622"
+    },
+    {
+      "ticker": "ACLS",
+      "name": "Axcelis Technologies Inc",
+      "percent": "2.608"
+    },
+    {
+      "ticker": "UCTT",
+      "name": "Ultra Clean Holdings Inc",
+      "percent": "2.594"
+    },
+    {
+      "ticker": "BRKS",
+      "name": "Brooks Automation Inc",
+      "percent": "2.539"
+    },
+    {
+      "ticker": "MKSI",
+      "name": "MKS Instruments Inc",
+      "percent": "2.503"
+    },
+    {
+      "ticker": "SMTC",
+      "name": "Semtech Corp",
+      "percent": "2.457"
+    },
+    {
+      "ticker": "SYNA",
+      "name": "Synaptics Inc",
+      "percent": "2.444"
+    },
+    {
+      "ticker": "ACMR",
+      "name": "ACM Research Inc",
+      "percent": "2.162"
+    },
+    {
+      "ticker": "AGPXX",
+      "name": "STIT - Government & Agency Portfolio",
+      "percent": "0.097"
+    }
+  ]
+}

@@ -1,0 +1,220 @@
+{
+  "Products": "DWA Utilities Momentum ETF",
+  "Ticker": "PUI",
+  "Inception": "10/26/2005",
+  "Gross Exp. Ratio": "0.73%",
+  "YTD": "-12.35",
+  "1Yr": "-13.36",
+  "3Yr": "4.19",
+  "5Yr": "9.17",
+  "10Yr": "9.76",
+  "Since Incept.": "7.46",
+  "Category": "Factor Access",
+  "SubCategory": "Dorsey Wright Sectors",
+  "ticker": "PUI",
+  "name": "DWA Utilities Momentum ETF",
+  "issuer": "Invesco",
+  "website": "https://www.invesco.com/us/financial-products/etfs/product-detail?audienceType=Investor&ticker=PUI",
+  "holdingDataSource": {
+    "url": "https://www.invesco.com/us/financial-products/etfs/holdings/main/holdings/0?audienceType=Investor&action=download&ticker=PUI",
+    "fileExt": "csv",
+    "transform": "invesco"
+  },
+  "holdings": [
+    {
+      "ticker": "NRG",
+      "name": "NRG Energy Inc",
+      "percent": "3.749"
+    },
+    {
+      "ticker": "NEE",
+      "name": "NextEra Energy Inc",
+      "percent": "3.628"
+    },
+    {
+      "ticker": "AWK",
+      "name": "American Water Works Co Inc",
+      "percent": "3.567"
+    },
+    {
+      "ticker": "ETR",
+      "name": "Entergy Corp",
+      "percent": "3.421"
+    },
+    {
+      "ticker": "XEL",
+      "name": "Xcel Energy Inc",
+      "percent": "3.418"
+    },
+    {
+      "ticker": "DTE",
+      "name": "DTE Energy Co",
+      "percent": "3.370"
+    },
+    {
+      "ticker": "SO",
+      "name": "Southern Co/The",
+      "percent": "3.360"
+    },
+    {
+      "ticker": "ES",
+      "name": "Eversource Energy",
+      "percent": "3.359"
+    },
+    {
+      "ticker": "LNT",
+      "name": "Alliant Energy Corp",
+      "percent": "3.258"
+    },
+    {
+      "ticker": "DUK",
+      "name": "Duke Energy Corp",
+      "percent": "3.246"
+    },
+    {
+      "ticker": "SRE",
+      "name": "Sempra Energy",
+      "percent": "3.239"
+    },
+    {
+      "ticker": "AEP",
+      "name": "American Electric Power Co Inc",
+      "percent": "3.190"
+    },
+    {
+      "ticker": "AES",
+      "name": "AES Corp/The",
+      "percent": "3.171"
+    },
+    {
+      "ticker": "CMS",
+      "name": "CMS Energy Corp",
+      "percent": "3.167"
+    },
+    {
+      "ticker": "WEC",
+      "name": "WEC Energy Group Inc",
+      "percent": "3.088"
+    },
+    {
+      "ticker": "ATO",
+      "name": "Atmos Energy Corp",
+      "percent": "2.929"
+    },
+    {
+      "ticker": "NI",
+      "name": "NiSource Inc",
+      "percent": "2.853"
+    },
+    {
+      "ticker": "D",
+      "name": "Dominion Energy Inc",
+      "percent": "2.676"
+    },
+    {
+      "ticker": "EVRG",
+      "name": "Evergy Inc",
+      "percent": "2.548"
+    },
+    {
+      "ticker": "EQT",
+      "name": "EQT Corp",
+      "percent": "2.524"
+    },
+    {
+      "ticker": "PNW",
+      "name": "Pinnacle West Capital Corp",
+      "percent": "2.522"
+    },
+    {
+      "ticker": "WTRG",
+      "name": "Essential Utilities Inc",
+      "percent": "2.491"
+    },
+    {
+      "ticker": "OKE",
+      "name": "ONEOK Inc",
+      "percent": "2.457"
+    },
+    {
+      "ticker": "AEE",
+      "name": "Ameren Corp",
+      "percent": "2.352"
+    },
+    {
+      "ticker": "PNM",
+      "name": "PNM Resources Inc",
+      "percent": "2.338"
+    },
+    {
+      "ticker": "PEG",
+      "name": "Public Service Enterprise Group Inc",
+      "percent": "2.335"
+    },
+    {
+      "ticker": "CNP",
+      "name": "CenterPoint Energy Inc",
+      "percent": "2.333"
+    },
+    {
+      "ticker": "IDA",
+      "name": "IDACORP Inc",
+      "percent": "2.066"
+    },
+    {
+      "ticker": "VZ",
+      "name": "Verizon Communications Inc",
+      "percent": "2.031"
+    },
+    {
+      "ticker": "VST",
+      "name": "Vistra Corp",
+      "percent": "1.958"
+    },
+    {
+      "ticker": "MDU",
+      "name": "MDU Resources Group Inc",
+      "percent": "1.953"
+    },
+    {
+      "ticker": "UGI",
+      "name": "UGI Corp",
+      "percent": "1.935"
+    },
+    {
+      "ticker": "AWR",
+      "name": "American States Water Co",
+      "percent": "1.884"
+    },
+    {
+      "ticker": "NFG",
+      "name": "National Fuel Gas Co",
+      "percent": "1.849"
+    },
+    {
+      "ticker": "OGS",
+      "name": "ONE Gas Inc",
+      "percent": "1.834"
+    },
+    {
+      "ticker": "NWE",
+      "name": "NorthWestern Corp",
+      "percent": "1.824"
+    },
+    {
+      "ticker": "SHEN",
+      "name": "Shenandoah Telecommunications Co",
+      "percent": "1.791"
+    },
+    {
+      "ticker": "AGPXX",
+      "name": "STIT - Government & Agency Portfolio",
+      "percent": "0.289"
+    },
+    {
+      "ticker": "-CASH-",
+      "name": "Cash/Receivables/Payables",
+      "percent": "-0.001"
+    }
+  ]
+}

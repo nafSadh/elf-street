@@ -1,0 +1,160 @@
+{
+  "Products": "Invesco Optimum Yield Diversified Commodity Strategy No K-1 ETF",
+  "Ticker": "PDBC",
+  "Inception": "11/07/2014",
+  "Gross Exp. Ratio": "0.61%",
+  "YTD": "-17.06",
+  "1Yr": "-10.82",
+  "3Yr": "-4.63",
+  "5Yr": "-2.33",
+  "10Yr": "",
+  "Since Incept.": "-7.83",
+  "Category": "Alternatives",
+  "SubCategory": "Commodities",
+  "ticker": "PDBC",
+  "name": "Invesco Optimum Yield Diversified Commodity Strategy No K-1 ETF",
+  "issuer": "Invesco",
+  "website": "https://www.invesco.com/us/financial-products/etfs/product-detail?audienceType=Investor&ticker=PDBC",
+  "holdingDataSource": {
+    "url": "https://www.invesco.com/us/financial-products/etfs/holdings/main/holdings/0?audienceType=Investor&action=download&ticker=PDBC",
+    "fileExt": "csv",
+    "transform": "invesco"
+  },
+  "holdings": [
+    {
+      "ticker": "825252885",
+      "name": "STIT - Government & Agency Portfolio",
+      "percent": "48.186"
+    },
+    {
+      "ticker": "9127963K3",
+      "name": "United States Treasury Bill",
+      "percent": "19.134"
+    },
+    {
+      "ticker": "",
+      "name": "Pay MORGAN STANLEY MSCB008 MORGAN STANLEY MSCB008 MORG_US_DVPS 11/9/2020",
+      "percent": "15.957"
+    },
+    {
+      "ticker": "",
+      "name": "Pay GOLDMAN SACHS COMMODITY I-SELECT STRATEGY 1063 ABGS1063 GOLD_US_DVPS 11/9/2020",
+      "percent": "15.939"
+    },
+    {
+      "ticker": "",
+      "name": "Pay MACQUARIE CUSTOM PRODUCT 253E MQCC253E MACQ_US_DVPS 11/9/2020",
+      "percent": "15.935"
+    },
+    {
+      "ticker": "",
+      "name": "Pay RBC ENHANCED PS01 ER RBCAPS01 RBC_US_DVPS 11/9/2020",
+      "percent": "15.934"
+    },
+    {
+      "ticker": "CIXBICPI",
+      "name": "Pay CB CIXBICPI CITI_US_DVPS 10/5/2021",
+      "percent": "13.972"
+    },
+    {
+      "ticker": "912796TU3",
+      "name": "United States Treasury Bill",
+      "percent": "11.481"
+    },
+    {
+      "ticker": "912796XE4",
+      "name": "United States Treasury Bill",
+      "percent": "7.652"
+    },
+    {
+      "ticker": "G8114D159",
+      "name": "Invesco US Dollar Liquidity Portfolio",
+      "percent": "5.153"
+    },
+    {
+      "ticker": "",
+      "name": "Pay BOFA MERRILL LYNCH COMMODITIES MLBXIVMA EXCESS RETURN STRATEGY MLBXIVMA BAML_US_DVPS 11/9/2020",
+      "percent": "3.989"
+    },
+    {
+      "ticker": "9127964C0",
+      "name": "United States Treasury Bill",
+      "percent": "3.826"
+    },
+    {
+      "ticker": "GCZ0",
+      "name": "COMEX Gold 100 Troy Ounces Future",
+      "percent": "2.109"
+    },
+    {
+      "ticker": "XBZ0",
+      "name": "NYMEX Reformulated Gasoline Blendstock for Oxygen Blending R",
+      "percent": "1.986"
+    },
+    {
+      "ticker": "CLM1",
+      "name": "NYMEX Light Sweet Crude Oil Future",
+      "percent": "1.962"
+    },
+    {
+      "ticker": "COF1",
+      "name": "ICE Brent Crude Oil Future",
+      "percent": "1.827"
+    },
+    {
+      "ticker": "S X1",
+      "name": "CBOT Soybean Future",
+      "percent": "1.316"
+    },
+    {
+      "ticker": "HOM1",
+      "name": "NYMEX NY Harbor ULSD Futures",
+      "percent": "1.315"
+    },
+    {
+      "ticker": "W N1",
+      "name": "CBOT Wheat Future",
+      "percent": "1.277"
+    },
+    {
+      "ticker": "SBV1",
+      "name": "NYBOT CSC Number 11 World Sugar Future",
+      "percent": "1.140"
+    },
+    {
+      "ticker": "C Z1",
+      "name": "CBOT Corn Future",
+      "percent": "1.036"
+    },
+    {
+      "ticker": "NGF21",
+      "name": "NYMEX Henry Hub Natural Gas Futures",
+      "percent": "1.028"
+    },
+    {
+      "ticker": "LPZ20",
+      "name": "LME Copper Future",
+      "percent": "1.000"
+    },
+    {
+      "ticker": "LAM21",
+      "name": "LME Primary Aluminum Future",
+      "percent": ".844"
+    },
+    {
+      "ticker": "LXZ0",
+      "name": "LME Zinc Future",
+      "percent": ".819"
+    },
+    {
+      "ticker": "SIZ0",
+      "name": "COMEX Silver Future",
+      "percent": ".598"
+    },
+    {
+      "ticker": "CASHUSD00",
+      "name": "Cash/Receivables/Payables",
+      "percent": ".001"
+    }
+  ]
+}

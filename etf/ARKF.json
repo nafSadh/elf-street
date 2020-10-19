@@ -1,0 +1,239 @@
+{
+  "ticker": "ARKF",
+  "name": "ARK Fintech Innovation ETF",
+  "website": "https://ark-funds.com/fintech-etf",
+  "exchange": "NYSE Arca",
+  "issuer": "ARK",
+  "holdingDataSource": {
+    "url": "https://ark-funds.com/wp-content/fundsiteliterature/csv/ARK_FINTECH_INNOVATION_ETF_ARKF_HOLDINGS.csv",
+    "fileExt": "csv",
+    "transform": "ark"
+  },
+  "holdings": [
+    {
+      "ticker": "SQ",
+      "name": "SQUARE INC - A",
+      "percent": 11.99
+    },
+    {
+      "ticker": "MELI",
+      "name": "MERCADOLIBRE INC",
+      "percent": 4.96
+    },
+    {
+      "ticker": "ICE",
+      "name": "INTERCONTINENTAL EXCHANGE IN",
+      "percent": 4.21
+    },
+    {
+      "ticker": "PINS",
+      "name": "PINTEREST INC- CLASS A",
+      "percent": 4.19
+    },
+    {
+      "ticker": "TREE UW",
+      "name": "LENDINGTREE INC",
+      "percent": 3.97
+    },
+    {
+      "ticker": "TCEHY",
+      "name": "TENCENT HOLDINGS LTD-UNS ADR",
+      "percent": 3.87
+    },
+    {
+      "ticker": "SE",
+      "name": "SEA LTD-ADR",
+      "percent": 3.76
+    },
+    {
+      "ticker": "ADYEN",
+      "name": "ADYEN NV",
+      "percent": 3.59
+    },
+    {
+      "ticker": "BABA",
+      "name": "ALIBABA GROUP HOLDING-SP ADR",
+      "percent": 3.54
+    },
+    {
+      "ticker": "Z",
+      "name": "ZILLOW GROUP INC - C",
+      "percent": 3.44
+    },
+    {
+      "ticker": "PYPL",
+      "name": "PAYPAL HOLDINGS INC",
+      "percent": 3.28
+    },
+    {
+      "ticker": "4689",
+      "name": "Z HOLDINGS CORP",
+      "percent": 3.02
+    },
+    {
+      "ticker": "3690",
+      "name": "MEITUAN DIANPING-CLASS B",
+      "percent": 2.91
+    },
+    {
+      "ticker": "TWLO",
+      "name": "TWILIO INC - A",
+      "percent": 2.86
+    },
+    {
+      "ticker": "AMZN",
+      "name": "AMAZON.COM INC",
+      "percent": 2.78
+    },
+    {
+      "ticker": "AAPL",
+      "name": "APPLE INC",
+      "percent": 2.7
+    },
+    {
+      "ticker": "FB",
+      "name": "FACEBOOK INC-CLASS A",
+      "percent": 2.3
+    },
+    {
+      "ticker": "6060",
+      "name": "ZHONGAN ONLINE P&C INSURAN-H",
+      "percent": 2.11
+    },
+    {
+      "ticker": "SPLK",
+      "name": "SPLUNK INC",
+      "percent": 2.07
+    },
+    {
+      "ticker": "SNAP",
+      "name": "SNAP INC - A",
+      "percent": 1.92
+    },
+    {
+      "ticker": "DOCU",
+      "name": "DOCUSIGN INC",
+      "percent": 1.86
+    },
+    {
+      "ticker": "INTU",
+      "name": "INTUIT INC",
+      "percent": 1.78
+    },
+    {
+      "ticker": "WORK",
+      "name": "SLACK TECHNOLOGIES INC- CL A",
+      "percent": 1.56
+    },
+    {
+      "ticker": "WDAY",
+      "name": "WORKDAY INC-CLASS A",
+      "percent": 1.51
+    },
+    {
+      "ticker": "LSPD",
+      "name": "LIGHTSPEED POS INC-SUB VOTE",
+      "percent": 1.41
+    },
+    {
+      "ticker": "GWRE",
+      "name": "GUIDEWIRE SOFTWARE INC",
+      "percent": 1.34
+    },
+    {
+      "ticker": "TSM",
+      "name": "TAIWAN SEMICONDUCTOR-SP ADR",
+      "percent": 1.28
+    },
+    {
+      "ticker": "8473",
+      "name": "SBI HOLDINGS INC",
+      "percent": 1.2
+    },
+    {
+      "ticker": "NVDA",
+      "name": "NVIDIA CORP",
+      "percent": 1.12
+    },
+    {
+      "ticker": "SCHW",
+      "name": "SCHWAB (CHARLES) CORP",
+      "percent": 1.11
+    },
+    {
+      "ticker": "IBKR",
+      "name": "INTERACTIVE BROKERS GRO-CL A",
+      "percent": 1.11
+    },
+    {
+      "ticker": "LC",
+      "name": "LENDINGCLUB CORP",
+      "percent": 1.08
+    },
+    {
+      "ticker": "HDB",
+      "name": "HDFC BANK LTD-ADR",
+      "percent": 1.07
+    },
+    {
+      "ticker": "ZS",
+      "name": "ZSCALER INC",
+      "percent": 1.03
+    },
+    {
+      "ticker": "DSY",
+      "name": "DISCOVERY LTD",
+      "percent": 1
+    },
+    {
+      "ticker": "TRU",
+      "name": "TRANSUNION",
+      "percent": 0.97
+    },
+    {
+      "ticker": "9923",
+      "name": "YEAHKA LTD",
+      "percent": 0.97
+    },
+    {
+      "ticker": "JD",
+      "name": "JD.COM INC-ADR",
+      "percent": 0.94
+    },
+    {
+      "ticker": "PDD",
+      "name": "PINDUODUO INC-ADR",
+      "percent": 0.91
+    },
+    {
+      "ticker": "VRSK",
+      "name": "VERISK ANALYTICS INC",
+      "percent": 0.87
+    },
+    {
+      "ticker": "",
+      "name": "TCS GROUP HOLDING-GDR REG S",
+      "percent": 0.79
+    },
+    {
+      "ticker": "MKTX",
+      "name": "MARKETAXESS HOLDINGS INC",
+      "percent": 0.53
+    },
+    {
+      "ticker": "IPOB",
+      "name": "SOCIAL CAPITAL HEDOSOPHIA-A",
+      "percent": 0.53
+    },
+    {
+      "ticker": "SI",
+      "name": "SILVERGATE CAPITAL CORP-CL A",
+      "percent": 0.5
+    },
+    {
+      "ticker": "CRM",
+      "name": "SALESFORCE.COM INC",
+      "percent": 0.03
+    }
+  ]
+}

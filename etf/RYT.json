@@ -1,0 +1,395 @@
+{
+  "Products": "S&P 500® Equal Weight Technology ETF",
+  "Ticker": "RYT",
+  "Inception": "11/01/2006",
+  "Gross Exp. Ratio": "0.40%",
+  "YTD": "7.70",
+  "1Yr": "19.64",
+  "3Yr": "17.34",
+  "5Yr": "21.25",
+  "10Yr": "17.07",
+  "Since Incept.": "12.14",
+  "Category": "SP Factor",
+  "SubCategory": "Equal Weight Sectors",
+  "ticker": "RYT",
+  "name": "S&P 500® Equal Weight Technology ETF",
+  "issuer": "Invesco",
+  "website": "https://www.invesco.com/us/financial-products/etfs/product-detail?audienceType=Investor&ticker=RYT",
+  "holdingDataSource": {
+    "url": "https://www.invesco.com/us/financial-products/etfs/holdings/main/holdings/0?audienceType=Investor&action=download&ticker=RYT",
+    "fileExt": "csv",
+    "transform": "invesco"
+  },
+  "holdings": [
+    {
+      "ticker": "PAYC",
+      "name": "Paycom Software Inc",
+      "percent": "1.804"
+    },
+    {
+      "ticker": "LRCX",
+      "name": "Lam Research Corp",
+      "percent": "1.557"
+    },
+    {
+      "ticker": "TYL",
+      "name": "Tyler Technologies Inc",
+      "percent": "1.536"
+    },
+    {
+      "ticker": "KLAC",
+      "name": "KLA Corp",
+      "percent": "1.520"
+    },
+    {
+      "ticker": "XLNX",
+      "name": "Xilinx Inc",
+      "percent": "1.501"
+    },
+    {
+      "ticker": "NOW",
+      "name": "ServiceNow Inc",
+      "percent": "1.476"
+    },
+    {
+      "ticker": "CDW",
+      "name": "CDW Corp/DE",
+      "percent": "1.472"
+    },
+    {
+      "ticker": "ZBRA",
+      "name": "Zebra Technologies Corp",
+      "percent": "1.470"
+    },
+    {
+      "ticker": "IPGP",
+      "name": "IPG Photonics Corp",
+      "percent": "1.450"
+    },
+    {
+      "ticker": "TER",
+      "name": "Teradyne Inc",
+      "percent": "1.450"
+    },
+    {
+      "ticker": "AMAT",
+      "name": "Applied Materials Inc",
+      "percent": "1.437"
+    },
+    {
+      "ticker": "ADSK",
+      "name": "Autodesk Inc",
+      "percent": "1.433"
+    },
+    {
+      "ticker": "FTNT",
+      "name": "Fortinet Inc",
+      "percent": "1.433"
+    },
+    {
+      "ticker": "CDNS",
+      "name": "Cadence Design Systems Inc",
+      "percent": "1.430"
+    },
+    {
+      "ticker": "QCOM",
+      "name": "QUALCOMM Inc",
+      "percent": "1.427"
+    },
+    {
+      "ticker": "KEYS",
+      "name": "Keysight Technologies Inc",
+      "percent": "1.425"
+    },
+    {
+      "ticker": "NVDA",
+      "name": "NVIDIA Corp",
+      "percent": "1.424"
+    },
+    {
+      "ticker": "SNPS",
+      "name": "Synopsys Inc",
+      "percent": "1.419"
+    },
+    {
+      "ticker": "SWKS",
+      "name": "Skyworks Solutions Inc",
+      "percent": "1.411"
+    },
+    {
+      "ticker": "TXN",
+      "name": "Texas Instruments Inc",
+      "percent": "1.408"
+    },
+    {
+      "ticker": "MU",
+      "name": "Micron Technology Inc",
+      "percent": "1.405"
+    },
+    {
+      "ticker": "PAYX",
+      "name": "Paychex Inc",
+      "percent": "1.400"
+    },
+    {
+      "ticker": "ANSS",
+      "name": "ANSYS Inc",
+      "percent": "1.397"
+    },
+    {
+      "ticker": "ADP",
+      "name": "Automatic Data Processing Inc",
+      "percent": "1.395"
+    },
+    {
+      "ticker": "PYPL",
+      "name": "PayPal Holdings Inc",
+      "percent": "1.394"
+    },
+    {
+      "ticker": "MSI",
+      "name": "Motorola Solutions Inc",
+      "percent": "1.393"
+    },
+    {
+      "ticker": "MXIM",
+      "name": "Maxim Integrated Products Inc",
+      "percent": "1.389"
+    },
+    {
+      "ticker": "ANET",
+      "name": "Arista Networks Inc",
+      "percent": "1.387"
+    },
+    {
+      "ticker": "FFIV",
+      "name": "F5 Networks Inc",
+      "percent": "1.387"
+    },
+    {
+      "ticker": "STX",
+      "name": "Seagate Technology PLC",
+      "percent": "1.386"
+    },
+    {
+      "ticker": "APH",
+      "name": "Amphenol Corp",
+      "percent": "1.385"
+    },
+    {
+      "ticker": "TEL",
+      "name": "TE Connectivity Ltd",
+      "percent": "1.382"
+    },
+    {
+      "ticker": "GLW",
+      "name": "Corning Inc",
+      "percent": "1.382"
+    },
+    {
+      "ticker": "MCHP",
+      "name": "Microchip Technology Inc",
+      "percent": "1.380"
+    },
+    {
+      "ticker": "INTC",
+      "name": "Intel Corp",
+      "percent": "1.378"
+    },
+    {
+      "ticker": "QRVO",
+      "name": "Qorvo Inc",
+      "percent": "1.375"
+    },
+    {
+      "ticker": "AMD",
+      "name": "Advanced Micro Devices Inc",
+      "percent": "1.367"
+    },
+    {
+      "ticker": "FISV",
+      "name": "Fiserv Inc",
+      "percent": "1.364"
+    },
+    {
+      "ticker": "FLIR",
+      "name": "FLIR Systems Inc",
+      "percent": "1.363"
+    },
+    {
+      "ticker": "ADI",
+      "name": "Analog Devices Inc",
+      "percent": "1.363"
+    },
+    {
+      "ticker": "INTU",
+      "name": "Intuit Inc",
+      "percent": "1.358"
+    },
+    {
+      "ticker": "FLT",
+      "name": "FleetCor Technologies Inc",
+      "percent": "1.355"
+    },
+    {
+      "ticker": "MSFT",
+      "name": "Microsoft Corp",
+      "percent": "1.350"
+    },
+    {
+      "ticker": "CTSH",
+      "name": "Cognizant Technology Solutions Corp",
+      "percent": "1.350"
+    },
+    {
+      "ticker": "NTAP",
+      "name": "NetApp Inc",
+      "percent": "1.341"
+    },
+    {
+      "ticker": "ADBE",
+      "name": "Adobe Inc",
+      "percent": "1.338"
+    },
+    {
+      "ticker": "BR",
+      "name": "Broadridge Financial Solutions Inc",
+      "percent": "1.337"
+    },
+    {
+      "ticker": "GPN",
+      "name": "Global Payments Inc",
+      "percent": "1.336"
+    },
+    {
+      "ticker": "CRM",
+      "name": "salesforce.com Inc",
+      "percent": "1.334"
+    },
+    {
+      "ticker": "AAPL",
+      "name": "Apple Inc",
+      "percent": "1.333"
+    },
+    {
+      "ticker": "ORCL",
+      "name": "Oracle Corp",
+      "percent": "1.327"
+    },
+    {
+      "ticker": "DXC",
+      "name": "DXC Technology Co",
+      "percent": "1.321"
+    },
+    {
+      "ticker": "AVGO",
+      "name": "Broadcom Inc",
+      "percent": "1.320"
+    },
+    {
+      "ticker": "XRX",
+      "name": "Xerox Holdings Corp",
+      "percent": "1.319"
+    },
+    {
+      "ticker": "VRSN",
+      "name": "VeriSign Inc",
+      "percent": "1.313"
+    },
+    {
+      "ticker": "CTXS",
+      "name": "Citrix Systems Inc",
+      "percent": "1.310"
+    },
+    {
+      "ticker": "JKHY",
+      "name": "Jack Henry & Associates Inc",
+      "percent": "1.306"
+    },
+    {
+      "ticker": "AKAM",
+      "name": "Akamai Technologies Inc",
+      "percent": "1.304"
+    },
+    {
+      "ticker": "IBM",
+      "name": "International Business Machines Corp",
+      "percent": "1.300"
+    },
+    {
+      "ticker": "MA",
+      "name": "Mastercard Inc",
+      "percent": "1.289"
+    },
+    {
+      "ticker": "IT",
+      "name": "Gartner Inc",
+      "percent": "1.288"
+    },
+    {
+      "ticker": "HPE",
+      "name": "Hewlett Packard Enterprise Co",
+      "percent": "1.287"
+    },
+    {
+      "ticker": "HPQ",
+      "name": "HP Inc",
+      "percent": "1.274"
+    },
+    {
+      "ticker": "WDC",
+      "name": "Western Digital Corp",
+      "percent": "1.273"
+    },
+    {
+      "ticker": "LDOS",
+      "name": "Leidos Holdings Inc",
+      "percent": "1.264"
+    },
+    {
+      "ticker": "CSCO",
+      "name": "Cisco Systems Inc",
+      "percent": "1.263"
+    },
+    {
+      "ticker": "NLOK",
+      "name": "NortonLifeLock Inc",
+      "percent": "1.253"
+    },
+    {
+      "ticker": "V",
+      "name": "Visa Inc",
+      "percent": "1.252"
+    },
+    {
+      "ticker": "WU",
+      "name": "Western Union Co/The",
+      "percent": "1.251"
+    },
+    {
+      "ticker": "FIS",
+      "name": "Fidelity National Information Services Inc",
+      "percent": "1.251"
+    },
+    {
+      "ticker": "ACN",
+      "name": "Accenture PLC",
+      "percent": "1.229"
+    },
+    {
+      "ticker": "JNPR",
+      "name": "Juniper Networks Inc",
+      "percent": "1.217"
+    },
+    {
+      "ticker": "VNT",
+      "name": "Vontier Corp",
+      "percent": "1.212"
+    },
+    {
+      "ticker": "-CASH-",
+      "name": "Cash/Receivables/Payables",
+      "percent": "-0.012"
+    }
+  ]
+}

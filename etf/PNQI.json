@@ -1,0 +1,475 @@
+{
+  "Products": "NASDAQ Internet ETF",
+  "Ticker": "PNQI",
+  "Inception": "06/12/2008",
+  "Gross Exp. Ratio": "0.62%",
+  "YTD": "45.85",
+  "1Yr": "58.82",
+  "3Yr": "23.33",
+  "5Yr": "24.46",
+  "10Yr": "20.41",
+  "Since Incept.": "19.14",
+  "Category": "Thematic",
+  "SubCategory": "Access",
+  "ticker": "PNQI",
+  "name": "NASDAQ Internet ETF",
+  "issuer": "Invesco",
+  "website": "https://www.invesco.com/us/financial-products/etfs/product-detail?audienceType=Investor&ticker=PNQI",
+  "holdingDataSource": {
+    "url": "https://www.invesco.com/us/financial-products/etfs/holdings/main/holdings/0?audienceType=Investor&action=download&ticker=PNQI",
+    "fileExt": "csv",
+    "transform": "invesco"
+  },
+  "holdings": [
+    {
+      "ticker": "BABA",
+      "name": "Alibaba Group Holding Ltd ADR",
+      "percent": "8.447"
+    },
+    {
+      "ticker": "GOOG",
+      "name": "Alphabet Inc",
+      "percent": "7.594"
+    },
+    {
+      "ticker": "AMZN",
+      "name": "Amazon.com Inc",
+      "percent": "7.482"
+    },
+    {
+      "ticker": "CRM",
+      "name": "salesforce.com Inc",
+      "percent": "7.481"
+    },
+    {
+      "ticker": "FB",
+      "name": "Facebook Inc",
+      "percent": "7.156"
+    },
+    {
+      "ticker": "ZM",
+      "name": "Zoom Video Communications Inc",
+      "percent": "4.336"
+    },
+    {
+      "ticker": "NFLX",
+      "name": "Netflix Inc",
+      "percent": "3.954"
+    },
+    {
+      "ticker": "SHOP",
+      "name": "Shopify Inc",
+      "percent": "3.948"
+    },
+    {
+      "ticker": "ADBE",
+      "name": "Adobe Inc",
+      "percent": "3.863"
+    },
+    {
+      "ticker": "JD",
+      "name": "JD.com Inc ADR",
+      "percent": "3.187"
+    },
+    {
+      "ticker": "BKNG",
+      "name": "Booking Holdings Inc",
+      "percent": "2.909"
+    },
+    {
+      "ticker": "MELI",
+      "name": "MercadoLibre Inc",
+      "percent": "2.692"
+    },
+    {
+      "ticker": "UBER",
+      "name": "Uber Technologies Inc",
+      "percent": "2.518"
+    },
+    {
+      "ticker": "SPOT",
+      "name": "Spotify Technology SA",
+      "percent": "2.062"
+    },
+    {
+      "ticker": "DOCU",
+      "name": "DocuSign Inc",
+      "percent": "1.849"
+    },
+    {
+      "ticker": "SE",
+      "name": "Sea Ltd ADR",
+      "percent": "1.829"
+    },
+    {
+      "ticker": "EBAY",
+      "name": "eBay Inc",
+      "percent": "1.665"
+    },
+    {
+      "ticker": "BIDU",
+      "name": "Baidu Inc ADR",
+      "percent": "1.562"
+    },
+    {
+      "ticker": "TWTR",
+      "name": "Twitter Inc",
+      "percent": "1.543"
+    },
+    {
+      "ticker": "CSGP",
+      "name": "CoStar Group Inc",
+      "percent": "1.443"
+    },
+    {
+      "ticker": "SNAP",
+      "name": "Snap Inc",
+      "percent": "1.436"
+    },
+    {
+      "ticker": "NTES",
+      "name": "NetEase Inc ADR",
+      "percent": "1.352"
+    },
+    {
+      "ticker": "OKTA",
+      "name": "Okta Inc",
+      "percent": "1.247"
+    },
+    {
+      "ticker": "VRSN",
+      "name": "VeriSign Inc",
+      "percent": "1.014"
+    },
+    {
+      "ticker": "ROKU",
+      "name": "Roku Inc",
+      "percent": "1.003"
+    },
+    {
+      "ticker": "COUP",
+      "name": "Coupa Software Inc",
+      "percent": "0.872"
+    },
+    {
+      "ticker": "W",
+      "name": "Wayfair Inc",
+      "percent": "0.866"
+    },
+    {
+      "ticker": "YNDX",
+      "name": "Yandex NV",
+      "percent": "0.777"
+    },
+    {
+      "ticker": "AKAM",
+      "name": "Akamai Technologies Inc",
+      "percent": "0.767"
+    },
+    {
+      "ticker": "TDOC",
+      "name": "Teladoc Health Inc",
+      "percent": "0.766"
+    },
+    {
+      "ticker": "ETSY",
+      "name": "Etsy Inc",
+      "percent": "0.750"
+    },
+    {
+      "ticker": "TCOM",
+      "name": "Trip.com Group Ltd ADR",
+      "percent": "0.666"
+    },
+    {
+      "ticker": "Z",
+      "name": "Zillow Group Inc",
+      "percent": "0.665"
+    },
+    {
+      "ticker": "CVNA",
+      "name": "Carvana Co",
+      "percent": "0.655"
+    },
+    {
+      "ticker": "WIX",
+      "name": "Wix.com Ltd",
+      "percent": "0.649"
+    },
+    {
+      "ticker": "GDDY",
+      "name": "GoDaddy Inc",
+      "percent": "0.540"
+    },
+    {
+      "ticker": "EXPE",
+      "name": "Expedia Group Inc",
+      "percent": "0.524"
+    },
+    {
+      "ticker": "OTEX",
+      "name": "Open Text Corp",
+      "percent": "0.485"
+    },
+    {
+      "ticker": "CHGG",
+      "name": "Chegg Inc",
+      "percent": "0.447"
+    },
+    {
+      "ticker": "PCTY",
+      "name": "Paylocity Holding Corp",
+      "percent": "0.442"
+    },
+    {
+      "ticker": "FIVN",
+      "name": "Five9 Inc",
+      "percent": "0.405"
+    },
+    {
+      "ticker": "VIPS",
+      "name": "Vipshop Holdings Ltd ADR",
+      "percent": "0.402"
+    },
+    {
+      "ticker": "PLAN",
+      "name": "Anaplan Inc",
+      "percent": "0.364"
+    },
+    {
+      "ticker": "GRUB",
+      "name": "Grubhub Inc",
+      "percent": "0.332"
+    },
+    {
+      "ticker": "LYFT",
+      "name": "Lyft Inc",
+      "percent": "0.330"
+    },
+    {
+      "ticker": "IQ",
+      "name": "iQIYI Inc ADR",
+      "percent": "0.300"
+    },
+    {
+      "ticker": "DBX",
+      "name": "Dropbox Inc",
+      "percent": "0.273"
+    },
+    {
+      "ticker": "ATHM",
+      "name": "Autohome Inc ADR",
+      "percent": "0.262"
+    },
+    {
+      "ticker": "CHWY",
+      "name": "Chewy Inc",
+      "percent": "0.241"
+    },
+    {
+      "ticker": "RDFN",
+      "name": "Redfin Corp",
+      "percent": "0.205"
+    },
+    {
+      "ticker": "STMP",
+      "name": "Stamps.com Inc",
+      "percent": "0.200"
+    },
+    {
+      "ticker": "YY",
+      "name": "JOYY Inc ADR",
+      "percent": "0.191"
+    },
+    {
+      "ticker": "ENV",
+      "name": "Envestnet Inc",
+      "percent": "0.190"
+    },
+    {
+      "ticker": "LPSN",
+      "name": "LivePerson Inc",
+      "percent": "0.170"
+    },
+    {
+      "ticker": "NEWR",
+      "name": "New Relic Inc",
+      "percent": "0.167"
+    },
+    {
+      "ticker": "JCOM",
+      "name": "J2 Global Inc",
+      "percent": "0.144"
+    },
+    {
+      "ticker": "OSTK",
+      "name": "Overstock.com Inc",
+      "percent": "0.140"
+    },
+    {
+      "ticker": "SVMK",
+      "name": "SVMK Inc",
+      "percent": "0.139"
+    },
+    {
+      "ticker": "SPSC",
+      "name": "SPS Commerce Inc",
+      "percent": "0.131"
+    },
+    {
+      "ticker": "ALRM",
+      "name": "Alarm.com Holdings Inc",
+      "percent": "0.126"
+    },
+    {
+      "ticker": "WB",
+      "name": "Weibo Corp ADR",
+      "percent": "0.122"
+    },
+    {
+      "ticker": "SINA",
+      "name": "SINA Corp/China",
+      "percent": "0.119"
+    },
+    {
+      "ticker": "BOX",
+      "name": "Box Inc",
+      "percent": "0.113"
+    },
+    {
+      "ticker": "TWOU",
+      "name": "2U Inc",
+      "percent": "0.108"
+    },
+    {
+      "ticker": "CSOD",
+      "name": "Cornerstone OnDemand Inc",
+      "percent": "0.104"
+    },
+    {
+      "ticker": "TRIP",
+      "name": "TripAdvisor Inc",
+      "percent": "0.101"
+    },
+    {
+      "ticker": "MOMO",
+      "name": "Momo Inc ADR",
+      "percent": "0.098"
+    },
+    {
+      "ticker": "CMPR",
+      "name": "Cimpress PLC",
+      "percent": "0.096"
+    },
+    {
+      "ticker": "SSTK",
+      "name": "Shutterstock Inc",
+      "percent": "0.093"
+    },
+    {
+      "ticker": "PS",
+      "name": "Pluralsight Inc",
+      "percent": "0.089"
+    },
+    {
+      "ticker": "AGPXX",
+      "name": "STIT - Government & Agency Portfolio",
+      "percent": "0.080"
+    },
+    {
+      "ticker": "SFIX",
+      "name": "Stitch Fix Inc",
+      "percent": "0.079"
+    },
+    {
+      "ticker": "BZUN",
+      "name": "Baozun Inc ADR",
+      "percent": "0.068"
+    },
+    {
+      "ticker": "PRO",
+      "name": "PROS Holdings Inc",
+      "percent": "0.064"
+    },
+    {
+      "ticker": "YELP",
+      "name": "Yelp Inc",
+      "percent": "0.062"
+    },
+    {
+      "ticker": "EGOV",
+      "name": "NIC Inc",
+      "percent": "0.061"
+    },
+    {
+      "ticker": "MMYT",
+      "name": "MakeMyTrip Ltd",
+      "percent": "0.049"
+    },
+    {
+      "ticker": "FLWS",
+      "name": "1-800-Flowers.com Inc",
+      "percent": "0.044"
+    },
+    {
+      "ticker": "SOGO",
+      "name": "Sogou Inc ADR",
+      "percent": "0.036"
+    },
+    {
+      "ticker": "EIGI",
+      "name": "Endurance International Group Holdings Inc",
+      "percent": "0.035"
+    },
+    {
+      "ticker": "SOHU",
+      "name": "Sohu.com Ltd ADR",
+      "percent": "0.032"
+    },
+    {
+      "ticker": "CRTO",
+      "name": "Criteo SA ADR",
+      "percent": "0.032"
+    },
+    {
+      "ticker": "PETS",
+      "name": "PetMed Express Inc",
+      "percent": "0.027"
+    },
+    {
+      "ticker": "EB",
+      "name": "Eventbrite Inc",
+      "percent": "0.027"
+    },
+    {
+      "ticker": "CARS",
+      "name": "Cars.com Inc",
+      "percent": "0.026"
+    },
+    {
+      "ticker": "EGAN",
+      "name": "eGain Corp",
+      "percent": "0.023"
+    },
+    {
+      "ticker": "BCOV",
+      "name": "Brightcove Inc",
+      "percent": "0.020"
+    },
+    {
+      "ticker": "LE",
+      "name": "Lands' End Inc",
+      "percent": "0.020"
+    },
+    {
+      "ticker": "BNFT",
+      "name": "Benefitfocus Inc",
+      "percent": "0.014"
+    },
+    {
+      "ticker": "-CASH-",
+      "name": "Cash/Receivables/Payables",
+      "percent": "0.000"
+    }
+  ]
+}

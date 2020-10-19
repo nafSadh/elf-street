@@ -1,0 +1,800 @@
+{
+  "Products": "S&P SmallCap Financials ETF",
+  "Ticker": "PSCF",
+  "Inception": "04/07/2010",
+  "Gross Exp. Ratio": "0.29%",
+  "YTD": "-29.87",
+  "1Yr": "-25.48",
+  "3Yr": "-6.75",
+  "5Yr": "2.57",
+  "10Yr": "7.83",
+  "Since Incept.": "6.88",
+  "Category": "Bulk Beta",
+  "SubCategory": "Small Cap Sectors",
+  "ticker": "PSCF",
+  "name": "S&P SmallCap Financials ETF",
+  "issuer": "Invesco",
+  "website": "https://www.invesco.com/us/financial-products/etfs/product-detail?audienceType=Investor&ticker=PSCF",
+  "holdingDataSource": {
+    "url": "https://www.invesco.com/us/financial-products/etfs/holdings/main/holdings/0?audienceType=Investor&action=download&ticker=PSCF",
+    "fileExt": "csv",
+    "transform": "invesco"
+  },
+  "holdings": [
+    {
+      "ticker": "KNSL",
+      "name": "Kinsale Capital Group Inc",
+      "percent": "2.519"
+    },
+    {
+      "ticker": "ADC",
+      "name": "Agree Realty Corp",
+      "percent": "1.984"
+    },
+    {
+      "ticker": "GDOT",
+      "name": "Green Dot Corp",
+      "percent": "1.836"
+    },
+    {
+      "ticker": "CBU",
+      "name": "Community Bank System Inc",
+      "percent": "1.729"
+    },
+    {
+      "ticker": "TRUP",
+      "name": "Trupanion Inc",
+      "percent": "1.691"
+    },
+    {
+      "ticker": "AEL",
+      "name": "American Equity Investment Life Holding Co",
+      "percent": "1.674"
+    },
+    {
+      "ticker": "LXP",
+      "name": "Lexington Realty Trust",
+      "percent": "1.646"
+    },
+    {
+      "ticker": "IIPR",
+      "name": "Innovative Industrial Properties Inc",
+      "percent": "1.584"
+    },
+    {
+      "ticker": "PPBI",
+      "name": "Pacific Premier Bancorp Inc",
+      "percent": "1.290"
+    },
+    {
+      "ticker": "CVBF",
+      "name": "CVB Financial Corp",
+      "percent": "1.283"
+    },
+    {
+      "ticker": "ONB",
+      "name": "Old National Bancorp/IN",
+      "percent": "1.280"
+    },
+    {
+      "ticker": "BKU",
+      "name": "BankUnited Inc",
+      "percent": "1.272"
+    },
+    {
+      "ticker": "AGO",
+      "name": "Assured Guaranty Ltd",
+      "percent": "1.259"
+    },
+    {
+      "ticker": "EHTH",
+      "name": "eHealth Inc",
+      "percent": "1.187"
+    },
+    {
+      "ticker": "NSA",
+      "name": "National Storage Affiliates Trust",
+      "percent": "1.165"
+    },
+    {
+      "ticker": "FHB",
+      "name": "First Hawaiian Inc",
+      "percent": "1.143"
+    },
+    {
+      "ticker": "PLMR",
+      "name": "Palomar Holdings Inc",
+      "percent": "1.111"
+    },
+    {
+      "ticker": "EPRT",
+      "name": "Essential Properties Realty Trust Inc",
+      "percent": "1.099"
+    },
+    {
+      "ticker": "NMIH",
+      "name": "NMI Holdings Inc",
+      "percent": "1.098"
+    },
+    {
+      "ticker": "UNIT",
+      "name": "Uniti Group Inc",
+      "percent": "1.092"
+    },
+    {
+      "ticker": "FCPT",
+      "name": "Four Corners Property Trust Inc",
+      "percent": "1.063"
+    },
+    {
+      "ticker": "COLB",
+      "name": "Columbia Banking System Inc",
+      "percent": "1.058"
+    },
+    {
+      "ticker": "SFNC",
+      "name": "Simmons First National Corp",
+      "percent": "1.055"
+    },
+    {
+      "ticker": "PRAA",
+      "name": "PRA Group Inc",
+      "percent": "1.028"
+    },
+    {
+      "ticker": "ABCB",
+      "name": "Ameris Bancorp",
+      "percent": "1.017"
+    },
+    {
+      "ticker": "IBTX",
+      "name": "Independent Bank Group Inc",
+      "percent": "0.998"
+    },
+    {
+      "ticker": "DEA",
+      "name": "Easterly Government Properties Inc",
+      "percent": "0.998"
+    },
+    {
+      "ticker": "SFBS",
+      "name": "ServisFirst Bancshares Inc",
+      "percent": "0.994"
+    },
+    {
+      "ticker": "COOP",
+      "name": "Mr Cooper Group Inc",
+      "percent": "0.991"
+    },
+    {
+      "ticker": "INDB",
+      "name": "Independent Bank Corp",
+      "percent": "0.983"
+    },
+    {
+      "ticker": "BDN",
+      "name": "Brandywine Realty Trust",
+      "percent": "0.981"
+    },
+    {
+      "ticker": "CTRE",
+      "name": "CareTrust REIT Inc",
+      "percent": "0.970"
+    },
+    {
+      "ticker": "WD",
+      "name": "Walker & Dunlop Inc",
+      "percent": "0.967"
+    },
+    {
+      "ticker": "PMT",
+      "name": "PennyMac Mortgage Investment Trust",
+      "percent": "0.925"
+    },
+    {
+      "ticker": "UCBI",
+      "name": "United Community Banks Inc/GA",
+      "percent": "0.919"
+    },
+    {
+      "ticker": "WRE",
+      "name": "Washington Real Estate Investment Trust",
+      "percent": "0.910"
+    },
+    {
+      "ticker": "RNST",
+      "name": "Renasant Corp",
+      "percent": "0.858"
+    },
+    {
+      "ticker": "JRVR",
+      "name": "James River Group Holdings Ltd",
+      "percent": "0.854"
+    },
+    {
+      "ticker": "CFFN",
+      "name": "Capitol Federal Financial Inc",
+      "percent": "0.846"
+    },
+    {
+      "ticker": "WABC",
+      "name": "Westamerica BanCorp",
+      "percent": "0.844"
+    },
+    {
+      "ticker": "HMN",
+      "name": "Horace Mann Educators Corp",
+      "percent": "0.832"
+    },
+    {
+      "ticker": "ILPT",
+      "name": "Industrial Logistics Properties Trust",
+      "percent": "0.806"
+    },
+    {
+      "ticker": "GNL",
+      "name": "Global Net Lease Inc",
+      "percent": "0.789"
+    },
+    {
+      "ticker": "AX",
+      "name": "Axos Financial Inc",
+      "percent": "0.772"
+    },
+    {
+      "ticker": "LTC",
+      "name": "LTC Properties Inc",
+      "percent": "0.770"
+    },
+    {
+      "ticker": "FMBI",
+      "name": "First Midwest Bancorp Inc/IL",
+      "percent": "0.769"
+    },
+    {
+      "ticker": "FBC",
+      "name": "Flagstar Bancorp Inc",
+      "percent": "0.754"
+    },
+    {
+      "ticker": "FFBC",
+      "name": "First Financial Bancorp",
+      "percent": "0.748"
+    },
+    {
+      "ticker": "FBP",
+      "name": "First BanCorp/Puerto Rico",
+      "percent": "0.741"
+    },
+    {
+      "ticker": "CADE",
+      "name": "Cadence BanCorp",
+      "percent": "0.740"
+    },
+    {
+      "ticker": "NWBI",
+      "name": "Northwest Bancshares Inc",
+      "percent": "0.738"
+    },
+    {
+      "ticker": "ECPG",
+      "name": "Encore Capital Group Inc",
+      "percent": "0.719"
+    },
+    {
+      "ticker": "PRK",
+      "name": "Park National Corp",
+      "percent": "0.716"
+    },
+    {
+      "ticker": "BANR",
+      "name": "Banner Corp",
+      "percent": "0.712"
+    },
+    {
+      "ticker": "STC",
+      "name": "Stewart Information Services Corp",
+      "percent": "0.700"
+    },
+    {
+      "ticker": "ARI",
+      "name": "Apollo Commercial Real Estate Finance Inc",
+      "percent": "0.700"
+    },
+    {
+      "ticker": "RLGY",
+      "name": "Realogy Holdings Corp",
+      "percent": "0.698"
+    },
+    {
+      "ticker": "ROIC",
+      "name": "Retail Opportunity Investments Corp",
+      "percent": "0.696"
+    },
+    {
+      "ticker": "NBTB",
+      "name": "NBT Bancorp Inc",
+      "percent": "0.690"
+    },
+    {
+      "ticker": "AAT",
+      "name": "American Assets Trust Inc",
+      "percent": "0.679"
+    },
+    {
+      "ticker": "RPAI",
+      "name": "Retail Properties of America Inc",
+      "percent": "0.676"
+    },
+    {
+      "ticker": "VRTS",
+      "name": "Virtus Investment Partners Inc",
+      "percent": "0.669"
+    },
+    {
+      "ticker": "WDR",
+      "name": "Waddell & Reed Financial Inc",
+      "percent": "0.648"
+    },
+    {
+      "ticker": "PIPR",
+      "name": "Piper Sandler Cos",
+      "percent": "0.648"
+    },
+    {
+      "ticker": "IRT",
+      "name": "Independence Realty Trust Inc",
+      "percent": "0.626"
+    },
+    {
+      "ticker": "AMSF",
+      "name": "AMERISAFE Inc",
+      "percent": "0.625"
+    },
+    {
+      "ticker": "SITC",
+      "name": "SITE Centers Corp",
+      "percent": "0.620"
+    },
+    {
+      "ticker": "SBCF",
+      "name": "Seacoast Banking Corp of Florida",
+      "percent": "0.593"
+    },
+    {
+      "ticker": "CHCT",
+      "name": "Community Healthcare Trust Inc",
+      "percent": "0.582"
+    },
+    {
+      "ticker": "CLI",
+      "name": "Mack-Cali Realty Corp",
+      "percent": "0.576"
+    },
+    {
+      "ticker": "OPI",
+      "name": "Office Properties Income Trust",
+      "percent": "0.571"
+    },
+    {
+      "ticker": "VBTX",
+      "name": "Veritex Holdings Inc",
+      "percent": "0.567"
+    },
+    {
+      "ticker": "NYMT",
+      "name": "New York Mortgage Trust Inc",
+      "percent": "0.564"
+    },
+    {
+      "ticker": "HOPE",
+      "name": "Hope Bancorp Inc",
+      "percent": "0.556"
+    },
+    {
+      "ticker": "XHR",
+      "name": "Xenia Hotels & Resorts Inc",
+      "percent": "0.554"
+    },
+    {
+      "ticker": "SAFT",
+      "name": "Safety Insurance Group Inc",
+      "percent": "0.554"
+    },
+    {
+      "ticker": "DRH",
+      "name": "DiamondRock Hospitality Co",
+      "percent": "0.553"
+    },
+    {
+      "ticker": "NXRT",
+      "name": "NexPoint Residential Trust Inc",
+      "percent": "0.542"
+    },
+    {
+      "ticker": "TBK",
+      "name": "Triumph Bancorp Inc",
+      "percent": "0.540"
+    },
+    {
+      "ticker": "PFS",
+      "name": "Provident Financial Services Inc",
+      "percent": "0.537"
+    },
+    {
+      "ticker": "EGBN",
+      "name": "Eagle Bancorp Inc",
+      "percent": "0.536"
+    },
+    {
+      "ticker": "KRG",
+      "name": "Kite Realty Group Trust",
+      "percent": "0.536"
+    },
+    {
+      "ticker": "BSIG",
+      "name": "Brightsphere Investment Group Inc",
+      "percent": "0.535"
+    },
+    {
+      "ticker": "CHCO",
+      "name": "City Holding Co",
+      "percent": "0.533"
+    },
+    {
+      "ticker": "RWT",
+      "name": "Redwood Trust Inc",
+      "percent": "0.532"
+    },
+    {
+      "ticker": "CXW",
+      "name": "CoreCivic Inc",
+      "percent": "0.523"
+    },
+    {
+      "ticker": "NBHC",
+      "name": "National Bank Holdings Corp",
+      "percent": "0.519"
+    },
+    {
+      "ticker": "EIG",
+      "name": "Employers Holdings Inc",
+      "percent": "0.513"
+    },
+    {
+      "ticker": "GTY",
+      "name": "Getty Realty Corp",
+      "percent": "0.512"
+    },
+    {
+      "ticker": "SAFE",
+      "name": "Safehold Inc",
+      "percent": "0.510"
+    },
+    {
+      "ticker": "STAR",
+      "name": "iStar Inc",
+      "percent": "0.508"
+    },
+    {
+      "ticker": "IRET",
+      "name": "Investors Real Estate Trust",
+      "percent": "0.507"
+    },
+    {
+      "ticker": "SNEX",
+      "name": "StoneX Group Inc",
+      "percent": "0.505"
+    },
+    {
+      "ticker": "AKR",
+      "name": "Acadia Realty Trust",
+      "percent": "0.481"
+    },
+    {
+      "ticker": "FBK",
+      "name": "FB Financial Corp",
+      "percent": "0.481"
+    },
+    {
+      "ticker": "ALEX",
+      "name": "Alexander & Baldwin Inc",
+      "percent": "0.480"
+    },
+    {
+      "ticker": "FCF",
+      "name": "First Commonwealth Financial Corp",
+      "percent": "0.476"
+    },
+    {
+      "ticker": "DHC",
+      "name": "Diversified Healthcare Trust",
+      "percent": "0.466"
+    },
+    {
+      "ticker": "BANF",
+      "name": "BancFirst Corp",
+      "percent": "0.460"
+    },
+    {
+      "ticker": "PRA",
+      "name": "ProAssurance Corp",
+      "percent": "0.458"
+    },
+    {
+      "ticker": "SBSI",
+      "name": "Southside Bancshares Inc",
+      "percent": "0.454"
+    },
+    {
+      "ticker": "CASH",
+      "name": "Meta Financial Group Inc",
+      "percent": "0.453"
+    },
+    {
+      "ticker": "JOE",
+      "name": "St Joe Co/The",
+      "percent": "0.451"
+    },
+    {
+      "ticker": "STBA",
+      "name": "S&T Bancorp Inc",
+      "percent": "0.441"
+    },
+    {
+      "ticker": "GWB",
+      "name": "Great Western Bancorp Inc",
+      "percent": "0.438"
+    },
+    {
+      "ticker": "MMI",
+      "name": "Marcus & Millichap Inc",
+      "percent": "0.421"
+    },
+    {
+      "ticker": "BRKL",
+      "name": "Brookline Bancorp Inc",
+      "percent": "0.419"
+    },
+    {
+      "ticker": "HFWA",
+      "name": "Heritage Financial Corp/WA",
+      "percent": "0.417"
+    },
+    {
+      "ticker": "OFG",
+      "name": "OFG Bancorp",
+      "percent": "0.407"
+    },
+    {
+      "ticker": "UHT",
+      "name": "Universal Health Realty Income Trust",
+      "percent": "0.398"
+    },
+    {
+      "ticker": "TMP",
+      "name": "Tompkins Financial Corp",
+      "percent": "0.386"
+    },
+    {
+      "ticker": "HMST",
+      "name": "HomeStreet Inc",
+      "percent": "0.380"
+    },
+    {
+      "ticker": "RMAX",
+      "name": "RE/MAX Holdings Inc",
+      "percent": "0.368"
+    },
+    {
+      "ticker": "TPRE",
+      "name": "Third Point Reinsurance Ltd",
+      "percent": "0.368"
+    },
+    {
+      "ticker": "ARR",
+      "name": "ARMOUR Residential REIT Inc",
+      "percent": "0.349"
+    },
+    {
+      "ticker": "ENVA",
+      "name": "Enova International Inc",
+      "percent": "0.345"
+    },
+    {
+      "ticker": "AMBC",
+      "name": "Ambac Financial Group Inc",
+      "percent": "0.340"
+    },
+    {
+      "ticker": "SKT",
+      "name": "Tanger Factory Outlet Centers Inc",
+      "percent": "0.322"
+    },
+    {
+      "ticker": "BHLB",
+      "name": "Berkshire Hills Bancorp Inc",
+      "percent": "0.312"
+    },
+    {
+      "ticker": "CMO",
+      "name": "Capstead Mortgage Corp",
+      "percent": "0.309"
+    },
+    {
+      "ticker": "INN",
+      "name": "Summit Hotel Properties Inc",
+      "percent": "0.306"
+    },
+    {
+      "ticker": "TRST",
+      "name": "TrustCo Bank Corp NY",
+      "percent": "0.297"
+    },
+    {
+      "ticker": "BPFH",
+      "name": "Boston Private Financial Holdings Inc",
+      "percent": "0.296"
+    },
+    {
+      "ticker": "AHH",
+      "name": "Armada Hoffler Properties Inc",
+      "percent": "0.290"
+    },
+    {
+      "ticker": "IVR",
+      "name": "Invesco Mortgage Capital Inc",
+      "percent": "0.283"
+    },
+    {
+      "ticker": "BCOR",
+      "name": "Blucora Inc",
+      "percent": "0.280"
+    },
+    {
+      "ticker": "NFBK",
+      "name": "Northfield Bancorp Inc",
+      "percent": "0.277"
+    },
+    {
+      "ticker": "ABTX",
+      "name": "Allegiance Bancshares Inc",
+      "percent": "0.277"
+    },
+    {
+      "ticker": "BANC",
+      "name": "Banc of California Inc",
+      "percent": "0.276"
+    },
+    {
+      "ticker": "WRLD",
+      "name": "World Acceptance Corp",
+      "percent": "0.275"
+    },
+    {
+      "ticker": "RC",
+      "name": "Ready Capital Corp",
+      "percent": "0.274"
+    },
+    {
+      "ticker": "UFCS",
+      "name": "United Fire Group Inc",
+      "percent": "0.265"
+    },
+    {
+      "ticker": "KREF",
+      "name": "KKR Real Estate Finance Trust Inc",
+      "percent": "0.264"
+    },
+    {
+      "ticker": "WETF",
+      "name": "WisdomTree Investments Inc",
+      "percent": "0.264"
+    },
+    {
+      "ticker": "PFBC",
+      "name": "Preferred Bank/Los Angeles CA",
+      "percent": "0.259"
+    },
+    {
+      "ticker": "RPT",
+      "name": "RPT Realty",
+      "percent": "0.237"
+    },
+    {
+      "ticker": "UVE",
+      "name": "Universal Insurance Holdings Inc",
+      "percent": "0.234"
+    },
+    {
+      "ticker": "DFIN",
+      "name": "Donnelley Financial Solutions Inc",
+      "percent": "0.230"
+    },
+    {
+      "ticker": "CPF",
+      "name": "Central Pacific Financial Corp",
+      "percent": "0.230"
+    },
+    {
+      "ticker": "GPMT",
+      "name": "Granite Point Mortgage Trust Inc",
+      "percent": "0.217"
+    },
+    {
+      "ticker": "FSP",
+      "name": "Franklin Street Properties Corp",
+      "percent": "0.212"
+    },
+    {
+      "ticker": "CUBI",
+      "name": "Customers Bancorp Inc",
+      "percent": "0.209"
+    },
+    {
+      "ticker": "DCOM",
+      "name": "Dime Community Bancshares Inc",
+      "percent": "0.201"
+    },
+    {
+      "ticker": "CLDT",
+      "name": "Chatham Lodging Trust",
+      "percent": "0.191"
+    },
+    {
+      "ticker": "BFS",
+      "name": "Saul Centers Inc",
+      "percent": "0.190"
+    },
+    {
+      "ticker": "HCI",
+      "name": "HCI Group Inc",
+      "percent": "0.162"
+    },
+    {
+      "ticker": "UBA",
+      "name": "Urstadt Biddle Properties Inc",
+      "percent": "0.162"
+    },
+    {
+      "ticker": "EZPW",
+      "name": "EZCORP Inc",
+      "percent": "0.154"
+    },
+    {
+      "ticker": "HAFC",
+      "name": "Hanmi Financial Corp",
+      "percent": "0.148"
+    },
+    {
+      "ticker": "WSR",
+      "name": "Whitestone REIT",
+      "percent": "0.136"
+    },
+    {
+      "ticker": "GHL",
+      "name": "Greenhill & Co Inc",
+      "percent": "0.119"
+    },
+    {
+      "ticker": "HT",
+      "name": "Hersha Hospitality Trust",
+      "percent": "0.107"
+    },
+    {
+      "ticker": "WPG",
+      "name": "Washington Prime Group Inc",
+      "percent": "0.066"
+    },
+    {
+      "ticker": "UIHC",
+      "name": "United Insurance Holdings Corp",
+      "percent": "0.065"
+    },
+    {
+      "ticker": "-CASH-",
+      "name": "Cash/Receivables/Payables",
+      "percent": "-0.071"
+    }
+  ]
+}

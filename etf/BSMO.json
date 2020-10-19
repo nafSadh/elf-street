@@ -1,0 +1,835 @@
+{
+  "Products": "BulletShares 2024 Municipal Bond ETF",
+  "Ticker": "BSMO",
+  "Inception": "09/25/2019",
+  "Gross Exp. Ratio": "0.18%",
+  "YTD": "2.71",
+  "1Yr": "3.47",
+  "3Yr": "",
+  "5Yr": "",
+  "10Yr": "",
+  "Since Incept.": "3.34",
+  "Category": "Income",
+  "SubCategory": "BulletShares",
+  "ticker": "BSMO",
+  "name": "BulletShares 2024 Municipal Bond ETF",
+  "issuer": "Invesco",
+  "website": "https://www.invesco.com/us/financial-products/etfs/product-detail?audienceType=Investor&ticker=BSMO",
+  "holdingDataSource": {
+    "url": "https://www.invesco.com/us/financial-products/etfs/holdings/main/holdings/0?audienceType=Investor&action=download&ticker=BSMO",
+    "fileExt": "csv",
+    "transform": "invesco"
+  },
+  "holdings": [
+    {
+      "ticker": "2350364Z0",
+      "name": "Dallas Fort Worth International Airport",
+      "percent": "3.89"
+    },
+    {
+      "ticker": "650009B69",
+      "name": "New York State Thruway Authority",
+      "percent": "2.20"
+    },
+    {
+      "ticker": "650035W79",
+      "name": "New York State Urban Development Corp",
+      "percent": "2.10"
+    },
+    {
+      "ticker": "914302CA0",
+      "name": "University of Houston",
+      "percent": "2.10"
+    },
+    {
+      "ticker": "594615BD7",
+      "name": "Michigan State Building Authority",
+      "percent": "1.73"
+    },
+    {
+      "ticker": "13063CJG6",
+      "name": "State of California",
+      "percent": "1.70"
+    },
+    {
+      "ticker": "833221WE0",
+      "name": "Snohomish County School District No 201 Snohomish",
+      "percent": "1.57"
+    },
+    {
+      "ticker": "64972GUL6",
+      "name": "New York City Water & Sewer System",
+      "percent": "1.57"
+    },
+    {
+      "ticker": "13077CL69",
+      "name": "California State University",
+      "percent": "1.56"
+    },
+    {
+      "ticker": "57582P7B0",
+      "name": "Commonwealth of Massachusetts",
+      "percent": "1.56"
+    },
+    {
+      "ticker": "677522NZ3",
+      "name": "State of Ohio",
+      "percent": "1.56"
+    },
+    {
+      "ticker": "70914PYQ9",
+      "name": "Commonwealth of Pennsylvania",
+      "percent": "1.55"
+    },
+    {
+      "ticker": "5446465L2",
+      "name": "Los Angeles Unified School District/CA",
+      "percent": "1.55"
+    },
+    {
+      "ticker": "64990CN72",
+      "name": "New York State Dormitory Authority",
+      "percent": "1.54"
+    },
+    {
+      "ticker": "20774YRJ8",
+      "name": "Connecticut State Health & Educational Facilities Authority",
+      "percent": "1.53"
+    },
+    {
+      "ticker": "54473EQT4",
+      "name": "Los Angeles County Public Works Financing Authority",
+      "percent": "1.53"
+    },
+    {
+      "ticker": "93974DDL9",
+      "name": "State of Washington",
+      "percent": "1.52"
+    },
+    {
+      "ticker": "84247PHN4",
+      "name": "Southern California Public Power Authority",
+      "percent": "1.52"
+    },
+    {
+      "ticker": "544495L36",
+      "name": "Los Angeles Department of Water & Power Power System Revenue",
+      "percent": "1.52"
+    },
+    {
+      "ticker": "650035N53",
+      "name": "New York State Urban Development Corp",
+      "percent": "1.51"
+    },
+    {
+      "ticker": "86476PTY4",
+      "name": "County of Suffolk NY",
+      "percent": "1.46"
+    },
+    {
+      "ticker": "452152VW8",
+      "name": "State of Illinois",
+      "percent": "1.45"
+    },
+    {
+      "ticker": "57582RQV1",
+      "name": "Commonwealth of Massachusetts",
+      "percent": "1.38"
+    },
+    {
+      "ticker": "70914PD82",
+      "name": "Commonwealth of Pennsylvania",
+      "percent": "1.36"
+    },
+    {
+      "ticker": "040654WS0",
+      "name": "Arizona Department of Transportation State Highway Fund Reve",
+      "percent": "1.29"
+    },
+    {
+      "ticker": "-CASH-",
+      "name": "Cash/Receivables/Payables",
+      "percent": "1.20"
+    },
+    {
+      "ticker": "546589J52",
+      "name": "Louisville and Jefferson County Metropolitan Sewer District",
+      "percent": "1.16"
+    },
+    {
+      "ticker": "29270CG25",
+      "name": "Energy Northwest",
+      "percent": "1.15"
+    },
+    {
+      "ticker": "167562PH4",
+      "name": "Chicago Midway International Airport",
+      "percent": "1.11"
+    },
+    {
+      "ticker": "010685JZ9",
+      "name": "Alachua County Health Facilities Authority",
+      "percent": "1.02"
+    },
+    {
+      "ticker": "13063CYD6",
+      "name": "State of California",
+      "percent": "0.98"
+    },
+    {
+      "ticker": "66285WSC1",
+      "name": "North Texas Tollway Authority",
+      "percent": "0.95"
+    },
+    {
+      "ticker": "13063DPR3",
+      "name": "State of California",
+      "percent": "0.95"
+    },
+    {
+      "ticker": "59333FPK0",
+      "name": "County of Miami-Dade FL",
+      "percent": "0.85"
+    },
+    {
+      "ticker": "13067WKS0",
+      "name": "State of California Department of Water Resources",
+      "percent": "0.79"
+    },
+    {
+      "ticker": "882723SV2",
+      "name": "State of Texas",
+      "percent": "0.78"
+    },
+    {
+      "ticker": "13063CLW8",
+      "name": "State of California",
+      "percent": "0.78"
+    },
+    {
+      "ticker": "70914PB43",
+      "name": "Commonwealth of Pennsylvania",
+      "percent": "0.78"
+    },
+    {
+      "ticker": "373385DY6",
+      "name": "State of Georgia",
+      "percent": "0.78"
+    },
+    {
+      "ticker": "59266TQV6",
+      "name": "Metropolitan Water District of Southern California",
+      "percent": "0.78"
+    },
+    {
+      "ticker": "341507R78",
+      "name": "State of Florida Lottery Revenue",
+      "percent": "0.78"
+    },
+    {
+      "ticker": "13068LMK8",
+      "name": "California State Public Works Board",
+      "percent": "0.77"
+    },
+    {
+      "ticker": "717813WM7",
+      "name": "City of Philadelphia PA",
+      "percent": "0.77"
+    },
+    {
+      "ticker": "13063CSC5",
+      "name": "State of California",
+      "percent": "0.77"
+    },
+    {
+      "ticker": "235219KG6",
+      "name": "City of Dallas TX",
+      "percent": "0.76"
+    },
+    {
+      "ticker": "837151KJ7",
+      "name": "South Carolina Public Service Authority",
+      "percent": "0.76"
+    },
+    {
+      "ticker": "958697JS4",
+      "name": "Western Minnesota Municipal Power Agency",
+      "percent": "0.76"
+    },
+    {
+      "ticker": "64971WBB5",
+      "name": "New York City Transitional Finance Authority Future Tax Secu",
+      "percent": "0.76"
+    },
+    {
+      "ticker": "6461394W2",
+      "name": "New Jersey Turnpike Authority",
+      "percent": "0.76"
+    },
+    {
+      "ticker": "13063CJT8",
+      "name": "State of California",
+      "percent": "0.76"
+    },
+    {
+      "ticker": "646039VC8",
+      "name": "State of New Jersey",
+      "percent": "0.76"
+    },
+    {
+      "ticker": "6461394Z5",
+      "name": "New Jersey Turnpike Authority",
+      "percent": "0.75"
+    },
+    {
+      "ticker": "18085PQD9",
+      "name": "County of Clark Department of Aviation",
+      "percent": "0.75"
+    },
+    {
+      "ticker": "20772JSG8",
+      "name": "State of Connecticut",
+      "percent": "0.75"
+    },
+    {
+      "ticker": "6461395A9",
+      "name": "New Jersey Turnpike Authority",
+      "percent": "0.75"
+    },
+    {
+      "ticker": "73358WSZ8",
+      "name": "Port Authority of New York & New Jersey",
+      "percent": "0.75"
+    },
+    {
+      "ticker": "64990ACS2",
+      "name": "New York State Dormitory Authority",
+      "percent": "0.75"
+    },
+    {
+      "ticker": "593237FQ8",
+      "name": "Miami Beach Redevelopment Agency",
+      "percent": "0.75"
+    },
+    {
+      "ticker": "574193MV7",
+      "name": "State of Maryland",
+      "percent": "0.74"
+    },
+    {
+      "ticker": "04780TCU6",
+      "name": "City of Atlanta GA Airport Passenger Facility Charge",
+      "percent": "0.74"
+    },
+    {
+      "ticker": "574204D67",
+      "name": "State of Maryland Department of Transportation",
+      "percent": "0.74"
+    },
+    {
+      "ticker": "603827VW3",
+      "name": "Minneapolis-St Paul Metropolitan Airports Commission",
+      "percent": "0.74"
+    },
+    {
+      "ticker": "97705MLE3",
+      "name": "State of Wisconsin",
+      "percent": "0.74"
+    },
+    {
+      "ticker": "647719NF6",
+      "name": "City of New Orleans LA Sewerage Service Revenue",
+      "percent": "0.74"
+    },
+    {
+      "ticker": "646136U58",
+      "name": "New Jersey Transportation Trust Fund Authority",
+      "percent": "0.73"
+    },
+    {
+      "ticker": "574218RY1",
+      "name": "Maryland Health & Higher Educational Facilities Authority",
+      "percent": "0.73"
+    },
+    {
+      "ticker": "928109F51",
+      "name": "Commonwealth of Virginia",
+      "percent": "0.73"
+    },
+    {
+      "ticker": "03255LGV5",
+      "name": "Anaheim Public Financing Authority",
+      "percent": "0.71"
+    },
+    {
+      "ticker": "646136U82",
+      "name": "New Jersey Transportation Trust Fund Authority",
+      "percent": "0.71"
+    },
+    {
+      "ticker": "59333FPJ3",
+      "name": "County of Miami-Dade FL",
+      "percent": "0.70"
+    },
+    {
+      "ticker": "452152VG3",
+      "name": "State of Illinois",
+      "percent": "0.69"
+    },
+    {
+      "ticker": "59259YZ44",
+      "name": "Metropolitan Transportation Authority",
+      "percent": "0.69"
+    },
+    {
+      "ticker": "59259Y2Z1",
+      "name": "Metropolitan Transportation Authority",
+      "percent": "0.68"
+    },
+    {
+      "ticker": "452227GY1",
+      "name": "State of Illinois",
+      "percent": "0.68"
+    },
+    {
+      "ticker": "167486SU4",
+      "name": "City of Chicago IL",
+      "percent": "0.67"
+    },
+    {
+      "ticker": "088281RX0",
+      "name": "County of Bexar TX",
+      "percent": "0.66"
+    },
+    {
+      "ticker": "13068LG82",
+      "name": "California State Public Works Board",
+      "percent": "0.59"
+    },
+    {
+      "ticker": "207758SD6",
+      "name": "State of Connecticut Special Tax Revenue",
+      "percent": "0.58"
+    },
+    {
+      "ticker": "92778VBV9",
+      "name": "Virginia College Building Authority",
+      "percent": "0.50"
+    },
+    {
+      "ticker": "79467BBR5",
+      "name": "Sales Tax Securitization Corp",
+      "percent": "0.44"
+    },
+    {
+      "ticker": "4424355R0",
+      "name": "City of Houston TX Combined Utility System Revenue",
+      "percent": "0.43"
+    },
+    {
+      "ticker": "914455QK9",
+      "name": "University of Michigan",
+      "percent": "0.42"
+    },
+    {
+      "ticker": "679088AY0",
+      "name": "Oklahoma Capitol Improvement Authority",
+      "percent": "0.42"
+    },
+    {
+      "ticker": "419792LF1",
+      "name": "State of Hawaii",
+      "percent": "0.39"
+    },
+    {
+      "ticker": "047772ZT8",
+      "name": "City of Atlanta GA",
+      "percent": "0.39"
+    },
+    {
+      "ticker": "574193PC6",
+      "name": "State of Maryland",
+      "percent": "0.39"
+    },
+    {
+      "ticker": "463813ZL2",
+      "name": "Irving Independent School District",
+      "percent": "0.38"
+    },
+    {
+      "ticker": "04780TCS1",
+      "name": "City of Atlanta GA Airport Passenger Facility Charge",
+      "percent": "0.37"
+    },
+    {
+      "ticker": "880558HH7",
+      "name": "Tennessee State School Bond Authority",
+      "percent": "0.35"
+    },
+    {
+      "ticker": "93974DGK8",
+      "name": "State of Washington",
+      "percent": "0.34"
+    },
+    {
+      "ticker": "65821DVM0",
+      "name": "North Carolina Medical Care Commission",
+      "percent": "0.33"
+    },
+    {
+      "ticker": "235308UV3",
+      "name": "Dallas Independent School District",
+      "percent": "0.31"
+    },
+    {
+      "ticker": "54466HCB0",
+      "name": "Los Angeles County Metropolitan Transportation Authority",
+      "percent": "0.31"
+    },
+    {
+      "ticker": "71883RNK5",
+      "name": "City of Phoenix Civic Improvement Corp",
+      "percent": "0.31"
+    },
+    {
+      "ticker": "68607DSE6",
+      "name": "State of Oregon Department of Transportation",
+      "percent": "0.28"
+    },
+    {
+      "ticker": "91514AGE9",
+      "name": "Board of Regents of the University of Texas System",
+      "percent": "0.27"
+    },
+    {
+      "ticker": "938429K55",
+      "name": "Washington & Multnomah Counties School District No 48J Beave",
+      "percent": "0.27"
+    },
+    {
+      "ticker": "45203HA36",
+      "name": "Illinois Finance Authority",
+      "percent": "0.27"
+    },
+    {
+      "ticker": "91412GTT2",
+      "name": "University of California",
+      "percent": "0.27"
+    },
+    {
+      "ticker": "882854ZR6",
+      "name": "Texas Water Development Board",
+      "percent": "0.27"
+    },
+    {
+      "ticker": "13063DKZ0",
+      "name": "State of California",
+      "percent": "0.27"
+    },
+    {
+      "ticker": "574193PY8",
+      "name": "State of Maryland",
+      "percent": "0.27"
+    },
+    {
+      "ticker": "79765RF79",
+      "name": "City of San Francisco CA Public Utilities Commission Water R",
+      "percent": "0.24"
+    },
+    {
+      "ticker": "794665GD5",
+      "name": "Sales Tax Asset Receivable Corp",
+      "percent": "0.24"
+    },
+    {
+      "ticker": "235241PD2",
+      "name": "Dallas Area Rapid Transit",
+      "percent": "0.23"
+    },
+    {
+      "ticker": "010609AW5",
+      "name": "Alabama Public School and College Authority",
+      "percent": "0.23"
+    },
+    {
+      "ticker": "467578HM5",
+      "name": "County of Jackson MO",
+      "percent": "0.23"
+    },
+    {
+      "ticker": "181059UM6",
+      "name": "Clark County School District",
+      "percent": "0.23"
+    },
+    {
+      "ticker": "4424355M1",
+      "name": "City of Houston TX Combined Utility System Revenue",
+      "percent": "0.20"
+    },
+    {
+      "ticker": "249174TT0",
+      "name": "Denver City & County School District No 1",
+      "percent": "0.20"
+    },
+    {
+      "ticker": "25477GPU3",
+      "name": "District of Columbia",
+      "percent": "0.20"
+    },
+    {
+      "ticker": "249182JW7",
+      "name": "City & County of Denver CO Airport System Revenue",
+      "percent": "0.19"
+    },
+    {
+      "ticker": "574193NW4",
+      "name": "State of Maryland",
+      "percent": "0.19"
+    },
+    {
+      "ticker": "851018KM2",
+      "name": "City of Springfield MO Public Utility Revenue",
+      "percent": "0.19"
+    },
+    {
+      "ticker": "25476FWN4",
+      "name": "District of Columbia",
+      "percent": "0.19"
+    },
+    {
+      "ticker": "977123K49",
+      "name": "Wisconsin Department of Transportation",
+      "percent": "0.19"
+    },
+    {
+      "ticker": "64966LV73",
+      "name": "City of New York NY",
+      "percent": "0.19"
+    },
+    {
+      "ticker": "64990FVU5",
+      "name": "New York State Dormitory Authority",
+      "percent": "0.19"
+    },
+    {
+      "ticker": "258885N24",
+      "name": "Douglas County School District No Re-1 Douglas & Elbert Coun",
+      "percent": "0.16"
+    },
+    {
+      "ticker": "97705MBK0",
+      "name": "State of Wisconsin",
+      "percent": "0.16"
+    },
+    {
+      "ticker": "6775223L6",
+      "name": "State of Ohio",
+      "percent": "0.16"
+    },
+    {
+      "ticker": "56045PDF7",
+      "name": "Maine Municipal Bond Bank",
+      "percent": "0.16"
+    },
+    {
+      "ticker": "54438CSY9",
+      "name": "Los Angeles Community College District/CA",
+      "percent": "0.16"
+    },
+    {
+      "ticker": "93974DLQ9",
+      "name": "State of Washington",
+      "percent": "0.16"
+    },
+    {
+      "ticker": "414005WD6",
+      "name": "HARRIS COUNTY OF",
+      "percent": "0.16"
+    },
+    {
+      "ticker": "574193NF1",
+      "name": "State of Maryland",
+      "percent": "0.15"
+    },
+    {
+      "ticker": "882723RD3",
+      "name": "State of Texas",
+      "percent": "0.15"
+    },
+    {
+      "ticker": "59447PZM6",
+      "name": "Michigan Finance Authority",
+      "percent": "0.15"
+    },
+    {
+      "ticker": "262608SP8",
+      "name": "Du Page & Will Counties Community School District No 204 Ind",
+      "percent": "0.15"
+    },
+    {
+      "ticker": "97705MFF7",
+      "name": "State of Wisconsin",
+      "percent": "0.15"
+    },
+    {
+      "ticker": "917542VB5",
+      "name": "State of Utah",
+      "percent": "0.12"
+    },
+    {
+      "ticker": "9151154D8",
+      "name": "Permanent University Fund - University of Texas System",
+      "percent": "0.12"
+    },
+    {
+      "ticker": "64711RLD6",
+      "name": "New Mexico Finance Authority",
+      "percent": "0.12"
+    },
+    {
+      "ticker": "64971WMZ0",
+      "name": "New York City Transitional Finance Authority Future Tax Secu",
+      "percent": "0.11"
+    },
+    {
+      "ticker": "59259N6X6",
+      "name": "Metropolitan Transportation Authority",
+      "percent": "0.11"
+    },
+    {
+      "ticker": "64990EMS3",
+      "name": "New York State Dormitory Authority",
+      "percent": "0.11"
+    },
+    {
+      "ticker": "64971WEF3",
+      "name": "New York City Transitional Finance Authority Future Tax Secu",
+      "percent": "0.11"
+    },
+    {
+      "ticker": "67766WVS8",
+      "name": "Ohio Water Development Authority Water Pollution Control Loa",
+      "percent": "0.08"
+    },
+    {
+      "ticker": "45470RCS3",
+      "name": "Indiana Finance Authority",
+      "percent": "0.08"
+    },
+    {
+      "ticker": "30382ACG5",
+      "name": "County of Fairfax VA",
+      "percent": "0.08"
+    },
+    {
+      "ticker": "92778UBT6",
+      "name": "Virginia Commonwealth Transportation Board",
+      "percent": "0.08"
+    },
+    {
+      "ticker": "9151374D2",
+      "name": "Board of Regents of the University of Texas System",
+      "percent": "0.08"
+    },
+    {
+      "ticker": "677522CH5",
+      "name": "State of Ohio",
+      "percent": "0.08"
+    },
+    {
+      "ticker": "574193PK8",
+      "name": "State of Maryland",
+      "percent": "0.08"
+    },
+    {
+      "ticker": "95649ACJ1",
+      "name": "West Virginia Commissioner of Highways",
+      "percent": "0.08"
+    },
+    {
+      "ticker": "79730CGP3",
+      "name": "San Diego Public Facilities Financing Authority",
+      "percent": "0.08"
+    },
+    {
+      "ticker": "89602N5B6",
+      "name": "Triborough Bridge & Tunnel Authority",
+      "percent": "0.08"
+    },
+    {
+      "ticker": "6582564D1",
+      "name": "State of North Carolina",
+      "percent": "0.08"
+    },
+    {
+      "ticker": "67766WWU2",
+      "name": "Ohio Water Development Authority Water Pollution Control Loa",
+      "percent": "0.08"
+    },
+    {
+      "ticker": "64966MSS9",
+      "name": "City of New York NY",
+      "percent": "0.08"
+    },
+    {
+      "ticker": "64966MPB9",
+      "name": "City of New York NY",
+      "percent": "0.08"
+    },
+    {
+      "ticker": "64971WMW7",
+      "name": "New York City Transitional Finance Authority Future Tax Secu",
+      "percent": "0.08"
+    },
+    {
+      "ticker": "679088AZ7",
+      "name": "Oklahoma Capitol Improvement Authority",
+      "percent": "0.08"
+    },
+    {
+      "ticker": "584002PY9",
+      "name": "County of Mecklenburg NC",
+      "percent": "0.07"
+    },
+    {
+      "ticker": "75913TGU2",
+      "name": "Regional Transportation District",
+      "percent": "0.07"
+    },
+    {
+      "ticker": "442403KG5",
+      "name": "Houston Independent School District",
+      "percent": "0.07"
+    },
+    {
+      "ticker": "64972GFC3",
+      "name": "New York City Water & Sewer System",
+      "percent": "0.07"
+    },
+    {
+      "ticker": "794665FR5",
+      "name": "Sales Tax Asset Receivable Corp",
+      "percent": "0.07"
+    },
+    {
+      "ticker": "917393BN9",
+      "name": "County of Utah UT",
+      "percent": "0.07"
+    },
+    {
+      "ticker": "677581GF1",
+      "name": "State of Ohio",
+      "percent": "0.04"
+    },
+    {
+      "ticker": "54438CUS9",
+      "name": "Los Angeles Community College District/CA",
+      "percent": "0.04"
+    },
+    {
+      "ticker": "90171TAZ3",
+      "name": "Twin Rivers Unified School District",
+      "percent": "0.04"
+    }
+  ]
+}

@@ -1,0 +1,185 @@
+{
+  "Products": "Dynamic Media ETF",
+  "Ticker": "PBS",
+  "Inception": "06/23/2005",
+  "Gross Exp. Ratio": "0.67%",
+  "YTD": "6.49",
+  "1Yr": "15.81",
+  "3Yr": "9.64",
+  "5Yr": "9.16",
+  "10Yr": "12.02",
+  "Since Incept.": "6.60",
+  "Category": "Multi Factor",
+  "SubCategory": "Intellidex Industries",
+  "ticker": "PBS",
+  "name": "Dynamic Media ETF",
+  "issuer": "Invesco",
+  "website": "https://www.invesco.com/us/financial-products/etfs/product-detail?audienceType=Investor&ticker=PBS",
+  "holdingDataSource": {
+    "url": "https://www.invesco.com/us/financial-products/etfs/holdings/main/holdings/0?audienceType=Investor&action=download&ticker=PBS",
+    "fileExt": "csv",
+    "transform": "invesco"
+  },
+  "holdings": [
+    {
+      "ticker": "TWTR",
+      "name": "Twitter Inc",
+      "percent": "5.586"
+    },
+    {
+      "ticker": "INFO",
+      "name": "IHS Markit Ltd",
+      "percent": "4.992"
+    },
+    {
+      "ticker": "NFLX",
+      "name": "Netflix Inc",
+      "percent": "4.967"
+    },
+    {
+      "ticker": "MTCH",
+      "name": "Match Group Inc",
+      "percent": "4.956"
+    },
+    {
+      "ticker": "SPOT",
+      "name": "Spotify Technology SA",
+      "percent": "4.755"
+    },
+    {
+      "ticker": "GOOGL",
+      "name": "Alphabet Inc",
+      "percent": "4.742"
+    },
+    {
+      "ticker": "DIS",
+      "name": "Walt Disney Co/The",
+      "percent": "4.671"
+    },
+    {
+      "ticker": "FB",
+      "name": "Facebook Inc",
+      "percent": "4.467"
+    },
+    {
+      "ticker": "FVRR",
+      "name": "Fiverr International Ltd",
+      "percent": "4.092"
+    },
+    {
+      "ticker": "PINS",
+      "name": "Pinterest Inc",
+      "percent": "3.432"
+    },
+    {
+      "ticker": "TTGT",
+      "name": "TechTarget Inc",
+      "percent": "3.370"
+    },
+    {
+      "ticker": "QNST",
+      "name": "QuinStreet Inc",
+      "percent": "3.236"
+    },
+    {
+      "ticker": "QRTEA",
+      "name": "Qurate Retail Inc",
+      "percent": "3.200"
+    },
+    {
+      "ticker": "Z",
+      "name": "Zillow Group Inc",
+      "percent": "3.061"
+    },
+    {
+      "ticker": "SINA",
+      "name": "SINA Corp/China",
+      "percent": "2.825"
+    },
+    {
+      "ticker": "NYT",
+      "name": "New York Times Co/The",
+      "percent": "2.729"
+    },
+    {
+      "ticker": "EVER",
+      "name": "EverQuote Inc",
+      "percent": "2.668"
+    },
+    {
+      "ticker": "IPG",
+      "name": "Interpublic Group of Cos Inc/The",
+      "percent": "2.666"
+    },
+    {
+      "ticker": "SIRI",
+      "name": "Sirius XM Holdings Inc",
+      "percent": "2.659"
+    },
+    {
+      "ticker": "VIAC",
+      "name": "ViacomCBS Inc",
+      "percent": "2.655"
+    },
+    {
+      "ticker": "FOXA",
+      "name": "Fox Corp",
+      "percent": "2.617"
+    },
+    {
+      "ticker": "OMC",
+      "name": "Omnicom Group Inc",
+      "percent": "2.565"
+    },
+    {
+      "ticker": "NWSA",
+      "name": "News Corp",
+      "percent": "2.508"
+    },
+    {
+      "ticker": "AMCX",
+      "name": "AMC Networks Inc",
+      "percent": "2.485"
+    },
+    {
+      "ticker": "DISCA",
+      "name": "Discovery Inc",
+      "percent": "2.463"
+    },
+    {
+      "ticker": "YNDX",
+      "name": "Yandex NV",
+      "percent": "2.412"
+    },
+    {
+      "ticker": "LGF/A",
+      "name": "Lions Gate Entertainment Corp",
+      "percent": "2.357"
+    },
+    {
+      "ticker": "GTN",
+      "name": "Gray Television Inc",
+      "percent": "2.232"
+    },
+    {
+      "ticker": "DISH",
+      "name": "DISH Network Corp",
+      "percent": "2.141"
+    },
+    {
+      "ticker": "ANGI",
+      "name": "ANGI Homeservices Inc",
+      "percent": "2.141"
+    },
+    {
+      "ticker": "AGPXX",
+      "name": "STIT - Government & Agency Portfolio",
+      "percent": "0.347"
+    },
+    {
+      "ticker": "-CASH-",
+      "name": "Cash/Receivables/Payables",
+      "percent": "0.000"
+    }
+  ]
+}

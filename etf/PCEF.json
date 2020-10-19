@@ -1,0 +1,680 @@
+{
+  "Products": "CEF Income Composite ETF",
+  "Ticker": "PCEF",
+  "Inception": "02/19/2010",
+  "Gross Exp. Ratio": "2.55%",
+  "YTD": "-7.12",
+  "1Yr": "-2.37",
+  "3Yr": "1.98",
+  "5Yr": "7.27",
+  "10Yr": "5.53",
+  "Since Incept.": "6.05",
+  "Category": "Income",
+  "SubCategory": "Core Plus",
+  "ticker": "PCEF",
+  "name": "CEF Income Composite ETF",
+  "issuer": "Invesco",
+  "website": "https://www.invesco.com/us/financial-products/etfs/product-detail?audienceType=Investor&ticker=PCEF",
+  "holdingDataSource": {
+    "url": "https://www.invesco.com/us/financial-products/etfs/holdings/main/holdings/0?audienceType=Investor&action=download&ticker=PCEF",
+    "fileExt": "csv",
+    "transform": "invesco"
+  },
+  "holdings": [
+    {
+      "ticker": "EXG",
+      "name": "Eaton Vance Tax-Managed Global Diversified Equity Income Fun",
+      "percent": "3.711"
+    },
+    {
+      "ticker": "PCI",
+      "name": "PIMCO Dynamic Credit and Mortgage Income Fund",
+      "percent": "2.524"
+    },
+    {
+      "ticker": "BDJ",
+      "name": "BlackRock Enhanced Equity Dividend Trust",
+      "percent": "2.423"
+    },
+    {
+      "ticker": "EVV",
+      "name": "Eaton Vance Ltd Duration Income Fund",
+      "percent": "2.423"
+    },
+    {
+      "ticker": "BXMX",
+      "name": "Nuveen S&P 500 Buy-Write Income Fund",
+      "percent": "2.125"
+    },
+    {
+      "ticker": "NFJ",
+      "name": "AllianzGI Dividend Interest & Premium Strategy Fund",
+      "percent": "2.117"
+    },
+    {
+      "ticker": "ETY",
+      "name": "Eaton Vance Tax-Managed Diversified Equity Income Fund",
+      "percent": "2.108"
+    },
+    {
+      "ticker": "BTZ",
+      "name": "BlackRock Credit Allocation Income Trust",
+      "percent": "2.051"
+    },
+    {
+      "ticker": "JPS",
+      "name": "Nuveen Preferred & Income Securities Fund",
+      "percent": "1.961"
+    },
+    {
+      "ticker": "FAX",
+      "name": "Aberdeen Asia-Pacific Income Fund Inc",
+      "percent": "1.939"
+    },
+    {
+      "ticker": "DSL",
+      "name": "DoubleLine Income Solutions Fund",
+      "percent": "1.737"
+    },
+    {
+      "ticker": "AWF",
+      "name": "AllianceBernstein Global High Income Fund Inc",
+      "percent": "1.625"
+    },
+    {
+      "ticker": "HYT",
+      "name": "BlackRock Corporate High Yield Fund Inc",
+      "percent": "1.606"
+    },
+    {
+      "ticker": "JQC",
+      "name": "Nuveen Credit Strategies Income Fund",
+      "percent": "1.558"
+    },
+    {
+      "ticker": "HFRO",
+      "name": "Highland Income Fund",
+      "percent": "1.518"
+    },
+    {
+      "ticker": "EMD",
+      "name": "Western Asset Emerging Markets Debt Fund Inc",
+      "percent": "1.497"
+    },
+    {
+      "ticker": "ETW",
+      "name": "Eaton Vance Tax Managed Global Buy Write Opportunities Fund",
+      "percent": "1.448"
+    },
+    {
+      "ticker": "FPF",
+      "name": "First Trust Intermediate Duration Preferred & Income Fund",
+      "percent": "1.446"
+    },
+    {
+      "ticker": "WIW",
+      "name": "Western Asset Inflation-Linked Opportunities & Income Fund",
+      "percent": "1.392"
+    },
+    {
+      "ticker": "GIM",
+      "name": "Templeton Global Income Fund",
+      "percent": "1.384"
+    },
+    {
+      "ticker": "NHF",
+      "name": "NexPoint Strategic Opportunities Fund",
+      "percent": "1.376"
+    },
+    {
+      "ticker": "BBN",
+      "name": "BlackRock Taxable Municipal Bond Trust",
+      "percent": "1.356"
+    },
+    {
+      "ticker": "PDI",
+      "name": "Pimco Dynamic Income Fund",
+      "percent": "1.335"
+    },
+    {
+      "ticker": "RA",
+      "name": "Brookfield Real Assets Income Fund Inc",
+      "percent": "1.284"
+    },
+    {
+      "ticker": "CII",
+      "name": "BlackRock Enhanced Capital and Income Fund Inc",
+      "percent": "1.215"
+    },
+    {
+      "ticker": "BOE",
+      "name": "BlackRock Enhanced Global Dividend Trust",
+      "percent": "1.161"
+    },
+    {
+      "ticker": "BCX",
+      "name": "BlackRock Resources & Commodities Strategy Trust",
+      "percent": "1.108"
+    },
+    {
+      "ticker": "HTD",
+      "name": "John Hancock Tax-Advantaged Dividend Income Fund",
+      "percent": "1.101"
+    },
+    {
+      "ticker": "ETV",
+      "name": "Eaton Vance Tax-Managed Buy-Write Opportunities Fund",
+      "percent": "1.095"
+    },
+    {
+      "ticker": "VVR",
+      "name": "Invesco Senior Income Trust",
+      "percent": "1.091"
+    },
+    {
+      "ticker": "GHY",
+      "name": "PGIM Global High Yield Fund Inc",
+      "percent": "1.050"
+    },
+    {
+      "ticker": "BST",
+      "name": "Blackrock Science & Technology Trust",
+      "percent": "1.016"
+    },
+    {
+      "ticker": "EFT",
+      "name": "Eaton Vance Floating-Rate Income Trust",
+      "percent": "1.001"
+    },
+    {
+      "ticker": "BGY",
+      "name": "BlackRock Enhanced International Dividend Trust",
+      "percent": "1.000"
+    },
+    {
+      "ticker": "JPC",
+      "name": "Nuveen Preferred & Income Opportunities Fund",
+      "percent": "0.970"
+    },
+    {
+      "ticker": "BGB",
+      "name": "Blackstone / GSO Strategic Credit Fund",
+      "percent": "0.969"
+    },
+    {
+      "ticker": "BIT",
+      "name": "BlackRock Multi-Sector Income Trust",
+      "percent": "0.955"
+    },
+    {
+      "ticker": "IGD",
+      "name": "Voya Global Equity Dividend and Premium Opportunity Fund",
+      "percent": "0.953"
+    },
+    {
+      "ticker": "HIO",
+      "name": "Western Asset High Income Opportunity Fund Inc",
+      "percent": "0.951"
+    },
+    {
+      "ticker": "BHK",
+      "name": "BlackRock Core Bond Trust",
+      "percent": "0.932"
+    },
+    {
+      "ticker": "QQQX",
+      "name": "Nuveen NASDAQ 100 Dynamic Overwrite Fund",
+      "percent": "0.927"
+    },
+    {
+      "ticker": "DIAX",
+      "name": "Nuveen Dow 30sm Dynamic Overwrite Fund",
+      "percent": "0.895"
+    },
+    {
+      "ticker": "EFR",
+      "name": "Eaton Vance Senior Floating-Rate Trust",
+      "percent": "0.894"
+    },
+    {
+      "ticker": "ISD",
+      "name": "PGIM High Yield Bond Fund Inc",
+      "percent": "0.893"
+    },
+    {
+      "ticker": "EOS",
+      "name": "Eaton Vance Enhanced Equity Income Fund II",
+      "percent": "0.892"
+    },
+    {
+      "ticker": "FSD",
+      "name": "First Trust High Income Long/Short Fund",
+      "percent": "0.829"
+    },
+    {
+      "ticker": "DSU",
+      "name": "BlackRock Debt Strategies Fund Inc",
+      "percent": "0.809"
+    },
+    {
+      "ticker": "FRA",
+      "name": "BlackRock Floating Rate Income Strategies Fund Inc",
+      "percent": "0.806"
+    },
+    {
+      "ticker": "BLW",
+      "name": "BlackRock Limited Duration Income Trust",
+      "percent": "0.805"
+    },
+    {
+      "ticker": "FFC",
+      "name": "Flaherty & Crumrine Preferred and Income Securities Fund Inc",
+      "percent": "0.798"
+    },
+    {
+      "ticker": "EAD",
+      "name": "Wells Fargo Income Opportunities Fund",
+      "percent": "0.784"
+    },
+    {
+      "ticker": "LDP",
+      "name": "Cohen & Steers Limited Duration Preferred and Income Fund In",
+      "percent": "0.726"
+    },
+    {
+      "ticker": "TEI",
+      "name": "Templeton Emerging Markets Income Fund",
+      "percent": "0.710"
+    },
+    {
+      "ticker": "HIX",
+      "name": "Western Asset High Income Fund II Inc",
+      "percent": "0.676"
+    },
+    {
+      "ticker": "GOF",
+      "name": "Guggenheim Strategic Opportunities Fund",
+      "percent": "0.666"
+    },
+    {
+      "ticker": "EOI",
+      "name": "Eaton Vance Enhanced Equity Income Fund",
+      "percent": "0.653"
+    },
+    {
+      "ticker": "PHK",
+      "name": "PIMCO High Income Fund",
+      "percent": "0.622"
+    },
+    {
+      "ticker": "ARDC",
+      "name": "Ares Dynamic Credit Allocation Fund Inc",
+      "percent": "0.583"
+    },
+    {
+      "ticker": "PDT",
+      "name": "John Hancock Premium Dividend Fund",
+      "percent": "0.580"
+    },
+    {
+      "ticker": "NBB",
+      "name": "Nuveen Taxable Municipal Income Fund",
+      "percent": "0.578"
+    },
+    {
+      "ticker": "PFN",
+      "name": "PIMCO Income Strategy Fund II",
+      "percent": "0.569"
+    },
+    {
+      "ticker": "ETJ",
+      "name": "Eaton Vance Risk-Managed Diversified Equity Income Fund",
+      "percent": "0.568"
+    },
+    {
+      "ticker": "WIA",
+      "name": "Western Asset Inflation - Linked Securities & Income Fund",
+      "percent": "0.567"
+    },
+    {
+      "ticker": "JGH",
+      "name": "Nuveen Global High Income Fund",
+      "percent": "0.561"
+    },
+    {
+      "ticker": "MIN",
+      "name": "MFS Intermediate Income Trust",
+      "percent": "0.538"
+    },
+    {
+      "ticker": "EHI",
+      "name": "Western Asset Global High Income Fund Inc",
+      "percent": "0.536"
+    },
+    {
+      "ticker": "MMT",
+      "name": "MFS Multimarket Income Trust",
+      "percent": "0.530"
+    },
+    {
+      "ticker": "PPT",
+      "name": "Putnam Premier Income Trust",
+      "percent": "0.516"
+    },
+    {
+      "ticker": "FCT",
+      "name": "First Trust Senior Floating Rate Income Fund II",
+      "percent": "0.507"
+    },
+    {
+      "ticker": "GPM",
+      "name": "Guggenheim Enhanced Equity Income Fund",
+      "percent": "0.504"
+    },
+    {
+      "ticker": "ERC",
+      "name": "Wells Fargo Multi-Sector Income Fund",
+      "percent": "0.501"
+    },
+    {
+      "ticker": "BGT",
+      "name": "BlackRock Floating Rate Income Trust",
+      "percent": "0.497"
+    },
+    {
+      "ticker": "BME",
+      "name": "BlackRock Health Sciences Trust",
+      "percent": "0.483"
+    },
+    {
+      "ticker": "FFA",
+      "name": "First Trust Enhanced Equity Income Fund",
+      "percent": "0.483"
+    },
+    {
+      "ticker": "HPS",
+      "name": "John Hancock Preferred Income Fund III",
+      "percent": "0.471"
+    },
+    {
+      "ticker": "BGH",
+      "name": "Barings Global Short Duration High Yield Fund",
+      "percent": "0.469"
+    },
+    {
+      "ticker": "JPI",
+      "name": "Nuveen Preferred & Income Term Fund",
+      "percent": "0.465"
+    },
+    {
+      "ticker": "DFP",
+      "name": "Flaherty & Crumrine Dynamic Preferred and Income Fund Inc",
+      "percent": "0.458"
+    },
+    {
+      "ticker": "FINS",
+      "name": "Angel Oak Financial Strategies Income Term Trust",
+      "percent": "0.457"
+    },
+    {
+      "ticker": "MCR",
+      "name": "MFS Charter Income Trust",
+      "percent": "0.452"
+    },
+    {
+      "ticker": "HPI",
+      "name": "John Hancock Preferred Income Fund",
+      "percent": "0.437"
+    },
+    {
+      "ticker": "EVG",
+      "name": "Eaton Vance Short Duration Diversified Income Fund",
+      "percent": "0.426"
+    },
+    {
+      "ticker": "GBAB",
+      "name": "Guggenheim Taxable Municipal Managed Duration Trust",
+      "percent": "0.424"
+    },
+    {
+      "ticker": "BKT",
+      "name": "BlackRock Income Trust Inc",
+      "percent": "0.420"
+    },
+    {
+      "ticker": "HYI",
+      "name": "Western Asset High Yield Defined Opportunity Fund Inc",
+      "percent": "0.402"
+    },
+    {
+      "ticker": "PKO",
+      "name": "PIMCO Income Opportunity Fund",
+      "percent": "0.395"
+    },
+    {
+      "ticker": "DHY",
+      "name": "Credit Suisse High Yield Bond Fund",
+      "percent": "0.381"
+    },
+    {
+      "ticker": "PHD",
+      "name": "Pioneer Floating Rate Trust",
+      "percent": "0.379"
+    },
+    {
+      "ticker": "SPXX",
+      "name": "Nuveen S&P 500 Dynamic Overwrite Fund",
+      "percent": "0.376"
+    },
+    {
+      "ticker": "IDE",
+      "name": "Voya Infrastructure Industrials and Materials Fund",
+      "percent": "0.370"
+    },
+    {
+      "ticker": "HYB",
+      "name": "New America High Income Fund Inc/The",
+      "percent": "0.366"
+    },
+    {
+      "ticker": "PHT",
+      "name": "Pioneer High Income Trust",
+      "percent": "0.359"
+    },
+    {
+      "ticker": "HPF",
+      "name": "John Hancock Preferred Income Fund II",
+      "percent": "0.355"
+    },
+    {
+      "ticker": "MSD",
+      "name": "Morgan Stanley Emerging Markets Debt Fund Inc",
+      "percent": "0.354"
+    },
+    {
+      "ticker": "DHF",
+      "name": "BNY Mellon High Yield Strategies Fund",
+      "percent": "0.351"
+    },
+    {
+      "ticker": "FT",
+      "name": "Franklin Universal Trust",
+      "percent": "0.345"
+    },
+    {
+      "ticker": "IVH",
+      "name": "Ivy High Income Opportunities Fund",
+      "percent": "0.344"
+    },
+    {
+      "ticker": "STK",
+      "name": "Columbia Seligman Premium Technology Growth Fund Inc",
+      "percent": "0.339"
+    },
+    {
+      "ticker": "ETB",
+      "name": "Eaton Vance Tax-Managed Buy-Write Income Fund",
+      "percent": "0.334"
+    },
+    {
+      "ticker": "GDO",
+      "name": "Western Asset Global Corporate Defined Opportunity Fund Inc",
+      "percent": "0.328"
+    },
+    {
+      "ticker": "FTF",
+      "name": "Franklin Ltd Duration Income Trust",
+      "percent": "0.319"
+    },
+    {
+      "ticker": "BGR",
+      "name": "BlackRock Energy and Resources Trust",
+      "percent": "0.319"
+    },
+    {
+      "ticker": "IGA",
+      "name": "Voya Global Advantage and Premium Opportunity Fund",
+      "percent": "0.301"
+    },
+    {
+      "ticker": "BGX",
+      "name": "Blackstone/GSO Long-Short Credit Income Fund",
+      "percent": "0.292"
+    },
+    {
+      "ticker": "PFL",
+      "name": "PIMCO Income Strategy Fund",
+      "percent": "0.283"
+    },
+    {
+      "ticker": "VBF",
+      "name": "Invesco Bond Fund",
+      "percent": "0.281"
+    },
+    {
+      "ticker": "CIK",
+      "name": "Credit Suisse Asset Management Income Fund Inc",
+      "percent": "0.273"
+    },
+    {
+      "ticker": "INSI",
+      "name": "Insight Select Income Fund",
+      "percent": "0.272"
+    },
+    {
+      "ticker": "DBL",
+      "name": "DoubleLine Opportunistic Credit Fund",
+      "percent": "0.270"
+    },
+    {
+      "ticker": "PSF",
+      "name": "Cohen & Steers Select Preferred and Income Fund Inc",
+      "percent": "0.269"
+    },
+    {
+      "ticker": "NHS",
+      "name": "Neuberger Berman High Yield Strategies Fund Inc",
+      "percent": "0.267"
+    },
+    {
+      "ticker": "PIM",
+      "name": "Putnam Master Intermediate Income Trust",
+      "percent": "0.264"
+    },
+    {
+      "ticker": "TSI",
+      "name": "TCW Strategic Income Fund Inc",
+      "percent": "0.249"
+    },
+    {
+      "ticker": "RCS",
+      "name": "PIMCO Strategic Income Fund Inc",
+      "percent": "0.246"
+    },
+    {
+      "ticker": "MCN",
+      "name": "Madison Covered Call & Equity Strategy Fund",
+      "percent": "0.246"
+    },
+    {
+      "ticker": "OPP",
+      "name": "RiverNorth/DoubleLine Strategic Opportunity Fund Inc",
+      "percent": "0.238"
+    },
+    {
+      "ticker": "IHIT",
+      "name": "Invesco High Income 2023 Target Term Fund",
+      "percent": "0.213"
+    },
+    {
+      "ticker": "HEQ",
+      "name": "John Hancock Hedged Equity & Income Fund",
+      "percent": "0.208"
+    },
+    {
+      "ticker": "IGI",
+      "name": "Western Asset Investment Grade Defined Opportunity Trust Inc",
+      "percent": "0.207"
+    },
+    {
+      "ticker": "GNT",
+      "name": "GAMCO Natural Resources Gold & Income Trust",
+      "percent": "0.203"
+    },
+    {
+      "ticker": "VGI",
+      "name": "Virtus Global Multi-Sector Income Fund",
+      "percent": "0.195"
+    },
+    {
+      "ticker": "FLC",
+      "name": "Flaherty & Crumrine Total Return Fund Inc",
+      "percent": "0.194"
+    },
+    {
+      "ticker": "FSLF",
+      "name": "First Eagle Senior Loan Fund",
+      "percent": "0.193"
+    },
+    {
+      "ticker": "FAM",
+      "name": "First Trust Aberdeen Global Opportunity Income Fund",
+      "percent": "0.189"
+    },
+    {
+      "ticker": "JLS",
+      "name": "Nuveen Mortgage and Income Fund",
+      "percent": "0.168"
+    },
+    {
+      "ticker": "MGF",
+      "name": "MFS Government Markets Income Trust",
+      "percent": "0.164"
+    },
+    {
+      "ticker": "GGM",
+      "name": "Guggenheim Credit Allocation Fund",
+      "percent": "0.148"
+    },
+    {
+      "ticker": "EXD",
+      "name": "Eaton Vance Tax-Managed Buy-Wr",
+      "percent": "0.116"
+    },
+    {
+      "ticker": "EDF",
+      "name": "Stone Harbor Emerging Markets Income Fund",
+      "percent": "0.098"
+    },
+    {
+      "ticker": "AGPXX",
+      "name": "STIT - Government & Agency Portfolio",
+      "percent": "0.062"
+    },
+    {
+      "ticker": "-CASH-",
+      "name": "Cash/Receivables/Payables",
+      "percent": "0.000"
+    }
+  ]
+}

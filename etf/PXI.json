@@ -1,0 +1,235 @@
+{
+  "Products": "DWA Energy Momentum ETF",
+  "Ticker": "PXI",
+  "Inception": "10/12/2006",
+  "Gross Exp. Ratio": "0.75%",
+  "YTD": "-53.55",
+  "1Yr": "-49.24",
+  "3Yr": "-27.57",
+  "5Yr": "-17.20",
+  "10Yr": "-7.08",
+  "Since Incept.": "-3.87",
+  "Category": "Factor Access",
+  "SubCategory": "Dorsey Wright Sectors",
+  "ticker": "PXI",
+  "name": "DWA Energy Momentum ETF",
+  "issuer": "Invesco",
+  "website": "https://www.invesco.com/us/financial-products/etfs/product-detail?audienceType=Investor&ticker=PXI",
+  "holdingDataSource": {
+    "url": "https://www.invesco.com/us/financial-products/etfs/holdings/main/holdings/0?audienceType=Investor&action=download&ticker=PXI",
+    "fileExt": "csv",
+    "transform": "invesco"
+  },
+  "holdings": [
+    {
+      "ticker": "LNG",
+      "name": "Cheniere Energy Inc",
+      "percent": "5.344"
+    },
+    {
+      "ticker": "VLO",
+      "name": "Valero Energy Corp",
+      "percent": "4.373"
+    },
+    {
+      "ticker": "WMB",
+      "name": "Williams Cos Inc/The",
+      "percent": "4.352"
+    },
+    {
+      "ticker": "COP",
+      "name": "ConocoPhillips",
+      "percent": "3.959"
+    },
+    {
+      "ticker": "COG",
+      "name": "Cabot Oil & Gas Corp",
+      "percent": "3.766"
+    },
+    {
+      "ticker": "CVX",
+      "name": "Chevron Corp",
+      "percent": "3.617"
+    },
+    {
+      "ticker": "PE",
+      "name": "Parsley Energy Inc",
+      "percent": "3.559"
+    },
+    {
+      "ticker": "HAL",
+      "name": "Halliburton Co",
+      "percent": "3.522"
+    },
+    {
+      "ticker": "REGI",
+      "name": "Renewable Energy Group Inc",
+      "percent": "3.277"
+    },
+    {
+      "ticker": "HES",
+      "name": "Hess Corp",
+      "percent": "3.215"
+    },
+    {
+      "ticker": "PSX",
+      "name": "Phillips 66",
+      "percent": "2.999"
+    },
+    {
+      "ticker": "RRC",
+      "name": "Range Resources Corp",
+      "percent": "2.921"
+    },
+    {
+      "ticker": "MPC",
+      "name": "Marathon Petroleum Corp",
+      "percent": "2.824"
+    },
+    {
+      "ticker": "TRGP",
+      "name": "Targa Resources Corp",
+      "percent": "2.769"
+    },
+    {
+      "ticker": "APA",
+      "name": "Apache Corp",
+      "percent": "2.746"
+    },
+    {
+      "ticker": "PXD",
+      "name": "Pioneer Natural Resources Co",
+      "percent": "2.715"
+    },
+    {
+      "ticker": "MTDR",
+      "name": "Matador Resources Co",
+      "percent": "2.622"
+    },
+    {
+      "ticker": "CNX",
+      "name": "CNX Resources Corp",
+      "percent": "2.327"
+    },
+    {
+      "ticker": "KMI",
+      "name": "Kinder Morgan Inc",
+      "percent": "2.270"
+    },
+    {
+      "ticker": "AM",
+      "name": "Antero Midstream Corp",
+      "percent": "2.193"
+    },
+    {
+      "ticker": "XEC",
+      "name": "Cimarex Energy Co",
+      "percent": "2.139"
+    },
+    {
+      "ticker": "CHX",
+      "name": "ChampionX Corp",
+      "percent": "2.118"
+    },
+    {
+      "ticker": "ETRN",
+      "name": "Equitrans Midstream Corp",
+      "percent": "2.086"
+    },
+    {
+      "ticker": "NBR",
+      "name": "Nabors Industries Ltd",
+      "percent": "1.898"
+    },
+    {
+      "ticker": "CXO",
+      "name": "Concho Resources Inc",
+      "percent": "1.874"
+    },
+    {
+      "ticker": "FANG",
+      "name": "Diamondback Energy Inc",
+      "percent": "1.790"
+    },
+    {
+      "ticker": "DVN",
+      "name": "Devon Energy Corp",
+      "percent": "1.790"
+    },
+    {
+      "ticker": "PDCE",
+      "name": "PDC Energy Inc",
+      "percent": "1.702"
+    },
+    {
+      "ticker": "XOM",
+      "name": "Exxon Mobil Corp",
+      "percent": "1.688"
+    },
+    {
+      "ticker": "CRK",
+      "name": "Comstock Resources Inc",
+      "percent": "1.659"
+    },
+    {
+      "ticker": "BKR",
+      "name": "Baker Hughes Co",
+      "percent": "1.636"
+    },
+    {
+      "ticker": "MRO",
+      "name": "Marathon Oil Corp",
+      "percent": "1.606"
+    },
+    {
+      "ticker": "SLB",
+      "name": "Schlumberger NV",
+      "percent": "1.546"
+    },
+    {
+      "ticker": "OXY",
+      "name": "Occidental Petroleum Corp",
+      "percent": "1.537"
+    },
+    {
+      "ticker": "WPX",
+      "name": "WPX Energy Inc",
+      "percent": "1.445"
+    },
+    {
+      "ticker": "CLB",
+      "name": "Core Laboratories NV",
+      "percent": "1.380"
+    },
+    {
+      "ticker": "MUR",
+      "name": "Murphy Oil Corp",
+      "percent": "1.287"
+    },
+    {
+      "ticker": "ARCH",
+      "name": "Arch Resources Inc",
+      "percent": "1.270"
+    },
+    {
+      "ticker": "PVAC",
+      "name": "Penn Virginia Corp",
+      "percent": "1.181"
+    },
+    {
+      "ticker": "HCC",
+      "name": "Warrior Met Coal Inc",
+      "percent": "1.070"
+    },
+    {
+      "ticker": "NOV",
+      "name": "National Oilwell Varco Inc",
+      "percent": "1.068"
+    },
+    {
+      "ticker": "AGPXX",
+      "name": "STIT - Government & Agency Portfolio",
+      "percent": "0.858"
+    }
+  ]
+}

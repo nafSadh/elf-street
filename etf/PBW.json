@@ -1,0 +1,265 @@
+{
+  "Products": "WilderHill Clean Energy ETF",
+  "Ticker": "PBW",
+  "Inception": "03/03/2005",
+  "Gross Exp. Ratio": "0.71%",
+  "YTD": "79.33",
+  "1Yr": "111.01",
+  "3Yr": "39.38",
+  "5Yr": "26.46",
+  "10Yr": "4.16",
+  "Since Incept.": "-0.31",
+  "Category": "Thematic",
+  "SubCategory": "Sustainable",
+  "ticker": "PBW",
+  "name": "WilderHill Clean Energy ETF",
+  "issuer": "Invesco",
+  "website": "https://www.invesco.com/us/financial-products/etfs/product-detail?audienceType=Investor&ticker=PBW",
+  "holdingDataSource": {
+    "url": "https://www.invesco.com/us/financial-products/etfs/holdings/main/holdings/0?audienceType=Investor&action=download&ticker=PBW",
+    "fileExt": "csv",
+    "transform": "invesco"
+  },
+  "holdings": [
+    {
+      "ticker": "JKS",
+      "name": "JinkoSolar Holding Co Ltd ADR",
+      "percent": "3.804"
+    },
+    {
+      "ticker": "LAC",
+      "name": "Lithium Americas Corp",
+      "percent": "3.245"
+    },
+    {
+      "ticker": "NIO",
+      "name": "NIO Inc ADR",
+      "percent": "3.098"
+    },
+    {
+      "ticker": "SPWR",
+      "name": "SunPower Corp",
+      "percent": "2.990"
+    },
+    {
+      "ticker": "DQ",
+      "name": "Daqo New Energy Corp ADR",
+      "percent": "2.943"
+    },
+    {
+      "ticker": "ENPH",
+      "name": "Enphase Energy Inc",
+      "percent": "2.853"
+    },
+    {
+      "ticker": "SEDG",
+      "name": "SolarEdge Technologies Inc",
+      "percent": "2.813"
+    },
+    {
+      "ticker": "PLUG",
+      "name": "Plug Power Inc",
+      "percent": "2.586"
+    },
+    {
+      "ticker": "LTHM",
+      "name": "Livent Corp",
+      "percent": "2.575"
+    },
+    {
+      "ticker": "KNDI",
+      "name": "Kandi Technologies Group Inc",
+      "percent": "2.548"
+    },
+    {
+      "ticker": "FSLR",
+      "name": "First Solar Inc",
+      "percent": "2.453"
+    },
+    {
+      "ticker": "AMSC",
+      "name": "American Superconductor Corp",
+      "percent": "2.443"
+    },
+    {
+      "ticker": "TPIC",
+      "name": "TPI Composites Inc",
+      "percent": "2.418"
+    },
+    {
+      "ticker": "BE",
+      "name": "Bloom Energy Corp",
+      "percent": "2.306"
+    },
+    {
+      "ticker": "SQM",
+      "name": "Sociedad Quimica y Minera de Chile SA ADR",
+      "percent": "2.280"
+    },
+    {
+      "ticker": "MAXN",
+      "name": "Maxeon Solar Technologies Ltd",
+      "percent": "2.278"
+    },
+    {
+      "ticker": "CSIQ",
+      "name": "Canadian Solar Inc",
+      "percent": "2.268"
+    },
+    {
+      "ticker": "ORA",
+      "name": "Ormat Technologies Inc",
+      "percent": "2.258"
+    },
+    {
+      "ticker": "BLDP",
+      "name": "Ballard Power Systems Inc",
+      "percent": "2.247"
+    },
+    {
+      "ticker": "AMRC",
+      "name": "Ameresco Inc",
+      "percent": "2.232"
+    },
+    {
+      "ticker": "TSLA",
+      "name": "Tesla Inc",
+      "percent": "2.201"
+    },
+    {
+      "ticker": "AEIS",
+      "name": "Advanced Energy Industries Inc",
+      "percent": "2.199"
+    },
+    {
+      "ticker": "ALB",
+      "name": "Albemarle Corp",
+      "percent": "2.177"
+    },
+    {
+      "ticker": "CREE",
+      "name": "Cree Inc",
+      "percent": "2.156"
+    },
+    {
+      "ticker": "ITRI",
+      "name": "Itron Inc",
+      "percent": "2.127"
+    },
+    {
+      "ticker": "BLNK",
+      "name": "Blink Charging Co",
+      "percent": "2.119"
+    },
+    {
+      "ticker": "MYRG",
+      "name": "MYR Group Inc",
+      "percent": "2.102"
+    },
+    {
+      "ticker": "THRM",
+      "name": "Gentherm Inc",
+      "percent": "2.086"
+    },
+    {
+      "ticker": "NOVA",
+      "name": "Sunnova Energy International Inc",
+      "percent": "2.064"
+    },
+    {
+      "ticker": "AY",
+      "name": "Atlantica Sustainable Infrastructure PLC",
+      "percent": "2.015"
+    },
+    {
+      "ticker": "PWR",
+      "name": "Quanta Services Inc",
+      "percent": "2.013"
+    },
+    {
+      "ticker": "WKHS",
+      "name": "Workhorse Group Inc",
+      "percent": "2.001"
+    },
+    {
+      "ticker": "ESE",
+      "name": "ESCO Technologies Inc",
+      "percent": "1.970"
+    },
+    {
+      "ticker": "WLDN",
+      "name": "Willdan Group Inc",
+      "percent": "1.961"
+    },
+    {
+      "ticker": "HXL",
+      "name": "Hexcel Corp",
+      "percent": "1.949"
+    },
+    {
+      "ticker": "WWD",
+      "name": "Woodward Inc",
+      "percent": "1.884"
+    },
+    {
+      "ticker": "OLED",
+      "name": "Universal Display Corp",
+      "percent": "1.878"
+    },
+    {
+      "ticker": "REGI",
+      "name": "Renewable Energy Group Inc",
+      "percent": "1.869"
+    },
+    {
+      "ticker": "RUN",
+      "name": "Sunrun Inc",
+      "percent": "1.865"
+    },
+    {
+      "ticker": "FCEL",
+      "name": "FuelCell Energy Inc",
+      "percent": "1.826"
+    },
+    {
+      "ticker": "VECO",
+      "name": "Veeco Instruments Inc",
+      "percent": "1.813"
+    },
+    {
+      "ticker": "AZRE",
+      "name": "Azure Power Global Ltd",
+      "percent": "1.692"
+    },
+    {
+      "ticker": "APD",
+      "name": "Air Products and Chemicals Inc",
+      "percent": "1.597"
+    },
+    {
+      "ticker": "IEA",
+      "name": "Infrastructure and Energy Alternatives Inc",
+      "percent": "0.845"
+    },
+    {
+      "ticker": "FUV",
+      "name": "Arcimoto Inc",
+      "percent": "0.456"
+    },
+    {
+      "ticker": "SOLO",
+      "name": "ElectraMeccanica Vehicles Corp",
+      "percent": "0.441"
+    },
+    {
+      "ticker": "AGPXX",
+      "name": "STIT - Government & Agency Portfolio",
+      "percent": "0.059"
+    },
+    {
+      "ticker": "-CASH-",
+      "name": "Cash/Receivables/Payables",
+      "percent": "-0.000"
+    }
+  ]
+}

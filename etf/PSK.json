@@ -1,0 +1,854 @@
+{
+  "ticker": "PSK",
+  "name": "SPDR® Wells Fargo® Preferred Stock ETF",
+  "ISIN": "US78464A2924",
+  "CUSIP": "78464A292",
+  "Inception Date": "Sep 16 2009",
+  "Gross Expense Ratio": "0.45%",
+  "* Net Expense Ratio": "-",
+  "Asset Class": "Equity",
+  "Distribution Frequency": "Monthly",
+  "Primary Exchange": "NYSE ARCA EXCHANGE",
+  "Primary Index": "Wells Fargo Hybrid and Preferred Securities Aggregate Index",
+  "Primary Index Ticker": "WAGG",
+  "issuer": "SSGA",
+  "website": "https://www.ssga.com/us/en/individual/etfs/funds/spdr-wells-fargo-preferred-stock-etf-psk",
+  "holdingDataSource": {
+    "fileUrl": "https://www.ssga.com/us/en/individual/etfs/library-content/products/fund-data/etfs/us/holdings-daily-us-en-psk.xlsx",
+    "fileExt": "xlsx",
+    "transform": "spdr"
+  },
+  "holdings": [
+    {
+      "ticker": "C.PRN",
+      "name": "Citigroup Capital XIII Tr Pfd Secs 2010-30.10.40 Global Fltg Rt",
+      "percent": "2.894776"
+    },
+    {
+      "ticker": "PNC.PRP",
+      "name": "PNC Financial Services Group Inc. Deposit Shs Repr 1/4000th Non-Cum Perp Pfd Shs Series P",
+      "percent": "1.875098"
+    },
+    {
+      "ticker": "COF.PRI",
+      "name": "Capital One Financial Corporation Depositary Shs Repr 1/40th 5% Non-Cum Red Perp Pfd Registered Shs Ser I",
+      "percent": "1.749570"
+    },
+    {
+      "ticker": "HSBC.PRA",
+      "name": "HSBC Holdings PLC 6.2 % Pfd Shs Sponsored American Deposit Repr 1/40th 6.2 % PfdShs Ser A",
+      "percent": "1.734828"
+    },
+    {
+      "ticker": "TBB",
+      "name": "AT&T Inc 5.35 % Notes 2017-01.11.66 Global",
+      "percent": "1.639556"
+    },
+    {
+      "ticker": "ALL.PRH",
+      "name": "Allstate Corporation Depositary Shs Repr 1/1000th 5.1% Non-Cum Red Perp Pfd Series H",
+      "percent": "1.464884"
+    },
+    {
+      "ticker": "COF.PRJ",
+      "name": "Capital One Financial Corporation Depositary Shs Repr 1/40th 4.8% Non-Cum Red Perp Pfd RegisteredShs Ser J",
+      "percent": "1.422476"
+    },
+    {
+      "ticker": "USB.PRM",
+      "name": "U.S. Bancorp Deposit Shs Repr 1/1000th Non Cum Perp Pfd Shs Series-F",
+      "percent": "1.380574"
+    },
+    {
+      "ticker": "JPM.PRC",
+      "name": "JPMorgan Chase & Co Depositary Shs Repr 1/400th Non-Cum Perp Red Pfd Registered ShsSeries -EE-",
+      "percent": "1.377389"
+    },
+    {
+      "ticker": "DUK.PRA",
+      "name": "Duke Energy Corp Depositary Shs Repr 1/1000th Cum Red Perp Pfd Registered Sh Series A",
+      "percent": "1.312156"
+    },
+    {
+      "ticker": "JPM.PRD",
+      "name": "JPMorgan Chase & Co Depositary Shs Repr 1/400th Non-Cum Red Pfd Registered Shs Series -DD-",
+      "percent": "1.259626"
+    },
+    {
+      "ticker": "SOJD",
+      "name": "Southern Co 4.95 % Notes 2020-30.01.80 Global Series 2020A",
+      "percent": "1.251759"
+    },
+    {
+      "ticker": "MET.PRF",
+      "name": "Metlife Inc Depositary Shs Repr 1/1000th 4.75 % Non-Cum Perp Red Pfd Shs Series F",
+      "percent": "1.243355"
+    },
+    {
+      "ticker": "SOJA",
+      "name": "Southern Company 6 1/4 % Notes 2015-15.10.75 Series 2015A",
+      "percent": "1.164105"
+    },
+    {
+      "ticker": "CTBB",
+      "name": "Qwest Corp 6 1/2 % Notes 2016-01.09.56",
+      "percent": "1.158412"
+    },
+    {
+      "ticker": "TFC.PRR",
+      "name": "Truist Financial Corporation Depositary Shs Repr 1/1000th Non-Cum Red Perp Pfd Rg Sh Series R",
+      "percent": "1.152217"
+    },
+    {
+      "ticker": "AEFC",
+      "name": "AEGON Funding Company LLC 5.1 % Notes 2019-15.12.49 Gtd Global",
+      "percent": "1.128287"
+    },
+    {
+      "ticker": "EP057265",
+      "name": "ATHENE HOLDING LTD PUBLIC",
+      "percent": "1.100236"
+    },
+    {
+      "ticker": "USB.PRH",
+      "name": "U.S. Bancorp Deposit Shs Repr 1/1000th Non-Cum Perpetual Pfd Shs Series B",
+      "percent": "1.096937"
+    },
+    {
+      "ticker": "MET.PRE",
+      "name": "MetLife Inc. Deposit Shs Repr 1/1000th 5.625 % Non-Cum Perp Red Pfd Shs Series E",
+      "percent": "1.056270"
+    },
+    {
+      "ticker": "TBC",
+      "name": "AT&T Inc 5.625 % Notes 2018-01.08.67 Global",
+      "percent": "1.053247"
+    },
+    {
+      "ticker": "STT.PRD",
+      "name": "State Street Corp Deposit Shs Repr 1/4000th Non-Cum Perp Pfd Shs Series D",
+      "percent": "0.986479"
+    },
+    {
+      "ticker": "DRUA",
+      "name": "Dominion Energy Inc 5.25 % Notes 2016-30.07.76 Series A",
+      "percent": "0.978639"
+    },
+    {
+      "ticker": "SOJB",
+      "name": "Southern Company 5.25 % Notes 2016-01.10.76 Series 2016A",
+      "percent": "0.978274"
+    },
+    {
+      "ticker": "EQH.PRA",
+      "name": "Equitable Holdings Inc. Depositary Shs Repr 1/1000th 5.25 % Non-Cum Red Perp Pfd Rg ShsSeries A",
+      "percent": "0.977835"
+    },
+    {
+      "ticker": "SREA",
+      "name": "Sempra Energy 5.75 % Notes 2019-01.07.79 Global",
+      "percent": "0.971549"
+    },
+    {
+      "ticker": "JPM.PRG",
+      "name": "JPMorgan Chase & Co Deposit Shs Repr 1/400th 6 1/10 % Non-Cum Pfd Shs Series -AA-",
+      "percent": "0.969862"
+    },
+    {
+      "ticker": "WFC.PRZ",
+      "name": "Wells Fargo & Co Depositary Shs Repr 1/1000th 4.75% Non-Cum Red Perp Pfd Shs A Series Z",
+      "percent": "0.953474"
+    },
+    {
+      "ticker": "CTY",
+      "name": "Qwest Corp 6 1/8 % Notes 2013-1.6.53 Sr",
+      "percent": "0.898504"
+    },
+    {
+      "ticker": "SCHW.PRD",
+      "name": "Charles Schwab Corp Deposit Shs Repr 1/40th % Non-Cum Pfd Shs Series D",
+      "percent": "0.897600"
+    },
+    {
+      "ticker": "NEE.PRN",
+      "name": "NextEra Energy Capital Holdings Inc 5.65 % Debentures 2019-01.03.79 Global Gtd Series N",
+      "percent": "0.885552"
+    },
+    {
+      "ticker": "SOJE",
+      "name": "Southern Co 4.2 % Notes 2020-15.10.60 Global Series 2020C Deferrable",
+      "percent": "0.884122"
+    },
+    {
+      "ticker": "EBAYL",
+      "name": "eBay Inc 6 % Notes 2016-1.2.56",
+      "percent": "0.880213"
+    },
+    {
+      "ticker": "WFC.PRQ",
+      "name": "Wells Fargo & Company Deposit Shs Repr 1/1000th 5.85 % Non-Cum Perp Pfd Shs A Series Q",
+      "percent": "0.858901"
+    },
+    {
+      "ticker": "BAC.PRM",
+      "name": "Bank of America Corp Depositary Shs Repr 1/1000th Perp Non-Cum Pfd Registered Shs Series -KK-",
+      "percent": "0.816169"
+    },
+    {
+      "ticker": "CTDD",
+      "name": "Qwest Corp 6.75 % Notes 2017-15.06.57 Global",
+      "percent": "0.815670"
+    },
+    {
+      "ticker": "CMSD",
+      "name": "CMS Energy Corp 5.875 % Notes 2019-01.03.79 Global",
+      "percent": "0.810268"
+    },
+    {
+      "ticker": "BAC.PRB",
+      "name": "Bank of America Corp Deposit Shs Repr 1/1000th Non-Cum Red Perp Pfd Shs Series GG",
+      "percent": "0.791213"
+    },
+    {
+      "ticker": "JPM.PRH",
+      "name": "JPMorgan Chase & Co Deposit Shs Repr 1/40th 6.15 % Non-Cum Pfd Shs Series -BB-",
+      "percent": "0.787150"
+    },
+    {
+      "ticker": "HGH",
+      "name": "Hartford Financial Services Group Inc Debentures 2012-15.4.42 Jr Subord Fltg Rt",
+      "percent": "0.779768"
+    },
+    {
+      "ticker": "ATH.PRC",
+      "name": "Athene Holding Ltd Depositary Shs Repr 1/1000th Non-Cum Red Perp Pfd Registered Shs C",
+      "percent": "0.774509"
+    },
+    {
+      "ticker": "TFC.PRO",
+      "name": "Truist Financial Corporation Depositary Shs Repr 1/1000th 5.25 % Non-Cum Red Perp Pfd Rg Sh Series O",
+      "percent": "0.756336"
+    },
+    {
+      "ticker": "ALL.PRG",
+      "name": "Allstate Corp. Deposit Shs Repr 1/1000th 5 5/8 Non-Cum Perp Red Pfd Shs Series G",
+      "percent": "0.753518"
+    },
+    {
+      "ticker": "70286227",
+      "name": "STATE STREET INSTITUTIONAL LIQ STATE STR",
+      "percent": "0.745083"
+    },
+    {
+      "ticker": "USB.PRP",
+      "name": "US Bancorp Depositary Shs Repr 1/1000th Non-Cum Perp Pfd Registered Shs Series K",
+      "percent": "0.745031"
+    },
+    {
+      "ticker": "BAC.PRN",
+      "name": "Bank of America Corp Depositary Shs Repr 1/1000th Perp Non-Cum Red Pfd Rg Shs Series -LL-",
+      "percent": "0.744745"
+    },
+    {
+      "ticker": "PRS",
+      "name": "Prudential Financial Inc 5.625 % Bonds 2018-15.08.58",
+      "percent": "0.729923"
+    },
+    {
+      "ticker": "COF.PRG",
+      "name": "Capital One Financial Corporation Depositary Shs Repr 1/40th 5.20 % Non-Cum Perp Pfd Shs Series G",
+      "percent": "0.716480"
+    },
+    {
+      "ticker": "PSA.PRL",
+      "name": "Public Storage Depositary Shs of Benef Interest Repr 1/1000th 4.625% Cum Red Pfd Rg Shs of Benef Int Ser L",
+      "percent": "0.715958"
+    },
+    {
+      "ticker": "SCHW.PRC",
+      "name": "Charles Schwab Corp Deposit Shs Repr 1/40th 6 % Non-Cum Pfd Shs Series C",
+      "percent": "0.712348"
+    },
+    {
+      "ticker": "HBANO",
+      "name": "Huntington Bancshares Incorporated Deposit Repr 1/40th Non-Cum Perp Pfd Series D",
+      "percent": "0.706104"
+    },
+    {
+      "ticker": "ENBA",
+      "name": "Enbridge Inc 6.375% Fixed-to-Floating Rate Subordinated Notes Series 2018-B due 2078",
+      "percent": "0.703127"
+    },
+    {
+      "ticker": "MET.PRA",
+      "name": "MetLife Inc. Floating Rate Non Cum Pfd Shs Series A",
+      "percent": "0.699983"
+    },
+    {
+      "ticker": "BK.PRC",
+      "name": "Bank of New York Mellon Corp Deposit Shs Repr 1/4000 5.2 % Non Cum Pfd Shs Series C",
+      "percent": "0.696624"
+    },
+    {
+      "ticker": "NEE.PRK",
+      "name": "NextEra Energy Capital Holdings Inc 5.25 % Debentures 2016-01.06.76 Gtd Series K",
+      "percent": "0.683246"
+    },
+    {
+      "ticker": "KEY.PRI",
+      "name": "KeyCorp Deposit Shs Repr 1/40th Non-Cum Perp Pfd Registered Shs Series E",
+      "percent": "0.678439"
+    },
+    {
+      "ticker": "STT.PRG",
+      "name": "State Street Corp Deposit Shs Repr 1/4000th Non Cum Perp Pfd Shs Series G",
+      "percent": "0.673571"
+    },
+    {
+      "ticker": "AXS.PRE",
+      "name": "Axis Capital Holdings Ltd Deposit Shs Repr 1/100th 5.50 % Non-Cum Pfd Shs Series E",
+      "percent": "0.667628"
+    },
+    {
+      "ticker": "DUKB",
+      "name": "Duke Energy Corp 5.625 % Debentures 2018-15.09.78 Global",
+      "percent": "0.657842"
+    },
+    {
+      "ticker": "JPM.PRJ",
+      "name": "JPMorgan Chase & Co. Depositary Shs Repr 1/400th 4.75 Non-Cum Red Perp Pfd Rg Shs Series GG",
+      "percent": "0.652161"
+    },
+    {
+      "ticker": "AIG.PRA",
+      "name": "American International Group Inc Depositary Shs Repr 1/1000th 5.85 % Non-Cum Red Perp Pfd Rg Shs Ser A",
+      "percent": "0.647223"
+    },
+    {
+      "ticker": "NI.PRB",
+      "name": "NiSource Inc Inc Depositary Shs Repr 1/1000th Cum Red Perp Pfd Rg Shs Series B",
+      "percent": "0.645447"
+    },
+    {
+      "ticker": "ALL.PRB",
+      "name": "Allstate Corp Debentures 2013-15.1.53 Subord",
+      "percent": "0.622870"
+    },
+    {
+      "ticker": "USB.PRO",
+      "name": "U.S. Bancorp Deposit Shs Repr 1/1000th 5.15 % Non-Cum Perp Pfd Shs Series H",
+      "percent": "0.613581"
+    },
+    {
+      "ticker": "COF.PRH",
+      "name": "Capital One Financial Corporation Depositary Shs Repr 1/40th 6% Non-Cum Pfd Shs Series H",
+      "percent": "0.598375"
+    },
+    {
+      "ticker": "FRC.PRK",
+      "name": "First Republic Bank Depositary Shs Repr 1/40th Non-Cum Red Perp Pfd Shs Series K",
+      "percent": "0.594535"
+    },
+    {
+      "ticker": "PFH",
+      "name": "Prudential Financial Inc 4.125 % Notes 2020-01.09.60 Global",
+      "percent": "0.594067"
+    },
+    {
+      "ticker": "DUKH",
+      "name": "Duke Energy Corp 5 1/8 % Debs 2013-15.1.73 Jr Subord",
+      "percent": "0.589487"
+    },
+    {
+      "ticker": "BAC.PRC",
+      "name": "Bank of America Corp Deposit Shs Repr 1/1000th Non-Cum Pfd Shs Series -CC-",
+      "percent": "0.583917"
+    },
+    {
+      "ticker": "MER.PRK",
+      "name": "Bank of America Corp 6.45 % Notes 2018-15.12.66 Income Capital Obligations",
+      "percent": "0.583022"
+    },
+    {
+      "ticker": "TFC.PRG",
+      "name": "Truist Financial Corp. Depositary Shs Repr 1/1000th 5 1/5 % Non-Cum Perp Pfd ShsSeries G",
+      "percent": "0.583015"
+    },
+    {
+      "ticker": "FITBI",
+      "name": "Fifth Third Bancorp Deposit Shs Repr 1/1000th Non-Cum Perp Pfd Shs Series I",
+      "percent": "0.579117"
+    },
+    {
+      "ticker": "NEE.PRI",
+      "name": "NextEra Energy Capital Holdings Inc 5.125 % Debentures 2012-15.11.72 Jr Subord Series 1",
+      "percent": "0.579112"
+    },
+    {
+      "ticker": "COF.PRF",
+      "name": "Capital One Financial Corporation Depositary Shs Repr 1/40th 6.20 % Non-Cum Perp Pfd Shs Series F",
+      "percent": "0.570848"
+    },
+    {
+      "ticker": "KEY.PRK",
+      "name": "KeyCorp Depositary Shs Repr 1/40th Non-Cum Perp Red Pfd Registered Shs Series G",
+      "percent": "0.560315"
+    },
+    {
+      "ticker": "TFC.PRH",
+      "name": "Truist Financial Corp. Depositary Shs Repr 1/1000th 5 5/8 % Non-Cum Perp Pfd ShsSeries H",
+      "percent": "0.558114"
+    },
+    {
+      "ticker": "SOJC",
+      "name": "Southern Company 5.25 % Notes 2017-01.12.77 Global Series 2017B",
+      "percent": "0.553021"
+    },
+    {
+      "ticker": "WFC.PRX",
+      "name": "Wells Fargo & Company Deposit Shs Repr 1/1000th 5 1/2 % Non-Cum Perp Pfd Shs A Series X",
+      "percent": "0.546648"
+    },
+    {
+      "ticker": "KEY.PRJ",
+      "name": "KeyCorp Depositary Shares Repr 1/40th Non-Cum Perp Pfd Registered Shs Series F",
+      "percent": "0.540249"
+    },
+    {
+      "ticker": "TFC.PRF",
+      "name": "Truist Financial Corporation Depositary Shs Repr 5 1/5 % 1/1000th Non-Cum Perp Pfd Shs Series F",
+      "percent": "0.535455"
+    },
+    {
+      "ticker": "ACGLP",
+      "name": "Arch Capital Group Ltd Deposit Repr 1/1000th Non-Cum Pfd Series E",
+      "percent": "0.529844"
+    },
+    {
+      "ticker": "NEE.PRJ",
+      "name": "NextEra Energy Capital Holdings Inc 5 % Debentures 2013-15.1.73 Gtd Jr Subord Series J",
+      "percent": "0.529534"
+    },
+    {
+      "ticker": "BHFAP",
+      "name": "Brighthouse Financial Inc. Depositary Shs Repr 1/1000th 6.6% Non-Cum Red Perp Pfd Reg Sh Series A",
+      "percent": "0.529214"
+    },
+    {
+      "ticker": "PPX",
+      "name": "PPL Capital Funding Inc 5.9 % Notes 2013-30.4.73 Gtd Jr Subord Ser B",
+      "percent": "0.528399"
+    },
+    {
+      "ticker": "BHFAO",
+      "name": "Brighthouse Financial Inc Depositary Shs Repr 1/1000th Non-Cum Red Perp Pfd Reg Sh Series B",
+      "percent": "0.522020"
+    },
+    {
+      "ticker": "RZB",
+      "name": "Reinsurance Group of America Incorporated Debentures 2016-15.06.56 Fixed/Floating Rate",
+      "percent": "0.517649"
+    },
+    {
+      "ticker": "NTRSO",
+      "name": "Northern Trust Corporation Depositary Shs Repr 1/1000 Non-Cum Red Perp Pfd Registered Shs Ser E",
+      "percent": "0.512567"
+    },
+    {
+      "ticker": "RZA",
+      "name": "Reinsurance Group of America Incorporated Debentures 2012-15.9.42 Sub Fltg Rt",
+      "percent": "0.507517"
+    },
+    {
+      "ticker": "DTW",
+      "name": "DTE Energy Company 5.25 % Debentures 2017-01.12.77 Global",
+      "percent": "0.506576"
+    },
+    {
+      "ticker": "BAC.PRK",
+      "name": "Bank of America Corp Depositary Shs Repr 1/1000th Non-Cum Perp Red Pfd Registered Shs Ser -HH-",
+      "percent": "0.497525"
+    },
+    {
+      "ticker": "FRC.PRJ",
+      "name": "First Republic Bank Depositary Shs Repr 1/40th Non-Cum Red Perp Pfd Shs Series J",
+      "percent": "0.496673"
+    },
+    {
+      "ticker": "BAC.PRA",
+      "name": "Bank of America Corp Deposit Shs Repr 1/1.000th Non-Cum Pfd Shs Series -EE-",
+      "percent": "0.495341"
+    },
+    {
+      "ticker": "EAI",
+      "name": "Entergy Arkansas LLC 4.875 % Bonds 2016-01.09.66 1st Mtg",
+      "percent": "0.488141"
+    },
+    {
+      "ticker": "BHFAL",
+      "name": "Brighthouse Financial Inc 6.25 % Debentures 2018-15.09.58 Global",
+      "percent": "0.476111"
+    },
+    {
+      "ticker": "WFC.PRW",
+      "name": "Wells Fargo & Company Deposit Shs Repr 1/1000th 5 7/10 % Non-Cum Pfd Shs A Series W",
+      "percent": "0.471483"
+    },
+    {
+      "ticker": "WFC.PRV",
+      "name": "Wells Fargo & Company Deposit Shs Repr 1/1000th 6 % Non-Cum Perp Pfd Shs A Series V",
+      "percent": "0.464694"
+    },
+    {
+      "ticker": "HIG.PRG",
+      "name": "Hartford Financial Services Group Inc Depositary Shs Repr 1/1000th 6 % Non-Cum Red Pfd Registered Shs Series G",
+      "percent": "0.456279"
+    },
+    {
+      "ticker": "DLR.PRL",
+      "name": "Digital Realty Trust Inc. Cum Conv Red Pfd Registered Shs Series L",
+      "percent": "0.439750"
+    },
+    {
+      "ticker": "SIVBP",
+      "name": "SVB Financial Group Depositary Shs Repr 1/40th 5.25 % Non-Cum Red Perp Pfd Rg Shs Ser -A-",
+      "percent": "0.438762"
+    },
+    {
+      "ticker": "WFC.PRR",
+      "name": "Wells Fargo & Company Deposit Shs Repr 1/1000th 6 5/8 % Non-Cum Perp Pfd Shs A Series R",
+      "percent": "0.438437"
+    },
+    {
+      "ticker": "PSA.PRE",
+      "name": "Public Storage Deposit Shs Repr 1/1000th % Cum Pfd Registered Shs of Benef Intst Sr E",
+      "percent": "0.433362"
+    },
+    {
+      "ticker": "ATH.PRB",
+      "name": "Athene Holding Ltd. Depositary Shs Repr 1/1000th Non-Cum Red Perp Pfd Registered Shs Class B",
+      "percent": "0.425818"
+    },
+    {
+      "ticker": "KKR.PRA",
+      "name": "KKR & Co. Inc. 6.75 % Cum Red Perp Pfd Registered Shs Series A",
+      "percent": "0.424195"
+    },
+    {
+      "ticker": "NNN.PRF",
+      "name": "National Retail Properties Inc Deposit Shs Repr 1/100th 5.20 % Cum Red Pfd Registered Shs Series F",
+      "percent": "0.418843"
+    },
+    {
+      "ticker": "PSA.PRI",
+      "name": "Public Storage Depositary Shs of Benef Interest Repr 1/1000th 4.875% Cum Red Pfd Shs of Benef Int. Ser I",
+      "percent": "0.417065"
+    },
+    {
+      "ticker": "PSB.PRZ",
+      "name": "PS Business Parks Inc. Depositary Shs Repr 1/1000th 4.875% Cum Perp Red Pfd Rg Shs Series Z",
+      "percent": "0.415450"
+    },
+    {
+      "ticker": "ACGLO",
+      "name": "Arch Capital Group Ltd. Deposit Shs Repr 1/1000th 5.45 % Non-Cum Pfd Shs Series F",
+      "percent": "0.411984"
+    },
+    {
+      "ticker": "PSA.PRD",
+      "name": "Public Storage Deposit Shs Repr 1/1000th 4.95 % Cum Pfd Shs of Benef Int Series D",
+      "percent": "0.397494"
+    },
+    {
+      "ticker": "VOYA.PRB",
+      "name": "Voya Financial Inc Depositary Shs Repr 1/40th Rate Reset Non-Cum Pfd Registered Shs Series B",
+      "percent": "0.392872"
+    },
+    {
+      "ticker": "FCNCP",
+      "name": "First Citizens Bancshares Inc Non-Cum Red Perp Pfd Registered Shs Series A",
+      "percent": "0.392272"
+    },
+    {
+      "ticker": "VNO.PRM",
+      "name": "Vornado Realty Trust Cum Perp Red Pfd Registered Shs Series M",
+      "percent": "0.388558"
+    },
+    {
+      "ticker": "PUK.PRA",
+      "name": "Prudential PLC 6 1/2 % Exchg Perp Subordinated Cap Secs 2005-Without Fixed Maturity",
+      "percent": "0.388216"
+    },
+    {
+      "ticker": "FRC.PRI",
+      "name": "First Republic Bank Deposit Shs Repr 1/40th Red Perp Pfd Shs Series I",
+      "percent": "0.385569"
+    },
+    {
+      "ticker": "ALL.PRI",
+      "name": "Allstate Corp Depositary Shs Repr 1/1000th 4.750% Non-Cum Red Perp Pfd Sh Series I",
+      "percent": "0.383415"
+    },
+    {
+      "ticker": "MGR",
+      "name": "Affiliated Managers Group Inc 5.875 % Notes 2019-30.03.59 Global",
+      "percent": "0.382226"
+    },
+    {
+      "ticker": "APO.PRB",
+      "name": "Apollo Global Management Inc. 6.375 % Non-Cum Red Perp Pfd Registered Shs Series B",
+      "percent": "0.380973"
+    },
+    {
+      "ticker": "PSA.PRH",
+      "name": "Public Storage Depositary Shs Repr 1/1000th Cum Red Pfd Registered Shs Series H",
+      "percent": "0.380212"
+    },
+    {
+      "ticker": "ARES.PRA",
+      "name": "Ares Management Corporation 7 % Non-Cum Pfd Registered Shs Series A",
+      "percent": "0.379926"
+    },
+    {
+      "ticker": "WRB.PRF",
+      "name": "W. R. Berkley Corporation 5.1 % Debentures 2019-30.12.59 Global",
+      "percent": "0.375819"
+    },
+    {
+      "ticker": "PSA.PRG",
+      "name": "Public Storage Deposit Shs Repr 1/1000th 5.05 % Cum Red Pfd Shs Series G",
+      "percent": "0.370035"
+    },
+    {
+      "ticker": "OPINI",
+      "name": "Office Properties Income Trust 5.875 % Notes 2016-01.05.46",
+      "percent": "0.369328"
+    },
+    {
+      "ticker": "GL.PRC",
+      "name": "Globe Life Inc. 6.125 % Debentures 2019-15.06.56",
+      "percent": "0.363989"
+    },
+    {
+      "ticker": "DTJ",
+      "name": "DTE Energy Company 5 3/8 % Debentures 2016-01.06.76 Series 2016 B",
+      "percent": "0.359364"
+    },
+    {
+      "ticker": "PSA.PRB",
+      "name": "Public Storage Deposit Shs Repr 1/1000th 5.4 % Cum Pfd Shs Series B",
+      "percent": "0.353926"
+    },
+    {
+      "ticker": "WFC.PRN",
+      "name": "Wells Fargo & Company Deposit Shs Repr 1/1000th 5 1/5 % Non-Cum Perp Pfd Shs A Series N",
+      "percent": "0.352811"
+    },
+    {
+      "ticker": "VNO.PRK",
+      "name": "Vornado Realty Trust 5.7% Cum Red Pfd Shs Series K",
+      "percent": "0.352455"
+    },
+    {
+      "ticker": "PRE.PRH",
+      "name": "PartnerRe Ltd 7 1/4 % Cum Red Pfd Shs Series H",
+      "percent": "0.350041"
+    },
+    {
+      "ticker": "WRB.PRD",
+      "name": "W. R. Berkley Corporation 5.75 % Debentures 2016-01.06.56",
+      "percent": "0.347119"
+    },
+    {
+      "ticker": "VNO.PRL",
+      "name": "Vornado Realty Trust 5.4 % Cum Red Pfd Series L",
+      "percent": "0.344532"
+    },
+    {
+      "ticker": "PSA.PRF",
+      "name": "Public Storage Deposit Shs Repr 1/1000th 5.15 % Cum Pfd Shs of Benef Int Series F",
+      "percent": "0.344222"
+    },
+    {
+      "ticker": "DTY",
+      "name": "DTE Energy Company 6 % Debentures 2016-15.12.76 Series F",
+      "percent": "0.336700"
+    },
+    {
+      "ticker": "WFC.PRY",
+      "name": "Wells Fargo & Company Deposit Shs A Repr 1/1000th 5.625% Red Non-Cum Pfd Reg Shs A Ser Y",
+      "percent": "0.336670"
+    },
+    {
+      "ticker": "APO.PRA",
+      "name": "Apollo Global Management Inc. 6.375 % Non Cum Red Pfd Registered Shs Series A",
+      "percent": "0.333499"
+    },
+    {
+      "ticker": "PSA.PRJ",
+      "name": "Public Storage Depositary Shs of Benef Interest Repr 1/1000th 4.7% Cum Red Pfd Shs of Benef Int. Series J",
+      "percent": "0.332023"
+    },
+    {
+      "ticker": "TVC",
+      "name": "Tennessee Valley Authority Putable Automatic Rate Reset Secs 1998-1.6.28 Sr Series D Step Down",
+      "percent": "0.326553"
+    },
+    {
+      "ticker": "GPJA",
+      "name": "Georgia Power Co 5 % Notes 2017-01.10.77 Global Series 2017A",
+      "percent": "0.326248"
+    },
+    {
+      "ticker": "ALP.PRQ",
+      "name": "Alabama Power Company 5 % Cum Pfd Registered Shs A",
+      "percent": "0.325846"
+    },
+    {
+      "ticker": "ELC",
+      "name": "Entergy Louisiana LLC 4.875 % Bonds 2016-01.09.66 Collateral Trust Mtg",
+      "percent": "0.323298"
+    },
+    {
+      "ticker": "SR.PRA",
+      "name": "Spire Inc. Depositary Shs Repr 1/1000th Cum Red Perp Pfd Registered Sh Series A",
+      "percent": "0.321896"
+    },
+    {
+      "ticker": "NRUC",
+      "name": "National Rural Utilities Cooperative Finance Corp 5.5 % Notes 2019-15.05.64 Gtd Global",
+      "percent": "0.316385"
+    },
+    {
+      "ticker": "EP044410",
+      "name": "RENAISSANCERE HOLDINGS LTD PUBLIC",
+      "percent": "0.316371"
+    },
+    {
+      "ticker": "KIM.PRM",
+      "name": "Kimco Realty Corp Deposit Shs Repr 1/1000th 5.25% Cum Red Pfd Registered Shs M",
+      "percent": "0.314807"
+    },
+    {
+      "ticker": "RNR.PRF",
+      "name": "RenaissanceRe Holdings Ltd. Deposit Shs Repr 1/1000th Non-Cum Red Perp Pfd Shs Series F",
+      "percent": "0.311735"
+    },
+    {
+      "ticker": "DHCNI",
+      "name": "Diversified Healthcare Trust 5.625 % Notes -01.08.42 Senoir",
+      "percent": "0.308439"
+    },
+    {
+      "ticker": "WRB.PRG",
+      "name": "WR Berkley Corp 4.25 % Debentures 2020-30.09.60 Global Deferrable",
+      "percent": "0.308201"
+    },
+    {
+      "ticker": "WFC.PRO",
+      "name": "Wells Fargo & Company Deposit Shs Repr 1/1000th 5 1/8 % Non-Cum Perp Pfd Shs A Series 0",
+      "percent": "0.304746"
+    },
+    {
+      "ticker": "FITBO",
+      "name": "Fifth Third Bancorp Depositary Shs Repr 1/1000th Non-Cum Red Perp Pfd Rg Shs Series K",
+      "percent": "0.304222"
+    },
+    {
+      "ticker": "PUK.PR",
+      "name": "Prudential PLC 6 3/4 % Cap Secs 2004-Without Fixed Maturity",
+      "percent": "0.303499"
+    },
+    {
+      "ticker": "WFC.PRP",
+      "name": "Wells Fargo & Company Deposit Shs Repr 1/1000th 5 1/4 % Non-Cum Perp Pfd Shs A Series P",
+      "percent": "0.293064"
+    },
+    {
+      "ticker": "AEB",
+      "name": "Aegon NV Floating Rate Perpetual Capital Security 2005 Without fixed maturity",
+      "percent": "0.292379"
+    },
+    {
+      "ticker": "BML.PRL",
+      "name": "Bank of America Corp Deposit Shs Repr 1/1200th Pfd Shs Series 5",
+      "percent": "0.221236"
+    },
+    {
+      "ticker": "BAC.PRE",
+      "name": "Bank of America Corp Deposit Shs Repr 1/1000th Perp Pfd Shs Series E",
+      "percent": "0.166029"
+    },
+    {
+      "ticker": "BML.PRH",
+      "name": "Bank of America Corp Deposit Shs Repr 1/1200th Fltg Rate Non Cum Pfd Shs Series 2",
+      "percent": "0.135150"
+    },
+    {
+      "ticker": "CMSC",
+      "name": "CMS Energy Corp 5.875 % Notes 2018-15.10.78 Global",
+      "percent": "0.001795"
+    },
+    {
+      "ticker": "EMP",
+      "name": "Entergy Mississippi LLC 4.9 % Bonds 2016-01.10.66 Secd 1st Mtg",
+      "percent": "0.001596"
+    },
+    {
+      "ticker": "CASH_USD",
+      "name": "U.S. Dollar",
+      "percent": "-0.519076"
+    },
+    {
+      "name": "Performance quoted represents past performance, which is no guarantee of future results. Investment return and principal value will fluctuate, so you may have a gain or loss when shares are sold. Current performance may be higher or lower than that quoted. Visit www.ssga.com for most recent month-end performance."
+    },
+    {
+      "name": "This analysis or any portion thereof may not be revised or changed in any way, reprinted, sold or redistributed without the written consent of SSGA."
+    },
+    {
+      "name": "Portfolio holdings, allocations and weightings are as of the date indicated, are subject to change and should not be considered a recommendation to buy individual securities. For most recent information visit www.ssga.com."
+    },
+    {
+      "name": "Important Risk Information  "
+    },
+    {
+      "name": "Investing involves risk, and you could lose money on an investment in each of SPDR® Gold Shares Trust (“GLD®”) and SPDR® Gold MiniSharesSM Trust  (“GLDMSM”), a series of the World Gold Trust (together, the “Funds”). \n\nETFs trade like stocks, are subject to investment risk, fluctuate in market value and may trade at prices above or below the ETFs’ net asset value. Brokerage commissions and ETF expenses will reduce returns.\n\nCommodities and commodity-index linked securities may be affected by changes in overall market movements, changes in interest rates, and other factors such as weather, disease, embargoes, or political and regulatory developments, as well as trading activity of speculators and arbitrageurs in the underlying commodities.\n\nFrequent trading of ETFs could significantly increase commissions and other costs such that they may offset any savings from low fees or costs.\n\nDiversification does not ensure a profit or guarantee against loss."
+    },
+    {
+      "name": "Investing in commodities entails significant risk and is not appropriate for all investors."
+    },
+    {
+      "name": "Important Information Relating to SPDR® Gold Trust (“GLD®”) and SPDR® Gold MiniSharesSM Trust (“GLDMSM”):"
+    },
+    {
+      "name": "The SPDR Gold Trust (“GLD”) has filed a registration statement (including a prospectus) with the Securities and Exchange Commission (“SEC”) for GLD. The World Gold Trust has filed a registration statement (including a prospectus) with the SEC for GLDM. Before you invest, you should read the prospectus in the registration statement and other documents each Fund has filed with the SEC for more complete information about each Fund and these offerings. Please see each Fund’s prospectus for a detailed discussion of the risks of investing in each Fund’s shares."
+    },
+    {
+      "name": "The GLD prospectus is available by clicking"
+    },
+    {
+      "name": "The GLDM prospectus is available by clicking "
+    },
+    {
+      "name": "You may get these documents for free by visiting EDGAR on the SEC website at sec.gov or by visiting spdrgoldshares.com. Alternatively, the Funds or any authorized participant will arrange to send you the prospectus if you request it by calling 866.320.4053."
+    },
+    {
+      "name": "None of the Funds is an investment company registered under the Investment Company Act of 1940 (the “1940 Act”). As a result, shareholders of each Fund do not have the protections associated with ownership of shares in an investment company registered under the 1940 Act. GLD and GLDM are not subject to regulation under the CEA. As a result, shareholders of each of GLD and GLDM do not have the protections afforded by the CEA. \n\nShares of each Fund trade like stocks, are subject to investment risk and will fluctuate in market value. \n\nThe values of GLD shares and GLDM shares relate directly to the value of the gold held by each Fund (less its expenses), respectively. Fluctuations in the price of gold could materially and adversely affect an investment in the shares. The price received upon the sale of the shares, which trade at market price, may be more or less than the value of the gold represented by them.  \n\nNone of the Funds generate any income, and as each Fund regularly sells gold to pay for its ongoing expenses, the amount of gold represented by each Fund share will decline over time to that extent.\n\nThe World Gold Council name and logo are a registered trademark and used with the permission of the World Gold Council pursuant to a license agreement. The World Gold Council is not responsible for the content of, and is not liable for the use of or reliance on, this material. World Gold Council is an affiliate of the Sponsor of each of GLD and GLDM.\n\nMiniSharesSM and GLDMSM are service marks of WGC USA Asset Management Company, LLC used with the permission of WGC USA Asset Management Company, LLC.\n\nGLD® is a registered trademark of World Gold Trust Services, LLC used with the permission of World Gold Trust Services, LLC."
+    },
+    {
+      "name": "For more information, please contact the Marketing Agent for GLD and GLDM: State Street Global Advisors Funds Distributors, LLC, One Iron Street, Boston, MA, 02210; T: +1 866 320 4053 spdrgoldshares.com"
+    },
+    {
+      "name": "Standard & Poor’s®, S&P® and SPDR® are registered trademarks of Standard & Poor’s Financial Services LLC (S&P); Dow Jones is a registered trademark of Dow Jones Trademark Holdings LLC (Dow Jones); and these trademarks have been licensed for use by S&P Dow Jones Indices LLC (SPDJI) and sublicensed for certain purposes by State Street Corporation. State Street Corporation’s financial products are not sponsored, endorsed, sold or promoted by SPDJI, Dow Jones, S&P, their respective affiliates and third party licensors and none of such parties make any representation regarding the advisability of investing in such product(s) nor do they have any liability in relation thereto, including for any errors, omissions, or interruptions of any index."
+    },
+    {
+      "name": "Bonds generally present less short-term risk and volatility than stocks, but contain interest rate risk (as interest rates raise, bond prices usually fall); issuer default risk; issuer credit risk; liquidity risk; and inflation risk. These effects are usually pronounced for longer-term securities. Any fixed income security sold or redeemed prior to maturity may be subject to a substantial gain or loss.\nInternational Government bonds and corporate bonds generally have more moderate short-term price fluctuations than stocks, but provide lower potential long-term returns.\nInvesting in high yield fixed income securities, otherwise known as \"junk bonds\", is considered speculative and involves greater risk of loss of principal and interest than investing in investment grade fixed income securities. These Lower-quality debt securities involve greater risk of default or price changes due to potential changes in the credit quality of the issuer.\nEquity securities may fluctuate in value in response to the activities of individual companies and general market and economic conditions.\nThere are risks associated with investing in Real Assets and the Real Assets sector, including real estate, precious metals and natural resources.  Investments can be significantly affected by events relating to these industries.\nInvesting in foreign domiciled securities may involve risk of capital loss from unfavorable fluctuation in currency values, withholding taxes, from differences in generally accepted accounting principles or from economic or political instability in other nations.  Investments in emerging or developing markets may be more volatile and less liquid than investing in developed markets and may involve exposure to economic structures that are generally less diverse and mature and to political systems which have less stability than those of more developed countries. The trademarks and service marks referenced herein are the property of their respective owners. Third party data providers make no warranties or representations of any kind relating to the accuracy, completeness or timeliness of the data and have no liability for damages of any kind relating to the use of such data. Investing involves risk including the risk of loss of principal.\nThe whole or any part of this work may not be reproduced, copied or transmitted or any of its contents disclosed to third parties without SSGA's express written consent.\nETFs trade like stocks, are subject to investment risk and will fluctuate in market value. The investment return and principal value of an investment will fluctuate in value, so that when shares are sold or redeemed, they may be worth more or less than when they were purchased.  Although shares may be bought or sold on an exchange through any brokerage account, shares are not individually redeemable from the fund.  Investors may acquire shares and tender them for redemption through the fund in large aggregations known as “creation units.”  Please see the fund’s prospectus for more details.\nInvesting in REITs involves certain distinct risks in addition to those risks associated with investing in the real estate industry in general. Equity REITs may be affected by changes in the value of the underlying property owned by the REITs, while mortgage REITs may be affected by the quality of credit extended. REITs are subject to heavy cash flow dependency, default by borrowers and self-liquidation. REITs, especially mortgage REITs, are also subject to interest rate risk (i.e., as interest rates rise, the value of the REIT may decline).\nInvestments in small/mid-sized companies may involve greater risks than in those of larger, better known companies. Concentrated investments in a particular Sector tend to be more volatile than the overall market and increases risk that events negatively affecting such sectors or industries could reduce returns, potentially causing the value of the Fund’s shares to decrease.\nStandard & Poor’s®, S&P® and SPDR® are registered trademarks of Standard & Poor’s Financial Services LLC (S&P); Dow Jones is a registered trademark of Dow Jones Trademark Holdings LLC (Dow Jones); and these trademarks have been licensed for use by S&P Dow Jones Indices LLC (SPDJI) and sublicensed for certain purposes by State Street Corporation. State Street Corporation’s financial products are not sponsored, endorsed, sold or promoted by SPDJI, Dow Jones, S&P, their respective affiliates and third party licensors and none of such parties make any representation regarding the advisability of investing in such product(s) nor do they have any liability in relation thereto, including for any errors, omissions, or interruptions of any index.\nCommodities and commodity-index linked securities may be affected by changes in overall market movements, changes in interest rates, and other factors such as weather, disease, embargoes, or political and regulatory developments, as well as trading activity of speculators and arbitrageurs in the underlying commodities. The returns on a portfolio of securities which exclude companies that do not meet the portfolio's specified ESG criteria may trail the returns on a portfolio of securities which include such companies. A portfolio's ESG criteria may result in the portfolio investing in industry sectors or securities which underperform the market as a whole.\nTechnology companies, including cyber security companies, can be significantly affected by obsolescence of existing technology, limited product lines, and competition for financial resources, qualified personnel, new market entrants or impairment of patent and intellectual property rights that can adversely affect profit margins."
+    },
+    {
+      "name": "Distributor: State Street Global Advisors Funds Distributors, LLC, member FINRA(http://www.finra.org), SIPC(http://www.sipc.org), an indirect wholly owned subsidiary of State Street Corporation. References to State Street may include State Street Corporation and its affiliates. Certain State Street affiliates provide services and receive fees from the SPDR ETFs. ALPS Distributors, Inc., member FINRA, is the distributor for DIA, MDY and SPY, all unit investment trusts. ALPS Portfolio Solutions Distributor, Inc., member FINRA, is the distributor for Select Sector SPDRs. ALPS Distributors, Inc. and ALPS Portfolio Solutions Distributor, Inc. are not affiliated with State Street Global Advisors Funds Distributors, LLC."
+    },
+    {
+      "name": "Before investing, consider the funds’ investment objectives, risks, charges and expenses. To obtain a prospectus or summary prospectus, this contains this and other information, call 1-866-787-2257 or visit www.ssga.com. Read it carefully.\n\nNot FDIC Insured * No Bank Guarantee * May Lose Value\n\n2529657.2.1.AM.RTL\nExpiration: 03/31/2021\nSPD002304"
+    }
+  ]
+}

@@ -1,0 +1,435 @@
+{
+  "Products": "S&P MidCap 400® Pure Value ETF",
+  "Ticker": "RFV",
+  "Inception": "03/01/2006",
+  "Gross Exp. Ratio": "0.35%",
+  "YTD": "-19.32",
+  "1Yr": "-12.28",
+  "3Yr": "-3.83",
+  "5Yr": "4.28",
+  "10Yr": "7.77",
+  "Since Incept.": "5.63",
+  "Category": "SP Factor",
+  "SubCategory": "Pure Styles",
+  "ticker": "RFV",
+  "name": "S&P MidCap 400® Pure Value ETF",
+  "issuer": "Invesco",
+  "website": "https://www.invesco.com/us/financial-products/etfs/product-detail?audienceType=Investor&ticker=RFV",
+  "holdingDataSource": {
+    "url": "https://www.invesco.com/us/financial-products/etfs/holdings/main/holdings/0?audienceType=Investor&action=download&ticker=RFV",
+    "fileExt": "csv",
+    "transform": "invesco"
+  },
+  "holdings": [
+    {
+      "ticker": "PENN",
+      "name": "Penn National Gaming Inc",
+      "percent": "3.768"
+    },
+    {
+      "ticker": "CNX",
+      "name": "CNX Resources Corp",
+      "percent": "2.921"
+    },
+    {
+      "ticker": "PDCO",
+      "name": "Patterson Cos Inc",
+      "percent": "2.795"
+    },
+    {
+      "ticker": "AN",
+      "name": "AutoNation Inc",
+      "percent": "2.690"
+    },
+    {
+      "ticker": "GNW",
+      "name": "Genworth Financial Inc",
+      "percent": "2.663"
+    },
+    {
+      "ticker": "SNX",
+      "name": "SYNNEX Corp",
+      "percent": "2.426"
+    },
+    {
+      "ticker": "R",
+      "name": "Ryder System Inc",
+      "percent": "2.407"
+    },
+    {
+      "ticker": "X",
+      "name": "United States Steel Corp",
+      "percent": "2.181"
+    },
+    {
+      "ticker": "EQT",
+      "name": "EQT Corp",
+      "percent": "2.075"
+    },
+    {
+      "ticker": "BHF",
+      "name": "Brighthouse Financial Inc",
+      "percent": "2.073"
+    },
+    {
+      "ticker": "ARW",
+      "name": "Arrow Electronics Inc",
+      "percent": "2.061"
+    },
+    {
+      "ticker": "BJ",
+      "name": "BJ's Wholesale Club Holdings Inc",
+      "percent": "2.017"
+    },
+    {
+      "ticker": "DAN",
+      "name": "Dana Inc",
+      "percent": "1.994"
+    },
+    {
+      "ticker": "GT",
+      "name": "Goodyear Tire & Rubber Co/The",
+      "percent": "1.978"
+    },
+    {
+      "ticker": "CNO",
+      "name": "CNO Financial Group Inc",
+      "percent": "1.942"
+    },
+    {
+      "ticker": "TMHC",
+      "name": "Taylor Morrison Home Corp",
+      "percent": "1.923"
+    },
+    {
+      "ticker": "OLN",
+      "name": "Olin Corp",
+      "percent": "1.865"
+    },
+    {
+      "ticker": "KSS",
+      "name": "Kohl's Corp",
+      "percent": "1.843"
+    },
+    {
+      "ticker": "TPH",
+      "name": "TRI Pointe Group Inc",
+      "percent": "1.806"
+    },
+    {
+      "ticker": "THO",
+      "name": "Thor Industries Inc",
+      "percent": "1.790"
+    },
+    {
+      "ticker": "AVT",
+      "name": "Avnet Inc",
+      "percent": "1.789"
+    },
+    {
+      "ticker": "LEA",
+      "name": "Lear Corp",
+      "percent": "1.736"
+    },
+    {
+      "ticker": "TDS",
+      "name": "Telephone and Data Systems Inc",
+      "percent": "1.732"
+    },
+    {
+      "ticker": "UFS",
+      "name": "Domtar Corp",
+      "percent": "1.646"
+    },
+    {
+      "ticker": "ACM",
+      "name": "AECOM",
+      "percent": "1.527"
+    },
+    {
+      "ticker": "MAN",
+      "name": "ManpowerGroup Inc",
+      "percent": "1.482"
+    },
+    {
+      "ticker": "CMC",
+      "name": "Commercial Metals Co",
+      "percent": "1.475"
+    },
+    {
+      "ticker": "ADNT",
+      "name": "Adient PLC",
+      "percent": "1.464"
+    },
+    {
+      "ticker": "DY",
+      "name": "Dycom Industries Inc",
+      "percent": "1.459"
+    },
+    {
+      "ticker": "CAR",
+      "name": "Avis Budget Group Inc",
+      "percent": "1.449"
+    },
+    {
+      "ticker": "JEF",
+      "name": "Jefferies Financial Group Inc",
+      "percent": "1.441"
+    },
+    {
+      "ticker": "DKS",
+      "name": "Dick's Sporting Goods Inc",
+      "percent": "1.340"
+    },
+    {
+      "ticker": "CC",
+      "name": "Chemours Co/The",
+      "percent": "1.257"
+    },
+    {
+      "ticker": "GEF",
+      "name": "Greif Inc",
+      "percent": "1.147"
+    },
+    {
+      "ticker": "INT",
+      "name": "World Fuel Services Corp",
+      "percent": "1.138"
+    },
+    {
+      "ticker": "FL",
+      "name": "Foot Locker Inc",
+      "percent": "1.105"
+    },
+    {
+      "ticker": "JHG",
+      "name": "Janus Henderson Group PLC",
+      "percent": "1.095"
+    },
+    {
+      "ticker": "RGA",
+      "name": "Reinsurance Group of America Inc",
+      "percent": "1.067"
+    },
+    {
+      "ticker": "TEX",
+      "name": "Terex Corp",
+      "percent": "1.012"
+    },
+    {
+      "ticker": "MOH",
+      "name": "Molina Healthcare Inc",
+      "percent": "1.001"
+    },
+    {
+      "ticker": "AM",
+      "name": "Antero Midstream Corp",
+      "percent": "0.939"
+    },
+    {
+      "ticker": "IIVI",
+      "name": "II-VI Inc",
+      "percent": "0.920"
+    },
+    {
+      "ticker": "UNVR",
+      "name": "Univar Solutions Inc",
+      "percent": "0.914"
+    },
+    {
+      "ticker": "UMPQ",
+      "name": "Umpqua Holdings Corp",
+      "percent": "0.885"
+    },
+    {
+      "ticker": "AEO",
+      "name": "American Eagle Outfitters Inc",
+      "percent": "0.878"
+    },
+    {
+      "ticker": "TRN",
+      "name": "Trinity Industries Inc",
+      "percent": "0.866"
+    },
+    {
+      "ticker": "JBLU",
+      "name": "JetBlue Airways Corp",
+      "percent": "0.863"
+    },
+    {
+      "ticker": "RBC",
+      "name": "Regal Beloit Corp",
+      "percent": "0.861"
+    },
+    {
+      "ticker": "SFM",
+      "name": "Sprouts Farmers Market Inc",
+      "percent": "0.832"
+    },
+    {
+      "ticker": "MTX",
+      "name": "Minerals Technologies Inc",
+      "percent": "0.830"
+    },
+    {
+      "ticker": "KMPR",
+      "name": "Kemper Corp",
+      "percent": "0.827"
+    },
+    {
+      "ticker": "MCY",
+      "name": "Mercury General Corp",
+      "percent": "0.818"
+    },
+    {
+      "ticker": "URBN",
+      "name": "Urban Outfitters Inc",
+      "percent": "0.818"
+    },
+    {
+      "ticker": "THS",
+      "name": "TreeHouse Foods Inc",
+      "percent": "0.762"
+    },
+    {
+      "ticker": "XPO",
+      "name": "XPO Logistics Inc",
+      "percent": "0.757"
+    },
+    {
+      "ticker": "ORI",
+      "name": "Old Republic International Corp",
+      "percent": "0.748"
+    },
+    {
+      "ticker": "GEO",
+      "name": "GEO Group Inc/The",
+      "percent": "0.744"
+    },
+    {
+      "ticker": "KAR",
+      "name": "KAR Auction Services Inc",
+      "percent": "0.738"
+    },
+    {
+      "ticker": "FNB",
+      "name": "FNB Corp/PA",
+      "percent": "0.712"
+    },
+    {
+      "ticker": "NAVI",
+      "name": "Navient Corp",
+      "percent": "0.712"
+    },
+    {
+      "ticker": "JWN",
+      "name": "Nordstrom Inc",
+      "percent": "0.688"
+    },
+    {
+      "ticker": "OZK",
+      "name": "Bank OZK",
+      "percent": "0.664"
+    },
+    {
+      "ticker": "WOR",
+      "name": "Worthington Industries Inc",
+      "percent": "0.658"
+    },
+    {
+      "ticker": "ASB",
+      "name": "Associated Banc-Corp",
+      "percent": "0.656"
+    },
+    {
+      "ticker": "NTCT",
+      "name": "NetScout Systems Inc",
+      "percent": "0.645"
+    },
+    {
+      "ticker": "GHC",
+      "name": "Graham Holdings Co",
+      "percent": "0.643"
+    },
+    {
+      "ticker": "ACHC",
+      "name": "Acadia Healthcare Co Inc",
+      "percent": "0.624"
+    },
+    {
+      "ticker": "ADS",
+      "name": "Alliance Data Systems Corp",
+      "percent": "0.568"
+    },
+    {
+      "ticker": "STL",
+      "name": "Sterling Bancorp/DE",
+      "percent": "0.548"
+    },
+    {
+      "ticker": "THC",
+      "name": "Tenet Healthcare Corp",
+      "percent": "0.544"
+    },
+    {
+      "ticker": "PACW",
+      "name": "PacWest Bancorp",
+      "percent": "0.510"
+    },
+    {
+      "ticker": "WTFC",
+      "name": "Wintrust Financial Corp",
+      "percent": "0.487"
+    },
+    {
+      "ticker": "PK",
+      "name": "Park Hotels & Resorts Inc",
+      "percent": "0.471"
+    },
+    {
+      "ticker": "FHN",
+      "name": "First Horizon National Corp",
+      "percent": "0.464"
+    },
+    {
+      "ticker": "ATGE",
+      "name": "Adtalem Global Education Inc",
+      "percent": "0.451"
+    },
+    {
+      "ticker": "TCBI",
+      "name": "Texas Capital Bancshares Inc",
+      "percent": "0.432"
+    },
+    {
+      "ticker": "HWC",
+      "name": "Hancock Whitney Corp",
+      "percent": "0.428"
+    },
+    {
+      "ticker": "PNFP",
+      "name": "Pinnacle Financial Partners Inc",
+      "percent": "0.399"
+    },
+    {
+      "ticker": "VLY",
+      "name": "Valley National Bancorp",
+      "percent": "0.389"
+    },
+    {
+      "ticker": "PEB",
+      "name": "Pebblebrook Hotel Trust",
+      "percent": "0.352"
+    },
+    {
+      "ticker": "TCF",
+      "name": "TCF Financial Corp",
+      "percent": "0.339"
+    },
+    {
+      "ticker": "AGPXX",
+      "name": "STIT - Government & Agency Portfolio",
+      "percent": "0.032"
+    }
+  ]
+}

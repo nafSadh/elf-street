@@ -1,0 +1,185 @@
+{
+  "Products": "Solar ETF",
+  "Ticker": "TAN",
+  "Inception": "04/15/2008",
+  "Gross Exp. Ratio": "0.71%",
+  "YTD": "109.46",
+  "1Yr": "119.42",
+  "3Yr": "45.16",
+  "5Yr": "21.64",
+  "10Yr": "0.06",
+  "Since Incept.": "-8.17",
+  "Category": "Thematic",
+  "SubCategory": "Sustainable",
+  "ticker": "TAN",
+  "name": "Solar ETF",
+  "issuer": "Invesco",
+  "website": "https://www.invesco.com/us/financial-products/etfs/product-detail?audienceType=Investor&ticker=TAN",
+  "holdingDataSource": {
+    "url": "https://www.invesco.com/us/financial-products/etfs/holdings/main/holdings/0?audienceType=Investor&action=download&ticker=TAN",
+    "fileExt": "csv",
+    "transform": "invesco"
+  },
+  "holdings": [
+    {
+      "ticker": "SEDG",
+      "name": "SolarEdge Technologies Inc",
+      "percent": "11.708"
+    },
+    {
+      "ticker": "ENPH",
+      "name": "Enphase Energy Inc",
+      "percent": "9.906"
+    },
+    {
+      "ticker": "968 HK",
+      "name": "Xinyi Solar Holdings Ltd",
+      "percent": "7.179"
+    },
+    {
+      "ticker": "FSLR",
+      "name": "First Solar Inc",
+      "percent": "7.071"
+    },
+    {
+      "ticker": "JKS",
+      "name": "JinkoSolar Holding Co Ltd ADR",
+      "percent": "6.306"
+    },
+    {
+      "ticker": "RUN",
+      "name": "Sunrun Inc",
+      "percent": "6.015"
+    },
+    {
+      "ticker": "SSO",
+      "name": "Scatec Solar ASA",
+      "percent": "4.764"
+    },
+    {
+      "ticker": "DQ",
+      "name": "Daqo New Energy Corp ADR",
+      "percent": "4.706"
+    },
+    {
+      "ticker": "CAP",
+      "name": "Encavis AG",
+      "percent": "3.676"
+    },
+    {
+      "ticker": "CSIQ",
+      "name": "Canadian Solar Inc",
+      "percent": "3.561"
+    },
+    {
+      "ticker": "SPWR",
+      "name": "SunPower Corp",
+      "percent": "3.518"
+    },
+    {
+      "ticker": "HASI",
+      "name": "Hannon Armstrong Sustainable Infrastructure Capital Inc",
+      "percent": "3.315"
+    },
+    {
+      "ticker": "SLR",
+      "name": "Solaria Energia y Medio Ambiente SA",
+      "percent": "3.049"
+    },
+    {
+      "ticker": "CWEN",
+      "name": "Clearway Energy Inc",
+      "percent": "2.880"
+    },
+    {
+      "ticker": "3868 HK",
+      "name": "Xinyi Energy Holdings Ltd",
+      "percent": "2.771"
+    },
+    {
+      "ticker": "6865 HK",
+      "name": "Flat Glass Group Co Ltd",
+      "percent": "2.418"
+    },
+    {
+      "ticker": "NEOEN FP",
+      "name": "Neoen SA",
+      "percent": "2.267"
+    },
+    {
+      "ticker": "AY",
+      "name": "Atlantica Sustainable Infrastructure PLC",
+      "percent": "2.266"
+    },
+    {
+      "ticker": "NOVA",
+      "name": "Sunnova Energy International Inc",
+      "percent": "2.072"
+    },
+    {
+      "ticker": "S92",
+      "name": "SMA Solar Technology AG",
+      "percent": "1.923"
+    },
+    {
+      "ticker": "3800 HK",
+      "name": "GCL-Poly Energy Holdings Ltd",
+      "percent": "1.874"
+    },
+    {
+      "ticker": "AZRE",
+      "name": "Azure Power Global Ltd",
+      "percent": "1.848"
+    },
+    {
+      "ticker": "MBTN SW",
+      "name": "Meyer Burger Technology AG",
+      "percent": "1.837"
+    },
+    {
+      "ticker": "9519 JP",
+      "name": "RENOVA Inc",
+      "percent": "1.193"
+    },
+    {
+      "ticker": "1407 JP",
+      "name": "West Holdings Corp",
+      "percent": "1.105"
+    },
+    {
+      "ticker": "MAXN",
+      "name": "Maxeon Solar Technologies Ltd",
+      "percent": "0.850"
+    },
+    {
+      "ticker": "-HongKong",
+      "name": "Cash/Receivables/Payables",
+      "percent": "0.000"
+    },
+    {
+      "ticker": "-JapanYen-",
+      "name": "Cash/Receivables/Payables",
+      "percent": "0.000"
+    },
+    {
+      "ticker": "-NorwayKrn",
+      "name": "Cash/Receivables/Payables",
+      "percent": "-0.000"
+    },
+    {
+      "ticker": "-Euro-",
+      "name": "Cash/Receivables/Payables",
+      "percent": "-0.000"
+    },
+    {
+      "ticker": "-SwissFran",
+      "name": "Cash/Receivables/Payables",
+      "percent": "-0.000"
+    },
+    {
+      "ticker": "-CASH-",
+      "name": "Cash/Receivables/Payables",
+      "percent": "-0.077"
+    }
+  ]
+}

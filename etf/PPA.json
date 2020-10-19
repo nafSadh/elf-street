@@ -1,0 +1,295 @@
+{
+  "Products": "Aerospace & Defense ETF",
+  "Ticker": "PPA",
+  "Inception": "10/26/2005",
+  "Gross Exp. Ratio": "0.59%",
+  "YTD": "-17.65",
+  "1Yr": "-16.63",
+  "3Yr": "3.78",
+  "5Yr": "12.53",
+  "10Yr": "13.88",
+  "Since Incept.": "10.41",
+  "Category": "Thematic",
+  "SubCategory": "Access",
+  "ticker": "PPA",
+  "name": "Aerospace & Defense ETF",
+  "issuer": "Invesco",
+  "website": "https://www.invesco.com/us/financial-products/etfs/product-detail?audienceType=Investor&ticker=PPA",
+  "holdingDataSource": {
+    "url": "https://www.invesco.com/us/financial-products/etfs/holdings/main/holdings/0?audienceType=Investor&action=download&ticker=PPA",
+    "fileExt": "csv",
+    "transform": "invesco"
+  },
+  "holdings": [
+    {
+      "ticker": "BA",
+      "name": "Boeing Co/The",
+      "percent": "7.905"
+    },
+    {
+      "ticker": "HON",
+      "name": "Honeywell International Inc",
+      "percent": "7.599"
+    },
+    {
+      "ticker": "LMT",
+      "name": "Lockheed Martin Corp",
+      "percent": "7.040"
+    },
+    {
+      "ticker": "RTX",
+      "name": "Raytheon Technologies Corp",
+      "percent": "6.288"
+    },
+    {
+      "ticker": "NOC",
+      "name": "Northrop Grumman Corp",
+      "percent": "6.254"
+    },
+    {
+      "ticker": "GD",
+      "name": "General Dynamics Corp",
+      "percent": "4.853"
+    },
+    {
+      "ticker": "LHX",
+      "name": "L3Harris Technologies Inc",
+      "percent": "4.483"
+    },
+    {
+      "ticker": "BLL",
+      "name": "Ball Corp",
+      "percent": "4.276"
+    },
+    {
+      "ticker": "TDG",
+      "name": "TransDigm Group Inc",
+      "percent": "3.844"
+    },
+    {
+      "ticker": "HEI",
+      "name": "HEICO Corp",
+      "percent": "3.788"
+    },
+    {
+      "ticker": "J",
+      "name": "Jacobs Engineering Group Inc",
+      "percent": "3.299"
+    },
+    {
+      "ticker": "LDOS",
+      "name": "Leidos Holdings Inc",
+      "percent": "3.095"
+    },
+    {
+      "ticker": "TDY",
+      "name": "Teledyne Technologies Inc",
+      "percent": "3.044"
+    },
+    {
+      "ticker": "BAH",
+      "name": "Booz Allen Hamilton Holding Corp",
+      "percent": "2.852"
+    },
+    {
+      "ticker": "TXT",
+      "name": "Textron Inc",
+      "percent": "2.067"
+    },
+    {
+      "ticker": "HWM",
+      "name": "Howmet Aerospace Inc",
+      "percent": "2.011"
+    },
+    {
+      "ticker": "AAXN",
+      "name": "Axon Enterprise Inc",
+      "percent": "1.623"
+    },
+    {
+      "ticker": "HII",
+      "name": "Huntington Ingalls Industries Inc",
+      "percent": "1.509"
+    },
+    {
+      "ticker": "BWXT",
+      "name": "BWX Technologies Inc",
+      "percent": "1.380"
+    },
+    {
+      "ticker": "OSK",
+      "name": "Oshkosh Corp",
+      "percent": "1.360"
+    },
+    {
+      "ticker": "CACI",
+      "name": "CACI International Inc",
+      "percent": "1.351"
+    },
+    {
+      "ticker": "ESLT",
+      "name": "Elbit Systems Ltd",
+      "percent": "1.323"
+    },
+    {
+      "ticker": "WWD",
+      "name": "Woodward Inc",
+      "percent": "1.318"
+    },
+    {
+      "ticker": "FLIR",
+      "name": "FLIR Systems Inc",
+      "percent": "1.249"
+    },
+    {
+      "ticker": "SAIC",
+      "name": "Science Applications International Corp",
+      "percent": "1.177"
+    },
+    {
+      "ticker": "MRCY",
+      "name": "Mercury Systems Inc",
+      "percent": "1.068"
+    },
+    {
+      "ticker": "CAE",
+      "name": "CAE Inc",
+      "percent": "1.068"
+    },
+    {
+      "ticker": "CW",
+      "name": "Curtiss-Wright Corp",
+      "percent": "1.034"
+    },
+    {
+      "ticker": "IRDM",
+      "name": "Iridium Communications Inc",
+      "percent": "0.922"
+    },
+    {
+      "ticker": "KBR",
+      "name": "KBR Inc",
+      "percent": "0.883"
+    },
+    {
+      "ticker": "PSN",
+      "name": "Parsons Corp",
+      "percent": "0.840"
+    },
+    {
+      "ticker": "PRSP",
+      "name": "Perspecta Inc",
+      "percent": "0.820"
+    },
+    {
+      "ticker": "FEYE",
+      "name": "FireEye Inc",
+      "percent": "0.774"
+    },
+    {
+      "ticker": "AJRD",
+      "name": "Aerojet Rocketdyne Holdings Inc",
+      "percent": "0.759"
+    },
+    {
+      "ticker": "HXL",
+      "name": "Hexcel Corp",
+      "percent": "0.742"
+    },
+    {
+      "ticker": "MANT",
+      "name": "ManTech International Corp/VA",
+      "percent": "0.726"
+    },
+    {
+      "ticker": "MOG/A",
+      "name": "Moog Inc",
+      "percent": "0.569"
+    },
+    {
+      "ticker": "KTOS",
+      "name": "Kratos Defense & Security Solutions Inc",
+      "percent": "0.554"
+    },
+    {
+      "ticker": "VSAT",
+      "name": "ViaSat Inc",
+      "percent": "0.539"
+    },
+    {
+      "ticker": "SPR",
+      "name": "Spirit AeroSystems Holdings Inc",
+      "percent": "0.504"
+    },
+    {
+      "ticker": "CUB",
+      "name": "Cubic Corp",
+      "percent": "0.454"
+    },
+    {
+      "ticker": "AVAV",
+      "name": "AeroVironment Inc",
+      "percent": "0.451"
+    },
+    {
+      "ticker": "MAXR",
+      "name": "Maxar Technologies Inc",
+      "percent": "0.439"
+    },
+    {
+      "ticker": "OSIS",
+      "name": "OSI Systems Inc",
+      "percent": "0.364"
+    },
+    {
+      "ticker": "KAMN",
+      "name": "Kaman Corp",
+      "percent": "0.305"
+    },
+    {
+      "ticker": "ATI",
+      "name": "Allegheny Technologies Inc",
+      "percent": "0.298"
+    },
+    {
+      "ticker": "AIR",
+      "name": "AAR Corp",
+      "percent": "0.174"
+    },
+    {
+      "ticker": "AGPXX",
+      "name": "STIT - Government & Agency Portfolio",
+      "percent": "0.135"
+    },
+    {
+      "ticker": "PAE",
+      "name": "PAE Inc",
+      "percent": "0.117"
+    },
+    {
+      "ticker": "VEC",
+      "name": "Vectrus Inc",
+      "percent": "0.117"
+    },
+    {
+      "ticker": "DCO",
+      "name": "Ducommun Inc",
+      "percent": "0.102"
+    },
+    {
+      "ticker": "CMTL",
+      "name": "Comtech Telecommunications Corp",
+      "percent": "0.098"
+    },
+    {
+      "ticker": "TGI",
+      "name": "Triumph Group Inc",
+      "percent": "0.088"
+    },
+    {
+      "ticker": "RADA",
+      "name": "RADA Electronic Industries Ltd",
+      "percent": "0.065"
+    }
+  ]
+}

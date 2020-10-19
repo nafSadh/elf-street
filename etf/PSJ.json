@@ -1,0 +1,180 @@
+{
+  "Products": "Dynamic Software ETF",
+  "Ticker": "PSJ",
+  "Inception": "06/23/2005",
+  "Gross Exp. Ratio": "0.58%",
+  "YTD": "23.99",
+  "1Yr": "33.07",
+  "3Yr": "25.98",
+  "5Yr": "25.17",
+  "10Yr": "18.68",
+  "Since Incept.": "14.86",
+  "Category": "Multi Factor",
+  "SubCategory": "Intellidex Industries",
+  "ticker": "PSJ",
+  "name": "Dynamic Software ETF",
+  "issuer": "Invesco",
+  "website": "https://www.invesco.com/us/financial-products/etfs/product-detail?audienceType=Investor&ticker=PSJ",
+  "holdingDataSource": {
+    "url": "https://www.invesco.com/us/financial-products/etfs/holdings/main/holdings/0?audienceType=Investor&action=download&ticker=PSJ",
+    "fileExt": "csv",
+    "transform": "invesco"
+  },
+  "holdings": [
+    {
+      "ticker": "SNAP",
+      "name": "Snap Inc",
+      "percent": "6.010"
+    },
+    {
+      "ticker": "DOCU",
+      "name": "DocuSign Inc",
+      "percent": "5.129"
+    },
+    {
+      "ticker": "LBRDK",
+      "name": "Liberty Broadband Corp",
+      "percent": "4.940"
+    },
+    {
+      "ticker": "SHOP",
+      "name": "Shopify Inc",
+      "percent": "4.756"
+    },
+    {
+      "ticker": "ADBE",
+      "name": "Adobe Inc",
+      "percent": "4.626"
+    },
+    {
+      "ticker": "MSFT",
+      "name": "Microsoft Corp",
+      "percent": "4.552"
+    },
+    {
+      "ticker": "ATVI",
+      "name": "Activision Blizzard Inc",
+      "percent": "4.512"
+    },
+    {
+      "ticker": "EA",
+      "name": "Electronic Arts Inc",
+      "percent": "4.369"
+    },
+    {
+      "ticker": "ROKU",
+      "name": "Roku Inc",
+      "percent": "3.537"
+    },
+    {
+      "ticker": "BAND",
+      "name": "Bandwidth Inc",
+      "percent": "3.186"
+    },
+    {
+      "ticker": "AVYA",
+      "name": "Avaya Holdings Corp",
+      "percent": "3.168"
+    },
+    {
+      "ticker": "AVLR",
+      "name": "Avalara Inc",
+      "percent": "3.131"
+    },
+    {
+      "ticker": "BL",
+      "name": "Blackline Inc",
+      "percent": "3.049"
+    },
+    {
+      "ticker": "NUAN",
+      "name": "Nuance Communications Inc",
+      "percent": "3.017"
+    },
+    {
+      "ticker": "FIVN",
+      "name": "Five9 Inc",
+      "percent": "2.957"
+    },
+    {
+      "ticker": "BKI",
+      "name": "Black Knight Inc",
+      "percent": "2.921"
+    },
+    {
+      "ticker": "INOV",
+      "name": "Inovalon Holdings Inc",
+      "percent": "2.832"
+    },
+    {
+      "ticker": "CRNC",
+      "name": "Cerence Inc",
+      "percent": "2.818"
+    },
+    {
+      "ticker": "SPSC",
+      "name": "SPS Commerce Inc",
+      "percent": "2.776"
+    },
+    {
+      "ticker": "RMBS",
+      "name": "Rambus Inc",
+      "percent": "2.767"
+    },
+    {
+      "ticker": "TENB",
+      "name": "Tenable Holdings Inc",
+      "percent": "2.739"
+    },
+    {
+      "ticker": "FICO",
+      "name": "Fair Isaac Corp",
+      "percent": "2.636"
+    },
+    {
+      "ticker": "DT",
+      "name": "Dynatrace Inc",
+      "percent": "2.575"
+    },
+    {
+      "ticker": "GLUU",
+      "name": "Glu Mobile Inc",
+      "percent": "2.532"
+    },
+    {
+      "ticker": "DLB",
+      "name": "Dolby Laboratories Inc",
+      "percent": "2.525"
+    },
+    {
+      "ticker": "JKHY",
+      "name": "Jack Henry & Associates Inc",
+      "percent": "2.505"
+    },
+    {
+      "ticker": "CTXS",
+      "name": "Citrix Systems Inc",
+      "percent": "2.489"
+    },
+    {
+      "ticker": "QLYS",
+      "name": "Qualys Inc",
+      "percent": "2.439"
+    },
+    {
+      "ticker": "NLOK",
+      "name": "NortonLifeLock Inc",
+      "percent": "2.236"
+    },
+    {
+      "ticker": "EVBG",
+      "name": "Everbridge Inc",
+      "percent": "2.233"
+    },
+    {
+      "ticker": "AGPXX",
+      "name": "STIT - Government & Agency Portfolio",
+      "percent": "0.041"
+    }
+  ]
+}

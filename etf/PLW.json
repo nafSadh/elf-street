@@ -1,0 +1,160 @@
+{
+  "Products": "1-30 Laddered Treasury ETF",
+  "Ticker": "PLW",
+  "Inception": "10/11/2007",
+  "Gross Exp. Ratio": "0.25%",
+  "YTD": "14.75",
+  "1Yr": "12.04",
+  "3Yr": "8.32",
+  "5Yr": "5.66",
+  "10Yr": "5.08",
+  "Since Incept.": "6.16",
+  "Category": "Income",
+  "SubCategory": "Core",
+  "ticker": "PLW",
+  "name": "1-30 Laddered Treasury ETF",
+  "issuer": "Invesco",
+  "website": "https://www.invesco.com/us/financial-products/etfs/product-detail?audienceType=Investor&ticker=PLW",
+  "holdingDataSource": {
+    "url": "https://www.invesco.com/us/financial-products/etfs/holdings/main/holdings/0?audienceType=Investor&action=download&ticker=PLW",
+    "fileExt": "csv",
+    "transform": "invesco"
+  },
+  "holdings": [
+    {
+      "ticker": "912810FT0",
+      "name": "United States Treasury Note/Bond",
+      "percent": "10.11"
+    },
+    {
+      "ticker": "912810FP8",
+      "name": "United States Treasury Note/Bond",
+      "percent": "9.85"
+    },
+    {
+      "ticker": "912810SL3",
+      "name": "United States Treasury Note/Bond",
+      "percent": "3.55"
+    },
+    {
+      "ticker": "912810RQ3",
+      "name": "United States Treasury Note/Bond",
+      "percent": "3.49"
+    },
+    {
+      "ticker": "912810RK6",
+      "name": "United States Treasury Note/Bond",
+      "percent": "3.49"
+    },
+    {
+      "ticker": "912810SA7",
+      "name": "United States Treasury Note/Bond",
+      "percent": "3.47"
+    },
+    {
+      "ticker": "912810SF6",
+      "name": "United States Treasury Note/Bond",
+      "percent": "3.47"
+    },
+    {
+      "ticker": "912810RV2",
+      "name": "United States Treasury Note/Bond",
+      "percent": "3.47"
+    },
+    {
+      "ticker": "912810QU5",
+      "name": "United States Treasury Note/Bond",
+      "percent": "3.46"
+    },
+    {
+      "ticker": "912810QZ4",
+      "name": "United States Treasury Note/Bond",
+      "percent": "3.46"
+    },
+    {
+      "ticker": "912810RE0",
+      "name": "United States Treasury Note/Bond",
+      "percent": "3.45"
+    },
+    {
+      "ticker": "912810QA9",
+      "name": "United States Treasury Note/Bond",
+      "percent": "3.43"
+    },
+    {
+      "ticker": "912810QN1",
+      "name": "United States Treasury Note/Bond",
+      "percent": "3.41"
+    },
+    {
+      "ticker": "912828Z94",
+      "name": "United States Treasury Note/Bond",
+      "percent": "3.41"
+    },
+    {
+      "ticker": "912810QE1",
+      "name": "United States Treasury Note/Bond",
+      "percent": "3.40"
+    },
+    {
+      "ticker": "912810PW2",
+      "name": "United States Treasury Note/Bond",
+      "percent": "3.39"
+    },
+    {
+      "ticker": "912810PT9",
+      "name": "United States Treasury Note/Bond",
+      "percent": "3.37"
+    },
+    {
+      "ticker": "9128283W8",
+      "name": "United States Treasury Note/Bond",
+      "percent": "3.30"
+    },
+    {
+      "ticker": "912810FG8",
+      "name": "United States Treasury Note/Bond",
+      "percent": "3.25"
+    },
+    {
+      "ticker": "912828B66",
+      "name": "United States Treasury Note/Bond",
+      "percent": "3.20"
+    },
+    {
+      "ticker": "912810EZ7",
+      "name": "United States Treasury Note/Bond",
+      "percent": "3.17"
+    },
+    {
+      "ticker": "912810EW4",
+      "name": "United States Treasury Note/Bond",
+      "percent": "3.16"
+    },
+    {
+      "ticker": "912828SF8",
+      "name": "United States Treasury Note/Bond",
+      "percent": "3.16"
+    },
+    {
+      "ticker": "912810ET1",
+      "name": "United States Treasury Note/Bond",
+      "percent": "3.10"
+    },
+    {
+      "ticker": "912810EP9",
+      "name": "United States Treasury Note/Bond",
+      "percent": "3.04"
+    },
+    {
+      "ticker": "912810EH7",
+      "name": "United States Treasury Note/Bond",
+      "percent": "2.93"
+    },
+    {
+      "ticker": "AGPXX",
+      "name": "STIT - Government & Agency Portfolio",
+      "percent": "0.01"
+    }
+  ]
+}

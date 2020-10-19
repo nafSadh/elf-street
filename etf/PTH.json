@@ -1,0 +1,280 @@
+{
+  "Products": "DWA Healthcare Momentum ETF",
+  "Ticker": "PTH",
+  "Inception": "10/12/2006",
+  "Gross Exp. Ratio": "0.69%",
+  "YTD": "42.02",
+  "1Yr": "73.57",
+  "3Yr": "26.17",
+  "5Yr": "20.17",
+  "10Yr": "18.69",
+  "Since Incept.": "13.02",
+  "Category": "Factor Access",
+  "SubCategory": "Dorsey Wright Sectors",
+  "ticker": "PTH",
+  "name": "DWA Healthcare Momentum ETF",
+  "issuer": "Invesco",
+  "website": "https://www.invesco.com/us/financial-products/etfs/product-detail?audienceType=Investor&ticker=PTH",
+  "holdingDataSource": {
+    "url": "https://www.invesco.com/us/financial-products/etfs/holdings/main/holdings/0?audienceType=Investor&action=download&ticker=PTH",
+    "fileExt": "csv",
+    "transform": "invesco"
+  },
+  "holdings": [
+    {
+      "ticker": "AMED",
+      "name": "Amedisys Inc",
+      "percent": "5.205"
+    },
+    {
+      "ticker": "DHR",
+      "name": "Danaher Corp",
+      "percent": "5.052"
+    },
+    {
+      "ticker": "TMO",
+      "name": "Thermo Fisher Scientific Inc",
+      "percent": "4.771"
+    },
+    {
+      "ticker": "HZNP",
+      "name": "Horizon Therapeutics Plc",
+      "percent": "4.232"
+    },
+    {
+      "ticker": "RGEN",
+      "name": "Repligen Corp",
+      "percent": "3.814"
+    },
+    {
+      "ticker": "NVTA",
+      "name": "Invitae Corp",
+      "percent": "3.689"
+    },
+    {
+      "ticker": "WST",
+      "name": "West Pharmaceutical Services Inc",
+      "percent": "3.681"
+    },
+    {
+      "ticker": "IDXX",
+      "name": "IDEXX Laboratories Inc",
+      "percent": "3.470"
+    },
+    {
+      "ticker": "HUM",
+      "name": "Humana Inc",
+      "percent": "3.369"
+    },
+    {
+      "ticker": "SGEN",
+      "name": "Seagen Inc",
+      "percent": "3.292"
+    },
+    {
+      "ticker": "UNH",
+      "name": "UnitedHealth Group Inc",
+      "percent": "3.271"
+    },
+    {
+      "ticker": "IRTC",
+      "name": "iRhythm Technologies Inc",
+      "percent": "2.843"
+    },
+    {
+      "ticker": "ISRG",
+      "name": "Intuitive Surgical Inc",
+      "percent": "2.463"
+    },
+    {
+      "ticker": "ZTS",
+      "name": "Zoetis Inc",
+      "percent": "2.406"
+    },
+    {
+      "ticker": "TGTX",
+      "name": "TG Therapeutics Inc",
+      "percent": "2.400"
+    },
+    {
+      "ticker": "BIO",
+      "name": "Bio-Rad Laboratories Inc",
+      "percent": "2.343"
+    },
+    {
+      "ticker": "CBAY",
+      "name": "Cymabay Therapeutics Inc",
+      "percent": "2.237"
+    },
+    {
+      "ticker": "SDC",
+      "name": "SmileDirectClub Inc",
+      "percent": "2.206"
+    },
+    {
+      "ticker": "CTLT",
+      "name": "Catalent Inc",
+      "percent": "2.151"
+    },
+    {
+      "ticker": "LHCG",
+      "name": "LHC Group Inc",
+      "percent": "2.052"
+    },
+    {
+      "ticker": "NEO",
+      "name": "NeoGenomics Inc",
+      "percent": "1.936"
+    },
+    {
+      "ticker": "MRSN",
+      "name": "Mersana Therapeutics Inc",
+      "percent": "1.830"
+    },
+    {
+      "ticker": "PACB",
+      "name": "Pacific Biosciences of California Inc",
+      "percent": "1.791"
+    },
+    {
+      "ticker": "KURA",
+      "name": "Kura Oncology Inc",
+      "percent": "1.752"
+    },
+    {
+      "ticker": "TWST",
+      "name": "Twist Bioscience Corp",
+      "percent": "1.696"
+    },
+    {
+      "ticker": "MYOK",
+      "name": "MyoKardia Inc",
+      "percent": "1.686"
+    },
+    {
+      "ticker": "IMVT",
+      "name": "Immunovant Inc",
+      "percent": "1.683"
+    },
+    {
+      "ticker": "MEDP",
+      "name": "Medpace Holdings Inc",
+      "percent": "1.597"
+    },
+    {
+      "ticker": "FLDM",
+      "name": "Fluidigm Corp",
+      "percent": "1.564"
+    },
+    {
+      "ticker": "IOVA",
+      "name": "Iovance Biotherapeutics Inc",
+      "percent": "1.525"
+    },
+    {
+      "ticker": "FLGT",
+      "name": "Fulgent Genetics Inc",
+      "percent": "1.505"
+    },
+    {
+      "ticker": "CVET",
+      "name": "Covetrus Inc",
+      "percent": "1.431"
+    },
+    {
+      "ticker": "NVRO",
+      "name": "Nevro Corp",
+      "percent": "1.314"
+    },
+    {
+      "ticker": "FATE",
+      "name": "Fate Therapeutics Inc",
+      "percent": "1.268"
+    },
+    {
+      "ticker": "ITCI",
+      "name": "Intra-Cellular Therapies Inc",
+      "percent": "1.205"
+    },
+    {
+      "ticker": "NTRA",
+      "name": "Natera Inc",
+      "percent": "1.166"
+    },
+    {
+      "ticker": "CLDX",
+      "name": "Celldex Therapeutics Inc",
+      "percent": "1.129"
+    },
+    {
+      "ticker": "ISEE",
+      "name": "IVERIC bio Inc",
+      "percent": "0.919"
+    },
+    {
+      "ticker": "PRVB",
+      "name": "Provention Bio Inc",
+      "percent": "0.912"
+    },
+    {
+      "ticker": "SILK",
+      "name": "Silk Road Medical Inc",
+      "percent": "0.876"
+    },
+    {
+      "ticker": "SGRY",
+      "name": "Surgery Partners Inc",
+      "percent": "0.794"
+    },
+    {
+      "ticker": "PSNL",
+      "name": "Personalis Inc",
+      "percent": "0.790"
+    },
+    {
+      "ticker": "ALDX",
+      "name": "Aldeyra Therapeutics Inc",
+      "percent": "0.746"
+    },
+    {
+      "ticker": "BCLI",
+      "name": "BrainStorm Cell Therapeutics Inc",
+      "percent": "0.725"
+    },
+    {
+      "ticker": "PTGX",
+      "name": "Protagonist Therapeutics Inc",
+      "percent": "0.722"
+    },
+    {
+      "ticker": "IMUX",
+      "name": "Immunic Inc",
+      "percent": "0.703"
+    },
+    {
+      "ticker": "BLFS",
+      "name": "BioLife Solutions Inc",
+      "percent": "0.618"
+    },
+    {
+      "ticker": "CSTL",
+      "name": "Castle Biosciences Inc",
+      "percent": "0.596"
+    },
+    {
+      "ticker": "AQST",
+      "name": "Aquestive Therapeutics Inc",
+      "percent": "0.470"
+    },
+    {
+      "ticker": "AGPXX",
+      "name": "STIT - Government & Agency Portfolio",
+      "percent": "0.107"
+    },
+    {
+      "ticker": "-CASH-",
+      "name": "Cash/Receivables/Payables",
+      "percent": "0.000"
+    }
+  ]
+}

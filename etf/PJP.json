@@ -1,0 +1,175 @@
+{
+  "Products": "Dynamic Pharmaceuticals ETF",
+  "Ticker": "PJP",
+  "Inception": "06/23/2005",
+  "Gross Exp. Ratio": "0.56%",
+  "YTD": "-0.84",
+  "1Yr": "13.59",
+  "3Yr": "0.12",
+  "5Yr": "1.03",
+  "10Yr": "13.35",
+  "Since Incept.": "11.42",
+  "Category": "Multi Factor",
+  "SubCategory": "Intellidex Industries",
+  "ticker": "PJP",
+  "name": "Dynamic Pharmaceuticals ETF",
+  "issuer": "Invesco",
+  "website": "https://www.invesco.com/us/financial-products/etfs/product-detail?audienceType=Investor&ticker=PJP",
+  "holdingDataSource": {
+    "url": "https://www.invesco.com/us/financial-products/etfs/holdings/main/holdings/0?audienceType=Investor&action=download&ticker=PJP",
+    "fileExt": "csv",
+    "transform": "invesco"
+  },
+  "holdings": [
+    {
+      "ticker": "PFE",
+      "name": "Pfizer Inc",
+      "percent": "5.036"
+    },
+    {
+      "ticker": "ENDP",
+      "name": "Endo International PLC",
+      "percent": "4.966"
+    },
+    {
+      "ticker": "ABT",
+      "name": "Abbott Laboratories",
+      "percent": "4.951"
+    },
+    {
+      "ticker": "LLY",
+      "name": "Eli Lilly and Co",
+      "percent": "4.928"
+    },
+    {
+      "ticker": "JNJ",
+      "name": "Johnson & Johnson",
+      "percent": "4.863"
+    },
+    {
+      "ticker": "GILD",
+      "name": "Gilead Sciences Inc",
+      "percent": "4.752"
+    },
+    {
+      "ticker": "AMGN",
+      "name": "Amgen Inc",
+      "percent": "4.684"
+    },
+    {
+      "ticker": "MRK",
+      "name": "Merck & Co Inc",
+      "percent": "4.673"
+    },
+    {
+      "ticker": "ABBV",
+      "name": "AbbVie Inc",
+      "percent": "4.596"
+    },
+    {
+      "ticker": "CORT",
+      "name": "Corcept Therapeutics Inc",
+      "percent": "4.019"
+    },
+    {
+      "ticker": "ALXN",
+      "name": "Alexion Pharmaceuticals Inc",
+      "percent": "3.255"
+    },
+    {
+      "ticker": "JAZZ",
+      "name": "Jazz Pharmaceuticals PLC",
+      "percent": "3.208"
+    },
+    {
+      "ticker": "RTRX",
+      "name": "Retrophin Inc",
+      "percent": "3.169"
+    },
+    {
+      "ticker": "UTHR",
+      "name": "United Therapeutics Corp",
+      "percent": "3.028"
+    },
+    {
+      "ticker": "HZNP",
+      "name": "Horizon Therapeutics Plc",
+      "percent": "3.021"
+    },
+    {
+      "ticker": "AMPH",
+      "name": "Amphastar Pharmaceuticals Inc",
+      "percent": "2.871"
+    },
+    {
+      "ticker": "BHC",
+      "name": "Bausch Health Cos Inc",
+      "percent": "2.800"
+    },
+    {
+      "ticker": "BIIB",
+      "name": "Biogen Inc",
+      "percent": "2.790"
+    },
+    {
+      "ticker": "TARO",
+      "name": "Taro Pharmaceutical Industries Ltd",
+      "percent": "2.741"
+    },
+    {
+      "ticker": "REGN",
+      "name": "Regeneron Pharmaceuticals Inc",
+      "percent": "2.713"
+    },
+    {
+      "ticker": "PBH",
+      "name": "Prestige Consumer Healthcare Inc",
+      "percent": "2.712"
+    },
+    {
+      "ticker": "MYL",
+      "name": "Mylan NV",
+      "percent": "2.701"
+    },
+    {
+      "ticker": "LGND",
+      "name": "Ligand Pharmaceuticals Inc",
+      "percent": "2.619"
+    },
+    {
+      "ticker": "PCRX",
+      "name": "Pacira BioSciences Inc",
+      "percent": "2.583"
+    },
+    {
+      "ticker": "SUPN",
+      "name": "Supernus Pharmaceuticals Inc",
+      "percent": "2.517"
+    },
+    {
+      "ticker": "PRGO",
+      "name": "Perrigo Co PLC",
+      "percent": "2.516"
+    },
+    {
+      "ticker": "ENTA",
+      "name": "Enanta Pharmaceuticals Inc",
+      "percent": "2.506"
+    },
+    {
+      "ticker": "INVA",
+      "name": "Innoviva Inc",
+      "percent": "2.372"
+    },
+    {
+      "ticker": "EBS",
+      "name": "Emergent BioSolutions Inc",
+      "percent": "2.324"
+    },
+    {
+      "ticker": "AGPXX",
+      "name": "STIT - Government & Agency Portfolio",
+      "percent": "0.085"
+    }
+  ]
+}

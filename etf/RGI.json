@@ -1,0 +1,400 @@
+{
+  "Products": "S&P 500® Equal Weight Industrials ETF",
+  "Ticker": "RGI",
+  "Inception": "11/01/2006",
+  "Gross Exp. Ratio": "0.40%",
+  "YTD": "0.46",
+  "1Yr": "8.02",
+  "3Yr": "7.80",
+  "5Yr": "12.79",
+  "10Yr": "12.47",
+  "Since Incept.": "9.36",
+  "Category": "SP Factor",
+  "SubCategory": "Equal Weight Sectors",
+  "ticker": "RGI",
+  "name": "S&P 500® Equal Weight Industrials ETF",
+  "issuer": "Invesco",
+  "website": "https://www.invesco.com/us/financial-products/etfs/product-detail?audienceType=Investor&ticker=RGI",
+  "holdingDataSource": {
+    "url": "https://www.invesco.com/us/financial-products/etfs/holdings/main/holdings/0?audienceType=Investor&action=download&ticker=RGI",
+    "fileExt": "csv",
+    "transform": "invesco"
+  },
+  "holdings": [
+    {
+      "ticker": "GE",
+      "name": "General Electric Co",
+      "percent": "1.599"
+    },
+    {
+      "ticker": "FDX",
+      "name": "FedEx Corp",
+      "percent": "1.591"
+    },
+    {
+      "ticker": "PWR",
+      "name": "Quanta Services Inc",
+      "percent": "1.568"
+    },
+    {
+      "ticker": "CPRT",
+      "name": "Copart Inc",
+      "percent": "1.499"
+    },
+    {
+      "ticker": "PNR",
+      "name": "Pentair PLC",
+      "percent": "1.490"
+    },
+    {
+      "ticker": "AOS",
+      "name": "A O Smith Corp",
+      "percent": "1.481"
+    },
+    {
+      "ticker": "TT",
+      "name": "Trane Technologies PLC",
+      "percent": "1.463"
+    },
+    {
+      "ticker": "ROK",
+      "name": "Rockwell Automation Inc",
+      "percent": "1.462"
+    },
+    {
+      "ticker": "CARR",
+      "name": "Carrier Global Corp",
+      "percent": "1.462"
+    },
+    {
+      "ticker": "DE",
+      "name": "Deere & Co",
+      "percent": "1.450"
+    },
+    {
+      "ticker": "SWK",
+      "name": "Stanley Black & Decker Inc",
+      "percent": "1.447"
+    },
+    {
+      "ticker": "URI",
+      "name": "United Rentals Inc",
+      "percent": "1.442"
+    },
+    {
+      "ticker": "ROL",
+      "name": "Rollins Inc",
+      "percent": "1.441"
+    },
+    {
+      "ticker": "AME",
+      "name": "AMETEK Inc",
+      "percent": "1.435"
+    },
+    {
+      "ticker": "UPS",
+      "name": "United Parcel Service Inc",
+      "percent": "1.433"
+    },
+    {
+      "ticker": "CAT",
+      "name": "Caterpillar Inc",
+      "percent": "1.431"
+    },
+    {
+      "ticker": "RHI",
+      "name": "Robert Half International Inc",
+      "percent": "1.429"
+    },
+    {
+      "ticker": "FBHS",
+      "name": "Fortune Brands Home & Security Inc",
+      "percent": "1.426"
+    },
+    {
+      "ticker": "ROP",
+      "name": "Roper Technologies Inc",
+      "percent": "1.416"
+    },
+    {
+      "ticker": "CTAS",
+      "name": "Cintas Corp",
+      "percent": "1.416"
+    },
+    {
+      "ticker": "XYL",
+      "name": "Xylem Inc/NY",
+      "percent": "1.412"
+    },
+    {
+      "ticker": "OTIS",
+      "name": "Otis Worldwide Corp",
+      "percent": "1.411"
+    },
+    {
+      "ticker": "GWW",
+      "name": "WW Grainger Inc",
+      "percent": "1.409"
+    },
+    {
+      "ticker": "SNA",
+      "name": "Snap-on Inc",
+      "percent": "1.405"
+    },
+    {
+      "ticker": "PCAR",
+      "name": "PACCAR Inc",
+      "percent": "1.399"
+    },
+    {
+      "ticker": "CMI",
+      "name": "Cummins Inc",
+      "percent": "1.398"
+    },
+    {
+      "ticker": "ALLE",
+      "name": "Allegion plc",
+      "percent": "1.398"
+    },
+    {
+      "ticker": "UNP",
+      "name": "Union Pacific Corp",
+      "percent": "1.397"
+    },
+    {
+      "ticker": "J",
+      "name": "Jacobs Engineering Group Inc",
+      "percent": "1.397"
+    },
+    {
+      "ticker": "ETN",
+      "name": "Eaton Corp PLC",
+      "percent": "1.391"
+    },
+    {
+      "ticker": "PH",
+      "name": "Parker-Hannifin Corp",
+      "percent": "1.390"
+    },
+    {
+      "ticker": "IEX",
+      "name": "IDEX Corp",
+      "percent": "1.388"
+    },
+    {
+      "ticker": "TDY",
+      "name": "Teledyne Technologies Inc",
+      "percent": "1.388"
+    },
+    {
+      "ticker": "VRSK",
+      "name": "Verisk Analytics Inc",
+      "percent": "1.382"
+    },
+    {
+      "ticker": "ITW",
+      "name": "Illinois Tool Works Inc",
+      "percent": "1.379"
+    },
+    {
+      "ticker": "INFO",
+      "name": "IHS Markit Ltd",
+      "percent": "1.375"
+    },
+    {
+      "ticker": "HON",
+      "name": "Honeywell International Inc",
+      "percent": "1.371"
+    },
+    {
+      "ticker": "BA",
+      "name": "Boeing Co/The",
+      "percent": "1.363"
+    },
+    {
+      "ticker": "HWM",
+      "name": "Howmet Aerospace Inc",
+      "percent": "1.363"
+    },
+    {
+      "ticker": "CSX",
+      "name": "CSX Corp",
+      "percent": "1.354"
+    },
+    {
+      "ticker": "EMR",
+      "name": "Emerson Electric Co",
+      "percent": "1.350"
+    },
+    {
+      "ticker": "IR",
+      "name": "Ingersoll Rand Inc",
+      "percent": "1.350"
+    },
+    {
+      "ticker": "EXPD",
+      "name": "Expeditors International of Washington Inc",
+      "percent": "1.347"
+    },
+    {
+      "ticker": "JCI",
+      "name": "Johnson Controls International plc",
+      "percent": "1.347"
+    },
+    {
+      "ticker": "MMM",
+      "name": "3M Co",
+      "percent": "1.342"
+    },
+    {
+      "ticker": "FAST",
+      "name": "Fastenal Co",
+      "percent": "1.341"
+    },
+    {
+      "ticker": "FLS",
+      "name": "Flowserve Corp",
+      "percent": "1.338"
+    },
+    {
+      "ticker": "ODFL",
+      "name": "Old Dominion Freight Line Inc",
+      "percent": "1.338"
+    },
+    {
+      "ticker": "WM",
+      "name": "Waste Management Inc",
+      "percent": "1.336"
+    },
+    {
+      "ticker": "LUV",
+      "name": "Southwest Airlines Co",
+      "percent": "1.329"
+    },
+    {
+      "ticker": "RTX",
+      "name": "Raytheon Technologies Corp",
+      "percent": "1.328"
+    },
+    {
+      "ticker": "CHRW",
+      "name": "CH Robinson Worldwide Inc",
+      "percent": "1.326"
+    },
+    {
+      "ticker": "DOV",
+      "name": "Dover Corp",
+      "percent": "1.319"
+    },
+    {
+      "ticker": "FTV",
+      "name": "Fortive Corp",
+      "percent": "1.315"
+    },
+    {
+      "ticker": "NSC",
+      "name": "Norfolk Southern Corp",
+      "percent": "1.312"
+    },
+    {
+      "ticker": "EFX",
+      "name": "Equifax Inc",
+      "percent": "1.311"
+    },
+    {
+      "ticker": "HII",
+      "name": "Huntington Ingalls Industries Inc",
+      "percent": "1.310"
+    },
+    {
+      "ticker": "DAL",
+      "name": "Delta Air Lines Inc",
+      "percent": "1.295"
+    },
+    {
+      "ticker": "LMT",
+      "name": "Lockheed Martin Corp",
+      "percent": "1.295"
+    },
+    {
+      "ticker": "MAS",
+      "name": "Masco Corp",
+      "percent": "1.281"
+    },
+    {
+      "ticker": "GD",
+      "name": "General Dynamics Corp",
+      "percent": "1.277"
+    },
+    {
+      "ticker": "RSG",
+      "name": "Republic Services Inc",
+      "percent": "1.275"
+    },
+    {
+      "ticker": "ALK",
+      "name": "Alaska Air Group Inc",
+      "percent": "1.273"
+    },
+    {
+      "ticker": "TDG",
+      "name": "TransDigm Group Inc",
+      "percent": "1.269"
+    },
+    {
+      "ticker": "LHX",
+      "name": "L3Harris Technologies Inc",
+      "percent": "1.257"
+    },
+    {
+      "ticker": "AAL",
+      "name": "American Airlines Group Inc",
+      "percent": "1.255"
+    },
+    {
+      "ticker": "KSU",
+      "name": "Kansas City Southern",
+      "percent": "1.255"
+    },
+    {
+      "ticker": "NLSN",
+      "name": "Nielsen Holdings PLC",
+      "percent": "1.255"
+    },
+    {
+      "ticker": "JBHT",
+      "name": "JB Hunt Transport Services Inc",
+      "percent": "1.236"
+    },
+    {
+      "ticker": "UAL",
+      "name": "United Airlines Holdings Inc",
+      "percent": "1.236"
+    },
+    {
+      "ticker": "WAB",
+      "name": "Westinghouse Air Brake Technologies Corp",
+      "percent": "1.224"
+    },
+    {
+      "ticker": "TXT",
+      "name": "Textron Inc",
+      "percent": "1.222"
+    },
+    {
+      "ticker": "NOC",
+      "name": "Northrop Grumman Corp",
+      "percent": "1.218"
+    },
+    {
+      "ticker": "AGPXX",
+      "name": "STIT - Government & Agency Portfolio",
+      "percent": "0.077"
+    },
+    {
+      "ticker": "-CASH-",
+      "name": "Cash/Receivables/Payables",
+      "percent": "0.007"
+    }
+  ]
+}

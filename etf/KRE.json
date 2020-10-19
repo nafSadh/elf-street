@@ -1,0 +1,714 @@
+{
+  "ticker": "KRE",
+  "name": "SPDR® S&P® Regional Banking ETF",
+  "ISIN": "US78464A6982",
+  "CUSIP": "78464A698",
+  "Inception Date": "Jun 19 2006",
+  "Gross Expense Ratio": "0.35%",
+  "* Net Expense Ratio": "-",
+  "Asset Class": "Equity",
+  "Distribution Frequency": "Quarterly",
+  "Primary Exchange": "NYSE ARCA EXCHANGE",
+  "Primary Index": "S&P Regional Banks Select Industry Index",
+  "Primary Index Ticker": "SPSIRBKT",
+  "issuer": "SSGA",
+  "website": "https://www.ssga.com/us/en/individual/etfs/funds/spdr-sp-regional-banking-etf-kre",
+  "holdingDataSource": {
+    "fileUrl": "https://www.ssga.com/us/en/individual/etfs/library-content/products/fund-data/etfs/us/holdings-daily-us-en-kre.xlsx",
+    "fileExt": "xlsx",
+    "transform": "spdr"
+  },
+  "holdings": [
+    {
+      "ticker": "FRC",
+      "name": "First Republic Bank",
+      "percent": "3.940303"
+    },
+    {
+      "ticker": "FITB",
+      "name": "Fifth Third Bancorp",
+      "percent": "3.732155"
+    },
+    {
+      "ticker": "TFC",
+      "name": "Truist Financial Corporation",
+      "percent": "3.697278"
+    },
+    {
+      "ticker": "RF",
+      "name": "Regions Financial Corporation",
+      "percent": "3.653772"
+    },
+    {
+      "ticker": "KEY",
+      "name": "KeyCorp",
+      "percent": "3.525041"
+    },
+    {
+      "ticker": "SIVB",
+      "name": "SVB Financial Group",
+      "percent": "3.486665"
+    },
+    {
+      "ticker": "CFG",
+      "name": "Citizens Financial Group Inc.",
+      "percent": "3.454541"
+    },
+    {
+      "ticker": "HBAN",
+      "name": "Huntington Bancshares Incorporated",
+      "percent": "3.349719"
+    },
+    {
+      "ticker": "MTB",
+      "name": "M&T Bank Corporation",
+      "percent": "3.335739"
+    },
+    {
+      "ticker": "PNC",
+      "name": "PNC Financial Services Group Inc.",
+      "percent": "3.319700"
+    },
+    {
+      "ticker": "FHN",
+      "name": "First Horizon National Corporation",
+      "percent": "3.242733"
+    },
+    {
+      "ticker": "CMA",
+      "name": "Comerica Incorporated",
+      "percent": "3.089785"
+    },
+    {
+      "ticker": "ZION",
+      "name": "Zions Bancorporation N.A.",
+      "percent": "2.602558"
+    },
+    {
+      "ticker": "PBCT",
+      "name": "People's United Financial Inc.",
+      "percent": "2.175235"
+    },
+    {
+      "ticker": "CIT",
+      "name": "CIT Group Inc.",
+      "percent": "2.146187"
+    },
+    {
+      "ticker": "SBNY",
+      "name": "Signature Bank",
+      "percent": "1.669088"
+    },
+    {
+      "ticker": "EWBC",
+      "name": "East West Bancorp Inc.",
+      "percent": "1.509532"
+    },
+    {
+      "ticker": "STL",
+      "name": "Sterling Bancorp",
+      "percent": "1.502337"
+    },
+    {
+      "ticker": "PB",
+      "name": "Prosperity Bancshares Inc.(R)",
+      "percent": "1.453271"
+    },
+    {
+      "ticker": "SNV",
+      "name": "Synovus Financial Corp.",
+      "percent": "1.428044"
+    },
+    {
+      "ticker": "CFR",
+      "name": "Cullen/Frost Bankers Inc.",
+      "percent": "1.292153"
+    },
+    {
+      "ticker": "BPOP",
+      "name": "Popular Inc.",
+      "percent": "1.213654"
+    },
+    {
+      "ticker": "WAL",
+      "name": "Western Alliance Bancorp",
+      "percent": "1.146611"
+    },
+    {
+      "ticker": "PACW",
+      "name": "PacWest Bancorp",
+      "percent": "1.090337"
+    },
+    {
+      "ticker": "CBSH",
+      "name": "Commerce Bancshares Inc.",
+      "percent": "1.085574"
+    },
+    {
+      "ticker": "OZK",
+      "name": "Bank OZK",
+      "percent": "1.006988"
+    },
+    {
+      "ticker": "UMPQ",
+      "name": "Umpqua Holdings Corporation",
+      "percent": "0.983572"
+    },
+    {
+      "ticker": "TCF",
+      "name": "TCF Financial Corporation",
+      "percent": "0.976122"
+    },
+    {
+      "ticker": "WBS",
+      "name": "Webster Financial Corporation",
+      "percent": "0.975323"
+    },
+    {
+      "ticker": "SSB",
+      "name": "South State Corporation",
+      "percent": "0.954592"
+    },
+    {
+      "ticker": "BKU",
+      "name": "BankUnited Inc.",
+      "percent": "0.952634"
+    },
+    {
+      "ticker": "FHB",
+      "name": "First Hawaiian Inc.",
+      "percent": "0.918661"
+    },
+    {
+      "ticker": "TCBI",
+      "name": "Texas Capital Bancshares Inc.",
+      "percent": "0.917522"
+    },
+    {
+      "ticker": "FNB",
+      "name": "F.N.B. Corporation",
+      "percent": "0.820215"
+    },
+    {
+      "ticker": "VLY",
+      "name": "Valley National Bancorp",
+      "percent": "0.790111"
+    },
+    {
+      "ticker": "CADE",
+      "name": "Cadence Bancorporation Class A",
+      "percent": "0.785262"
+    },
+    {
+      "ticker": "ASB",
+      "name": "Associated Banc-Corp",
+      "percent": "0.775690"
+    },
+    {
+      "ticker": "FCNCA",
+      "name": "First Citizens BancShares Inc. Class A",
+      "percent": "0.769869"
+    },
+    {
+      "ticker": "WTFC",
+      "name": "Wintrust Financial Corporation",
+      "percent": "0.768224"
+    },
+    {
+      "ticker": "IBTX",
+      "name": "Independent Bank Group Inc.",
+      "percent": "0.762497"
+    },
+    {
+      "ticker": "BOH",
+      "name": "Bank of Hawaii Corporation",
+      "percent": "0.711368"
+    },
+    {
+      "ticker": "HOMB",
+      "name": "Home BancShares Inc.",
+      "percent": "0.664884"
+    },
+    {
+      "ticker": "PNFP",
+      "name": "Pinnacle Financial Partners Inc.",
+      "percent": "0.639176"
+    },
+    {
+      "ticker": "BOKF",
+      "name": "BOK Financial Corporation",
+      "percent": "0.636434"
+    },
+    {
+      "ticker": "GBCI",
+      "name": "Glacier Bancorp Inc.",
+      "percent": "0.630437"
+    },
+    {
+      "ticker": "FFIN",
+      "name": "First Financial Bankshares Inc",
+      "percent": "0.623252"
+    },
+    {
+      "ticker": "ISBC",
+      "name": "Investors Bancorp Inc",
+      "percent": "0.621601"
+    },
+    {
+      "ticker": "UMBF",
+      "name": "UMB Financial Corporation",
+      "percent": "0.613075"
+    },
+    {
+      "ticker": "CBU",
+      "name": "Community Bank System Inc.",
+      "percent": "0.599987"
+    },
+    {
+      "ticker": "UBSI",
+      "name": "United Bankshares Inc.",
+      "percent": "0.584352"
+    },
+    {
+      "ticker": "FULT",
+      "name": "Fulton Financial Corporation",
+      "percent": "0.557765"
+    },
+    {
+      "ticker": "HWC",
+      "name": "Hancock Whitney Corporation",
+      "percent": "0.538372"
+    },
+    {
+      "ticker": "COLB",
+      "name": "Columbia Banking System Inc.",
+      "percent": "0.531950"
+    },
+    {
+      "ticker": "ONB",
+      "name": "Old National Bancorp",
+      "percent": "0.530721"
+    },
+    {
+      "ticker": "PPBI",
+      "name": "Pacific Premier Bancorp Inc.",
+      "percent": "0.520672"
+    },
+    {
+      "ticker": "CVBF",
+      "name": "CVB Financial Corp.",
+      "percent": "0.516139"
+    },
+    {
+      "ticker": "BXS",
+      "name": "BancorpSouth Bank",
+      "percent": "0.474787"
+    },
+    {
+      "ticker": "SFNC",
+      "name": "Simmons First National Corporation Class A",
+      "percent": "0.457536"
+    },
+    {
+      "ticker": "UCBI",
+      "name": "United Community Banks Inc.",
+      "percent": "0.454688"
+    },
+    {
+      "ticker": "ABCB",
+      "name": "Ameris Bancorp",
+      "percent": "0.435922"
+    },
+    {
+      "ticker": "FBP",
+      "name": "First Bancorp",
+      "percent": "0.425801"
+    },
+    {
+      "ticker": "GWB",
+      "name": "Great Western Bancorp Inc.",
+      "percent": "0.400876"
+    },
+    {
+      "ticker": "CATY",
+      "name": "Cathay General Bancorp",
+      "percent": "0.389955"
+    },
+    {
+      "ticker": "HOPE",
+      "name": "Hope Bancorp Inc.",
+      "percent": "0.382238"
+    },
+    {
+      "ticker": "TRMK",
+      "name": "Trustmark Corporation",
+      "percent": "0.369681"
+    },
+    {
+      "ticker": "HTH",
+      "name": "Hilltop Holdings Inc.",
+      "percent": "0.366074"
+    },
+    {
+      "ticker": "AUB",
+      "name": "Atlantic Union Bankshares Corporation",
+      "percent": "0.362422"
+    },
+    {
+      "ticker": "FMBI",
+      "name": "First Midwest Bancorp Inc.",
+      "percent": "0.358292"
+    },
+    {
+      "ticker": "FIBK",
+      "name": "First Interstate BancSystem Inc. Class A",
+      "percent": "0.354823"
+    },
+    {
+      "ticker": "INDB",
+      "name": "Independent Bank Corp.",
+      "percent": "0.336460"
+    },
+    {
+      "ticker": "BANR",
+      "name": "Banner Corporation",
+      "percent": "0.310240"
+    },
+    {
+      "ticker": "WABC",
+      "name": "Westamerica Bancorporation",
+      "percent": "0.296441"
+    },
+    {
+      "ticker": "BHLB",
+      "name": "Berkshire Hills Bancorp Inc.",
+      "percent": "0.293699"
+    },
+    {
+      "ticker": "WSBC",
+      "name": "WesBanco Inc.",
+      "percent": "0.293098"
+    },
+    {
+      "ticker": "SFBS",
+      "name": "ServisFirst Bancshares Inc",
+      "percent": "0.289001"
+    },
+    {
+      "ticker": "RNST",
+      "name": "Renasant Corporation",
+      "percent": "0.281182"
+    },
+    {
+      "ticker": "FFBC",
+      "name": "First Financial Bancorp.",
+      "percent": "0.280350"
+    },
+    {
+      "ticker": "SASR",
+      "name": "Sandy Spring Bancorp Inc.",
+      "percent": "0.266708"
+    },
+    {
+      "ticker": "PRK",
+      "name": "Park National Corporation",
+      "percent": "0.256638"
+    },
+    {
+      "ticker": "FRME",
+      "name": "First Merchants Corporation",
+      "percent": "0.252443"
+    },
+    {
+      "ticker": "FCF",
+      "name": "First Commonwealth Financial Corporation",
+      "percent": "0.248274"
+    },
+    {
+      "ticker": "LKFN",
+      "name": "Lakeland Financial Corporation",
+      "percent": "0.241366"
+    },
+    {
+      "ticker": "SBCF",
+      "name": "Seacoast Banking Corporation of Florida",
+      "percent": "0.229712"
+    },
+    {
+      "ticker": "IBOC",
+      "name": "International Bancshares Corporation",
+      "percent": "0.229059"
+    },
+    {
+      "ticker": "OFG",
+      "name": "OFG Bancorp",
+      "percent": "0.219152"
+    },
+    {
+      "ticker": "VBTX",
+      "name": "Veritex Holdings Inc.",
+      "percent": "0.215167"
+    },
+    {
+      "ticker": "EGBN",
+      "name": "Eagle Bancorp Inc.",
+      "percent": "0.210004"
+    },
+    {
+      "ticker": "CHCO",
+      "name": "City Holding Company",
+      "percent": "0.204083"
+    },
+    {
+      "ticker": "BANF",
+      "name": "BancFirst Corporation",
+      "percent": "0.196969"
+    },
+    {
+      "ticker": "STBA",
+      "name": "S&T Bancorp Inc.",
+      "percent": "0.194502"
+    },
+    {
+      "ticker": "LOB",
+      "name": "Live Oak Bancshares Inc.",
+      "percent": "0.191535"
+    },
+    {
+      "ticker": "NBTB",
+      "name": "NBT Bancorp Inc.",
+      "percent": "0.183641"
+    },
+    {
+      "ticker": "TBK",
+      "name": "Triumph Bancorp Inc.",
+      "percent": "0.180796"
+    },
+    {
+      "ticker": "HFWA",
+      "name": "Heritage Financial Corporation",
+      "percent": "0.177760"
+    },
+    {
+      "ticker": "FBK",
+      "name": "FB Financial Corporation",
+      "percent": "0.174043"
+    },
+    {
+      "ticker": "NBHC",
+      "name": "National Bank Holdings Corporation Class A",
+      "percent": "0.171190"
+    },
+    {
+      "ticker": "HTLF",
+      "name": "Heartland Financial USA Inc.",
+      "percent": "0.168067"
+    },
+    {
+      "ticker": "SBSI",
+      "name": "Southside Bancshares Inc.",
+      "percent": "0.161114"
+    },
+    {
+      "ticker": "OCFC",
+      "name": "OceanFirst Financial Corp.",
+      "percent": "0.158421"
+    },
+    {
+      "ticker": "BPFH",
+      "name": "Boston Private Financial Holdings Inc.",
+      "percent": "0.153700"
+    },
+    {
+      "ticker": "EFSC",
+      "name": "Enterprise Financial Services Corp",
+      "percent": "0.153280"
+    },
+    {
+      "ticker": "BRKL",
+      "name": "Brookline Bancorp Inc.",
+      "percent": "0.149811"
+    },
+    {
+      "ticker": "TBBK",
+      "name": "Bancorp Inc",
+      "percent": "0.147609"
+    },
+    {
+      "ticker": "FFWM",
+      "name": "First Foundation Inc.",
+      "percent": "0.142382"
+    },
+    {
+      "ticker": "FBNC",
+      "name": "First Bancorp",
+      "percent": "0.137445"
+    },
+    {
+      "ticker": "BUSE",
+      "name": "First Busey Corporation",
+      "percent": "0.130643"
+    },
+    {
+      "ticker": "BANC",
+      "name": "Banc of California Incorporated",
+      "percent": "0.130270"
+    },
+    {
+      "ticker": "CPF",
+      "name": "Central Pacific Financial Corp.",
+      "percent": "0.123512"
+    },
+    {
+      "ticker": "PFBC",
+      "name": "Preferred Bank",
+      "percent": "0.121531"
+    },
+    {
+      "ticker": "CUBI",
+      "name": "Customers Bancorp Inc.",
+      "percent": "0.120145"
+    },
+    {
+      "ticker": "DCOM",
+      "name": "Dime Community Bancshares Inc.",
+      "percent": "0.119680"
+    },
+    {
+      "ticker": "TCBK",
+      "name": "TriCo Bancshares",
+      "percent": "0.115709"
+    },
+    {
+      "ticker": "HONE",
+      "name": "HarborOne Bancorp Inc",
+      "percent": "0.111536"
+    },
+    {
+      "ticker": "BMTC",
+      "name": "Bryn Mawr Bank Corporation",
+      "percent": "0.105466"
+    },
+    {
+      "ticker": "70286227",
+      "name": "STATE STREET INSTITUTIONAL LIQ STATE STR",
+      "percent": "0.104367"
+    },
+    {
+      "ticker": "CNOB",
+      "name": "ConnectOne Bancorp Inc.",
+      "percent": "0.098914"
+    },
+    {
+      "ticker": "TMP",
+      "name": "Tompkins Financial Corporation",
+      "percent": "0.097368"
+    },
+    {
+      "ticker": "SRCE",
+      "name": "1st Source Corporation",
+      "percent": "0.091946"
+    },
+    {
+      "ticker": "QCRH",
+      "name": "QCR Holdings Inc.",
+      "percent": "0.088053"
+    },
+    {
+      "ticker": "TSC",
+      "name": "TriState Capital Holdings Inc.",
+      "percent": "0.082330"
+    },
+    {
+      "ticker": "HTBK",
+      "name": "Heritage Commerce Corp",
+      "percent": "0.079880"
+    },
+    {
+      "ticker": "CAC",
+      "name": "Camden National Corporation",
+      "percent": "0.079778"
+    },
+    {
+      "ticker": "UVSP",
+      "name": "Univest Financial Corporation",
+      "percent": "0.077266"
+    },
+    {
+      "ticker": "LBAI",
+      "name": "Lakeland Bancorp Inc.",
+      "percent": "0.075694"
+    },
+    {
+      "ticker": "ABTX",
+      "name": "Allegiance Bancshares Inc.",
+      "percent": "0.068924"
+    },
+    {
+      "ticker": "NCBS",
+      "name": "Nicolet Bankshares Inc.",
+      "percent": "0.065681"
+    },
+    {
+      "ticker": "IBCP",
+      "name": "Independent Bank Corporation",
+      "percent": "0.063294"
+    },
+    {
+      "ticker": "CASH_USD",
+      "name": "U.S. Dollar",
+      "percent": "0.000083"
+    },
+    {
+      "name": "Performance quoted represents past performance, which is no guarantee of future results. Investment return and principal value will fluctuate, so you may have a gain or loss when shares are sold. Current performance may be higher or lower than that quoted. Visit www.ssga.com for most recent month-end performance."
+    },
+    {
+      "name": "This analysis or any portion thereof may not be revised or changed in any way, reprinted, sold or redistributed without the written consent of SSGA."
+    },
+    {
+      "name": "Portfolio holdings, allocations and weightings are as of the date indicated, are subject to change and should not be considered a recommendation to buy individual securities. For most recent information visit www.ssga.com."
+    },
+    {
+      "name": "Important Risk Information  "
+    },
+    {
+      "name": "Investing involves risk, and you could lose money on an investment in each of SPDR® Gold Shares Trust (“GLD®”) and SPDR® Gold MiniSharesSM Trust  (“GLDMSM”), a series of the World Gold Trust (together, the “Funds”). \n\nETFs trade like stocks, are subject to investment risk, fluctuate in market value and may trade at prices above or below the ETFs’ net asset value. Brokerage commissions and ETF expenses will reduce returns.\n\nCommodities and commodity-index linked securities may be affected by changes in overall market movements, changes in interest rates, and other factors such as weather, disease, embargoes, or political and regulatory developments, as well as trading activity of speculators and arbitrageurs in the underlying commodities.\n\nFrequent trading of ETFs could significantly increase commissions and other costs such that they may offset any savings from low fees or costs.\n\nDiversification does not ensure a profit or guarantee against loss."
+    },
+    {
+      "name": "Investing in commodities entails significant risk and is not appropriate for all investors."
+    },
+    {
+      "name": "Important Information Relating to SPDR® Gold Trust (“GLD®”) and SPDR® Gold MiniSharesSM Trust (“GLDMSM”):"
+    },
+    {
+      "name": "The SPDR Gold Trust (“GLD”) has filed a registration statement (including a prospectus) with the Securities and Exchange Commission (“SEC”) for GLD. The World Gold Trust has filed a registration statement (including a prospectus) with the SEC for GLDM. Before you invest, you should read the prospectus in the registration statement and other documents each Fund has filed with the SEC for more complete information about each Fund and these offerings. Please see each Fund’s prospectus for a detailed discussion of the risks of investing in each Fund’s shares."
+    },
+    {
+      "name": "The GLD prospectus is available by clicking"
+    },
+    {
+      "name": "The GLDM prospectus is available by clicking "
+    },
+    {
+      "name": "You may get these documents for free by visiting EDGAR on the SEC website at sec.gov or by visiting spdrgoldshares.com. Alternatively, the Funds or any authorized participant will arrange to send you the prospectus if you request it by calling 866.320.4053."
+    },
+    {
+      "name": "None of the Funds is an investment company registered under the Investment Company Act of 1940 (the “1940 Act”). As a result, shareholders of each Fund do not have the protections associated with ownership of shares in an investment company registered under the 1940 Act. GLD and GLDM are not subject to regulation under the CEA. As a result, shareholders of each of GLD and GLDM do not have the protections afforded by the CEA. \n\nShares of each Fund trade like stocks, are subject to investment risk and will fluctuate in market value. \n\nThe values of GLD shares and GLDM shares relate directly to the value of the gold held by each Fund (less its expenses), respectively. Fluctuations in the price of gold could materially and adversely affect an investment in the shares. The price received upon the sale of the shares, which trade at market price, may be more or less than the value of the gold represented by them.  \n\nNone of the Funds generate any income, and as each Fund regularly sells gold to pay for its ongoing expenses, the amount of gold represented by each Fund share will decline over time to that extent.\n\nThe World Gold Council name and logo are a registered trademark and used with the permission of the World Gold Council pursuant to a license agreement. The World Gold Council is not responsible for the content of, and is not liable for the use of or reliance on, this material. World Gold Council is an affiliate of the Sponsor of each of GLD and GLDM.\n\nMiniSharesSM and GLDMSM are service marks of WGC USA Asset Management Company, LLC used with the permission of WGC USA Asset Management Company, LLC.\n\nGLD® is a registered trademark of World Gold Trust Services, LLC used with the permission of World Gold Trust Services, LLC."
+    },
+    {
+      "name": "For more information, please contact the Marketing Agent for GLD and GLDM: State Street Global Advisors Funds Distributors, LLC, One Iron Street, Boston, MA, 02210; T: +1 866 320 4053 spdrgoldshares.com"
+    },
+    {
+      "name": "Standard & Poor’s®, S&P® and SPDR® are registered trademarks of Standard & Poor’s Financial Services LLC (S&P); Dow Jones is a registered trademark of Dow Jones Trademark Holdings LLC (Dow Jones); and these trademarks have been licensed for use by S&P Dow Jones Indices LLC (SPDJI) and sublicensed for certain purposes by State Street Corporation. State Street Corporation’s financial products are not sponsored, endorsed, sold or promoted by SPDJI, Dow Jones, S&P, their respective affiliates and third party licensors and none of such parties make any representation regarding the advisability of investing in such product(s) nor do they have any liability in relation thereto, including for any errors, omissions, or interruptions of any index."
+    },
+    {
+      "name": "Bonds generally present less short-term risk and volatility than stocks, but contain interest rate risk (as interest rates raise, bond prices usually fall); issuer default risk; issuer credit risk; liquidity risk; and inflation risk. These effects are usually pronounced for longer-term securities. Any fixed income security sold or redeemed prior to maturity may be subject to a substantial gain or loss.\nInternational Government bonds and corporate bonds generally have more moderate short-term price fluctuations than stocks, but provide lower potential long-term returns.\nInvesting in high yield fixed income securities, otherwise known as \"junk bonds\", is considered speculative and involves greater risk of loss of principal and interest than investing in investment grade fixed income securities. These Lower-quality debt securities involve greater risk of default or price changes due to potential changes in the credit quality of the issuer.\nEquity securities may fluctuate in value in response to the activities of individual companies and general market and economic conditions.\nThere are risks associated with investing in Real Assets and the Real Assets sector, including real estate, precious metals and natural resources.  Investments can be significantly affected by events relating to these industries.\nInvesting in foreign domiciled securities may involve risk of capital loss from unfavorable fluctuation in currency values, withholding taxes, from differences in generally accepted accounting principles or from economic or political instability in other nations.  Investments in emerging or developing markets may be more volatile and less liquid than investing in developed markets and may involve exposure to economic structures that are generally less diverse and mature and to political systems which have less stability than those of more developed countries. The trademarks and service marks referenced herein are the property of their respective owners. Third party data providers make no warranties or representations of any kind relating to the accuracy, completeness or timeliness of the data and have no liability for damages of any kind relating to the use of such data. Investing involves risk including the risk of loss of principal.\nThe whole or any part of this work may not be reproduced, copied or transmitted or any of its contents disclosed to third parties without SSGA's express written consent.\nETFs trade like stocks, are subject to investment risk and will fluctuate in market value. The investment return and principal value of an investment will fluctuate in value, so that when shares are sold or redeemed, they may be worth more or less than when they were purchased.  Although shares may be bought or sold on an exchange through any brokerage account, shares are not individually redeemable from the fund.  Investors may acquire shares and tender them for redemption through the fund in large aggregations known as “creation units.”  Please see the fund’s prospectus for more details.\nInvesting in REITs involves certain distinct risks in addition to those risks associated with investing in the real estate industry in general. Equity REITs may be affected by changes in the value of the underlying property owned by the REITs, while mortgage REITs may be affected by the quality of credit extended. REITs are subject to heavy cash flow dependency, default by borrowers and self-liquidation. REITs, especially mortgage REITs, are also subject to interest rate risk (i.e., as interest rates rise, the value of the REIT may decline).\nInvestments in small/mid-sized companies may involve greater risks than in those of larger, better known companies. Concentrated investments in a particular Sector tend to be more volatile than the overall market and increases risk that events negatively affecting such sectors or industries could reduce returns, potentially causing the value of the Fund’s shares to decrease.\nStandard & Poor’s®, S&P® and SPDR® are registered trademarks of Standard & Poor’s Financial Services LLC (S&P); Dow Jones is a registered trademark of Dow Jones Trademark Holdings LLC (Dow Jones); and these trademarks have been licensed for use by S&P Dow Jones Indices LLC (SPDJI) and sublicensed for certain purposes by State Street Corporation. State Street Corporation’s financial products are not sponsored, endorsed, sold or promoted by SPDJI, Dow Jones, S&P, their respective affiliates and third party licensors and none of such parties make any representation regarding the advisability of investing in such product(s) nor do they have any liability in relation thereto, including for any errors, omissions, or interruptions of any index.\nCommodities and commodity-index linked securities may be affected by changes in overall market movements, changes in interest rates, and other factors such as weather, disease, embargoes, or political and regulatory developments, as well as trading activity of speculators and arbitrageurs in the underlying commodities. The returns on a portfolio of securities which exclude companies that do not meet the portfolio's specified ESG criteria may trail the returns on a portfolio of securities which include such companies. A portfolio's ESG criteria may result in the portfolio investing in industry sectors or securities which underperform the market as a whole.\nTechnology companies, including cyber security companies, can be significantly affected by obsolescence of existing technology, limited product lines, and competition for financial resources, qualified personnel, new market entrants or impairment of patent and intellectual property rights that can adversely affect profit margins."
+    },
+    {
+      "name": "Distributor: State Street Global Advisors Funds Distributors, LLC, member FINRA(http://www.finra.org), SIPC(http://www.sipc.org), an indirect wholly owned subsidiary of State Street Corporation. References to State Street may include State Street Corporation and its affiliates. Certain State Street affiliates provide services and receive fees from the SPDR ETFs. ALPS Distributors, Inc., member FINRA, is the distributor for DIA, MDY and SPY, all unit investment trusts. ALPS Portfolio Solutions Distributor, Inc., member FINRA, is the distributor for Select Sector SPDRs. ALPS Distributors, Inc. and ALPS Portfolio Solutions Distributor, Inc. are not affiliated with State Street Global Advisors Funds Distributors, LLC."
+    },
+    {
+      "name": "Before investing, consider the funds’ investment objectives, risks, charges and expenses. To obtain a prospectus or summary prospectus, this contains this and other information, call 1-866-787-2257 or visit www.ssga.com. Read it carefully.\n\nNot FDIC Insured * No Bank Guarantee * May Lose Value\n\n2529657.2.1.AM.RTL\nExpiration: 03/31/2021\nSPD002304"
+    }
+  ]
+}

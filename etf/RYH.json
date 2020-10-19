@@ -1,0 +1,345 @@
+{
+  "Products": "S&P 500® Equal Weight Health Care ETF",
+  "Ticker": "RYH",
+  "Inception": "11/01/2006",
+  "Gross Exp. Ratio": "0.40%",
+  "YTD": "6.89",
+  "1Yr": "20.88",
+  "3Yr": "11.00",
+  "5Yr": "11.47",
+  "10Yr": "15.81",
+  "Since Incept.": "12.48",
+  "Category": "SP Factor",
+  "SubCategory": "Equal Weight Sectors",
+  "ticker": "RYH",
+  "name": "S&P 500® Equal Weight Health Care ETF",
+  "issuer": "Invesco",
+  "website": "https://www.invesco.com/us/financial-products/etfs/product-detail?audienceType=Investor&ticker=RYH",
+  "holdingDataSource": {
+    "url": "https://www.invesco.com/us/financial-products/etfs/holdings/main/holdings/0?audienceType=Investor&action=download&ticker=RYH",
+    "fileExt": "csv",
+    "transform": "invesco"
+  },
+  "holdings": [
+    {
+      "ticker": "ALXN",
+      "name": "Alexion Pharmaceuticals Inc",
+      "percent": "1.789"
+    },
+    {
+      "ticker": "CNC",
+      "name": "Centene Corp",
+      "percent": "1.781"
+    },
+    {
+      "ticker": "STE",
+      "name": "STERIS PLC",
+      "percent": "1.768"
+    },
+    {
+      "ticker": "IDXX",
+      "name": "IDEXX Laboratories Inc",
+      "percent": "1.764"
+    },
+    {
+      "ticker": "ANTM",
+      "name": "Anthem Inc",
+      "percent": "1.747"
+    },
+    {
+      "ticker": "HUM",
+      "name": "Humana Inc",
+      "percent": "1.698"
+    },
+    {
+      "ticker": "CTLT",
+      "name": "Catalent Inc",
+      "percent": "1.697"
+    },
+    {
+      "ticker": "DHR",
+      "name": "Danaher Corp",
+      "percent": "1.686"
+    },
+    {
+      "ticker": "SYK",
+      "name": "Stryker Corp",
+      "percent": "1.684"
+    },
+    {
+      "ticker": "BIO",
+      "name": "Bio-Rad Laboratories Inc",
+      "percent": "1.674"
+    },
+    {
+      "ticker": "REGN",
+      "name": "Regeneron Pharmaceuticals Inc",
+      "percent": "1.672"
+    },
+    {
+      "ticker": "LH",
+      "name": "Laboratory Corp of America Holdings",
+      "percent": "1.666"
+    },
+    {
+      "ticker": "UNH",
+      "name": "UnitedHealth Group Inc",
+      "percent": "1.662"
+    },
+    {
+      "ticker": "DGX",
+      "name": "Quest Diagnostics Inc",
+      "percent": "1.654"
+    },
+    {
+      "ticker": "TMO",
+      "name": "Thermo Fisher Scientific Inc",
+      "percent": "1.651"
+    },
+    {
+      "ticker": "COO",
+      "name": "Cooper Cos Inc/The",
+      "percent": "1.643"
+    },
+    {
+      "ticker": "A",
+      "name": "Agilent Technologies Inc",
+      "percent": "1.643"
+    },
+    {
+      "ticker": "HOLX",
+      "name": "Hologic Inc",
+      "percent": "1.638"
+    },
+    {
+      "ticker": "WST",
+      "name": "West Pharmaceutical Services Inc",
+      "percent": "1.628"
+    },
+    {
+      "ticker": "ISRG",
+      "name": "Intuitive Surgical Inc",
+      "percent": "1.627"
+    },
+    {
+      "ticker": "ABMD",
+      "name": "ABIOMED Inc",
+      "percent": "1.613"
+    },
+    {
+      "ticker": "ALGN",
+      "name": "Align Technology Inc",
+      "percent": "1.609"
+    },
+    {
+      "ticker": "ABC",
+      "name": "AmerisourceBergen Corp",
+      "percent": "1.606"
+    },
+    {
+      "ticker": "MTD",
+      "name": "Mettler-Toledo International Inc",
+      "percent": "1.606"
+    },
+    {
+      "ticker": "DXCM",
+      "name": "DexCom Inc",
+      "percent": "1.604"
+    },
+    {
+      "ticker": "ZBH",
+      "name": "Zimmer Biomet Holdings Inc",
+      "percent": "1.603"
+    },
+    {
+      "ticker": "PKI",
+      "name": "PerkinElmer Inc",
+      "percent": "1.600"
+    },
+    {
+      "ticker": "PFE",
+      "name": "Pfizer Inc",
+      "percent": "1.598"
+    },
+    {
+      "ticker": "CERN",
+      "name": "Cerner Corp",
+      "percent": "1.597"
+    },
+    {
+      "ticker": "MDT",
+      "name": "Medtronic PLC",
+      "percent": "1.596"
+    },
+    {
+      "ticker": "RMD",
+      "name": "ResMed Inc",
+      "percent": "1.596"
+    },
+    {
+      "ticker": "CI",
+      "name": "Cigna Corp",
+      "percent": "1.595"
+    },
+    {
+      "ticker": "ABT",
+      "name": "Abbott Laboratories",
+      "percent": "1.591"
+    },
+    {
+      "ticker": "EW",
+      "name": "Edwards Lifesciences Corp",
+      "percent": "1.585"
+    },
+    {
+      "ticker": "MCK",
+      "name": "McKesson Corp",
+      "percent": "1.582"
+    },
+    {
+      "ticker": "CVS",
+      "name": "CVS Health Corp",
+      "percent": "1.577"
+    },
+    {
+      "ticker": "BMY",
+      "name": "Bristol Myers Squibb Co",
+      "percent": "1.577"
+    },
+    {
+      "ticker": "BIIB",
+      "name": "Biogen Inc",
+      "percent": "1.575"
+    },
+    {
+      "ticker": "WAT",
+      "name": "Waters Corp",
+      "percent": "1.572"
+    },
+    {
+      "ticker": "XRAY",
+      "name": "DENTSPLY SIRONA Inc",
+      "percent": "1.571"
+    },
+    {
+      "ticker": "IQV",
+      "name": "IQVIA Holdings Inc",
+      "percent": "1.566"
+    },
+    {
+      "ticker": "ZTS",
+      "name": "Zoetis Inc",
+      "percent": "1.566"
+    },
+    {
+      "ticker": "DVA",
+      "name": "DaVita Inc",
+      "percent": "1.566"
+    },
+    {
+      "ticker": "INCY",
+      "name": "Incyte Corp",
+      "percent": "1.564"
+    },
+    {
+      "ticker": "MYL",
+      "name": "Mylan NV",
+      "percent": "1.556"
+    },
+    {
+      "ticker": "CAH",
+      "name": "Cardinal Health Inc",
+      "percent": "1.531"
+    },
+    {
+      "ticker": "HCA",
+      "name": "HCA Healthcare Inc",
+      "percent": "1.531"
+    },
+    {
+      "ticker": "BDX",
+      "name": "Becton Dickinson and Co",
+      "percent": "1.526"
+    },
+    {
+      "ticker": "JNJ",
+      "name": "Johnson & Johnson",
+      "percent": "1.522"
+    },
+    {
+      "ticker": "UHS",
+      "name": "Universal Health Services Inc",
+      "percent": "1.514"
+    },
+    {
+      "ticker": "VAR",
+      "name": "Varian Medical Systems Inc",
+      "percent": "1.507"
+    },
+    {
+      "ticker": "LLY",
+      "name": "Eli Lilly and Co",
+      "percent": "1.498"
+    },
+    {
+      "ticker": "TFX",
+      "name": "Teleflex Inc",
+      "percent": "1.497"
+    },
+    {
+      "ticker": "BAX",
+      "name": "Baxter International Inc",
+      "percent": "1.495"
+    },
+    {
+      "ticker": "PRGO",
+      "name": "Perrigo Co PLC",
+      "percent": "1.480"
+    },
+    {
+      "ticker": "AMGN",
+      "name": "Amgen Inc",
+      "percent": "1.472"
+    },
+    {
+      "ticker": "HSIC",
+      "name": "Henry Schein Inc",
+      "percent": "1.471"
+    },
+    {
+      "ticker": "ABBV",
+      "name": "AbbVie Inc",
+      "percent": "1.461"
+    },
+    {
+      "ticker": "BSX",
+      "name": "Boston Scientific Corp",
+      "percent": "1.449"
+    },
+    {
+      "ticker": "GILD",
+      "name": "Gilead Sciences Inc",
+      "percent": "1.436"
+    },
+    {
+      "ticker": "MRK",
+      "name": "Merck & Co Inc",
+      "percent": "1.435"
+    },
+    {
+      "ticker": "ILMN",
+      "name": "Illumina Inc",
+      "percent": "1.416"
+    },
+    {
+      "ticker": "VRTX",
+      "name": "Vertex Pharmaceuticals Inc",
+      "percent": "1.284"
+    },
+    {
+      "ticker": "AGPXX",
+      "name": "STIT - Government & Agency Portfolio",
+      "percent": "0.031"
+    }
+  ]
+}

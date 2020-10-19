@@ -1,0 +1,530 @@
+{
+  "ticker": "SPTI",
+  "name": "SPDR® Portfolio Intermediate Term Treasury ETF",
+  "ISIN": "US78464A6727",
+  "CUSIP": "78464A672",
+  "Inception Date": "May 23 2007",
+  "Gross Expense Ratio": "0.06%",
+  "* Net Expense Ratio": "-",
+  "Asset Class": "Fixed Income",
+  "Distribution Frequency": "Monthly",
+  "Primary Exchange": "NYSE ARCA EXCHANGE",
+  "Primary Index": "Bloomberg Barclays 3-10 Year U.S. Treasury Index",
+  "Primary Index Ticker": "LT31TRUU",
+  "issuer": "SSGA",
+  "website": "https://www.ssga.com/us/en/individual/etfs/funds/spdr-portfolio-intermediate-term-treasury-etf-spti",
+  "holdingDataSource": {
+    "fileUrl": "https://www.ssga.com/us/en/individual/etfs/library-content/products/fund-data/etfs/us/holdings-daily-us-en-spti.xlsx",
+    "fileExt": "xlsx",
+    "transform": "spdr"
+  },
+  "holdings": [
+    {
+      "name": "US TREASURY N/B 0.625 05/15/2030",
+      "percent": "2.013629"
+    },
+    {
+      "name": "US TREASURY N/B 2.875 08/15/2028",
+      "percent": "1.887382"
+    },
+    {
+      "name": "US TREASURY N/B 3.125 11/15/2028",
+      "percent": "1.850172"
+    },
+    {
+      "name": "US TREASURY N/B 1.5 02/15/2030",
+      "percent": "1.816889"
+    },
+    {
+      "name": "US TREASURY N/B 2.875 05/15/2028",
+      "percent": "1.776390"
+    },
+    {
+      "name": "US TREASURY N/B 2.625 02/15/2029",
+      "percent": "1.724791"
+    },
+    {
+      "name": "US TREASURY N/B 2.75 02/15/2028",
+      "percent": "1.668098"
+    },
+    {
+      "name": "US TREASURY N/B 0.625 08/15/2030",
+      "percent": "1.639537"
+    },
+    {
+      "name": "US TREASURY N/B 2.25 11/15/2024",
+      "percent": "1.628084"
+    },
+    {
+      "name": "US TREASURY N/B 2.375 05/15/2027",
+      "percent": "1.586650"
+    },
+    {
+      "name": "US TREASURY N/B 2.25 11/15/2025",
+      "percent": "1.557175"
+    },
+    {
+      "name": "US TREASURY N/B 2.375 08/15/2024",
+      "percent": "1.525646"
+    },
+    {
+      "name": "US TREASURY N/B 1.5 08/15/2026",
+      "percent": "1.518459"
+    },
+    {
+      "name": "US TREASURY N/B 2.5 05/15/2024",
+      "percent": "1.516386"
+    },
+    {
+      "name": "US TREASURY N/B 1.625 05/15/2026",
+      "percent": "1.512426"
+    },
+    {
+      "name": "US TREASURY N/B 2 08/15/2025",
+      "percent": "1.507368"
+    },
+    {
+      "name": "US TREASURY N/B 2.25 08/15/2027",
+      "percent": "1.497431"
+    },
+    {
+      "name": "US TREASURY N/B 2.125 03/31/2024",
+      "percent": "1.492134"
+    },
+    {
+      "name": "US TREASURY N/B 2.375 05/15/2029",
+      "percent": "1.485015"
+    },
+    {
+      "name": "US TREASURY N/B 2 02/15/2025",
+      "percent": "1.476968"
+    },
+    {
+      "name": "US TREASURY N/B 2.75 11/15/2023",
+      "percent": "1.467470"
+    },
+    {
+      "name": "US TREASURY N/B 2.25 11/15/2027",
+      "percent": "1.421244"
+    },
+    {
+      "name": "US TREASURY N/B 2 11/15/2026",
+      "percent": "1.408270"
+    },
+    {
+      "name": "US TREASURY N/B 2.125 05/15/2025",
+      "percent": "1.402383"
+    },
+    {
+      "name": "US TREASURY N/B 1.625 02/15/2026",
+      "percent": "1.398982"
+    },
+    {
+      "name": "US TREASURY N/B 0.25 09/30/2025",
+      "percent": "1.246465"
+    },
+    {
+      "name": "US TREASURY N/B 2.75 02/15/2024",
+      "percent": "1.222150"
+    },
+    {
+      "name": "US TREASURY N/B 1.625 08/15/2029",
+      "percent": "1.208954"
+    },
+    {
+      "name": "US TREASURY N/B 2.25 02/15/2027",
+      "percent": "1.203705"
+    },
+    {
+      "name": "US TREASURY N/B 0.375 09/30/2027",
+      "percent": "1.162987"
+    },
+    {
+      "name": "US TREASURY N/B 2 05/31/2024",
+      "percent": "1.149992"
+    },
+    {
+      "name": "US TREASURY N/B 0.25 08/31/2025",
+      "percent": "1.126326"
+    },
+    {
+      "name": "US TREASURY N/B 0.5 08/31/2027",
+      "percent": "1.110236"
+    },
+    {
+      "name": "US TREASURY N/B 0.25 07/31/2025",
+      "percent": "1.085811"
+    },
+    {
+      "name": "US TREASURY N/B 0.25 05/31/2025",
+      "percent": "1.067082"
+    },
+    {
+      "name": "US TREASURY N/B 0.5 03/31/2025",
+      "percent": "1.044577"
+    },
+    {
+      "name": "US TREASURY N/B 0.375 04/30/2025",
+      "percent": "1.044281"
+    },
+    {
+      "name": "US TREASURY N/B 1.5 11/30/2024",
+      "percent": "1.029077"
+    },
+    {
+      "name": "US TREASURY N/B 0.25 06/30/2025",
+      "percent": "1.006437"
+    },
+    {
+      "name": "US TREASURY N/B 0.375 07/31/2027",
+      "percent": "1.004789"
+    },
+    {
+      "name": "US TREASURY N/B 1.125 02/28/2025",
+      "percent": "0.948739"
+    },
+    {
+      "name": "US TREASURY N/B 2.25 04/30/2024",
+      "percent": "0.945713"
+    },
+    {
+      "name": "US TREASURY N/B 1.5 10/31/2024",
+      "percent": "0.943278"
+    },
+    {
+      "name": "US TREASURY N/B 1.375 01/31/2025",
+      "percent": "0.931529"
+    },
+    {
+      "name": "US TREASURY N/B 2.625 12/31/2023",
+      "percent": "0.911127"
+    },
+    {
+      "name": "US TREASURY N/B 1.75 07/31/2024",
+      "percent": "0.908937"
+    },
+    {
+      "name": "US TREASURY N/B 0.5 05/31/2027",
+      "percent": "0.896625"
+    },
+    {
+      "name": "US TREASURY N/B 0.5 06/30/2027",
+      "percent": "0.896186"
+    },
+    {
+      "name": "US TREASURY N/B 1.75 11/15/2029",
+      "percent": "0.886665"
+    },
+    {
+      "name": "US TREASURY N/B 1.5 09/30/2024",
+      "percent": "0.881430"
+    },
+    {
+      "name": "US TREASURY N/B 1.75 12/31/2024",
+      "percent": "0.869197"
+    },
+    {
+      "name": "US TREASURY N/B 2.5 01/31/2024",
+      "percent": "0.853756"
+    },
+    {
+      "name": "US TREASURY N/B 1.75 06/30/2024",
+      "percent": "0.835715"
+    },
+    {
+      "name": "US TREASURY N/B 2.5 02/28/2026",
+      "percent": "0.834558"
+    },
+    {
+      "name": "US TREASURY N/B 1.25 08/31/2024",
+      "percent": "0.819536"
+    },
+    {
+      "name": "US TREASURY N/B 2.25 03/31/2026",
+      "percent": "0.815467"
+    },
+    {
+      "name": "US TREASURY N/B 0.5 04/30/2027",
+      "percent": "0.797868"
+    },
+    {
+      "name": "US TREASURY N/B 3 10/31/2025",
+      "percent": "0.795703"
+    },
+    {
+      "name": "US TREASURY N/B 2.125 11/30/2023",
+      "percent": "0.734186"
+    },
+    {
+      "name": "US TREASURY N/B 2.75 02/28/2025",
+      "percent": "0.732705"
+    },
+    {
+      "name": "US TREASURY N/B 2.125 05/31/2026",
+      "percent": "0.727909"
+    },
+    {
+      "name": "US TREASURY N/B 2.625 01/31/2026",
+      "percent": "0.726536"
+    },
+    {
+      "name": "US TREASURY N/B 1.875 07/31/2026",
+      "percent": "0.725463"
+    },
+    {
+      "name": "US TREASURY N/B 2.5 01/31/2025",
+      "percent": "0.717783"
+    },
+    {
+      "name": "US TREASURY N/B 2.25 01/31/2024",
+      "percent": "0.711544"
+    },
+    {
+      "name": "US TREASURY N/B 2 06/30/2024",
+      "percent": "0.702170"
+    },
+    {
+      "name": "US TREASURY N/B 1.875 08/31/2024",
+      "percent": "0.696021"
+    },
+    {
+      "name": "US TREASURY N/B 2.875 11/30/2025",
+      "percent": "0.683512"
+    },
+    {
+      "name": "US TREASURY N/B 2.25 12/31/2024",
+      "percent": "0.676991"
+    },
+    {
+      "name": "US TREASURY N/B 2.625 12/31/2025",
+      "percent": "0.675601"
+    },
+    {
+      "name": "US TREASURY N/B 2.875 04/30/2025",
+      "percent": "0.674729"
+    },
+    {
+      "name": "US TREASURY N/B 2 04/30/2024",
+      "percent": "0.666723"
+    },
+    {
+      "name": "US TREASURY N/B 2.125 02/29/2024",
+      "percent": "0.660131"
+    },
+    {
+      "name": "US TREASURY N/B 3 09/30/2025",
+      "percent": "0.655695"
+    },
+    {
+      "name": "US TREASURY N/B 2.125 07/31/2024",
+      "percent": "0.651173"
+    },
+    {
+      "name": "US TREASURY N/B 1.625 11/30/2026",
+      "percent": "0.647790"
+    },
+    {
+      "name": "US TREASURY N/B 2.125 09/30/2024",
+      "percent": "0.644210"
+    },
+    {
+      "name": "US TREASURY N/B 2.875 05/31/2025",
+      "percent": "0.643523"
+    },
+    {
+      "name": "US TREASURY N/B 2.125 11/30/2024",
+      "percent": "0.629669"
+    },
+    {
+      "name": "US TREASURY N/B 1.625 10/31/2026",
+      "percent": "0.628091"
+    },
+    {
+      "name": "US TREASURY N/B 2.875 11/30/2023",
+      "percent": "0.622710"
+    },
+    {
+      "name": "US TREASURY N/B 2.25 10/31/2024",
+      "percent": "0.618355"
+    },
+    {
+      "name": "US TREASURY N/B 2.375 02/29/2024",
+      "percent": "0.612550"
+    },
+    {
+      "name": "US TREASURY N/B 0.625 03/31/2027",
+      "percent": "0.608126"
+    },
+    {
+      "name": "US TREASURY N/B 1.375 08/31/2026",
+      "percent": "0.593063"
+    },
+    {
+      "name": "US TREASURY N/B 2.25 12/31/2023",
+      "percent": "0.592619"
+    },
+    {
+      "name": "US TREASURY N/B 1.875 06/30/2026",
+      "percent": "0.589181"
+    },
+    {
+      "name": "US TREASURY N/B 2.75 06/30/2025",
+      "percent": "0.589146"
+    },
+    {
+      "name": "US TREASURY N/B 1.5 01/31/2027",
+      "percent": "0.588453"
+    },
+    {
+      "name": "US TREASURY N/B 1.75 12/31/2026",
+      "percent": "0.559363"
+    },
+    {
+      "name": "US TREASURY N/B 2.875 07/31/2025",
+      "percent": "0.554263"
+    },
+    {
+      "name": "US TREASURY N/B 2.75 08/31/2025",
+      "percent": "0.537872"
+    },
+    {
+      "name": "US TREASURY N/B 2.375 04/30/2026",
+      "percent": "0.518888"
+    },
+    {
+      "name": "US TREASURY N/B 2.625 03/31/2025",
+      "percent": "0.512931"
+    },
+    {
+      "name": "US TREASURY N/B 1.625 09/30/2026",
+      "percent": "0.487671"
+    },
+    {
+      "name": "US TREASURY N/B 2.875 10/31/2023",
+      "percent": "0.400008"
+    },
+    {
+      "name": "US TREASURY N/B 6.125 11/15/2027",
+      "percent": "0.382487"
+    },
+    {
+      "name": "US TREASURY N/B 1.125 02/28/2027",
+      "percent": "0.323712"
+    },
+    {
+      "name": "US TREASURY N/B 6.25 05/15/2030",
+      "percent": "0.316845"
+    },
+    {
+      "name": "US TREASURY N/B 5.25 11/15/2028",
+      "percent": "0.301997"
+    },
+    {
+      "name": "US TREASURY N/B 5.25 02/15/2029",
+      "percent": "0.268938"
+    },
+    {
+      "name": "US TREASURY N/B 1.625 10/31/2023",
+      "percent": "0.266986"
+    },
+    {
+      "name": "US TREASURY N/B 5.5 08/15/2028",
+      "percent": "0.264918"
+    },
+    {
+      "name": "US TREASURY N/B 6.125 08/15/2029",
+      "percent": "0.254175"
+    },
+    {
+      "name": "US TREASURY N/B 7.5 11/15/2024",
+      "percent": "0.242440"
+    },
+    {
+      "name": "US TREASURY N/B 6 02/15/2026",
+      "percent": "0.230654"
+    },
+    {
+      "name": "US TREASURY N/B 7.625 02/15/2025",
+      "percent": "0.218763"
+    },
+    {
+      "name": "US TREASURY N/B 6.5 11/15/2026",
+      "percent": "0.157257"
+    },
+    {
+      "name": "US TREASURY N/B 6.625 02/15/2027",
+      "percent": "0.150163"
+    },
+    {
+      "name": "US TREASURY N/B 6.75 08/15/2026",
+      "percent": "0.132966"
+    },
+    {
+      "name": "US TREASURY N/B 6.875 08/15/2025",
+      "percent": "0.108925"
+    },
+    {
+      "name": "US TREASURY N/B 6.375 08/15/2027",
+      "percent": "0.093947"
+    },
+    {
+      "name": "STATE ST INST US GOV MM-G 0 00/00/0000",
+      "percent": "0.022993"
+    },
+    {
+      "name": "Cash_USD",
+      "percent": "0.000600"
+    },
+    {
+      "name": "Performance quoted represents past performance, which is no guarantee of future results. Investment return and principal value will fluctuate, so you may have a gain or loss when shares are sold. Current performance may be higher or lower than that quoted. Visit www.ssga.com for most recent month-end performance."
+    },
+    {
+      "name": "This analysis or any portion thereof may not be revised or changed in any way, reprinted, sold or redistributed without the written consent of SSGA."
+    },
+    {
+      "name": "Portfolio holdings, allocations and weightings are as of the date indicated, are subject to change and should not be considered a recommendation to buy individual securities. For most recent information visit www.ssga.com."
+    },
+    {
+      "name": "Important Risk Information  "
+    },
+    {
+      "name": "Investing involves risk, and you could lose money on an investment in each of SPDR® Gold Shares Trust (“GLD®”) and SPDR® Gold MiniSharesSM Trust  (“GLDMSM”), a series of the World Gold Trust (together, the “Funds”). \n\nETFs trade like stocks, are subject to investment risk, fluctuate in market value and may trade at prices above or below the ETFs’ net asset value. Brokerage commissions and ETF expenses will reduce returns.\n\nCommodities and commodity-index linked securities may be affected by changes in overall market movements, changes in interest rates, and other factors such as weather, disease, embargoes, or political and regulatory developments, as well as trading activity of speculators and arbitrageurs in the underlying commodities.\n\nFrequent trading of ETFs could significantly increase commissions and other costs such that they may offset any savings from low fees or costs.\n\nDiversification does not ensure a profit or guarantee against loss."
+    },
+    {
+      "name": "Investing in commodities entails significant risk and is not appropriate for all investors."
+    },
+    {
+      "name": "Important Information Relating to SPDR® Gold Trust (“GLD®”) and SPDR® Gold MiniSharesSM Trust (“GLDMSM”):"
+    },
+    {
+      "name": "The SPDR Gold Trust (“GLD”) has filed a registration statement (including a prospectus) with the Securities and Exchange Commission (“SEC”) for GLD. The World Gold Trust has filed a registration statement (including a prospectus) with the SEC for GLDM. Before you invest, you should read the prospectus in the registration statement and other documents each Fund has filed with the SEC for more complete information about each Fund and these offerings. Please see each Fund’s prospectus for a detailed discussion of the risks of investing in each Fund’s shares."
+    },
+    {
+      "name": "The GLD prospectus is available by clicking"
+    },
+    {
+      "name": "The GLDM prospectus is available by clicking "
+    },
+    {
+      "name": "You may get these documents for free by visiting EDGAR on the SEC website at sec.gov or by visiting spdrgoldshares.com. Alternatively, the Funds or any authorized participant will arrange to send you the prospectus if you request it by calling 866.320.4053."
+    },
+    {
+      "name": "None of the Funds is an investment company registered under the Investment Company Act of 1940 (the “1940 Act”). As a result, shareholders of each Fund do not have the protections associated with ownership of shares in an investment company registered under the 1940 Act. GLD and GLDM are not subject to regulation under the CEA. As a result, shareholders of each of GLD and GLDM do not have the protections afforded by the CEA. \n\nShares of each Fund trade like stocks, are subject to investment risk and will fluctuate in market value. \n\nThe values of GLD shares and GLDM shares relate directly to the value of the gold held by each Fund (less its expenses), respectively. Fluctuations in the price of gold could materially and adversely affect an investment in the shares. The price received upon the sale of the shares, which trade at market price, may be more or less than the value of the gold represented by them.  \n\nNone of the Funds generate any income, and as each Fund regularly sells gold to pay for its ongoing expenses, the amount of gold represented by each Fund share will decline over time to that extent.\n\nThe World Gold Council name and logo are a registered trademark and used with the permission of the World Gold Council pursuant to a license agreement. The World Gold Council is not responsible for the content of, and is not liable for the use of or reliance on, this material. World Gold Council is an affiliate of the Sponsor of each of GLD and GLDM.\n\nMiniSharesSM and GLDMSM are service marks of WGC USA Asset Management Company, LLC used with the permission of WGC USA Asset Management Company, LLC.\n\nGLD® is a registered trademark of World Gold Trust Services, LLC used with the permission of World Gold Trust Services, LLC."
+    },
+    {
+      "name": "For more information, please contact the Marketing Agent for GLD and GLDM: State Street Global Advisors Funds Distributors, LLC, One Iron Street, Boston, MA, 02210; T: +1 866 320 4053 spdrgoldshares.com"
+    },
+    {
+      "name": "Standard & Poor’s®, S&P® and SPDR® are registered trademarks of Standard & Poor’s Financial Services LLC (S&P); Dow Jones is a registered trademark of Dow Jones Trademark Holdings LLC (Dow Jones); and these trademarks have been licensed for use by S&P Dow Jones Indices LLC (SPDJI) and sublicensed for certain purposes by State Street Corporation. State Street Corporation’s financial products are not sponsored, endorsed, sold or promoted by SPDJI, Dow Jones, S&P, their respective affiliates and third party licensors and none of such parties make any representation regarding the advisability of investing in such product(s) nor do they have any liability in relation thereto, including for any errors, omissions, or interruptions of any index."
+    },
+    {
+      "name": "Bonds generally present less short-term risk and volatility than stocks, but contain interest rate risk (as interest rates raise, bond prices usually fall); issuer default risk; issuer credit risk; liquidity risk; and inflation risk. These effects are usually pronounced for longer-term securities. Any fixed income security sold or redeemed prior to maturity may be subject to a substantial gain or loss.\nInternational Government bonds and corporate bonds generally have more moderate short-term price fluctuations than stocks, but provide lower potential long-term returns.\nInvesting in high yield fixed income securities, otherwise known as \"junk bonds\", is considered speculative and involves greater risk of loss of principal and interest than investing in investment grade fixed income securities. These Lower-quality debt securities involve greater risk of default or price changes due to potential changes in the credit quality of the issuer.\nEquity securities may fluctuate in value in response to the activities of individual companies and general market and economic conditions.\nThere are risks associated with investing in Real Assets and the Real Assets sector, including real estate, precious metals and natural resources.  Investments can be significantly affected by events relating to these industries.\nInvesting in foreign domiciled securities may involve risk of capital loss from unfavorable fluctuation in currency values, withholding taxes, from differences in generally accepted accounting principles or from economic or political instability in other nations.  Investments in emerging or developing markets may be more volatile and less liquid than investing in developed markets and may involve exposure to economic structures that are generally less diverse and mature and to political systems which have less stability than those of more developed countries. The trademarks and service marks referenced herein are the property of their respective owners. Third party data providers make no warranties or representations of any kind relating to the accuracy, completeness or timeliness of the data and have no liability for damages of any kind relating to the use of such data. Investing involves risk including the risk of loss of principal.\nThe whole or any part of this work may not be reproduced, copied or transmitted or any of its contents disclosed to third parties without SSGA's express written consent.\nETFs trade like stocks, are subject to investment risk and will fluctuate in market value. The investment return and principal value of an investment will fluctuate in value, so that when shares are sold or redeemed, they may be worth more or less than when they were purchased.  Although shares may be bought or sold on an exchange through any brokerage account, shares are not individually redeemable from the fund.  Investors may acquire shares and tender them for redemption through the fund in large aggregations known as “creation units.”  Please see the fund’s prospectus for more details.\nInvesting in REITs involves certain distinct risks in addition to those risks associated with investing in the real estate industry in general. Equity REITs may be affected by changes in the value of the underlying property owned by the REITs, while mortgage REITs may be affected by the quality of credit extended. REITs are subject to heavy cash flow dependency, default by borrowers and self-liquidation. REITs, especially mortgage REITs, are also subject to interest rate risk (i.e., as interest rates rise, the value of the REIT may decline).\nInvestments in small/mid-sized companies may involve greater risks than in those of larger, better known companies. Concentrated investments in a particular Sector tend to be more volatile than the overall market and increases risk that events negatively affecting such sectors or industries could reduce returns, potentially causing the value of the Fund’s shares to decrease.\nStandard & Poor’s®, S&P® and SPDR® are registered trademarks of Standard & Poor’s Financial Services LLC (S&P); Dow Jones is a registered trademark of Dow Jones Trademark Holdings LLC (Dow Jones); and these trademarks have been licensed for use by S&P Dow Jones Indices LLC (SPDJI) and sublicensed for certain purposes by State Street Corporation. State Street Corporation’s financial products are not sponsored, endorsed, sold or promoted by SPDJI, Dow Jones, S&P, their respective affiliates and third party licensors and none of such parties make any representation regarding the advisability of investing in such product(s) nor do they have any liability in relation thereto, including for any errors, omissions, or interruptions of any index.\nCommodities and commodity-index linked securities may be affected by changes in overall market movements, changes in interest rates, and other factors such as weather, disease, embargoes, or political and regulatory developments, as well as trading activity of speculators and arbitrageurs in the underlying commodities. The returns on a portfolio of securities which exclude companies that do not meet the portfolio's specified ESG criteria may trail the returns on a portfolio of securities which include such companies. A portfolio's ESG criteria may result in the portfolio investing in industry sectors or securities which underperform the market as a whole.\nTechnology companies, including cyber security companies, can be significantly affected by obsolescence of existing technology, limited product lines, and competition for financial resources, qualified personnel, new market entrants or impairment of patent and intellectual property rights that can adversely affect profit margins."
+    },
+    {
+      "name": "Distributor: State Street Global Advisors Funds Distributors, LLC, member FINRA(http://www.finra.org), SIPC(http://www.sipc.org), an indirect wholly owned subsidiary of State Street Corporation. References to State Street may include State Street Corporation and its affiliates. Certain State Street affiliates provide services and receive fees from the SPDR ETFs. ALPS Distributors, Inc., member FINRA, is the distributor for DIA, MDY and SPY, all unit investment trusts. ALPS Portfolio Solutions Distributor, Inc., member FINRA, is the distributor for Select Sector SPDRs. ALPS Distributors, Inc. and ALPS Portfolio Solutions Distributor, Inc. are not affiliated with State Street Global Advisors Funds Distributors, LLC."
+    },
+    {
+      "name": "Before investing, consider the funds’ investment objectives, risks, charges and expenses. To obtain a prospectus or summary prospectus, this contains this and other information, call 1-866-787-2257 or visit www.ssga.com. Read it carefully.\n\nNot FDIC Insured * No Bank Guarantee * May Lose Value\n\n2529657.2.1.AM.RTL\nExpiration: 03/31/2021\nSPD002304"
+    }
+  ]
+}

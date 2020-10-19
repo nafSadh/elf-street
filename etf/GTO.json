@@ -1,0 +1,2370 @@
+{
+  "Products": "Total Return Bond ETF",
+  "Ticker": "GTO",
+  "Inception": "02/10/2016",
+  "Gross Exp. Ratio": "0.50%",
+  "YTD": "8.72",
+  "1Yr": "9.65",
+  "3Yr": "7.16",
+  "5Yr": "",
+  "10Yr": "",
+  "Since Incept.": "6.74",
+  "Category": "Income",
+  "SubCategory": "Core Plus",
+  "ticker": "GTO",
+  "name": "Total Return Bond ETF",
+  "issuer": "Invesco",
+  "website": "https://www.invesco.com/us/financial-products/etfs/product-detail?audienceType=Investor&ticker=GTO",
+  "holdingDataSource": {
+    "url": "https://www.invesco.com/us/financial-products/etfs/holdings/main/holdings/0?audienceType=Investor&action=download&ticker=GTO",
+    "fileExt": "csv",
+    "transform": "invesco"
+  },
+  "holdings": [
+    {
+      "ticker": "TUZ0",
+      "name": "CBOT 2 Year US Treasury Note Future",
+      "percent": "16.41"
+    },
+    {
+      "ticker": "91282CAE1",
+      "name": "United States Treasury Note/Bond",
+      "percent": "9.50"
+    },
+    {
+      "ticker": "-CASH-",
+      "name": "Cash/Receivables/Payables",
+      "percent": "9.47"
+    },
+    {
+      "ticker": "91282CAM3",
+      "name": "United States Treasury Note/Bond",
+      "percent": "7.22"
+    },
+    {
+      "ticker": "912810SN9",
+      "name": "United States Treasury Note/Bond",
+      "percent": "6.30"
+    },
+    {
+      "ticker": "USZ0",
+      "name": "CBOT US Long Bond Future",
+      "percent": "2.55"
+    },
+    {
+      "ticker": "91282CAL5",
+      "name": "United States Treasury Note/Bond",
+      "percent": "2.46"
+    },
+    {
+      "ticker": "01F0306B9",
+      "name": "Fannie Mae or Freddie Mac",
+      "percent": "2.13"
+    },
+    {
+      "ticker": "01F0226B6",
+      "name": "Fannie Mae or Freddie Mac",
+      "percent": "1.88"
+    },
+    {
+      "ticker": "3132DVKR5",
+      "name": "Freddie Mac Pool",
+      "percent": "1.13"
+    },
+    {
+      "ticker": "3140QB3Q9",
+      "name": "Fannie Mae Pool",
+      "percent": "0.95"
+    },
+    {
+      "ticker": "219350BQ7",
+      "name": "Corning Inc",
+      "percent": "0.88"
+    },
+    {
+      "ticker": "01F0204B2",
+      "name": "Fannie Mae or Freddie Mac",
+      "percent": "0.80"
+    },
+    {
+      "ticker": "FVZ0",
+      "name": "CBOT 5 Year US Treasury Note",
+      "percent": "0.75"
+    },
+    {
+      "ticker": "12597KAA7",
+      "name": "COLT 2020-1 Mortgage Loan Trust",
+      "percent": "0.68"
+    },
+    {
+      "ticker": "01F0206B0",
+      "name": "Fannie Mae or Freddie Mac",
+      "percent": "0.66"
+    },
+    {
+      "ticker": "3140K42M1",
+      "name": "Fannie Mae Pool",
+      "percent": "0.65"
+    },
+    {
+      "ticker": "89236THP3",
+      "name": "Toyota Motor Credit Corp",
+      "percent": "0.63"
+    },
+    {
+      "ticker": "TYZ0",
+      "name": "CBOT 10 Year US Treasury Note",
+      "percent": "0.63"
+    },
+    {
+      "ticker": "9127963W7",
+      "name": "United States Treasury Bill",
+      "percent": "0.62"
+    },
+    {
+      "ticker": "3140J5RU5",
+      "name": "Fannie Mae Pool",
+      "percent": "0.53"
+    },
+    {
+      "ticker": "552676AT5",
+      "name": "MDC Holdings Inc",
+      "percent": "0.51"
+    },
+    {
+      "ticker": "08162YAE2",
+      "name": "Benchmark 2019-B14 Mortgage Trust",
+      "percent": "0.48"
+    },
+    {
+      "ticker": "95058XAC2",
+      "name": "Wendy's Funding LLC",
+      "percent": "0.48"
+    },
+    {
+      "ticker": "08160KAJ3",
+      "name": "Benchmark 2019-B15 Mortgage Trust",
+      "percent": "0.47"
+    },
+    {
+      "ticker": "24381MAA8",
+      "name": "Deephaven Residential Mortgage Trust 2019-4",
+      "percent": "0.46"
+    },
+    {
+      "ticker": "64830VAA1",
+      "name": "New Residential Mortgage Loan Trust 2020-NQM1",
+      "percent": "0.46"
+    },
+    {
+      "ticker": "25755TAL4",
+      "name": "Domino's Pizza Master Issuer LLC",
+      "percent": "0.45"
+    },
+    {
+      "ticker": "344419AC0",
+      "name": "Fomento Economico Mexicano SAB de CV",
+      "percent": "0.45"
+    },
+    {
+      "ticker": "26441YBC0",
+      "name": "Duke Realty LP",
+      "percent": "0.44"
+    },
+    {
+      "ticker": "25470DBK4",
+      "name": "Discovery Communications LLC",
+      "percent": "0.44"
+    },
+    {
+      "ticker": "693483AG4",
+      "name": "POSCO",
+      "percent": "0.44"
+    },
+    {
+      "ticker": "830867AA5",
+      "name": "Delta Air Lines Inc / SkyMiles IP Ltd",
+      "percent": "0.44"
+    },
+    {
+      "ticker": "38136MAC2",
+      "name": "Goldentree Loan Management US Clo 2 Ltd",
+      "percent": "0.42"
+    },
+    {
+      "ticker": "03765HAE1",
+      "name": "Apollo Management Holdings LP",
+      "percent": "0.41"
+    },
+    {
+      "ticker": "04685A2L4",
+      "name": "Athene Global Funding",
+      "percent": "0.41"
+    },
+    {
+      "ticker": "06051GJE0",
+      "name": "Bank of America Corp",
+      "percent": "0.41"
+    },
+    {
+      "ticker": "6174468L6",
+      "name": "Morgan Stanley",
+      "percent": "0.40"
+    },
+    {
+      "ticker": "3140QBS82",
+      "name": "Fannie Mae Pool",
+      "percent": "0.40"
+    },
+    {
+      "ticker": "90184LAG7",
+      "name": "Twitter Inc",
+      "percent": "0.39"
+    },
+    {
+      "ticker": "26442UAK0",
+      "name": "Duke Energy Progress LLC",
+      "percent": "0.39"
+    },
+    {
+      "ticker": "62547NAA7",
+      "name": "Multifamily Connecticut Avenue Securities Trust 2019-01",
+      "percent": "0.39"
+    },
+    {
+      "ticker": "61691UBH1",
+      "name": "Morgan Stanley Capital I Trust 2019-L3",
+      "percent": "0.38"
+    },
+    {
+      "ticker": "36258YBG2",
+      "name": "GS Mortgage Securities Trust 2020-GC45",
+      "percent": "0.37"
+    },
+    {
+      "ticker": "654744AC5",
+      "name": "Nissan Motor Co Ltd",
+      "percent": "0.37"
+    },
+    {
+      "ticker": "83546DAG3",
+      "name": "Sonic Capital LLC",
+      "percent": "0.37"
+    },
+    {
+      "ticker": "55336VBR0",
+      "name": "MPLX LP",
+      "percent": "0.37"
+    },
+    {
+      "ticker": "03464QAA3",
+      "name": "Angel Oak Mortgage Trust 2019-3",
+      "percent": "0.36"
+    },
+    {
+      "ticker": "00287YBL2",
+      "name": "AbbVie Inc",
+      "percent": "0.34"
+    },
+    {
+      "ticker": "778296AA1",
+      "name": "Ross Stores Inc",
+      "percent": "0.34"
+    },
+    {
+      "ticker": "12597NAS2",
+      "name": "CSAIL 2020-C19 Commercial Mortgage Trust",
+      "percent": "0.34"
+    },
+    {
+      "ticker": "92933BAR5",
+      "name": "WMG Acquisition Corp",
+      "percent": "0.33"
+    },
+    {
+      "ticker": "60700MAE8",
+      "name": "MMAF Equipment Finance LLC 2020-A",
+      "percent": "0.33"
+    },
+    {
+      "ticker": "78410GAC8",
+      "name": "SBA Communications Corp",
+      "percent": "0.31"
+    },
+    {
+      "ticker": "345397A29",
+      "name": "Ford Motor Credit Co LLC",
+      "percent": "0.31"
+    },
+    {
+      "ticker": "62912XAC8",
+      "name": "NGPL PipeCo LLC",
+      "percent": "0.31"
+    },
+    {
+      "ticker": "172967MG3",
+      "name": "Citigroup Inc",
+      "percent": "0.31"
+    },
+    {
+      "ticker": "898339AA4",
+      "name": "Trust Fibra Uno",
+      "percent": "0.30"
+    },
+    {
+      "ticker": "03464WAA0",
+      "name": "Angel Oak Mortgage Trust LLC 2020-5",
+      "percent": "0.30"
+    },
+    {
+      "ticker": "247361ZV3",
+      "name": "Delta Air Lines 2020-1 Class AA Pass Through Trust",
+      "percent": "0.29"
+    },
+    {
+      "ticker": "893727AA5",
+      "name": "TransJamaican Highway Ltd",
+      "percent": "0.29"
+    },
+    {
+      "ticker": "654744AB7",
+      "name": "Nissan Motor Co Ltd",
+      "percent": "0.28"
+    },
+    {
+      "ticker": "682680BE2",
+      "name": "ONEOK Inc",
+      "percent": "0.28"
+    },
+    {
+      "ticker": "16955EAD2",
+      "name": "China Government International Bond",
+      "percent": "0.28"
+    },
+    {
+      "ticker": "20030NCY5",
+      "name": "Comcast Corp",
+      "percent": "0.27"
+    },
+    {
+      "ticker": "01609WAV4",
+      "name": "Alibaba Group Holding Ltd",
+      "percent": "0.27"
+    },
+    {
+      "ticker": "30212PBB0",
+      "name": "Expedia Group Inc",
+      "percent": "0.27"
+    },
+    {
+      "ticker": "3140HBY77",
+      "name": "Fannie Mae Pool",
+      "percent": "0.27"
+    },
+    {
+      "ticker": "36167VAA2",
+      "name": "GCAT 2019-NQM3 Trust",
+      "percent": "0.26"
+    },
+    {
+      "ticker": "830867AB3",
+      "name": "Delta Air Lines Inc / SkyMiles IP Ltd",
+      "percent": "0.26"
+    },
+    {
+      "ticker": "14448CAA2",
+      "name": "Carrier Global Corp",
+      "percent": "0.26"
+    },
+    {
+      "ticker": "11135FBC4",
+      "name": "Broadcom Inc",
+      "percent": "0.26"
+    },
+    {
+      "ticker": "3137FDET5",
+      "name": "Freddie Mac Multifamily Structured Pass Through Certificates",
+      "percent": "0.26"
+    },
+    {
+      "ticker": "86562MBZ2",
+      "name": "Sumitomo Mitsui Financial Group Inc",
+      "percent": "0.25"
+    },
+    {
+      "ticker": "3138LLZ73",
+      "name": "Fannie Mae Pool",
+      "percent": "0.25"
+    },
+    {
+      "ticker": "3137F4D58",
+      "name": "Freddie Mac Multifamily Structured Pass Through Certificates",
+      "percent": "0.25"
+    },
+    {
+      "ticker": "61765TAL7",
+      "name": "Morgan Stanley Bank of America Merrill Lynch Trust 2015-C25",
+      "percent": "0.25"
+    },
+    {
+      "ticker": "31358DDG6",
+      "name": "Fannie Mae Principal Strip",
+      "percent": "0.25"
+    },
+    {
+      "ticker": "548661DY0",
+      "name": "Lowe's Cos Inc",
+      "percent": "0.25"
+    },
+    {
+      "ticker": "35563CAD0",
+      "name": "Freddie Mac Military Housing Bonds Resecuritization Trust Ce",
+      "percent": "0.24"
+    },
+    {
+      "ticker": "3137FCKD5",
+      "name": "Freddie Mac Multifamily Structured Pass Through Certificates",
+      "percent": "0.24"
+    },
+    {
+      "ticker": "01F0304B1",
+      "name": "Fannie Mae or Freddie Mac",
+      "percent": "0.24"
+    },
+    {
+      "ticker": "03465LAA3",
+      "name": "Angel Oak Mortgage Trust 2020-3",
+      "percent": "0.23"
+    },
+    {
+      "ticker": "14448CAF1",
+      "name": "Carrier Global Corp",
+      "percent": "0.23"
+    },
+    {
+      "ticker": "06051GJF7",
+      "name": "Bank of America Corp",
+      "percent": "0.23"
+    },
+    {
+      "ticker": "95000U2D4",
+      "name": "Wells Fargo & Co",
+      "percent": "0.23"
+    },
+    {
+      "ticker": "172967ME8",
+      "name": "Citigroup Inc",
+      "percent": "0.22"
+    },
+    {
+      "ticker": "46647PBD7",
+      "name": "JPMorgan Chase & Co",
+      "percent": "0.22"
+    },
+    {
+      "ticker": "20030NCZ2",
+      "name": "Comcast Corp",
+      "percent": "0.22"
+    },
+    {
+      "ticker": "86562MCB4",
+      "name": "Sumitomo Mitsui Financial Group Inc",
+      "percent": "0.22"
+    },
+    {
+      "ticker": "92939UAD8",
+      "name": "WEC Energy Group Inc",
+      "percent": "0.21"
+    },
+    {
+      "ticker": "654744AD3",
+      "name": "Nissan Motor Co Ltd",
+      "percent": "0.21"
+    },
+    {
+      "ticker": "00206RMC3",
+      "name": "AT&T Inc",
+      "percent": "0.21"
+    },
+    {
+      "ticker": "60682LAF9",
+      "name": "Mitsubishi UFJ Lease & Finance Co Ltd",
+      "percent": "0.21"
+    },
+    {
+      "ticker": "1248EPCJ0",
+      "name": "CCO Holdings LLC / CCO Holdings Capital Corp",
+      "percent": "0.21"
+    },
+    {
+      "ticker": "92939UAE6",
+      "name": "WEC Energy Group Inc",
+      "percent": "0.20"
+    },
+    {
+      "ticker": "873549AJ8",
+      "name": "Taconic Park CLO Ltd",
+      "percent": "0.20"
+    },
+    {
+      "ticker": "58933YAY1",
+      "name": "Merck & Co Inc",
+      "percent": "0.20"
+    },
+    {
+      "ticker": "12659LAA0",
+      "name": "Credit Suisse Mortgage Capital Certificates",
+      "percent": "0.20"
+    },
+    {
+      "ticker": "08162YAJ1",
+      "name": "Benchmark 2019-B14 Mortgage Trust",
+      "percent": "0.20"
+    },
+    {
+      "ticker": "05965MAG8",
+      "name": "Banco del Estado de Chile",
+      "percent": "0.20"
+    },
+    {
+      "ticker": "68389XBX2",
+      "name": "Oracle Corp",
+      "percent": "0.20"
+    },
+    {
+      "ticker": "60687YBH1",
+      "name": "Mizuho Financial Group Inc",
+      "percent": "0.20"
+    },
+    {
+      "ticker": "046353AW8",
+      "name": "AstraZeneca PLC",
+      "percent": "0.20"
+    },
+    {
+      "ticker": "36418XAA5",
+      "name": "Galton Funding Mortgage Trust 2019-H1",
+      "percent": "0.19"
+    },
+    {
+      "ticker": "046353AV0",
+      "name": "AstraZeneca PLC",
+      "percent": "0.19"
+    },
+    {
+      "ticker": "04685A2Q3",
+      "name": "Athene Global Funding",
+      "percent": "0.19"
+    },
+    {
+      "ticker": "21H0306B5",
+      "name": "Ginnie Mae II Pool",
+      "percent": "0.19"
+    },
+    {
+      "ticker": "68245XAM1",
+      "name": "1011778 BC ULC / New Red Finance Inc",
+      "percent": "0.19"
+    },
+    {
+      "ticker": "74331CAA6",
+      "name": "Progress Residential 2020-SFR1 Trust",
+      "percent": "0.19"
+    },
+    {
+      "ticker": "126650DM9",
+      "name": "CVS Health Corp",
+      "percent": "0.19"
+    },
+    {
+      "ticker": "31573TAA6",
+      "name": "Ellington Financial Mortgage Trust 2019-2",
+      "percent": "0.19"
+    },
+    {
+      "ticker": "81618TAC4",
+      "name": "Office Properties Income Trust",
+      "percent": "0.19"
+    },
+    {
+      "ticker": "3140J9H87",
+      "name": "Fannie Mae Pool",
+      "percent": "0.19"
+    },
+    {
+      "ticker": "958667AD9",
+      "name": "Western Midstream Operating LP",
+      "percent": "0.18"
+    },
+    {
+      "ticker": "3138LKMB0",
+      "name": "Fannie Mae Pool",
+      "percent": "0.18"
+    },
+    {
+      "ticker": "52532XAG0",
+      "name": "Leidos Inc",
+      "percent": "0.18"
+    },
+    {
+      "ticker": "10922NAF0",
+      "name": "Brighthouse Financial Inc",
+      "percent": "0.18"
+    },
+    {
+      "ticker": "64828EAA3",
+      "name": "New Residential Mortgage Loan Trust 2019-NQM4",
+      "percent": "0.17"
+    },
+    {
+      "ticker": "172967MS7",
+      "name": "Citigroup Inc",
+      "percent": "0.17"
+    },
+    {
+      "ticker": "460690BR0",
+      "name": "Interpublic Group of Cos Inc/The",
+      "percent": "0.17"
+    },
+    {
+      "ticker": "09261BAA8",
+      "name": "Blackstone Holdings Finance Co LLC",
+      "percent": "0.17"
+    },
+    {
+      "ticker": "3132D53U4",
+      "name": "Freddie Mac Pool",
+      "percent": "0.17"
+    },
+    {
+      "ticker": "36166MAA3",
+      "name": "GCAT 2019-NQM2 Trust",
+      "percent": "0.16"
+    },
+    {
+      "ticker": "31358DDR2",
+      "name": "Fannie Mae Principal Strip",
+      "percent": "0.16"
+    },
+    {
+      "ticker": "038461AS8",
+      "name": "Egypt Government International Bond",
+      "percent": "0.16"
+    },
+    {
+      "ticker": "35563PDD8",
+      "name": "Seasoned Credit Risk Transfer Trust 2017-4",
+      "percent": "0.16"
+    },
+    {
+      "ticker": "11135FBD2",
+      "name": "Broadcom Inc",
+      "percent": "0.16"
+    },
+    {
+      "ticker": "22822VAU5",
+      "name": "Crown Castle International Corp",
+      "percent": "0.16"
+    },
+    {
+      "ticker": "548661DX2",
+      "name": "Lowe's Cos Inc",
+      "percent": "0.16"
+    },
+    {
+      "ticker": "38937LAC5",
+      "name": "Gray Oak Pipeline LLC",
+      "percent": "0.16"
+    },
+    {
+      "ticker": "57701RAJ1",
+      "name": "Mattamy Group Corp",
+      "percent": "0.16"
+    },
+    {
+      "ticker": "212015AH4",
+      "name": "Continental Resources Inc/OK",
+      "percent": "0.15"
+    },
+    {
+      "ticker": "026874DR5",
+      "name": "American International Group Inc",
+      "percent": "0.15"
+    },
+    {
+      "ticker": "49456BAS0",
+      "name": "Kinder Morgan Inc",
+      "percent": "0.15"
+    },
+    {
+      "ticker": "76025LAB0",
+      "name": "Scentre Group Trust 2",
+      "percent": "0.15"
+    },
+    {
+      "ticker": "136385AZ4",
+      "name": "Canadian Natural Resources Ltd",
+      "percent": "0.15"
+    },
+    {
+      "ticker": "46647PBK1",
+      "name": "JPMorgan Chase & Co",
+      "percent": "0.15"
+    },
+    {
+      "ticker": "31429KAD5",
+      "name": "Federation des Caisses Desjardins du Quebec",
+      "percent": "0.15"
+    },
+    {
+      "ticker": "034863AV2",
+      "name": "Anglo American Capital PLC",
+      "percent": "0.15"
+    },
+    {
+      "ticker": "723787AQ0",
+      "name": "Pioneer Natural Resources Co",
+      "percent": "0.15"
+    },
+    {
+      "ticker": "778296AB9",
+      "name": "Ross Stores Inc",
+      "percent": "0.15"
+    },
+    {
+      "ticker": "126650DP2",
+      "name": "CVS Health Corp",
+      "percent": "0.15"
+    },
+    {
+      "ticker": "225401AR9",
+      "name": "Credit Suisse Group AG",
+      "percent": "0.15"
+    },
+    {
+      "ticker": "11135FAS0",
+      "name": "Broadcom Inc",
+      "percent": "0.14"
+    },
+    {
+      "ticker": "44891ABJ5",
+      "name": "Hyundai Capital America",
+      "percent": "0.14"
+    },
+    {
+      "ticker": "74982LAY6",
+      "name": "Race Point VIII CLO Ltd",
+      "percent": "0.14"
+    },
+    {
+      "ticker": "548661DZ7",
+      "name": "Lowe's Cos Inc",
+      "percent": "0.14"
+    },
+    {
+      "ticker": "202795JQ4",
+      "name": "Commonwealth Edison Co",
+      "percent": "0.14"
+    },
+    {
+      "ticker": "00206RKD3",
+      "name": "AT&T Inc",
+      "percent": "0.14"
+    },
+    {
+      "ticker": "76025LAA2",
+      "name": "Scentre Group Trust 2",
+      "percent": "0.14"
+    },
+    {
+      "ticker": "37959GAA5",
+      "name": "Global Atlantic Fin Co",
+      "percent": "0.14"
+    },
+    {
+      "ticker": "00507VAQ2",
+      "name": "Activision Blizzard Inc",
+      "percent": "0.14"
+    },
+    {
+      "ticker": "23918KAT5",
+      "name": "DaVita Inc",
+      "percent": "0.13"
+    },
+    {
+      "ticker": "69403WAC1",
+      "name": "Pacific Beacon LLC",
+      "percent": "0.13"
+    },
+    {
+      "ticker": "10552TAH0",
+      "name": "BRF SA",
+      "percent": "0.13"
+    },
+    {
+      "ticker": "03027XBD1",
+      "name": "American Tower Corp",
+      "percent": "0.13"
+    },
+    {
+      "ticker": "55336VBQ2",
+      "name": "MPLX LP",
+      "percent": "0.13"
+    },
+    {
+      "ticker": "49446RAX7",
+      "name": "Kimco Realty Corp",
+      "percent": "0.13"
+    },
+    {
+      "ticker": "513075BQ3",
+      "name": "Lamar Media Corp",
+      "percent": "0.13"
+    },
+    {
+      "ticker": "49326EEK5",
+      "name": "KeyCorp",
+      "percent": "0.13"
+    },
+    {
+      "ticker": "084664CV1",
+      "name": "Berkshire Hathaway Finance Corp",
+      "percent": "0.13"
+    },
+    {
+      "ticker": "46647PBE5",
+      "name": "JPMorgan Chase & Co",
+      "percent": "0.13"
+    },
+    {
+      "ticker": "013092AD3",
+      "name": "Albertsons Cos Inc / Safeway Inc / New Albertsons LP / Alber",
+      "percent": "0.13"
+    },
+    {
+      "ticker": "466313AK9",
+      "name": "Jabil Inc",
+      "percent": "0.13"
+    },
+    {
+      "ticker": "45031UCF6",
+      "name": "iStar Inc",
+      "percent": "0.13"
+    },
+    {
+      "ticker": "88034PAB5",
+      "name": "Tencent Music Entertainment Group",
+      "percent": "0.13"
+    },
+    {
+      "ticker": "037833DW7",
+      "name": "Apple Inc",
+      "percent": "0.13"
+    },
+    {
+      "ticker": "778296AC7",
+      "name": "Ross Stores Inc",
+      "percent": "0.13"
+    },
+    {
+      "ticker": "25755TAF7",
+      "name": "Domino's Pizza Master Issuer LLC",
+      "percent": "0.13"
+    },
+    {
+      "ticker": "36258RBA0",
+      "name": "GS Mortgage Securities Trust 2020-GC47",
+      "percent": "0.12"
+    },
+    {
+      "ticker": "681936BM1",
+      "name": "Omega Healthcare Investors Inc",
+      "percent": "0.12"
+    },
+    {
+      "ticker": "88283KBL1",
+      "name": "Central Texas Turnpike System",
+      "percent": "0.12"
+    },
+    {
+      "ticker": "04686JAB7",
+      "name": "Athene Holding Ltd",
+      "percent": "0.12"
+    },
+    {
+      "ticker": "ZP9910362",
+      "name": "AT&T Inc",
+      "percent": "0.12"
+    },
+    {
+      "ticker": "31620RAK1",
+      "name": "Fidelity National Financial Inc",
+      "percent": "0.12"
+    },
+    {
+      "ticker": "3138LFUS5",
+      "name": "Fannie Mae Pool",
+      "percent": "0.12"
+    },
+    {
+      "ticker": "231021AS5",
+      "name": "Cummins Inc",
+      "percent": "0.12"
+    },
+    {
+      "ticker": "3138LKVW4",
+      "name": "Fannie Mae Pool",
+      "percent": "0.12"
+    },
+    {
+      "ticker": "694476AE2",
+      "name": "Pacific LifeCorp",
+      "percent": "0.12"
+    },
+    {
+      "ticker": "45866FAQ7",
+      "name": "Intercontinental Exchange Inc",
+      "percent": "0.12"
+    },
+    {
+      "ticker": "064058AH3",
+      "name": "Bank of New York Mellon Corp/The",
+      "percent": "0.12"
+    },
+    {
+      "ticker": "20369EAE2",
+      "name": "Community Health Network Inc",
+      "percent": "0.12"
+    },
+    {
+      "ticker": "3132XEAF8",
+      "name": "Freddie Mac Gold Pool",
+      "percent": "0.12"
+    },
+    {
+      "ticker": "3138LKBT3",
+      "name": "Fannie Mae Pool",
+      "percent": "0.12"
+    },
+    {
+      "ticker": "172967MQ1",
+      "name": "Citigroup Inc",
+      "percent": "0.12"
+    },
+    {
+      "ticker": "02079KAG2",
+      "name": "Alphabet Inc",
+      "percent": "0.12"
+    },
+    {
+      "ticker": "3138LLLA1",
+      "name": "Fannie Mae Pool",
+      "percent": "0.12"
+    },
+    {
+      "ticker": "3138LKZP5",
+      "name": "Fannie Mae Pool",
+      "percent": "0.12"
+    },
+    {
+      "ticker": "3138LLDY8",
+      "name": "Fannie Mae Pool",
+      "percent": "0.12"
+    },
+    {
+      "ticker": "853496AH0",
+      "name": "Standard Industries Inc/NJ",
+      "percent": "0.12"
+    },
+    {
+      "ticker": "12597VAA3",
+      "name": "COLT 2020-1R Mortgage Loan Trust",
+      "percent": "0.11"
+    },
+    {
+      "ticker": "05530QAN0",
+      "name": "BAT International Finance PLC",
+      "percent": "0.11"
+    },
+    {
+      "ticker": "92343VES9",
+      "name": "Verizon Communications Inc",
+      "percent": "0.11"
+    },
+    {
+      "ticker": "59156RBS6",
+      "name": "MetLife Inc",
+      "percent": "0.11"
+    },
+    {
+      "ticker": "166756AH9",
+      "name": "Chevron USA Inc",
+      "percent": "0.11"
+    },
+    {
+      "ticker": "95058XAH1",
+      "name": "Wendy's Funding LLC",
+      "percent": "0.11"
+    },
+    {
+      "ticker": "19688JAA5",
+      "name": "COLT 2020-2 Mortgage Loan Trust",
+      "percent": "0.11"
+    },
+    {
+      "ticker": "172967MP3",
+      "name": "Citigroup Inc",
+      "percent": "0.11"
+    },
+    {
+      "ticker": "88032WAU0",
+      "name": "Tencent Holdings Ltd",
+      "percent": "0.11"
+    },
+    {
+      "ticker": "10554NAA6",
+      "name": "Braskem Idesa SAPI",
+      "percent": "0.11"
+    },
+    {
+      "ticker": "ZO9304791",
+      "name": "Gazprom PJSC via Gaz Finance PLC",
+      "percent": "0.11"
+    },
+    {
+      "ticker": "03329TAA2",
+      "name": "Anchorage Credit Funding 4 Ltd",
+      "percent": "0.11"
+    },
+    {
+      "ticker": "59156RCA4",
+      "name": "MetLife Inc",
+      "percent": "0.11"
+    },
+    {
+      "ticker": "35566AAH2",
+      "name": "Freddie Mac STACR REMIC Trust 2020-DNA5",
+      "percent": "0.11"
+    },
+    {
+      "ticker": "882484AC2",
+      "name": "Texas Health Resources",
+      "percent": "0.11"
+    },
+    {
+      "ticker": "31334XD97",
+      "name": "Freddie Mac Pool",
+      "percent": "0.11"
+    },
+    {
+      "ticker": "316773CY4",
+      "name": "Fifth Third Bancorp",
+      "percent": "0.11"
+    },
+    {
+      "ticker": "97988QAA2",
+      "name": "Woodmont 2017-2 Trust",
+      "percent": "0.11"
+    },
+    {
+      "ticker": "05526DBR5",
+      "name": "BAT Capital Corp",
+      "percent": "0.11"
+    },
+    {
+      "ticker": "38141GXJ8",
+      "name": "Goldman Sachs Group Inc/The",
+      "percent": "0.11"
+    },
+    {
+      "ticker": "03076CAK2",
+      "name": "Ameriprise Financial Inc",
+      "percent": "0.10"
+    },
+    {
+      "ticker": "36253VAJ8",
+      "name": "GS Mortgage Securities Corp Trust 2017-STAY",
+      "percent": "0.10"
+    },
+    {
+      "ticker": "68236JAA9",
+      "name": "One Bryant Park Trust 2019-OBP",
+      "percent": "0.10"
+    },
+    {
+      "ticker": "191241AJ7",
+      "name": "Coca-Cola Femsa SAB de CV",
+      "percent": "0.10"
+    },
+    {
+      "ticker": "86212VAB0",
+      "name": "Store Master Funding I-VII",
+      "percent": "0.10"
+    },
+    {
+      "ticker": "225401AN8",
+      "name": "Credit Suisse Group AG",
+      "percent": "0.10"
+    },
+    {
+      "ticker": "303901BE1",
+      "name": "Fairfax Financial Holdings Ltd",
+      "percent": "0.10"
+    },
+    {
+      "ticker": "431282AT9",
+      "name": "Highwoods Realty LP",
+      "percent": "0.10"
+    },
+    {
+      "ticker": "3140J5PG8",
+      "name": "Fannie Mae Pool",
+      "percent": "0.10"
+    },
+    {
+      "ticker": "46647PBP0",
+      "name": "JPMorgan Chase & Co",
+      "percent": "0.10"
+    },
+    {
+      "ticker": "-Euro-",
+      "name": "Cash/Receivables/Payables",
+      "percent": "0.10"
+    },
+    {
+      "ticker": "29135LAJ9",
+      "name": "Abu Dhabi Government International Bond",
+      "percent": "0.10"
+    },
+    {
+      "ticker": "00774MAP0",
+      "name": "AerCap Ireland Capital DAC / AerCap Global Aviation Trust",
+      "percent": "0.10"
+    },
+    {
+      "ticker": "756109AX2",
+      "name": "Realty Income Corp",
+      "percent": "0.10"
+    },
+    {
+      "ticker": "828807DK0",
+      "name": "Simon Property Group LP",
+      "percent": "0.10"
+    },
+    {
+      "ticker": "00928QAR2",
+      "name": "Aircastle Ltd",
+      "percent": "0.10"
+    },
+    {
+      "ticker": "57164PAF3",
+      "name": "Marriott Ownership Resorts Inc",
+      "percent": "0.10"
+    },
+    {
+      "ticker": "20030NDL2",
+      "name": "Comcast Corp",
+      "percent": "0.10"
+    },
+    {
+      "ticker": "225401AP3",
+      "name": "Credit Suisse Group AG",
+      "percent": "0.09"
+    },
+    {
+      "ticker": "11120VAJ2",
+      "name": "Brixmor Operating Partnership LP",
+      "percent": "0.09"
+    },
+    {
+      "ticker": "67091TAA3",
+      "name": "OCP SA",
+      "percent": "0.09"
+    },
+    {
+      "ticker": "82088KAE8",
+      "name": "Shea Homes LP / Shea Homes Funding Corp",
+      "percent": "0.09"
+    },
+    {
+      "ticker": "544495VY7",
+      "name": "Los Angeles Department of Water & Power Power System Revenue",
+      "percent": "0.09"
+    },
+    {
+      "ticker": "38176GAA0",
+      "name": "Golub Capital Partners CLO 41 B Ltd",
+      "percent": "0.09"
+    },
+    {
+      "ticker": "91159HJA9",
+      "name": "US Bancorp",
+      "percent": "0.09"
+    },
+    {
+      "ticker": "86562MCA6",
+      "name": "Sumitomo Mitsui Financial Group Inc",
+      "percent": "0.09"
+    },
+    {
+      "ticker": "00206RMD1",
+      "name": "AT&T Inc",
+      "percent": "0.09"
+    },
+    {
+      "ticker": "913903AV2",
+      "name": "Universal Health Services Inc",
+      "percent": "0.09"
+    },
+    {
+      "ticker": "05533UAH1",
+      "name": "BBVA Bancomer SA/Texas",
+      "percent": "0.09"
+    },
+    {
+      "ticker": "42225UAH7",
+      "name": "Healthcare Trust of America Holdings LP",
+      "percent": "0.09"
+    },
+    {
+      "ticker": "35563PBX6",
+      "name": "Seasoned Credit Risk Transfer Trust Series 2017-3",
+      "percent": "0.09"
+    },
+    {
+      "ticker": "174610AS4",
+      "name": "Citizens Financial Group Inc",
+      "percent": "0.09"
+    },
+    {
+      "ticker": "00206RKF8",
+      "name": "AT&T Inc",
+      "percent": "0.09"
+    },
+    {
+      "ticker": "161175BR4",
+      "name": "Charter Communications Operating LLC / Charter Communication",
+      "percent": "0.09"
+    },
+    {
+      "ticker": "29717PAX5",
+      "name": "Essex Portfolio LP",
+      "percent": "0.09"
+    },
+    {
+      "ticker": "172967JM4",
+      "name": "Citigroup Inc",
+      "percent": "0.09"
+    },
+    {
+      "ticker": "75524KNH3",
+      "name": "Citizens Bank NA/Providence RI",
+      "percent": "0.09"
+    },
+    {
+      "ticker": "25746UDG1",
+      "name": "Dominion Energy Inc",
+      "percent": "0.09"
+    },
+    {
+      "ticker": "36962GT95",
+      "name": "General Electric Co",
+      "percent": "0.09"
+    },
+    {
+      "ticker": "31358DDC5",
+      "name": "Fannie Mae Principal Strip",
+      "percent": "0.09"
+    },
+    {
+      "ticker": "080807AA8",
+      "name": "Belrose Funding Trust",
+      "percent": "0.09"
+    },
+    {
+      "ticker": "06051GJB6",
+      "name": "Bank of America Corp",
+      "percent": "0.09"
+    },
+    {
+      "ticker": "898339AB2",
+      "name": "Trust Fibra Uno",
+      "percent": "0.09"
+    },
+    {
+      "ticker": "35137LAH8",
+      "name": "Fox Corp",
+      "percent": "0.08"
+    },
+    {
+      "ticker": "034863AW0",
+      "name": "Anglo American Capital PLC",
+      "percent": "0.08"
+    },
+    {
+      "ticker": "19533PAC4",
+      "name": "Colombia Telecomunicaciones SA ESP",
+      "percent": "0.08"
+    },
+    {
+      "ticker": "44891ABK2",
+      "name": "Hyundai Capital America",
+      "percent": "0.08"
+    },
+    {
+      "ticker": "85573AAA3",
+      "name": "Starwood Mortgage Residential Trust 2020-1",
+      "percent": "0.08"
+    },
+    {
+      "ticker": "035240AT7",
+      "name": "Anheuser-Busch InBev Worldwide Inc",
+      "percent": "0.08"
+    },
+    {
+      "ticker": "03464RAA1",
+      "name": "Angel Oak Mortgage Trust 2020-1",
+      "percent": "0.08"
+    },
+    {
+      "ticker": "665772CS6",
+      "name": "Northern States Power Co/MN",
+      "percent": "0.08"
+    },
+    {
+      "ticker": "80414L2C8",
+      "name": "Saudi Arabian Oil Co",
+      "percent": "0.08"
+    },
+    {
+      "ticker": "14739LAB8",
+      "name": "Cascades Inc/Cascades USA Inc",
+      "percent": "0.08"
+    },
+    {
+      "ticker": "55336VBH2",
+      "name": "MPLX LP",
+      "percent": "0.08"
+    },
+    {
+      "ticker": "46284VAJ0",
+      "name": "Iron Mountain Inc",
+      "percent": "0.08"
+    },
+    {
+      "ticker": "57665RAJ5",
+      "name": "Match Group Holdings II LLC",
+      "percent": "0.08"
+    },
+    {
+      "ticker": "880591ES7",
+      "name": "Tennessee Valley Authority",
+      "percent": "0.08"
+    },
+    {
+      "ticker": "649322AJ3",
+      "name": "New York and Presbyterian Hospital/The",
+      "percent": "0.08"
+    },
+    {
+      "ticker": "44891ABE6",
+      "name": "Hyundai Capital America",
+      "percent": "0.08"
+    },
+    {
+      "ticker": "46284VAN1",
+      "name": "Iron Mountain Inc",
+      "percent": "0.08"
+    },
+    {
+      "ticker": "043436AT1",
+      "name": "Asbury Automotive Group Inc",
+      "percent": "0.08"
+    },
+    {
+      "ticker": "043436AS3",
+      "name": "Asbury Automotive Group Inc",
+      "percent": "0.08"
+    },
+    {
+      "ticker": "31620RAJ4",
+      "name": "Fidelity National Financial Inc",
+      "percent": "0.08"
+    },
+    {
+      "ticker": "09261BAB6",
+      "name": "Blackstone Holdings Finance Co LLC",
+      "percent": "0.08"
+    },
+    {
+      "ticker": "WFC L",
+      "name": "Wells Fargo & Co",
+      "percent": "0.08"
+    },
+    {
+      "ticker": "720198AE0",
+      "name": "Piedmont Operating Partnership LP",
+      "percent": "0.08"
+    },
+    {
+      "ticker": "77310VAA2",
+      "name": "Rockefeller Foundation/The",
+      "percent": "0.08"
+    },
+    {
+      "ticker": "76131VAB9",
+      "name": "Retail Properties of America Inc",
+      "percent": "0.08"
+    },
+    {
+      "ticker": "78409VAS3",
+      "name": "S&P Global Inc",
+      "percent": "0.08"
+    },
+    {
+      "ticker": "35566AAA7",
+      "name": "Freddie Mac STACR REMIC Trust 2020-DNA5",
+      "percent": "0.08"
+    },
+    {
+      "ticker": "025676AM9",
+      "name": "American Equity Investment Life Holding Co",
+      "percent": "0.08"
+    },
+    {
+      "ticker": "084423AU6",
+      "name": "W R Berkley Corp",
+      "percent": "0.08"
+    },
+    {
+      "ticker": "55354GAL4",
+      "name": "MSCI Inc",
+      "percent": "0.08"
+    },
+    {
+      "ticker": "6174468Q5",
+      "name": "Morgan Stanley",
+      "percent": "0.08"
+    },
+    {
+      "ticker": "059626AC5",
+      "name": "Banco Nacional de Panama",
+      "percent": "0.08"
+    },
+    {
+      "ticker": "36198FAP7",
+      "name": "GS Mortgage Securities Trust 2013-GCJ14",
+      "percent": "0.08"
+    },
+    {
+      "ticker": "16159GAC3",
+      "name": "Chase Home Lending Mortgage Trust 2019-ATR2",
+      "percent": "0.07"
+    },
+    {
+      "ticker": "698299BN3",
+      "name": "Panama Government International Bond",
+      "percent": "0.07"
+    },
+    {
+      "ticker": "49456BAR2",
+      "name": "Kinder Morgan Inc",
+      "percent": "0.07"
+    },
+    {
+      "ticker": "842587DE4",
+      "name": "Southern Co/The",
+      "percent": "0.07"
+    },
+    {
+      "ticker": "828807DJ3",
+      "name": "Simon Property Group LP",
+      "percent": "0.07"
+    },
+    {
+      "ticker": "20605PAM3",
+      "name": "Concho Resources Inc",
+      "percent": "0.07"
+    },
+    {
+      "ticker": "3131Y7TD9",
+      "name": "Freddie Mac Pool",
+      "percent": "0.07"
+    },
+    {
+      "ticker": "92939HBB0",
+      "name": "WFRBS Commercial Mortgage Trust 2014-C23",
+      "percent": "0.07"
+    },
+    {
+      "ticker": "62548LAA0",
+      "name": "MultiCare Health System",
+      "percent": "0.07"
+    },
+    {
+      "ticker": "50249AAF0",
+      "name": "LYB International Finance III LLC",
+      "percent": "0.07"
+    },
+    {
+      "ticker": "49446RAW9",
+      "name": "Kimco Realty Corp",
+      "percent": "0.07"
+    },
+    {
+      "ticker": "29452EAA9",
+      "name": "Equitable Holdings Inc",
+      "percent": "0.07"
+    },
+    {
+      "ticker": "48252MAA3",
+      "name": "KKR Group Finance Co VIII LLC",
+      "percent": "0.07"
+    },
+    {
+      "ticker": "225310AN1",
+      "name": "Credit Acceptance Corp",
+      "percent": "0.07"
+    },
+    {
+      "ticker": "35671DCG8",
+      "name": "Freeport-McMoRan Inc",
+      "percent": "0.07"
+    },
+    {
+      "ticker": "00131LAK1",
+      "name": "AIA Group Ltd",
+      "percent": "0.07"
+    },
+    {
+      "ticker": "224044CM7",
+      "name": "Cox Communications Inc",
+      "percent": "0.07"
+    },
+    {
+      "ticker": "31847RAE2",
+      "name": "First American Financial Corp",
+      "percent": "0.07"
+    },
+    {
+      "ticker": "3134A4CN2",
+      "name": "Freddie Mac Coupon Strips",
+      "percent": "0.07"
+    },
+    {
+      "ticker": "316773DA5",
+      "name": "Fifth Third Bancorp",
+      "percent": "0.07"
+    },
+    {
+      "ticker": "84861TAF5",
+      "name": "Spirit Realty LP",
+      "percent": "0.07"
+    },
+    {
+      "ticker": "404280CJ6",
+      "name": "HSBC Holdings PLC",
+      "percent": "0.07"
+    },
+    {
+      "ticker": "03939AAA5",
+      "name": "Arch Capital Group Ltd",
+      "percent": "0.07"
+    },
+    {
+      "ticker": "ZP6261280",
+      "name": "Ukraine Government International Bond",
+      "percent": "0.06"
+    },
+    {
+      "ticker": "00830YAC5",
+      "name": "Africa Finance Corp",
+      "percent": "0.06"
+    },
+    {
+      "ticker": "74005PBS2",
+      "name": "Linde Inc/CT",
+      "percent": "0.06"
+    },
+    {
+      "ticker": "38172XAJ8",
+      "name": "Golub Capital Partners CLO 16 Ltd",
+      "percent": "0.06"
+    },
+    {
+      "ticker": "36164QNA2",
+      "name": "GE Capital International Funding Co Unlimited Co",
+      "percent": "0.06"
+    },
+    {
+      "ticker": "682680BD4",
+      "name": "ONEOK Inc",
+      "percent": "0.06"
+    },
+    {
+      "ticker": "10112RBD5",
+      "name": "Boston Properties LP",
+      "percent": "0.06"
+    },
+    {
+      "ticker": "718172CN7",
+      "name": "Philip Morris International Inc",
+      "percent": "0.06"
+    },
+    {
+      "ticker": "57421CAW4",
+      "name": "Maryland Health & Higher Educational Facilities Authority",
+      "percent": "0.06"
+    },
+    {
+      "ticker": "233331BH9",
+      "name": "DTE Energy Co",
+      "percent": "0.06"
+    },
+    {
+      "ticker": "11575TAC2",
+      "name": "Brown University in Providence in the State of Rhode Island",
+      "percent": "0.06"
+    },
+    {
+      "ticker": "035240AV2",
+      "name": "Anheuser-Busch InBev Worldwide Inc",
+      "percent": "0.06"
+    },
+    {
+      "ticker": "76119CAA9",
+      "name": "Residential Mortgage Loan Trust 2020-1",
+      "percent": "0.06"
+    },
+    {
+      "ticker": "3137F2LK0",
+      "name": "Freddie Mac Multifamily Structured Pass Through Certificates",
+      "percent": "0.06"
+    },
+    {
+      "ticker": "638612AM3",
+      "name": "Nationwide Financial Services Inc",
+      "percent": "0.06"
+    },
+    {
+      "ticker": "595112BP7",
+      "name": "Micron Technology Inc",
+      "percent": "0.06"
+    },
+    {
+      "ticker": "11043XAA1",
+      "name": "British Airways 2019-1 Class AA Pass Through Trust",
+      "percent": "0.06"
+    },
+    {
+      "ticker": "3140Q73S4",
+      "name": "Fannie Mae Pool",
+      "percent": "0.06"
+    },
+    {
+      "ticker": "SPX 9 C352",
+      "name": "September 21 Calls on SPXSPX US 09/17/21 C3525",
+      "percent": "0.06"
+    },
+    {
+      "ticker": "716743AR0",
+      "name": "Petronas Capital Ltd",
+      "percent": "0.06"
+    },
+    {
+      "ticker": "655844CE6",
+      "name": "Norfolk Southern Corp",
+      "percent": "0.06"
+    },
+    {
+      "ticker": "637639AB1",
+      "name": "National Securities Clearing Corp",
+      "percent": "0.06"
+    },
+    {
+      "ticker": "92537TAA3",
+      "name": "Verus Securitization Trust 2020-INV1",
+      "percent": "0.06"
+    },
+    {
+      "ticker": "70462GAB4",
+      "name": "PeaceHealth Obligated Group",
+      "percent": "0.06"
+    },
+    {
+      "ticker": "86964WAJ1",
+      "name": "Suzano Austria GmbH",
+      "percent": "0.06"
+    },
+    {
+      "ticker": "02379DAA8",
+      "name": "American Airlines 2019-1 Class B Pass Through Trust",
+      "percent": "0.06"
+    },
+    {
+      "ticker": "20030NCT6",
+      "name": "Comcast Corp",
+      "percent": "0.06"
+    },
+    {
+      "ticker": "11043XAB9",
+      "name": "British Airways 2019-1 Class A Pass Through Trust",
+      "percent": "0.06"
+    },
+    {
+      "ticker": "07389MAD9",
+      "name": "Bear Stearns Asset Backed Securities I Trust 2006-HE9",
+      "percent": "0.06"
+    },
+    {
+      "ticker": "16876DAA6",
+      "name": "Children's Hospital/DC",
+      "percent": "0.06"
+    },
+    {
+      "ticker": "754730AG4",
+      "name": "Raymond James Financial Inc",
+      "percent": "0.06"
+    },
+    {
+      "ticker": "42250PAB9",
+      "name": "Healthpeak Properties Inc",
+      "percent": "0.06"
+    },
+    {
+      "ticker": "3137G0LU1",
+      "name": "Freddie Mac Structured Agency Credit Risk Debt Notes",
+      "percent": "0.06"
+    },
+    {
+      "ticker": "22535WAG2",
+      "name": "Credit Agricole SA/London",
+      "percent": "0.05"
+    },
+    {
+      "ticker": "649322AH7",
+      "name": "New York and Presbyterian Hospital/The",
+      "percent": "0.05"
+    },
+    {
+      "ticker": "404530AC1",
+      "name": "Hackensack Meridian Health Inc",
+      "percent": "0.05"
+    },
+    {
+      "ticker": "346845AF7",
+      "name": "Fort Benning Family Communities LLC",
+      "percent": "0.05"
+    },
+    {
+      "ticker": "17401QAM3",
+      "name": "Citizens Bank NA/Providence RI",
+      "percent": "0.05"
+    },
+    {
+      "ticker": "3137G0LJ6",
+      "name": "Freddie Mac Structured Agency Credit Risk Debt Notes",
+      "percent": "0.05"
+    },
+    {
+      "ticker": "88034PAA7",
+      "name": "Tencent Music Entertainment Group",
+      "percent": "0.05"
+    },
+    {
+      "ticker": "69355EAA3",
+      "name": "PPM CLO 3 Ltd",
+      "percent": "0.05"
+    },
+    {
+      "ticker": "04686JAC5",
+      "name": "Athene Holding Ltd",
+      "percent": "0.05"
+    },
+    {
+      "ticker": "452152GF2",
+      "name": "State of Illinois",
+      "percent": "0.05"
+    },
+    {
+      "ticker": "59524EAC6",
+      "name": "Mid-Atlantic Military Family Communities LLC",
+      "percent": "0.05"
+    },
+    {
+      "ticker": "20754JAB0",
+      "name": "Connecticut Avenue Securities Trust 2019-R06",
+      "percent": "0.05"
+    },
+    {
+      "ticker": "404530AD9",
+      "name": "Hackensack Meridian Health Inc",
+      "percent": "0.05"
+    },
+    {
+      "ticker": "29717PAW7",
+      "name": "Essex Portfolio LP",
+      "percent": "0.05"
+    },
+    {
+      "ticker": "62954HAD0",
+      "name": "NXP BV / NXP Funding LLC / NXP USA Inc",
+      "percent": "0.05"
+    },
+    {
+      "ticker": "552697AQ7",
+      "name": "MDC Partners Inc",
+      "percent": "0.05"
+    },
+    {
+      "ticker": "056752AR9",
+      "name": "Baidu Inc",
+      "percent": "0.05"
+    },
+    {
+      "ticker": "00164TAD0",
+      "name": "AMC East Communities LLC",
+      "percent": "0.05"
+    },
+    {
+      "ticker": "056752AS7",
+      "name": "Baidu Inc",
+      "percent": "0.05"
+    },
+    {
+      "ticker": "31574PAA3",
+      "name": "Ellington Financial Mortgage Trust 2020-1",
+      "percent": "0.05"
+    },
+    {
+      "ticker": "174610AT2",
+      "name": "Citizens Financial Group Inc",
+      "percent": "0.05"
+    },
+    {
+      "ticker": "292487AA3",
+      "name": "Empresa de los Ferrocarriles del Estado",
+      "percent": "0.05"
+    },
+    {
+      "ticker": "529043AE1",
+      "name": "Lexington Realty Trust",
+      "percent": "0.05"
+    },
+    {
+      "ticker": "778296AE3",
+      "name": "Ross Stores Inc",
+      "percent": "0.05"
+    },
+    {
+      "ticker": "78081BAD5",
+      "name": "Royalty Pharma PLC",
+      "percent": "0.05"
+    },
+    {
+      "ticker": "17328BAA2",
+      "name": "Citigroup Mortgage Loan Trust 2019-IMC1",
+      "percent": "0.05"
+    },
+    {
+      "ticker": "57665RAN6",
+      "name": "Match Group Holdings II LLC",
+      "percent": "0.05"
+    },
+    {
+      "ticker": "86562MBP4",
+      "name": "Sumitomo Mitsui Financial Group Inc",
+      "percent": "0.05"
+    },
+    {
+      "ticker": "55300RAA9",
+      "name": "MGM China Holdings Ltd",
+      "percent": "0.05"
+    },
+    {
+      "ticker": "056752AQ1",
+      "name": "Baidu Inc",
+      "percent": "0.05"
+    },
+    {
+      "ticker": "09778PAC9",
+      "name": "Bon Secours Mercy Health Inc",
+      "percent": "0.05"
+    },
+    {
+      "ticker": "056752AT5",
+      "name": "Baidu Inc",
+      "percent": "0.05"
+    },
+    {
+      "ticker": "26253KAD6",
+      "name": "DT Auto Owner Trust 2019-3",
+      "percent": "0.05"
+    },
+    {
+      "ticker": "72650RBN1",
+      "name": "Plains All American Pipeline LP / PAA Finance Corp",
+      "percent": "0.05"
+    },
+    {
+      "ticker": "57421CAV6",
+      "name": "Maryland Health & Higher Educational Facilities Authority",
+      "percent": "0.05"
+    },
+    {
+      "ticker": "78448TAD4",
+      "name": "SMBC Aviation Capital Finance DAC",
+      "percent": "0.05"
+    },
+    {
+      "ticker": "09778PAB1",
+      "name": "Bon Secours Mercy Health Inc",
+      "percent": "0.05"
+    },
+    {
+      "ticker": "74727PAZ4",
+      "name": "Qatar Government International Bond",
+      "percent": "0.05"
+    },
+    {
+      "ticker": "70450YAD5",
+      "name": "PayPal Holdings Inc",
+      "percent": "0.05"
+    },
+    {
+      "ticker": "26151AAA7",
+      "name": "Drax Finco PLC",
+      "percent": "0.05"
+    },
+    {
+      "ticker": "88032WAW6",
+      "name": "Tencent Holdings Ltd",
+      "percent": "0.04"
+    },
+    {
+      "ticker": "045054AJ2",
+      "name": "Ashtead Capital Inc",
+      "percent": "0.04"
+    },
+    {
+      "ticker": "46647PAW6",
+      "name": "JPMorgan Chase & Co",
+      "percent": "0.04"
+    },
+    {
+      "ticker": "88032WAV8",
+      "name": "Tencent Holdings Ltd",
+      "percent": "0.04"
+    },
+    {
+      "ticker": "133131AZ5",
+      "name": "Camden Property Trust",
+      "percent": "0.04"
+    },
+    {
+      "ticker": "88032WAT3",
+      "name": "Tencent Holdings Ltd",
+      "percent": "0.04"
+    },
+    {
+      "ticker": "57701RAM4",
+      "name": "Mattamy Group Corp",
+      "percent": "0.04"
+    },
+    {
+      "ticker": "95000U2N2",
+      "name": "Wells Fargo & Co",
+      "percent": "0.04"
+    },
+    {
+      "ticker": "78081BAB9",
+      "name": "Royalty Pharma PLC",
+      "percent": "0.04"
+    },
+    {
+      "ticker": "224044CL9",
+      "name": "Cox Communications Inc",
+      "percent": "0.04"
+    },
+    {
+      "ticker": "1248EPCK7",
+      "name": "CCO Holdings LLC / CCO Holdings Capital Corp",
+      "percent": "0.04"
+    },
+    {
+      "ticker": "27409LAA1",
+      "name": "East Ohio Gas Co/The",
+      "percent": "0.04"
+    },
+    {
+      "ticker": "17322VAW6",
+      "name": "Citigroup Commercial Mortgage Trust 2014-GC23",
+      "percent": "0.04"
+    },
+    {
+      "ticker": "09681LAH3",
+      "name": "BOC Aviation Ltd",
+      "percent": "0.04"
+    },
+    {
+      "ticker": "032654AS4",
+      "name": "Analog Devices Inc",
+      "percent": "0.04"
+    },
+    {
+      "ticker": "24703DBB6",
+      "name": "Dell International LLC / EMC Corp",
+      "percent": "0.04"
+    },
+    {
+      "ticker": "36179UV90",
+      "name": "Ginnie Mae II Pool",
+      "percent": "0.04"
+    },
+    {
+      "ticker": "53227JAC8",
+      "name": "Life Storage LP",
+      "percent": "0.04"
+    },
+    {
+      "ticker": "22822VAQ4",
+      "name": "Crown Castle International Corp",
+      "percent": "0.04"
+    },
+    {
+      "ticker": "44329HAJ3",
+      "name": "HP Communities LLC",
+      "percent": "0.04"
+    },
+    {
+      "ticker": "78081BAC7",
+      "name": "Royalty Pharma PLC",
+      "percent": "0.04"
+    },
+    {
+      "ticker": "21036PBG2",
+      "name": "Constellation Brands Inc",
+      "percent": "0.04"
+    },
+    {
+      "ticker": "59523UAS6",
+      "name": "Mid-America Apartments LP",
+      "percent": "0.04"
+    },
+    {
+      "ticker": "055451AX6",
+      "name": "BHP Billiton Finance USA Ltd",
+      "percent": "0.04"
+    },
+    {
+      "ticker": "615369AT2",
+      "name": "Moody's Corp",
+      "percent": "0.04"
+    },
+    {
+      "ticker": "78409VAR5",
+      "name": "S&P Global Inc",
+      "percent": "0.04"
+    },
+    {
+      "ticker": "880591DZ2",
+      "name": "Tennessee Valley Authority",
+      "percent": "0.04"
+    },
+    {
+      "ticker": "35137LAL9",
+      "name": "Fox Corp",
+      "percent": "0.04"
+    },
+    {
+      "ticker": "65339KBQ2",
+      "name": "NextEra Energy Capital Holdings Inc",
+      "percent": "0.04"
+    },
+    {
+      "ticker": "008513AA1",
+      "name": "Agree LP",
+      "percent": "0.04"
+    },
+    {
+      "ticker": "115236AC5",
+      "name": "Brown & Brown Inc",
+      "percent": "0.04"
+    },
+    {
+      "ticker": "828807CV7",
+      "name": "Simon Property Group LP",
+      "percent": "0.04"
+    },
+    {
+      "ticker": "44106MAV4",
+      "name": "Service Properties Trust",
+      "percent": "0.04"
+    },
+    {
+      "ticker": "20753MAF5",
+      "name": "Connecticut Avenue Securities Trust 2019-R03",
+      "percent": "0.03"
+    },
+    {
+      "ticker": "615369AU9",
+      "name": "Moody's Corp",
+      "percent": "0.03"
+    },
+    {
+      "ticker": "3137BFXU0",
+      "name": "Freddie Mac Multifamily Structured Pass Through Certificates",
+      "percent": "0.03"
+    },
+    {
+      "ticker": "3137B8G50",
+      "name": "Freddie Mac Multifamily Structured Pass Through Certificates",
+      "percent": "0.03"
+    },
+    {
+      "ticker": "04015CAA6",
+      "name": "Ares Finance Co LLC",
+      "percent": "0.03"
+    },
+    {
+      "ticker": "87342RAC8",
+      "name": "Taco Bell Funding LLC",
+      "percent": "0.03"
+    },
+    {
+      "ticker": "26253KAC8",
+      "name": "DT Auto Owner Trust 2019-3",
+      "percent": "0.03"
+    },
+    {
+      "ticker": "90351DAE7",
+      "name": "UBS Group AG",
+      "percent": "0.03"
+    },
+    {
+      "ticker": "70450YAE3",
+      "name": "PayPal Holdings Inc",
+      "percent": "0.03"
+    },
+    {
+      "ticker": "02079KAE7",
+      "name": "Alphabet Inc",
+      "percent": "0.03"
+    },
+    {
+      "ticker": "76119NAA5",
+      "name": "Residential Mortgage Loan Trust 2019-3",
+      "percent": "0.03"
+    },
+    {
+      "ticker": "015271AS8",
+      "name": "Alexandria Real Estate Equities Inc",
+      "percent": "0.03"
+    },
+    {
+      "ticker": "347508AB9",
+      "name": "Fort Knox Military Housing Privatization Project",
+      "percent": "0.03"
+    },
+    {
+      "ticker": "44329HAK0",
+      "name": "HP Communities LLC",
+      "percent": "0.03"
+    },
+    {
+      "ticker": "3134A3ZU3",
+      "name": "Federal Home Loan Mortgage Corp",
+      "percent": "0.03"
+    },
+    {
+      "ticker": "ZS2929843",
+      "name": "Netflix Inc",
+      "percent": "0.03"
+    },
+    {
+      "ticker": "3137BBBE9",
+      "name": "Freddie Mac Multifamily Structured Pass Through Certificates",
+      "percent": "0.03"
+    },
+    {
+      "ticker": "95040QAJ3",
+      "name": "Welltower Inc",
+      "percent": "0.03"
+    },
+    {
+      "ticker": "42806DCH0",
+      "name": "Hertz Vehicle Financing II LP",
+      "percent": "0.03"
+    },
+    {
+      "ticker": "048677AB4",
+      "name": "Atlantic Marine Corps Communities LLC",
+      "percent": "0.02"
+    },
+    {
+      "ticker": "3137B7N21",
+      "name": "Freddie Mac Multifamily Structured Pass Through Certificates",
+      "percent": "0.02"
+    },
+    {
+      "ticker": "30711XY24",
+      "name": "Fannie Mae Connecticut Avenue Securities",
+      "percent": "0.02"
+    },
+    {
+      "ticker": "27409LAE3",
+      "name": "East Ohio Gas Co/The",
+      "percent": "0.02"
+    },
+    {
+      "ticker": "00206RGD8",
+      "name": "AT&T Inc",
+      "percent": "0.02"
+    },
+    {
+      "ticker": "172967KL4",
+      "name": "Citigroup Inc",
+      "percent": "0.02"
+    },
+    {
+      "ticker": "20030NCN9",
+      "name": "Comcast Corp",
+      "percent": "0.02"
+    },
+    {
+      "ticker": "30040WAJ7",
+      "name": "Eversource Energy",
+      "percent": "0.02"
+    },
+    {
+      "ticker": "95000CBE2",
+      "name": "Wells Fargo Commercial Mortgage Trust 2016-NXS5",
+      "percent": "0.02"
+    },
+    {
+      "ticker": "69403WAA5",
+      "name": "Pacific Beacon LLC",
+      "percent": "0.02"
+    },
+    {
+      "ticker": "70014LAA8",
+      "name": "Park Aerospace Holdings Ltd",
+      "percent": "0.02"
+    },
+    {
+      "ticker": "20030NCL3",
+      "name": "Comcast Corp",
+      "percent": "0.02"
+    },
+    {
+      "ticker": "015271AR0",
+      "name": "Alexandria Real Estate Equities Inc",
+      "percent": "0.02"
+    },
+    {
+      "ticker": "05369AAD3",
+      "name": "Aviation Capital Group LLC",
+      "percent": "0.02"
+    },
+    {
+      "ticker": "91282CAP6",
+      "name": "United States Treasury Note/Bond",
+      "percent": "0.02"
+    },
+    {
+      "ticker": "64110LAU0",
+      "name": "Netflix Inc",
+      "percent": "0.02"
+    },
+    {
+      "ticker": "3137B1BT8",
+      "name": "Freddie Mac Multifamily Structured Pass Through Certificates",
+      "percent": "0.02"
+    },
+    {
+      "ticker": "225310AM3",
+      "name": "Credit Acceptance Corp",
+      "percent": "0.02"
+    },
+    {
+      "ticker": "24703DAZ4",
+      "name": "Dell International LLC / EMC Corp",
+      "percent": "0.02"
+    },
+    {
+      "ticker": "74340XBN0",
+      "name": "Prologis LP",
+      "percent": "0.02"
+    },
+    {
+      "ticker": "3137B5KX0",
+      "name": "Freddie Mac Multifamily Structured Pass Through Certificates",
+      "percent": "0.02"
+    },
+    {
+      "ticker": "84861TAD0",
+      "name": "Spirit Realty LP",
+      "percent": "0.02"
+    },
+    {
+      "ticker": "05369AAE1",
+      "name": "Aviation Capital Group LLC",
+      "percent": "0.01"
+    },
+    {
+      "ticker": "29278NAE3",
+      "name": "Energy Transfer Operating LP",
+      "percent": "0.01"
+    },
+    {
+      "ticker": "29278NAD5",
+      "name": "Energy Transfer Operating LP",
+      "percent": "0.01"
+    },
+    {
+      "ticker": "30291JAQ6",
+      "name": "FREMF 2013-K29 Mortgage Trust",
+      "percent": "0.01"
+    },
+    {
+      "ticker": "595112BM4",
+      "name": "Micron Technology Inc",
+      "percent": "0.01"
+    },
+    {
+      "ticker": "20030NCS8",
+      "name": "Comcast Corp",
+      "percent": "0.01"
+    },
+    {
+      "ticker": "-Canadian",
+      "name": "Cash/Receivables/Payables",
+      "percent": "0.01"
+    },
+    {
+      "ticker": "46651NAA2",
+      "name": "JOL Air Ltd",
+      "percent": "0.00"
+    },
+    {
+      "ticker": "55446MAB3",
+      "name": "MACH 1 Cayman 2019-1 Ltd",
+      "percent": "0.00"
+    },
+    {
+      "ticker": "30711XEC4",
+      "name": "Fannie Mae Connecticut Avenue Securities",
+      "percent": "0.00"
+    },
+    {
+      "ticker": "WNZ0",
+      "name": "CME Ultra Long Term US Treasury Bond Future",
+      "percent": "-4.22"
+    },
+    {
+      "ticker": "UXYZ0",
+      "name": "Ultra 10-Year US Treasury Note Futures",
+      "percent": "-17.80"
+    }
+  ]
+}

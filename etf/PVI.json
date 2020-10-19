@@ -1,0 +1,175 @@
+{
+  "Products": "VRDO Tax-Free Weekly ETF",
+  "Ticker": "PVI",
+  "Inception": "11/15/2007",
+  "Gross Exp. Ratio": "0.25%",
+  "YTD": "0.32",
+  "1Yr": "0.57",
+  "3Yr": "0.93",
+  "5Yr": "0.66",
+  "10Yr": "0.39",
+  "Since Incept.": "0.70",
+  "Category": "Income",
+  "SubCategory": "Core Plus",
+  "ticker": "PVI",
+  "name": "VRDO Tax-Free Weekly ETF",
+  "issuer": "Invesco",
+  "website": "https://www.invesco.com/us/financial-products/etfs/product-detail?audienceType=Investor&ticker=PVI",
+  "holdingDataSource": {
+    "url": "https://www.invesco.com/us/financial-products/etfs/holdings/main/holdings/0?audienceType=Investor&action=download&ticker=PVI",
+    "fileExt": "csv",
+    "transform": "invesco"
+  },
+  "holdings": [
+    {
+      "ticker": "3531867L7",
+      "name": "County of Franklin OH",
+      "percent": "5.01"
+    },
+    {
+      "ticker": "12008EJF4",
+      "name": "Build NYC Resource Corp",
+      "percent": "5.01"
+    },
+    {
+      "ticker": "18085PKE3",
+      "name": "County of Clark Department of Aviation",
+      "percent": "5.01"
+    },
+    {
+      "ticker": "45528TAF1",
+      "name": "City of Indianapolis IN",
+      "percent": "5.01"
+    },
+    {
+      "ticker": "040507GM1",
+      "name": "Arizona Health Facilities Authority",
+      "percent": "5.01"
+    },
+    {
+      "ticker": "57586EHT1",
+      "name": "Massachusetts Health & Educational Facilities Authority",
+      "percent": "5.01"
+    },
+    {
+      "ticker": "4423484B1",
+      "name": "City of Houston TX Airport System Revenue",
+      "percent": "5.01"
+    },
+    {
+      "ticker": "60635R2G1",
+      "name": "Health & Educational Facilities Authority of the State of Mi",
+      "percent": "4.81"
+    },
+    {
+      "ticker": "196632BH5",
+      "name": "City of Colorado Springs CO Utilities System Revenue",
+      "percent": "4.61"
+    },
+    {
+      "ticker": "914440HE5",
+      "name": "University of Massachusetts Building Authority",
+      "percent": "4.61"
+    },
+    {
+      "ticker": "940157ZE3",
+      "name": "Washington Suburban Sanitary Commission",
+      "percent": "4.41"
+    },
+    {
+      "ticker": "546510FH6",
+      "name": "Louisiana Offshore Terminal Authority",
+      "percent": "4.01"
+    },
+    {
+      "ticker": "84129NMJ5",
+      "name": "General Authority of Southcentral Pennsylvania",
+      "percent": "4.01"
+    },
+    {
+      "ticker": "939781VM9",
+      "name": "Washington Higher Education Facilities Authority",
+      "percent": "3.81"
+    },
+    {
+      "ticker": "07133AJB9",
+      "name": "Battery Park City Authority",
+      "percent": "3.61"
+    },
+    {
+      "ticker": "631663KG5",
+      "name": "Nassau County Interim Finance Authority",
+      "percent": "3.21"
+    },
+    {
+      "ticker": "544525DA3",
+      "name": "Los Angeles Department of Water",
+      "percent": "3.01"
+    },
+    {
+      "ticker": "594615AW6",
+      "name": "Michigan State Building Authority",
+      "percent": "3.01"
+    },
+    {
+      "ticker": "797400FH6",
+      "name": "San Diego County Regional Transportation Commission",
+      "percent": "3.01"
+    },
+    {
+      "ticker": "955121LY2",
+      "name": "City of West Palm Beach FL Utility System Revenue",
+      "percent": "3.01"
+    },
+    {
+      "ticker": "340765HC3",
+      "name": "Florida Keys Aqueduct Authority",
+      "percent": "3.01"
+    },
+    {
+      "ticker": "650035KP2",
+      "name": "New York State Urban Development Corp",
+      "percent": "2.81"
+    },
+    {
+      "ticker": "-CASH-",
+      "name": "Cash/Receivables/Payables",
+      "percent": "2.49"
+    },
+    {
+      "ticker": "818200UY1",
+      "name": "Public Building Authority of Sevier County TN/The",
+      "percent": "2.34"
+    },
+    {
+      "ticker": "072024UN0",
+      "name": "Bay Area Toll Authority",
+      "percent": "2.01"
+    },
+    {
+      "ticker": "915137T86",
+      "name": "Board of Regents of the University of Texas System",
+      "percent": "1.40"
+    },
+    {
+      "ticker": "485106CQ9",
+      "name": "City of Kansas City MO",
+      "percent": "0.60"
+    },
+    {
+      "ticker": "546398C30",
+      "name": "Louisiana Public Facilities Authority",
+      "percent": "0.60"
+    },
+    {
+      "ticker": "040507LA1",
+      "name": "Arizona Health Facilities Authority",
+      "percent": "0.30"
+    },
+    {
+      "ticker": "161045FL8",
+      "name": "City of Charlotte NC Water & Sewer System Revenue",
+      "percent": "0.20"
+    }
+  ]
+}

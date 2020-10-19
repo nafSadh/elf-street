@@ -1,0 +1,120 @@
+{
+  "Products": "DB Commodity Index Tracking Fund",
+  "Ticker": "DBC",
+  "Inception": "02/03/2006",
+  "Gross Exp. Ratio": "0.88%",
+  "YTD": "-17.88",
+  "1Yr": "-11.39",
+  "3Yr": "-4.33",
+  "5Yr": "-2.28",
+  "10Yr": "-5.65",
+  "Since Incept.": "-3.46",
+  "Category": "Alternatives",
+  "SubCategory": "Commodities",
+  "ticker": "DBC",
+  "name": "DB Commodity Index Tracking Fund",
+  "issuer": "Invesco",
+  "website": "https://www.invesco.com/us/financial-products/etfs/product-detail?audienceType=Investor&ticker=DBC",
+  "holdingDataSource": {
+    "url": "https://www.invesco.com/us/financial-products/etfs/holdings/main/holdings/0?audienceType=Investor&action=download&ticker=DBC",
+    "fileExt": "csv",
+    "transform": "invesco"
+  },
+  "holdings": [
+    {
+      "ticker": "825252885",
+      "name": "STIT - Government & Agency Portfolio",
+      "percent": "45.259"
+    },
+    {
+      "ticker": "46138G888",
+      "name": "Invesco Treasury Collateral ETF",
+      "percent": "17.262"
+    },
+    {
+      "ticker": "9127963K3",
+      "name": "United States Treasury Bill",
+      "percent": "15.247"
+    },
+    {
+      "ticker": "912796XE4",
+      "name": "United States Treasury Bill",
+      "percent": "15.244"
+    },
+    {
+      "ticker": "GCG1",
+      "name": "COMEX Gold 100 Troy Ounces Future",
+      "percent": "11.766"
+    },
+    {
+      "ticker": "XBZ0",
+      "name": "NYMEX Reformulated Gasoline Blendstock for Oxygen Blending R",
+      "percent": "10.754"
+    },
+    {
+      "ticker": "CLH1",
+      "name": "NYMEX Light Sweet Crude Oil Future",
+      "percent": "10.463"
+    },
+    {
+      "ticker": "COF1",
+      "name": "ICE Brent Crude Oil Future",
+      "percent": "10.174"
+    },
+    {
+      "ticker": "HOM1",
+      "name": "NYMEX NY Harbor ULSD Futures",
+      "percent": "7.262"
+    },
+    {
+      "ticker": "W N1",
+      "name": "CBOT Wheat Future",
+      "percent": "7.116"
+    },
+    {
+      "ticker": "S X1",
+      "name": "CBOT Soybean Future",
+      "percent": "6.968"
+    },
+    {
+      "ticker": "SBV1",
+      "name": "NYBOT CSC Number 11 World Sugar Future",
+      "percent": "6.331"
+    },
+    {
+      "ticker": "LPK21",
+      "name": "LME Copper Future",
+      "percent": "5.677"
+    },
+    {
+      "ticker": "C U1",
+      "name": "CBOT Corn Future",
+      "percent": "5.654"
+    },
+    {
+      "ticker": "NGK21",
+      "name": "NYMEX Henry Hub Natural Gas Futures",
+      "percent": "5.498"
+    },
+    {
+      "ticker": "LAK21",
+      "name": "LME Primary Aluminum Future",
+      "percent": "5.037"
+    },
+    {
+      "ticker": "LXQ1",
+      "name": "LME Zinc Future",
+      "percent": "4.892"
+    },
+    {
+      "ticker": "9127962Z1",
+      "name": "United States Treasury Bill",
+      "percent": "4.765"
+    },
+    {
+      "ticker": "SIK1",
+      "name": "COMEX Silver Future",
+      "percent": "3.293"
+    }
+  ]
+}

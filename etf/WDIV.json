@@ -1,0 +1,549 @@
+{
+  "ticker": "WDIV",
+  "name": "SPDR® S&P® Global Dividend ETF",
+  "ISIN": "US78463X4593",
+  "CUSIP": "78463X459",
+  "Inception Date": "May 29 2013",
+  "Gross Expense Ratio": "0.40%",
+  "* Net Expense Ratio": "-",
+  "Asset Class": "Equity",
+  "Distribution Frequency": "Quarterly",
+  "Primary Exchange": "NYSE ARCA EXCHANGE",
+  "Primary Index": "S&P Global Dividend Aristocrats Index",
+  "Primary Index Ticker": "SPGDAAN",
+  "issuer": "SSGA",
+  "website": "https://www.ssga.com/us/en/individual/etfs/funds/spdr-sp-global-dividend-etf-wdiv",
+  "holdingDataSource": {
+    "fileUrl": "https://www.ssga.com/us/en/individual/etfs/library-content/products/fund-data/etfs/us/holdings-daily-us-en-wdiv.xlsx",
+    "fileExt": "xlsx",
+    "transform": "spdr"
+  },
+  "holdings": [
+    {
+      "ticker": "FNTN-DE",
+      "name": "freenet AG",
+      "percent": "2.466579"
+    },
+    {
+      "ticker": "NPI-CA",
+      "name": "Northland Power Inc.",
+      "percent": "2.211004"
+    },
+    {
+      "ticker": "TYRES-FI",
+      "name": "Nokian Renkaat Oyj",
+      "percent": "2.127076"
+    },
+    {
+      "ticker": "2914-JP",
+      "name": "Japan Tobacco Inc.",
+      "percent": "2.102442"
+    },
+    {
+      "ticker": "ENG-ES",
+      "name": "Enagas SA",
+      "percent": "1.996271"
+    },
+    {
+      "ticker": "IGG-GB",
+      "name": "IG Group Holdings plc",
+      "percent": "1.932513"
+    },
+    {
+      "ticker": "JHG",
+      "name": "Janus Henderson Group PLC",
+      "percent": "1.876893"
+    },
+    {
+      "ticker": "EDP-PT",
+      "name": "EDP-Energias de Portugal SA",
+      "percent": "1.839431"
+    },
+    {
+      "ticker": "REE-ES",
+      "name": "Red Electrica Corp. SA",
+      "percent": "1.766221"
+    },
+    {
+      "ticker": "BCE-CA",
+      "name": "BCE Inc.",
+      "percent": "1.723432"
+    },
+    {
+      "ticker": "CMP",
+      "name": "Compass Minerals International Inc.",
+      "percent": "1.690467"
+    },
+    {
+      "ticker": "992-HK",
+      "name": "Lenovo Group Limited",
+      "percent": "1.662920"
+    },
+    {
+      "ticker": "14-HK",
+      "name": "Hysan Development Co. Ltd.",
+      "percent": "1.650754"
+    },
+    {
+      "ticker": "PM",
+      "name": "Philip Morris International Inc.",
+      "percent": "1.639552"
+    },
+    {
+      "ticker": "83-HK",
+      "name": "Sino Land Co. Ltd.",
+      "percent": "1.625868"
+    },
+    {
+      "ticker": "UVV",
+      "name": "Universal Corp",
+      "percent": "1.553282"
+    },
+    {
+      "ticker": "17-HK",
+      "name": "New World Development Co. Ltd.",
+      "percent": "1.529270"
+    },
+    {
+      "ticker": "APA-AU",
+      "name": "APA Group",
+      "percent": "1.519535"
+    },
+    {
+      "ticker": "T-CA",
+      "name": "TELUS Corporation",
+      "percent": "1.508576"
+    },
+    {
+      "ticker": "017670-KR",
+      "name": "SK Telecom Co. Ltd.",
+      "percent": "1.494471"
+    },
+    {
+      "ticker": "SCMN-CH",
+      "name": "Swisscom AG",
+      "percent": "1.482974"
+    },
+    {
+      "ticker": "UPM-FI",
+      "name": "UPM-Kymmene Oyj",
+      "percent": "1.465810"
+    },
+    {
+      "ticker": "IBM",
+      "name": "International Business Machines Corporation",
+      "percent": "1.430140"
+    },
+    {
+      "ticker": "EMA-CA",
+      "name": "Emera Incorporated",
+      "percent": "1.418531"
+    },
+    {
+      "ticker": "AGL-AU",
+      "name": "AGL Energy Limited",
+      "percent": "1.417111"
+    },
+    {
+      "ticker": "FORTUM-FI",
+      "name": "Fortum Oyj",
+      "percent": "1.394119"
+    },
+    {
+      "ticker": "BEN-AU",
+      "name": "Bendigo & Adelaide Bank Ltd.",
+      "percent": "1.384917"
+    },
+    {
+      "ticker": "LTC",
+      "name": "LTC Properties Inc.",
+      "percent": "1.384421"
+    },
+    {
+      "ticker": "4188-JP",
+      "name": "Mitsubishi Chemical Holdings Corporation",
+      "percent": "1.379610"
+    },
+    {
+      "ticker": "CM-CA",
+      "name": "Canadian Imperial Bank of Commerce",
+      "percent": "1.379270"
+    },
+    {
+      "ticker": "SRU.UT-CA",
+      "name": "SmartCentres Real Estate Investment Trust",
+      "percent": "1.378535"
+    },
+    {
+      "ticker": "1044-HK",
+      "name": "Hengan International Group Co. Ltd.",
+      "percent": "1.368145"
+    },
+    {
+      "ticker": "T",
+      "name": "AT&T Inc.",
+      "percent": "1.363079"
+    },
+    {
+      "ticker": "SHB.A-SE",
+      "name": "Svenska Handelsbanken AB Class A",
+      "percent": "1.345876"
+    },
+    {
+      "ticker": "1997-HK",
+      "name": "Wharf Real Estate Investment Co. Ltd.",
+      "percent": "1.335963"
+    },
+    {
+      "ticker": "NHI",
+      "name": "National Health Investors Inc.",
+      "percent": "1.331394"
+    },
+    {
+      "ticker": "033780-KR",
+      "name": "KT & G Corporation",
+      "percent": "1.311806"
+    },
+    {
+      "ticker": "SJR.B-CA",
+      "name": "Shaw Communications Inc. Class B",
+      "percent": "1.311449"
+    },
+    {
+      "ticker": "PPL",
+      "name": "PPL Corporation",
+      "percent": "1.303335"
+    },
+    {
+      "ticker": "MCY",
+      "name": "Mercury General Corporation",
+      "percent": "1.295155"
+    },
+    {
+      "ticker": "EN-FR",
+      "name": "Bouygues SA",
+      "percent": "1.282295"
+    },
+    {
+      "ticker": "CU-CA",
+      "name": "Canadian Utilities Limited Class A",
+      "percent": "1.274581"
+    },
+    {
+      "ticker": "6-HK",
+      "name": "Power Assets Holdings Limited",
+      "percent": "1.270487"
+    },
+    {
+      "ticker": "FP-FR",
+      "name": "Total SE",
+      "percent": "1.262073"
+    },
+    {
+      "ticker": "JM-SE",
+      "name": "JM AB",
+      "percent": "1.231739"
+    },
+    {
+      "ticker": "CBA-AU",
+      "name": "Commonwealth Bank of Australia",
+      "percent": "1.222975"
+    },
+    {
+      "ticker": "Z74-SG",
+      "name": "Singapore Telecommunications Limited",
+      "percent": "1.219273"
+    },
+    {
+      "ticker": "TRP-CA",
+      "name": "TC Energy Corporation",
+      "percent": "1.202268"
+    },
+    {
+      "ticker": "GSK-GB",
+      "name": "GlaxoSmithKline plc",
+      "percent": "1.199459"
+    },
+    {
+      "ticker": "KEY-CA",
+      "name": "Keyera Corp.",
+      "percent": "1.186085"
+    },
+    {
+      "ticker": "1878-JP",
+      "name": "Daito Trust Construction Co. Ltd.",
+      "percent": "1.174721"
+    },
+    {
+      "ticker": "BDN",
+      "name": "Brandywine Realty Trust",
+      "percent": "1.133458"
+    },
+    {
+      "ticker": "GWO-CA",
+      "name": "Great-West Lifeco Inc.",
+      "percent": "1.127837"
+    },
+    {
+      "ticker": "POW-CA",
+      "name": "Power Corporation of Canada",
+      "percent": "1.091169"
+    },
+    {
+      "ticker": "7751-JP",
+      "name": "Canon Inc.",
+      "percent": "1.087347"
+    },
+    {
+      "ticker": "BNS-CA",
+      "name": "Bank of Nova Scotia",
+      "percent": "1.084551"
+    },
+    {
+      "ticker": "8725-JP",
+      "name": "MS&AD Insurance Group Holdings Inc.",
+      "percent": "1.059141"
+    },
+    {
+      "ticker": "1038-HK",
+      "name": "CK Infrastructure Holdings Limited",
+      "percent": "1.057158"
+    },
+    {
+      "ticker": "ZURN-CH",
+      "name": "Zurich Insurance Group Ltd",
+      "percent": "1.047922"
+    },
+    {
+      "ticker": "REI.UT-CA",
+      "name": "RioCan Real Estate Investment Trust",
+      "percent": "1.021868"
+    },
+    {
+      "ticker": "PPL-CA",
+      "name": "Pembina Pipeline Corporation",
+      "percent": "1.010631"
+    },
+    {
+      "ticker": "8591-JP",
+      "name": "ORIX Corporation",
+      "percent": "0.996215"
+    },
+    {
+      "ticker": "LI-FR",
+      "name": "Klepierre SA",
+      "percent": "0.979009"
+    },
+    {
+      "ticker": "O39-SG",
+      "name": "Oversea-Chinese Banking Corporation Limited",
+      "percent": "0.971815"
+    },
+    {
+      "ticker": "RWT",
+      "name": "Redwood Trust Inc.",
+      "percent": "0.958906"
+    },
+    {
+      "ticker": "XOM",
+      "name": "Exxon Mobil Corporation",
+      "percent": "0.957376"
+    },
+    {
+      "ticker": "8306-JP",
+      "name": "Mitsubishi UFJ Financial Group Inc.",
+      "percent": "0.944745"
+    },
+    {
+      "ticker": "LGEN-GB",
+      "name": "Legal & General Group Plc",
+      "percent": "0.921364"
+    },
+    {
+      "ticker": "BMO-CA",
+      "name": "Bank of Montreal",
+      "percent": "0.917946"
+    },
+    {
+      "ticker": "UMPQ",
+      "name": "Umpqua Holdings Corporation",
+      "percent": "0.906204"
+    },
+    {
+      "ticker": "CNP-FR",
+      "name": "CNP Assurances SA",
+      "percent": "0.877053"
+    },
+    {
+      "ticker": "TCAP.R-TH",
+      "name": "Thanachart Capital Public Co. Ltd. NVDR",
+      "percent": "0.857609"
+    },
+    {
+      "ticker": "AGS-BE",
+      "name": "ageas SA/NV",
+      "percent": "0.786367"
+    },
+    {
+      "ticker": "FSR-ZA",
+      "name": "FirstRand Limited",
+      "percent": "0.657556"
+    },
+    {
+      "ticker": "N91-GB",
+      "name": "Ninety One Plc",
+      "percent": "0.326218"
+    },
+    {
+      "ticker": "CASH_THB",
+      "name": "Thailand Baht",
+      "percent": "0.108604"
+    },
+    {
+      "ticker": "CASH_CAD",
+      "name": "Canadian Dollar",
+      "percent": "0.078695"
+    },
+    {
+      "ticker": "CASH_HKD",
+      "name": "Hong Kong Dollar",
+      "percent": "0.027889"
+    },
+    {
+      "ticker": "CASH_EUR",
+      "name": "Euro",
+      "percent": "0.022035"
+    },
+    {
+      "ticker": "CASH_SEK",
+      "name": "Swedish Krona",
+      "percent": "0.012412"
+    },
+    {
+      "ticker": "CASH_GBP",
+      "name": "British Pounds",
+      "percent": "0.011713"
+    },
+    {
+      "ticker": "CASH_AUD",
+      "name": "Australian Dollar",
+      "percent": "0.011232"
+    },
+    {
+      "ticker": "CASH_SGD",
+      "name": "Singapore Dollar",
+      "percent": "0.010397"
+    },
+    {
+      "ticker": "CASH_CHF",
+      "name": "Swiss Franc",
+      "percent": "0.009009"
+    },
+    {
+      "ticker": "CASH_IDR",
+      "name": "Indonesian Rupiah",
+      "percent": "0.008384"
+    },
+    {
+      "ticker": "CASH_JPY",
+      "name": "Japanese Yen",
+      "percent": "0.007541"
+    },
+    {
+      "ticker": "CASH_NOK",
+      "name": "Norwegian Krone",
+      "percent": "0.005412"
+    },
+    {
+      "ticker": "CASH_DKK",
+      "name": "Danish Krone",
+      "percent": "0.004166"
+    },
+    {
+      "ticker": "CASH_TWD",
+      "name": "Taiwan Dollar",
+      "percent": "0.003798"
+    },
+    {
+      "ticker": "CASH_ZAR",
+      "name": "South African Rand",
+      "percent": "0.003157"
+    },
+    {
+      "ticker": "CASH_MXN",
+      "name": "Mexican Peso",
+      "percent": "0.002157"
+    },
+    {
+      "ticker": "CASH_BRL",
+      "name": "Brazilian Real",
+      "percent": "0.001730"
+    },
+    {
+      "ticker": "CASH_MYR",
+      "name": "Malaysian Ringgit",
+      "percent": "0.001612"
+    },
+    {
+      "ticker": "70286227",
+      "name": "STATE STREET INSTITUTIONAL LIQ STATE STR",
+      "percent": "0.000210"
+    },
+    {
+      "ticker": "CASH_USD",
+      "name": "U.S. Dollar",
+      "percent": "-0.033767"
+    },
+    {
+      "name": "Performance quoted represents past performance, which is no guarantee of future results. Investment return and principal value will fluctuate, so you may have a gain or loss when shares are sold. Current performance may be higher or lower than that quoted. Visit www.ssga.com for most recent month-end performance."
+    },
+    {
+      "name": "This analysis or any portion thereof may not be revised or changed in any way, reprinted, sold or redistributed without the written consent of SSGA."
+    },
+    {
+      "name": "Portfolio holdings, allocations and weightings are as of the date indicated, are subject to change and should not be considered a recommendation to buy individual securities. For most recent information visit www.ssga.com."
+    },
+    {
+      "name": "Important Risk Information  "
+    },
+    {
+      "name": "Investing involves risk, and you could lose money on an investment in each of SPDR® Gold Shares Trust (“GLD®”) and SPDR® Gold MiniSharesSM Trust  (“GLDMSM”), a series of the World Gold Trust (together, the “Funds”). \n\nETFs trade like stocks, are subject to investment risk, fluctuate in market value and may trade at prices above or below the ETFs’ net asset value. Brokerage commissions and ETF expenses will reduce returns.\n\nCommodities and commodity-index linked securities may be affected by changes in overall market movements, changes in interest rates, and other factors such as weather, disease, embargoes, or political and regulatory developments, as well as trading activity of speculators and arbitrageurs in the underlying commodities.\n\nFrequent trading of ETFs could significantly increase commissions and other costs such that they may offset any savings from low fees or costs.\n\nDiversification does not ensure a profit or guarantee against loss."
+    },
+    {
+      "name": "Investing in commodities entails significant risk and is not appropriate for all investors."
+    },
+    {
+      "name": "Important Information Relating to SPDR® Gold Trust (“GLD®”) and SPDR® Gold MiniSharesSM Trust (“GLDMSM”):"
+    },
+    {
+      "name": "The SPDR Gold Trust (“GLD”) has filed a registration statement (including a prospectus) with the Securities and Exchange Commission (“SEC”) for GLD. The World Gold Trust has filed a registration statement (including a prospectus) with the SEC for GLDM. Before you invest, you should read the prospectus in the registration statement and other documents each Fund has filed with the SEC for more complete information about each Fund and these offerings. Please see each Fund’s prospectus for a detailed discussion of the risks of investing in each Fund’s shares."
+    },
+    {
+      "name": "The GLD prospectus is available by clicking"
+    },
+    {
+      "name": "The GLDM prospectus is available by clicking "
+    },
+    {
+      "name": "You may get these documents for free by visiting EDGAR on the SEC website at sec.gov or by visiting spdrgoldshares.com. Alternatively, the Funds or any authorized participant will arrange to send you the prospectus if you request it by calling 866.320.4053."
+    },
+    {
+      "name": "None of the Funds is an investment company registered under the Investment Company Act of 1940 (the “1940 Act”). As a result, shareholders of each Fund do not have the protections associated with ownership of shares in an investment company registered under the 1940 Act. GLD and GLDM are not subject to regulation under the CEA. As a result, shareholders of each of GLD and GLDM do not have the protections afforded by the CEA. \n\nShares of each Fund trade like stocks, are subject to investment risk and will fluctuate in market value. \n\nThe values of GLD shares and GLDM shares relate directly to the value of the gold held by each Fund (less its expenses), respectively. Fluctuations in the price of gold could materially and adversely affect an investment in the shares. The price received upon the sale of the shares, which trade at market price, may be more or less than the value of the gold represented by them.  \n\nNone of the Funds generate any income, and as each Fund regularly sells gold to pay for its ongoing expenses, the amount of gold represented by each Fund share will decline over time to that extent.\n\nThe World Gold Council name and logo are a registered trademark and used with the permission of the World Gold Council pursuant to a license agreement. The World Gold Council is not responsible for the content of, and is not liable for the use of or reliance on, this material. World Gold Council is an affiliate of the Sponsor of each of GLD and GLDM.\n\nMiniSharesSM and GLDMSM are service marks of WGC USA Asset Management Company, LLC used with the permission of WGC USA Asset Management Company, LLC.\n\nGLD® is a registered trademark of World Gold Trust Services, LLC used with the permission of World Gold Trust Services, LLC."
+    },
+    {
+      "name": "For more information, please contact the Marketing Agent for GLD and GLDM: State Street Global Advisors Funds Distributors, LLC, One Iron Street, Boston, MA, 02210; T: +1 866 320 4053 spdrgoldshares.com"
+    },
+    {
+      "name": "Standard & Poor’s®, S&P® and SPDR® are registered trademarks of Standard & Poor’s Financial Services LLC (S&P); Dow Jones is a registered trademark of Dow Jones Trademark Holdings LLC (Dow Jones); and these trademarks have been licensed for use by S&P Dow Jones Indices LLC (SPDJI) and sublicensed for certain purposes by State Street Corporation. State Street Corporation’s financial products are not sponsored, endorsed, sold or promoted by SPDJI, Dow Jones, S&P, their respective affiliates and third party licensors and none of such parties make any representation regarding the advisability of investing in such product(s) nor do they have any liability in relation thereto, including for any errors, omissions, or interruptions of any index."
+    },
+    {
+      "name": "Bonds generally present less short-term risk and volatility than stocks, but contain interest rate risk (as interest rates raise, bond prices usually fall); issuer default risk; issuer credit risk; liquidity risk; and inflation risk. These effects are usually pronounced for longer-term securities. Any fixed income security sold or redeemed prior to maturity may be subject to a substantial gain or loss.\nInternational Government bonds and corporate bonds generally have more moderate short-term price fluctuations than stocks, but provide lower potential long-term returns.\nInvesting in high yield fixed income securities, otherwise known as \"junk bonds\", is considered speculative and involves greater risk of loss of principal and interest than investing in investment grade fixed income securities. These Lower-quality debt securities involve greater risk of default or price changes due to potential changes in the credit quality of the issuer.\nEquity securities may fluctuate in value in response to the activities of individual companies and general market and economic conditions.\nThere are risks associated with investing in Real Assets and the Real Assets sector, including real estate, precious metals and natural resources.  Investments can be significantly affected by events relating to these industries.\nInvesting in foreign domiciled securities may involve risk of capital loss from unfavorable fluctuation in currency values, withholding taxes, from differences in generally accepted accounting principles or from economic or political instability in other nations.  Investments in emerging or developing markets may be more volatile and less liquid than investing in developed markets and may involve exposure to economic structures that are generally less diverse and mature and to political systems which have less stability than those of more developed countries. The trademarks and service marks referenced herein are the property of their respective owners. Third party data providers make no warranties or representations of any kind relating to the accuracy, completeness or timeliness of the data and have no liability for damages of any kind relating to the use of such data. Investing involves risk including the risk of loss of principal.\nThe whole or any part of this work may not be reproduced, copied or transmitted or any of its contents disclosed to third parties without SSGA's express written consent.\nETFs trade like stocks, are subject to investment risk and will fluctuate in market value. The investment return and principal value of an investment will fluctuate in value, so that when shares are sold or redeemed, they may be worth more or less than when they were purchased.  Although shares may be bought or sold on an exchange through any brokerage account, shares are not individually redeemable from the fund.  Investors may acquire shares and tender them for redemption through the fund in large aggregations known as “creation units.”  Please see the fund’s prospectus for more details.\nInvesting in REITs involves certain distinct risks in addition to those risks associated with investing in the real estate industry in general. Equity REITs may be affected by changes in the value of the underlying property owned by the REITs, while mortgage REITs may be affected by the quality of credit extended. REITs are subject to heavy cash flow dependency, default by borrowers and self-liquidation. REITs, especially mortgage REITs, are also subject to interest rate risk (i.e., as interest rates rise, the value of the REIT may decline).\nInvestments in small/mid-sized companies may involve greater risks than in those of larger, better known companies. Concentrated investments in a particular Sector tend to be more volatile than the overall market and increases risk that events negatively affecting such sectors or industries could reduce returns, potentially causing the value of the Fund’s shares to decrease.\nStandard & Poor’s®, S&P® and SPDR® are registered trademarks of Standard & Poor’s Financial Services LLC (S&P); Dow Jones is a registered trademark of Dow Jones Trademark Holdings LLC (Dow Jones); and these trademarks have been licensed for use by S&P Dow Jones Indices LLC (SPDJI) and sublicensed for certain purposes by State Street Corporation. State Street Corporation’s financial products are not sponsored, endorsed, sold or promoted by SPDJI, Dow Jones, S&P, their respective affiliates and third party licensors and none of such parties make any representation regarding the advisability of investing in such product(s) nor do they have any liability in relation thereto, including for any errors, omissions, or interruptions of any index.\nCommodities and commodity-index linked securities may be affected by changes in overall market movements, changes in interest rates, and other factors such as weather, disease, embargoes, or political and regulatory developments, as well as trading activity of speculators and arbitrageurs in the underlying commodities. The returns on a portfolio of securities which exclude companies that do not meet the portfolio's specified ESG criteria may trail the returns on a portfolio of securities which include such companies. A portfolio's ESG criteria may result in the portfolio investing in industry sectors or securities which underperform the market as a whole.\nTechnology companies, including cyber security companies, can be significantly affected by obsolescence of existing technology, limited product lines, and competition for financial resources, qualified personnel, new market entrants or impairment of patent and intellectual property rights that can adversely affect profit margins."
+    },
+    {
+      "name": "Distributor: State Street Global Advisors Funds Distributors, LLC, member FINRA(http://www.finra.org), SIPC(http://www.sipc.org), an indirect wholly owned subsidiary of State Street Corporation. References to State Street may include State Street Corporation and its affiliates. Certain State Street affiliates provide services and receive fees from the SPDR ETFs. ALPS Distributors, Inc., member FINRA, is the distributor for DIA, MDY and SPY, all unit investment trusts. ALPS Portfolio Solutions Distributor, Inc., member FINRA, is the distributor for Select Sector SPDRs. ALPS Distributors, Inc. and ALPS Portfolio Solutions Distributor, Inc. are not affiliated with State Street Global Advisors Funds Distributors, LLC."
+    },
+    {
+      "name": "Before investing, consider the funds’ investment objectives, risks, charges and expenses. To obtain a prospectus or summary prospectus, this contains this and other information, call 1-866-787-2257 or visit www.ssga.com. Read it carefully.\n\nNot FDIC Insured * No Bank Guarantee * May Lose Value\n\n2529657.2.1.AM.RTL\nExpiration: 03/31/2021\nSPD002304"
+    }
+  ]
+}

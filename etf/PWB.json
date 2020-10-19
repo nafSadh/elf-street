@@ -1,0 +1,280 @@
+{
+  "Products": "Dynamic Large Cap Growth ETF",
+  "Ticker": "PWB",
+  "Inception": "03/03/2005",
+  "Gross Exp. Ratio": "0.55%",
+  "YTD": "20.64",
+  "1Yr": "28.43",
+  "3Yr": "17.43",
+  "5Yr": "16.93",
+  "10Yr": "16.41",
+  "Since Incept.": "10.26",
+  "Category": "Multi Factor",
+  "SubCategory": "Intellidex",
+  "ticker": "PWB",
+  "name": "Dynamic Large Cap Growth ETF",
+  "issuer": "Invesco",
+  "website": "https://www.invesco.com/us/financial-products/etfs/product-detail?audienceType=Investor&ticker=PWB",
+  "holdingDataSource": {
+    "url": "https://www.invesco.com/us/financial-products/etfs/holdings/main/holdings/0?audienceType=Investor&action=download&ticker=PWB",
+    "fileExt": "csv",
+    "transform": "invesco"
+  },
+  "holdings": [
+    {
+      "ticker": "TMO",
+      "name": "Thermo Fisher Scientific Inc",
+      "percent": "3.683"
+    },
+    {
+      "ticker": "DHR",
+      "name": "Danaher Corp",
+      "percent": "3.678"
+    },
+    {
+      "ticker": "NVDA",
+      "name": "NVIDIA Corp",
+      "percent": "3.614"
+    },
+    {
+      "ticker": "UNH",
+      "name": "UnitedHealth Group Inc",
+      "percent": "3.498"
+    },
+    {
+      "ticker": "PYPL",
+      "name": "PayPal Holdings Inc",
+      "percent": "3.307"
+    },
+    {
+      "ticker": "ABT",
+      "name": "Abbott Laboratories",
+      "percent": "3.257"
+    },
+    {
+      "ticker": "ADBE",
+      "name": "Adobe Inc",
+      "percent": "3.256"
+    },
+    {
+      "ticker": "LLY",
+      "name": "Eli Lilly and Co",
+      "percent": "3.242"
+    },
+    {
+      "ticker": "MSFT",
+      "name": "Microsoft Corp",
+      "percent": "3.204"
+    },
+    {
+      "ticker": "GOOGL",
+      "name": "Alphabet Inc",
+      "percent": "3.182"
+    },
+    {
+      "ticker": "MA",
+      "name": "Mastercard Inc",
+      "percent": "3.150"
+    },
+    {
+      "ticker": "AAPL",
+      "name": "Apple Inc",
+      "percent": "3.146"
+    },
+    {
+      "ticker": "V",
+      "name": "Visa Inc",
+      "percent": "3.137"
+    },
+    {
+      "ticker": "CRM",
+      "name": "salesforce.com Inc",
+      "percent": "3.092"
+    },
+    {
+      "ticker": "FB",
+      "name": "Facebook Inc",
+      "percent": "2.997"
+    },
+    {
+      "ticker": "VEEV",
+      "name": "Veeva Systems Inc",
+      "percent": "1.607"
+    },
+    {
+      "ticker": "QCOM",
+      "name": "QUALCOMM Inc",
+      "percent": "1.577"
+    },
+    {
+      "ticker": "IDXX",
+      "name": "IDEXX Laboratories Inc",
+      "percent": "1.556"
+    },
+    {
+      "ticker": "DG",
+      "name": "Dollar General Corp",
+      "percent": "1.551"
+    },
+    {
+      "ticker": "TGT",
+      "name": "Target Corp",
+      "percent": "1.545"
+    },
+    {
+      "ticker": "NOW",
+      "name": "ServiceNow Inc",
+      "percent": "1.540"
+    },
+    {
+      "ticker": "A",
+      "name": "Agilent Technologies Inc",
+      "percent": "1.529"
+    },
+    {
+      "ticker": "HUM",
+      "name": "Humana Inc",
+      "percent": "1.523"
+    },
+    {
+      "ticker": "ADSK",
+      "name": "Autodesk Inc",
+      "percent": "1.517"
+    },
+    {
+      "ticker": "LRCX",
+      "name": "Lam Research Corp",
+      "percent": "1.505"
+    },
+    {
+      "ticker": "LOW",
+      "name": "Lowe's Cos Inc",
+      "percent": "1.505"
+    },
+    {
+      "ticker": "CTAS",
+      "name": "Cintas Corp",
+      "percent": "1.494"
+    },
+    {
+      "ticker": "CDNS",
+      "name": "Cadence Design Systems Inc",
+      "percent": "1.491"
+    },
+    {
+      "ticker": "SNPS",
+      "name": "Synopsys Inc",
+      "percent": "1.471"
+    },
+    {
+      "ticker": "SHW",
+      "name": "Sherwin-Williams Co/The",
+      "percent": "1.468"
+    },
+    {
+      "ticker": "SCCO",
+      "name": "Southern Copper Corp",
+      "percent": "1.468"
+    },
+    {
+      "ticker": "CHTR",
+      "name": "Charter Communications Inc",
+      "percent": "1.453"
+    },
+    {
+      "ticker": "ZTS",
+      "name": "Zoetis Inc",
+      "percent": "1.453"
+    },
+    {
+      "ticker": "VRSK",
+      "name": "Verisk Analytics Inc",
+      "percent": "1.453"
+    },
+    {
+      "ticker": "INFO",
+      "name": "IHS Markit Ltd",
+      "percent": "1.437"
+    },
+    {
+      "ticker": "ORLY",
+      "name": "O'Reilly Automotive Inc",
+      "percent": "1.432"
+    },
+    {
+      "ticker": "AMAT",
+      "name": "Applied Materials Inc",
+      "percent": "1.430"
+    },
+    {
+      "ticker": "MCO",
+      "name": "Moody's Corp",
+      "percent": "1.403"
+    },
+    {
+      "ticker": "MSCI",
+      "name": "MSCI Inc",
+      "percent": "1.402"
+    },
+    {
+      "ticker": "EBAY",
+      "name": "eBay Inc",
+      "percent": "1.396"
+    },
+    {
+      "ticker": "MNST",
+      "name": "Monster Beverage Corp",
+      "percent": "1.374"
+    },
+    {
+      "ticker": "REGN",
+      "name": "Regeneron Pharmaceuticals Inc",
+      "percent": "1.373"
+    },
+    {
+      "ticker": "NEM",
+      "name": "Newmont Corp",
+      "percent": "1.373"
+    },
+    {
+      "ticker": "CLX",
+      "name": "Clorox Co/The",
+      "percent": "1.372"
+    },
+    {
+      "ticker": "SPGI",
+      "name": "S&P Global Inc",
+      "percent": "1.356"
+    },
+    {
+      "ticker": "ATVI",
+      "name": "Activision Blizzard Inc",
+      "percent": "1.353"
+    },
+    {
+      "ticker": "BAX",
+      "name": "Baxter International Inc",
+      "percent": "1.336"
+    },
+    {
+      "ticker": "FAST",
+      "name": "Fastenal Co",
+      "percent": "1.328"
+    },
+    {
+      "ticker": "LIN",
+      "name": "Linde PLC",
+      "percent": "1.318"
+    },
+    {
+      "ticker": "VRTX",
+      "name": "Vertex Pharmaceuticals Inc",
+      "percent": "1.120"
+    },
+    {
+      "ticker": "AGPXX",
+      "name": "STIT - Government & Agency Portfolio",
+      "percent": "0.048"
+    }
+  ]
+}

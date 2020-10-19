@@ -1,0 +1,620 @@
+{
+  "Products": "S&P SmallCap Momentum ETF",
+  "Ticker": "XSMO",
+  "Inception": "03/03/2005",
+  "Gross Exp. Ratio": "0.42%",
+  "YTD": "2.62",
+  "1Yr": "8.92",
+  "3Yr": "9.94",
+  "5Yr": "12.15",
+  "10Yr": "12.06",
+  "Since Incept.": "6.94",
+  "Category": "Multi Factor",
+  "SubCategory": "Pure Style",
+  "ticker": "XSMO",
+  "name": "S&P SmallCap Momentum ETF",
+  "issuer": "Invesco",
+  "website": "https://www.invesco.com/us/financial-products/etfs/product-detail?audienceType=Investor&ticker=XSMO",
+  "holdingDataSource": {
+    "url": "https://www.invesco.com/us/financial-products/etfs/holdings/main/holdings/0?audienceType=Investor&action=download&ticker=XSMO",
+    "fileExt": "csv",
+    "transform": "invesco"
+  },
+  "holdings": [
+    {
+      "ticker": "STMP",
+      "name": "Stamps.com Inc",
+      "percent": "3.994"
+    },
+    {
+      "ticker": "KNSL",
+      "name": "Kinsale Capital Group Inc",
+      "percent": "3.799"
+    },
+    {
+      "ticker": "NEO",
+      "name": "NeoGenomics Inc",
+      "percent": "2.699"
+    },
+    {
+      "ticker": "SAIA",
+      "name": "Saia Inc",
+      "percent": "2.253"
+    },
+    {
+      "ticker": "MTH",
+      "name": "Meritage Homes Corp",
+      "percent": "2.168"
+    },
+    {
+      "ticker": "UFPI",
+      "name": "UFP Industries Inc",
+      "percent": "1.815"
+    },
+    {
+      "ticker": "BRKS",
+      "name": "Brooks Automation Inc",
+      "percent": "1.778"
+    },
+    {
+      "ticker": "YETI",
+      "name": "YETI Holdings Inc",
+      "percent": "1.767"
+    },
+    {
+      "ticker": "EXPO",
+      "name": "Exponent Inc",
+      "percent": "1.736"
+    },
+    {
+      "ticker": "POWI",
+      "name": "Power Integrations Inc",
+      "percent": "1.715"
+    },
+    {
+      "ticker": "PLMR",
+      "name": "Palomar Holdings Inc",
+      "percent": "1.676"
+    },
+    {
+      "ticker": "CROX",
+      "name": "Crocs Inc",
+      "percent": "1.651"
+    },
+    {
+      "ticker": "TRUP",
+      "name": "Trupanion Inc",
+      "percent": "1.636"
+    },
+    {
+      "ticker": "CCOI",
+      "name": "Cogent Communications Holdings Inc",
+      "percent": "1.604"
+    },
+    {
+      "ticker": "SPSC",
+      "name": "SPS Commerce Inc",
+      "percent": "1.560"
+    },
+    {
+      "ticker": "VICR",
+      "name": "Vicor Corp",
+      "percent": "1.532"
+    },
+    {
+      "ticker": "FORM",
+      "name": "FormFactor Inc",
+      "percent": "1.528"
+    },
+    {
+      "ticker": "LGIH",
+      "name": "LGI Homes Inc",
+      "percent": "1.478"
+    },
+    {
+      "ticker": "LCII",
+      "name": "LCI Industries",
+      "percent": "1.464"
+    },
+    {
+      "ticker": "ALRM",
+      "name": "Alarm.com Holdings Inc",
+      "percent": "1.449"
+    },
+    {
+      "ticker": "REGI",
+      "name": "Renewable Energy Group Inc",
+      "percent": "1.423"
+    },
+    {
+      "ticker": "LPSN",
+      "name": "LivePerson Inc",
+      "percent": "1.409"
+    },
+    {
+      "ticker": "OMI",
+      "name": "Owens & Minor Inc",
+      "percent": "1.402"
+    },
+    {
+      "ticker": "LXP",
+      "name": "Lexington Realty Trust",
+      "percent": "1.256"
+    },
+    {
+      "ticker": "BGS",
+      "name": "B&G Foods Inc",
+      "percent": "1.201"
+    },
+    {
+      "ticker": "IBP",
+      "name": "Installed Building Products Inc",
+      "percent": "1.166"
+    },
+    {
+      "ticker": "FN",
+      "name": "Fabrinet",
+      "percent": "1.159"
+    },
+    {
+      "ticker": "BCC",
+      "name": "Boise Cascade Co",
+      "percent": "1.097"
+    },
+    {
+      "ticker": "AEIS",
+      "name": "Advanced Energy Industries Inc",
+      "percent": "1.077"
+    },
+    {
+      "ticker": "MED",
+      "name": "Medifast Inc",
+      "percent": "1.013"
+    },
+    {
+      "ticker": "DIOD",
+      "name": "Diodes Inc",
+      "percent": "1.004"
+    },
+    {
+      "ticker": "DEA",
+      "name": "Easterly Government Properties Inc",
+      "percent": "0.992"
+    },
+    {
+      "ticker": "BIG",
+      "name": "Big Lots Inc",
+      "percent": "0.981"
+    },
+    {
+      "ticker": "MDC",
+      "name": "MDC Holdings Inc",
+      "percent": "0.978"
+    },
+    {
+      "ticker": "SHEN",
+      "name": "Shenandoah Telecommunications Co",
+      "percent": "0.968"
+    },
+    {
+      "ticker": "AAON",
+      "name": "AAON Inc",
+      "percent": "0.929"
+    },
+    {
+      "ticker": "PCRX",
+      "name": "Pacira BioSciences Inc",
+      "percent": "0.918"
+    },
+    {
+      "ticker": "VSTO",
+      "name": "Vista Outdoor Inc",
+      "percent": "0.914"
+    },
+    {
+      "ticker": "ROCK",
+      "name": "Gibraltar Industries Inc",
+      "percent": "0.914"
+    },
+    {
+      "ticker": "WGO",
+      "name": "Winnebago Industries Inc",
+      "percent": "0.896"
+    },
+    {
+      "ticker": "ITRI",
+      "name": "Itron Inc",
+      "percent": "0.891"
+    },
+    {
+      "ticker": "CORT",
+      "name": "Corcept Therapeutics Inc",
+      "percent": "0.872"
+    },
+    {
+      "ticker": "BMI",
+      "name": "Badger Meter Inc",
+      "percent": "0.871"
+    },
+    {
+      "ticker": "PLXS",
+      "name": "Plexus Corp",
+      "percent": "0.849"
+    },
+    {
+      "ticker": "AVAV",
+      "name": "AeroVironment Inc",
+      "percent": "0.831"
+    },
+    {
+      "ticker": "SPXC",
+      "name": "SPX Corp",
+      "percent": "0.825"
+    },
+    {
+      "ticker": "SLP",
+      "name": "Simulations Plus Inc",
+      "percent": "0.817"
+    },
+    {
+      "ticker": "OSUR",
+      "name": "OraSure Technologies Inc",
+      "percent": "0.804"
+    },
+    {
+      "ticker": "ACA",
+      "name": "Arcosa Inc",
+      "percent": "0.772"
+    },
+    {
+      "ticker": "TTGT",
+      "name": "TechTarget Inc",
+      "percent": "0.769"
+    },
+    {
+      "ticker": "SEM",
+      "name": "Select Medical Holdings Corp",
+      "percent": "0.765"
+    },
+    {
+      "ticker": "RGR",
+      "name": "Sturm Ruger & Co Inc",
+      "percent": "0.744"
+    },
+    {
+      "ticker": "SSTK",
+      "name": "Shutterstock Inc",
+      "percent": "0.742"
+    },
+    {
+      "ticker": "FIX",
+      "name": "Comfort Systems USA Inc",
+      "percent": "0.735"
+    },
+    {
+      "ticker": "OSPN",
+      "name": "OneSpan Inc",
+      "percent": "0.726"
+    },
+    {
+      "ticker": "PRAA",
+      "name": "PRA Group Inc",
+      "percent": "0.718"
+    },
+    {
+      "ticker": "UNIT",
+      "name": "Uniti Group Inc",
+      "percent": "0.699"
+    },
+    {
+      "ticker": "UCTT",
+      "name": "Ultra Clean Holdings Inc",
+      "percent": "0.698"
+    },
+    {
+      "ticker": "LMNX",
+      "name": "Luminex Corp",
+      "percent": "0.697"
+    },
+    {
+      "ticker": "CYTK",
+      "name": "Cytokinetics Inc",
+      "percent": "0.693"
+    },
+    {
+      "ticker": "PRSC",
+      "name": "Providence Service Corp/The",
+      "percent": "0.687"
+    },
+    {
+      "ticker": "ASTE",
+      "name": "Astec Industries Inc",
+      "percent": "0.683"
+    },
+    {
+      "ticker": "HUBG",
+      "name": "Hub Group Inc",
+      "percent": "0.673"
+    },
+    {
+      "ticker": "CENTA",
+      "name": "Central Garden & Pet Co",
+      "percent": "0.640"
+    },
+    {
+      "ticker": "LL",
+      "name": "Lumber Liquidators Holdings Inc",
+      "percent": "0.622"
+    },
+    {
+      "ticker": "RLGY",
+      "name": "Realogy Holdings Corp",
+      "percent": "0.616"
+    },
+    {
+      "ticker": "ONTO",
+      "name": "Onto Innovation Inc",
+      "percent": "0.609"
+    },
+    {
+      "ticker": "RMBS",
+      "name": "Rambus Inc",
+      "percent": "0.605"
+    },
+    {
+      "ticker": "EGOV",
+      "name": "NIC Inc",
+      "percent": "0.600"
+    },
+    {
+      "ticker": "VIVO",
+      "name": "Meridian Bioscience Inc",
+      "percent": "0.598"
+    },
+    {
+      "ticker": "UNFI",
+      "name": "United Natural Foods Inc",
+      "percent": "0.589"
+    },
+    {
+      "ticker": "PATK",
+      "name": "Patrick Industries Inc",
+      "percent": "0.575"
+    },
+    {
+      "ticker": "FIZZ",
+      "name": "National Beverage Corp",
+      "percent": "0.557"
+    },
+    {
+      "ticker": "ADUS",
+      "name": "Addus HomeCare Corp",
+      "percent": "0.537"
+    },
+    {
+      "ticker": "ACLS",
+      "name": "Axcelis Technologies Inc",
+      "percent": "0.527"
+    },
+    {
+      "ticker": "RCII",
+      "name": "Rent-A-Center Inc/TX",
+      "percent": "0.512"
+    },
+    {
+      "ticker": "MRTN",
+      "name": "Marten Transport Ltd",
+      "percent": "0.495"
+    },
+    {
+      "ticker": "CEVA",
+      "name": "CEVA Inc",
+      "percent": "0.493"
+    },
+    {
+      "ticker": "CCS",
+      "name": "Century Communities Inc",
+      "percent": "0.487"
+    },
+    {
+      "ticker": "SAFE",
+      "name": "Safehold Inc",
+      "percent": "0.487"
+    },
+    {
+      "ticker": "SPTN",
+      "name": "SpartanNash Co",
+      "percent": "0.487"
+    },
+    {
+      "ticker": "VRTS",
+      "name": "Virtus Investment Partners Inc",
+      "percent": "0.484"
+    },
+    {
+      "ticker": "CVCO",
+      "name": "Cavco Industries Inc",
+      "percent": "0.481"
+    },
+    {
+      "ticker": "PRFT",
+      "name": "Perficient Inc",
+      "percent": "0.479"
+    },
+    {
+      "ticker": "GFF",
+      "name": "Griffon Corp",
+      "percent": "0.460"
+    },
+    {
+      "ticker": "PDFS",
+      "name": "PDF Solutions Inc",
+      "percent": "0.453"
+    },
+    {
+      "ticker": "PETS",
+      "name": "PetMed Express Inc",
+      "percent": "0.438"
+    },
+    {
+      "ticker": "MHO",
+      "name": "M/I Homes Inc",
+      "percent": "0.427"
+    },
+    {
+      "ticker": "GLUU",
+      "name": "Glu Mobile Inc",
+      "percent": "0.425"
+    },
+    {
+      "ticker": "SAH",
+      "name": "Sonic Automotive Inc",
+      "percent": "0.397"
+    },
+    {
+      "ticker": "CYH",
+      "name": "Community Health Systems Inc",
+      "percent": "0.389"
+    },
+    {
+      "ticker": "CLW",
+      "name": "Clearwater Paper Corp",
+      "percent": "0.389"
+    },
+    {
+      "ticker": "HZO",
+      "name": "MarineMax Inc",
+      "percent": "0.386"
+    },
+    {
+      "ticker": "FARO",
+      "name": "FARO Technologies Inc",
+      "percent": "0.380"
+    },
+    {
+      "ticker": "PNTG",
+      "name": "Pennant Group Inc/The",
+      "percent": "0.369"
+    },
+    {
+      "ticker": "SNEX",
+      "name": "StoneX Group Inc",
+      "percent": "0.368"
+    },
+    {
+      "ticker": "BSIG",
+      "name": "Brightsphere Investment Group Inc",
+      "percent": "0.359"
+    },
+    {
+      "ticker": "IRET",
+      "name": "Investors Real Estate Trust",
+      "percent": "0.342"
+    },
+    {
+      "ticker": "USNA",
+      "name": "USANA Health Sciences Inc",
+      "percent": "0.336"
+    },
+    {
+      "ticker": "HSKA",
+      "name": "Heska Corp",
+      "percent": "0.335"
+    },
+    {
+      "ticker": "CHCT",
+      "name": "Community Healthcare Trust Inc",
+      "percent": "0.333"
+    },
+    {
+      "ticker": "COHU",
+      "name": "Cohu Inc",
+      "percent": "0.297"
+    },
+    {
+      "ticker": "HIBB",
+      "name": "Hibbett Sports Inc",
+      "percent": "0.289"
+    },
+    {
+      "ticker": "ECHO",
+      "name": "Echo Global Logistics Inc",
+      "percent": "0.273"
+    },
+    {
+      "ticker": "PLAB",
+      "name": "Photronics Inc",
+      "percent": "0.260"
+    },
+    {
+      "ticker": "LOCO",
+      "name": "El Pollo Loco Holdings Inc",
+      "percent": "0.242"
+    },
+    {
+      "ticker": "CNXN",
+      "name": "PC Connection Inc",
+      "percent": "0.222"
+    },
+    {
+      "ticker": "JBSS",
+      "name": "John B Sanfilippo & Son Inc",
+      "percent": "0.220"
+    },
+    {
+      "ticker": "ICHR",
+      "name": "Ichor Holdings Ltd",
+      "percent": "0.217"
+    },
+    {
+      "ticker": "ZYXI",
+      "name": "Zynex Inc",
+      "percent": "0.204"
+    },
+    {
+      "ticker": "CNSL",
+      "name": "Consolidated Communications Holdings Inc",
+      "percent": "0.187"
+    },
+    {
+      "ticker": "HWKN",
+      "name": "Hawkins Inc",
+      "percent": "0.185"
+    },
+    {
+      "ticker": "FF",
+      "name": "FutureFuel Corp",
+      "percent": "0.183"
+    },
+    {
+      "ticker": "CENT",
+      "name": "Central Garden & Pet Co",
+      "percent": "0.175"
+    },
+    {
+      "ticker": "HCI",
+      "name": "HCI Group Inc",
+      "percent": "0.110"
+    },
+    {
+      "ticker": "AGPXX",
+      "name": "STIT - Government & Agency Portfolio",
+      "percent": "0.108"
+    },
+    {
+      "ticker": "SENEA",
+      "name": "Seneca Foods Corp",
+      "percent": "0.105"
+    },
+    {
+      "ticker": "AAOI",
+      "name": "Applied Optoelectronics Inc",
+      "percent": "0.100"
+    },
+    {
+      "ticker": "-CASH-",
+      "name": "Cash/Receivables/Payables",
+      "percent": "0.001"
+    }
+  ]
+}

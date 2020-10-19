@@ -1,0 +1,285 @@
+{
+  "Products": "S&P 500® Top 50 ETF",
+  "Ticker": "XLG",
+  "Inception": "05/04/2005",
+  "Gross Exp. Ratio": "0.20%",
+  "YTD": "13.66",
+  "1Yr": "25.51",
+  "3Yr": "15.81",
+  "5Yr": "16.72",
+  "10Yr": "14.58",
+  "Since Incept.": "9.29",
+  "Category": "SP Factor",
+  "SubCategory": "Size",
+  "ticker": "XLG",
+  "name": "S&P 500® Top 50 ETF",
+  "issuer": "Invesco",
+  "website": "https://www.invesco.com/us/financial-products/etfs/product-detail?audienceType=Investor&ticker=XLG",
+  "holdingDataSource": {
+    "url": "https://www.invesco.com/us/financial-products/etfs/holdings/main/holdings/0?audienceType=Investor&action=download&ticker=XLG",
+    "fileExt": "csv",
+    "transform": "invesco"
+  },
+  "holdings": [
+    {
+      "ticker": "AAPL",
+      "name": "Apple Inc",
+      "percent": "12.022"
+    },
+    {
+      "ticker": "MSFT",
+      "name": "Microsoft Corp",
+      "percent": "10.441"
+    },
+    {
+      "ticker": "AMZN",
+      "name": "Amazon.com Inc",
+      "percent": "8.751"
+    },
+    {
+      "ticker": "FB",
+      "name": "Facebook Inc",
+      "percent": "4.016"
+    },
+    {
+      "ticker": "GOOGL",
+      "name": "Alphabet Inc",
+      "percent": "2.959"
+    },
+    {
+      "ticker": "GOOG",
+      "name": "Alphabet Inc",
+      "percent": "2.901"
+    },
+    {
+      "ticker": "BRK/B",
+      "name": "Berkshire Hathaway Inc",
+      "percent": "2.638"
+    },
+    {
+      "ticker": "JNJ",
+      "name": "Johnson & Johnson",
+      "percent": "2.449"
+    },
+    {
+      "ticker": "PG",
+      "name": "Procter & Gamble Co/The",
+      "percent": "2.258"
+    },
+    {
+      "ticker": "NVDA",
+      "name": "NVIDIA Corp",
+      "percent": "2.141"
+    },
+    {
+      "ticker": "V",
+      "name": "Visa Inc",
+      "percent": "2.121"
+    },
+    {
+      "ticker": "UNH",
+      "name": "UnitedHealth Group Inc",
+      "percent": "1.969"
+    },
+    {
+      "ticker": "HD",
+      "name": "Home Depot Inc/The",
+      "percent": "1.945"
+    },
+    {
+      "ticker": "JPM",
+      "name": "JPMorgan Chase & Co",
+      "percent": "1.943"
+    },
+    {
+      "ticker": "MA",
+      "name": "Mastercard Inc",
+      "percent": "1.883"
+    },
+    {
+      "ticker": "ADBE",
+      "name": "Adobe Inc",
+      "percent": "1.515"
+    },
+    {
+      "ticker": "VZ",
+      "name": "Verizon Communications Inc",
+      "percent": "1.509"
+    },
+    {
+      "ticker": "PYPL",
+      "name": "PayPal Holdings Inc",
+      "percent": "1.507"
+    },
+    {
+      "ticker": "CRM",
+      "name": "salesforce.com Inc",
+      "percent": "1.478"
+    },
+    {
+      "ticker": "NFLX",
+      "name": "Netflix Inc",
+      "percent": "1.470"
+    },
+    {
+      "ticker": "INTC",
+      "name": "Intel Corp",
+      "percent": "1.447"
+    },
+    {
+      "ticker": "DIS",
+      "name": "Walt Disney Co/The",
+      "percent": "1.439"
+    },
+    {
+      "ticker": "PFE",
+      "name": "Pfizer Inc",
+      "percent": "1.325"
+    },
+    {
+      "ticker": "CMCSA",
+      "name": "Comcast Corp",
+      "percent": "1.304"
+    },
+    {
+      "ticker": "MRK",
+      "name": "Merck & Co Inc",
+      "percent": "1.268"
+    },
+    {
+      "ticker": "WMT",
+      "name": "Walmart Inc",
+      "percent": "1.262"
+    },
+    {
+      "ticker": "PEP",
+      "name": "PepsiCo Inc",
+      "percent": "1.233"
+    },
+    {
+      "ticker": "T",
+      "name": "AT&T Inc",
+      "percent": "1.223"
+    },
+    {
+      "ticker": "ABT",
+      "name": "Abbott Laboratories",
+      "percent": "1.220"
+    },
+    {
+      "ticker": "KO",
+      "name": "Coca-Cola Co/The",
+      "percent": "1.215"
+    },
+    {
+      "ticker": "TMO",
+      "name": "Thermo Fisher Scientific Inc",
+      "percent": "1.164"
+    },
+    {
+      "ticker": "BAC",
+      "name": "Bank of America Corp",
+      "percent": "1.161"
+    },
+    {
+      "ticker": "MCD",
+      "name": "McDonald's Corp",
+      "percent": "1.072"
+    },
+    {
+      "ticker": "CSCO",
+      "name": "Cisco Systems Inc",
+      "percent": "1.068"
+    },
+    {
+      "ticker": "COST",
+      "name": "Costco Wholesale Corp",
+      "percent": "1.058"
+    },
+    {
+      "ticker": "NKE",
+      "name": "NIKE Inc",
+      "percent": "1.001"
+    },
+    {
+      "ticker": "AVGO",
+      "name": "Broadcom Inc",
+      "percent": "0.956"
+    },
+    {
+      "ticker": "ABBV",
+      "name": "AbbVie Inc",
+      "percent": "0.956"
+    },
+    {
+      "ticker": "NEE",
+      "name": "NextEra Energy Inc",
+      "percent": "0.940"
+    },
+    {
+      "ticker": "MDT",
+      "name": "Medtronic PLC",
+      "percent": "0.930"
+    },
+    {
+      "ticker": "ACN",
+      "name": "Accenture PLC",
+      "percent": "0.919"
+    },
+    {
+      "ticker": "XOM",
+      "name": "Exxon Mobil Corp",
+      "percent": "0.906"
+    },
+    {
+      "ticker": "UNP",
+      "name": "Union Pacific Corp",
+      "percent": "0.895"
+    },
+    {
+      "ticker": "CVX",
+      "name": "Chevron Corp",
+      "percent": "0.882"
+    },
+    {
+      "ticker": "AMGN",
+      "name": "Amgen Inc",
+      "percent": "0.867"
+    },
+    {
+      "ticker": "BMY",
+      "name": "Bristol Myers Squibb Co",
+      "percent": "0.867"
+    },
+    {
+      "ticker": "PM",
+      "name": "Philip Morris International Inc",
+      "percent": "0.775"
+    },
+    {
+      "ticker": "ORCL",
+      "name": "Oracle Corp",
+      "percent": "0.732"
+    },
+    {
+      "ticker": "LLY",
+      "name": "Eli Lilly and Co",
+      "percent": "0.729"
+    },
+    {
+      "ticker": "IBM",
+      "name": "International Business Machines Corp",
+      "percent": "0.704"
+    },
+    {
+      "ticker": "C",
+      "name": "Citigroup Inc",
+      "percent": "0.565"
+    },
+    {
+      "ticker": "AGPXX",
+      "name": "STIT - Government & Agency Portfolio",
+      "percent": "0.005"
+    }
+  ]
+}

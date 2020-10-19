@@ -1,0 +1,170 @@
+{
+  "Products": "S&P 500® Equal Weight Utilities ETF",
+  "Ticker": "RYU",
+  "Inception": "11/01/2006",
+  "Gross Exp. Ratio": "0.40%",
+  "YTD": "-8.93",
+  "1Yr": "-8.61",
+  "3Yr": "6.25",
+  "5Yr": "9.05",
+  "10Yr": "10.28",
+  "Since Incept.": "7.60",
+  "Category": "SP Factor",
+  "SubCategory": "Equal Weight Sectors",
+  "ticker": "RYU",
+  "name": "S&P 500® Equal Weight Utilities ETF",
+  "issuer": "Invesco",
+  "website": "https://www.invesco.com/us/financial-products/etfs/product-detail?audienceType=Investor&ticker=RYU",
+  "holdingDataSource": {
+    "url": "https://www.invesco.com/us/financial-products/etfs/holdings/main/holdings/0?audienceType=Investor&action=download&ticker=RYU",
+    "fileExt": "csv",
+    "transform": "invesco"
+  },
+  "holdings": [
+    {
+      "ticker": "EXC",
+      "name": "Exelon Corp",
+      "percent": "3.849"
+    },
+    {
+      "ticker": "AEP",
+      "name": "American Electric Power Co Inc",
+      "percent": "3.789"
+    },
+    {
+      "ticker": "EIX",
+      "name": "Edison International",
+      "percent": "3.761"
+    },
+    {
+      "ticker": "PNW",
+      "name": "Pinnacle West Capital Corp",
+      "percent": "3.747"
+    },
+    {
+      "ticker": "PEG",
+      "name": "Public Service Enterprise Group Inc",
+      "percent": "3.721"
+    },
+    {
+      "ticker": "SO",
+      "name": "Southern Co/The",
+      "percent": "3.694"
+    },
+    {
+      "ticker": "ED",
+      "name": "Consolidated Edison Inc",
+      "percent": "3.680"
+    },
+    {
+      "ticker": "AES",
+      "name": "AES Corp/The",
+      "percent": "3.663"
+    },
+    {
+      "ticker": "ETR",
+      "name": "Entergy Corp",
+      "percent": "3.662"
+    },
+    {
+      "ticker": "ES",
+      "name": "Eversource Energy",
+      "percent": "3.646"
+    },
+    {
+      "ticker": "DUK",
+      "name": "Duke Energy Corp",
+      "percent": "3.645"
+    },
+    {
+      "ticker": "AWK",
+      "name": "American Water Works Co Inc",
+      "percent": "3.616"
+    },
+    {
+      "ticker": "NEE",
+      "name": "NextEra Energy Inc",
+      "percent": "3.600"
+    },
+    {
+      "ticker": "SRE",
+      "name": "Sempra Energy",
+      "percent": "3.564"
+    },
+    {
+      "ticker": "FE",
+      "name": "FirstEnergy Corp",
+      "percent": "3.540"
+    },
+    {
+      "ticker": "AEE",
+      "name": "Ameren Corp",
+      "percent": "3.524"
+    },
+    {
+      "ticker": "CNP",
+      "name": "CenterPoint Energy Inc",
+      "percent": "3.513"
+    },
+    {
+      "ticker": "CMS",
+      "name": "CMS Energy Corp",
+      "percent": "3.512"
+    },
+    {
+      "ticker": "NI",
+      "name": "NiSource Inc",
+      "percent": "3.494"
+    },
+    {
+      "ticker": "NRG",
+      "name": "NRG Energy Inc",
+      "percent": "3.492"
+    },
+    {
+      "ticker": "XEL",
+      "name": "Xcel Energy Inc",
+      "percent": "3.480"
+    },
+    {
+      "ticker": "LNT",
+      "name": "Alliant Energy Corp",
+      "percent": "3.468"
+    },
+    {
+      "ticker": "WEC",
+      "name": "WEC Energy Group Inc",
+      "percent": "3.468"
+    },
+    {
+      "ticker": "EVRG",
+      "name": "Evergy Inc",
+      "percent": "3.465"
+    },
+    {
+      "ticker": "PPL",
+      "name": "PPL Corp",
+      "percent": "3.403"
+    },
+    {
+      "ticker": "D",
+      "name": "Dominion Energy Inc",
+      "percent": "3.350"
+    },
+    {
+      "ticker": "ATO",
+      "name": "Atmos Energy Corp",
+      "percent": "3.322"
+    },
+    {
+      "ticker": "DTE",
+      "name": "DTE Energy Co",
+      "percent": "3.301"
+    },
+    {
+      "ticker": "AGPXX",
+      "name": "STIT - Government & Agency Portfolio",
+      "percent": "0.030"
+    }
+  ]
+}

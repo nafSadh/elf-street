@@ -1,0 +1,4424 @@
+{
+  "ticker": "EFAX",
+  "name": "SPDR® MSCI EAFE Fossil Fuel Reserves Free ETF",
+  "ISIN": "US78470E1064",
+  "CUSIP": "78470E106",
+  "Inception Date": "Oct 24 2016",
+  "Gross Expense Ratio": "0.30%",
+  "* Net Expense Ratio": "0.20%",
+  "Asset Class": "Equity",
+  "Distribution Frequency": "Semi-Annually",
+  "Primary Exchange": "NYSE ARCA EXCHANGE",
+  "Primary Index": "MSCI EAFE ex Fossil Fuels Index",
+  "Primary Index Ticker": "MXCXSGA",
+  "issuer": "SSGA",
+  "website": "https://www.ssga.com/us/en/individual/etfs/funds/spdr-msci-eafe-fossil-fuel-reserves-free-etf-efax",
+  "holdingDataSource": {
+    "fileUrl": "https://www.ssga.com/us/en/individual/etfs/library-content/products/fund-data/etfs/us/holdings-daily-us-en-efax.xlsx",
+    "fileExt": "xlsx",
+    "transform": "spdr"
+  },
+  "holdings": [
+    {
+      "ticker": "NESN-CH",
+      "name": "Nestle S.A.",
+      "percent": "2.691531"
+    },
+    {
+      "ticker": "ROG-CH",
+      "name": "Roche Holding AG",
+      "percent": "1.831299"
+    },
+    {
+      "ticker": "NOVN-CH",
+      "name": "Novartis AG",
+      "percent": "1.462761"
+    },
+    {
+      "ticker": "ASML-NL",
+      "name": "ASML Holding NV",
+      "percent": "1.266709"
+    },
+    {
+      "ticker": "SAP-DE",
+      "name": "SAP SE",
+      "percent": "1.232441"
+    },
+    {
+      "ticker": "7203-JP",
+      "name": "Toyota Motor Corp.",
+      "percent": "1.081162"
+    },
+    {
+      "ticker": "AZN-GB",
+      "name": "AstraZeneca PLC",
+      "percent": "1.062797"
+    },
+    {
+      "ticker": "MC-FR",
+      "name": "LVMH Moet Hennessy Louis Vuitton SE",
+      "percent": "1.012334"
+    },
+    {
+      "ticker": "1299-HK",
+      "name": "AIA Group Limited",
+      "percent": "0.944094"
+    },
+    {
+      "ticker": "NOVO.B-DK",
+      "name": "Novo Nordisk A/S Class B",
+      "percent": "0.934811"
+    },
+    {
+      "ticker": "SAN-FR",
+      "name": "Sanofi",
+      "percent": "0.863855"
+    },
+    {
+      "ticker": "9984-JP",
+      "name": "SoftBank Group Corp.",
+      "percent": "0.806893"
+    },
+    {
+      "ticker": "SIE-DE",
+      "name": "Siemens AG",
+      "percent": "0.756256"
+    },
+    {
+      "ticker": "CSL-AU",
+      "name": "CSL Limited",
+      "percent": "0.747025"
+    },
+    {
+      "ticker": "6758-JP",
+      "name": "Sony Corporation",
+      "percent": "0.711359"
+    },
+    {
+      "ticker": "UNA-NL",
+      "name": "Unilever NV",
+      "percent": "0.690159"
+    },
+    {
+      "ticker": "GSK-GB",
+      "name": "GlaxoSmithKline plc",
+      "percent": "0.688617"
+    },
+    {
+      "ticker": "CBA-AU",
+      "name": "Commonwealth Bank of Australia",
+      "percent": "0.670747"
+    },
+    {
+      "ticker": "OR-FR",
+      "name": "L'Oreal SA",
+      "percent": "0.646891"
+    },
+    {
+      "ticker": "DGE-GB",
+      "name": "Diageo plc",
+      "percent": "0.612372"
+    },
+    {
+      "ticker": "ALV-DE",
+      "name": "Allianz SE",
+      "percent": "0.611845"
+    },
+    {
+      "ticker": "HSBA-GB",
+      "name": "HSBC Holdings Plc",
+      "percent": "0.606351"
+    },
+    {
+      "ticker": "BATS-GB",
+      "name": "British American Tobacco p.l.c.",
+      "percent": "0.598099"
+    },
+    {
+      "ticker": "6861-JP",
+      "name": "Keyence Corporation",
+      "percent": "0.596296"
+    },
+    {
+      "ticker": "IBE-ES",
+      "name": "Iberdrola SA",
+      "percent": "0.591536"
+    },
+    {
+      "ticker": "AI-FR",
+      "name": "Air Liquide SA",
+      "percent": "0.565390"
+    },
+    {
+      "ticker": "ULVR-GB",
+      "name": "Unilever PLC",
+      "percent": "0.562370"
+    },
+    {
+      "ticker": "SU-FR",
+      "name": "Schneider Electric SE",
+      "percent": "0.542390"
+    },
+    {
+      "ticker": "RIO-GB",
+      "name": "Rio Tinto plc",
+      "percent": "0.521103"
+    },
+    {
+      "ticker": "RB-GB",
+      "name": "Reckitt Benckiser Group plc",
+      "percent": "0.513556"
+    },
+    {
+      "ticker": "ADS-DE",
+      "name": "adidas AG",
+      "percent": "0.476791"
+    },
+    {
+      "ticker": "7974-JP",
+      "name": "Nintendo Co. Ltd.",
+      "percent": "0.440336"
+    },
+    {
+      "ticker": "BAS-DE",
+      "name": "BASF SE",
+      "percent": "0.435570"
+    },
+    {
+      "ticker": "388-HK",
+      "name": "Hong Kong Exchanges & Clearing Ltd.",
+      "percent": "0.435275"
+    },
+    {
+      "ticker": "DTE-DE",
+      "name": "Deutsche Telekom AG",
+      "percent": "0.422475"
+    },
+    {
+      "ticker": "4502-JP",
+      "name": "Takeda Pharmaceutical Co. Ltd.",
+      "percent": "0.412748"
+    },
+    {
+      "ticker": "6098-JP",
+      "name": "Recruit Holdings Co. Ltd.",
+      "percent": "0.394699"
+    },
+    {
+      "ticker": "KER-FR",
+      "name": "Kering SA",
+      "percent": "0.391961"
+    },
+    {
+      "ticker": "BAYN-DE",
+      "name": "Bayer AG",
+      "percent": "0.391756"
+    },
+    {
+      "ticker": "ZURN-CH",
+      "name": "Zurich Insurance Group Ltd",
+      "percent": "0.386841"
+    },
+    {
+      "ticker": "ABBN-CH",
+      "name": "ABB Ltd.",
+      "percent": "0.378600"
+    },
+    {
+      "ticker": "8306-JP",
+      "name": "Mitsubishi UFJ Financial Group Inc.",
+      "percent": "0.376323"
+    },
+    {
+      "ticker": "4063-JP",
+      "name": "Shin-Etsu Chemical Co Ltd",
+      "percent": "0.375823"
+    },
+    {
+      "ticker": "WBC-AU",
+      "name": "Westpac Banking Corporation",
+      "percent": "0.373322"
+    },
+    {
+      "ticker": "DPW-DE",
+      "name": "Deutsche Post AG",
+      "percent": "0.369512"
+    },
+    {
+      "ticker": "LONN-CH",
+      "name": "Lonza Group AG",
+      "percent": "0.363700"
+    },
+    {
+      "ticker": "DAI-DE",
+      "name": "Daimler AG",
+      "percent": "0.362401"
+    },
+    {
+      "ticker": "PRX-NL",
+      "name": "Prosus N.V. Class N",
+      "percent": "0.361073"
+    },
+    {
+      "ticker": "6367-JP",
+      "name": "DAIKIN INDUSTRIES LTD.",
+      "percent": "0.359211"
+    },
+    {
+      "ticker": "4568-JP",
+      "name": "Daiichi Sankyo Company Limited",
+      "percent": "0.352179"
+    },
+    {
+      "ticker": "NAB-AU",
+      "name": "National Australia Bank Limited",
+      "percent": "0.341164"
+    },
+    {
+      "ticker": "7741-JP",
+      "name": "HOYA CORPORATION",
+      "percent": "0.340283"
+    },
+    {
+      "ticker": "DG-FR",
+      "name": "VINCI SA",
+      "percent": "0.334516"
+    },
+    {
+      "ticker": "PHIA-NL",
+      "name": "Koninklijke Philips N.V.",
+      "percent": "0.331301"
+    },
+    {
+      "ticker": "AIR-FR",
+      "name": "Airbus SE",
+      "percent": "0.330857"
+    },
+    {
+      "ticker": "6594-JP",
+      "name": "Nidec Corporation",
+      "percent": "0.328880"
+    },
+    {
+      "ticker": "ABI-BE",
+      "name": "Anheuser-Busch InBev SA/NV",
+      "percent": "0.327160"
+    },
+    {
+      "ticker": "NG-GB",
+      "name": "National Grid plc",
+      "percent": "0.324338"
+    },
+    {
+      "ticker": "9433-JP",
+      "name": "KDDI Corporation",
+      "percent": "0.323831"
+    },
+    {
+      "ticker": "UBSG-CH",
+      "name": "UBS Group AG",
+      "percent": "0.322590"
+    },
+    {
+      "ticker": "BNP-FR",
+      "name": "BNP Paribas SA Class A",
+      "percent": "0.322010"
+    },
+    {
+      "ticker": "9437-JP",
+      "name": "NTT DoCoMo Inc.",
+      "percent": "0.320736"
+    },
+    {
+      "ticker": "6981-JP",
+      "name": "Murata Manufacturing Co. Ltd.",
+      "percent": "0.316127"
+    },
+    {
+      "ticker": "IFX-DE",
+      "name": "Infineon Technologies AG",
+      "percent": "0.313932"
+    },
+    {
+      "ticker": "BN-FR",
+      "name": "Danone SA",
+      "percent": "0.308195"
+    },
+    {
+      "ticker": "GIVN-CH",
+      "name": "Givaudan SA",
+      "percent": "0.307981"
+    },
+    {
+      "ticker": "6954-JP",
+      "name": "Fanuc Corporation",
+      "percent": "0.305409"
+    },
+    {
+      "ticker": "ANZ-AU",
+      "name": "Australia and New Zealand Banking Group Limited",
+      "percent": "0.304617"
+    },
+    {
+      "ticker": "EL-FR",
+      "name": "EssilorLuxottica SA",
+      "percent": "0.300860"
+    },
+    {
+      "ticker": "7267-JP",
+      "name": "Honda Motor Co. Ltd.",
+      "percent": "0.300181"
+    },
+    {
+      "ticker": "WES-AU",
+      "name": "Wesfarmers Limited",
+      "percent": "0.297280"
+    },
+    {
+      "ticker": "VOD-GB",
+      "name": "Vodafone Group Plc",
+      "percent": "0.290803"
+    },
+    {
+      "ticker": "8035-JP",
+      "name": "Tokyo Electron Ltd.",
+      "percent": "0.287733"
+    },
+    {
+      "ticker": "PRU-GB",
+      "name": "Prudential plc",
+      "percent": "0.283875"
+    },
+    {
+      "ticker": "8316-JP",
+      "name": "Sumitomo Mitsui Financial Group Inc.",
+      "percent": "0.280064"
+    },
+    {
+      "ticker": "SIKA-CH",
+      "name": "Sika AG",
+      "percent": "0.278260"
+    },
+    {
+      "ticker": "VWS-DK",
+      "name": "Vestas Wind Systems A/S",
+      "percent": "0.275388"
+    },
+    {
+      "ticker": "EXPN-GB",
+      "name": "Experian PLC",
+      "percent": "0.273951"
+    },
+    {
+      "ticker": "VNA-DE",
+      "name": "Vonovia SE",
+      "percent": "0.273742"
+    },
+    {
+      "ticker": "CFR-CH",
+      "name": "Compagnie Financiere Richemont SA",
+      "percent": "0.271728"
+    },
+    {
+      "ticker": "LSE-GB",
+      "name": "London Stock Exchange Group plc",
+      "percent": "0.271554"
+    },
+    {
+      "ticker": "DSV-DK",
+      "name": "DSV Panalpina A/S",
+      "percent": "0.271407"
+    },
+    {
+      "ticker": "WOW-AU",
+      "name": "Woolworths Group Ltd",
+      "percent": "0.270529"
+    },
+    {
+      "ticker": "4452-JP",
+      "name": "Kao Corp.",
+      "percent": "0.270257"
+    },
+    {
+      "ticker": "ADYEN-NL",
+      "name": "Adyen NV",
+      "percent": "0.269511"
+    },
+    {
+      "ticker": "CS-FR",
+      "name": "AXA SA",
+      "percent": "0.269287"
+    },
+    {
+      "ticker": "MUV2-DE",
+      "name": "Munich Reinsurance Company",
+      "percent": "0.265168"
+    },
+    {
+      "ticker": "RI-FR",
+      "name": "Pernod Ricard SA",
+      "percent": "0.264847"
+    },
+    {
+      "ticker": "9983-JP",
+      "name": "FAST RETAILING CO. LTD.",
+      "percent": "0.264668"
+    },
+    {
+      "ticker": "6501-JP",
+      "name": "HitachiLtd.",
+      "percent": "0.256390"
+    },
+    {
+      "ticker": "9434-JP",
+      "name": "SoftBank Corp.",
+      "percent": "0.254180"
+    },
+    {
+      "ticker": "SAF-FR",
+      "name": "Safran S.A.",
+      "percent": "0.253676"
+    },
+    {
+      "ticker": "DB1-DE",
+      "name": "Deutsche Boerse AG",
+      "percent": "0.251452"
+    },
+    {
+      "ticker": "AD-NL",
+      "name": "Koninklijke Ahold Delhaize N.V.",
+      "percent": "0.250541"
+    },
+    {
+      "ticker": "ATCO.A-SE",
+      "name": "Atlas Copco AB Class A",
+      "percent": "0.247213"
+    },
+    {
+      "ticker": "MQG-AU",
+      "name": "Macquarie Group Limited",
+      "percent": "0.246230"
+    },
+    {
+      "ticker": "SAN-ES",
+      "name": "Banco Santander S.A.",
+      "percent": "0.242068"
+    },
+    {
+      "ticker": "ERIC.B-SE",
+      "name": "Telefonaktiebolaget LM Ericsson Class B",
+      "percent": "0.241979"
+    },
+    {
+      "ticker": "ORSTED-DK",
+      "name": "Orsted",
+      "percent": "0.240673"
+    },
+    {
+      "ticker": "8411-JP",
+      "name": "Mizuho Financial Group Inc.",
+      "percent": "0.233511"
+    },
+    {
+      "ticker": "ITX-ES",
+      "name": "Industria de Diseno Textil S.A.",
+      "percent": "0.232306"
+    },
+    {
+      "ticker": "ALC-CH",
+      "name": "Alcon Inc.",
+      "percent": "0.231896"
+    },
+    {
+      "ticker": "2413-JP",
+      "name": "M3 Inc.",
+      "percent": "0.231105"
+    },
+    {
+      "ticker": "DSM-NL",
+      "name": "Koninklijke DSM N.V.",
+      "percent": "0.231021"
+    },
+    {
+      "ticker": "CRG-IE",
+      "name": "CRH Plc",
+      "percent": "0.230625"
+    },
+    {
+      "ticker": "ISP-IT",
+      "name": "Intesa Sanpaolo S.p.A.",
+      "percent": "0.230618"
+    },
+    {
+      "ticker": "VOLV.B-SE",
+      "name": "Volvo AB Class B",
+      "percent": "0.229806"
+    },
+    {
+      "ticker": "8766-JP",
+      "name": "Tokio Marine Holdings Inc.",
+      "percent": "0.229440"
+    },
+    {
+      "ticker": "4661-JP",
+      "name": "Oriental Land Co. Ltd.",
+      "percent": "0.228812"
+    },
+    {
+      "ticker": "KNEBV-FI",
+      "name": "Kone Oyj Class B",
+      "percent": "0.227742"
+    },
+    {
+      "ticker": "VOW3-DE",
+      "name": "Volkswagen AG Pref",
+      "percent": "0.226237"
+    },
+    {
+      "ticker": "4519-JP",
+      "name": "Chugai Pharmaceutical Co. Ltd.",
+      "percent": "0.223258"
+    },
+    {
+      "ticker": "INVE.B-SE",
+      "name": "Investor AB Class B",
+      "percent": "0.221232"
+    },
+    {
+      "ticker": "INGA-NL",
+      "name": "ING Groep NV",
+      "percent": "0.220674"
+    },
+    {
+      "ticker": "RMS-FR",
+      "name": "Hermes International SCA",
+      "percent": "0.220159"
+    },
+    {
+      "ticker": "6273-JP",
+      "name": "SMC Corporation",
+      "percent": "0.217387"
+    },
+    {
+      "ticker": "D05-SG",
+      "name": "DBS Group Holdings Ltd",
+      "percent": "0.215257"
+    },
+    {
+      "ticker": "6702-JP",
+      "name": "Fujitsu Limited",
+      "percent": "0.213102"
+    },
+    {
+      "ticker": "TSCO-GB",
+      "name": "Tesco PLC",
+      "percent": "0.213070"
+    },
+    {
+      "ticker": "TCL-AU",
+      "name": "Transurban Group Ltd.",
+      "percent": "0.211910"
+    },
+    {
+      "ticker": "9432-JP",
+      "name": "Nippon Telegraph and Telephone Corporation",
+      "percent": "0.209533"
+    },
+    {
+      "ticker": "CPG-GB",
+      "name": "Compass Group PLC",
+      "percent": "0.208523"
+    },
+    {
+      "ticker": "FLTR-IE",
+      "name": "Flutter Entertainment Plc",
+      "percent": "0.202465"
+    },
+    {
+      "ticker": "4503-JP",
+      "name": "Astellas Pharma Inc.",
+      "percent": "0.202405"
+    },
+    {
+      "ticker": "4911-JP",
+      "name": "Shiseido CompanyLimited",
+      "percent": "0.199288"
+    },
+    {
+      "ticker": "RIO-AU",
+      "name": "Rio Tinto Limited",
+      "percent": "0.196333"
+    },
+    {
+      "ticker": "4543-JP",
+      "name": "Terumo Corporation",
+      "percent": "0.195462"
+    },
+    {
+      "ticker": "EOAN-DE",
+      "name": "E.ON SE",
+      "percent": "0.194315"
+    },
+    {
+      "ticker": "3382-JP",
+      "name": "Seven & I Holdings Co. Ltd.",
+      "percent": "0.193652"
+    },
+    {
+      "ticker": "NDA.SE-SE",
+      "name": "Nordea Bank Abp",
+      "percent": "0.193480"
+    },
+    {
+      "ticker": "VIV-FR",
+      "name": "Vivendi SA",
+      "percent": "0.192628"
+    },
+    {
+      "ticker": "CSGN-CH",
+      "name": "Credit Suisse Group AG",
+      "percent": "0.190972"
+    },
+    {
+      "ticker": "LHN-CH",
+      "name": "LafargeHolcim Ltd.",
+      "percent": "0.188979"
+    },
+    {
+      "ticker": "LLOY-GB",
+      "name": "Lloyds Banking Group plc",
+      "percent": "0.187107"
+    },
+    {
+      "ticker": "6503-JP",
+      "name": "Mitsubishi Electric Corp.",
+      "percent": "0.186921"
+    },
+    {
+      "ticker": "DSY-FR",
+      "name": "Dassault Systemes SA",
+      "percent": "0.186534"
+    },
+    {
+      "ticker": "BMW-DE",
+      "name": "Bayerische Motoren Werke AG",
+      "percent": "0.186161"
+    },
+    {
+      "ticker": "70286227",
+      "name": "STATE STREET INSTITUTIONAL LIQ STATE STR",
+      "percent": "0.186117"
+    },
+    {
+      "ticker": "HEIA-NL",
+      "name": "Heineken NV",
+      "percent": "0.186013"
+    },
+    {
+      "ticker": "AMS-ES",
+      "name": "Amadeus IT Group SA Class A",
+      "percent": "0.185746"
+    },
+    {
+      "ticker": "REL-GB",
+      "name": "RELX PLC",
+      "percent": "0.185604"
+    },
+    {
+      "ticker": "GMAB-DK",
+      "name": "Genmab A/S",
+      "percent": "0.184982"
+    },
+    {
+      "ticker": "ASSA.B-SE",
+      "name": "ASSA ABLOY AB Class B",
+      "percent": "0.184336"
+    },
+    {
+      "ticker": "7733-JP",
+      "name": "Olympus Corp.",
+      "percent": "0.182579"
+    },
+    {
+      "ticker": "NESTE-FI",
+      "name": "Neste Corporation",
+      "percent": "0.181582"
+    },
+    {
+      "ticker": "FERG-GB",
+      "name": "Ferguson Plc",
+      "percent": "0.179072"
+    },
+    {
+      "ticker": "WKL-NL",
+      "name": "Wolters Kluwer NV",
+      "percent": "0.177762"
+    },
+    {
+      "ticker": "RACE-IT",
+      "name": "Ferrari NV",
+      "percent": "0.176639"
+    },
+    {
+      "ticker": "2914-JP",
+      "name": "Japan Tobacco Inc.",
+      "percent": "0.174609"
+    },
+    {
+      "ticker": "NOKIA-FI",
+      "name": "Nokia Oyj",
+      "percent": "0.174316"
+    },
+    {
+      "ticker": "ORA-FR",
+      "name": "Orange SA",
+      "percent": "0.173252"
+    },
+    {
+      "ticker": "BARC-GB",
+      "name": "Barclays PLC",
+      "percent": "0.173020"
+    },
+    {
+      "ticker": "GMG-AU",
+      "name": "Goodman Group",
+      "percent": "0.172710"
+    },
+    {
+      "ticker": "SGO-FR",
+      "name": "Compagnie de Saint-Gobain SA",
+      "percent": "0.172412"
+    },
+    {
+      "ticker": "4523-JP",
+      "name": "Eisai Co. Ltd.",
+      "percent": "0.171751"
+    },
+    {
+      "ticker": "GEBN-CH",
+      "name": "Geberit AG",
+      "percent": "0.170837"
+    },
+    {
+      "ticker": "SAND-SE",
+      "name": "Sandvik AB",
+      "percent": "0.168418"
+    },
+    {
+      "ticker": "STM-FR",
+      "name": "STMicroelectronics NV",
+      "percent": "0.167807"
+    },
+    {
+      "ticker": "SREN-CH",
+      "name": "Swiss Re AG",
+      "percent": "0.167100"
+    },
+    {
+      "ticker": "LR-FR",
+      "name": "Legrand SA",
+      "percent": "0.165059"
+    },
+    {
+      "ticker": "O39-SG",
+      "name": "Oversea-Chinese Banking Corporation Limited",
+      "percent": "0.164543"
+    },
+    {
+      "ticker": "HEXA.B-SE",
+      "name": "Hexagon AB Class B",
+      "percent": "0.161101"
+    },
+    {
+      "ticker": "KRZ-IE",
+      "name": "Kerry Group Plc Class A",
+      "percent": "0.157970"
+    },
+    {
+      "ticker": "ESSITY.B-SE",
+      "name": "Essity AB Class B",
+      "percent": "0.157703"
+    },
+    {
+      "ticker": "CAP-FR",
+      "name": "Capgemini SE",
+      "percent": "0.157139"
+    },
+    {
+      "ticker": "AKZA-NL",
+      "name": "Akzo Nobel N.V.",
+      "percent": "0.157053"
+    },
+    {
+      "ticker": "6301-JP",
+      "name": "Komatsu Ltd.",
+      "percent": "0.155580"
+    },
+    {
+      "ticker": "FMG-AU",
+      "name": "Fortescue Metals Group Ltd",
+      "percent": "0.153918"
+    },
+    {
+      "ticker": "BA-GB",
+      "name": "BAE Systems plc",
+      "percent": "0.151708"
+    },
+    {
+      "ticker": "9735-JP",
+      "name": "Secom Co. Ltd.",
+      "percent": "0.150983"
+    },
+    {
+      "ticker": "669-HK",
+      "name": "Techtronic Industries Co. Ltd.",
+      "percent": "0.149682"
+    },
+    {
+      "ticker": "6326-JP",
+      "name": "Kubota Corporation",
+      "percent": "0.149659"
+    },
+    {
+      "ticker": "CLNX-ES",
+      "name": "Cellnex Telecom S.A.",
+      "percent": "0.148722"
+    },
+    {
+      "ticker": "SAMPO-FI",
+      "name": "Sampo Oyj Class A",
+      "percent": "0.148604"
+    },
+    {
+      "ticker": "4689-JP",
+      "name": "Z Holdings Corporation",
+      "percent": "0.148554"
+    },
+    {
+      "ticker": "6902-JP",
+      "name": "DENSO CORPORATION",
+      "percent": "0.148209"
+    },
+    {
+      "ticker": "6971-JP",
+      "name": "Kyocera Corporation",
+      "percent": "0.147667"
+    },
+    {
+      "ticker": "HEN3-DE",
+      "name": "Henkel AG & Co. KGaA Pref",
+      "percent": "0.146022"
+    },
+    {
+      "ticker": "MRK-DE",
+      "name": "Merck KGaA",
+      "percent": "0.144431"
+    },
+    {
+      "ticker": "4901-JP",
+      "name": "FUJIFILM Holdings Corp",
+      "percent": "0.144287"
+    },
+    {
+      "ticker": "TEP-FR",
+      "name": "Teleperformance SE",
+      "percent": "0.143641"
+    },
+    {
+      "ticker": "8113-JP",
+      "name": "Unicharm Corporation",
+      "percent": "0.143220"
+    },
+    {
+      "ticker": "9022-JP",
+      "name": "Central Japan Railway Company",
+      "percent": "0.143060"
+    },
+    {
+      "ticker": "NCM-AU",
+      "name": "Newcrest Mining Limited",
+      "percent": "0.142134"
+    },
+    {
+      "ticker": "9020-JP",
+      "name": "East Japan Railway Company",
+      "percent": "0.141955"
+    },
+    {
+      "ticker": "8267-JP",
+      "name": "AEON Co. Ltd.",
+      "percent": "0.141789"
+    },
+    {
+      "ticker": "6752-JP",
+      "name": "Panasonic Corporation",
+      "percent": "0.141503"
+    },
+    {
+      "ticker": "ML-FR",
+      "name": "Compagnie Generale des Etablissements Michelin SCA",
+      "percent": "0.140489"
+    },
+    {
+      "ticker": "COLO.B-DK",
+      "name": "Coloplast A/S Class B",
+      "percent": "0.140250"
+    },
+    {
+      "ticker": "SY1-DE",
+      "name": "Symrise AG",
+      "percent": "0.138752"
+    },
+    {
+      "ticker": "BBVA-ES",
+      "name": "Banco Bilbao Vizcaya Argentaria S.A.",
+      "percent": "0.138088"
+    },
+    {
+      "ticker": "DWNI-DE",
+      "name": "Deutsche Wohnen SE",
+      "percent": "0.138081"
+    },
+    {
+      "ticker": "8802-JP",
+      "name": "Mitsubishi Estate Company Limited",
+      "percent": "0.138028"
+    },
+    {
+      "ticker": "FRE-DE",
+      "name": "Fresenius SE & Co. KGaA",
+      "percent": "0.137803"
+    },
+    {
+      "ticker": "FME-DE",
+      "name": "Fresenius Medical Care AG & Co. KGaA",
+      "percent": "0.136964"
+    },
+    {
+      "ticker": "TEF-ES",
+      "name": "Telefonica SA",
+      "percent": "0.136309"
+    },
+    {
+      "ticker": "DBK-DE",
+      "name": "Deutsche Bank AG",
+      "percent": "0.135824"
+    },
+    {
+      "ticker": "PGHN-CH",
+      "name": "Partners Group Holding AG",
+      "percent": "0.134631"
+    },
+    {
+      "ticker": "AHT-GB",
+      "name": "Ashtead Group plc",
+      "percent": "0.133851"
+    },
+    {
+      "ticker": "REN-NL",
+      "name": "RELX PLC",
+      "percent": "0.133158"
+    },
+    {
+      "ticker": "8591-JP",
+      "name": "ORIX Corporation",
+      "percent": "0.132886"
+    },
+    {
+      "ticker": "COL-AU",
+      "name": "Coles Group Ltd.",
+      "percent": "0.132403"
+    },
+    {
+      "ticker": "UCG-IT",
+      "name": "UniCredit S.p.A.",
+      "percent": "0.132092"
+    },
+    {
+      "ticker": "823-HK",
+      "name": "Link Real Estate Investment Trust",
+      "percent": "0.130615"
+    },
+    {
+      "ticker": "16-HK",
+      "name": "Sun Hung Kai Properties Limited",
+      "percent": "0.130428"
+    },
+    {
+      "ticker": "8801-JP",
+      "name": "Mitsui Fudosan Co. Ltd.",
+      "percent": "0.130000"
+    },
+    {
+      "ticker": "SN-GB",
+      "name": "Smith & Nephew plc",
+      "percent": "0.129927"
+    },
+    {
+      "ticker": "U11-SG",
+      "name": "United Overseas Bank Ltd. (Singapore)",
+      "percent": "0.129775"
+    },
+    {
+      "ticker": "SGSN-CH",
+      "name": "SGS SA",
+      "percent": "0.129468"
+    },
+    {
+      "ticker": "5108-JP",
+      "name": "Bridgestone Corporation",
+      "percent": "0.128924"
+    },
+    {
+      "ticker": "8750-JP",
+      "name": "Dai-ichi Life HoldingsInc.",
+      "percent": "0.128125"
+    },
+    {
+      "ticker": "7269-JP",
+      "name": "Suzuki Motor Corp.",
+      "percent": "0.126671"
+    },
+    {
+      "ticker": "UPM-FI",
+      "name": "UPM-Kymmene Oyj",
+      "percent": "0.124986"
+    },
+    {
+      "ticker": "7832-JP",
+      "name": "BANDAI NAMCO Holdings Inc.",
+      "percent": "0.124310"
+    },
+    {
+      "ticker": "IMB-GB",
+      "name": "Imperial Brands PLC",
+      "percent": "0.124006"
+    },
+    {
+      "ticker": "7751-JP",
+      "name": "Canon Inc.",
+      "percent": "0.123271"
+    },
+    {
+      "ticker": "ATCO.B-SE",
+      "name": "Atlas Copco AB Class B",
+      "percent": "0.122952"
+    },
+    {
+      "ticker": "1925-JP",
+      "name": "Daiwa House Industry Co. Ltd.",
+      "percent": "0.122732"
+    },
+    {
+      "ticker": "2502-JP",
+      "name": "Asahi Group HoldingsLtd.",
+      "percent": "0.119662"
+    },
+    {
+      "ticker": "SEB.A-SE",
+      "name": "Skandinaviska Enskilda Banken AB Class A",
+      "percent": "0.118928"
+    },
+    {
+      "ticker": "DHER-DE",
+      "name": "Delivery Hero SE",
+      "percent": "0.118709"
+    },
+    {
+      "ticker": "G-IT",
+      "name": "Assicurazioni Generali S.p.A.",
+      "percent": "0.118541"
+    },
+    {
+      "ticker": "2503-JP",
+      "name": "Kirin Holdings Company Limited",
+      "percent": "0.117774"
+    },
+    {
+      "ticker": "ZAL-DE",
+      "name": "Zalando SE",
+      "percent": "0.117483"
+    },
+    {
+      "ticker": "4578-JP",
+      "name": "Otsuka Holdings Co. Ltd.",
+      "percent": "0.116484"
+    },
+    {
+      "ticker": "6869-JP",
+      "name": "Sysmex Corporation",
+      "percent": "0.116361"
+    },
+    {
+      "ticker": "NICE-IL",
+      "name": "NICE Ltd",
+      "percent": "0.115922"
+    },
+    {
+      "ticker": "9843-JP",
+      "name": "Nitori Holdings Co. Ltd.",
+      "percent": "0.115391"
+    },
+    {
+      "ticker": "SOON-CH",
+      "name": "Sonova Holding AG",
+      "percent": "0.115280"
+    },
+    {
+      "ticker": "CHKP",
+      "name": "Check Point Software Technologies Ltd.",
+      "percent": "0.114882"
+    },
+    {
+      "ticker": "27-HK",
+      "name": "Galaxy Entertainment Group Limited",
+      "percent": "0.114687"
+    },
+    {
+      "ticker": "SRT3-DE",
+      "name": "Sartorius AG Pref",
+      "percent": "0.114053"
+    },
+    {
+      "ticker": "CARL.B-DK",
+      "name": "Carlsberg A/S Class B",
+      "percent": "0.113668"
+    },
+    {
+      "ticker": "WIX",
+      "name": "Wix.com Ltd.",
+      "percent": "0.113529"
+    },
+    {
+      "ticker": "SWED.A-SE",
+      "name": "Swedbank AB Class A",
+      "percent": "0.113424"
+    },
+    {
+      "ticker": "6762-JP",
+      "name": "TDK Corporation",
+      "percent": "0.112031"
+    },
+    {
+      "ticker": "LGEN-GB",
+      "name": "Legal & General Group Plc",
+      "percent": "0.111654"
+    },
+    {
+      "ticker": "TKWY-NL",
+      "name": "Just Eat Takeaway.com N.V.",
+      "percent": "0.111593"
+    },
+    {
+      "ticker": "8604-JP",
+      "name": "Nomura Holdings Inc.",
+      "percent": "0.111212"
+    },
+    {
+      "ticker": "APT-AU",
+      "name": "Afterpay Limited",
+      "percent": "0.111052"
+    },
+    {
+      "ticker": "AV-GB",
+      "name": "Aviva plc",
+      "percent": "0.110590"
+    },
+    {
+      "ticker": "EDP-PT",
+      "name": "EDP-Energias de Portugal SA",
+      "percent": "0.110190"
+    },
+    {
+      "ticker": "6645-JP",
+      "name": "OMRON Corporation",
+      "percent": "0.109971"
+    },
+    {
+      "ticker": "OCDO-GB",
+      "name": "Ocado Group PLC",
+      "percent": "0.109463"
+    },
+    {
+      "ticker": "KRX-IE",
+      "name": "Kingspan Group Plc",
+      "percent": "0.109130"
+    },
+    {
+      "ticker": "7309-JP",
+      "name": "Shimano Inc.",
+      "percent": "0.108551"
+    },
+    {
+      "ticker": "HM.B-SE",
+      "name": "H&M Hennes & Mauritz AB Class B",
+      "percent": "0.107769"
+    },
+    {
+      "ticker": "6701-JP",
+      "name": "NEC Corp.",
+      "percent": "0.107160"
+    },
+    {
+      "ticker": "DNB-NO",
+      "name": "DNB ASA",
+      "percent": "0.106826"
+    },
+    {
+      "ticker": "SWMA-SE",
+      "name": "Swedish Match AB",
+      "percent": "0.106774"
+    },
+    {
+      "ticker": "NZYM.B-DK",
+      "name": "Novozymes A/S Class B",
+      "percent": "0.106397"
+    },
+    {
+      "ticker": "SCMN-CH",
+      "name": "Swisscom AG",
+      "percent": "0.106358"
+    },
+    {
+      "ticker": "FPH-NZ",
+      "name": "Fisher & Paykel Healthcare Corporation Limited",
+      "percent": "0.106080"
+    },
+    {
+      "ticker": "SGRO-GB",
+      "name": "SEGRO plc",
+      "percent": "0.105235"
+    },
+    {
+      "ticker": "UCB-BE",
+      "name": "UCB S.A.",
+      "percent": "0.104544"
+    },
+    {
+      "ticker": "SHB.A-SE",
+      "name": "Svenska Handelsbanken AB Class A",
+      "percent": "0.103659"
+    },
+    {
+      "ticker": "4507-JP",
+      "name": "Shionogi & Co. Ltd.",
+      "percent": "0.103582"
+    },
+    {
+      "ticker": "8697-JP",
+      "name": "Japan Exchange Group Inc.",
+      "percent": "0.103281"
+    },
+    {
+      "ticker": "III-GB",
+      "name": "3i Group plc",
+      "percent": "0.102103"
+    },
+    {
+      "ticker": "4612-JP",
+      "name": "NIPPON PAINT HOLDINGS CO.LTD.",
+      "percent": "0.101628"
+    },
+    {
+      "ticker": "STAN-GB",
+      "name": "Standard Chartered PLC",
+      "percent": "0.101565"
+    },
+    {
+      "ticker": "Z74-SG",
+      "name": "Singapore Telecommunications Limited",
+      "percent": "0.101429"
+    },
+    {
+      "ticker": "LOGN-CH",
+      "name": "Logitech International S.A.",
+      "percent": "0.100686"
+    },
+    {
+      "ticker": "KBC-BE",
+      "name": "KBC Group N.V.",
+      "percent": "0.100302"
+    },
+    {
+      "ticker": "ALL-AU",
+      "name": "Aristocrat Leisure Limited",
+      "percent": "0.099916"
+    },
+    {
+      "ticker": "FCA-IT",
+      "name": "Fiat Chrysler Automobiles N.V.",
+      "percent": "0.098937"
+    },
+    {
+      "ticker": "BGNE",
+      "name": "BeiGene Ltd. Sponsored ADR",
+      "percent": "0.098905"
+    },
+    {
+      "ticker": "8630-JP",
+      "name": "Sompo HoldingsInc.",
+      "percent": "0.098165"
+    },
+    {
+      "ticker": "RTO-GB",
+      "name": "Rentokil Initial plc",
+      "percent": "0.098149"
+    },
+    {
+      "ticker": "ITRK-GB",
+      "name": "Intertek Group plc",
+      "percent": "0.097396"
+    },
+    {
+      "ticker": "CON-DE",
+      "name": "Continental AG",
+      "percent": "0.097323"
+    },
+    {
+      "ticker": "8725-JP",
+      "name": "MS&AD Insurance Group Holdings Inc.",
+      "percent": "0.095931"
+    },
+    {
+      "ticker": "JHX-AU",
+      "name": "James Hardie Industries PLC Chess Units of Foreign Securities",
+      "percent": "0.095923"
+    },
+    {
+      "ticker": "1113-HK",
+      "name": "CK Asset Holdings Limited",
+      "percent": "0.095861"
+    },
+    {
+      "ticker": "TEL-NO",
+      "name": "Telenor ASA",
+      "percent": "0.094295"
+    },
+    {
+      "ticker": "QIA-DE",
+      "name": "QIAGEN NV",
+      "percent": "0.094277"
+    },
+    {
+      "ticker": "7270-JP",
+      "name": "SUBARU CORP",
+      "percent": "0.093264"
+    },
+    {
+      "ticker": "ARGX-BE",
+      "name": "arGEN-X SE",
+      "percent": "0.092850"
+    },
+    {
+      "ticker": "HLMA-GB",
+      "name": "Halma plc",
+      "percent": "0.092841"
+    },
+    {
+      "ticker": "BXB-AU",
+      "name": "Brambles Limited",
+      "percent": "0.092623"
+    },
+    {
+      "ticker": "4528-JP",
+      "name": "ONO Pharmaceutical Co. Ltd.",
+      "percent": "0.092576"
+    },
+    {
+      "ticker": "SHL-DE",
+      "name": "Siemens Healthineers AG",
+      "percent": "0.092453"
+    },
+    {
+      "ticker": "NN-NL",
+      "name": "NN Group N.V.",
+      "percent": "0.091937"
+    },
+    {
+      "ticker": "SLHN-CH",
+      "name": "Swiss Life Holding AG",
+      "percent": "0.090966"
+    },
+    {
+      "ticker": "EDEN-FR",
+      "name": "Edenred SA",
+      "percent": "0.090914"
+    },
+    {
+      "ticker": "MAERSK.B-DK",
+      "name": "A.P. Moller - Maersk A/S Class B",
+      "percent": "0.090431"
+    },
+    {
+      "ticker": "FER-ES",
+      "name": "Ferrovial S.A.",
+      "percent": "0.090206"
+    },
+    {
+      "ticker": "GLE-FR",
+      "name": "Societe Generale S.A. Class A",
+      "percent": "0.089099"
+    },
+    {
+      "ticker": "BEI-DE",
+      "name": "Beiersdorf AG",
+      "percent": "0.088117"
+    },
+    {
+      "ticker": "ASX-AU",
+      "name": "ASX Limited",
+      "percent": "0.087978"
+    },
+    {
+      "ticker": "3659-JP",
+      "name": "NEXON Co. Ltd.",
+      "percent": "0.087930"
+    },
+    {
+      "ticker": "SHL-AU",
+      "name": "Sonic Healthcare Limited",
+      "percent": "0.087653"
+    },
+    {
+      "ticker": "VIE-FR",
+      "name": "Veolia Environnement SA",
+      "percent": "0.087151"
+    },
+    {
+      "ticker": "6857-JP",
+      "name": "Advantest Corp.",
+      "percent": "0.086504"
+    },
+    {
+      "ticker": "STMN-CH",
+      "name": "Straumann Holding AG",
+      "percent": "0.086400"
+    },
+    {
+      "ticker": "SCHP-CH",
+      "name": "Schindler Holding AG Pref",
+      "percent": "0.086179"
+    },
+    {
+      "ticker": "BT.A-GB",
+      "name": "BT Group plc",
+      "percent": "0.086144"
+    },
+    {
+      "ticker": "PSN-GB",
+      "name": "Persimmon Plc",
+      "percent": "0.085364"
+    },
+    {
+      "ticker": "1928-JP",
+      "name": "Sekisui House Ltd.",
+      "percent": "0.085146"
+    },
+    {
+      "ticker": "ERF-FR",
+      "name": "Eurofins Scientific Societe Europeenne",
+      "percent": "0.085016"
+    },
+    {
+      "ticker": "11-HK",
+      "name": "Hang Seng Bank Limited",
+      "percent": "0.084832"
+    },
+    {
+      "ticker": "6586-JP",
+      "name": "Makita Corporation",
+      "percent": "0.084715"
+    },
+    {
+      "ticker": "TELIA-SE",
+      "name": "Telia Company AB",
+      "percent": "0.084396"
+    },
+    {
+      "ticker": "6178-JP",
+      "name": "JAPAN POST HOLDINGS Co. Ltd.",
+      "percent": "0.083982"
+    },
+    {
+      "ticker": "SPX-GB",
+      "name": "Spirax-Sarco Engineering PLC",
+      "percent": "0.083858"
+    },
+    {
+      "ticker": "CHR-DK",
+      "name": "Chr. Hansen Holding A/S",
+      "percent": "0.083586"
+    },
+    {
+      "ticker": "BNZL-GB",
+      "name": "Bunzl plc",
+      "percent": "0.083502"
+    },
+    {
+      "ticker": "GBLB-BE",
+      "name": "Groupe Bruxelles Lambert SA",
+      "percent": "0.083385"
+    },
+    {
+      "ticker": "4684-JP",
+      "name": "OBIC Co. Ltd.",
+      "percent": "0.083166"
+    },
+    {
+      "ticker": "6988-JP",
+      "name": "Nitto Denko Corp.",
+      "percent": "0.082986"
+    },
+    {
+      "ticker": "WLN-FR",
+      "name": "Worldline SA",
+      "percent": "0.082281"
+    },
+    {
+      "ticker": "WPP-GB",
+      "name": "WPP Plc",
+      "percent": "0.082204"
+    },
+    {
+      "ticker": "KNIN-CH",
+      "name": "Kuehne & Nagel International AG",
+      "percent": "0.082047"
+    },
+    {
+      "ticker": "3407-JP",
+      "name": "Asahi Kasei Corporation",
+      "percent": "0.081985"
+    },
+    {
+      "ticker": "SRG-IT",
+      "name": "Snam S.p.A.",
+      "percent": "0.081931"
+    },
+    {
+      "ticker": "MNDI-GB",
+      "name": "Mondi plc",
+      "percent": "0.081885"
+    },
+    {
+      "ticker": "CRDA-GB",
+      "name": "Croda International Plc",
+      "percent": "0.081865"
+    },
+    {
+      "ticker": "NXT-GB",
+      "name": "Next plc",
+      "percent": "0.081468"
+    },
+    {
+      "ticker": "UG-FR",
+      "name": "Peugeot SA",
+      "percent": "0.081443"
+    },
+    {
+      "ticker": "SGE-GB",
+      "name": "Sage Group plc",
+      "percent": "0.081172"
+    },
+    {
+      "ticker": "CASH_EUR",
+      "name": "Euro",
+      "percent": "0.080806"
+    },
+    {
+      "ticker": "KINV.B-SE",
+      "name": "Kinnevik AB Class B",
+      "percent": "0.079871"
+    },
+    {
+      "ticker": "LEG-DE",
+      "name": "LEG Immobilien AG",
+      "percent": "0.079771"
+    },
+    {
+      "ticker": "EVO-SE",
+      "name": "Evolution Gaming Group AB",
+      "percent": "0.079382"
+    },
+    {
+      "ticker": "ACA-FR",
+      "name": "Credit Agricole SA",
+      "percent": "0.079196"
+    },
+    {
+      "ticker": "2388-HK",
+      "name": "BOC Hong Kong (Holdings) Limited",
+      "percent": "0.078831"
+    },
+    {
+      "ticker": "6502-JP",
+      "name": "Toshiba Corporation",
+      "percent": "0.078694"
+    },
+    {
+      "ticker": "GN-DK",
+      "name": "GN Store Nord A/S",
+      "percent": "0.078467"
+    },
+    {
+      "ticker": "4307-JP",
+      "name": "Nomura Research InstituteLtd.",
+      "percent": "0.078262"
+    },
+    {
+      "ticker": "6506-JP",
+      "name": "Yaskawa Electric Corporation",
+      "percent": "0.077893"
+    },
+    {
+      "ticker": "BNR-DE",
+      "name": "Brenntag AG",
+      "percent": "0.077712"
+    },
+    {
+      "ticker": "KPN-NL",
+      "name": "Royal KPN NV",
+      "percent": "0.077509"
+    },
+    {
+      "ticker": "TRN-IT",
+      "name": "Terna S.p.A.",
+      "percent": "0.077463"
+    },
+    {
+      "ticker": "DIM-FR",
+      "name": "Sartorius Stedim Biotech SA",
+      "percent": "0.077399"
+    },
+    {
+      "ticker": "HEN-DE",
+      "name": "Henkel AG & Co. KGaA",
+      "percent": "0.077064"
+    },
+    {
+      "ticker": "CA-FR",
+      "name": "Carrefour SA",
+      "percent": "0.076954"
+    },
+    {
+      "ticker": "BAER-CH",
+      "name": "Julius Baer Gruppe AG",
+      "percent": "0.076944"
+    },
+    {
+      "ticker": "AENA-ES",
+      "name": "Aena SME SA",
+      "percent": "0.076798"
+    },
+    {
+      "ticker": "7532-JP",
+      "name": "Pan Pacific International Holdings Corporation",
+      "percent": "0.076748"
+    },
+    {
+      "ticker": "ING-FR",
+      "name": "Ingenico Group SA",
+      "percent": "0.076190"
+    },
+    {
+      "ticker": "6383-JP",
+      "name": "Daifuku Co. Ltd.",
+      "percent": "0.076176"
+    },
+    {
+      "ticker": "STERV-FI",
+      "name": "Stora Enso Oyj Class R",
+      "percent": "0.075482"
+    },
+    {
+      "ticker": "IHG-GB",
+      "name": "InterContinental Hotels Group PLC",
+      "percent": "0.075147"
+    },
+    {
+      "ticker": "DANSKE-DK",
+      "name": "Danske Bank A/S",
+      "percent": "0.074511"
+    },
+    {
+      "ticker": "HEIO-NL",
+      "name": "Heineken Holding N.V.",
+      "percent": "0.074228"
+    },
+    {
+      "ticker": "QBE-AU",
+      "name": "QBE Insurance Group Limited",
+      "percent": "0.074114"
+    },
+    {
+      "ticker": "APA-AU",
+      "name": "APA Group",
+      "percent": "0.074072"
+    },
+    {
+      "ticker": "G24-DE",
+      "name": "Scout24 AG",
+      "percent": "0.073882"
+    },
+    {
+      "ticker": "GRF-ES",
+      "name": "Grifols S.A. Class A",
+      "percent": "0.073689"
+    },
+    {
+      "ticker": "2802-JP",
+      "name": "Ajinomoto Co. Inc.",
+      "percent": "0.073235"
+    },
+    {
+      "ticker": "HEI-DE",
+      "name": "HeidelbergCement AG",
+      "percent": "0.073235"
+    },
+    {
+      "ticker": "SK3-IE",
+      "name": "Smurfit Kappa Group Plc",
+      "percent": "0.073145"
+    },
+    {
+      "ticker": "COH-AU",
+      "name": "Cochlear Limited",
+      "percent": "0.072750"
+    },
+    {
+      "ticker": "8309-JP",
+      "name": "Sumitomo Mitsui Trust Holdings Inc.",
+      "percent": "0.072736"
+    },
+    {
+      "ticker": "MTX-DE",
+      "name": "MTU Aero Engines AG",
+      "percent": "0.072110"
+    },
+    {
+      "ticker": "EPI.A-SE",
+      "name": "Epiroc AB Class A",
+      "percent": "0.071809"
+    },
+    {
+      "ticker": "LISN-CH",
+      "name": "Chocoladefabriken Lindt & Spruengli AG",
+      "percent": "0.071627"
+    },
+    {
+      "ticker": "PAH3-DE",
+      "name": "Porsche Automobil Holding SE Pref",
+      "percent": "0.071190"
+    },
+    {
+      "ticker": "ALO-FR",
+      "name": "Alstom SA",
+      "percent": "0.070814"
+    },
+    {
+      "ticker": "MT-NL",
+      "name": "ArcelorMittal SA",
+      "percent": "0.070734"
+    },
+    {
+      "ticker": "FORTUM-FI",
+      "name": "Fortum Oyj",
+      "percent": "0.070600"
+    },
+    {
+      "ticker": "4755-JP",
+      "name": "Rakuten Inc.",
+      "percent": "0.070506"
+    },
+    {
+      "ticker": "PUM-DE",
+      "name": "PUMA SE",
+      "percent": "0.070341"
+    },
+    {
+      "ticker": "HNR1-DE",
+      "name": "Hannover Rueck SE",
+      "percent": "0.070188"
+    },
+    {
+      "ticker": "UBI-FR",
+      "name": "Ubisoft Entertainment SA",
+      "percent": "0.069741"
+    },
+    {
+      "ticker": "9064-JP",
+      "name": "Yamato Holdings Co. Ltd.",
+      "percent": "0.069604"
+    },
+    {
+      "ticker": "1COV-DE",
+      "name": "Covestro AG",
+      "percent": "0.068946"
+    },
+    {
+      "ticker": "KBX-DE",
+      "name": "Knorr-Bremse AG",
+      "percent": "0.068929"
+    },
+    {
+      "ticker": "ADEN-CH",
+      "name": "Adecco Group AG",
+      "percent": "0.068626"
+    },
+    {
+      "ticker": "UMI-BE",
+      "name": "Umicore",
+      "percent": "0.068478"
+    },
+    {
+      "ticker": "8830-JP",
+      "name": "Sumitomo Realty & Development Co. Ltd.",
+      "percent": "0.068299"
+    },
+    {
+      "ticker": "ELISA-FI",
+      "name": "Elisa Oyj Class A",
+      "percent": "0.067717"
+    },
+    {
+      "ticker": "TEMN-CH",
+      "name": "Temenos AG",
+      "percent": "0.067716"
+    },
+    {
+      "ticker": "FBK-IT",
+      "name": "FinecoBank SpA",
+      "percent": "0.067295"
+    },
+    {
+      "ticker": "PNDORA-DK",
+      "name": "Pandora A/S",
+      "percent": "0.067091"
+    },
+    {
+      "ticker": "LISP-CH",
+      "name": "Chocoladefabriken Lindt & Spruengli AG Partizipsch.",
+      "percent": "0.066907"
+    },
+    {
+      "ticker": "SCG-AU",
+      "name": "Scentre Group",
+      "percent": "0.066789"
+    },
+    {
+      "ticker": "6201-JP",
+      "name": "Toyota Industries Corp.",
+      "percent": "0.066742"
+    },
+    {
+      "ticker": "KGF-GB",
+      "name": "Kingfisher Plc",
+      "percent": "0.066630"
+    },
+    {
+      "ticker": "ELE-ES",
+      "name": "Endesa S.A.",
+      "percent": "0.066479"
+    },
+    {
+      "ticker": "1928-HK",
+      "name": "Sands China Ltd.",
+      "percent": "0.066171"
+    },
+    {
+      "ticker": "CNHI-IT",
+      "name": "CNH Industrial NV",
+      "percent": "0.065401"
+    },
+    {
+      "ticker": "TLS-AU",
+      "name": "Telstra Corporation Limited",
+      "percent": "0.065390"
+    },
+    {
+      "ticker": "9613-JP",
+      "name": "NTT DATA Corporation",
+      "percent": "0.065276"
+    },
+    {
+      "ticker": "NST-AU",
+      "name": "Northern Star Resources Ltd",
+      "percent": "0.064993"
+    },
+    {
+      "ticker": "SVT-GB",
+      "name": "Severn Trent Plc",
+      "percent": "0.063899"
+    },
+    {
+      "ticker": "BOL-SE",
+      "name": "Boliden AB",
+      "percent": "0.063896"
+    },
+    {
+      "ticker": "SCA.B-SE",
+      "name": "Svenska Cellulosa Aktiebolaget Class B",
+      "percent": "0.063855"
+    },
+    {
+      "ticker": "PUB-FR",
+      "name": "Publicis Groupe SA",
+      "percent": "0.063416"
+    },
+    {
+      "ticker": "7201-JP",
+      "name": "Nissan Motor Co. Ltd.",
+      "percent": "0.063411"
+    },
+    {
+      "ticker": "NIBE.B-SE",
+      "name": "NIBE Industrier AB Class B",
+      "percent": "0.063256"
+    },
+    {
+      "ticker": "6146-JP",
+      "name": "Disco Corporation",
+      "percent": "0.062893"
+    },
+    {
+      "ticker": "EN-FR",
+      "name": "Bouygues SA",
+      "percent": "0.062734"
+    },
+    {
+      "ticker": "5802-JP",
+      "name": "Sumitomo Electric Industries Ltd.",
+      "percent": "0.062537"
+    },
+    {
+      "ticker": "SKF.B-SE",
+      "name": "SKF AB Class B",
+      "percent": "0.062326"
+    },
+    {
+      "ticker": "BRBY-GB",
+      "name": "Burberry Group plc",
+      "percent": "0.062289"
+    },
+    {
+      "ticker": "GVC-GB",
+      "name": "GVC Holdings PLC",
+      "percent": "0.062156"
+    },
+    {
+      "ticker": "2127-JP",
+      "name": "Nihon M&A Center Inc.",
+      "percent": "0.062051"
+    },
+    {
+      "ticker": "MRO-GB",
+      "name": "Melrose Industries PLC",
+      "percent": "0.062041"
+    },
+    {
+      "ticker": "HO-FR",
+      "name": "Thales SA",
+      "percent": "0.061977"
+    },
+    {
+      "ticker": "9962-JP",
+      "name": "Misumi Group Inc.",
+      "percent": "0.061900"
+    },
+    {
+      "ticker": "66-HK",
+      "name": "MTR Corporation Limited",
+      "percent": "0.061857"
+    },
+    {
+      "ticker": "SUN-AU",
+      "name": "Suncorp Group Limited",
+      "percent": "0.061617"
+    },
+    {
+      "ticker": "ABF-GB",
+      "name": "Associated British Foods plc",
+      "percent": "0.061539"
+    },
+    {
+      "ticker": "9007-JP",
+      "name": "Odakyu Electric Railway Co. Ltd.",
+      "percent": "0.061401"
+    },
+    {
+      "ticker": "ATM-NZ",
+      "name": "a2 Milk Company Ltd.",
+      "percent": "0.061395"
+    },
+    {
+      "ticker": "4704-JP",
+      "name": "Trend Micro Incorporated",
+      "percent": "0.061367"
+    },
+    {
+      "ticker": "REE-ES",
+      "name": "Red Electrica Corp. SA",
+      "percent": "0.061351"
+    },
+    {
+      "ticker": "INF-GB",
+      "name": "Informa Plc",
+      "percent": "0.061168"
+    },
+    {
+      "ticker": "ATL-IT",
+      "name": "Atlantia S.p.A",
+      "percent": "0.060824"
+    },
+    {
+      "ticker": "NEXI-IT",
+      "name": "Nexi S.p.A.",
+      "percent": "0.060757"
+    },
+    {
+      "ticker": "RHC-AU",
+      "name": "Ramsay Health Care Limited",
+      "percent": "0.060728"
+    },
+    {
+      "ticker": "IAG-AU",
+      "name": "Insurance Australia Group Limited",
+      "percent": "0.060643"
+    },
+    {
+      "ticker": "5401-JP",
+      "name": "NIPPON STEEL CORP.",
+      "percent": "0.060556"
+    },
+    {
+      "ticker": "AGS-BE",
+      "name": "ageas SA/NV",
+      "percent": "0.060389"
+    },
+    {
+      "ticker": "ATO-FR",
+      "name": "Atos SE",
+      "percent": "0.060222"
+    },
+    {
+      "ticker": "AKE-FR",
+      "name": "Arkema SA",
+      "percent": "0.060191"
+    },
+    {
+      "ticker": "MONC-IT",
+      "name": "Moncler SpA",
+      "percent": "0.060061"
+    },
+    {
+      "ticker": "BDEV-GB",
+      "name": "Barratt Developments PLC",
+      "percent": "0.059862"
+    },
+    {
+      "ticker": "DXS-AU",
+      "name": "Dexus",
+      "percent": "0.059814"
+    },
+    {
+      "ticker": "17-HK",
+      "name": "New World Development Co. Ltd.",
+      "percent": "0.059709"
+    },
+    {
+      "ticker": "UU-GB",
+      "name": "United Utilities Group PLC",
+      "percent": "0.059688"
+    },
+    {
+      "ticker": "9042-JP",
+      "name": "Hankyu Hanshin Holdings Inc.",
+      "percent": "0.059624"
+    },
+    {
+      "ticker": "SKA.B-SE",
+      "name": "Skanska AB Class B",
+      "percent": "0.059343"
+    },
+    {
+      "ticker": "4536-JP",
+      "name": "Santen Pharmaceutical Co. Ltd.",
+      "percent": "0.059299"
+    },
+    {
+      "ticker": "MOWI-NO",
+      "name": "Mowi ASA",
+      "percent": "0.058807"
+    },
+    {
+      "ticker": "6-HK",
+      "name": "Power Assets Holdings Limited",
+      "percent": "0.058686"
+    },
+    {
+      "ticker": "FR-FR",
+      "name": "Valeo SA",
+      "percent": "0.058594"
+    },
+    {
+      "ticker": "5713-JP",
+      "name": "Sumitomo Metal Mining Co. Ltd.",
+      "percent": "0.058433"
+    },
+    {
+      "ticker": "ORK-NO",
+      "name": "Orkla ASA",
+      "percent": "0.058185"
+    },
+    {
+      "ticker": "CCEP-NL",
+      "name": "Coca-Cola European Partners Plc",
+      "percent": "0.057857"
+    },
+    {
+      "ticker": "A17U-SG",
+      "name": "Ascendas Real Estate Investment Trust",
+      "percent": "0.057832"
+    },
+    {
+      "ticker": "2269-JP",
+      "name": "Meiji Holdings Co. Ltd.",
+      "percent": "0.057804"
+    },
+    {
+      "ticker": "SMIN-GB",
+      "name": "Smiths Group Plc",
+      "percent": "0.057771"
+    },
+    {
+      "ticker": "SLA-GB",
+      "name": "Standard Life Aberdeen PLC",
+      "percent": "0.057613"
+    },
+    {
+      "ticker": "LUMI-IL",
+      "name": "Bank Leumi Le-Israel Ltd.",
+      "percent": "0.057546"
+    },
+    {
+      "ticker": "288-HK",
+      "name": "WH Group Ltd. (HK)",
+      "percent": "0.057336"
+    },
+    {
+      "ticker": "ACS-ES",
+      "name": "Actividades de Construccion y Servicios SA",
+      "percent": "0.057293"
+    },
+    {
+      "ticker": "4151-JP",
+      "name": "Kyowa Kirin Co. Ltd.",
+      "percent": "0.057290"
+    },
+    {
+      "ticker": "3283-JP",
+      "name": "Nippon Prologis REIT Inc.",
+      "percent": "0.057218"
+    },
+    {
+      "ticker": "PRY-IT",
+      "name": "Prysmian S.p.A.",
+      "percent": "0.056823"
+    },
+    {
+      "ticker": "TEVA-IL",
+      "name": "Teva Pharmaceutical Industries Limited",
+      "percent": "0.056561"
+    },
+    {
+      "ticker": "8308-JP",
+      "name": "Resona Holdings Inc.",
+      "percent": "0.056492"
+    },
+    {
+      "ticker": "BARN-CH",
+      "name": "Barry Callebaut AG",
+      "percent": "0.056041"
+    },
+    {
+      "ticker": "4188-JP",
+      "name": "Mitsubishi Chemical Holdings Corporation",
+      "percent": "0.055835"
+    },
+    {
+      "ticker": "7747-JP",
+      "name": "Asahi Intecc Co. Ltd.",
+      "percent": "0.055722"
+    },
+    {
+      "ticker": "BKG-GB",
+      "name": "Berkeley Group Holdings plc",
+      "percent": "0.055707"
+    },
+    {
+      "ticker": "EMSN-CH",
+      "name": "EMS-CHEMIE HOLDING AG",
+      "percent": "0.055391"
+    },
+    {
+      "ticker": "BALN-CH",
+      "name": "Baloise-Holding AG",
+      "percent": "0.054804"
+    },
+    {
+      "ticker": "9143-JP",
+      "name": "SG Holdings Co. Ltd.",
+      "percent": "0.054723"
+    },
+    {
+      "ticker": "UN01-DE",
+      "name": "Uniper SE",
+      "percent": "0.054476"
+    },
+    {
+      "ticker": "EVN-AU",
+      "name": "Evolution Mining Limited",
+      "percent": "0.054284"
+    },
+    {
+      "ticker": "SGP-AU",
+      "name": "Stockland",
+      "percent": "0.054200"
+    },
+    {
+      "ticker": "ALFA-SE",
+      "name": "Alfa Laval AB",
+      "percent": "0.053891"
+    },
+    {
+      "ticker": "STJ-GB",
+      "name": "St. James's Place Plc",
+      "percent": "0.053590"
+    },
+    {
+      "ticker": "CABK-ES",
+      "name": "CaixaBank SA",
+      "percent": "0.053579"
+    },
+    {
+      "ticker": "1997-HK",
+      "name": "Wharf Real Estate Investment Co. Ltd.",
+      "percent": "0.053468"
+    },
+    {
+      "ticker": "9503-JP",
+      "name": "Kansai Electric Power Company Incorporated",
+      "percent": "0.053423"
+    },
+    {
+      "ticker": "SOLB-BE",
+      "name": "Solvay SA",
+      "percent": "0.053410"
+    },
+    {
+      "ticker": "SPSN-CH",
+      "name": "Swiss Prime Site AG",
+      "percent": "0.053053"
+    },
+    {
+      "ticker": "BIM-FR",
+      "name": "bioMerieux SA",
+      "percent": "0.053051"
+    },
+    {
+      "ticker": "URW-NL",
+      "name": "Unibail-Rodamco-Westfield SE Stapled Secs Cons of 1 Sh Unibail Rodamco + 1 Sh WFD Unib Rod",
+      "percent": "0.052949"
+    },
+    {
+      "ticker": "BVI-FR",
+      "name": "Bureau Veritas SA",
+      "percent": "0.052806"
+    },
+    {
+      "ticker": "NWG-GB",
+      "name": "NatWest Group Plc",
+      "percent": "0.052711"
+    },
+    {
+      "ticker": "1801-JP",
+      "name": "TAISEI CORP",
+      "percent": "0.052618"
+    },
+    {
+      "ticker": "9021-JP",
+      "name": "West Japan Railway Company",
+      "percent": "0.052449"
+    },
+    {
+      "ticker": "TMV-DE",
+      "name": "TeamViewer AG",
+      "percent": "0.052445"
+    },
+    {
+      "ticker": "TEL2.B-SE",
+      "name": "Tele2 AB Class B",
+      "percent": "0.052404"
+    },
+    {
+      "ticker": "2267-JP",
+      "name": "Yakult Honsha Co. Ltd.",
+      "percent": "0.052377"
+    },
+    {
+      "ticker": "AUTO-GB",
+      "name": "Auto Trader Group PLC",
+      "percent": "0.052137"
+    },
+    {
+      "ticker": "SGRE-ES",
+      "name": "Siemens Gamesa Renewable Energy S.A.",
+      "percent": "0.052071"
+    },
+    {
+      "ticker": "ADM-GB",
+      "name": "Admiral Group plc",
+      "percent": "0.051809"
+    },
+    {
+      "ticker": "3064-JP",
+      "name": "MonotaRO Co. Ltd.",
+      "percent": "0.051686"
+    },
+    {
+      "ticker": "6479-JP",
+      "name": "MinebeaMitsumi Inc.",
+      "percent": "0.051644"
+    },
+    {
+      "ticker": "7701-JP",
+      "name": "Shimadzu Corporation",
+      "percent": "0.051520"
+    },
+    {
+      "ticker": "3402-JP",
+      "name": "Toray Industries Inc.",
+      "percent": "0.051361"
+    },
+    {
+      "ticker": "4324-JP",
+      "name": "Dentsu Group Inc.",
+      "percent": "0.050769"
+    },
+    {
+      "ticker": "DCC-GB",
+      "name": "DCC Plc",
+      "percent": "0.050634"
+    },
+    {
+      "ticker": "CPR-IT",
+      "name": "Davide Campari-Milano N.V.",
+      "percent": "0.050598"
+    },
+    {
+      "ticker": "6963-JP",
+      "name": "Rohm Co. Ltd.",
+      "percent": "0.050573"
+    },
+    {
+      "ticker": "8951-JP",
+      "name": "Nippon Building Fund Inc.",
+      "percent": "0.050513"
+    },
+    {
+      "ticker": "RAND-NL",
+      "name": "Randstad NV",
+      "percent": "0.050461"
+    },
+    {
+      "ticker": "AT1-DE",
+      "name": "Aroundtown SA",
+      "percent": "0.050425"
+    },
+    {
+      "ticker": "POLI-IL",
+      "name": "Bank Hapoalim BM",
+      "percent": "0.050374"
+    },
+    {
+      "ticker": "6920-JP",
+      "name": "Lasertec Corp.",
+      "percent": "0.050250"
+    },
+    {
+      "ticker": "9041-JP",
+      "name": "Kintetsu Group Holdings Co. Ltd.",
+      "percent": "0.050175"
+    },
+    {
+      "ticker": "4021-JP",
+      "name": "Nissan Chemical Corporation",
+      "percent": "0.050062"
+    },
+    {
+      "ticker": "KGX-DE",
+      "name": "KION GROUP AG",
+      "percent": "0.050001"
+    },
+    {
+      "ticker": "SW-FR",
+      "name": "Sodexo SA",
+      "percent": "0.049974"
+    },
+    {
+      "ticker": "6723-JP",
+      "name": "Renesas Electronics Corporation",
+      "percent": "0.049895"
+    },
+    {
+      "ticker": "FGR-FR",
+      "name": "Eiffage SA",
+      "percent": "0.049700"
+    },
+    {
+      "ticker": "4204-JP",
+      "name": "Sekisui Chemical Co. Ltd.",
+      "percent": "0.049359"
+    },
+    {
+      "ticker": "VIFN-CH",
+      "name": "Vifor Pharma AG",
+      "percent": "0.049131"
+    },
+    {
+      "ticker": "MGR-AU",
+      "name": "Mirvac Group",
+      "percent": "0.049122"
+    },
+    {
+      "ticker": "HL-GB",
+      "name": "Hargreaves Lansdown plc",
+      "percent": "0.048951"
+    },
+    {
+      "ticker": "GFC-FR",
+      "name": "Gecina SA",
+      "percent": "0.048891"
+    },
+    {
+      "ticker": "UHR-CH",
+      "name": "Swatch Group Ltd. Bearer",
+      "percent": "0.048875"
+    },
+    {
+      "ticker": "8601-JP",
+      "name": "Daiwa Securities Group Inc.",
+      "percent": "0.048807"
+    },
+    {
+      "ticker": "5201-JP",
+      "name": "AGC Inc.",
+      "percent": "0.048634"
+    },
+    {
+      "ticker": "SPK-NZ",
+      "name": "Spark New Zealand Limited",
+      "percent": "0.048263"
+    },
+    {
+      "ticker": "F34-SG",
+      "name": "Wilmar International Limited",
+      "percent": "0.048160"
+    },
+    {
+      "ticker": "AIA-NZ",
+      "name": "Auckland International Airport Limited",
+      "percent": "0.047945"
+    },
+    {
+      "ticker": "YAR-NO",
+      "name": "Yara International ASA",
+      "percent": "0.047925"
+    },
+    {
+      "ticker": "6965-JP",
+      "name": "Hamamatsu Photonics K.K.",
+      "percent": "0.047897"
+    },
+    {
+      "ticker": "GET-FR",
+      "name": "Getlink SE",
+      "percent": "0.047733"
+    },
+    {
+      "ticker": "7951-JP",
+      "name": "Yamaha Corporation",
+      "percent": "0.047638"
+    },
+    {
+      "ticker": "RSA-GB",
+      "name": "RSA Insurance Group plc",
+      "percent": "0.047232"
+    },
+    {
+      "ticker": "9001-JP",
+      "name": "Tobu Railway Co. Ltd.",
+      "percent": "0.047206"
+    },
+    {
+      "ticker": "GLPG-NL",
+      "name": "Galapagos NV",
+      "percent": "0.047188"
+    },
+    {
+      "ticker": "EBS-AT",
+      "name": "Erste Group Bank AG",
+      "percent": "0.047056"
+    },
+    {
+      "ticker": "1802-JP",
+      "name": "Obayashi Corporation",
+      "percent": "0.046821"
+    },
+    {
+      "ticker": "2801-JP",
+      "name": "Kikkoman Corporation",
+      "percent": "0.046634"
+    },
+    {
+      "ticker": "5332-JP",
+      "name": "TOTO Ltd",
+      "percent": "0.046123"
+    },
+    {
+      "ticker": "REC-IT",
+      "name": "Recordati Industria Chimica e Farmaceutica S.p.A.",
+      "percent": "0.046024"
+    },
+    {
+      "ticker": "CASH_AUD",
+      "name": "Australian Dollar",
+      "percent": "0.045953"
+    },
+    {
+      "ticker": "8473-JP",
+      "name": "SBI Holdings Inc.",
+      "percent": "0.045841"
+    },
+    {
+      "ticker": "SEV-FR",
+      "name": "SUEZ SA",
+      "percent": "0.045791"
+    },
+    {
+      "ticker": "GPT-AU",
+      "name": "GPT Group",
+      "percent": "0.045732"
+    },
+    {
+      "ticker": "SYD-AU",
+      "name": "Sydney Airport",
+      "percent": "0.045648"
+    },
+    {
+      "ticker": "4751-JP",
+      "name": "CyberAgent Inc.",
+      "percent": "0.045462"
+    },
+    {
+      "ticker": "EVK-DE",
+      "name": "Evonik Industries AG",
+      "percent": "0.045298"
+    },
+    {
+      "ticker": "SEK-AU",
+      "name": "Seek Limited",
+      "percent": "0.045154"
+    },
+    {
+      "ticker": "9684-JP",
+      "name": "Square Enix Holdings Co. Ltd.",
+      "percent": "0.044853"
+    },
+    {
+      "ticker": "BSL-AU",
+      "name": "Bluescope Steel Limited",
+      "percent": "0.044757"
+    },
+    {
+      "ticker": "5938-JP",
+      "name": "LIXIL Group Corp.",
+      "percent": "0.044751"
+    },
+    {
+      "ticker": "ENG-ES",
+      "name": "Enagas SA",
+      "percent": "0.044640"
+    },
+    {
+      "ticker": "7011-JP",
+      "name": "Mitsubishi Heavy Industries Ltd.",
+      "percent": "0.044549"
+    },
+    {
+      "ticker": "3281-JP",
+      "name": "GLP-J REIT",
+      "percent": "0.044082"
+    },
+    {
+      "ticker": "JMAT-GB",
+      "name": "Johnson Matthey Plc",
+      "percent": "0.044050"
+    },
+    {
+      "ticker": "AZJ-AU",
+      "name": "Aurizon Holdings Ltd.",
+      "percent": "0.043899"
+    },
+    {
+      "ticker": "AFX-DE",
+      "name": "Carl Zeiss Meditec AG",
+      "percent": "0.043852"
+    },
+    {
+      "ticker": "VOW-DE",
+      "name": "Volkswagen AG",
+      "percent": "0.043466"
+    },
+    {
+      "ticker": "8952-JP",
+      "name": "Japan Real Estate Investment Corp.",
+      "percent": "0.043410"
+    },
+    {
+      "ticker": "9005-JP",
+      "name": "TOKYU CORPORATION",
+      "percent": "0.043360"
+    },
+    {
+      "ticker": "DIA-IT",
+      "name": "DiaSorin S.p.A.",
+      "percent": "0.043224"
+    },
+    {
+      "ticker": "ANTO-GB",
+      "name": "Antofagasta plc",
+      "percent": "0.043184"
+    },
+    {
+      "ticker": "9048-JP",
+      "name": "Nagoya Railroad Co. Ltd.",
+      "percent": "0.043102"
+    },
+    {
+      "ticker": "9008-JP",
+      "name": "Keio Corporation",
+      "percent": "0.043094"
+    },
+    {
+      "ticker": "MNG-GB",
+      "name": "M&G Plc",
+      "percent": "0.043068"
+    },
+    {
+      "ticker": "EXO-IT",
+      "name": "EXOR N.V.",
+      "percent": "0.042952"
+    },
+    {
+      "ticker": "101-HK",
+      "name": "Hang Lung Properties Limited",
+      "percent": "0.042889"
+    },
+    {
+      "ticker": "WTB-GB",
+      "name": "Whitbread PLC",
+      "percent": "0.042832"
+    },
+    {
+      "ticker": "2897-JP",
+      "name": "Nissin Foods Holdings Co. Ltd.",
+      "percent": "0.042801"
+    },
+    {
+      "ticker": "8984-JP",
+      "name": "Daiwa House REIT Investment Corporation",
+      "percent": "0.042666"
+    },
+    {
+      "ticker": "MFG-AU",
+      "name": "Magellan Financial Group Ltd",
+      "percent": "0.042405"
+    },
+    {
+      "ticker": "PSON-GB",
+      "name": "Pearson PLC",
+      "percent": "0.042323"
+    },
+    {
+      "ticker": "ORP-FR",
+      "name": "Orpea SA",
+      "percent": "0.042222"
+    },
+    {
+      "ticker": "4613-JP",
+      "name": "Kansai Paint Co. Ltd.",
+      "percent": "0.042094"
+    },
+    {
+      "ticker": "TW-GB",
+      "name": "Taylor Wimpey plc",
+      "percent": "0.041916"
+    },
+    {
+      "ticker": "1878-JP",
+      "name": "Daito Trust Construction Co. Ltd.",
+      "percent": "0.041827"
+    },
+    {
+      "ticker": "1876-HK",
+      "name": "Budweiser Brewing Co. APAC Ltd.",
+      "percent": "0.041556"
+    },
+    {
+      "ticker": "G1A-DE",
+      "name": "GEA Group Aktiengesellschaft",
+      "percent": "0.041316"
+    },
+    {
+      "ticker": "7912-JP",
+      "name": "Dai Nippon Printing Co. Ltd.",
+      "percent": "0.041276"
+    },
+    {
+      "ticker": "C31-SG",
+      "name": "CapitaLand Limited",
+      "percent": "0.041234"
+    },
+    {
+      "ticker": "MEL-NZ",
+      "name": "Meridian Energy Limited",
+      "percent": "0.041171"
+    },
+    {
+      "ticker": "MRW-GB",
+      "name": "Wm Morrison Supermarkets plc",
+      "percent": "0.040966"
+    },
+    {
+      "ticker": "8795-JP",
+      "name": "T&D Holdings Inc.",
+      "percent": "0.040866"
+    },
+    {
+      "ticker": "AGN-NL",
+      "name": "Aegon NV",
+      "percent": "0.040753"
+    },
+    {
+      "ticker": "6823-HK",
+      "name": "HKT Trust and HKT Ltd",
+      "percent": "0.040744"
+    },
+    {
+      "ticker": "CASH_GBP",
+      "name": "British Pounds",
+      "percent": "0.040728"
+    },
+    {
+      "ticker": "4185-JP",
+      "name": "JSR Corp.",
+      "percent": "0.040442"
+    },
+    {
+      "ticker": "TAH-AU",
+      "name": "Tabcorp Holdings Limited",
+      "percent": "0.040401"
+    },
+    {
+      "ticker": "3769-JP",
+      "name": "GMO Payment Gateway Inc.",
+      "percent": "0.040380"
+    },
+    {
+      "ticker": "RNO-FR",
+      "name": "Renault SA",
+      "percent": "0.040316"
+    },
+    {
+      "ticker": "ELUX.B-SE",
+      "name": "Electrolux AB Class B",
+      "percent": "0.040299"
+    },
+    {
+      "ticker": "S68-SG",
+      "name": "Singapore Exchange Ltd.",
+      "percent": "0.040295"
+    },
+    {
+      "ticker": "LLC-AU",
+      "name": "Lendlease Group",
+      "percent": "0.040136"
+    },
+    {
+      "ticker": "EPI.B-SE",
+      "name": "Epiroc AB Class B",
+      "percent": "0.040109"
+    },
+    {
+      "ticker": "CBK-DE",
+      "name": "Commerzbank AG",
+      "percent": "0.039899"
+    },
+    {
+      "ticker": "4183-JP",
+      "name": "Mitsui Chemicals Inc.",
+      "percent": "0.039674"
+    },
+    {
+      "ticker": "MAERSK.A-DK",
+      "name": "A.P. Moller - Maersk A/S Class A",
+      "percent": "0.039391"
+    },
+    {
+      "ticker": "3462-JP",
+      "name": "Nomura Real Estate Master Fund Inc.",
+      "percent": "0.039333"
+    },
+    {
+      "ticker": "9435-JP",
+      "name": "Hikari Tsushin Inc.",
+      "percent": "0.039283"
+    },
+    {
+      "ticker": "12-HK",
+      "name": "Henderson Land Development Co. Ltd.",
+      "percent": "0.039238"
+    },
+    {
+      "ticker": "LXS-DE",
+      "name": "LANXESS AG",
+      "percent": "0.039111"
+    },
+    {
+      "ticker": "4768-JP",
+      "name": "Otsuka Corporation",
+      "percent": "0.039088"
+    },
+    {
+      "ticker": "7453-JP",
+      "name": "Ryohin Keikaku Co. Ltd.",
+      "percent": "0.038853"
+    },
+    {
+      "ticker": "HIK-GB",
+      "name": "Hikma Pharmaceuticals Plc",
+      "percent": "0.038818"
+    },
+    {
+      "ticker": "AC-FR",
+      "name": "Accor SA",
+      "percent": "0.038733"
+    },
+    {
+      "ticker": "3626-JP",
+      "name": "TIS Inc.",
+      "percent": "0.038727"
+    },
+    {
+      "ticker": "SCHN-CH",
+      "name": "Schindler Holding AG",
+      "percent": "0.038674"
+    },
+    {
+      "ticker": "ORNBV-FI",
+      "name": "Orion Oyj Class B",
+      "percent": "0.038562"
+    },
+    {
+      "ticker": "HUSQ.B-SE",
+      "name": "Husqvarna AB Class B",
+      "percent": "0.038548"
+    },
+    {
+      "ticker": "AMBU.B-DK",
+      "name": "Ambu A/S Class B",
+      "percent": "0.038545"
+    },
+    {
+      "ticker": "PST-IT",
+      "name": "Poste Italiane SpA",
+      "percent": "0.038523"
+    },
+    {
+      "ticker": "2587-JP",
+      "name": "Suntory Beverage & Food Ltd.",
+      "percent": "0.038404"
+    },
+    {
+      "ticker": "EQT-SE",
+      "name": "EQT AB",
+      "percent": "0.038369"
+    },
+    {
+      "ticker": "7276-JP",
+      "name": "Koito Manufacturing Co. Ltd.",
+      "percent": "0.038336"
+    },
+    {
+      "ticker": "4005-JP",
+      "name": "Sumitomo Chemical Co. Ltd.",
+      "percent": "0.038306"
+    },
+    {
+      "ticker": "LAND-GB",
+      "name": "Land Securities Group PLC",
+      "percent": "0.038166"
+    },
+    {
+      "ticker": "MPL-AU",
+      "name": "Medibank Private Ltd.",
+      "percent": "0.038125"
+    },
+    {
+      "ticker": "ALD-AU",
+      "name": "Ampol Limited",
+      "percent": "0.037749"
+    },
+    {
+      "ticker": "REA-AU",
+      "name": "REA Group Ltd",
+      "percent": "0.037360"
+    },
+    {
+      "ticker": "CCH-GB",
+      "name": "Coca-Cola HBC AG",
+      "percent": "0.037269"
+    },
+    {
+      "ticker": "7259-JP",
+      "name": "Aisin Seiki Co Ltd",
+      "percent": "0.037265"
+    },
+    {
+      "ticker": "4912-JP",
+      "name": "Lion Corporation",
+      "percent": "0.036894"
+    },
+    {
+      "ticker": "DLG-GB",
+      "name": "Direct Line Insurance Group Plc",
+      "percent": "0.036854"
+    },
+    {
+      "ticker": "TWE-AU",
+      "name": "Treasury Wine Estates Limited",
+      "percent": "0.036772"
+    },
+    {
+      "ticker": "MB-IT",
+      "name": "Mediobanca S.p.A.",
+      "percent": "0.036567"
+    },
+    {
+      "ticker": "7202-JP",
+      "name": "Isuzu Motors Limited",
+      "percent": "0.036492"
+    },
+    {
+      "ticker": "1812-JP",
+      "name": "Kajima Corporation",
+      "percent": "0.036472"
+    },
+    {
+      "ticker": "ORI-AU",
+      "name": "Orica Limited",
+      "percent": "0.036301"
+    },
+    {
+      "ticker": "4732-JP",
+      "name": "USS Co. Ltd.",
+      "percent": "0.036081"
+    },
+    {
+      "ticker": "INDU.C-SE",
+      "name": "Industrivarden AB Class C",
+      "percent": "0.035732"
+    },
+    {
+      "ticker": "JMT-PT",
+      "name": "Jeronimo Martins SGPS SA",
+      "percent": "0.035558"
+    },
+    {
+      "ticker": "CPU-AU",
+      "name": "Computershare Limited",
+      "percent": "0.035548"
+    },
+    {
+      "ticker": "SBRY-GB",
+      "name": "J Sainsbury plc",
+      "percent": "0.035268"
+    },
+    {
+      "ticker": "RR-GB",
+      "name": "Rolls-Royce Holdings plc",
+      "percent": "0.035201"
+    },
+    {
+      "ticker": "3436-JP",
+      "name": "SUMCO Corporation",
+      "percent": "0.034900"
+    },
+    {
+      "ticker": "ICA-SE",
+      "name": "ICA Gruppen AB",
+      "percent": "0.034876"
+    },
+    {
+      "ticker": "SECU.B-SE",
+      "name": "Securitas AB Class B",
+      "percent": "0.034592"
+    },
+    {
+      "ticker": "V03-SG",
+      "name": "Venture Corporation Limited",
+      "percent": "0.034579"
+    },
+    {
+      "ticker": "7752-JP",
+      "name": "Ricoh Company Ltd.",
+      "percent": "0.034491"
+    },
+    {
+      "ticker": "GJF-NO",
+      "name": "Gjensidige Forsikring ASA",
+      "percent": "0.034488"
+    },
+    {
+      "ticker": "JD-GB",
+      "name": "JD Sports Fashion Plc",
+      "percent": "0.034484"
+    },
+    {
+      "ticker": "AMUN-FR",
+      "name": "Amundi SA",
+      "percent": "0.034329"
+    },
+    {
+      "ticker": "4587-JP",
+      "name": "Peptidream Inc.",
+      "percent": "0.034299"
+    },
+    {
+      "ticker": "8954-JP",
+      "name": "ORIX JREIT Inc.",
+      "percent": "0.034268"
+    },
+    {
+      "ticker": "H78-SG",
+      "name": "Hongkong Land Holdings Limited",
+      "percent": "0.034194"
+    },
+    {
+      "ticker": "SDR-GB",
+      "name": "Schroders PLC",
+      "percent": "0.034178"
+    },
+    {
+      "ticker": "6806-JP",
+      "name": "HIROSE ELECTRIC CO. LTD.",
+      "percent": "0.034069"
+    },
+    {
+      "ticker": "RCO-FR",
+      "name": "Remy Cointreau SA",
+      "percent": "0.033967"
+    },
+    {
+      "ticker": "4042-JP",
+      "name": "Tosoh Corporation",
+      "percent": "0.033908"
+    },
+    {
+      "ticker": "BLND-GB",
+      "name": "British Land Company PLC",
+      "percent": "0.033844"
+    },
+    {
+      "ticker": "7956-JP",
+      "name": "Pigeon Corporation",
+      "percent": "0.033623"
+    },
+    {
+      "ticker": "4385-JP",
+      "name": "Mercari Inc.",
+      "percent": "0.033375"
+    },
+    {
+      "ticker": "SCR-FR",
+      "name": "Scor SE",
+      "percent": "0.033136"
+    },
+    {
+      "ticker": "NEM-DE",
+      "name": "Nemetschek SE",
+      "percent": "0.033102"
+    },
+    {
+      "ticker": "8953-JP",
+      "name": "Japan Retail Fund Investment Corporation",
+      "percent": "0.033068"
+    },
+    {
+      "ticker": "3391-JP",
+      "name": "TSURUHA Holdings Inc.",
+      "percent": "0.032924"
+    },
+    {
+      "ticker": "ADE-NO",
+      "name": "Adevinta ASA",
+      "percent": "0.032889"
+    },
+    {
+      "ticker": "4922-JP",
+      "name": "Kose Corporation",
+      "percent": "0.032563"
+    },
+    {
+      "ticker": "VER-AT",
+      "name": "VERBUND AG Class A",
+      "percent": "0.032516"
+    },
+    {
+      "ticker": "4716-JP",
+      "name": "Oracle Corporation Japan",
+      "percent": "0.032413"
+    },
+    {
+      "ticker": "VPK-NL",
+      "name": "Royal Vopak NV",
+      "percent": "0.032357"
+    },
+    {
+      "ticker": "7186-JP",
+      "name": "Concordia Financial Group Ltd.",
+      "percent": "0.032306"
+    },
+    {
+      "ticker": "2875-JP",
+      "name": "Toyo Suisan Kaisha Ltd.",
+      "percent": "0.032292"
+    },
+    {
+      "ticker": "6268-JP",
+      "name": "Nabtesco Corporation",
+      "percent": "0.032206"
+    },
+    {
+      "ticker": "7272-JP",
+      "name": "Yamaha Motor Co. Ltd.",
+      "percent": "0.032160"
+    },
+    {
+      "ticker": "SOF-BE",
+      "name": "Sofina SA",
+      "percent": "0.032083"
+    },
+    {
+      "ticker": "S63-SG",
+      "name": "Singapore Technologies Engineering Ltd",
+      "percent": "0.031989"
+    },
+    {
+      "ticker": "RYM-NZ",
+      "name": "Ryman Healthcare Ltd.",
+      "percent": "0.031593"
+    },
+    {
+      "ticker": "M44U-SG",
+      "name": "Mapletree Logistics Trust",
+      "percent": "0.031591"
+    },
+    {
+      "ticker": "2784-JP",
+      "name": "Alfresa Holdings Corporation",
+      "percent": "0.031511"
+    },
+    {
+      "ticker": "4967-JP",
+      "name": "Kobayashi Pharmaceutical Co. Ltd.",
+      "percent": "0.031360"
+    },
+    {
+      "ticker": "9062-JP",
+      "name": "NIPPON EXPRESS CO. LTD.",
+      "percent": "0.031097"
+    },
+    {
+      "ticker": "FPE3-DE",
+      "name": "Fuchs Petrolub SE Pref",
+      "percent": "0.030882"
+    },
+    {
+      "ticker": "1803-JP",
+      "name": "Shimizu Corporation",
+      "percent": "0.030836"
+    },
+    {
+      "ticker": "9602-JP",
+      "name": "Toho Co. Ltd.",
+      "percent": "0.030781"
+    },
+    {
+      "ticker": "SCHB-NO",
+      "name": "Schibsted ASA Class B",
+      "percent": "0.030707"
+    },
+    {
+      "ticker": "NHY-NO",
+      "name": "Norsk Hydro ASA",
+      "percent": "0.030705"
+    },
+    {
+      "ticker": "COV-FR",
+      "name": "Covivio SA",
+      "percent": "0.030666"
+    },
+    {
+      "ticker": "UTDI-DE",
+      "name": "United Internet AG",
+      "percent": "0.030564"
+    },
+    {
+      "ticker": "9501-JP",
+      "name": "Tokyo Electric Power Company Holdings Incorporated",
+      "percent": "0.030527"
+    },
+    {
+      "ticker": "7181-JP",
+      "name": "JAPAN POST INSURANCE Co. Ltd.",
+      "percent": "0.030497"
+    },
+    {
+      "ticker": "6005-JP",
+      "name": "Miura Co. Ltd.",
+      "percent": "0.030488"
+    },
+    {
+      "ticker": "8252-JP",
+      "name": "Marui Group Co. Ltd.",
+      "percent": "0.030413"
+    },
+    {
+      "ticker": "9766-JP",
+      "name": "KONAMI HOLDINGS CORP",
+      "percent": "0.030409"
+    },
+    {
+      "ticker": "C38U-SG",
+      "name": "CapitaLand Mall Trust",
+      "percent": "0.030001"
+    },
+    {
+      "ticker": "CLN-CH",
+      "name": "Clariant AG",
+      "percent": "0.029889"
+    },
+    {
+      "ticker": "83-HK",
+      "name": "Sino Land Co. Ltd.",
+      "percent": "0.029804"
+    },
+    {
+      "ticker": "5333-JP",
+      "name": "NGK Insulators Ltd.",
+      "percent": "0.029794"
+    },
+    {
+      "ticker": "C6L-SG",
+      "name": "Singapore Airlines Ltd.",
+      "percent": "0.029623"
+    },
+    {
+      "ticker": "8960-JP",
+      "name": "United Urban Investment Corporation",
+      "percent": "0.029586"
+    },
+    {
+      "ticker": "2371-JP",
+      "name": "Kakaku.com Inc.",
+      "percent": "0.029511"
+    },
+    {
+      "ticker": "7261-JP",
+      "name": "Mazda Motor Corp.",
+      "percent": "0.029346"
+    },
+    {
+      "ticker": "7459-JP",
+      "name": "Medipal Holdings Corporation",
+      "percent": "0.029316"
+    },
+    {
+      "ticker": "AVV-GB",
+      "name": "AVEVA Group plc",
+      "percent": "0.029173"
+    },
+    {
+      "ticker": "6841-JP",
+      "name": "Yokogawa Electric Corp.",
+      "percent": "0.029149"
+    },
+    {
+      "ticker": "SK-FR",
+      "name": "SEB SA",
+      "percent": "0.028991"
+    },
+    {
+      "ticker": "7911-JP",
+      "name": "Toppan Printing Co. Ltd.",
+      "percent": "0.028860"
+    },
+    {
+      "ticker": "522-HK",
+      "name": "ASM Pacific Technology Limited",
+      "percent": "0.028817"
+    },
+    {
+      "ticker": "DSCT-IL",
+      "name": "Israel Discount Bank Limited Class A",
+      "percent": "0.028693"
+    },
+    {
+      "ticker": "6504-JP",
+      "name": "Fuji Electric Co. Ltd.",
+      "percent": "0.028504"
+    },
+    {
+      "ticker": "BOL-FR",
+      "name": "Bollore SA",
+      "percent": "0.028407"
+    },
+    {
+      "ticker": "ABN-NL",
+      "name": "ABN AMRO Bank NV Depositary receipts",
+      "percent": "0.028289"
+    },
+    {
+      "ticker": "IPN-FR",
+      "name": "Ipsen SA",
+      "percent": "0.028274"
+    },
+    {
+      "ticker": "3861-JP",
+      "name": "Oji Holdings Corp.",
+      "percent": "0.028083"
+    },
+    {
+      "ticker": "TIT-IT",
+      "name": "Telecom Italia S.p.A.",
+      "percent": "0.028059"
+    },
+    {
+      "ticker": "6448-JP",
+      "name": "Brother Industries Ltd.",
+      "percent": "0.027990"
+    },
+    {
+      "ticker": "8028-JP",
+      "name": "FamilyMart Co. Ltd.",
+      "percent": "0.027975"
+    },
+    {
+      "ticker": "9006-JP",
+      "name": "Keikyu Corporation",
+      "percent": "0.027939"
+    },
+    {
+      "ticker": "TRYG-DK",
+      "name": "Tryg A/S",
+      "percent": "0.027651"
+    },
+    {
+      "ticker": "1972-HK",
+      "name": "Swire Properties Limited",
+      "percent": "0.027612"
+    },
+    {
+      "ticker": "6305-JP",
+      "name": "Hitachi Construction Machinery Co. Ltd.",
+      "percent": "0.027436"
+    },
+    {
+      "ticker": "2433-JP",
+      "name": "Hakuhodo Dy Holdings Incorporated",
+      "percent": "0.027399"
+    },
+    {
+      "ticker": "9506-JP",
+      "name": "Tohoku Electric Power Company Incorporated",
+      "percent": "0.027336"
+    },
+    {
+      "ticker": "LATO.B-SE",
+      "name": "Latour AB Investment Class B",
+      "percent": "0.027290"
+    },
+    {
+      "ticker": "WRT1V-FI",
+      "name": "Wartsila Oyj Abp",
+      "percent": "0.027230"
+    },
+    {
+      "ticker": "6465-JP",
+      "name": "HOSHIZAKI Corp.",
+      "percent": "0.027211"
+    },
+    {
+      "ticker": "COLR-BE",
+      "name": "Etablissementen Franz Colruyt N.V.",
+      "percent": "0.027119"
+    },
+    {
+      "ticker": "FDJ-FR",
+      "name": "La Francaise des Jeux SA",
+      "percent": "0.027105"
+    },
+    {
+      "ticker": "9009-JP",
+      "name": "Keisei Electric Railway Co. Ltd.",
+      "percent": "0.027061"
+    },
+    {
+      "ticker": "3405-JP",
+      "name": "Kuraray Co. Ltd.",
+      "percent": "0.027014"
+    },
+    {
+      "ticker": "2331-JP",
+      "name": "Sohgo Security Services Co. Ltd.",
+      "percent": "0.026940"
+    },
+    {
+      "ticker": "CYBR",
+      "name": "CyberArk Software Ltd.",
+      "percent": "0.026835"
+    },
+    {
+      "ticker": "6923-JP",
+      "name": "Stanley Electric Co. Ltd.",
+      "percent": "0.026817"
+    },
+    {
+      "ticker": "VOE-AT",
+      "name": "voestalpine AG",
+      "percent": "0.026800"
+    },
+    {
+      "ticker": "2282-JP",
+      "name": "NH Foods Ltd.",
+      "percent": "0.026790"
+    },
+    {
+      "ticker": "2593-JP",
+      "name": "ITO ENLtd.",
+      "percent": "0.026760"
+    },
+    {
+      "ticker": "9508-JP",
+      "name": "Kyushu Electric Power CompanyIncorporated",
+      "percent": "0.026536"
+    },
+    {
+      "ticker": "LUND.B-SE",
+      "name": "L E Lundbergforetagen AB Class B",
+      "percent": "0.026473"
+    },
+    {
+      "ticker": "5486-JP",
+      "name": "Hitachi Metals Ltd.",
+      "percent": "0.026443"
+    },
+    {
+      "ticker": "2002-JP",
+      "name": "Nisshin Seifun Group Inc.",
+      "percent": "0.026409"
+    },
+    {
+      "ticker": "EO-FR",
+      "name": "Faurecia SA",
+      "percent": "0.026332"
+    },
+    {
+      "ticker": "CCL-AU",
+      "name": "Coca-Cola Amatil Limited",
+      "percent": "0.026325"
+    },
+    {
+      "ticker": "ATC-NL",
+      "name": "Altice Europe NV Class A",
+      "percent": "0.026318"
+    },
+    {
+      "ticker": "4739-JP",
+      "name": "Itochu Techno-Solutions Corporation",
+      "percent": "0.026012"
+    },
+    {
+      "ticker": "3003-JP",
+      "name": "Hulic Co. Ltd.",
+      "percent": "0.025823"
+    },
+    {
+      "ticker": "MLCO",
+      "name": "Melco Resorts & Entertainment Limited Sponsored ADR",
+      "percent": "0.025769"
+    },
+    {
+      "ticker": "DEMANT-DK",
+      "name": "Demant A/S",
+      "percent": "0.025718"
+    },
+    {
+      "ticker": "BMW3-DE",
+      "name": "Bayerische Motoren Werke AG Pref",
+      "percent": "0.025695"
+    },
+    {
+      "ticker": "3349-JP",
+      "name": "COSMOS Pharmaceutical Corporation",
+      "percent": "0.025693"
+    },
+    {
+      "ticker": "3289-JP",
+      "name": "Tokyu Fudosan Holdings Corp.",
+      "percent": "0.025520"
+    },
+    {
+      "ticker": "9045-JP",
+      "name": "Keihan Holdings Co.Ltd.",
+      "percent": "0.025437"
+    },
+    {
+      "ticker": "3141-JP",
+      "name": "Welcia Holdings Co. Ltd.",
+      "percent": "0.025287"
+    },
+    {
+      "ticker": "C61U-SG",
+      "name": "CapitaLand Commercial Trust",
+      "percent": "0.025260"
+    },
+    {
+      "ticker": "3038-JP",
+      "name": "Kobe Bussan Co. Ltd.",
+      "percent": "0.025166"
+    },
+    {
+      "ticker": "ELI-BE",
+      "name": "Elia Group SA/NV",
+      "percent": "0.024832"
+    },
+    {
+      "ticker": "4516-JP",
+      "name": "Nippon Shinyaku Co. Ltd.",
+      "percent": "0.024775"
+    },
+    {
+      "ticker": "6724-JP",
+      "name": "Seiko Epson Corp.",
+      "percent": "0.024603"
+    },
+    {
+      "ticker": "9142-JP",
+      "name": "Kyushu Railway Company",
+      "percent": "0.024518"
+    },
+    {
+      "ticker": "5411-JP",
+      "name": "JFE Holdings Inc.",
+      "percent": "0.024500"
+    },
+    {
+      "ticker": "5233-JP",
+      "name": "Taiheiyo Cement Corporation",
+      "percent": "0.024418"
+    },
+    {
+      "ticker": "AMP-AU",
+      "name": "AMP Limited",
+      "percent": "0.024415"
+    },
+    {
+      "ticker": "9831-JP",
+      "name": "Yamada Holding Co. Ltd.",
+      "percent": "0.024388"
+    },
+    {
+      "ticker": "VCX-AU",
+      "name": "Vicinity Centres",
+      "percent": "0.024384"
+    },
+    {
+      "ticker": "6753-JP",
+      "name": "Sharp Corporation",
+      "percent": "0.024279"
+    },
+    {
+      "ticker": "6952-JP",
+      "name": "Casio Computer Co. Ltd.",
+      "percent": "0.024199"
+    },
+    {
+      "ticker": "G13-SG",
+      "name": "Genting Singapore Limited",
+      "percent": "0.024189"
+    },
+    {
+      "ticker": "ILD-FR",
+      "name": "Iliad SA",
+      "percent": "0.024189"
+    },
+    {
+      "ticker": "AER",
+      "name": "AerCap Holdings NV",
+      "percent": "0.024149"
+    },
+    {
+      "ticker": "PROX-BE",
+      "name": "Proximus SA de droit public",
+      "percent": "0.023883"
+    },
+    {
+      "ticker": "5947-JP",
+      "name": "Rinnai Corporation",
+      "percent": "0.023881"
+    },
+    {
+      "ticker": "6113-JP",
+      "name": "AMADA Co. Ltd.",
+      "percent": "0.023789"
+    },
+    {
+      "ticker": "6481-JP",
+      "name": "THK Co. Ltd.",
+      "percent": "0.023768"
+    },
+    {
+      "ticker": "3092-JP",
+      "name": "ZOZO Inc.",
+      "percent": "0.023716"
+    },
+    {
+      "ticker": "LI-FR",
+      "name": "Klepierre SA",
+      "percent": "0.023655"
+    },
+    {
+      "ticker": "6471-JP",
+      "name": "NSK Ltd.",
+      "percent": "0.023594"
+    },
+    {
+      "ticker": "7182-JP",
+      "name": "Japan Post Bank Co. Ltd.",
+      "percent": "0.023365"
+    },
+    {
+      "ticker": "CASH_CHF",
+      "name": "Swiss Franc",
+      "percent": "0.023232"
+    },
+    {
+      "ticker": "SESG-FR",
+      "name": "SES SA FDR (Class A)",
+      "percent": "0.023107"
+    },
+    {
+      "ticker": "BCVN-CH",
+      "name": "Banque Cantonale Vaudoise",
+      "percent": "0.023019"
+    },
+    {
+      "ticker": "2702-JP",
+      "name": "Mcdonalds Holdings Company Japan Ltd.",
+      "percent": "0.023002"
+    },
+    {
+      "ticker": "ADP-FR",
+      "name": "Aeroports de Paris SA",
+      "percent": "0.022983"
+    },
+    {
+      "ticker": "MZTF-IL",
+      "name": "Mizrahi Tefahot Bank Ltd",
+      "percent": "0.022660"
+    },
+    {
+      "ticker": "8331-JP",
+      "name": "Chiba Bank Ltd.",
+      "percent": "0.022397"
+    },
+    {
+      "ticker": "BKT-ES",
+      "name": "Bankinter SA",
+      "percent": "0.022350"
+    },
+    {
+      "ticker": "9719-JP",
+      "name": "SCSK Corporation",
+      "percent": "0.022212"
+    },
+    {
+      "ticker": "9024-JP",
+      "name": "Seibu Holdings Inc.",
+      "percent": "0.022163"
+    },
+    {
+      "ticker": "N2IU-SG",
+      "name": "Mapletree Commercial Trust",
+      "percent": "0.021993"
+    },
+    {
+      "ticker": "4088-JP",
+      "name": "Air Water Inc.",
+      "percent": "0.021889"
+    },
+    {
+      "ticker": "WTC-AU",
+      "name": "Wisetech Global Ltd.",
+      "percent": "0.021761"
+    },
+    {
+      "ticker": "ESLT-IL",
+      "name": "Elbit Systems Ltd",
+      "percent": "0.021744"
+    },
+    {
+      "ticker": "TEVA",
+      "name": "Teva Pharmaceutical Industries Limited Sponsored ADR",
+      "percent": "0.021736"
+    },
+    {
+      "ticker": "AST-AU",
+      "name": "AusNet Services Limited",
+      "percent": "0.021705"
+    },
+    {
+      "ticker": "3401-JP",
+      "name": "Teijin Limited",
+      "percent": "0.021558"
+    },
+    {
+      "ticker": "9989-JP",
+      "name": "Sundrug Co. Ltd.",
+      "percent": "0.021468"
+    },
+    {
+      "ticker": "ANDR-AT",
+      "name": "ANDRITZ AG",
+      "percent": "0.021115"
+    },
+    {
+      "ticker": "8355-JP",
+      "name": "Shizuoka Bank Ltd.",
+      "percent": "0.020566"
+    },
+    {
+      "ticker": "TITR-IT",
+      "name": "Telecom Italia Rsp",
+      "percent": "0.020401"
+    },
+    {
+      "ticker": "2229-JP",
+      "name": "CALBEE Inc.",
+      "percent": "0.020386"
+    },
+    {
+      "ticker": "INW-IT",
+      "name": "Infrastrutture Wireless Italiane S.p.A.",
+      "percent": "0.019989"
+    },
+    {
+      "ticker": "9202-JP",
+      "name": "ANA Holdings Inc.",
+      "percent": "0.019650"
+    },
+    {
+      "ticker": "23-HK",
+      "name": "Bank of East Asia Ltd.",
+      "percent": "0.019636"
+    },
+    {
+      "ticker": "2651-JP",
+      "name": "Lawson Inc.",
+      "percent": "0.019506"
+    },
+    {
+      "ticker": "6302-JP",
+      "name": "Sumitomo Heavy Industries Ltd.",
+      "percent": "0.019464"
+    },
+    {
+      "ticker": "2638-HK",
+      "name": "HK Electric Investments & HK Electric Investments Ltd.",
+      "percent": "0.019459"
+    },
+    {
+      "ticker": "RBI-AT",
+      "name": "Raiffeisen Bank International AG",
+      "percent": "0.019398"
+    },
+    {
+      "ticker": "MCY-NZ",
+      "name": "Mercury NZ Ltd.",
+      "percent": "0.019342"
+    },
+    {
+      "ticker": "4530-JP",
+      "name": "Hisamitsu Pharmaceutical Co. Inc.",
+      "percent": "0.019243"
+    },
+    {
+      "ticker": "AM-FR",
+      "name": "Dassault Aviation SA",
+      "percent": "0.019185"
+    },
+    {
+      "ticker": "CWN-AU",
+      "name": "Crown Resorts Limited",
+      "percent": "0.019172"
+    },
+    {
+      "ticker": "MF-FR",
+      "name": "Wendel SE",
+      "percent": "0.019105"
+    },
+    {
+      "ticker": "8-HK",
+      "name": "PCCW Limited",
+      "percent": "0.018917"
+    },
+    {
+      "ticker": "TEN-IT",
+      "name": "Tenaris S.A.",
+      "percent": "0.018776"
+    },
+    {
+      "ticker": "1038-HK",
+      "name": "CK Infrastructure Holdings Limited",
+      "percent": "0.018662"
+    },
+    {
+      "ticker": "4004-JP",
+      "name": "Showa Denko K.K.",
+      "percent": "0.018557"
+    },
+    {
+      "ticker": "KN-FR",
+      "name": "NATIXIS",
+      "percent": "0.018403"
+    },
+    {
+      "ticker": "LDO-IT",
+      "name": "Leonardo SpA",
+      "percent": "0.018204"
+    },
+    {
+      "ticker": "EVR-GB",
+      "name": "Evraz PLC",
+      "percent": "0.018136"
+    },
+    {
+      "ticker": "UHRN-CH",
+      "name": "Swatch Group Ltd. Registered",
+      "percent": "0.017799"
+    },
+    {
+      "ticker": "4091-JP",
+      "name": "NIPPON SANSO HOLDINGS CORPORATION",
+      "percent": "0.017781"
+    },
+    {
+      "ticker": "7205-JP",
+      "name": "Hino MotorsLtd.",
+      "percent": "0.017663"
+    },
+    {
+      "ticker": "AZRG-IL",
+      "name": "Azrieli Group Ltd.",
+      "percent": "0.017596"
+    },
+    {
+      "ticker": "LHA-DE",
+      "name": "Deutsche Lufthansa AG",
+      "percent": "0.017591"
+    },
+    {
+      "ticker": "TNET-BE",
+      "name": "Telenet Group Holding NV",
+      "percent": "0.017552"
+    },
+    {
+      "ticker": "9101-JP",
+      "name": "Nippon Yusen Kabushiki Kaisha",
+      "percent": "0.017373"
+    },
+    {
+      "ticker": "6370-JP",
+      "name": "Kurita Water Industries Ltd.",
+      "percent": "0.017364"
+    },
+    {
+      "ticker": "CNP-FR",
+      "name": "CNP Assurances SA",
+      "percent": "0.017310"
+    },
+    {
+      "ticker": "QAN-AU",
+      "name": "Qantas Airways Limited",
+      "percent": "0.017235"
+    },
+    {
+      "ticker": "1128-HK",
+      "name": "Wynn Macau Ltd.",
+      "percent": "0.017043"
+    },
+    {
+      "ticker": "U14-SG",
+      "name": "UOL Group Limited",
+      "percent": "0.016989"
+    },
+    {
+      "ticker": "C09-SG",
+      "name": "City Developments Limited",
+      "percent": "0.016944"
+    },
+    {
+      "ticker": "4182-JP",
+      "name": "Mitsubishi Gas Chemical Company Inc.",
+      "percent": "0.016835"
+    },
+    {
+      "ticker": "O2D-DE",
+      "name": "Telefonica Deutschland Holding AG",
+      "percent": "0.016519"
+    },
+    {
+      "ticker": "3291-JP",
+      "name": "Iida Group Holdings Co. Ltd.",
+      "percent": "0.016504"
+    },
+    {
+      "ticker": "2212-JP",
+      "name": "Yamazaki Baking Co. Ltd.",
+      "percent": "0.016309"
+    },
+    {
+      "ticker": "7731-JP",
+      "name": "Nikon Corp.",
+      "percent": "0.016152"
+    },
+    {
+      "ticker": "ICL-IL",
+      "name": "ICL Group Ltd.",
+      "percent": "0.016104"
+    },
+    {
+      "ticker": "1963-JP",
+      "name": "JGC Holdings Corporation",
+      "percent": "0.016044"
+    },
+    {
+      "ticker": "8354-JP",
+      "name": "Fukuoka Financial Group Inc.",
+      "percent": "0.016011"
+    },
+    {
+      "ticker": "RF-FR",
+      "name": "Eurazeo SA",
+      "percent": "0.015982"
+    },
+    {
+      "ticker": "8227-JP",
+      "name": "SHIMAMURA Co. Ltd.",
+      "percent": "0.015936"
+    },
+    {
+      "ticker": "4506-JP",
+      "name": "Sumitomo Dainippon Pharma Co. Ltd.",
+      "percent": "0.015858"
+    },
+    {
+      "ticker": "T82U-SG",
+      "name": "Suntec Real Estate Investment Trust",
+      "percent": "0.015655"
+    },
+    {
+      "ticker": "TPG-AU",
+      "name": "TPG Telecom Limited",
+      "percent": "0.015628"
+    },
+    {
+      "ticker": "2181-JP",
+      "name": "PERSOL HOLDINGS CO. LTD.",
+      "percent": "0.015479"
+    },
+    {
+      "ticker": "5334-JP",
+      "name": "NGK SPARK PLUG CO. LTD.",
+      "percent": "0.015107"
+    },
+    {
+      "ticker": "TKA-DE",
+      "name": "thyssenkrupp AG",
+      "percent": "0.014925"
+    },
+    {
+      "ticker": "4202-JP",
+      "name": "Daicel Corporation",
+      "percent": "0.014733"
+    },
+    {
+      "ticker": "8369-JP",
+      "name": "Bank of Kyoto Ltd.",
+      "percent": "0.014658"
+    },
+    {
+      "ticker": "HOT-DE",
+      "name": "Hochtief AG",
+      "percent": "0.014651"
+    },
+    {
+      "ticker": "BS6-SG",
+      "name": "Yangzijiang Shipbuilding (Holdings) Ltd.",
+      "percent": "0.014525"
+    },
+    {
+      "ticker": "LUN-DK",
+      "name": "H. Lundbeck A/S",
+      "percent": "0.014463"
+    },
+    {
+      "ticker": "9987-JP",
+      "name": "Suzuken Co. Ltd.",
+      "percent": "0.014019"
+    },
+    {
+      "ticker": "MAP-ES",
+      "name": "Mapfre SA",
+      "percent": "0.013898"
+    },
+    {
+      "ticker": "3099-JP",
+      "name": "Isetan Mitsukoshi Holdings Ltd.",
+      "percent": "0.013593"
+    },
+    {
+      "ticker": "19-HK",
+      "name": "Swire Pacific Limited Class A",
+      "percent": "0.013438"
+    },
+    {
+      "ticker": "B4B-DE",
+      "name": "METRO AG",
+      "percent": "0.013428"
+    },
+    {
+      "ticker": "ICAD-FR",
+      "name": "Icade SA",
+      "percent": "0.013399"
+    },
+    {
+      "ticker": "6473-JP",
+      "name": "JTEKT Corporation",
+      "percent": "0.013212"
+    },
+    {
+      "ticker": "8572-JP",
+      "name": "ACOM Co. Ltd.",
+      "percent": "0.013192"
+    },
+    {
+      "ticker": "8303-JP",
+      "name": "Shinsei Bank Limited",
+      "percent": "0.013133"
+    },
+    {
+      "ticker": "FRA-DE",
+      "name": "Fraport AG",
+      "percent": "0.013051"
+    },
+    {
+      "ticker": "7167-JP",
+      "name": "Mebuki Financial Group Inc.",
+      "percent": "0.012725"
+    },
+    {
+      "ticker": "8439-JP",
+      "name": "Tokyo Century Corporation",
+      "percent": "0.012696"
+    },
+    {
+      "ticker": "8955-JP",
+      "name": "Japan Prime Realty Investment Corporation",
+      "percent": "0.012328"
+    },
+    {
+      "ticker": "PIRC-IT",
+      "name": "Pirelli & C. S.p.A.",
+      "percent": "0.012192"
+    },
+    {
+      "ticker": "3938-JP",
+      "name": "LINE Corp.",
+      "percent": "0.012132"
+    },
+    {
+      "ticker": "9201-JP",
+      "name": "Japan Airlines Co. Ltd.",
+      "percent": "0.012087"
+    },
+    {
+      "ticker": "3231-JP",
+      "name": "Nomura Real Estate Holdings Inc.",
+      "percent": "0.012069"
+    },
+    {
+      "ticker": "8593-JP",
+      "name": "Mitsubishi UFJ Lease & Finance Company Limited",
+      "percent": "0.012012"
+    },
+    {
+      "ticker": "CIM-AU",
+      "name": "CIMIC Group Limited",
+      "percent": "0.011896"
+    },
+    {
+      "ticker": "2579-JP",
+      "name": "Coca-Cola Bottlers Japan Holdings Inc.",
+      "percent": "0.011839"
+    },
+    {
+      "ticker": "6460-JP",
+      "name": "Sega Sammy Holdings Inc.",
+      "percent": "0.011780"
+    },
+    {
+      "ticker": "880-HK",
+      "name": "SJM Holdings Limited",
+      "percent": "0.010806"
+    },
+    {
+      "ticker": "9706-JP",
+      "name": "Japan Airport Terminal Co. Ltd.",
+      "percent": "0.010576"
+    },
+    {
+      "ticker": "7211-JP",
+      "name": "Mitsubishi Motors Corporation",
+      "percent": "0.010567"
+    },
+    {
+      "ticker": "8304-JP",
+      "name": "Aozora Bank Ltd.",
+      "percent": "0.010481"
+    },
+    {
+      "ticker": "5110-JP",
+      "name": "Sumitomo Rubber Industries Ltd.",
+      "percent": "0.010373"
+    },
+    {
+      "ticker": "4581-JP",
+      "name": "Taisho Pharmaceutical Holdings Co. Ltd.",
+      "percent": "0.010283"
+    },
+    {
+      "ticker": "9364-JP",
+      "name": "Kamigumi Co. Ltd.",
+      "percent": "0.009997"
+    },
+    {
+      "ticker": "D01-SG",
+      "name": "Dairy Farm International Holdings Limited",
+      "percent": "0.009924"
+    },
+    {
+      "ticker": "DEC-FR",
+      "name": "JC Decaux SA",
+      "percent": "0.009921"
+    },
+    {
+      "ticker": "9783-JP",
+      "name": "Benesse Holdings Inc.",
+      "percent": "0.009776"
+    },
+    {
+      "ticker": "7012-JP",
+      "name": "Kawasaki Heavy Industries Ltd.",
+      "percent": "0.009772"
+    },
+    {
+      "ticker": "CASH_HKD",
+      "name": "Hong Kong Dollar",
+      "percent": "0.009516"
+    },
+    {
+      "ticker": "8410-JP",
+      "name": "Seven Bank Ltd.",
+      "percent": "0.008868"
+    },
+    {
+      "ticker": "4666-JP",
+      "name": "Park24 Co. Ltd.",
+      "percent": "0.008524"
+    },
+    {
+      "ticker": "5101-JP",
+      "name": "Yokohama Rubber Co. Ltd.",
+      "percent": "0.008521"
+    },
+    {
+      "ticker": "2670-JP",
+      "name": "ABC-MART INC.",
+      "percent": "0.008163"
+    },
+    {
+      "ticker": "683-HK",
+      "name": "Kerry Properties Limited",
+      "percent": "0.008014"
+    },
+    {
+      "ticker": "4927-JP",
+      "name": "Pola Orbis Holdings Inc.",
+      "percent": "0.007607"
+    },
+    {
+      "ticker": "8905-JP",
+      "name": "AEON Mall Co. Ltd.",
+      "percent": "0.007577"
+    },
+    {
+      "ticker": "5463-JP",
+      "name": "Maruichi Steel Tube Ltd.",
+      "percent": "0.005615"
+    },
+    {
+      "ticker": "7282-JP",
+      "name": "Toyoda Gosei Co. Ltd.",
+      "percent": "0.005414"
+    },
+    {
+      "ticker": "CASH_SGD",
+      "name": "Singapore Dollar",
+      "percent": "0.004659"
+    },
+    {
+      "ticker": "CASH_SEK",
+      "name": "Swedish Krona",
+      "percent": "0.004291"
+    },
+    {
+      "ticker": "CCEP",
+      "name": "Coca-Cola European Partners Plc",
+      "percent": "0.003074"
+    },
+    {
+      "ticker": "NDA.FI-FI",
+      "name": "Nordea Bank Abp",
+      "percent": "0.002675"
+    },
+    {
+      "ticker": "CASH_NOK",
+      "name": "Norwegian Krone",
+      "percent": "0.001610"
+    },
+    {
+      "ticker": "CASH_ILS",
+      "name": "Israeli Shekel",
+      "percent": "0.001378"
+    },
+    {
+      "ticker": "CASH_JPY",
+      "name": "Japanese Yen",
+      "percent": "0.001191"
+    },
+    {
+      "ticker": "ABE-ES",
+      "name": "Abertis Infraestructuras SA",
+      "percent": "0.001060"
+    },
+    {
+      "ticker": "URW-AU",
+      "name": "Unibail-Rodamco-Westfield SE Stapled Security Chess Depository Interests Repr 0.05 Sh",
+      "percent": "0.000651"
+    },
+    {
+      "ticker": "TUA-AU",
+      "name": "Tuas Ltd.",
+      "percent": "0.000629"
+    },
+    {
+      "ticker": "CASH_NZD",
+      "name": "New Zealand Dollar",
+      "percent": "0.000440"
+    },
+    {
+      "ticker": "CASH_DKK",
+      "name": "Danish Krone",
+      "percent": "0.000068"
+    },
+    {
+      "ticker": "BOQ-AU",
+      "name": "Bank of Queensland Limited",
+      "percent": "0.000004"
+    },
+    {
+      "name": "Performance quoted represents past performance, which is no guarantee of future results. Investment return and principal value will fluctuate, so you may have a gain or loss when shares are sold. Current performance may be higher or lower than that quoted. Visit www.ssga.com for most recent month-end performance."
+    },
+    {
+      "name": "This analysis or any portion thereof may not be revised or changed in any way, reprinted, sold or redistributed without the written consent of SSGA."
+    },
+    {
+      "name": "Portfolio holdings, allocations and weightings are as of the date indicated, are subject to change and should not be considered a recommendation to buy individual securities. For most recent information visit www.ssga.com."
+    },
+    {
+      "name": "Important Risk Information  "
+    },
+    {
+      "name": "Investing involves risk, and you could lose money on an investment in each of SPDR® Gold Shares Trust (“GLD®”) and SPDR® Gold MiniSharesSM Trust  (“GLDMSM”), a series of the World Gold Trust (together, the “Funds”). \n\nETFs trade like stocks, are subject to investment risk, fluctuate in market value and may trade at prices above or below the ETFs’ net asset value. Brokerage commissions and ETF expenses will reduce returns.\n\nCommodities and commodity-index linked securities may be affected by changes in overall market movements, changes in interest rates, and other factors such as weather, disease, embargoes, or political and regulatory developments, as well as trading activity of speculators and arbitrageurs in the underlying commodities.\n\nFrequent trading of ETFs could significantly increase commissions and other costs such that they may offset any savings from low fees or costs.\n\nDiversification does not ensure a profit or guarantee against loss."
+    },
+    {
+      "name": "Investing in commodities entails significant risk and is not appropriate for all investors."
+    },
+    {
+      "name": "Important Information Relating to SPDR® Gold Trust (“GLD®”) and SPDR® Gold MiniSharesSM Trust (“GLDMSM”):"
+    },
+    {
+      "name": "The SPDR Gold Trust (“GLD”) has filed a registration statement (including a prospectus) with the Securities and Exchange Commission (“SEC”) for GLD. The World Gold Trust has filed a registration statement (including a prospectus) with the SEC for GLDM. Before you invest, you should read the prospectus in the registration statement and other documents each Fund has filed with the SEC for more complete information about each Fund and these offerings. Please see each Fund’s prospectus for a detailed discussion of the risks of investing in each Fund’s shares."
+    },
+    {
+      "name": "The GLD prospectus is available by clicking"
+    },
+    {
+      "name": "The GLDM prospectus is available by clicking "
+    },
+    {
+      "name": "You may get these documents for free by visiting EDGAR on the SEC website at sec.gov or by visiting spdrgoldshares.com. Alternatively, the Funds or any authorized participant will arrange to send you the prospectus if you request it by calling 866.320.4053."
+    },
+    {
+      "name": "None of the Funds is an investment company registered under the Investment Company Act of 1940 (the “1940 Act”). As a result, shareholders of each Fund do not have the protections associated with ownership of shares in an investment company registered under the 1940 Act. GLD and GLDM are not subject to regulation under the CEA. As a result, shareholders of each of GLD and GLDM do not have the protections afforded by the CEA. \n\nShares of each Fund trade like stocks, are subject to investment risk and will fluctuate in market value. \n\nThe values of GLD shares and GLDM shares relate directly to the value of the gold held by each Fund (less its expenses), respectively. Fluctuations in the price of gold could materially and adversely affect an investment in the shares. The price received upon the sale of the shares, which trade at market price, may be more or less than the value of the gold represented by them.  \n\nNone of the Funds generate any income, and as each Fund regularly sells gold to pay for its ongoing expenses, the amount of gold represented by each Fund share will decline over time to that extent.\n\nThe World Gold Council name and logo are a registered trademark and used with the permission of the World Gold Council pursuant to a license agreement. The World Gold Council is not responsible for the content of, and is not liable for the use of or reliance on, this material. World Gold Council is an affiliate of the Sponsor of each of GLD and GLDM.\n\nMiniSharesSM and GLDMSM are service marks of WGC USA Asset Management Company, LLC used with the permission of WGC USA Asset Management Company, LLC.\n\nGLD® is a registered trademark of World Gold Trust Services, LLC used with the permission of World Gold Trust Services, LLC."
+    },
+    {
+      "name": "For more information, please contact the Marketing Agent for GLD and GLDM: State Street Global Advisors Funds Distributors, LLC, One Iron Street, Boston, MA, 02210; T: +1 866 320 4053 spdrgoldshares.com"
+    },
+    {
+      "name": "Standard & Poor’s®, S&P® and SPDR® are registered trademarks of Standard & Poor’s Financial Services LLC (S&P); Dow Jones is a registered trademark of Dow Jones Trademark Holdings LLC (Dow Jones); and these trademarks have been licensed for use by S&P Dow Jones Indices LLC (SPDJI) and sublicensed for certain purposes by State Street Corporation. State Street Corporation’s financial products are not sponsored, endorsed, sold or promoted by SPDJI, Dow Jones, S&P, their respective affiliates and third party licensors and none of such parties make any representation regarding the advisability of investing in such product(s) nor do they have any liability in relation thereto, including for any errors, omissions, or interruptions of any index."
+    },
+    {
+      "name": "Bonds generally present less short-term risk and volatility than stocks, but contain interest rate risk (as interest rates raise, bond prices usually fall); issuer default risk; issuer credit risk; liquidity risk; and inflation risk. These effects are usually pronounced for longer-term securities. Any fixed income security sold or redeemed prior to maturity may be subject to a substantial gain or loss.\nInternational Government bonds and corporate bonds generally have more moderate short-term price fluctuations than stocks, but provide lower potential long-term returns.\nInvesting in high yield fixed income securities, otherwise known as \"junk bonds\", is considered speculative and involves greater risk of loss of principal and interest than investing in investment grade fixed income securities. These Lower-quality debt securities involve greater risk of default or price changes due to potential changes in the credit quality of the issuer.\nEquity securities may fluctuate in value in response to the activities of individual companies and general market and economic conditions.\nThere are risks associated with investing in Real Assets and the Real Assets sector, including real estate, precious metals and natural resources.  Investments can be significantly affected by events relating to these industries.\nInvesting in foreign domiciled securities may involve risk of capital loss from unfavorable fluctuation in currency values, withholding taxes, from differences in generally accepted accounting principles or from economic or political instability in other nations.  Investments in emerging or developing markets may be more volatile and less liquid than investing in developed markets and may involve exposure to economic structures that are generally less diverse and mature and to political systems which have less stability than those of more developed countries. The trademarks and service marks referenced herein are the property of their respective owners. Third party data providers make no warranties or representations of any kind relating to the accuracy, completeness or timeliness of the data and have no liability for damages of any kind relating to the use of such data. Investing involves risk including the risk of loss of principal.\nThe whole or any part of this work may not be reproduced, copied or transmitted or any of its contents disclosed to third parties without SSGA's express written consent.\nETFs trade like stocks, are subject to investment risk and will fluctuate in market value. The investment return and principal value of an investment will fluctuate in value, so that when shares are sold or redeemed, they may be worth more or less than when they were purchased.  Although shares may be bought or sold on an exchange through any brokerage account, shares are not individually redeemable from the fund.  Investors may acquire shares and tender them for redemption through the fund in large aggregations known as “creation units.”  Please see the fund’s prospectus for more details.\nInvesting in REITs involves certain distinct risks in addition to those risks associated with investing in the real estate industry in general. Equity REITs may be affected by changes in the value of the underlying property owned by the REITs, while mortgage REITs may be affected by the quality of credit extended. REITs are subject to heavy cash flow dependency, default by borrowers and self-liquidation. REITs, especially mortgage REITs, are also subject to interest rate risk (i.e., as interest rates rise, the value of the REIT may decline).\nInvestments in small/mid-sized companies may involve greater risks than in those of larger, better known companies. Concentrated investments in a particular Sector tend to be more volatile than the overall market and increases risk that events negatively affecting such sectors or industries could reduce returns, potentially causing the value of the Fund’s shares to decrease.\nStandard & Poor’s®, S&P® and SPDR® are registered trademarks of Standard & Poor’s Financial Services LLC (S&P); Dow Jones is a registered trademark of Dow Jones Trademark Holdings LLC (Dow Jones); and these trademarks have been licensed for use by S&P Dow Jones Indices LLC (SPDJI) and sublicensed for certain purposes by State Street Corporation. State Street Corporation’s financial products are not sponsored, endorsed, sold or promoted by SPDJI, Dow Jones, S&P, their respective affiliates and third party licensors and none of such parties make any representation regarding the advisability of investing in such product(s) nor do they have any liability in relation thereto, including for any errors, omissions, or interruptions of any index.\nCommodities and commodity-index linked securities may be affected by changes in overall market movements, changes in interest rates, and other factors such as weather, disease, embargoes, or political and regulatory developments, as well as trading activity of speculators and arbitrageurs in the underlying commodities. The returns on a portfolio of securities which exclude companies that do not meet the portfolio's specified ESG criteria may trail the returns on a portfolio of securities which include such companies. A portfolio's ESG criteria may result in the portfolio investing in industry sectors or securities which underperform the market as a whole.\nTechnology companies, including cyber security companies, can be significantly affected by obsolescence of existing technology, limited product lines, and competition for financial resources, qualified personnel, new market entrants or impairment of patent and intellectual property rights that can adversely affect profit margins."
+    },
+    {
+      "name": "Distributor: State Street Global Advisors Funds Distributors, LLC, member FINRA(http://www.finra.org), SIPC(http://www.sipc.org), an indirect wholly owned subsidiary of State Street Corporation. References to State Street may include State Street Corporation and its affiliates. Certain State Street affiliates provide services and receive fees from the SPDR ETFs. ALPS Distributors, Inc., member FINRA, is the distributor for DIA, MDY and SPY, all unit investment trusts. ALPS Portfolio Solutions Distributor, Inc., member FINRA, is the distributor for Select Sector SPDRs. ALPS Distributors, Inc. and ALPS Portfolio Solutions Distributor, Inc. are not affiliated with State Street Global Advisors Funds Distributors, LLC."
+    },
+    {
+      "name": "Before investing, consider the funds’ investment objectives, risks, charges and expenses. To obtain a prospectus or summary prospectus, this contains this and other information, call 1-866-787-2257 or visit www.ssga.com. Read it carefully.\n\nNot FDIC Insured * No Bank Guarantee * May Lose Value\n\n2529657.2.1.AM.RTL\nExpiration: 03/31/2021\nSPD002304"
+    }
+  ]
+}

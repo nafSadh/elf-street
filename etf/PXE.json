@@ -1,0 +1,180 @@
+{
+  "Products": "Dynamic Energy Exploration & Production ETF",
+  "Ticker": "PXE",
+  "Inception": "10/26/2005",
+  "Gross Exp. Ratio": "0.64%",
+  "YTD": "-53.80",
+  "1Yr": "-48.26",
+  "3Yr": "-27.14",
+  "5Yr": "-17.39",
+  "10Yr": "-6.32",
+  "Since Incept.": "-3.22",
+  "Category": "Multi Factor",
+  "SubCategory": "Intellidex Industries",
+  "ticker": "PXE",
+  "name": "Dynamic Energy Exploration & Production ETF",
+  "issuer": "Invesco",
+  "website": "https://www.invesco.com/us/financial-products/etfs/product-detail?audienceType=Investor&ticker=PXE",
+  "holdingDataSource": {
+    "url": "https://www.invesco.com/us/financial-products/etfs/holdings/main/holdings/0?audienceType=Investor&action=download&ticker=PXE",
+    "fileExt": "csv",
+    "transform": "invesco"
+  },
+  "holdings": [
+    {
+      "ticker": "CXO",
+      "name": "Concho Resources Inc",
+      "percent": "5.527"
+    },
+    {
+      "ticker": "COP",
+      "name": "ConocoPhillips",
+      "percent": "5.216"
+    },
+    {
+      "ticker": "PXD",
+      "name": "Pioneer Natural Resources Co",
+      "percent": "5.047"
+    },
+    {
+      "ticker": "MPC",
+      "name": "Marathon Petroleum Corp",
+      "percent": "4.948"
+    },
+    {
+      "ticker": "PSX",
+      "name": "Phillips 66",
+      "percent": "4.946"
+    },
+    {
+      "ticker": "EOG",
+      "name": "EOG Resources Inc",
+      "percent": "4.905"
+    },
+    {
+      "ticker": "HES",
+      "name": "Hess Corp",
+      "percent": "4.831"
+    },
+    {
+      "ticker": "VLO",
+      "name": "Valero Energy Corp",
+      "percent": "4.435"
+    },
+    {
+      "ticker": "RRC",
+      "name": "Range Resources Corp",
+      "percent": "3.369"
+    },
+    {
+      "ticker": "AR",
+      "name": "Antero Resources Corp",
+      "percent": "3.251"
+    },
+    {
+      "ticker": "COG",
+      "name": "Cabot Oil & Gas Corp",
+      "percent": "3.219"
+    },
+    {
+      "ticker": "SWN",
+      "name": "Southwestern Energy Co",
+      "percent": "3.081"
+    },
+    {
+      "ticker": "CRK",
+      "name": "Comstock Resources Inc",
+      "percent": "2.987"
+    },
+    {
+      "ticker": "PE",
+      "name": "Parsley Energy Inc",
+      "percent": "2.985"
+    },
+    {
+      "ticker": "EQT",
+      "name": "EQT Corp",
+      "percent": "2.928"
+    },
+    {
+      "ticker": "XEC",
+      "name": "Cimarex Energy Co",
+      "percent": "2.904"
+    },
+    {
+      "ticker": "CNX",
+      "name": "CNX Resources Corp",
+      "percent": "2.897"
+    },
+    {
+      "ticker": "MTDR",
+      "name": "Matador Resources Co",
+      "percent": "2.789"
+    },
+    {
+      "ticker": "DVN",
+      "name": "Devon Energy Corp",
+      "percent": "2.673"
+    },
+    {
+      "ticker": "PDCE",
+      "name": "PDC Energy Inc",
+      "percent": "2.624"
+    },
+    {
+      "ticker": "OVV",
+      "name": "Ovintiv Inc",
+      "percent": "2.619"
+    },
+    {
+      "ticker": "HFC",
+      "name": "HollyFrontier Corp",
+      "percent": "2.596"
+    },
+    {
+      "ticker": "WPX",
+      "name": "WPX Energy Inc",
+      "percent": "2.541"
+    },
+    {
+      "ticker": "MGY",
+      "name": "Magnolia Oil & Gas Corp",
+      "percent": "2.521"
+    },
+    {
+      "ticker": "MRO",
+      "name": "Marathon Oil Corp",
+      "percent": "2.441"
+    },
+    {
+      "ticker": "CLR",
+      "name": "Continental Resources Inc/OK",
+      "percent": "2.416"
+    },
+    {
+      "ticker": "FANG",
+      "name": "Diamondback Energy Inc",
+      "percent": "2.367"
+    },
+    {
+      "ticker": "CVI",
+      "name": "CVR Energy Inc",
+      "percent": "2.254"
+    },
+    {
+      "ticker": "APA",
+      "name": "Apache Corp",
+      "percent": "2.063"
+    },
+    {
+      "ticker": "MUR",
+      "name": "Murphy Oil Corp",
+      "percent": "1.910"
+    },
+    {
+      "ticker": "AGPXX",
+      "name": "STIT - Government & Agency Portfolio",
+      "percent": "0.713"
+    }
+  ]
+}

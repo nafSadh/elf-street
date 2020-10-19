@@ -1,0 +1,340 @@
+{
+  "Products": "Treasury Collateral ETF",
+  "Ticker": "CLTL",
+  "Inception": "01/12/2017",
+  "Gross Exp. Ratio": "0.08%",
+  "YTD": "0.91",
+  "1Yr": "1.40",
+  "3Yr": "1.76",
+  "5Yr": "",
+  "10Yr": "",
+  "Since Incept.": "1.55",
+  "Category": "Income",
+  "SubCategory": "Core",
+  "ticker": "CLTL",
+  "name": "Treasury Collateral ETF",
+  "issuer": "Invesco",
+  "website": "https://www.invesco.com/us/financial-products/etfs/product-detail?audienceType=Investor&ticker=CLTL",
+  "holdingDataSource": {
+    "url": "https://www.invesco.com/us/financial-products/etfs/holdings/main/holdings/0?audienceType=Investor&action=download&ticker=CLTL",
+    "fileExt": "csv",
+    "transform": "invesco"
+  },
+  "holdings": [
+    {
+      "ticker": "912796TP4",
+      "name": "United States Treasury Bill",
+      "percent": "3.59"
+    },
+    {
+      "ticker": "9127962Z1",
+      "name": "United States Treasury Bill",
+      "percent": "3.18"
+    },
+    {
+      "ticker": "912796TY5",
+      "name": "United States Treasury Bill",
+      "percent": "3.16"
+    },
+    {
+      "ticker": "912796TU3",
+      "name": "United States Treasury Bill",
+      "percent": "2.96"
+    },
+    {
+      "ticker": "9127962F5",
+      "name": "United States Treasury Bill",
+      "percent": "2.68"
+    },
+    {
+      "ticker": "9127963A5",
+      "name": "United States Treasury Bill",
+      "percent": "2.56"
+    },
+    {
+      "ticker": "9127963B3",
+      "name": "United States Treasury Bill",
+      "percent": "2.49"
+    },
+    {
+      "ticker": "912828B90",
+      "name": "United States Treasury Note/Bond",
+      "percent": "2.34"
+    },
+    {
+      "ticker": "912828A42",
+      "name": "United States Treasury Note/Bond",
+      "percent": "2.14"
+    },
+    {
+      "ticker": "9127963L1",
+      "name": "United States Treasury Bill",
+      "percent": "2.12"
+    },
+    {
+      "ticker": "912828YJ3",
+      "name": "United States Treasury Note/Bond",
+      "percent": "2.11"
+    },
+    {
+      "ticker": "912796XE4",
+      "name": "United States Treasury Bill",
+      "percent": "2.09"
+    },
+    {
+      "ticker": "9127964N6",
+      "name": "United States Treasury Bill",
+      "percent": "2.08"
+    },
+    {
+      "ticker": "9127964P1",
+      "name": "United States Treasury Bill",
+      "percent": "2.08"
+    },
+    {
+      "ticker": "9127963S6",
+      "name": "United States Treasury Bill",
+      "percent": "2.08"
+    },
+    {
+      "ticker": "9127964B2",
+      "name": "United States Treasury Bill",
+      "percent": "2.08"
+    },
+    {
+      "ticker": "9127964L0",
+      "name": "United States Treasury Bill",
+      "percent": "2.08"
+    },
+    {
+      "ticker": "912828S76",
+      "name": "United States Treasury Note/Bond",
+      "percent": "2.07"
+    },
+    {
+      "ticker": "9127962Q1",
+      "name": "United States Treasury Bill",
+      "percent": "1.79"
+    },
+    {
+      "ticker": "9127963H0",
+      "name": "United States Treasury Bill",
+      "percent": "1.69"
+    },
+    {
+      "ticker": "9128283X6",
+      "name": "United States Treasury Note/Bond",
+      "percent": "1.65"
+    },
+    {
+      "ticker": "912828WN6",
+      "name": "United States Treasury Note/Bond",
+      "percent": "1.61"
+    },
+    {
+      "ticker": "912828S27",
+      "name": "United States Treasury Note/Bond",
+      "percent": "1.60"
+    },
+    {
+      "ticker": "9127963J6",
+      "name": "United States Treasury Bill",
+      "percent": "1.59"
+    },
+    {
+      "ticker": "912828N48",
+      "name": "United States Treasury Note/Bond",
+      "percent": "1.59"
+    },
+    {
+      "ticker": "912828Y20",
+      "name": "United States Treasury Note/Bond",
+      "percent": "1.59"
+    },
+    {
+      "ticker": "912796UC1",
+      "name": "United States Treasury Bill",
+      "percent": "1.59"
+    },
+    {
+      "ticker": "9127963V9",
+      "name": "United States Treasury Bill",
+      "percent": "1.59"
+    },
+    {
+      "ticker": "9127964F3",
+      "name": "United States Treasury Bill",
+      "percent": "1.52"
+    },
+    {
+      "ticker": "9127963U1",
+      "name": "United States Treasury Bill",
+      "percent": "1.50"
+    },
+    {
+      "ticker": "9127963W7",
+      "name": "United States Treasury Bill",
+      "percent": "1.50"
+    },
+    {
+      "ticker": "9127964C0",
+      "name": "United States Treasury Bill",
+      "percent": "1.50"
+    },
+    {
+      "ticker": "9127964D8",
+      "name": "United States Treasury Bill",
+      "percent": "1.50"
+    },
+    {
+      "ticker": "9128285S5",
+      "name": "United States Treasury Note/Bond",
+      "percent": "1.50"
+    },
+    {
+      "ticker": "9127963T4",
+      "name": "United States Treasury Bill",
+      "percent": "1.47"
+    },
+    {
+      "ticker": "9127964M8",
+      "name": "United States Treasury Bill",
+      "percent": "1.46"
+    },
+    {
+      "ticker": "9127963K3",
+      "name": "United States Treasury Bill",
+      "percent": "1.45"
+    },
+    {
+      "ticker": "912828WG1",
+      "name": "United States Treasury Note/Bond",
+      "percent": "1.44"
+    },
+    {
+      "ticker": "912828C57",
+      "name": "United States Treasury Note/Bond",
+      "percent": "1.39"
+    },
+    {
+      "ticker": "9128285Q9",
+      "name": "United States Treasury Note/Bond",
+      "percent": "1.37"
+    },
+    {
+      "ticker": "912828WR7",
+      "name": "United States Treasury Note/Bond",
+      "percent": "1.34"
+    },
+    {
+      "ticker": "9128284W7",
+      "name": "United States Treasury Note/Bond",
+      "percent": "1.28"
+    },
+    {
+      "ticker": "9128286D7",
+      "name": "United States Treasury Note/Bond",
+      "percent": "1.27"
+    },
+    {
+      "ticker": "912828B58",
+      "name": "United States Treasury Note/Bond",
+      "percent": "1.27"
+    },
+    {
+      "ticker": "912828N89",
+      "name": "United States Treasury Note/Bond",
+      "percent": "1.26"
+    },
+    {
+      "ticker": "9128283L2",
+      "name": "United States Treasury Note/Bond",
+      "percent": "1.26"
+    },
+    {
+      "ticker": "912828M98",
+      "name": "United States Treasury Note/Bond",
+      "percent": "1.26"
+    },
+    {
+      "ticker": "912828PC8",
+      "name": "United States Treasury Note/Bond",
+      "percent": "1.19"
+    },
+    {
+      "ticker": "912828T34",
+      "name": "United States Treasury Note/Bond",
+      "percent": "1.07"
+    },
+    {
+      "ticker": "912828RC6",
+      "name": "United States Treasury Note/Bond",
+      "percent": "1.06"
+    },
+    {
+      "ticker": "9128287F1",
+      "name": "United States Treasury Note/Bond",
+      "percent": "1.05"
+    },
+    {
+      "ticker": "912828YC8",
+      "name": "United States Treasury Note/Bond",
+      "percent": "1.05"
+    },
+    {
+      "ticker": "9128282F6",
+      "name": "United States Treasury Note/Bond",
+      "percent": "1.05"
+    },
+    {
+      "ticker": "912828R77",
+      "name": "United States Treasury Note/Bond",
+      "percent": "1.05"
+    },
+    {
+      "ticker": "9127962Y4",
+      "name": "United States Treasury Bill",
+      "percent": "1.04"
+    },
+    {
+      "ticker": "912828F21",
+      "name": "United States Treasury Note/Bond",
+      "percent": "1.03"
+    },
+    {
+      "ticker": "9128283G3",
+      "name": "United States Treasury Note/Bond",
+      "percent": "1.01"
+    },
+    {
+      "ticker": "912828PX2",
+      "name": "United States Treasury Note/Bond",
+      "percent": "0.95"
+    },
+    {
+      "ticker": "9128283Q1",
+      "name": "United States Treasury Note/Bond",
+      "percent": "0.70"
+    },
+    {
+      "ticker": "912828P87",
+      "name": "United States Treasury Note/Bond",
+      "percent": "0.58"
+    },
+    {
+      "ticker": "9128284P2",
+      "name": "United States Treasury Note/Bond",
+      "percent": "0.47"
+    },
+    {
+      "ticker": "AGPXX",
+      "name": "STIT - Government & Agency Portfolio",
+      "percent": "0.00"
+    },
+    {
+      "ticker": "9127962S7",
+      "name": "United States Treasury Bill",
+      "percent": "0.00"
+    }
+  ]
+}

@@ -1,0 +1,165 @@
+{
+  "Products": "Dow Jones Industrial Average Dividend ETF",
+  "Ticker": "DJD",
+  "Inception": "12/16/2015",
+  "Gross Exp. Ratio": "0.07%",
+  "YTD": "-9.87",
+  "1Yr": "-3.82",
+  "3Yr": "6.07",
+  "5Yr": "",
+  "10Yr": "",
+  "Since Incept.": "9.85",
+  "Category": "Income",
+  "SubCategory": "Equity Income",
+  "ticker": "DJD",
+  "name": "Dow Jones Industrial Average Dividend ETF",
+  "issuer": "Invesco",
+  "website": "https://www.invesco.com/us/financial-products/etfs/product-detail?audienceType=Investor&ticker=DJD",
+  "holdingDataSource": {
+    "url": "https://www.invesco.com/us/financial-products/etfs/holdings/main/holdings/0?audienceType=Investor&action=download&ticker=DJD",
+    "fileExt": "csv",
+    "transform": "invesco"
+  },
+  "holdings": [
+    {
+      "ticker": "DOW",
+      "name": "Dow Inc",
+      "percent": "7.919"
+    },
+    {
+      "ticker": "CVX",
+      "name": "Chevron Corp",
+      "percent": "7.442"
+    },
+    {
+      "ticker": "IBM",
+      "name": "International Business Machines Corp",
+      "percent": "7.073"
+    },
+    {
+      "ticker": "WBA",
+      "name": "Walgreens Boots Alliance Inc",
+      "percent": "6.840"
+    },
+    {
+      "ticker": "VZ",
+      "name": "Verizon Communications Inc",
+      "percent": "5.200"
+    },
+    {
+      "ticker": "MMM",
+      "name": "3M Co",
+      "percent": "4.791"
+    },
+    {
+      "ticker": "JPM",
+      "name": "JPMorgan Chase & Co",
+      "percent": "4.658"
+    },
+    {
+      "ticker": "CSCO",
+      "name": "Cisco Systems Inc",
+      "percent": "4.434"
+    },
+    {
+      "ticker": "KO",
+      "name": "Coca-Cola Co/The",
+      "percent": "4.187"
+    },
+    {
+      "ticker": "CAT",
+      "name": "Caterpillar Inc",
+      "percent": "4.087"
+    },
+    {
+      "ticker": "TRV",
+      "name": "Travelers Cos Inc/The",
+      "percent": "3.767"
+    },
+    {
+      "ticker": "INTC",
+      "name": "Intel Corp",
+      "percent": "3.664"
+    },
+    {
+      "ticker": "MRK",
+      "name": "Merck & Co Inc",
+      "percent": "3.479"
+    },
+    {
+      "ticker": "JNJ",
+      "name": "Johnson & Johnson",
+      "percent": "3.396"
+    },
+    {
+      "ticker": "GS",
+      "name": "Goldman Sachs Group Inc/The",
+      "percent": "3.223"
+    },
+    {
+      "ticker": "MCD",
+      "name": "McDonald's Corp",
+      "percent": "3.171"
+    },
+    {
+      "ticker": "AMGN",
+      "name": "Amgen Inc",
+      "percent": "3.151"
+    },
+    {
+      "ticker": "PG",
+      "name": "Procter & Gamble Co/The",
+      "percent": "3.075"
+    },
+    {
+      "ticker": "HON",
+      "name": "Honeywell International Inc",
+      "percent": "2.939"
+    },
+    {
+      "ticker": "HD",
+      "name": "Home Depot Inc/The",
+      "percent": "2.820"
+    },
+    {
+      "ticker": "UNH",
+      "name": "UnitedHealth Group Inc",
+      "percent": "2.252"
+    },
+    {
+      "ticker": "AXP",
+      "name": "American Express Co",
+      "percent": "2.211"
+    },
+    {
+      "ticker": "WMT",
+      "name": "Walmart Inc",
+      "percent": "2.119"
+    },
+    {
+      "ticker": "MSFT",
+      "name": "Microsoft Corp",
+      "percent": "1.253"
+    },
+    {
+      "ticker": "NKE",
+      "name": "NIKE Inc",
+      "percent": "1.223"
+    },
+    {
+      "ticker": "AAPL",
+      "name": "Apple Inc",
+      "percent": "0.869"
+    },
+    {
+      "ticker": "V",
+      "name": "Visa Inc",
+      "percent": "0.727"
+    },
+    {
+      "ticker": "AGPXX",
+      "name": "STIT - Government & Agency Portfolio",
+      "percent": "0.031"
+    }
+  ]
+}

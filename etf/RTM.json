@@ -1,0 +1,170 @@
+{
+  "Products": "S&P 500® Equal Weight Materials ETF",
+  "Ticker": "RTM",
+  "Inception": "11/01/2006",
+  "Gross Exp. Ratio": "0.40%",
+  "YTD": "2.39",
+  "1Yr": "9.55",
+  "3Yr": "6.02",
+  "5Yr": "12.21",
+  "10Yr": "9.67",
+  "Since Incept.": "8.46",
+  "Category": "SP Factor",
+  "SubCategory": "Equal Weight Sectors",
+  "ticker": "RTM",
+  "name": "S&P 500® Equal Weight Materials ETF",
+  "issuer": "Invesco",
+  "website": "https://www.invesco.com/us/financial-products/etfs/product-detail?audienceType=Investor&ticker=RTM",
+  "holdingDataSource": {
+    "url": "https://www.invesco.com/us/financial-products/etfs/holdings/main/holdings/0?audienceType=Investor&action=download&ticker=RTM",
+    "fileExt": "csv",
+    "transform": "invesco"
+  },
+  "holdings": [
+    {
+      "ticker": "WRK",
+      "name": "Westrock Co",
+      "percent": "4.243"
+    },
+    {
+      "ticker": "MLM",
+      "name": "Martin Marietta Materials Inc",
+      "percent": "4.152"
+    },
+    {
+      "ticker": "IP",
+      "name": "International Paper Co",
+      "percent": "4.024"
+    },
+    {
+      "ticker": "CTVA",
+      "name": "Corteva Inc",
+      "percent": "3.952"
+    },
+    {
+      "ticker": "VMC",
+      "name": "Vulcan Materials Co",
+      "percent": "3.911"
+    },
+    {
+      "ticker": "PKG",
+      "name": "Packaging Corp of America",
+      "percent": "3.847"
+    },
+    {
+      "ticker": "CE",
+      "name": "Celanese Corp",
+      "percent": "3.792"
+    },
+    {
+      "ticker": "BLL",
+      "name": "Ball Corp",
+      "percent": "3.767"
+    },
+    {
+      "ticker": "AVY",
+      "name": "Avery Dennison Corp",
+      "percent": "3.765"
+    },
+    {
+      "ticker": "EMN",
+      "name": "Eastman Chemical Co",
+      "percent": "3.638"
+    },
+    {
+      "ticker": "PPG",
+      "name": "PPG Industries Inc",
+      "percent": "3.632"
+    },
+    {
+      "ticker": "NUE",
+      "name": "Nucor Corp",
+      "percent": "3.614"
+    },
+    {
+      "ticker": "SEE",
+      "name": "Sealed Air Corp",
+      "percent": "3.572"
+    },
+    {
+      "ticker": "FCX",
+      "name": "Freeport-McMoRan Inc",
+      "percent": "3.547"
+    },
+    {
+      "ticker": "MOS",
+      "name": "Mosaic Co/The",
+      "percent": "3.518"
+    },
+    {
+      "ticker": "AMCR",
+      "name": "Amcor PLC",
+      "percent": "3.499"
+    },
+    {
+      "ticker": "LYB",
+      "name": "LyondellBasell Industries NV",
+      "percent": "3.488"
+    },
+    {
+      "ticker": "DD",
+      "name": "DuPont de Nemours Inc",
+      "percent": "3.400"
+    },
+    {
+      "ticker": "ECL",
+      "name": "Ecolab Inc",
+      "percent": "3.381"
+    },
+    {
+      "ticker": "FMC",
+      "name": "FMC Corp",
+      "percent": "3.376"
+    },
+    {
+      "ticker": "APD",
+      "name": "Air Products and Chemicals Inc",
+      "percent": "3.341"
+    },
+    {
+      "ticker": "DOW",
+      "name": "Dow Inc",
+      "percent": "3.328"
+    },
+    {
+      "ticker": "ALB",
+      "name": "Albemarle Corp",
+      "percent": "3.311"
+    },
+    {
+      "ticker": "SHW",
+      "name": "Sherwin-Williams Co/The",
+      "percent": "3.301"
+    },
+    {
+      "ticker": "IFF",
+      "name": "International Flavors & Fragrances Inc",
+      "percent": "3.233"
+    },
+    {
+      "ticker": "NEM",
+      "name": "Newmont Corp",
+      "percent": "3.185"
+    },
+    {
+      "ticker": "LIN",
+      "name": "Linde PLC",
+      "percent": "3.135"
+    },
+    {
+      "ticker": "CF",
+      "name": "CF Industries Holdings Inc",
+      "percent": "2.953"
+    },
+    {
+      "ticker": "AGPXX",
+      "name": "STIT - Government & Agency Portfolio",
+      "percent": "0.096"
+    }
+  ]
+}

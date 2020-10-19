@@ -1,0 +1,559 @@
+{
+  "ticker": "XITK",
+  "name": "SPDR® FactSet Innovative Technology ETF",
+  "ISIN": "US78464A1108",
+  "CUSIP": "78464A110",
+  "Inception Date": "Jan 13 2016",
+  "Gross Expense Ratio": "0.45%",
+  "* Net Expense Ratio": "-",
+  "Asset Class": "Equity",
+  "Distribution Frequency": "Quarterly",
+  "Primary Exchange": "NYSE ARCA EXCHANGE",
+  "Primary Index": "FactSet Innovative Technology Index",
+  "Primary Index Ticker": "FDSITTR",
+  "issuer": "SSGA",
+  "website": "https://www.ssga.com/us/en/individual/etfs/funds/spdr-factset-innovative-technology-etf-xitk",
+  "holdingDataSource": {
+    "fileUrl": "https://www.ssga.com/us/en/individual/etfs/library-content/products/fund-data/etfs/us/holdings-daily-us-en-xitk.xlsx",
+    "fileExt": "xlsx",
+    "transform": "spdr"
+  },
+  "holdings": [
+    {
+      "ticker": "ZM",
+      "name": "Zoom Video Communications Inc. Class A",
+      "percent": "5.317644"
+    },
+    {
+      "ticker": "APPS",
+      "name": "Digital Turbine Inc.",
+      "percent": "3.262002"
+    },
+    {
+      "ticker": "SE",
+      "name": "Sea Ltd. (Singapore) Sponsored ADR Class A",
+      "percent": "2.891627"
+    },
+    {
+      "ticker": "ZS",
+      "name": "Zscaler Inc.",
+      "percent": "2.121394"
+    },
+    {
+      "ticker": "SEDG",
+      "name": "SolarEdge Technologies Inc.",
+      "percent": "2.106678"
+    },
+    {
+      "ticker": "TWLO",
+      "name": "Twilio Inc. Class A",
+      "percent": "2.091848"
+    },
+    {
+      "ticker": "DOCU",
+      "name": "DocuSign Inc.",
+      "percent": "2.050484"
+    },
+    {
+      "ticker": "CRWD",
+      "name": "CrowdStrike Holdings Inc. Class A",
+      "percent": "1.850189"
+    },
+    {
+      "ticker": "SQ",
+      "name": "Square Inc. Class A",
+      "percent": "1.830515"
+    },
+    {
+      "ticker": "SHOP-CA",
+      "name": "Shopify Inc. Class A",
+      "percent": "1.760866"
+    },
+    {
+      "ticker": "PINS",
+      "name": "Pinterest Inc. Class A",
+      "percent": "1.571460"
+    },
+    {
+      "ticker": "NVDA",
+      "name": "NVIDIA Corporation",
+      "percent": "1.566329"
+    },
+    {
+      "ticker": "BILI",
+      "name": "Bilibili Inc. Sponsored ADR Class Z",
+      "percent": "1.535476"
+    },
+    {
+      "ticker": "Z",
+      "name": "Zillow Group Inc. Class C",
+      "percent": "1.512670"
+    },
+    {
+      "ticker": "TTD",
+      "name": "Trade Desk Inc. Class A",
+      "percent": "1.491324"
+    },
+    {
+      "ticker": "WIX",
+      "name": "Wix.com Ltd.",
+      "percent": "1.487313"
+    },
+    {
+      "ticker": "COUP",
+      "name": "Coupa Software Inc.",
+      "percent": "1.370599"
+    },
+    {
+      "ticker": "OKTA",
+      "name": "Okta Inc. Class A",
+      "percent": "1.319062"
+    },
+    {
+      "ticker": "VEEV",
+      "name": "Veeva Systems Inc Class A",
+      "percent": "1.317944"
+    },
+    {
+      "ticker": "MDB",
+      "name": "MongoDB Inc. Class A",
+      "percent": "1.313822"
+    },
+    {
+      "ticker": "AMD",
+      "name": "Advanced Micro Devices Inc.",
+      "percent": "1.269390"
+    },
+    {
+      "ticker": "BL",
+      "name": "BlackLine Inc.",
+      "percent": "1.229337"
+    },
+    {
+      "ticker": "SAIL",
+      "name": "SailPoint Technologies Holdings Inc.",
+      "percent": "1.222609"
+    },
+    {
+      "ticker": "ESTC",
+      "name": "Elastic NV",
+      "percent": "1.213462"
+    },
+    {
+      "ticker": "APPN",
+      "name": "Appian Corporation Class A",
+      "percent": "1.206684"
+    },
+    {
+      "ticker": "DOYU",
+      "name": "DouYu International Holdings Ltd. Sponsored ADR",
+      "percent": "1.191460"
+    },
+    {
+      "ticker": "SNAP",
+      "name": "Snap Inc. Class A",
+      "percent": "1.167913"
+    },
+    {
+      "ticker": "NFLX",
+      "name": "Netflix Inc.",
+      "percent": "1.142382"
+    },
+    {
+      "ticker": "SPOT",
+      "name": "Spotify Technology SA",
+      "percent": "1.115209"
+    },
+    {
+      "ticker": "AAPL",
+      "name": "Apple Inc.",
+      "percent": "1.098018"
+    },
+    {
+      "ticker": "ROKU",
+      "name": "Roku Inc. Class A",
+      "percent": "1.074383"
+    },
+    {
+      "ticker": "VRNS",
+      "name": "Varonis Systems Inc.",
+      "percent": "1.072059"
+    },
+    {
+      "ticker": "TWOU",
+      "name": "2U Inc.",
+      "percent": "1.052969"
+    },
+    {
+      "ticker": "IPHI",
+      "name": "Inphi Corporation",
+      "percent": "1.024455"
+    },
+    {
+      "ticker": "EVBG",
+      "name": "Everbridge Inc.",
+      "percent": "1.011375"
+    },
+    {
+      "ticker": "TENB",
+      "name": "Tenable Holdings Inc.",
+      "percent": "1.008745"
+    },
+    {
+      "ticker": "TEAM",
+      "name": "Atlassian Corp. Plc Class A",
+      "percent": "0.999404"
+    },
+    {
+      "ticker": "APPF",
+      "name": "AppFolio Inc Class A",
+      "percent": "0.956893"
+    },
+    {
+      "ticker": "WORK",
+      "name": "Slack Technologies Inc. Class A",
+      "percent": "0.956741"
+    },
+    {
+      "ticker": "TWTR",
+      "name": "Twitter Inc.",
+      "percent": "0.953123"
+    },
+    {
+      "ticker": "PAYC",
+      "name": "Paycom Software Inc.",
+      "percent": "0.914831"
+    },
+    {
+      "ticker": "NTES",
+      "name": "NetEase Inc. Sponsored ADR",
+      "percent": "0.909831"
+    },
+    {
+      "ticker": "AYX",
+      "name": "Alteryx Inc. Class A",
+      "percent": "0.906764"
+    },
+    {
+      "ticker": "YY",
+      "name": "JOYY Inc. Sponsored ADR Class A",
+      "percent": "0.903518"
+    },
+    {
+      "ticker": "SPLK",
+      "name": "Splunk Inc.",
+      "percent": "0.897783"
+    },
+    {
+      "ticker": "WDAY",
+      "name": "Workday Inc. Class A",
+      "percent": "0.892903"
+    },
+    {
+      "ticker": "YNDX",
+      "name": "Yandex NV Class A",
+      "percent": "0.882371"
+    },
+    {
+      "ticker": "TTWO",
+      "name": "Take-Two Interactive Software Inc.",
+      "percent": "0.868279"
+    },
+    {
+      "ticker": "FB",
+      "name": "Facebook Inc. Class A",
+      "percent": "0.862721"
+    },
+    {
+      "ticker": "GLUU",
+      "name": "Glu Mobile Inc.",
+      "percent": "0.843015"
+    },
+    {
+      "ticker": "ANGI",
+      "name": "ANGI Homeservices Inc Class A",
+      "percent": "0.836690"
+    },
+    {
+      "ticker": "SMAR",
+      "name": "Smartsheet Inc. Class A",
+      "percent": "0.829096"
+    },
+    {
+      "ticker": "PD",
+      "name": "PagerDuty Inc.",
+      "percent": "0.826482"
+    },
+    {
+      "ticker": "ATHM",
+      "name": "Autohome Inc. Sponsored ADR Class A",
+      "percent": "0.824113"
+    },
+    {
+      "ticker": "HUYA",
+      "name": "HUYA Inc. Sponsored ADR Class A",
+      "percent": "0.821236"
+    },
+    {
+      "ticker": "YEXT",
+      "name": "Yext Inc.",
+      "percent": "0.791034"
+    },
+    {
+      "ticker": "TME",
+      "name": "Tencent Music Entertainment Group Sponsored ADR Class A",
+      "percent": "0.786854"
+    },
+    {
+      "ticker": "UPLD",
+      "name": "Upland Software Inc.",
+      "percent": "0.780080"
+    },
+    {
+      "ticker": "LBRDK",
+      "name": "Liberty Broadband Corp. Class C",
+      "percent": "0.763775"
+    },
+    {
+      "ticker": "DBX",
+      "name": "Dropbox Inc. Class A",
+      "percent": "0.753895"
+    },
+    {
+      "ticker": "PLAN",
+      "name": "Anaplan Inc.",
+      "percent": "0.749799"
+    },
+    {
+      "ticker": "TREE",
+      "name": "LendingTree Inc.",
+      "percent": "0.744840"
+    },
+    {
+      "ticker": "QLYS",
+      "name": "Qualys Inc.",
+      "percent": "0.744749"
+    },
+    {
+      "ticker": "GOOGL",
+      "name": "Alphabet Inc. Class A",
+      "percent": "0.743059"
+    },
+    {
+      "ticker": "ANET",
+      "name": "Arista Networks Inc.",
+      "percent": "0.741396"
+    },
+    {
+      "ticker": "RPD",
+      "name": "Rapid7 Inc.",
+      "percent": "0.727516"
+    },
+    {
+      "ticker": "SINA",
+      "name": "SINA Corp.",
+      "percent": "0.726175"
+    },
+    {
+      "ticker": "CHKP",
+      "name": "Check Point Software Technologies Ltd.",
+      "percent": "0.709330"
+    },
+    {
+      "ticker": "IQ",
+      "name": "iQIYI Inc. Sponsored ADR Class A",
+      "percent": "0.707922"
+    },
+    {
+      "ticker": "RP",
+      "name": "RealPage Inc.",
+      "percent": "0.700024"
+    },
+    {
+      "ticker": "PSTG",
+      "name": "Pure Storage Inc. Class A",
+      "percent": "0.698269"
+    },
+    {
+      "ticker": "SSNC",
+      "name": "SS&C Technologies Holdings Inc.",
+      "percent": "0.689394"
+    },
+    {
+      "ticker": "HCAT",
+      "name": "Health Catalyst Inc.",
+      "percent": "0.672058"
+    },
+    {
+      "ticker": "TLND",
+      "name": "Talend SA Sponsored ADR",
+      "percent": "0.671065"
+    },
+    {
+      "ticker": "FIT",
+      "name": "Fitbit Inc. Class A",
+      "percent": "0.665228"
+    },
+    {
+      "ticker": "MIME",
+      "name": "Mimecast Limited",
+      "percent": "0.663155"
+    },
+    {
+      "ticker": "BITA",
+      "name": "Bitauto Holdings Ltd. Sponsored ADR",
+      "percent": "0.657049"
+    },
+    {
+      "ticker": "TRUE",
+      "name": "TrueCar Inc.",
+      "percent": "0.638797"
+    },
+    {
+      "ticker": "LFUS",
+      "name": "Littelfuse Inc.",
+      "percent": "0.635103"
+    },
+    {
+      "ticker": "BZUN",
+      "name": "Baozun Inc Sponsored ADR Class A",
+      "percent": "0.618643"
+    },
+    {
+      "ticker": "PFPT",
+      "name": "Proofpoint Inc.",
+      "percent": "0.618381"
+    },
+    {
+      "ticker": "CLDR",
+      "name": "Cloudera Inc.",
+      "percent": "0.606324"
+    },
+    {
+      "ticker": "COHU",
+      "name": "Cohu Inc.",
+      "percent": "0.599524"
+    },
+    {
+      "ticker": "FEYE",
+      "name": "FireEye Inc.",
+      "percent": "0.555008"
+    },
+    {
+      "ticker": "CYBR",
+      "name": "CyberArk Software Ltd.",
+      "percent": "0.554188"
+    },
+    {
+      "ticker": "JOBS",
+      "name": "51job Inc Sponsored ADR",
+      "percent": "0.551045"
+    },
+    {
+      "ticker": "WB",
+      "name": "Weibo Corp Sponsored ADR Class A",
+      "percent": "0.547014"
+    },
+    {
+      "ticker": "TDC",
+      "name": "Teradata Corporation",
+      "percent": "0.505909"
+    },
+    {
+      "ticker": "ICHR",
+      "name": "Ichor Holdings Ltd.",
+      "percent": "0.496079"
+    },
+    {
+      "ticker": "QUOT",
+      "name": "Quotient Technology Incorporated",
+      "percent": "0.478792"
+    },
+    {
+      "ticker": "JCOM",
+      "name": "J2 Global Inc.",
+      "percent": "0.476657"
+    },
+    {
+      "ticker": "PLT",
+      "name": "Plantronics Inc.",
+      "percent": "0.434690"
+    },
+    {
+      "ticker": "CARG",
+      "name": "CarGurus Inc. Class A",
+      "percent": "0.374923"
+    },
+    {
+      "ticker": "YELP",
+      "name": "Yelp Inc",
+      "percent": "0.373106"
+    },
+    {
+      "ticker": "MOMO",
+      "name": "Momo Inc Sponsored ADR Class A",
+      "percent": "0.259329"
+    },
+    {
+      "ticker": "70286227",
+      "name": "STATE STREET INSTITUTIONAL LIQ STATE STR",
+      "percent": "0.034100"
+    },
+    {
+      "ticker": "CASH_USD",
+      "name": "U.S. Dollar",
+      "percent": "0.000232"
+    },
+    {
+      "name": "Performance quoted represents past performance, which is no guarantee of future results. Investment return and principal value will fluctuate, so you may have a gain or loss when shares are sold. Current performance may be higher or lower than that quoted. Visit www.ssga.com for most recent month-end performance."
+    },
+    {
+      "name": "This analysis or any portion thereof may not be revised or changed in any way, reprinted, sold or redistributed without the written consent of SSGA."
+    },
+    {
+      "name": "Portfolio holdings, allocations and weightings are as of the date indicated, are subject to change and should not be considered a recommendation to buy individual securities. For most recent information visit www.ssga.com."
+    },
+    {
+      "name": "Important Risk Information  "
+    },
+    {
+      "name": "Investing involves risk, and you could lose money on an investment in each of SPDR® Gold Shares Trust (“GLD®”) and SPDR® Gold MiniSharesSM Trust  (“GLDMSM”), a series of the World Gold Trust (together, the “Funds”). \n\nETFs trade like stocks, are subject to investment risk, fluctuate in market value and may trade at prices above or below the ETFs’ net asset value. Brokerage commissions and ETF expenses will reduce returns.\n\nCommodities and commodity-index linked securities may be affected by changes in overall market movements, changes in interest rates, and other factors such as weather, disease, embargoes, or political and regulatory developments, as well as trading activity of speculators and arbitrageurs in the underlying commodities.\n\nFrequent trading of ETFs could significantly increase commissions and other costs such that they may offset any savings from low fees or costs.\n\nDiversification does not ensure a profit or guarantee against loss."
+    },
+    {
+      "name": "Investing in commodities entails significant risk and is not appropriate for all investors."
+    },
+    {
+      "name": "Important Information Relating to SPDR® Gold Trust (“GLD®”) and SPDR® Gold MiniSharesSM Trust (“GLDMSM”):"
+    },
+    {
+      "name": "The SPDR Gold Trust (“GLD”) has filed a registration statement (including a prospectus) with the Securities and Exchange Commission (“SEC”) for GLD. The World Gold Trust has filed a registration statement (including a prospectus) with the SEC for GLDM. Before you invest, you should read the prospectus in the registration statement and other documents each Fund has filed with the SEC for more complete information about each Fund and these offerings. Please see each Fund’s prospectus for a detailed discussion of the risks of investing in each Fund’s shares."
+    },
+    {
+      "name": "The GLD prospectus is available by clicking"
+    },
+    {
+      "name": "The GLDM prospectus is available by clicking "
+    },
+    {
+      "name": "You may get these documents for free by visiting EDGAR on the SEC website at sec.gov or by visiting spdrgoldshares.com. Alternatively, the Funds or any authorized participant will arrange to send you the prospectus if you request it by calling 866.320.4053."
+    },
+    {
+      "name": "None of the Funds is an investment company registered under the Investment Company Act of 1940 (the “1940 Act”). As a result, shareholders of each Fund do not have the protections associated with ownership of shares in an investment company registered under the 1940 Act. GLD and GLDM are not subject to regulation under the CEA. As a result, shareholders of each of GLD and GLDM do not have the protections afforded by the CEA. \n\nShares of each Fund trade like stocks, are subject to investment risk and will fluctuate in market value. \n\nThe values of GLD shares and GLDM shares relate directly to the value of the gold held by each Fund (less its expenses), respectively. Fluctuations in the price of gold could materially and adversely affect an investment in the shares. The price received upon the sale of the shares, which trade at market price, may be more or less than the value of the gold represented by them.  \n\nNone of the Funds generate any income, and as each Fund regularly sells gold to pay for its ongoing expenses, the amount of gold represented by each Fund share will decline over time to that extent.\n\nThe World Gold Council name and logo are a registered trademark and used with the permission of the World Gold Council pursuant to a license agreement. The World Gold Council is not responsible for the content of, and is not liable for the use of or reliance on, this material. World Gold Council is an affiliate of the Sponsor of each of GLD and GLDM.\n\nMiniSharesSM and GLDMSM are service marks of WGC USA Asset Management Company, LLC used with the permission of WGC USA Asset Management Company, LLC.\n\nGLD® is a registered trademark of World Gold Trust Services, LLC used with the permission of World Gold Trust Services, LLC."
+    },
+    {
+      "name": "For more information, please contact the Marketing Agent for GLD and GLDM: State Street Global Advisors Funds Distributors, LLC, One Iron Street, Boston, MA, 02210; T: +1 866 320 4053 spdrgoldshares.com"
+    },
+    {
+      "name": "Standard & Poor’s®, S&P® and SPDR® are registered trademarks of Standard & Poor’s Financial Services LLC (S&P); Dow Jones is a registered trademark of Dow Jones Trademark Holdings LLC (Dow Jones); and these trademarks have been licensed for use by S&P Dow Jones Indices LLC (SPDJI) and sublicensed for certain purposes by State Street Corporation. State Street Corporation’s financial products are not sponsored, endorsed, sold or promoted by SPDJI, Dow Jones, S&P, their respective affiliates and third party licensors and none of such parties make any representation regarding the advisability of investing in such product(s) nor do they have any liability in relation thereto, including for any errors, omissions, or interruptions of any index."
+    },
+    {
+      "name": "Bonds generally present less short-term risk and volatility than stocks, but contain interest rate risk (as interest rates raise, bond prices usually fall); issuer default risk; issuer credit risk; liquidity risk; and inflation risk. These effects are usually pronounced for longer-term securities. Any fixed income security sold or redeemed prior to maturity may be subject to a substantial gain or loss.\nInternational Government bonds and corporate bonds generally have more moderate short-term price fluctuations than stocks, but provide lower potential long-term returns.\nInvesting in high yield fixed income securities, otherwise known as \"junk bonds\", is considered speculative and involves greater risk of loss of principal and interest than investing in investment grade fixed income securities. These Lower-quality debt securities involve greater risk of default or price changes due to potential changes in the credit quality of the issuer.\nEquity securities may fluctuate in value in response to the activities of individual companies and general market and economic conditions.\nThere are risks associated with investing in Real Assets and the Real Assets sector, including real estate, precious metals and natural resources.  Investments can be significantly affected by events relating to these industries.\nInvesting in foreign domiciled securities may involve risk of capital loss from unfavorable fluctuation in currency values, withholding taxes, from differences in generally accepted accounting principles or from economic or political instability in other nations.  Investments in emerging or developing markets may be more volatile and less liquid than investing in developed markets and may involve exposure to economic structures that are generally less diverse and mature and to political systems which have less stability than those of more developed countries. The trademarks and service marks referenced herein are the property of their respective owners. Third party data providers make no warranties or representations of any kind relating to the accuracy, completeness or timeliness of the data and have no liability for damages of any kind relating to the use of such data. Investing involves risk including the risk of loss of principal.\nThe whole or any part of this work may not be reproduced, copied or transmitted or any of its contents disclosed to third parties without SSGA's express written consent.\nETFs trade like stocks, are subject to investment risk and will fluctuate in market value. The investment return and principal value of an investment will fluctuate in value, so that when shares are sold or redeemed, they may be worth more or less than when they were purchased.  Although shares may be bought or sold on an exchange through any brokerage account, shares are not individually redeemable from the fund.  Investors may acquire shares and tender them for redemption through the fund in large aggregations known as “creation units.”  Please see the fund’s prospectus for more details.\nInvesting in REITs involves certain distinct risks in addition to those risks associated with investing in the real estate industry in general. Equity REITs may be affected by changes in the value of the underlying property owned by the REITs, while mortgage REITs may be affected by the quality of credit extended. REITs are subject to heavy cash flow dependency, default by borrowers and self-liquidation. REITs, especially mortgage REITs, are also subject to interest rate risk (i.e., as interest rates rise, the value of the REIT may decline).\nInvestments in small/mid-sized companies may involve greater risks than in those of larger, better known companies. Concentrated investments in a particular Sector tend to be more volatile than the overall market and increases risk that events negatively affecting such sectors or industries could reduce returns, potentially causing the value of the Fund’s shares to decrease.\nStandard & Poor’s®, S&P® and SPDR® are registered trademarks of Standard & Poor’s Financial Services LLC (S&P); Dow Jones is a registered trademark of Dow Jones Trademark Holdings LLC (Dow Jones); and these trademarks have been licensed for use by S&P Dow Jones Indices LLC (SPDJI) and sublicensed for certain purposes by State Street Corporation. State Street Corporation’s financial products are not sponsored, endorsed, sold or promoted by SPDJI, Dow Jones, S&P, their respective affiliates and third party licensors and none of such parties make any representation regarding the advisability of investing in such product(s) nor do they have any liability in relation thereto, including for any errors, omissions, or interruptions of any index.\nCommodities and commodity-index linked securities may be affected by changes in overall market movements, changes in interest rates, and other factors such as weather, disease, embargoes, or political and regulatory developments, as well as trading activity of speculators and arbitrageurs in the underlying commodities. The returns on a portfolio of securities which exclude companies that do not meet the portfolio's specified ESG criteria may trail the returns on a portfolio of securities which include such companies. A portfolio's ESG criteria may result in the portfolio investing in industry sectors or securities which underperform the market as a whole.\nTechnology companies, including cyber security companies, can be significantly affected by obsolescence of existing technology, limited product lines, and competition for financial resources, qualified personnel, new market entrants or impairment of patent and intellectual property rights that can adversely affect profit margins."
+    },
+    {
+      "name": "Distributor: State Street Global Advisors Funds Distributors, LLC, member FINRA(http://www.finra.org), SIPC(http://www.sipc.org), an indirect wholly owned subsidiary of State Street Corporation. References to State Street may include State Street Corporation and its affiliates. Certain State Street affiliates provide services and receive fees from the SPDR ETFs. ALPS Distributors, Inc., member FINRA, is the distributor for DIA, MDY and SPY, all unit investment trusts. ALPS Portfolio Solutions Distributor, Inc., member FINRA, is the distributor for Select Sector SPDRs. ALPS Distributors, Inc. and ALPS Portfolio Solutions Distributor, Inc. are not affiliated with State Street Global Advisors Funds Distributors, LLC."
+    },
+    {
+      "name": "Before investing, consider the funds’ investment objectives, risks, charges and expenses. To obtain a prospectus or summary prospectus, this contains this and other information, call 1-866-787-2257 or visit www.ssga.com. Read it carefully.\n\nNot FDIC Insured * No Bank Guarantee * May Lose Value\n\n2529657.2.1.AM.RTL\nExpiration: 03/31/2021\nSPD002304"
+    }
+  ]
+}

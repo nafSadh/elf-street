@@ -1,0 +1,255 @@
+{
+  "Products": "DWA Basic Materials Momentum ETF",
+  "Ticker": "PYZ",
+  "Inception": "10/12/2006",
+  "Gross Exp. Ratio": "0.76%",
+  "YTD": "-10.73",
+  "1Yr": "-3.06",
+  "3Yr": "-4.16",
+  "5Yr": "5.58",
+  "10Yr": "7.42",
+  "Since Incept.": "7.10",
+  "Category": "Factor Access",
+  "SubCategory": "Dorsey Wright Sectors",
+  "ticker": "PYZ",
+  "name": "DWA Basic Materials Momentum ETF",
+  "issuer": "Invesco",
+  "website": "https://www.invesco.com/us/financial-products/etfs/product-detail?audienceType=Investor&ticker=PYZ",
+  "holdingDataSource": {
+    "url": "https://www.invesco.com/us/financial-products/etfs/holdings/main/holdings/0?audienceType=Investor&action=download&ticker=PYZ",
+    "fileExt": "csv",
+    "transform": "invesco"
+  },
+  "holdings": [
+    {
+      "ticker": "PPG",
+      "name": "PPG Industries Inc",
+      "percent": "3.774"
+    },
+    {
+      "ticker": "AVY",
+      "name": "Avery Dennison Corp",
+      "percent": "3.679"
+    },
+    {
+      "ticker": "APD",
+      "name": "Air Products and Chemicals Inc",
+      "percent": "3.596"
+    },
+    {
+      "ticker": "AVTR",
+      "name": "Avantor Inc",
+      "percent": "3.482"
+    },
+    {
+      "ticker": "FMC",
+      "name": "FMC Corp",
+      "percent": "3.446"
+    },
+    {
+      "ticker": "FCX",
+      "name": "Freeport-McMoRan Inc",
+      "percent": "3.444"
+    },
+    {
+      "ticker": "ECL",
+      "name": "Ecolab Inc",
+      "percent": "3.253"
+    },
+    {
+      "ticker": "NEM",
+      "name": "Newmont Corp",
+      "percent": "3.233"
+    },
+    {
+      "ticker": "MOS",
+      "name": "Mosaic Co/The",
+      "percent": "3.161"
+    },
+    {
+      "ticker": "HL",
+      "name": "Hecla Mining Co",
+      "percent": "2.958"
+    },
+    {
+      "ticker": "CE",
+      "name": "Celanese Corp",
+      "percent": "2.748"
+    },
+    {
+      "ticker": "ALB",
+      "name": "Albemarle Corp",
+      "percent": "2.722"
+    },
+    {
+      "ticker": "RPM",
+      "name": "RPM International Inc",
+      "percent": "2.664"
+    },
+    {
+      "ticker": "CC",
+      "name": "Chemours Co/The",
+      "percent": "2.636"
+    },
+    {
+      "ticker": "CLF",
+      "name": "Cleveland-Cliffs Inc",
+      "percent": "2.598"
+    },
+    {
+      "ticker": "EMN",
+      "name": "Eastman Chemical Co",
+      "percent": "2.332"
+    },
+    {
+      "ticker": "DOW",
+      "name": "Dow Inc",
+      "percent": "2.282"
+    },
+    {
+      "ticker": "AA",
+      "name": "Alcoa Corp",
+      "percent": "2.230"
+    },
+    {
+      "ticker": "LYB",
+      "name": "LyondellBasell Industries NV",
+      "percent": "2.220"
+    },
+    {
+      "ticker": "ARNC",
+      "name": "Arconic Corp",
+      "percent": "2.170"
+    },
+    {
+      "ticker": "WY",
+      "name": "Weyerhaeuser Co",
+      "percent": "2.141"
+    },
+    {
+      "ticker": "DD",
+      "name": "DuPont de Nemours Inc",
+      "percent": "2.068"
+    },
+    {
+      "ticker": "OLN",
+      "name": "Olin Corp",
+      "percent": "2.021"
+    },
+    {
+      "ticker": "CDE",
+      "name": "Coeur Mining Inc",
+      "percent": "1.938"
+    },
+    {
+      "ticker": "LTHM",
+      "name": "Livent Corp",
+      "percent": "1.822"
+    },
+    {
+      "ticker": "RS",
+      "name": "Reliance Steel & Aluminum Co",
+      "percent": "1.786"
+    },
+    {
+      "ticker": "UNVR",
+      "name": "Univar Solutions Inc",
+      "percent": "1.691"
+    },
+    {
+      "ticker": "WLK",
+      "name": "Westlake Chemical Corp",
+      "percent": "1.676"
+    },
+    {
+      "ticker": "PCH",
+      "name": "PotlatchDeltic Corp",
+      "percent": "1.654"
+    },
+    {
+      "ticker": "STLD",
+      "name": "Steel Dynamics Inc",
+      "percent": "1.648"
+    },
+    {
+      "ticker": "KWR",
+      "name": "Quaker Chemical Corp",
+      "percent": "1.640"
+    },
+    {
+      "ticker": "HUN",
+      "name": "Huntsman Corp",
+      "percent": "1.607"
+    },
+    {
+      "ticker": "AVNT",
+      "name": "Avient Corp",
+      "percent": "1.599"
+    },
+    {
+      "ticker": "RGLD",
+      "name": "Royal Gold Inc",
+      "percent": "1.589"
+    },
+    {
+      "ticker": "CMC",
+      "name": "Commercial Metals Co",
+      "percent": "1.584"
+    },
+    {
+      "ticker": "WOR",
+      "name": "Worthington Industries Inc",
+      "percent": "1.570"
+    },
+    {
+      "ticker": "GPRE",
+      "name": "Green Plains Inc",
+      "percent": "1.565"
+    },
+    {
+      "ticker": "LPX",
+      "name": "Louisiana-Pacific Corp",
+      "percent": "1.560"
+    },
+    {
+      "ticker": "NGVT",
+      "name": "Ingevity Corp",
+      "percent": "1.547"
+    },
+    {
+      "ticker": "FUL",
+      "name": "HB Fuller Co",
+      "percent": "1.537"
+    },
+    {
+      "ticker": "VVV",
+      "name": "Valvoline Inc",
+      "percent": "1.483"
+    },
+    {
+      "ticker": "UFS",
+      "name": "Domtar Corp",
+      "percent": "1.463"
+    },
+    {
+      "ticker": "SCL",
+      "name": "Stepan Co",
+      "percent": "1.450"
+    },
+    {
+      "ticker": "CMP",
+      "name": "Compass Minerals International Inc",
+      "percent": "1.262"
+    },
+    {
+      "ticker": "CENX",
+      "name": "Century Aluminum Co",
+      "percent": "1.233"
+    },
+    {
+      "ticker": "AGPXX",
+      "name": "STIT - Government & Agency Portfolio",
+      "percent": "0.238"
+    }
+  ]
+}

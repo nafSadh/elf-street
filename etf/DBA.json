@@ -1,0 +1,105 @@
+{
+  "Products": "DB Agriculture Fund",
+  "Ticker": "DBA",
+  "Inception": "01/05/2007",
+  "Gross Exp. Ratio": "0.94%",
+  "YTD": "-10.81",
+  "1Yr": "-5.40",
+  "3Yr": "-7.15",
+  "5Yr": "-6.22",
+  "10Yr": "-5.77",
+  "Since Incept.": "-3.31",
+  "Category": "Alternatives",
+  "SubCategory": "Commodity Sectors",
+  "ticker": "DBA",
+  "name": "DB Agriculture Fund",
+  "issuer": "Invesco",
+  "website": "https://www.invesco.com/us/financial-products/etfs/product-detail?audienceType=Investor&ticker=DBA",
+  "holdingDataSource": {
+    "url": "https://www.invesco.com/us/financial-products/etfs/holdings/main/holdings/0?audienceType=Investor&action=download&ticker=DBA",
+    "fileExt": "csv",
+    "transform": "invesco"
+  },
+  "holdings": [
+    {
+      "ticker": "825252885",
+      "name": "STIT - Government & Agency Portfolio",
+      "percent": "45.196"
+    },
+    {
+      "ticker": "9127963K3",
+      "name": "United States Treasury Bill",
+      "percent": "21.378"
+    },
+    {
+      "ticker": "S X1",
+      "name": "CBOT Soybean Future",
+      "percent": "14.159"
+    },
+    {
+      "ticker": "46138G888",
+      "name": "Invesco Treasury Collateral ETF",
+      "percent": "14.129"
+    },
+    {
+      "ticker": "SBV1",
+      "name": "NYBOT CSC Number 11 World Sugar Future",
+      "percent": "12.856"
+    },
+    {
+      "ticker": "9127962Z1",
+      "name": "United States Treasury Bill",
+      "percent": "12.472"
+    },
+    {
+      "ticker": "C U1",
+      "name": "CBOT Corn Future",
+      "percent": "11.479"
+    },
+    {
+      "ticker": "CCZ0",
+      "name": "NYBOT CSC Cocoa Future",
+      "percent": "11.266"
+    },
+    {
+      "ticker": "LCZ0",
+      "name": "CME Live Cattle Future",
+      "percent": "10.521"
+    },
+    {
+      "ticker": "KCZ0",
+      "name": "NYBOT CSC C Coffee Future",
+      "percent": "10.398"
+    },
+    {
+      "ticker": "KWN1",
+      "name": "KCBT Hard Red Winter Wheat Future",
+      "percent": "7.773"
+    },
+    {
+      "ticker": "W N1",
+      "name": "CBOT Wheat Future",
+      "percent": "7.221"
+    },
+    {
+      "ticker": "912796TU3",
+      "name": "United States Treasury Bill",
+      "percent": "7.126"
+    },
+    {
+      "ticker": "LHZ0",
+      "name": "CME Lean Hogs Future",
+      "percent": "6.119"
+    },
+    {
+      "ticker": "FCF1",
+      "name": "CME Feeder Cattle Future",
+      "percent": "3.537"
+    },
+    {
+      "ticker": "CTZ0",
+      "name": "NYBOT CTN Number 2 Cotton Future",
+      "percent": "3.077"
+    }
+  ]
+}

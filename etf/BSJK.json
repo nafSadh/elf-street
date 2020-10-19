@@ -1,0 +1,90 @@
+{
+  "Products": "BulletShares 2020 High Yield Corporate Bond ETF",
+  "Ticker": "BSJK",
+  "Inception": "09/24/2013",
+  "Gross Exp. Ratio": "0.43%",
+  "YTD": "-0.53",
+  "1Yr": "0.25",
+  "3Yr": "1.99",
+  "5Yr": "4.38",
+  "10Yr": "",
+  "Since Incept.": "3.49",
+  "Category": "Income",
+  "SubCategory": "BulletShares",
+  "ticker": "BSJK",
+  "name": "BulletShares 2020 High Yield Corporate Bond ETF",
+  "issuer": "Invesco",
+  "website": "https://www.invesco.com/us/financial-products/etfs/product-detail?audienceType=Investor&ticker=BSJK",
+  "holdingDataSource": {
+    "url": "https://www.invesco.com/us/financial-products/etfs/holdings/main/holdings/0?audienceType=Investor&action=download&ticker=BSJK",
+    "fileExt": "csv",
+    "transform": "invesco"
+  },
+  "holdings": [
+    {
+      "ticker": "095370AD4",
+      "name": "Blue Cube Spinco LLC",
+      "percent": "22.89"
+    },
+    {
+      "ticker": "63938CAA6",
+      "name": "Navient Corp",
+      "percent": "21.31"
+    },
+    {
+      "ticker": "988498AG6",
+      "name": "Yum! Brands Inc",
+      "percent": "13.84"
+    },
+    {
+      "ticker": "910047AG4",
+      "name": "United Airlines Holdings Inc",
+      "percent": "12.60"
+    },
+    {
+      "ticker": "9127963A5",
+      "name": "United States Treasury Bill",
+      "percent": "10.91"
+    },
+    {
+      "ticker": "893830AY5",
+      "name": "Transocean Inc",
+      "percent": "9.71"
+    },
+    {
+      "ticker": "095370AB8",
+      "name": "Blue Cube Spinco LLC",
+      "percent": "4.44"
+    },
+    {
+      "ticker": "9127962S7",
+      "name": "United States Treasury Bill",
+      "percent": "3.02"
+    },
+    {
+      "ticker": "9127963J6",
+      "name": "United States Treasury Bill",
+      "percent": "0.92"
+    },
+    {
+      "ticker": "AGPXX",
+      "name": "STIT - Government & Agency Portfolio",
+      "percent": "0.13"
+    },
+    {
+      "ticker": "17302XAJ5",
+      "name": "CITGO Petroleum Corp",
+      "percent": "0.12"
+    },
+    {
+      "ticker": "87264AAM7",
+      "name": "T-Mobile USA Inc",
+      "percent": "0.10"
+    },
+    {
+      "ticker": "-CASH-",
+      "name": "Cash/Receivables/Payables",
+      "percent": "-0.00"
+    }
+  ]
+}

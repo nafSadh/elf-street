@@ -1,0 +1,185 @@
+{
+  "Products": "KBW Premium Yield Equity REIT ETF",
+  "Ticker": "KBWY",
+  "Inception": "12/02/2010",
+  "Gross Exp. Ratio": "0.35%",
+  "YTD": "-38.56",
+  "1Yr": "-37.55",
+  "3Yr": "-15.77",
+  "5Yr": "-2.80",
+  "10Yr": "",
+  "Since Incept.": "2.85",
+  "Category": "Income",
+  "SubCategory": "Equity Income",
+  "ticker": "KBWY",
+  "name": "KBW Premium Yield Equity REIT ETF",
+  "issuer": "Invesco",
+  "website": "https://www.invesco.com/us/financial-products/etfs/product-detail?audienceType=Investor&ticker=KBWY",
+  "holdingDataSource": {
+    "url": "https://www.invesco.com/us/financial-products/etfs/holdings/main/holdings/0?audienceType=Investor&action=download&ticker=KBWY",
+    "fileExt": "csv",
+    "transform": "invesco"
+  },
+  "holdings": [
+    {
+      "ticker": "GEO",
+      "name": "GEO Group Inc/The",
+      "percent": "7.99"
+    },
+    {
+      "ticker": "BPYU",
+      "name": "Brookfield Property REIT Inc",
+      "percent": "6.84"
+    },
+    {
+      "ticker": "AFIN",
+      "name": "American Finance Trust Inc",
+      "percent": "5.67"
+    },
+    {
+      "ticker": "BRG",
+      "name": "Bluerock Residential Growth REIT Inc",
+      "percent": "4.55"
+    },
+    {
+      "ticker": "APTS",
+      "name": "Preferred Apartment Communities Inc",
+      "percent": "4.41"
+    },
+    {
+      "ticker": "OPI",
+      "name": "Office Properties Income Trust",
+      "percent": "4.11"
+    },
+    {
+      "ticker": "SBRA",
+      "name": "Sabra Health Care REIT Inc",
+      "percent": "4.03"
+    },
+    {
+      "ticker": "SLG",
+      "name": "SL Green Realty Corp",
+      "percent": "3.92"
+    },
+    {
+      "ticker": "GNL",
+      "name": "Global Net Lease Inc",
+      "percent": "3.72"
+    },
+    {
+      "ticker": "MAC",
+      "name": "Macerich Co/The",
+      "percent": "3.55"
+    },
+    {
+      "ticker": "GOOD",
+      "name": "Gladstone Commercial Corp",
+      "percent": "3.43"
+    },
+    {
+      "ticker": "GMRE",
+      "name": "Global Medical REIT Inc",
+      "percent": "3.43"
+    },
+    {
+      "ticker": "NHI",
+      "name": "National Health Investors Inc",
+      "percent": "3.42"
+    },
+    {
+      "ticker": "CXP",
+      "name": "Columbia Property Trust Inc",
+      "percent": "3.39"
+    },
+    {
+      "ticker": "CIO",
+      "name": "City Office REIT Inc",
+      "percent": "3.35"
+    },
+    {
+      "ticker": "BDN",
+      "name": "Brandywine Realty Trust",
+      "percent": "3.20"
+    },
+    {
+      "ticker": "ILPT",
+      "name": "Industrial Logistics Properties Trust",
+      "percent": "3.18"
+    },
+    {
+      "ticker": "UNIT",
+      "name": "Uniti Group Inc",
+      "percent": "3.18"
+    },
+    {
+      "ticker": "WSR",
+      "name": "Whitestone REIT",
+      "percent": "3.15"
+    },
+    {
+      "ticker": "LTC",
+      "name": "LTC Properties Inc",
+      "percent": "3.05"
+    },
+    {
+      "ticker": "CLI",
+      "name": "Mack-Cali Realty Corp",
+      "percent": "3.04"
+    },
+    {
+      "ticker": "SNR",
+      "name": "New Senior Investment Group Inc",
+      "percent": "2.88"
+    },
+    {
+      "ticker": "VNO",
+      "name": "Vornado Realty Trust",
+      "percent": "2.87"
+    },
+    {
+      "ticker": "STOR",
+      "name": "STORE Capital Corp",
+      "percent": "2.66"
+    },
+    {
+      "ticker": "STAG",
+      "name": "STAG Industrial Inc",
+      "percent": "2.31"
+    },
+    {
+      "ticker": "IRT",
+      "name": "Independence Realty Trust Inc",
+      "percent": "2.10"
+    },
+    {
+      "ticker": "LAMR",
+      "name": "Lamar Advertising Co",
+      "percent": "1.40"
+    },
+    {
+      "ticker": "DHC",
+      "name": "Diversified Healthcare Trust",
+      "percent": "0.49"
+    },
+    {
+      "ticker": "SVC",
+      "name": "Service Properties Trust",
+      "percent": "0.24"
+    },
+    {
+      "ticker": "AGPXX",
+      "name": "STIT - Government & Agency Portfolio",
+      "percent": "0.24"
+    },
+    {
+      "ticker": "RLJ",
+      "name": "RLJ Lodging Trust",
+      "percent": "0.20"
+    },
+    {
+      "ticker": "-CASH-",
+      "name": "Cash/Receivables/Payables",
+      "percent": "-0.00"
+    }
+  ]
+}

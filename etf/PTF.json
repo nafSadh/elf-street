@@ -1,0 +1,215 @@
+{
+  "Products": "DWA Technology Momentum ETF",
+  "Ticker": "PTF",
+  "Inception": "10/12/2006",
+  "Gross Exp. Ratio": "0.74%",
+  "YTD": "42.26",
+  "1Yr": "60.43",
+  "3Yr": "29.65",
+  "5Yr": "23.39",
+  "10Yr": "17.38",
+  "Since Incept.": "11.18",
+  "Category": "Factor Access",
+  "SubCategory": "Dorsey Wright Sectors",
+  "ticker": "PTF",
+  "name": "DWA Technology Momentum ETF",
+  "issuer": "Invesco",
+  "website": "https://www.invesco.com/us/financial-products/etfs/product-detail?audienceType=Investor&ticker=PTF",
+  "holdingDataSource": {
+    "url": "https://www.invesco.com/us/financial-products/etfs/holdings/main/holdings/0?audienceType=Investor&action=download&ticker=PTF",
+    "fileExt": "csv",
+    "transform": "invesco"
+  },
+  "holdings": [
+    {
+      "ticker": "FIVN",
+      "name": "Five9 Inc",
+      "percent": "5.284"
+    },
+    {
+      "ticker": "AAPL",
+      "name": "Apple Inc",
+      "percent": "5.098"
+    },
+    {
+      "ticker": "NVDA",
+      "name": "NVIDIA Corp",
+      "percent": "4.818"
+    },
+    {
+      "ticker": "MPWR",
+      "name": "Monolithic Power Systems Inc",
+      "percent": "4.061"
+    },
+    {
+      "ticker": "EPAM",
+      "name": "EPAM Systems Inc",
+      "percent": "3.708"
+    },
+    {
+      "ticker": "ENPH",
+      "name": "Enphase Energy Inc",
+      "percent": "3.695"
+    },
+    {
+      "ticker": "APPS",
+      "name": "Digital Turbine Inc",
+      "percent": "3.543"
+    },
+    {
+      "ticker": "ZM",
+      "name": "Zoom Video Communications Inc",
+      "percent": "3.418"
+    },
+    {
+      "ticker": "VEEV",
+      "name": "Veeva Systems Inc",
+      "percent": "3.416"
+    },
+    {
+      "ticker": "CDNS",
+      "name": "Cadence Design Systems Inc",
+      "percent": "3.357"
+    },
+    {
+      "ticker": "AMD",
+      "name": "Advanced Micro Devices Inc",
+      "percent": "3.267"
+    },
+    {
+      "ticker": "ENTG",
+      "name": "Entegris Inc",
+      "percent": "2.905"
+    },
+    {
+      "ticker": "ZS",
+      "name": "Zscaler Inc",
+      "percent": "2.830"
+    },
+    {
+      "ticker": "ADBE",
+      "name": "Adobe Inc",
+      "percent": "2.812"
+    },
+    {
+      "ticker": "NOW",
+      "name": "ServiceNow Inc",
+      "percent": "2.760"
+    },
+    {
+      "ticker": "HUBS",
+      "name": "HubSpot Inc",
+      "percent": "2.718"
+    },
+    {
+      "ticker": "GOGO",
+      "name": "Gogo Inc",
+      "percent": "2.652"
+    },
+    {
+      "ticker": "SQ",
+      "name": "Square Inc",
+      "percent": "2.620"
+    },
+    {
+      "ticker": "TTD",
+      "name": "Trade Desk Inc/The",
+      "percent": "2.613"
+    },
+    {
+      "ticker": "BILL",
+      "name": "Bill.com Holdings Inc",
+      "percent": "2.567"
+    },
+    {
+      "ticker": "CRWD",
+      "name": "Crowdstrike Holdings Inc",
+      "percent": "2.353"
+    },
+    {
+      "ticker": "PINS",
+      "name": "Pinterest Inc",
+      "percent": "2.349"
+    },
+    {
+      "ticker": "Z",
+      "name": "Zillow Group Inc",
+      "percent": "2.203"
+    },
+    {
+      "ticker": "SPLK",
+      "name": "Splunk Inc",
+      "percent": "2.151"
+    },
+    {
+      "ticker": "MSFT",
+      "name": "Microsoft Corp",
+      "percent": "2.145"
+    },
+    {
+      "ticker": "SPT",
+      "name": "Sprout Social Inc",
+      "percent": "2.102"
+    },
+    {
+      "ticker": "CRM",
+      "name": "salesforce.com Inc",
+      "percent": "2.041"
+    },
+    {
+      "ticker": "CRNC",
+      "name": "Cerence Inc",
+      "percent": "1.855"
+    },
+    {
+      "ticker": "PEGA",
+      "name": "Pegasystems Inc",
+      "percent": "1.833"
+    },
+    {
+      "ticker": "DOMO",
+      "name": "Domo Inc",
+      "percent": "1.744"
+    },
+    {
+      "ticker": "SAIL",
+      "name": "Sailpoint Technologies Holdings Inc",
+      "percent": "1.740"
+    },
+    {
+      "ticker": "QTWO",
+      "name": "Q2 Holdings Inc",
+      "percent": "1.712"
+    },
+    {
+      "ticker": "SITM",
+      "name": "SiTime Corp",
+      "percent": "1.704"
+    },
+    {
+      "ticker": "TTGT",
+      "name": "TechTarget Inc",
+      "percent": "1.560"
+    },
+    {
+      "ticker": "WK",
+      "name": "Workiva Inc",
+      "percent": "1.542"
+    },
+    {
+      "ticker": "SYNA",
+      "name": "Synaptics Inc",
+      "percent": "1.506"
+    },
+    {
+      "ticker": "PAR",
+      "name": "PAR Technology Corp",
+      "percent": "1.193"
+    },
+    {
+      "ticker": "AGPXX",
+      "name": "STIT - Government & Agency Portfolio",
+      "percent": "0.125"
+    }
+  ]
+}

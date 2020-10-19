@@ -1,0 +1,535 @@
+{
+  "Products": "S&P 500® ex-Rate Sensitive Low Volatility ETF",
+  "Ticker": "XRLV",
+  "Inception": "04/09/2015",
+  "Gross Exp. Ratio": "0.25%",
+  "YTD": "-5.21",
+  "1Yr": "-0.56",
+  "3Yr": "8.60",
+  "5Yr": "12.08",
+  "10Yr": "",
+  "Since Incept.": "9.94",
+  "Category": "SP Factor",
+  "SubCategory": "Low Volatility",
+  "ticker": "XRLV",
+  "name": "S&P 500® ex-Rate Sensitive Low Volatility ETF",
+  "issuer": "Invesco",
+  "website": "https://www.invesco.com/us/financial-products/etfs/product-detail?audienceType=Investor&ticker=XRLV",
+  "holdingDataSource": {
+    "url": "https://www.invesco.com/us/financial-products/etfs/holdings/main/holdings/0?audienceType=Investor&action=download&ticker=XRLV",
+    "fileExt": "csv",
+    "transform": "invesco"
+  },
+  "holdings": [
+    {
+      "ticker": "TYL",
+      "name": "Tyler Technologies Inc",
+      "percent": "1.338"
+    },
+    {
+      "ticker": "BMY",
+      "name": "Bristol Myers Squibb Co",
+      "percent": "1.294"
+    },
+    {
+      "ticker": "DHR",
+      "name": "Danaher Corp",
+      "percent": "1.252"
+    },
+    {
+      "ticker": "EXPD",
+      "name": "Expeditors International of Washington Inc",
+      "percent": "1.244"
+    },
+    {
+      "ticker": "JNJ",
+      "name": "Johnson & Johnson",
+      "percent": "1.222"
+    },
+    {
+      "ticker": "CHTR",
+      "name": "Charter Communications Inc",
+      "percent": "1.191"
+    },
+    {
+      "ticker": "CRM",
+      "name": "salesforce.com Inc",
+      "percent": "1.179"
+    },
+    {
+      "ticker": "TMO",
+      "name": "Thermo Fisher Scientific Inc",
+      "percent": "1.172"
+    },
+    {
+      "ticker": "STE",
+      "name": "STERIS PLC",
+      "percent": "1.158"
+    },
+    {
+      "ticker": "RSG",
+      "name": "Republic Services Inc",
+      "percent": "1.139"
+    },
+    {
+      "ticker": "AMZN",
+      "name": "Amazon.com Inc",
+      "percent": "1.137"
+    },
+    {
+      "ticker": "CHRW",
+      "name": "CH Robinson Worldwide Inc",
+      "percent": "1.134"
+    },
+    {
+      "ticker": "WM",
+      "name": "Waste Management Inc",
+      "percent": "1.128"
+    },
+    {
+      "ticker": "PKI",
+      "name": "PerkinElmer Inc",
+      "percent": "1.121"
+    },
+    {
+      "ticker": "COO",
+      "name": "Cooper Cos Inc/The",
+      "percent": "1.120"
+    },
+    {
+      "ticker": "MRK",
+      "name": "Merck & Co Inc",
+      "percent": "1.119"
+    },
+    {
+      "ticker": "PFE",
+      "name": "Pfizer Inc",
+      "percent": "1.116"
+    },
+    {
+      "ticker": "BRK/B",
+      "name": "Berkshire Hathaway Inc",
+      "percent": "1.110"
+    },
+    {
+      "ticker": "A",
+      "name": "Agilent Technologies Inc",
+      "percent": "1.105"
+    },
+    {
+      "ticker": "NKE",
+      "name": "NIKE Inc",
+      "percent": "1.105"
+    },
+    {
+      "ticker": "AOS",
+      "name": "A O Smith Corp",
+      "percent": "1.100"
+    },
+    {
+      "ticker": "WST",
+      "name": "West Pharmaceutical Services Inc",
+      "percent": "1.089"
+    },
+    {
+      "ticker": "IEX",
+      "name": "IDEX Corp",
+      "percent": "1.088"
+    },
+    {
+      "ticker": "GOOG",
+      "name": "Alphabet Inc",
+      "percent": "1.085"
+    },
+    {
+      "ticker": "PGR",
+      "name": "Progressive Corp/The",
+      "percent": "1.082"
+    },
+    {
+      "ticker": "ABT",
+      "name": "Abbott Laboratories",
+      "percent": "1.080"
+    },
+    {
+      "ticker": "EBAY",
+      "name": "eBay Inc",
+      "percent": "1.065"
+    },
+    {
+      "ticker": "ADM",
+      "name": "Archer-Daniels-Midland Co",
+      "percent": "1.050"
+    },
+    {
+      "ticker": "AKAM",
+      "name": "Akamai Technologies Inc",
+      "percent": "1.047"
+    },
+    {
+      "ticker": "KR",
+      "name": "Kroger Co/The",
+      "percent": "1.042"
+    },
+    {
+      "ticker": "IDXX",
+      "name": "IDEXX Laboratories Inc",
+      "percent": "1.042"
+    },
+    {
+      "ticker": "CMCSA",
+      "name": "Comcast Corp",
+      "percent": "1.042"
+    },
+    {
+      "ticker": "BIO",
+      "name": "Bio-Rad Laboratories Inc",
+      "percent": "1.040"
+    },
+    {
+      "ticker": "AON",
+      "name": "Aon PLC",
+      "percent": "1.037"
+    },
+    {
+      "ticker": "UPS",
+      "name": "United Parcel Service Inc",
+      "percent": "1.036"
+    },
+    {
+      "ticker": "PCAR",
+      "name": "PACCAR Inc",
+      "percent": "1.028"
+    },
+    {
+      "ticker": "MMC",
+      "name": "Marsh & McLennan Cos Inc",
+      "percent": "1.020"
+    },
+    {
+      "ticker": "MNST",
+      "name": "Monster Beverage Corp",
+      "percent": "1.020"
+    },
+    {
+      "ticker": "PPG",
+      "name": "PPG Industries Inc",
+      "percent": "1.017"
+    },
+    {
+      "ticker": "EA",
+      "name": "Electronic Arts Inc",
+      "percent": "1.016"
+    },
+    {
+      "ticker": "ABBV",
+      "name": "AbbVie Inc",
+      "percent": "1.015"
+    },
+    {
+      "ticker": "WLTW",
+      "name": "Willis Towers Watson PLC",
+      "percent": "1.015"
+    },
+    {
+      "ticker": "ORCL",
+      "name": "Oracle Corp",
+      "percent": "1.014"
+    },
+    {
+      "ticker": "MCD",
+      "name": "McDonald's Corp",
+      "percent": "1.014"
+    },
+    {
+      "ticker": "VRSK",
+      "name": "Verisk Analytics Inc",
+      "percent": "1.001"
+    },
+    {
+      "ticker": "TSCO",
+      "name": "Tractor Supply Co",
+      "percent": "1.000"
+    },
+    {
+      "ticker": "MMM",
+      "name": "3M Co",
+      "percent": "0.999"
+    },
+    {
+      "ticker": "J",
+      "name": "Jacobs Engineering Group Inc",
+      "percent": "0.995"
+    },
+    {
+      "ticker": "AMGN",
+      "name": "Amgen Inc",
+      "percent": "0.991"
+    },
+    {
+      "ticker": "ZTS",
+      "name": "Zoetis Inc",
+      "percent": "0.984"
+    },
+    {
+      "ticker": "DVA",
+      "name": "DaVita Inc",
+      "percent": "0.977"
+    },
+    {
+      "ticker": "MTD",
+      "name": "Mettler-Toledo International Inc",
+      "percent": "0.976"
+    },
+    {
+      "ticker": "ICE",
+      "name": "Intercontinental Exchange Inc",
+      "percent": "0.976"
+    },
+    {
+      "ticker": "UNP",
+      "name": "Union Pacific Corp",
+      "percent": "0.968"
+    },
+    {
+      "ticker": "APH",
+      "name": "Amphenol Corp",
+      "percent": "0.960"
+    },
+    {
+      "ticker": "ATVI",
+      "name": "Activision Blizzard Inc",
+      "percent": "0.960"
+    },
+    {
+      "ticker": "MO",
+      "name": "Altria Group Inc",
+      "percent": "0.957"
+    },
+    {
+      "ticker": "DGX",
+      "name": "Quest Diagnostics Inc",
+      "percent": "0.954"
+    },
+    {
+      "ticker": "BDX",
+      "name": "Becton Dickinson and Co",
+      "percent": "0.954"
+    },
+    {
+      "ticker": "CAG",
+      "name": "Conagra Brands Inc",
+      "percent": "0.953"
+    },
+    {
+      "ticker": "T",
+      "name": "AT&T Inc",
+      "percent": "0.953"
+    },
+    {
+      "ticker": "MSFT",
+      "name": "Microsoft Corp",
+      "percent": "0.951"
+    },
+    {
+      "ticker": "JCI",
+      "name": "Johnson Controls International plc",
+      "percent": "0.949"
+    },
+    {
+      "ticker": "GRMN",
+      "name": "Garmin Ltd",
+      "percent": "0.947"
+    },
+    {
+      "ticker": "PM",
+      "name": "Philip Morris International Inc",
+      "percent": "0.945"
+    },
+    {
+      "ticker": "TMUS",
+      "name": "T-Mobile US Inc",
+      "percent": "0.944"
+    },
+    {
+      "ticker": "IBM",
+      "name": "International Business Machines Corp",
+      "percent": "0.941"
+    },
+    {
+      "ticker": "ODFL",
+      "name": "Old Dominion Freight Line Inc",
+      "percent": "0.939"
+    },
+    {
+      "ticker": "AJG",
+      "name": "Arthur J Gallagher & Co",
+      "percent": "0.936"
+    },
+    {
+      "ticker": "JNPR",
+      "name": "Juniper Networks Inc",
+      "percent": "0.935"
+    },
+    {
+      "ticker": "LIN",
+      "name": "Linde PLC",
+      "percent": "0.933"
+    },
+    {
+      "ticker": "ACN",
+      "name": "Accenture PLC",
+      "percent": "0.924"
+    },
+    {
+      "ticker": "SHW",
+      "name": "Sherwin-Williams Co/The",
+      "percent": "0.921"
+    },
+    {
+      "ticker": "FB",
+      "name": "Facebook Inc",
+      "percent": "0.917"
+    },
+    {
+      "ticker": "LMT",
+      "name": "Lockheed Martin Corp",
+      "percent": "0.917"
+    },
+    {
+      "ticker": "ROP",
+      "name": "Roper Technologies Inc",
+      "percent": "0.914"
+    },
+    {
+      "ticker": "AAPL",
+      "name": "Apple Inc",
+      "percent": "0.911"
+    },
+    {
+      "ticker": "WAT",
+      "name": "Waters Corp",
+      "percent": "0.909"
+    },
+    {
+      "ticker": "APD",
+      "name": "Air Products and Chemicals Inc",
+      "percent": "0.908"
+    },
+    {
+      "ticker": "V",
+      "name": "Visa Inc",
+      "percent": "0.905"
+    },
+    {
+      "ticker": "XRAY",
+      "name": "DENTSPLY SIRONA Inc",
+      "percent": "0.903"
+    },
+    {
+      "ticker": "INCY",
+      "name": "Incyte Corp",
+      "percent": "0.901"
+    },
+    {
+      "ticker": "MAS",
+      "name": "Masco Corp",
+      "percent": "0.901"
+    },
+    {
+      "ticker": "FFIV",
+      "name": "F5 Networks Inc",
+      "percent": "0.897"
+    },
+    {
+      "ticker": "AZO",
+      "name": "AutoZone Inc",
+      "percent": "0.890"
+    },
+    {
+      "ticker": "GILD",
+      "name": "Gilead Sciences Inc",
+      "percent": "0.890"
+    },
+    {
+      "ticker": "CVS",
+      "name": "CVS Health Corp",
+      "percent": "0.884"
+    },
+    {
+      "ticker": "LHX",
+      "name": "L3Harris Technologies Inc",
+      "percent": "0.879"
+    },
+    {
+      "ticker": "GD",
+      "name": "General Dynamics Corp",
+      "percent": "0.873"
+    },
+    {
+      "ticker": "NOC",
+      "name": "Northrop Grumman Corp",
+      "percent": "0.872"
+    },
+    {
+      "ticker": "ARE",
+      "name": "Alexandria Real Estate Equities Inc",
+      "percent": "0.865"
+    },
+    {
+      "ticker": "JBHT",
+      "name": "JB Hunt Transport Services Inc",
+      "percent": "0.863"
+    },
+    {
+      "ticker": "CBOE",
+      "name": "Cboe Global Markets Inc",
+      "percent": "0.849"
+    },
+    {
+      "ticker": "ALL",
+      "name": "Allstate Corp/The",
+      "percent": "0.846"
+    },
+    {
+      "ticker": "ILMN",
+      "name": "Illumina Inc",
+      "percent": "0.846"
+    },
+    {
+      "ticker": "CSCO",
+      "name": "Cisco Systems Inc",
+      "percent": "0.835"
+    },
+    {
+      "ticker": "HSIC",
+      "name": "Henry Schein Inc",
+      "percent": "0.834"
+    },
+    {
+      "ticker": "FAST",
+      "name": "Fastenal Co",
+      "percent": "0.833"
+    },
+    {
+      "ticker": "WU",
+      "name": "Western Union Co/The",
+      "percent": "0.831"
+    },
+    {
+      "ticker": "VRTX",
+      "name": "Vertex Pharmaceuticals Inc",
+      "percent": "0.756"
+    },
+    {
+      "ticker": "AGPXX",
+      "name": "STIT - Government & Agency Portfolio",
+      "percent": "0.071"
+    },
+    {
+      "ticker": "-CASH-",
+      "name": "Cash/Receivables/Payables",
+      "percent": "0.006"
+    }
+  ]
+}

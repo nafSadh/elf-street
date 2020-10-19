@@ -1,0 +1,800 @@
+{
+  "Products": "California AMT-Free Municipal Bond ETF",
+  "Ticker": "PWZ",
+  "Inception": "10/11/2007",
+  "Gross Exp. Ratio": "0.28%",
+  "YTD": "2.85",
+  "1Yr": "3.33",
+  "3Yr": "4.46",
+  "5Yr": "4.32",
+  "10Yr": "4.56",
+  "Since Incept.": "4.47",
+  "Category": "Income",
+  "SubCategory": "Tax Free",
+  "ticker": "PWZ",
+  "name": "California AMT-Free Municipal Bond ETF",
+  "issuer": "Invesco",
+  "website": "https://www.invesco.com/us/financial-products/etfs/product-detail?audienceType=Investor&ticker=PWZ",
+  "holdingDataSource": {
+    "url": "https://www.invesco.com/us/financial-products/etfs/holdings/main/holdings/0?audienceType=Investor&action=download&ticker=PWZ",
+    "fileExt": "csv",
+    "transform": "invesco"
+  },
+  "holdings": [
+    {
+      "ticker": "13032UVN5",
+      "name": "California Health Facilities Financing Authority",
+      "percent": "5.70"
+    },
+    {
+      "ticker": "7973555V2",
+      "name": "San Diego Unified School District/CA",
+      "percent": "3.73"
+    },
+    {
+      "ticker": "797356BE1",
+      "name": "San Diego Unified School District/CA",
+      "percent": "3.65"
+    },
+    {
+      "ticker": "79905VAX9",
+      "name": "San Mateo Foster City Public Financing Authority",
+      "percent": "3.11"
+    },
+    {
+      "ticker": "54473ETU8",
+      "name": "Los Angeles County Public Works Financing Authority",
+      "percent": "2.98"
+    },
+    {
+      "ticker": "59266TRP8",
+      "name": "Metropolitan Water District of Southern California",
+      "percent": "2.02"
+    },
+    {
+      "ticker": "79766DLJ6",
+      "name": "San Francisco City & County Airport Comm-San Francisco Inter",
+      "percent": "1.86"
+    },
+    {
+      "ticker": "54466HFC5",
+      "name": "Los Angeles County Metropolitan Transportation Authority",
+      "percent": "1.79"
+    },
+    {
+      "ticker": "786073AW6",
+      "name": "City of Sacramento CA Transient Occupancy Tax Revenue",
+      "percent": "1.48"
+    },
+    {
+      "ticker": "544532AR5",
+      "name": "Los Angeles Department of Water & Power",
+      "percent": "1.48"
+    },
+    {
+      "ticker": "169583HB0",
+      "name": "Chino Valley Unified School District",
+      "percent": "1.43"
+    },
+    {
+      "ticker": "544525YK8",
+      "name": "Los Angeles Department of Water",
+      "percent": "1.39"
+    },
+    {
+      "ticker": "624410HJ8",
+      "name": "Mountain View Shoreline Regional Park Community",
+      "percent": "1.37"
+    },
+    {
+      "ticker": "54531FAS0",
+      "name": "Los Angeles County Facilities Inc",
+      "percent": "1.37"
+    },
+    {
+      "ticker": "56782TBJ0",
+      "name": "Marin Healthcare District",
+      "percent": "1.35"
+    },
+    {
+      "ticker": "79905VAW1",
+      "name": "San Mateo Foster City Public Financing Authority",
+      "percent": "1.32"
+    },
+    {
+      "ticker": "799289LM3",
+      "name": "San Rafael City High School District/CA",
+      "percent": "1.29"
+    },
+    {
+      "ticker": "15722THP9",
+      "name": "Chabot-Las Positas Community College District",
+      "percent": "1.22"
+    },
+    {
+      "ticker": "540261LY8",
+      "name": "LODI UNIFIED SCHOOL DISTRICT/CA 540261LY8 3 8/1/2043",
+      "percent": "1.17"
+    },
+    {
+      "ticker": "79766DGG8",
+      "name": "San Francisco City & County Airport Comm-San Francisco Inter",
+      "percent": "1.16"
+    },
+    {
+      "ticker": "786073AV8",
+      "name": "City of Sacramento CA Transient Occupancy Tax Revenue",
+      "percent": "1.12"
+    },
+    {
+      "ticker": "80168QDZ2",
+      "name": "Santa Clara Valley Water District",
+      "percent": "1.09"
+    },
+    {
+      "ticker": "797400KX5",
+      "name": "San Diego County Regional Transportation Commission",
+      "percent": "1.08"
+    },
+    {
+      "ticker": "544495XV1",
+      "name": "Los Angeles Department of Water & Power Power System Revenue",
+      "percent": "1.07"
+    },
+    {
+      "ticker": "544445DV8",
+      "name": "City of Los Angeles Department of Airports",
+      "percent": "0.93"
+    },
+    {
+      "ticker": "54438CYB2",
+      "name": "Los Angeles Community College District/CA",
+      "percent": "0.91"
+    },
+    {
+      "ticker": "796720MB3",
+      "name": "San Bernardino Community College District",
+      "percent": "0.89"
+    },
+    {
+      "ticker": "797661YZ2",
+      "name": "San Francisco Bay Area Rapid Transit District",
+      "percent": "0.86"
+    },
+    {
+      "ticker": "684273JB2",
+      "name": "Orange County Local Transportation Authority",
+      "percent": "0.85"
+    },
+    {
+      "ticker": "13077DEY4",
+      "name": "California State University",
+      "percent": "0.84"
+    },
+    {
+      "ticker": "544445PS2",
+      "name": "City of Los Angeles Department of Airports",
+      "percent": "0.84"
+    },
+    {
+      "ticker": "7973555Y6",
+      "name": "San Diego Unified School District/CA",
+      "percent": "0.82"
+    },
+    {
+      "ticker": "79739GLF1",
+      "name": "San Diego County Regional Airport Authority",
+      "percent": "0.82"
+    },
+    {
+      "ticker": "79766DMD8",
+      "name": "San Francisco City & County Airport Comm-San Francisco Inter",
+      "percent": "0.81"
+    },
+    {
+      "ticker": "357172ZW8",
+      "name": "Fremont Union High School District",
+      "percent": "0.77"
+    },
+    {
+      "ticker": "556452GL8",
+      "name": "Madera Unified School District",
+      "percent": "0.77"
+    },
+    {
+      "ticker": "617403EZ9",
+      "name": "Morgan Hill Unified School District",
+      "percent": "0.77"
+    },
+    {
+      "ticker": "072024VP4",
+      "name": "Bay Area Toll Authority",
+      "percent": "0.76"
+    },
+    {
+      "ticker": "798153LU4",
+      "name": "San Jose Financing Authority",
+      "percent": "0.76"
+    },
+    {
+      "ticker": "13077CYE8",
+      "name": "California State University",
+      "percent": "0.73"
+    },
+    {
+      "ticker": "13048VNU8",
+      "name": "California Municipal Finance Authority",
+      "percent": "0.72"
+    },
+    {
+      "ticker": "275875NL2",
+      "name": "East Whittier City School District",
+      "percent": "0.70"
+    },
+    {
+      "ticker": "13033LVW4",
+      "name": "California Health Facilities Financing Authority",
+      "percent": "0.70"
+    },
+    {
+      "ticker": "-CASH-",
+      "name": "Cash/Receivables/Payables",
+      "percent": "0.69"
+    },
+    {
+      "ticker": "13063DTM0",
+      "name": "State of California",
+      "percent": "0.67"
+    },
+    {
+      "ticker": "544495S47",
+      "name": "Los Angeles Department of Water & Power Power System Revenue",
+      "percent": "0.67"
+    },
+    {
+      "ticker": "463612HH7",
+      "name": "Irvine Unified School District",
+      "percent": "0.67"
+    },
+    {
+      "ticker": "544532BK9",
+      "name": "Los Angeles Department of Water & Power",
+      "percent": "0.66"
+    },
+    {
+      "ticker": "80182YBD8",
+      "name": "Santa Cruz County Redevelopment Successor Agency",
+      "percent": "0.65"
+    },
+    {
+      "ticker": "89356CAU0",
+      "name": "Transbay Joint Powers Authority",
+      "percent": "0.60"
+    },
+    {
+      "ticker": "17131HCK2",
+      "name": "City of Chula Vista CA",
+      "percent": "0.56"
+    },
+    {
+      "ticker": "54473EPX6",
+      "name": "Los Angeles County Public Works Financing Authority",
+      "percent": "0.56"
+    },
+    {
+      "ticker": "54466HHF6",
+      "name": "Los Angeles County Metropolitan Transportation Authority",
+      "percent": "0.56"
+    },
+    {
+      "ticker": "544525XF0",
+      "name": "Los Angeles Department of Water",
+      "percent": "0.55"
+    },
+    {
+      "ticker": "91412GX83",
+      "name": "University of California",
+      "percent": "0.55"
+    },
+    {
+      "ticker": "271014D58",
+      "name": "East Bay Municipal Utility District Water System Revenue",
+      "percent": "0.55"
+    },
+    {
+      "ticker": "13063CV23",
+      "name": "State of California",
+      "percent": "0.54"
+    },
+    {
+      "ticker": "130179RL0",
+      "name": "California Educational Facilities Authority",
+      "percent": "0.53"
+    },
+    {
+      "ticker": "79766DKK4",
+      "name": "San Francisco City & County Airport Comm-San Francisco Inter",
+      "percent": "0.53"
+    },
+    {
+      "ticker": "13049YEB3",
+      "name": "California Municipal Finance Authority",
+      "percent": "0.52"
+    },
+    {
+      "ticker": "157411PL7",
+      "name": "Chaffey Joint Union High School District",
+      "percent": "0.52"
+    },
+    {
+      "ticker": "89910NDH1",
+      "name": "Tulare Local Health Care District",
+      "percent": "0.52"
+    },
+    {
+      "ticker": "54473EQU1",
+      "name": "Los Angeles County Public Works Financing Authority",
+      "percent": "0.52"
+    },
+    {
+      "ticker": "68442CBH8",
+      "name": "Orange County Water District",
+      "percent": "0.52"
+    },
+    {
+      "ticker": "5444356G0",
+      "name": "City of Los Angeles Department of Airports",
+      "percent": "0.52"
+    },
+    {
+      "ticker": "482124RJ5",
+      "name": "Jurupa Unified School District",
+      "percent": "0.52"
+    },
+    {
+      "ticker": "79766DFF1",
+      "name": "San Francisco City & County Airport Comm-San Francisco Inter",
+      "percent": "0.50"
+    },
+    {
+      "ticker": "13063CFT2",
+      "name": "State of California",
+      "percent": "0.50"
+    },
+    {
+      "ticker": "13063B3X8",
+      "name": "State of California",
+      "percent": "0.50"
+    },
+    {
+      "ticker": "345105GT1",
+      "name": "Foothill-Eastern Transportation Corridor Agency",
+      "percent": "0.49"
+    },
+    {
+      "ticker": "544525QG6",
+      "name": "Los Angeles Department of Water",
+      "percent": "0.48"
+    },
+    {
+      "ticker": "010869HC2",
+      "name": "Alameda Corridor Transportation Authority",
+      "percent": "0.47"
+    },
+    {
+      "ticker": "801577NF0",
+      "name": "Santa Clara County Financing Authority",
+      "percent": "0.46"
+    },
+    {
+      "ticker": "13034AK74",
+      "name": "California Infrastructure & Economic Development Bank",
+      "percent": "0.45"
+    },
+    {
+      "ticker": "271014D41",
+      "name": "East Bay Municipal Utility District Water System Revenue",
+      "percent": "0.41"
+    },
+    {
+      "ticker": "91412HBB8",
+      "name": "University of California",
+      "percent": "0.41"
+    },
+    {
+      "ticker": "79739GLE4",
+      "name": "San Diego County Regional Airport Authority",
+      "percent": "0.41"
+    },
+    {
+      "ticker": "91412HDE0",
+      "name": "University of California",
+      "percent": "0.41"
+    },
+    {
+      "ticker": "13077C4C5",
+      "name": "California State University",
+      "percent": "0.41"
+    },
+    {
+      "ticker": "544495Z64",
+      "name": "Los Angeles Department of Water & Power Power System Revenue",
+      "percent": "0.41"
+    },
+    {
+      "ticker": "13080SMV3",
+      "name": "California Statewide Communities Development Authority",
+      "percent": "0.40"
+    },
+    {
+      "ticker": "544495W34",
+      "name": "Los Angeles Department of Water & Power Power System Revenue",
+      "percent": "0.40"
+    },
+    {
+      "ticker": "130179FU3",
+      "name": "California Educational Facilities Authority",
+      "percent": "0.40"
+    },
+    {
+      "ticker": "13063CVC1",
+      "name": "State of California",
+      "percent": "0.40"
+    },
+    {
+      "ticker": "271014ZE5",
+      "name": "East Bay Municipal Utility District Water System Revenue",
+      "percent": "0.40"
+    },
+    {
+      "ticker": "010869HG3",
+      "name": "Alameda Corridor Transportation Authority",
+      "percent": "0.40"
+    },
+    {
+      "ticker": "542424VE3",
+      "name": "City of Long Beach CA Harbor Revenue",
+      "percent": "0.40"
+    },
+    {
+      "ticker": "13063CNS5",
+      "name": "State of California",
+      "percent": "0.39"
+    },
+    {
+      "ticker": "786134UP9",
+      "name": "Sacramento County Sanitation Districts Financing Authority",
+      "percent": "0.39"
+    },
+    {
+      "ticker": "13032UNE4",
+      "name": "California Health Facilities Financing Authority",
+      "percent": "0.39"
+    },
+    {
+      "ticker": "542411ND1",
+      "name": "Long Beach Community College District",
+      "percent": "0.39"
+    },
+    {
+      "ticker": "91412GSS5",
+      "name": "University of California",
+      "percent": "0.37"
+    },
+    {
+      "ticker": "189849LX8",
+      "name": "Coachella Valley Unified School District/CA",
+      "percent": "0.37"
+    },
+    {
+      "ticker": "13078RHF0",
+      "name": "California Statewide Communities Development Authority",
+      "percent": "0.37"
+    },
+    {
+      "ticker": "767032HS7",
+      "name": "RIO ELEMENTARY SCHOOL DISTRICT/CA 767032HS7 5 8/1/2047",
+      "percent": "0.37"
+    },
+    {
+      "ticker": "13034RAU7",
+      "name": "California Infrastructure & Economic Development Bank",
+      "percent": "0.35"
+    },
+    {
+      "ticker": "13032UMP0",
+      "name": "California Health Facilities Financing Authority",
+      "percent": "0.34"
+    },
+    {
+      "ticker": "835631NS7",
+      "name": "Sonoma Valley Unified School District",
+      "percent": "0.34"
+    },
+    {
+      "ticker": "54438CWP3",
+      "name": "Los Angeles Community College District/CA",
+      "percent": "0.31"
+    },
+    {
+      "ticker": "13034AK82",
+      "name": "California Infrastructure & Economic Development Bank",
+      "percent": "0.31"
+    },
+    {
+      "ticker": "13063B3W0",
+      "name": "State of California",
+      "percent": "0.29"
+    },
+    {
+      "ticker": "544525PS1",
+      "name": "Los Angeles Department of Water",
+      "percent": "0.28"
+    },
+    {
+      "ticker": "13067WMB5",
+      "name": "State of California Department of Water Resources",
+      "percent": "0.28"
+    },
+    {
+      "ticker": "5446466V9",
+      "name": "Los Angeles Unified School District/CA",
+      "percent": "0.28"
+    },
+    {
+      "ticker": "13048T8B2",
+      "name": "California Municipal Finance Authority",
+      "percent": "0.28"
+    },
+    {
+      "ticker": "53945CGT1",
+      "name": "City of Los Angeles CA Wastewater System Revenue",
+      "percent": "0.28"
+    },
+    {
+      "ticker": "13063CC65",
+      "name": "State of California",
+      "percent": "0.28"
+    },
+    {
+      "ticker": "54466HFY7",
+      "name": "Los Angeles County Metropolitan Transportation Authority",
+      "percent": "0.28"
+    },
+    {
+      "ticker": "54473ESU9",
+      "name": "Los Angeles County Public Works Financing Authority",
+      "percent": "0.27"
+    },
+    {
+      "ticker": "54438CWN8",
+      "name": "Los Angeles Community College District/CA",
+      "percent": "0.27"
+    },
+    {
+      "ticker": "54473EPV0",
+      "name": "Los Angeles County Public Works Financing Authority",
+      "percent": "0.27"
+    },
+    {
+      "ticker": "797412CY7",
+      "name": "San Diego County Water Authority",
+      "percent": "0.27"
+    },
+    {
+      "ticker": "13049UCY3",
+      "name": "California Municipal Finance Authority",
+      "percent": "0.27"
+    },
+    {
+      "ticker": "544525UH9",
+      "name": "Los Angeles Department of Water",
+      "percent": "0.27"
+    },
+    {
+      "ticker": "13080SFW9",
+      "name": "California Statewide Communities Development Authority",
+      "percent": "0.27"
+    },
+    {
+      "ticker": "7973553E2",
+      "name": "San Diego Unified School District/CA",
+      "percent": "0.27"
+    },
+    {
+      "ticker": "797299KD5",
+      "name": "San Diego Public Facilities Financing Authority",
+      "percent": "0.26"
+    },
+    {
+      "ticker": "13063CRB8",
+      "name": "State of California",
+      "percent": "0.26"
+    },
+    {
+      "ticker": "13063CMC1",
+      "name": "State of California",
+      "percent": "0.26"
+    },
+    {
+      "ticker": "13032UAR9",
+      "name": "California Health Facilities Financing Authority",
+      "percent": "0.26"
+    },
+    {
+      "ticker": "544495H72",
+      "name": "Los Angeles Department of Water & Power Power System Revenue",
+      "percent": "0.26"
+    },
+    {
+      "ticker": "797257AX0",
+      "name": "San Diego Association of Governments South Bay Expressway Re",
+      "percent": "0.26"
+    },
+    {
+      "ticker": "13032UDC9",
+      "name": "California Health Facilities Financing Authority",
+      "percent": "0.26"
+    },
+    {
+      "ticker": "544495L36",
+      "name": "Los Angeles Department of Water & Power Power System Revenue",
+      "percent": "0.26"
+    },
+    {
+      "ticker": "13080SMT8",
+      "name": "California Statewide Communities Development Authority",
+      "percent": "0.26"
+    },
+    {
+      "ticker": "828641WK2",
+      "name": "Simi Valley Unified School District",
+      "percent": "0.26"
+    },
+    {
+      "ticker": "13048T4N0",
+      "name": "California Municipal Finance Authority",
+      "percent": "0.26"
+    },
+    {
+      "ticker": "13034AMB3",
+      "name": "California Infrastructure & Economic Development Bank",
+      "percent": "0.25"
+    },
+    {
+      "ticker": "797355U51",
+      "name": "San Diego Unified School District/CA",
+      "percent": "0.25"
+    },
+    {
+      "ticker": "13034AJA9",
+      "name": "California Infrastructure & Economic Development Bank",
+      "percent": "0.25"
+    },
+    {
+      "ticker": "74514LVU8",
+      "name": "Commonwealth of Govt Dev Bk",
+      "percent": "0.25"
+    },
+    {
+      "ticker": "13048TP31",
+      "name": "California Municipal Finance Authority",
+      "percent": "0.25"
+    },
+    {
+      "ticker": "45750TAC7",
+      "name": "Inland Valley Development Agency",
+      "percent": "0.25"
+    },
+    {
+      "ticker": "1307954K0",
+      "name": "California Statewide Communities Development Authority",
+      "percent": "0.25"
+    },
+    {
+      "ticker": "13078RGJ3",
+      "name": "California Statewide Communities Development Authority",
+      "percent": "0.25"
+    },
+    {
+      "ticker": "13048TR96",
+      "name": "California Municipal Finance Authority",
+      "percent": "0.24"
+    },
+    {
+      "ticker": "1307955E3",
+      "name": "California Statewide Communities Development Authority",
+      "percent": "0.24"
+    },
+    {
+      "ticker": "13080SUG7",
+      "name": "California Statewide Communities Development Authority",
+      "percent": "0.23"
+    },
+    {
+      "ticker": "13080STN4",
+      "name": "California Statewide Communities Development Authority",
+      "percent": "0.22"
+    },
+    {
+      "ticker": "152339LG0",
+      "name": "Centinela Valley Union High School District",
+      "percent": "0.19"
+    },
+    {
+      "ticker": "13068LZB4",
+      "name": "California State Public Works Board",
+      "percent": "0.19"
+    },
+    {
+      "ticker": "13063BSA1",
+      "name": "State of California",
+      "percent": "0.18"
+    },
+    {
+      "ticker": "91412G7C3",
+      "name": "University of California",
+      "percent": "0.18"
+    },
+    {
+      "ticker": "91412G6K6",
+      "name": "University of California",
+      "percent": "0.18"
+    },
+    {
+      "ticker": "13063DUR7",
+      "name": "State of California",
+      "percent": "0.17"
+    },
+    {
+      "ticker": "13032UDT2",
+      "name": "California Health Facilities Financing Authority",
+      "percent": "0.17"
+    },
+    {
+      "ticker": "13077DAW2",
+      "name": "California State University",
+      "percent": "0.14"
+    },
+    {
+      "ticker": "13032UKE7",
+      "name": "California Health Facilities Financing Authority",
+      "percent": "0.14"
+    },
+    {
+      "ticker": "03255LGU7",
+      "name": "Anaheim Public Financing Authority",
+      "percent": "0.13"
+    },
+    {
+      "ticker": "13048TP49",
+      "name": "California Municipal Finance Authority",
+      "percent": "0.13"
+    },
+    {
+      "ticker": "13032UFL7",
+      "name": "California Health Facilities Financing Authority",
+      "percent": "0.13"
+    },
+    {
+      "ticker": "542426CZ2",
+      "name": "City of Long Beach CA Marina System Revenue",
+      "percent": "0.12"
+    },
+    {
+      "ticker": "542426DA6",
+      "name": "City of Long Beach CA Marina System Revenue",
+      "percent": "0.12"
+    },
+    {
+      "ticker": "745160QC8",
+      "name": "Puerto Rico Commonwealth Aqueduct & Sewer Authority",
+      "percent": "0.12"
+    },
+    {
+      "ticker": "54438CXR8",
+      "name": "Los Angeles Community College District/CA",
+      "percent": "0.06"
+    }
+  ]
+}

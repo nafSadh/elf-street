@@ -1,0 +1,180 @@
+{
+  "Products": "Dynamic Building & Construction ETF",
+  "Ticker": "PKB",
+  "Inception": "10/26/2005",
+  "Gross Exp. Ratio": "0.60%",
+  "YTD": "9.02",
+  "1Yr": "11.37",
+  "3Yr": "5.43",
+  "5Yr": "10.40",
+  "10Yr": "12.66",
+  "Since Incept.": "6.59",
+  "Category": "Multi Factor",
+  "SubCategory": "Intellidex Industries",
+  "ticker": "PKB",
+  "name": "Dynamic Building & Construction ETF",
+  "issuer": "Invesco",
+  "website": "https://www.invesco.com/us/financial-products/etfs/product-detail?audienceType=Investor&ticker=PKB",
+  "holdingDataSource": {
+    "url": "https://www.invesco.com/us/financial-products/etfs/holdings/main/holdings/0?audienceType=Investor&action=download&ticker=PKB",
+    "fileExt": "csv",
+    "transform": "invesco"
+  },
+  "holdings": [
+    {
+      "ticker": "MLM",
+      "name": "Martin Marietta Materials Inc",
+      "percent": "5.530"
+    },
+    {
+      "ticker": "VMC",
+      "name": "Vulcan Materials Co",
+      "percent": "5.270"
+    },
+    {
+      "ticker": "LEN",
+      "name": "Lennar Corp",
+      "percent": "4.988"
+    },
+    {
+      "ticker": "TT",
+      "name": "Trane Technologies PLC",
+      "percent": "4.926"
+    },
+    {
+      "ticker": "LOW",
+      "name": "Lowe's Cos Inc",
+      "percent": "4.771"
+    },
+    {
+      "ticker": "DHI",
+      "name": "DR Horton Inc",
+      "percent": "4.748"
+    },
+    {
+      "ticker": "PHM",
+      "name": "PulteGroup Inc",
+      "percent": "4.660"
+    },
+    {
+      "ticker": "TSCO",
+      "name": "Tractor Supply Co",
+      "percent": "4.526"
+    },
+    {
+      "ticker": "IBP",
+      "name": "Installed Building Products Inc",
+      "percent": "3.135"
+    },
+    {
+      "ticker": "GRBK",
+      "name": "Green Brick Partners Inc",
+      "percent": "3.055"
+    },
+    {
+      "ticker": "DY",
+      "name": "Dycom Industries Inc",
+      "percent": "3.040"
+    },
+    {
+      "ticker": "CCS",
+      "name": "Century Communities Inc",
+      "percent": "2.967"
+    },
+    {
+      "ticker": "PWR",
+      "name": "Quanta Services Inc",
+      "percent": "2.960"
+    },
+    {
+      "ticker": "BLD",
+      "name": "TopBuild Corp",
+      "percent": "2.929"
+    },
+    {
+      "ticker": "JELD",
+      "name": "JELD-WEN Holding Inc",
+      "percent": "2.880"
+    },
+    {
+      "ticker": "FRTA",
+      "name": "Forterra Inc",
+      "percent": "2.826"
+    },
+    {
+      "ticker": "GRWG",
+      "name": "GrowGeneration Corp",
+      "percent": "2.812"
+    },
+    {
+      "ticker": "MTH",
+      "name": "Meritage Homes Corp",
+      "percent": "2.761"
+    },
+    {
+      "ticker": "LGIH",
+      "name": "LGI Homes Inc",
+      "percent": "2.733"
+    },
+    {
+      "ticker": "EXP",
+      "name": "Eagle Materials Inc",
+      "percent": "2.723"
+    },
+    {
+      "ticker": "DOOR",
+      "name": "Masonite International Corp",
+      "percent": "2.717"
+    },
+    {
+      "ticker": "LL",
+      "name": "Lumber Liquidators Holdings Inc",
+      "percent": "2.693"
+    },
+    {
+      "ticker": "FIX",
+      "name": "Comfort Systems USA Inc",
+      "percent": "2.672"
+    },
+    {
+      "ticker": "OC",
+      "name": "Owens Corning",
+      "percent": "2.670"
+    },
+    {
+      "ticker": "SWX",
+      "name": "Southwest Gas Holdings Inc",
+      "percent": "2.633"
+    },
+    {
+      "ticker": "AMWD",
+      "name": "American Woodmark Corp",
+      "percent": "2.597"
+    },
+    {
+      "ticker": "PRIM",
+      "name": "Primoris Services Corp",
+      "percent": "2.574"
+    },
+    {
+      "ticker": "AGX",
+      "name": "Argan Inc",
+      "percent": "2.413"
+    },
+    {
+      "ticker": "SSD",
+      "name": "Simpson Manufacturing Co Inc",
+      "percent": "2.365"
+    },
+    {
+      "ticker": "EME",
+      "name": "EMCOR Group Inc",
+      "percent": "2.315"
+    },
+    {
+      "ticker": "AGPXX",
+      "name": "STIT - Government & Agency Portfolio",
+      "percent": "0.110"
+    }
+  ]
+}

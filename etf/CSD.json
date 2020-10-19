@@ -1,0 +1,175 @@
+{
+  "Products": "S&P Spin-Off ETF",
+  "Ticker": "CSD",
+  "Inception": "12/15/2006",
+  "Gross Exp. Ratio": "0.62%",
+  "YTD": "-14.36",
+  "1Yr": "-5.54",
+  "3Yr": "-4.14",
+  "5Yr": "4.06",
+  "10Yr": "8.75",
+  "Since Incept.": "5.25",
+  "Category": "Thematic",
+  "SubCategory": "Access",
+  "ticker": "CSD",
+  "name": "S&P Spin-Off ETF",
+  "issuer": "Invesco",
+  "website": "https://www.invesco.com/us/financial-products/etfs/product-detail?audienceType=Investor&ticker=CSD",
+  "holdingDataSource": {
+    "url": "https://www.invesco.com/us/financial-products/etfs/holdings/main/holdings/0?audienceType=Investor&action=download&ticker=CSD",
+    "fileExt": "csv",
+    "transform": "invesco"
+  },
+  "holdings": [
+    {
+      "ticker": "CTVA",
+      "name": "Corteva Inc",
+      "percent": "8.193"
+    },
+    {
+      "ticker": "IAA",
+      "name": "IAA Inc",
+      "percent": "7.695"
+    },
+    {
+      "ticker": "PENN",
+      "name": "Penn National Gaming Inc",
+      "percent": "7.603"
+    },
+    {
+      "ticker": "DOW",
+      "name": "Dow Inc",
+      "percent": "7.491"
+    },
+    {
+      "ticker": "CARR",
+      "name": "Carrier Global Corp",
+      "percent": "7.486"
+    },
+    {
+      "ticker": "LW",
+      "name": "Lamb Weston Holdings Inc",
+      "percent": "7.389"
+    },
+    {
+      "ticker": "OTIS",
+      "name": "Otis Worldwide Corp",
+      "percent": "7.337"
+    },
+    {
+      "ticker": "WH",
+      "name": "Wyndham Hotels & Resorts Inc",
+      "percent": "4.709"
+    },
+    {
+      "ticker": "FTDR",
+      "name": "frontdoor Inc",
+      "percent": "3.612"
+    },
+    {
+      "ticker": "NVT",
+      "name": "nVent Electric PLC",
+      "percent": "3.319"
+    },
+    {
+      "ticker": "ETRN",
+      "name": "Equitrans Midstream Corp",
+      "percent": "3.318"
+    },
+    {
+      "ticker": "BHF",
+      "name": "Brighthouse Financial Inc",
+      "percent": "2.968"
+    },
+    {
+      "ticker": "JBGS",
+      "name": "JBG SMITH Properties",
+      "percent": "2.934"
+    },
+    {
+      "ticker": "PRSP",
+      "name": "Perspecta Inc",
+      "percent": "2.806"
+    },
+    {
+      "ticker": "CVET",
+      "name": "Covetrus Inc",
+      "percent": "2.636"
+    },
+    {
+      "ticker": "PK",
+      "name": "Park Hotels & Resorts Inc",
+      "percent": "2.359"
+    },
+    {
+      "ticker": "AA",
+      "name": "Alcoa Corp",
+      "percent": "2.359"
+    },
+    {
+      "ticker": "ACA",
+      "name": "Arcosa Inc",
+      "percent": "2.352"
+    },
+    {
+      "ticker": "ADNT",
+      "name": "Adient PLC",
+      "percent": "2.033"
+    },
+    {
+      "ticker": "HGV",
+      "name": "Hilton Grand Vacations Inc",
+      "percent": "1.862"
+    },
+    {
+      "ticker": "VNE",
+      "name": "Veoneer Inc",
+      "percent": "1.728"
+    },
+    {
+      "ticker": "CHX",
+      "name": "ChampionX Corp",
+      "percent": "1.485"
+    },
+    {
+      "ticker": "REZI",
+      "name": "Resideo Technologies Inc",
+      "percent": "1.455"
+    },
+    {
+      "ticker": "KTB",
+      "name": "Kontoor Brands Inc",
+      "percent": "1.352"
+    },
+    {
+      "ticker": "MSGE",
+      "name": "Madison Square Garden Entertainment Corp",
+      "percent": "1.216"
+    },
+    {
+      "ticker": "CNDT",
+      "name": "Conduent Inc",
+      "percent": "0.624"
+    },
+    {
+      "ticker": "CARS",
+      "name": "Cars.com Inc",
+      "percent": "0.622"
+    },
+    {
+      "ticker": "VREX",
+      "name": "Varex Imaging Corp",
+      "percent": "0.535"
+    },
+    {
+      "ticker": "AGPXX",
+      "name": "STIT - Government & Agency Portfolio",
+      "percent": "0.309"
+    },
+    {
+      "ticker": "CPLG",
+      "name": "CorePoint Lodging Inc",
+      "percent": "0.213"
+    }
+  ]
+}

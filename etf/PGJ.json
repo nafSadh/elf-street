@@ -1,0 +1,375 @@
+{
+  "Products": "Golden Dragon China ETF",
+  "Ticker": "PGJ",
+  "Inception": "12/09/2004",
+  "Gross Exp. Ratio": "0.70%",
+  "YTD": "26.56",
+  "1Yr": "47.38",
+  "3Yr": "7.46",
+  "5Yr": "16.47",
+  "10Yr": "8.44",
+  "Since Incept.": "9.65",
+  "Category": "Bulk Beta",
+  "SubCategory": "International",
+  "ticker": "PGJ",
+  "name": "Golden Dragon China ETF",
+  "issuer": "Invesco",
+  "website": "https://www.invesco.com/us/financial-products/etfs/product-detail?audienceType=Investor&ticker=PGJ",
+  "holdingDataSource": {
+    "url": "https://www.invesco.com/us/financial-products/etfs/holdings/main/holdings/0?audienceType=Investor&action=download&ticker=PGJ",
+    "fileExt": "csv",
+    "transform": "invesco"
+  },
+  "holdings": [
+    {
+      "ticker": "TAL",
+      "name": "TAL Education Group ADR",
+      "percent": "8.409"
+    },
+    {
+      "ticker": "BABA",
+      "name": "Alibaba Group Holding Ltd ADR",
+      "percent": "8.335"
+    },
+    {
+      "ticker": "BIDU",
+      "name": "Baidu Inc ADR",
+      "percent": "8.147"
+    },
+    {
+      "ticker": "JD",
+      "name": "JD.com Inc ADR",
+      "percent": "8.072"
+    },
+    {
+      "ticker": "NTES",
+      "name": "NetEase Inc ADR",
+      "percent": "7.073"
+    },
+    {
+      "ticker": "EDU",
+      "name": "New Oriental Education & Technology Group Inc ADR",
+      "percent": "4.374"
+    },
+    {
+      "ticker": "VIPS",
+      "name": "Vipshop Holdings Ltd ADR",
+      "percent": "4.209"
+    },
+    {
+      "ticker": "TCOM",
+      "name": "Trip.com Group Ltd ADR",
+      "percent": "3.847"
+    },
+    {
+      "ticker": "GDS",
+      "name": "GDS Holdings Ltd ADR",
+      "percent": "3.842"
+    },
+    {
+      "ticker": "PDD",
+      "name": "Pinduoduo Inc ADR",
+      "percent": "3.683"
+    },
+    {
+      "ticker": "BILI",
+      "name": "Bilibili Inc ADR",
+      "percent": "3.356"
+    },
+    {
+      "ticker": "ZTO",
+      "name": "ZTO Express Cayman Inc ADR",
+      "percent": "3.353"
+    },
+    {
+      "ticker": "IQ",
+      "name": "iQIYI Inc ADR",
+      "percent": "3.151"
+    },
+    {
+      "ticker": "HTHT",
+      "name": "Huazhu Group Ltd ADR",
+      "percent": "2.790"
+    },
+    {
+      "ticker": "ATHM",
+      "name": "Autohome Inc ADR",
+      "percent": "2.753"
+    },
+    {
+      "ticker": "ZLAB",
+      "name": "Zai Lab Ltd ADR",
+      "percent": "2.229"
+    },
+    {
+      "ticker": "YY",
+      "name": "JOYY Inc ADR",
+      "percent": "2.004"
+    },
+    {
+      "ticker": "CBPO",
+      "name": "China Biologic Products Holdings Inc",
+      "percent": "1.964"
+    },
+    {
+      "ticker": "CHL",
+      "name": "China Mobile Ltd ADR",
+      "percent": "1.578"
+    },
+    {
+      "ticker": "JOBS",
+      "name": "51job Inc ADR",
+      "percent": "1.325"
+    },
+    {
+      "ticker": "WB",
+      "name": "Weibo Corp ADR",
+      "percent": "1.280"
+    },
+    {
+      "ticker": "SINA",
+      "name": "SINA Corp/China",
+      "percent": "1.246"
+    },
+    {
+      "ticker": "JKS",
+      "name": "JinkoSolar Holding Co Ltd ADR",
+      "percent": "1.101"
+    },
+    {
+      "ticker": "DQ",
+      "name": "Daqo New Energy Corp ADR",
+      "percent": "1.039"
+    },
+    {
+      "ticker": "MOMO",
+      "name": "Momo Inc ADR",
+      "percent": "1.028"
+    },
+    {
+      "ticker": "CSIQ",
+      "name": "Canadian Solar Inc",
+      "percent": "1.003"
+    },
+    {
+      "ticker": "VNET",
+      "name": "21Vianet Group Inc ADR",
+      "percent": "0.875"
+    },
+    {
+      "ticker": "BZUN",
+      "name": "Baozun Inc ADR",
+      "percent": "0.714"
+    },
+    {
+      "ticker": "DOYU",
+      "name": "DouYu International Holdings Ltd ADR",
+      "percent": "0.619"
+    },
+    {
+      "ticker": "QFIN",
+      "name": "360 DigiTech Inc ADR",
+      "percent": "0.554"
+    },
+    {
+      "ticker": "NIU",
+      "name": "Niu Technologies ADR",
+      "percent": "0.453"
+    },
+    {
+      "ticker": "CEO",
+      "name": "CNOOC Ltd ADR",
+      "percent": "0.425"
+    },
+    {
+      "ticker": "NOAH",
+      "name": "Noah Holdings Ltd ADR",
+      "percent": "0.406"
+    },
+    {
+      "ticker": "LX",
+      "name": "LexinFintech Holdings Ltd ADR",
+      "percent": "0.342"
+    },
+    {
+      "ticker": "SOHU",
+      "name": "Sohu.com Ltd ADR",
+      "percent": "0.338"
+    },
+    {
+      "ticker": "HOLI",
+      "name": "Hollysys Automation Technologies Ltd",
+      "percent": "0.330"
+    },
+    {
+      "ticker": "OCFT",
+      "name": "OneConnect Financial Technology Co Ltd ADR",
+      "percent": "0.307"
+    },
+    {
+      "ticker": "SY",
+      "name": "So-Young International Inc ADR",
+      "percent": "0.275"
+    },
+    {
+      "ticker": "FANH",
+      "name": "Fanhua Inc ADR",
+      "percent": "0.249"
+    },
+    {
+      "ticker": "SNP",
+      "name": "China Petroleum & Chemical Corp ADR",
+      "percent": "0.220"
+    },
+    {
+      "ticker": "HMI",
+      "name": "Huami Corp ADR",
+      "percent": "0.178"
+    },
+    {
+      "ticker": "KNDI",
+      "name": "Kandi Technologies Group Inc",
+      "percent": "0.177"
+    },
+    {
+      "ticker": "IMAB",
+      "name": "I-Mab ADR",
+      "percent": "0.149"
+    },
+    {
+      "ticker": "AGPXX",
+      "name": "STIT - Government & Agency Portfolio",
+      "percent": "0.141"
+    },
+    {
+      "ticker": "LFC",
+      "name": "China Life Insurance Co Ltd ADR",
+      "percent": "0.134"
+    },
+    {
+      "ticker": "COE",
+      "name": "China Online Education Group ADR",
+      "percent": "0.126"
+    },
+    {
+      "ticker": "HEBT",
+      "name": "Hebron Technology Co Ltd",
+      "percent": "0.121"
+    },
+    {
+      "ticker": "QTT",
+      "name": "Qutoutiao Inc ADR",
+      "percent": "0.119"
+    },
+    {
+      "ticker": "TIGR",
+      "name": "Up Fintech Holding Ltd ADR",
+      "percent": "0.118"
+    },
+    {
+      "ticker": "QD",
+      "name": "Qudian Inc ADR",
+      "percent": "0.110"
+    },
+    {
+      "ticker": "CHU",
+      "name": "China Unicom Hong Kong Ltd ADR",
+      "percent": "0.104"
+    },
+    {
+      "ticker": "NTP",
+      "name": "Nam Tai Property Inc",
+      "percent": "0.096"
+    },
+    {
+      "ticker": "VIOT",
+      "name": "Viomi Technology Co Ltd ADR",
+      "percent": "0.094"
+    },
+    {
+      "ticker": "DL",
+      "name": "China Distance Education Holdings Ltd ADR",
+      "percent": "0.092"
+    },
+    {
+      "ticker": "METX",
+      "name": "Meten EdtechX Education Group Ltd",
+      "percent": "0.090"
+    },
+    {
+      "ticker": "PTR",
+      "name": "PetroChina Co Ltd ADR",
+      "percent": "0.085"
+    },
+    {
+      "ticker": "UXIN",
+      "name": "Uxin Ltd ADR",
+      "percent": "0.085"
+    },
+    {
+      "ticker": "GLG",
+      "name": "TD Holdings Inc/China",
+      "percent": "0.084"
+    },
+    {
+      "ticker": "BTBT",
+      "name": "Bit Digital Inc",
+      "percent": "0.076"
+    },
+    {
+      "ticker": "YI",
+      "name": "111 Inc ADR",
+      "percent": "0.076"
+    },
+    {
+      "ticker": "BEDU",
+      "name": "Bright Scholar Education Holdings Ltd ADR",
+      "percent": "0.075"
+    },
+    {
+      "ticker": "CHA",
+      "name": "China Telecom Corp Ltd ADR",
+      "percent": "0.066"
+    },
+    {
+      "ticker": "XNET",
+      "name": "Xunlei Ltd ADR",
+      "percent": "0.052"
+    },
+    {
+      "ticker": "LKCO",
+      "name": "Luokung Technology Corp",
+      "percent": "0.048"
+    },
+    {
+      "ticker": "DUO",
+      "name": "Fangdd Network Group Ltd ADR",
+      "percent": "0.044"
+    },
+    {
+      "ticker": "CAN",
+      "name": "Canaan Inc ADR",
+      "percent": "0.043"
+    },
+    {
+      "ticker": "CIH",
+      "name": "China Index Holdings Ltd ADR",
+      "percent": "0.040"
+    },
+    {
+      "ticker": "CMCM",
+      "name": "Cheetah Mobile Inc ADR",
+      "percent": "0.036"
+    },
+    {
+      "ticker": "LEJU",
+      "name": "Leju Holdings Ltd ADR",
+      "percent": "0.025"
+    },
+    {
+      "ticker": "-CASH-",
+      "name": "Cash/Receivables/Payables",
+      "percent": "0.016"
+    }
+  ]
+}

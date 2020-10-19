@@ -1,0 +1,210 @@
+{
+  "Products": "Water Resources ETF",
+  "Ticker": "PHO",
+  "Inception": "12/06/2005",
+  "Gross Exp. Ratio": "0.60%",
+  "YTD": "3.13",
+  "1Yr": "8.91",
+  "3Yr": "12.20",
+  "5Yr": "14.62",
+  "10Yr": "9.79",
+  "Since Incept.": "7.27",
+  "Category": "Thematic",
+  "SubCategory": "Sustainable",
+  "ticker": "PHO",
+  "name": "Water Resources ETF",
+  "issuer": "Invesco",
+  "website": "https://www.invesco.com/us/financial-products/etfs/product-detail?audienceType=Investor&ticker=PHO",
+  "holdingDataSource": {
+    "url": "https://www.invesco.com/us/financial-products/etfs/holdings/main/holdings/0?audienceType=Investor&action=download&ticker=PHO",
+    "fileExt": "csv",
+    "transform": "invesco"
+  },
+  "holdings": [
+    {
+      "ticker": "AWK",
+      "name": "American Water Works Co Inc",
+      "percent": "8.137"
+    },
+    {
+      "ticker": "DHR",
+      "name": "Danaher Corp",
+      "percent": "8.137"
+    },
+    {
+      "ticker": "ECL",
+      "name": "Ecolab Inc",
+      "percent": "7.665"
+    },
+    {
+      "ticker": "ROP",
+      "name": "Roper Technologies Inc",
+      "percent": "7.502"
+    },
+    {
+      "ticker": "WAT",
+      "name": "Waters Corp",
+      "percent": "7.210"
+    },
+    {
+      "ticker": "TTC",
+      "name": "Toro Co/The",
+      "percent": "4.242"
+    },
+    {
+      "ticker": "XYL",
+      "name": "Xylem Inc/NY",
+      "percent": "4.215"
+    },
+    {
+      "ticker": "AOS",
+      "name": "A O Smith Corp",
+      "percent": "4.176"
+    },
+    {
+      "ticker": "PNR",
+      "name": "Pentair PLC",
+      "percent": "4.082"
+    },
+    {
+      "ticker": "IEX",
+      "name": "IDEX Corp",
+      "percent": "3.949"
+    },
+    {
+      "ticker": "WMS",
+      "name": "Advanced Drainage Systems Inc",
+      "percent": "3.937"
+    },
+    {
+      "ticker": "WTRG",
+      "name": "Essential Utilities Inc",
+      "percent": "3.636"
+    },
+    {
+      "ticker": "TTEK",
+      "name": "Tetra Tech Inc",
+      "percent": "3.578"
+    },
+    {
+      "ticker": "RXN",
+      "name": "Rexnord Corp",
+      "percent": "3.517"
+    },
+    {
+      "ticker": "ITRI",
+      "name": "Itron Inc",
+      "percent": "3.021"
+    },
+    {
+      "ticker": "VMI",
+      "name": "Valmont Industries Inc",
+      "percent": "2.567"
+    },
+    {
+      "ticker": "AWR",
+      "name": "American States Water Co",
+      "percent": "2.475"
+    },
+    {
+      "ticker": "AQUA",
+      "name": "Evoqua Water Technologies Corp",
+      "percent": "2.330"
+    },
+    {
+      "ticker": "WTS",
+      "name": "Watts Water Technologies Inc",
+      "percent": "2.309"
+    },
+    {
+      "ticker": "SBS",
+      "name": "Cia de Saneamento Basico do Estado de Sao Paulo ADR",
+      "percent": "2.030"
+    },
+    {
+      "ticker": "CWT",
+      "name": "California Water Service Group",
+      "percent": "1.782"
+    },
+    {
+      "ticker": "BMI",
+      "name": "Badger Meter Inc",
+      "percent": "1.655"
+    },
+    {
+      "ticker": "FELE",
+      "name": "Franklin Electric Co Inc",
+      "percent": "1.430"
+    },
+    {
+      "ticker": "MWA",
+      "name": "Mueller Water Products Inc",
+      "percent": "1.142"
+    },
+    {
+      "ticker": "SJW",
+      "name": "SJW Group",
+      "percent": "0.994"
+    },
+    {
+      "ticker": "MLI",
+      "name": "Mueller Industries Inc",
+      "percent": "0.941"
+    },
+    {
+      "ticker": "LNN",
+      "name": "Lindsay Corp",
+      "percent": "0.865"
+    },
+    {
+      "ticker": "MSEX",
+      "name": "Middlesex Water Co",
+      "percent": "0.519"
+    },
+    {
+      "ticker": "YORW",
+      "name": "York Water Co/The",
+      "percent": "0.319"
+    },
+    {
+      "ticker": "ERII",
+      "name": "Energy Recovery Inc",
+      "percent": "0.311"
+    },
+    {
+      "ticker": "GRC",
+      "name": "Gorman-Rupp Co/The",
+      "percent": "0.308"
+    },
+    {
+      "ticker": "AEGN",
+      "name": "Aegion Corp",
+      "percent": "0.251"
+    },
+    {
+      "ticker": "NWPX",
+      "name": "Northwest Pipe Co",
+      "percent": "0.236"
+    },
+    {
+      "ticker": "ARTNA",
+      "name": "Artesian Resources Corp",
+      "percent": "0.204"
+    },
+    {
+      "ticker": "CWCO",
+      "name": "Consolidated Water Co Ltd",
+      "percent": "0.152"
+    },
+    {
+      "ticker": "AGPXX",
+      "name": "STIT - Government & Agency Portfolio",
+      "percent": "0.129"
+    },
+    {
+      "ticker": "GWRS",
+      "name": "Global Water Resources Inc",
+      "percent": "0.049"
+    }
+  ]
+}

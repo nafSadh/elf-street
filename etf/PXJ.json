@@ -1,0 +1,120 @@
+{
+  "Products": "Dynamic Oil & Gas Services ETF",
+  "Ticker": "PXJ",
+  "Inception": "10/26/2005",
+  "Gross Exp. Ratio": "0.83%",
+  "YTD": "-62.48",
+  "1Yr": "-55.84",
+  "3Yr": "-39.76",
+  "5Yr": "-28.94",
+  "10Yr": "-18.40",
+  "Since Incept.": "-12.31",
+  "Category": "Multi Factor",
+  "SubCategory": "Intellidex Industries",
+  "ticker": "PXJ",
+  "name": "Dynamic Oil & Gas Services ETF",
+  "issuer": "Invesco",
+  "website": "https://www.invesco.com/us/financial-products/etfs/product-detail?audienceType=Investor&ticker=PXJ",
+  "holdingDataSource": {
+    "url": "https://www.invesco.com/us/financial-products/etfs/holdings/main/holdings/0?audienceType=Investor&action=download&ticker=PXJ",
+    "fileExt": "csv",
+    "transform": "invesco"
+  },
+  "holdings": [
+    {
+      "ticker": "FTI",
+      "name": "TechnipFMC PLC",
+      "percent": "7.393"
+    },
+    {
+      "ticker": "BKR",
+      "name": "Baker Hughes Co",
+      "percent": "7.285"
+    },
+    {
+      "ticker": "HP",
+      "name": "Helmerich & Payne Inc",
+      "percent": "7.056"
+    },
+    {
+      "ticker": "FRO",
+      "name": "Frontline Ltd/Bermuda",
+      "percent": "7.011"
+    },
+    {
+      "ticker": "SLB",
+      "name": "Schlumberger NV",
+      "percent": "6.538"
+    },
+    {
+      "ticker": "CHX",
+      "name": "ChampionX Corp",
+      "percent": "6.303"
+    },
+    {
+      "ticker": "HAL",
+      "name": "Halliburton Co",
+      "percent": "6.245"
+    },
+    {
+      "ticker": "NOV",
+      "name": "National Oilwell Varco Inc",
+      "percent": "5.819"
+    },
+    {
+      "ticker": "DHT",
+      "name": "DHT Holdings Inc",
+      "percent": "5.530"
+    },
+    {
+      "ticker": "STNG",
+      "name": "Scorpio Tankers Inc",
+      "percent": "5.363"
+    },
+    {
+      "ticker": "USAC",
+      "name": "USA Compression Partners LP",
+      "percent": "5.102"
+    },
+    {
+      "ticker": "AROC",
+      "name": "Archrock Inc",
+      "percent": "4.748"
+    },
+    {
+      "ticker": "RES",
+      "name": "RPC Inc",
+      "percent": "4.581"
+    },
+    {
+      "ticker": "WHD",
+      "name": "Cactus Inc",
+      "percent": "4.418"
+    },
+    {
+      "ticker": "DRQ",
+      "name": "Dril-Quip Inc",
+      "percent": "4.017"
+    },
+    {
+      "ticker": "PTEN",
+      "name": "Patterson-UTI Energy Inc",
+      "percent": "3.748"
+    },
+    {
+      "ticker": "CLB",
+      "name": "Core Laboratories NV",
+      "percent": "3.743"
+    },
+    {
+      "ticker": "RIG",
+      "name": "Transocean Ltd",
+      "percent": "3.452"
+    },
+    {
+      "ticker": "AGPXX",
+      "name": "STIT - Government & Agency Portfolio",
+      "percent": "1.647"
+    }
+  ]
+}

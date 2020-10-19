@@ -1,0 +1,255 @@
+{
+  "Products": "BulletShares 2028 Municipal Bond ETF",
+  "Ticker": "BSMS",
+  "Inception": "09/25/2019",
+  "Gross Exp. Ratio": "0.18%",
+  "YTD": "3.75",
+  "1Yr": "4.14",
+  "3Yr": "",
+  "5Yr": "",
+  "10Yr": "",
+  "Since Incept.": "3.96",
+  "Category": "Income",
+  "SubCategory": "BulletShares",
+  "ticker": "BSMS",
+  "name": "BulletShares 2028 Municipal Bond ETF",
+  "issuer": "Invesco",
+  "website": "https://www.invesco.com/us/financial-products/etfs/product-detail?audienceType=Investor&ticker=BSMS",
+  "holdingDataSource": {
+    "url": "https://www.invesco.com/us/financial-products/etfs/holdings/main/holdings/0?audienceType=Investor&action=download&ticker=BSMS",
+    "fileExt": "csv",
+    "transform": "invesco"
+  },
+  "holdings": [
+    {
+      "ticker": "544525YH5",
+      "name": "Los Angeles Department of Water",
+      "percent": "4.97"
+    },
+    {
+      "ticker": "709221VF9",
+      "name": "Pennsylvania Turnpike Commission",
+      "percent": "4.89"
+    },
+    {
+      "ticker": "6461364X6",
+      "name": "New Jersey Transportation Trust Fund Authority",
+      "percent": "4.52"
+    },
+    {
+      "ticker": "576000WD1",
+      "name": "Massachusetts School Building Authority",
+      "percent": "4.50"
+    },
+    {
+      "ticker": "64972GSK1",
+      "name": "New York City Water & Sewer System",
+      "percent": "4.44"
+    },
+    {
+      "ticker": "45506DR80",
+      "name": "Indiana Finance Authority",
+      "percent": "4.41"
+    },
+    {
+      "ticker": "956622N91",
+      "name": "West Virginia Hospital Finance Authority",
+      "percent": "4.37"
+    },
+    {
+      "ticker": "79574CCW1",
+      "name": "Salt River Project Agricultural Improvement & Power District",
+      "percent": "4.34"
+    },
+    {
+      "ticker": "574193QU5",
+      "name": "State of Maryland",
+      "percent": "3.21"
+    },
+    {
+      "ticker": "447819EL3",
+      "name": "Hurst-Euless-Bedford Independent School District",
+      "percent": "3.04"
+    },
+    {
+      "ticker": "64990C7N5",
+      "name": "New York State Dormitory Authority",
+      "percent": "2.91"
+    },
+    {
+      "ticker": "13080SWK6",
+      "name": "California Statewide Communities Development Authority",
+      "percent": "2.62"
+    },
+    {
+      "ticker": "64971XRP5",
+      "name": "New York City Transitional Finance Authority Future Tax Secu",
+      "percent": "2.58"
+    },
+    {
+      "ticker": "13063DPG7",
+      "name": "State of California",
+      "percent": "2.58"
+    },
+    {
+      "ticker": "20772KHC6",
+      "name": "State of Connecticut",
+      "percent": "2.54"
+    },
+    {
+      "ticker": "29270CU52",
+      "name": "Energy Northwest",
+      "percent": "2.53"
+    },
+    {
+      "ticker": "914767AC2",
+      "name": "University of Oregon",
+      "percent": "2.50"
+    },
+    {
+      "ticker": "838530RJ4",
+      "name": "South Jersey Port Corp",
+      "percent": "2.49"
+    },
+    {
+      "ticker": "73358WW26",
+      "name": "Port Authority of New York & New Jersey",
+      "percent": "2.41"
+    },
+    {
+      "ticker": "64990AJA4",
+      "name": "New York State Dormitory Authority",
+      "percent": "2.38"
+    },
+    {
+      "ticker": "13077DEX6",
+      "name": "California State University",
+      "percent": "2.36"
+    },
+    {
+      "ticker": "57585JVZ1",
+      "name": "Massachusetts Health & Educational Facilities Authority",
+      "percent": "2.36"
+    },
+    {
+      "ticker": "64966MZN2",
+      "name": "City of New York NY",
+      "percent": "2.19"
+    },
+    {
+      "ticker": "79765R2H1",
+      "name": "City of San Francisco CA Public Utilities Commission Water R",
+      "percent": "2.19"
+    },
+    {
+      "ticker": "362848UA9",
+      "name": "City of Gainesville FL Utilities System Revenue",
+      "percent": "2.16"
+    },
+    {
+      "ticker": "452152Q20",
+      "name": "State of Illinois",
+      "percent": "2.12"
+    },
+    {
+      "ticker": "64971XDK1",
+      "name": "New York City Transitional Finance Authority Future Tax Secu",
+      "percent": "1.83"
+    },
+    {
+      "ticker": "92778UCC2",
+      "name": "Virginia Commonwealth Transportation Board",
+      "percent": "1.53"
+    },
+    {
+      "ticker": "38611TBJ5",
+      "name": "Grand Parkway Transportation Corp",
+      "percent": "1.51"
+    },
+    {
+      "ticker": "59261ATD9",
+      "name": "Metropolitan Transportation Authority",
+      "percent": "1.45"
+    },
+    {
+      "ticker": "54466HHB5",
+      "name": "Los Angeles County Metropolitan Transportation Authority",
+      "percent": "1.42"
+    },
+    {
+      "ticker": "442349BF2",
+      "name": "City of Houston TX Airport System Revenue",
+      "percent": "1.27"
+    },
+    {
+      "ticker": "180848XZ1",
+      "name": "County of Clark NV",
+      "percent": "1.25"
+    },
+    {
+      "ticker": "801315JR4",
+      "name": "Santa Barbara Unified School District",
+      "percent": "1.14"
+    },
+    {
+      "ticker": "93974DY69",
+      "name": "State of Washington",
+      "percent": "1.14"
+    },
+    {
+      "ticker": "91417KX63",
+      "name": "University of Colorado",
+      "percent": "1.02"
+    },
+    {
+      "ticker": "93974D2U1",
+      "name": "State of Washington",
+      "percent": "0.98"
+    },
+    {
+      "ticker": "25476FWU8",
+      "name": "District of Columbia",
+      "percent": "0.77"
+    },
+    {
+      "ticker": "348815PL9",
+      "name": "City of Fort Smith AR Water & Sewer Revenue",
+      "percent": "0.74"
+    },
+    {
+      "ticker": "54628CFZ0",
+      "name": "Louisiana Local Government Environmental Facilities & Commun",
+      "percent": "0.56"
+    },
+    {
+      "ticker": "882854G89",
+      "name": "Texas Water Development Board",
+      "percent": "0.52"
+    },
+    {
+      "ticker": "234839PL6",
+      "name": "Dallas County Utility & Reclamation District",
+      "percent": "0.51"
+    },
+    {
+      "ticker": "795576JD0",
+      "name": "Salt Lake City Corp Airport Revenue",
+      "percent": "0.47"
+    },
+    {
+      "ticker": "199492SR1",
+      "name": "City of Columbus OH",
+      "percent": "0.38"
+    },
+    {
+      "ticker": "60412APJ6",
+      "name": "State of Minnesota",
+      "percent": "0.25"
+    },
+    {
+      "ticker": "-CASH-",
+      "name": "Cash/Receivables/Payables",
+      "percent": "-0.35"
+    }
+  ]
+}

@@ -1,0 +1,185 @@
+{
+  "Products": "Dynamic Leisure and Entertainment ETF",
+  "Ticker": "PEJ",
+  "Inception": "06/23/2005",
+  "Gross Exp. Ratio": "0.63%",
+  "YTD": "-28.70",
+  "1Yr": "-24.24",
+  "3Yr": "-7.63",
+  "5Yr": "-1.50",
+  "10Yr": "7.77",
+  "Since Incept.": "6.04",
+  "Category": "Multi Factor",
+  "SubCategory": "Intellidex Industries",
+  "ticker": "PEJ",
+  "name": "Dynamic Leisure and Entertainment ETF",
+  "issuer": "Invesco",
+  "website": "https://www.invesco.com/us/financial-products/etfs/product-detail?audienceType=Investor&ticker=PEJ",
+  "holdingDataSource": {
+    "url": "https://www.invesco.com/us/financial-products/etfs/holdings/main/holdings/0?audienceType=Investor&action=download&ticker=PEJ",
+    "fileExt": "csv",
+    "transform": "invesco"
+  },
+  "holdings": [
+    {
+      "ticker": "CMG",
+      "name": "Chipotle Mexican Grill Inc",
+      "percent": "5.346"
+    },
+    {
+      "ticker": "WMG",
+      "name": "Warner Music Group Corp",
+      "percent": "5.187"
+    },
+    {
+      "ticker": "HLT",
+      "name": "Hilton Worldwide Holdings Inc",
+      "percent": "5.144"
+    },
+    {
+      "ticker": "VIAC",
+      "name": "ViacomCBS Inc",
+      "percent": "5.044"
+    },
+    {
+      "ticker": "FOXA",
+      "name": "Fox Corp",
+      "percent": "4.972"
+    },
+    {
+      "ticker": "YUMC",
+      "name": "Yum China Holdings Inc",
+      "percent": "4.945"
+    },
+    {
+      "ticker": "DPZ",
+      "name": "Domino's Pizza Inc",
+      "percent": "4.897"
+    },
+    {
+      "ticker": "DIS",
+      "name": "Walt Disney Co/The",
+      "percent": "4.840"
+    },
+    {
+      "ticker": "BLMN",
+      "name": "Bloomin' Brands Inc",
+      "percent": "3.728"
+    },
+    {
+      "ticker": "PENN",
+      "name": "Penn National Gaming Inc",
+      "percent": "3.580"
+    },
+    {
+      "ticker": "QRTEA",
+      "name": "Qurate Retail Inc",
+      "percent": "3.307"
+    },
+    {
+      "ticker": "TXRH",
+      "name": "Texas Roadhouse Inc",
+      "percent": "3.282"
+    },
+    {
+      "ticker": "GRUB",
+      "name": "Grubhub Inc",
+      "percent": "3.196"
+    },
+    {
+      "ticker": "PFGC",
+      "name": "Performance Food Group Co",
+      "percent": "2.984"
+    },
+    {
+      "ticker": "USFD",
+      "name": "US Foods Holding Corp",
+      "percent": "2.885"
+    },
+    {
+      "ticker": "CNNE",
+      "name": "Cannae Holdings Inc",
+      "percent": "2.861"
+    },
+    {
+      "ticker": "LYV",
+      "name": "Live Nation Entertainment Inc",
+      "percent": "2.655"
+    },
+    {
+      "ticker": "MSGE",
+      "name": "Madison Square Garden Entertainment Corp",
+      "percent": "2.650"
+    },
+    {
+      "ticker": "ACEL",
+      "name": "Accel Entertainment Inc",
+      "percent": "2.599"
+    },
+    {
+      "ticker": "AMCX",
+      "name": "AMC Networks Inc",
+      "percent": "2.575"
+    },
+    {
+      "ticker": "DISCA",
+      "name": "Discovery Inc",
+      "percent": "2.552"
+    },
+    {
+      "ticker": "EB",
+      "name": "Eventbrite Inc",
+      "percent": "2.497"
+    },
+    {
+      "ticker": "MANU",
+      "name": "Manchester United Plc",
+      "percent": "2.492"
+    },
+    {
+      "ticker": "WWE",
+      "name": "World Wrestling Entertainment Inc",
+      "percent": "2.453"
+    },
+    {
+      "ticker": "LGF/A",
+      "name": "Lions Gate Entertainment Corp",
+      "percent": "2.442"
+    },
+    {
+      "ticker": "MSGS",
+      "name": "Madison Square Garden Sports Corp",
+      "percent": "2.441"
+    },
+    {
+      "ticker": "PZZA",
+      "name": "Papa John's International Inc",
+      "percent": "2.324"
+    },
+    {
+      "ticker": "TRIP",
+      "name": "TripAdvisor Inc",
+      "percent": "2.229"
+    },
+    {
+      "ticker": "WING",
+      "name": "Wingstop Inc",
+      "percent": "2.184"
+    },
+    {
+      "ticker": "CNK",
+      "name": "Cinemark Holdings Inc",
+      "percent": "1.539"
+    },
+    {
+      "ticker": "AGPXX",
+      "name": "STIT - Government & Agency Portfolio",
+      "percent": "0.170"
+    },
+    {
+      "ticker": "-CASH-",
+      "name": "Cash/Receivables/Payables",
+      "percent": "0.001"
+    }
+  ]
+}

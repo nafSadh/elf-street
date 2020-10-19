@@ -1,0 +1,280 @@
+{
+  "Products": "Dynamic Large Cap Value ETF",
+  "Ticker": "PWV",
+  "Inception": "03/03/2005",
+  "Gross Exp. Ratio": "0.55%",
+  "YTD": "-15.53",
+  "1Yr": "-8.37",
+  "3Yr": "-0.54",
+  "5Yr": "6.51",
+  "10Yr": "9.52",
+  "Since Incept.": "7.76",
+  "Category": "Multi Factor",
+  "SubCategory": "Intellidex",
+  "ticker": "PWV",
+  "name": "Dynamic Large Cap Value ETF",
+  "issuer": "Invesco",
+  "website": "https://www.invesco.com/us/financial-products/etfs/product-detail?audienceType=Investor&ticker=PWV",
+  "holdingDataSource": {
+    "url": "https://www.invesco.com/us/financial-products/etfs/holdings/main/holdings/0?audienceType=Investor&action=download&ticker=PWV",
+    "fileExt": "csv",
+    "transform": "invesco"
+  },
+  "holdings": [
+    {
+      "ticker": "INTC",
+      "name": "Intel Corp",
+      "percent": "3.643"
+    },
+    {
+      "ticker": "UNP",
+      "name": "Union Pacific Corp",
+      "percent": "3.587"
+    },
+    {
+      "ticker": "ORCL",
+      "name": "Oracle Corp",
+      "percent": "3.504"
+    },
+    {
+      "ticker": "PEP",
+      "name": "PepsiCo Inc",
+      "percent": "3.403"
+    },
+    {
+      "ticker": "CMCSA",
+      "name": "Comcast Corp",
+      "percent": "3.400"
+    },
+    {
+      "ticker": "PFE",
+      "name": "Pfizer Inc",
+      "percent": "3.332"
+    },
+    {
+      "ticker": "JPM",
+      "name": "JPMorgan Chase & Co",
+      "percent": "3.296"
+    },
+    {
+      "ticker": "PM",
+      "name": "Philip Morris International Inc",
+      "percent": "3.293"
+    },
+    {
+      "ticker": "BMY",
+      "name": "Bristol Myers Squibb Co",
+      "percent": "3.256"
+    },
+    {
+      "ticker": "VZ",
+      "name": "Verizon Communications Inc",
+      "percent": "3.247"
+    },
+    {
+      "ticker": "JNJ",
+      "name": "Johnson & Johnson",
+      "percent": "3.218"
+    },
+    {
+      "ticker": "CSCO",
+      "name": "Cisco Systems Inc",
+      "percent": "3.157"
+    },
+    {
+      "ticker": "BAC",
+      "name": "Bank of America Corp",
+      "percent": "3.093"
+    },
+    {
+      "ticker": "ABBV",
+      "name": "AbbVie Inc",
+      "percent": "3.041"
+    },
+    {
+      "ticker": "T",
+      "name": "AT&T Inc",
+      "percent": "3.039"
+    },
+    {
+      "ticker": "CAT",
+      "name": "Caterpillar Inc",
+      "percent": "1.678"
+    },
+    {
+      "ticker": "DE",
+      "name": "Deere & Co",
+      "percent": "1.631"
+    },
+    {
+      "ticker": "SO",
+      "name": "Southern Co/The",
+      "percent": "1.593"
+    },
+    {
+      "ticker": "SCHW",
+      "name": "Charles Schwab Corp/The",
+      "percent": "1.547"
+    },
+    {
+      "ticker": "BBY",
+      "name": "Best Buy Co Inc",
+      "percent": "1.530"
+    },
+    {
+      "ticker": "CMI",
+      "name": "Cummins Inc",
+      "percent": "1.530"
+    },
+    {
+      "ticker": "ETN",
+      "name": "Eaton Corp PLC",
+      "percent": "1.526"
+    },
+    {
+      "ticker": "PH",
+      "name": "Parker-Hannifin Corp",
+      "percent": "1.523"
+    },
+    {
+      "ticker": "USB",
+      "name": "US Bancorp",
+      "percent": "1.505"
+    },
+    {
+      "ticker": "CSX",
+      "name": "CSX Corp",
+      "percent": "1.499"
+    },
+    {
+      "ticker": "JCI",
+      "name": "Johnson Controls International plc",
+      "percent": "1.494"
+    },
+    {
+      "ticker": "ITW",
+      "name": "Illinois Tool Works Inc",
+      "percent": "1.483"
+    },
+    {
+      "ticker": "PCAR",
+      "name": "PACCAR Inc",
+      "percent": "1.480"
+    },
+    {
+      "ticker": "PGR",
+      "name": "Progressive Corp/The",
+      "percent": "1.475"
+    },
+    {
+      "ticker": "WM",
+      "name": "Waste Management Inc",
+      "percent": "1.440"
+    },
+    {
+      "ticker": "BK",
+      "name": "Bank of New York Mellon Corp/The",
+      "percent": "1.438"
+    },
+    {
+      "ticker": "IBM",
+      "name": "International Business Machines Corp",
+      "percent": "1.435"
+    },
+    {
+      "ticker": "EMR",
+      "name": "Emerson Electric Co",
+      "percent": "1.435"
+    },
+    {
+      "ticker": "RSG",
+      "name": "Republic Services Inc",
+      "percent": "1.434"
+    },
+    {
+      "ticker": "AFL",
+      "name": "Aflac Inc",
+      "percent": "1.433"
+    },
+    {
+      "ticker": "MET",
+      "name": "MetLife Inc",
+      "percent": "1.428"
+    },
+    {
+      "ticker": "CI",
+      "name": "Cigna Corp",
+      "percent": "1.427"
+    },
+    {
+      "ticker": "BIIB",
+      "name": "Biogen Inc",
+      "percent": "1.424"
+    },
+    {
+      "ticker": "STZ",
+      "name": "Constellation Brands Inc",
+      "percent": "1.411"
+    },
+    {
+      "ticker": "MS",
+      "name": "Morgan Stanley",
+      "percent": "1.400"
+    },
+    {
+      "ticker": "ALL",
+      "name": "Allstate Corp/The",
+      "percent": "1.397"
+    },
+    {
+      "ticker": "GS",
+      "name": "Goldman Sachs Group Inc/The",
+      "percent": "1.394"
+    },
+    {
+      "ticker": "TRV",
+      "name": "Travelers Cos Inc/The",
+      "percent": "1.374"
+    },
+    {
+      "ticker": "GIS",
+      "name": "General Mills Inc",
+      "percent": "1.369"
+    },
+    {
+      "ticker": "KR",
+      "name": "Kroger Co/The",
+      "percent": "1.338"
+    },
+    {
+      "ticker": "CVS",
+      "name": "CVS Health Corp",
+      "percent": "1.335"
+    },
+    {
+      "ticker": "CB",
+      "name": "Chubb Ltd",
+      "percent": "1.326"
+    },
+    {
+      "ticker": "KHC",
+      "name": "Kraft Heinz Co/The",
+      "percent": "1.314"
+    },
+    {
+      "ticker": "MO",
+      "name": "Altria Group Inc",
+      "percent": "1.283"
+    },
+    {
+      "ticker": "C",
+      "name": "Citigroup Inc",
+      "percent": "1.186"
+    },
+    {
+      "ticker": "-CASH-",
+      "name": "Cash/Receivables/Payables",
+      "percent": "-0.023"
+    }
+  ]
+}

@@ -1,0 +1,4040 @@
+{
+  "fundId": "0962",
+  "ticker": "VPL",
+  "instrumentId": 1581405,
+  "shortName": "FTSE Pacific ETF",
+  "longName": "Vanguard FTSE Pacific ETF",
+  "cusip": "922042866",
+  "IOVTicker": "VPL.IV",
+  "inceptionDate": "2005-03-04T00:00:00-05:00",
+  "newspaperAbbreviation": "VangdPacific        ",
+  "style": "Stock Funds",
+  "type": "International/Global Stock",
+  "category": "Diversified Pacific/Asia Stock",
+  "customizedStyle": "International",
+  "secDesignation": "",
+  "maximumYearlyInvestment": "",
+  "expenseRatio": "0.0800",
+  "expenseRatioAsOfDate": "2020-02-27T00:00:00-05:00",
+  "isInternalFund": true,
+  "isExternalFund": false,
+  "isMutualFund": false,
+  "isETF": true,
+  "isVLIP": false,
+  "isVVAP": false,
+  "is529": false,
+  "hasAssociatedInvestorFund": true,
+  "hasMoreThan1ShareClass": true,
+  "isPESite": false,
+  "fundCategory": "International",
+  "signalFundFlag": false,
+  "name": "Vanguard FTSE Pacific ETF",
+  "website": "https://investor.vanguard.com/etf/profile/overview/VPL",
+  "holdingDataSource": {
+    "file": "./data/stored/vanguard/VPL.json",
+    "fileExt": "json",
+    "transform": "vanguard"
+  },
+  "holdings": [
+    {
+      "ticker": "COL",
+      "percent": 0.22
+    },
+    {
+      "ticker": null,
+      "percent": 0.08
+    },
+    {
+      "ticker": null,
+      "percent": 0.08
+    },
+    {
+      "ticker": null,
+      "percent": 0.08
+    },
+    {
+      "ticker": null,
+      "percent": 0.08
+    },
+    {
+      "ticker": null,
+      "percent": 0.08
+    },
+    {
+      "ticker": null,
+      "percent": 0.08
+    },
+    {
+      "ticker": null,
+      "percent": 0.08
+    },
+    {
+      "ticker": null,
+      "percent": 0.08
+    },
+    {
+      "ticker": null,
+      "percent": 0.08
+    },
+    {
+      "ticker": null,
+      "percent": 0.08
+    },
+    {
+      "ticker": null,
+      "percent": 0.08
+    },
+    {
+      "ticker": null,
+      "percent": 0.08
+    },
+    {
+      "ticker": "AIA",
+      "percent": 0.08
+    },
+    {
+      "ticker": null,
+      "percent": 0.08
+    },
+    {
+      "ticker": null,
+      "percent": 0.08
+    },
+    {
+      "ticker": "ALD",
+      "percent": 0.08
+    },
+    {
+      "ticker": null,
+      "percent": 0.07
+    },
+    {
+      "ticker": null,
+      "percent": 0.07
+    },
+    {
+      "ticker": null,
+      "percent": 0.07
+    },
+    {
+      "ticker": null,
+      "percent": 0.07
+    },
+    {
+      "ticker": null,
+      "percent": 0.07
+    },
+    {
+      "ticker": null,
+      "percent": 0.07
+    },
+    {
+      "ticker": null,
+      "percent": 0.07
+    },
+    {
+      "ticker": null,
+      "percent": 0.07
+    },
+    {
+      "ticker": null,
+      "percent": 0.07
+    },
+    {
+      "ticker": null,
+      "percent": 0.07
+    },
+    {
+      "ticker": null,
+      "percent": 0.07
+    },
+    {
+      "ticker": null,
+      "percent": 0.07
+    },
+    {
+      "ticker": null,
+      "percent": 0.07
+    },
+    {
+      "ticker": null,
+      "percent": 0.07
+    },
+    {
+      "ticker": null,
+      "percent": 0.07
+    },
+    {
+      "ticker": null,
+      "percent": 0.07
+    },
+    {
+      "ticker": null,
+      "percent": 0.07
+    },
+    {
+      "ticker": null,
+      "percent": 0.07
+    },
+    {
+      "ticker": null,
+      "percent": 0.07
+    },
+    {
+      "ticker": null,
+      "percent": 0.07
+    },
+    {
+      "ticker": null,
+      "percent": 0.07
+    },
+    {
+      "ticker": "ORI",
+      "percent": 0.07
+    },
+    {
+      "ticker": "OSH",
+      "percent": 0.07
+    },
+    {
+      "ticker": null,
+      "percent": 0.07
+    },
+    {
+      "ticker": null,
+      "percent": 0.07
+    },
+    {
+      "ticker": null,
+      "percent": 0.07
+    },
+    {
+      "ticker": null,
+      "percent": 0.07
+    },
+    {
+      "ticker": null,
+      "percent": 0.07
+    },
+    {
+      "ticker": null,
+      "percent": 0.07
+    },
+    {
+      "ticker": null,
+      "percent": 0.07
+    },
+    {
+      "ticker": null,
+      "percent": 0.07
+    },
+    {
+      "ticker": null,
+      "percent": 0.07
+    },
+    {
+      "ticker": "AMP",
+      "percent": 0.07
+    },
+    {
+      "ticker": null,
+      "percent": 0.07
+    },
+    {
+      "ticker": null,
+      "percent": 0.06
+    },
+    {
+      "ticker": null,
+      "percent": 0.06
+    },
+    {
+      "ticker": null,
+      "percent": 0.06
+    },
+    {
+      "ticker": "ALX",
+      "percent": 0.06
+    },
+    {
+      "ticker": null,
+      "percent": 0.06
+    },
+    {
+      "ticker": null,
+      "percent": 0.06
+    },
+    {
+      "ticker": null,
+      "percent": 0.06
+    },
+    {
+      "ticker": null,
+      "percent": 0.06
+    },
+    {
+      "ticker": "SAR",
+      "percent": 0.06
+    },
+    {
+      "ticker": null,
+      "percent": 0.06
+    },
+    {
+      "ticker": "EVN",
+      "percent": 0.06
+    },
+    {
+      "ticker": "BSL",
+      "percent": 0.06
+    },
+    {
+      "ticker": null,
+      "percent": 0.06
+    },
+    {
+      "ticker": null,
+      "percent": 0.06
+    },
+    {
+      "ticker": null,
+      "percent": 0.06
+    },
+    {
+      "ticker": null,
+      "percent": 0.06
+    },
+    {
+      "ticker": null,
+      "percent": 0.06
+    },
+    {
+      "ticker": null,
+      "percent": 0.06
+    },
+    {
+      "ticker": null,
+      "percent": 0.06
+    },
+    {
+      "ticker": null,
+      "percent": 0.06
+    },
+    {
+      "ticker": null,
+      "percent": 0.06
+    },
+    {
+      "ticker": null,
+      "percent": 0.06
+    },
+    {
+      "ticker": null,
+      "percent": 0.06
+    },
+    {
+      "ticker": null,
+      "percent": 0.06
+    },
+    {
+      "ticker": null,
+      "percent": 0.06
+    },
+    {
+      "ticker": null,
+      "percent": 0.06
+    },
+    {
+      "ticker": null,
+      "percent": 0.06
+    },
+    {
+      "ticker": null,
+      "percent": 0.06
+    },
+    {
+      "ticker": null,
+      "percent": 0.06
+    },
+    {
+      "ticker": null,
+      "percent": 0.06
+    },
+    {
+      "ticker": null,
+      "percent": 0.06
+    },
+    {
+      "ticker": null,
+      "percent": 0.06
+    },
+    {
+      "ticker": null,
+      "percent": 0.06
+    },
+    {
+      "ticker": null,
+      "percent": 0.06
+    },
+    {
+      "ticker": null,
+      "percent": 0.06
+    },
+    {
+      "ticker": null,
+      "percent": 0.06
+    },
+    {
+      "ticker": null,
+      "percent": 0.06
+    },
+    {
+      "ticker": null,
+      "percent": 0.06
+    },
+    {
+      "ticker": null,
+      "percent": 0.06
+    },
+    {
+      "ticker": null,
+      "percent": 0.06
+    },
+    {
+      "ticker": null,
+      "percent": 0.06
+    },
+    {
+      "ticker": null,
+      "percent": 0.06
+    },
+    {
+      "ticker": null,
+      "percent": 0.06
+    },
+    {
+      "ticker": null,
+      "percent": 0.06
+    },
+    {
+      "ticker": null,
+      "percent": 0.06
+    },
+    {
+      "ticker": null,
+      "percent": 0.06
+    },
+    {
+      "ticker": null,
+      "percent": 0.05
+    },
+    {
+      "ticker": null,
+      "percent": 0.05
+    },
+    {
+      "ticker": null,
+      "percent": 0.05
+    },
+    {
+      "ticker": null,
+      "percent": 0.05
+    },
+    {
+      "ticker": null,
+      "percent": 0.05
+    },
+    {
+      "ticker": null,
+      "percent": 0.05
+    },
+    {
+      "ticker": null,
+      "percent": 0.05
+    },
+    {
+      "ticker": null,
+      "percent": 0.05
+    },
+    {
+      "ticker": null,
+      "percent": 0.05
+    },
+    {
+      "ticker": null,
+      "percent": 0.05
+    },
+    {
+      "ticker": null,
+      "percent": 0.05
+    },
+    {
+      "ticker": null,
+      "percent": 0.05
+    },
+    {
+      "ticker": null,
+      "percent": 0.05
+    },
+    {
+      "ticker": null,
+      "percent": 0.05
+    },
+    {
+      "ticker": null,
+      "percent": 0.05
+    },
+    {
+      "ticker": null,
+      "percent": 0.05
+    },
+    {
+      "ticker": null,
+      "percent": 0.05
+    },
+    {
+      "ticker": null,
+      "percent": 0.05
+    },
+    {
+      "ticker": null,
+      "percent": 0.05
+    },
+    {
+      "ticker": null,
+      "percent": 0.05
+    },
+    {
+      "ticker": null,
+      "percent": 0.05
+    },
+    {
+      "ticker": null,
+      "percent": 0.05
+    },
+    {
+      "ticker": null,
+      "percent": 0.05
+    },
+    {
+      "ticker": null,
+      "percent": 0.05
+    },
+    {
+      "ticker": null,
+      "percent": 0.05
+    },
+    {
+      "ticker": null,
+      "percent": 0.05
+    },
+    {
+      "ticker": null,
+      "percent": 0.05
+    },
+    {
+      "ticker": null,
+      "percent": 0.05
+    },
+    {
+      "ticker": null,
+      "percent": 0.05
+    },
+    {
+      "ticker": null,
+      "percent": 0.05
+    },
+    {
+      "ticker": null,
+      "percent": 0.05
+    },
+    {
+      "ticker": null,
+      "percent": 0.05
+    },
+    {
+      "ticker": null,
+      "percent": 0.05
+    },
+    {
+      "ticker": null,
+      "percent": 0.05
+    },
+    {
+      "ticker": null,
+      "percent": 0.05
+    },
+    {
+      "ticker": null,
+      "percent": 0.05
+    },
+    {
+      "ticker": null,
+      "percent": 0.05
+    },
+    {
+      "ticker": null,
+      "percent": 0.05
+    },
+    {
+      "ticker": null,
+      "percent": 0.05
+    },
+    {
+      "ticker": null,
+      "percent": 0.05
+    },
+    {
+      "ticker": null,
+      "percent": 0.05
+    },
+    {
+      "ticker": null,
+      "percent": 0.05
+    },
+    {
+      "ticker": null,
+      "percent": 0.05
+    },
+    {
+      "ticker": null,
+      "percent": 0.05
+    },
+    {
+      "ticker": null,
+      "percent": 0.05
+    },
+    {
+      "ticker": null,
+      "percent": 0.05
+    },
+    {
+      "ticker": null,
+      "percent": 0.05
+    },
+    {
+      "ticker": null,
+      "percent": 0.05
+    },
+    {
+      "ticker": null,
+      "percent": 0.05
+    },
+    {
+      "ticker": null,
+      "percent": 0.05
+    },
+    {
+      "ticker": null,
+      "percent": 0.05
+    },
+    {
+      "ticker": null,
+      "percent": 0.05
+    },
+    {
+      "ticker": null,
+      "percent": 0.05
+    },
+    {
+      "ticker": null,
+      "percent": 0.05
+    },
+    {
+      "ticker": null,
+      "percent": 0.05
+    },
+    {
+      "ticker": "BLD",
+      "percent": 0.05
+    },
+    {
+      "ticker": null,
+      "percent": 0.05
+    },
+    {
+      "ticker": null,
+      "percent": 0.05
+    },
+    {
+      "ticker": "CCL",
+      "percent": 0.05
+    },
+    {
+      "ticker": null,
+      "percent": 0.05
+    },
+    {
+      "ticker": null,
+      "percent": 0.04
+    },
+    {
+      "ticker": null,
+      "percent": 0.04
+    },
+    {
+      "ticker": null,
+      "percent": 0.04
+    },
+    {
+      "ticker": null,
+      "percent": 0.04
+    },
+    {
+      "ticker": null,
+      "percent": 0.04
+    },
+    {
+      "ticker": null,
+      "percent": 0.04
+    },
+    {
+      "ticker": null,
+      "percent": 0.04
+    },
+    {
+      "ticker": null,
+      "percent": 0.04
+    },
+    {
+      "ticker": "CEN",
+      "percent": 0.04
+    },
+    {
+      "ticker": null,
+      "percent": 0.04
+    },
+    {
+      "ticker": null,
+      "percent": 0.04
+    },
+    {
+      "ticker": null,
+      "percent": 0.04
+    },
+    {
+      "ticker": null,
+      "percent": 0.04
+    },
+    {
+      "ticker": null,
+      "percent": 0.04
+    },
+    {
+      "ticker": null,
+      "percent": 0.04
+    },
+    {
+      "ticker": null,
+      "percent": 0.04
+    },
+    {
+      "ticker": null,
+      "percent": 0.04
+    },
+    {
+      "ticker": null,
+      "percent": 0.04
+    },
+    {
+      "ticker": null,
+      "percent": 0.04
+    },
+    {
+      "ticker": null,
+      "percent": 0.04
+    },
+    {
+      "ticker": null,
+      "percent": 0.04
+    },
+    {
+      "ticker": null,
+      "percent": 0.04
+    },
+    {
+      "ticker": null,
+      "percent": 0.04
+    },
+    {
+      "ticker": null,
+      "percent": 0.04
+    },
+    {
+      "ticker": null,
+      "percent": 0.04
+    },
+    {
+      "ticker": null,
+      "percent": 0.04
+    },
+    {
+      "ticker": null,
+      "percent": 0.04
+    },
+    {
+      "ticker": null,
+      "percent": 0.04
+    },
+    {
+      "ticker": null,
+      "percent": 0.04
+    },
+    {
+      "ticker": null,
+      "percent": 0.04
+    },
+    {
+      "ticker": null,
+      "percent": 0.04
+    },
+    {
+      "ticker": null,
+      "percent": 0.04
+    },
+    {
+      "ticker": null,
+      "percent": 0.04
+    },
+    {
+      "ticker": "BEN",
+      "percent": 0.04
+    },
+    {
+      "ticker": null,
+      "percent": 0.04
+    },
+    {
+      "ticker": null,
+      "percent": 0.04
+    },
+    {
+      "ticker": null,
+      "percent": 0.04
+    },
+    {
+      "ticker": "CAR",
+      "percent": 0.04
+    },
+    {
+      "ticker": null,
+      "percent": 0.04
+    },
+    {
+      "ticker": null,
+      "percent": 0.04
+    },
+    {
+      "ticker": null,
+      "percent": 0.04
+    },
+    {
+      "ticker": null,
+      "percent": 0.04
+    },
+    {
+      "ticker": null,
+      "percent": 0.04
+    },
+    {
+      "ticker": null,
+      "percent": 0.04
+    },
+    {
+      "ticker": null,
+      "percent": 0.04
+    },
+    {
+      "ticker": null,
+      "percent": 0.04
+    },
+    {
+      "ticker": null,
+      "percent": 0.04
+    },
+    {
+      "ticker": null,
+      "percent": 0.04
+    },
+    {
+      "ticker": null,
+      "percent": 0.04
+    },
+    {
+      "ticker": null,
+      "percent": 0.04
+    },
+    {
+      "ticker": null,
+      "percent": 0.04
+    },
+    {
+      "ticker": null,
+      "percent": 0.04
+    },
+    {
+      "ticker": null,
+      "percent": 0.04
+    },
+    {
+      "ticker": null,
+      "percent": 0.04
+    },
+    {
+      "ticker": "ALU",
+      "percent": 0.04
+    },
+    {
+      "ticker": null,
+      "percent": 0.04
+    },
+    {
+      "ticker": null,
+      "percent": 0.04
+    },
+    {
+      "ticker": null,
+      "percent": 0.04
+    },
+    {
+      "ticker": null,
+      "percent": 0.02
+    },
+    {
+      "ticker": null,
+      "percent": 0.02
+    },
+    {
+      "ticker": null,
+      "percent": 0.02
+    },
+    {
+      "ticker": null,
+      "percent": 0.02
+    },
+    {
+      "ticker": null,
+      "percent": 0.02
+    },
+    {
+      "ticker": null,
+      "percent": 0.02
+    },
+    {
+      "ticker": null,
+      "percent": 0.02
+    },
+    {
+      "ticker": null,
+      "percent": 0.02
+    },
+    {
+      "ticker": null,
+      "percent": 0.02
+    },
+    {
+      "ticker": null,
+      "percent": 0.02
+    },
+    {
+      "ticker": null,
+      "percent": 0.02
+    },
+    {
+      "ticker": null,
+      "percent": 0.02
+    },
+    {
+      "ticker": null,
+      "percent": 0.02
+    },
+    {
+      "ticker": "SBM",
+      "percent": 0.02
+    },
+    {
+      "ticker": null,
+      "percent": 0.02
+    },
+    {
+      "ticker": null,
+      "percent": 0.02
+    },
+    {
+      "ticker": null,
+      "percent": 0.02
+    },
+    {
+      "ticker": null,
+      "percent": 0.02
+    },
+    {
+      "ticker": null,
+      "percent": 0.02
+    },
+    {
+      "ticker": null,
+      "percent": 0.02
+    },
+    {
+      "ticker": null,
+      "percent": 0.02
+    },
+    {
+      "ticker": null,
+      "percent": 0.02
+    },
+    {
+      "ticker": null,
+      "percent": 0.02
+    },
+    {
+      "ticker": null,
+      "percent": 0.02
+    },
+    {
+      "ticker": null,
+      "percent": 0.02
+    },
+    {
+      "ticker": null,
+      "percent": 0.02
+    },
+    {
+      "ticker": null,
+      "percent": 0.02
+    },
+    {
+      "ticker": null,
+      "percent": 0.02
+    },
+    {
+      "ticker": null,
+      "percent": 0.02
+    },
+    {
+      "ticker": null,
+      "percent": 0.02
+    },
+    {
+      "ticker": null,
+      "percent": 0.02
+    },
+    {
+      "ticker": null,
+      "percent": 0.02
+    },
+    {
+      "ticker": null,
+      "percent": 0.02
+    },
+    {
+      "ticker": null,
+      "percent": 0.02
+    },
+    {
+      "ticker": null,
+      "percent": 0.02
+    },
+    {
+      "ticker": null,
+      "percent": 0.02
+    },
+    {
+      "ticker": null,
+      "percent": 0.02
+    },
+    {
+      "ticker": null,
+      "percent": 0.02
+    },
+    {
+      "ticker": null,
+      "percent": 0.02
+    },
+    {
+      "ticker": null,
+      "percent": 0.02
+    },
+    {
+      "ticker": null,
+      "percent": 0.02
+    },
+    {
+      "ticker": null,
+      "percent": 0.02
+    },
+    {
+      "ticker": null,
+      "percent": 0.02
+    },
+    {
+      "ticker": "NHF",
+      "percent": 0.02
+    },
+    {
+      "ticker": null,
+      "percent": 0.02
+    },
+    {
+      "ticker": "GMT",
+      "percent": 0.02
+    },
+    {
+      "ticker": null,
+      "percent": 0.02
+    },
+    {
+      "ticker": null,
+      "percent": 0.02
+    },
+    {
+      "ticker": null,
+      "percent": 0.02
+    },
+    {
+      "ticker": null,
+      "percent": 0.02
+    },
+    {
+      "ticker": null,
+      "percent": 0.02
+    },
+    {
+      "ticker": null,
+      "percent": 0.02
+    },
+    {
+      "ticker": null,
+      "percent": 0.02
+    },
+    {
+      "ticker": null,
+      "percent": 0.02
+    },
+    {
+      "ticker": null,
+      "percent": 0.02
+    },
+    {
+      "ticker": null,
+      "percent": 0.02
+    },
+    {
+      "ticker": null,
+      "percent": 0.02
+    },
+    {
+      "ticker": null,
+      "percent": 0.02
+    },
+    {
+      "ticker": null,
+      "percent": 0.02
+    },
+    {
+      "ticker": null,
+      "percent": 0.02
+    },
+    {
+      "ticker": null,
+      "percent": 0.02
+    },
+    {
+      "ticker": null,
+      "percent": 0.02
+    },
+    {
+      "ticker": null,
+      "percent": 0.02
+    },
+    {
+      "ticker": null,
+      "percent": 0.02
+    },
+    {
+      "ticker": null,
+      "percent": 0.02
+    },
+    {
+      "ticker": null,
+      "percent": 0.02
+    },
+    {
+      "ticker": null,
+      "percent": 0.02
+    },
+    {
+      "ticker": null,
+      "percent": 0.02
+    },
+    {
+      "ticker": null,
+      "percent": 0.02
+    },
+    {
+      "ticker": null,
+      "percent": 0.02
+    },
+    {
+      "ticker": null,
+      "percent": 0.02
+    },
+    {
+      "ticker": "VEA",
+      "percent": 0.02
+    },
+    {
+      "ticker": null,
+      "percent": 0.02
+    },
+    {
+      "ticker": null,
+      "percent": 0.02
+    },
+    {
+      "ticker": null,
+      "percent": 0.02
+    },
+    {
+      "ticker": null,
+      "percent": 0.02
+    },
+    {
+      "ticker": null,
+      "percent": 0.02
+    },
+    {
+      "ticker": null,
+      "percent": 0.02
+    },
+    {
+      "ticker": null,
+      "percent": 0.02
+    },
+    {
+      "ticker": null,
+      "percent": 0.02
+    },
+    {
+      "ticker": null,
+      "percent": 0.02
+    },
+    {
+      "ticker": null,
+      "percent": 0.02
+    },
+    {
+      "ticker": null,
+      "percent": 0.02
+    },
+    {
+      "ticker": null,
+      "percent": 0.02
+    },
+    {
+      "ticker": null,
+      "percent": 0.02
+    },
+    {
+      "ticker": null,
+      "percent": 0.02
+    },
+    {
+      "ticker": null,
+      "percent": 0.02
+    },
+    {
+      "ticker": null,
+      "percent": 0.02
+    },
+    {
+      "ticker": null,
+      "percent": 0.02
+    },
+    {
+      "ticker": "NSR",
+      "percent": 0.02
+    },
+    {
+      "ticker": "HMN",
+      "percent": 0.02
+    },
+    {
+      "ticker": null,
+      "percent": 0.02
+    },
+    {
+      "ticker": null,
+      "percent": 0.02
+    },
+    {
+      "ticker": null,
+      "percent": 0.02
+    },
+    {
+      "ticker": null,
+      "percent": 0.02
+    },
+    {
+      "ticker": null,
+      "percent": 0.02
+    },
+    {
+      "ticker": null,
+      "percent": 0.02
+    },
+    {
+      "ticker": null,
+      "percent": 0.02
+    },
+    {
+      "ticker": null,
+      "percent": 0.02
+    },
+    {
+      "ticker": "BWP",
+      "percent": 0.02
+    },
+    {
+      "ticker": null,
+      "percent": 0.02
+    },
+    {
+      "ticker": null,
+      "percent": 0.02
+    },
+    {
+      "ticker": null,
+      "percent": 0.02
+    },
+    {
+      "ticker": null,
+      "percent": 0.02
+    },
+    {
+      "ticker": null,
+      "percent": 0.02
+    },
+    {
+      "ticker": null,
+      "percent": 0.02
+    },
+    {
+      "ticker": "CLW",
+      "percent": 0.02
+    },
+    {
+      "ticker": null,
+      "percent": 0.02
+    },
+    {
+      "ticker": null,
+      "percent": 0.02
+    },
+    {
+      "ticker": null,
+      "percent": 0.02
+    },
+    {
+      "ticker": null,
+      "percent": 0.02
+    },
+    {
+      "ticker": null,
+      "percent": 0.02
+    },
+    {
+      "ticker": null,
+      "percent": 0.02
+    },
+    {
+      "ticker": null,
+      "percent": 0.01
+    },
+    {
+      "ticker": null,
+      "percent": 0.01
+    },
+    {
+      "ticker": null,
+      "percent": 0.01
+    },
+    {
+      "ticker": null,
+      "percent": 0.01
+    },
+    {
+      "ticker": null,
+      "percent": 0.01
+    },
+    {
+      "ticker": null,
+      "percent": 0.01
+    },
+    {
+      "ticker": null,
+      "percent": 0.01
+    },
+    {
+      "ticker": null,
+      "percent": 0.01
+    },
+    {
+      "ticker": null,
+      "percent": 0.01
+    },
+    {
+      "ticker": null,
+      "percent": 0.01
+    },
+    {
+      "ticker": null,
+      "percent": 0.01
+    },
+    {
+      "ticker": null,
+      "percent": 0.01
+    },
+    {
+      "ticker": null,
+      "percent": 0.01
+    },
+    {
+      "ticker": null,
+      "percent": 0.01
+    },
+    {
+      "ticker": null,
+      "percent": 0.01
+    },
+    {
+      "ticker": null,
+      "percent": 0.01
+    },
+    {
+      "ticker": null,
+      "percent": 0.01
+    },
+    {
+      "ticker": null,
+      "percent": 0.01
+    },
+    {
+      "ticker": null,
+      "percent": 0.01
+    },
+    {
+      "ticker": null,
+      "percent": 0.01
+    },
+    {
+      "ticker": null,
+      "percent": 0.01
+    },
+    {
+      "ticker": null,
+      "percent": 0.01
+    },
+    {
+      "ticker": null,
+      "percent": 0.01
+    },
+    {
+      "ticker": null,
+      "percent": 0.01
+    },
+    {
+      "ticker": null,
+      "percent": 0.01
+    },
+    {
+      "ticker": null,
+      "percent": 0.01
+    },
+    {
+      "ticker": null,
+      "percent": 0.01
+    },
+    {
+      "ticker": null,
+      "percent": 0.01
+    },
+    {
+      "ticker": null,
+      "percent": 0.01
+    },
+    {
+      "ticker": null,
+      "percent": 0.01
+    },
+    {
+      "ticker": "WEB",
+      "percent": 0.01
+    },
+    {
+      "ticker": "PPT",
+      "percent": 0.01
+    },
+    {
+      "ticker": null,
+      "percent": 0.01
+    },
+    {
+      "ticker": null,
+      "percent": 0.01
+    },
+    {
+      "ticker": null,
+      "percent": 0.01
+    },
+    {
+      "ticker": null,
+      "percent": 0.01
+    },
+    {
+      "ticker": null,
+      "percent": 0.01
+    },
+    {
+      "ticker": null,
+      "percent": 0.01
+    },
+    {
+      "ticker": null,
+      "percent": 0.01
+    },
+    {
+      "ticker": null,
+      "percent": 0.01
+    },
+    {
+      "ticker": null,
+      "percent": 0.01
+    },
+    {
+      "ticker": null,
+      "percent": 0.01
+    },
+    {
+      "ticker": null,
+      "percent": 0.01
+    },
+    {
+      "ticker": null,
+      "percent": 0.01
+    },
+    {
+      "ticker": null,
+      "percent": 0.01
+    },
+    {
+      "ticker": null,
+      "percent": 0.01
+    },
+    {
+      "ticker": null,
+      "percent": 0.01
+    },
+    {
+      "ticker": null,
+      "percent": 0.01
+    },
+    {
+      "ticker": null,
+      "percent": 0.01
+    },
+    {
+      "ticker": null,
+      "percent": 0.01
+    },
+    {
+      "ticker": null,
+      "percent": 0.01
+    },
+    {
+      "ticker": null,
+      "percent": 0.01
+    },
+    {
+      "ticker": null,
+      "percent": 0.01
+    },
+    {
+      "ticker": null,
+      "percent": 0.01
+    },
+    {
+      "ticker": null,
+      "percent": 0.01
+    },
+    {
+      "ticker": null,
+      "percent": 0.01
+    },
+    {
+      "ticker": null,
+      "percent": 0.01
+    },
+    {
+      "ticker": null,
+      "percent": 0.01
+    },
+    {
+      "ticker": "ARB",
+      "percent": 0.01
+    },
+    {
+      "ticker": null,
+      "percent": 0.01
+    },
+    {
+      "ticker": null,
+      "percent": 0.01
+    },
+    {
+      "ticker": null,
+      "percent": 0.01
+    },
+    {
+      "ticker": null,
+      "percent": 0.01
+    },
+    {
+      "ticker": null,
+      "percent": 0.01
+    },
+    {
+      "ticker": null,
+      "percent": 0.01
+    },
+    {
+      "ticker": null,
+      "percent": 0.01
+    },
+    {
+      "ticker": null,
+      "percent": 0.01
+    },
+    {
+      "ticker": null,
+      "percent": 0.01
+    },
+    {
+      "ticker": null,
+      "percent": 0.01
+    },
+    {
+      "ticker": null,
+      "percent": 0.01
+    },
+    {
+      "ticker": "PTM",
+      "percent": 0.01
+    },
+    {
+      "ticker": null,
+      "percent": 0.01
+    },
+    {
+      "ticker": null,
+      "percent": 0.01
+    },
+    {
+      "ticker": null,
+      "percent": 0.01
+    },
+    {
+      "ticker": null,
+      "percent": 0.01
+    },
+    {
+      "ticker": null,
+      "percent": 0.01
+    },
+    {
+      "ticker": null,
+      "percent": 0.01
+    },
+    {
+      "ticker": null,
+      "percent": 0.01
+    },
+    {
+      "ticker": null,
+      "percent": 0.01
+    },
+    {
+      "ticker": null,
+      "percent": 0.01
+    },
+    {
+      "ticker": "CGC",
+      "percent": 0.01
+    },
+    {
+      "ticker": null,
+      "percent": 0.01
+    },
+    {
+      "ticker": null,
+      "percent": 0.01
+    },
+    {
+      "ticker": null,
+      "percent": 0.01
+    },
+    {
+      "ticker": null,
+      "percent": 0.01
+    },
+    {
+      "ticker": null,
+      "percent": 0.01
+    },
+    {
+      "ticker": null,
+      "percent": 0.01
+    },
+    {
+      "ticker": null,
+      "percent": 0.01
+    },
+    {
+      "ticker": "PME",
+      "percent": 0.01
+    },
+    {
+      "ticker": null,
+      "percent": 0.01
+    },
+    {
+      "ticker": null,
+      "percent": 0.01
+    },
+    {
+      "ticker": null,
+      "percent": 0.01
+    },
+    {
+      "ticker": null,
+      "percent": 0.01
+    },
+    {
+      "ticker": null,
+      "percent": 0.01
+    },
+    {
+      "ticker": "CIA",
+      "percent": 0.01
+    },
+    {
+      "ticker": null,
+      "percent": 0.01
+    },
+    {
+      "ticker": null,
+      "percent": 0.01
+    },
+    {
+      "ticker": null,
+      "percent": 0.01
+    },
+    {
+      "ticker": null,
+      "percent": 0.01
+    },
+    {
+      "ticker": null,
+      "percent": 0.01
+    },
+    {
+      "ticker": null,
+      "percent": 0.01
+    },
+    {
+      "ticker": null,
+      "percent": 0.01
+    },
+    {
+      "ticker": null,
+      "percent": 0.01
+    },
+    {
+      "ticker": null,
+      "percent": 0.01
+    },
+    {
+      "ticker": null,
+      "percent": 0.01
+    },
+    {
+      "ticker": null,
+      "percent": 0.01
+    },
+    {
+      "ticker": null,
+      "percent": 0.01
+    },
+    {
+      "ticker": null,
+      "percent": 0.01
+    },
+    {
+      "ticker": "ASB",
+      "percent": 0.01
+    },
+    {
+      "ticker": "BIN",
+      "percent": 0.01
+    },
+    {
+      "ticker": null,
+      "percent": 0.01
+    },
+    {
+      "ticker": null,
+      "percent": 0.01
+    },
+    {
+      "ticker": null,
+      "percent": 0.01
+    },
+    {
+      "ticker": null,
+      "percent": 0.01
+    },
+    {
+      "ticker": "RSG",
+      "percent": 0.01
+    },
+    {
+      "ticker": null,
+      "percent": 0.01
+    },
+    {
+      "ticker": null,
+      "percent": 0.01
+    },
+    {
+      "ticker": null,
+      "percent": 0.01
+    },
+    {
+      "ticker": null,
+      "percent": 0.01
+    },
+    {
+      "ticker": null,
+      "percent": 3.05
+    },
+    {
+      "ticker": null,
+      "percent": 2.27
+    },
+    {
+      "ticker": null,
+      "percent": 1.66
+    },
+    {
+      "ticker": "CSL",
+      "percent": 1.32
+    },
+    {
+      "ticker": "CBA",
+      "percent": 1.26
+    },
+    {
+      "ticker": null,
+      "percent": 1.23
+    },
+    {
+      "ticker": null,
+      "percent": 1.19
+    },
+    {
+      "ticker": null,
+      "percent": 1.1
+    },
+    {
+      "ticker": "BHP",
+      "percent": 1.08
+    },
+    {
+      "ticker": null,
+      "percent": 0.8
+    },
+    {
+      "ticker": null,
+      "percent": 0.79
+    },
+    {
+      "ticker": null,
+      "percent": 0.76
+    },
+    {
+      "ticker": null,
+      "percent": 0.74
+    },
+    {
+      "ticker": null,
+      "percent": 0.72
+    },
+    {
+      "ticker": null,
+      "percent": 0.7
+    },
+    {
+      "ticker": null,
+      "percent": 0.68
+    },
+    {
+      "ticker": "WBC",
+      "percent": 0.66
+    },
+    {
+      "ticker": null,
+      "percent": 0.64
+    },
+    {
+      "ticker": null,
+      "percent": 0.64
+    },
+    {
+      "ticker": null,
+      "percent": 0.63
+    },
+    {
+      "ticker": null,
+      "percent": 0.59
+    },
+    {
+      "ticker": null,
+      "percent": 0.54
+    },
+    {
+      "ticker": null,
+      "percent": 0.54
+    },
+    {
+      "ticker": null,
+      "percent": 0.54
+    },
+    {
+      "ticker": null,
+      "percent": 0.54
+    },
+    {
+      "ticker": null,
+      "percent": 0.53
+    },
+    {
+      "ticker": "WES",
+      "percent": 0.52
+    },
+    {
+      "ticker": null,
+      "percent": 0.51
+    },
+    {
+      "ticker": null,
+      "percent": 0.51
+    },
+    {
+      "ticker": null,
+      "percent": 0.51
+    },
+    {
+      "ticker": null,
+      "percent": 0.49
+    },
+    {
+      "ticker": "WOW",
+      "percent": 0.48
+    },
+    {
+      "ticker": null,
+      "percent": 0.47
+    },
+    {
+      "ticker": null,
+      "percent": 0.46
+    },
+    {
+      "ticker": null,
+      "percent": 0.46
+    },
+    {
+      "ticker": null,
+      "percent": 0.46
+    },
+    {
+      "ticker": null,
+      "percent": 0.44
+    },
+    {
+      "ticker": null,
+      "percent": 0.43
+    },
+    {
+      "ticker": null,
+      "percent": 0.43
+    },
+    {
+      "ticker": null,
+      "percent": 0.43
+    },
+    {
+      "ticker": null,
+      "percent": 0.43
+    },
+    {
+      "ticker": null,
+      "percent": 0.43
+    },
+    {
+      "ticker": null,
+      "percent": 0.42
+    },
+    {
+      "ticker": null,
+      "percent": 0.41
+    },
+    {
+      "ticker": null,
+      "percent": 0.41
+    },
+    {
+      "ticker": null,
+      "percent": 0.4
+    },
+    {
+      "ticker": null,
+      "percent": 0.39
+    },
+    {
+      "ticker": null,
+      "percent": 0.39
+    },
+    {
+      "ticker": null,
+      "percent": 0.39
+    },
+    {
+      "ticker": null,
+      "percent": 0.38
+    },
+    {
+      "ticker": "RIO",
+      "percent": 0.37
+    },
+    {
+      "ticker": null,
+      "percent": 0.37
+    },
+    {
+      "ticker": null,
+      "percent": 0.37
+    },
+    {
+      "ticker": null,
+      "percent": 0.37
+    },
+    {
+      "ticker": null,
+      "percent": 0.37
+    },
+    {
+      "ticker": null,
+      "percent": 0.36
+    },
+    {
+      "ticker": null,
+      "percent": 0.36
+    },
+    {
+      "ticker": null,
+      "percent": 0.36
+    },
+    {
+      "ticker": null,
+      "percent": 0.34
+    },
+    {
+      "ticker": null,
+      "percent": 0.33
+    },
+    {
+      "ticker": null,
+      "percent": 0.32
+    },
+    {
+      "ticker": null,
+      "percent": 0.32
+    },
+    {
+      "ticker": null,
+      "percent": 0.31
+    },
+    {
+      "ticker": null,
+      "percent": 0.3
+    },
+    {
+      "ticker": null,
+      "percent": 0.29
+    },
+    {
+      "ticker": null,
+      "percent": 0.28
+    },
+    {
+      "ticker": null,
+      "percent": 0.28
+    },
+    {
+      "ticker": null,
+      "percent": 0.28
+    },
+    {
+      "ticker": null,
+      "percent": 0.27
+    },
+    {
+      "ticker": null,
+      "percent": 0.27
+    },
+    {
+      "ticker": null,
+      "percent": 0.27
+    },
+    {
+      "ticker": null,
+      "percent": 0.27
+    },
+    {
+      "ticker": null,
+      "percent": 0.27
+    },
+    {
+      "ticker": null,
+      "percent": 0.26
+    },
+    {
+      "ticker": null,
+      "percent": 0.26
+    },
+    {
+      "ticker": null,
+      "percent": 0.26
+    },
+    {
+      "ticker": null,
+      "percent": 0.25
+    },
+    {
+      "ticker": null,
+      "percent": 0.25
+    },
+    {
+      "ticker": null,
+      "percent": 0.25
+    },
+    {
+      "ticker": null,
+      "percent": 0.25
+    },
+    {
+      "ticker": null,
+      "percent": 0.25
+    },
+    {
+      "ticker": null,
+      "percent": 0.25
+    },
+    {
+      "ticker": null,
+      "percent": 0.24
+    },
+    {
+      "ticker": null,
+      "percent": 0.24
+    },
+    {
+      "ticker": null,
+      "percent": 0.24
+    },
+    {
+      "ticker": "AMC",
+      "percent": 0.24
+    },
+    {
+      "ticker": null,
+      "percent": 0.24
+    },
+    {
+      "ticker": null,
+      "percent": 0.24
+    },
+    {
+      "ticker": null,
+      "percent": 0.24
+    },
+    {
+      "ticker": null,
+      "percent": 0.23
+    },
+    {
+      "ticker": null,
+      "percent": 0.23
+    },
+    {
+      "ticker": null,
+      "percent": 0.23
+    },
+    {
+      "ticker": null,
+      "percent": 0.23
+    },
+    {
+      "ticker": null,
+      "percent": 0.23
+    },
+    {
+      "ticker": null,
+      "percent": 0.23
+    },
+    {
+      "ticker": null,
+      "percent": 0.22
+    },
+    {
+      "ticker": null,
+      "percent": 0.04
+    },
+    {
+      "ticker": null,
+      "percent": 0.04
+    },
+    {
+      "ticker": null,
+      "percent": 0.04
+    },
+    {
+      "ticker": null,
+      "percent": 0.04
+    },
+    {
+      "ticker": null,
+      "percent": 0.04
+    },
+    {
+      "ticker": null,
+      "percent": 0.04
+    },
+    {
+      "ticker": null,
+      "percent": 0.04
+    },
+    {
+      "ticker": null,
+      "percent": 0.04
+    },
+    {
+      "ticker": null,
+      "percent": 0.04
+    },
+    {
+      "ticker": null,
+      "percent": 0.04
+    },
+    {
+      "ticker": null,
+      "percent": 0.04
+    },
+    {
+      "ticker": null,
+      "percent": 0.04
+    },
+    {
+      "ticker": null,
+      "percent": 0.03
+    },
+    {
+      "ticker": null,
+      "percent": 0.03
+    },
+    {
+      "ticker": null,
+      "percent": 0.03
+    },
+    {
+      "ticker": null,
+      "percent": 0.03
+    },
+    {
+      "ticker": null,
+      "percent": 0.03
+    },
+    {
+      "ticker": null,
+      "percent": 0.03
+    },
+    {
+      "ticker": null,
+      "percent": 0.03
+    },
+    {
+      "ticker": null,
+      "percent": 0.03
+    },
+    {
+      "ticker": null,
+      "percent": 0.03
+    },
+    {
+      "ticker": null,
+      "percent": 0.03
+    },
+    {
+      "ticker": null,
+      "percent": 0.03
+    },
+    {
+      "ticker": null,
+      "percent": 0.03
+    },
+    {
+      "ticker": null,
+      "percent": 0.03
+    },
+    {
+      "ticker": null,
+      "percent": 0.03
+    },
+    {
+      "ticker": null,
+      "percent": 0.03
+    },
+    {
+      "ticker": null,
+      "percent": 0.03
+    },
+    {
+      "ticker": null,
+      "percent": 0.03
+    },
+    {
+      "ticker": null,
+      "percent": 0.03
+    },
+    {
+      "ticker": null,
+      "percent": 0.03
+    },
+    {
+      "ticker": null,
+      "percent": 0.03
+    },
+    {
+      "ticker": null,
+      "percent": 0.03
+    },
+    {
+      "ticker": null,
+      "percent": 0.03
+    },
+    {
+      "ticker": null,
+      "percent": 0.03
+    },
+    {
+      "ticker": null,
+      "percent": 0.03
+    },
+    {
+      "ticker": null,
+      "percent": 0.03
+    },
+    {
+      "ticker": null,
+      "percent": 0.03
+    },
+    {
+      "ticker": null,
+      "percent": 0.03
+    },
+    {
+      "ticker": null,
+      "percent": 0.03
+    },
+    {
+      "ticker": null,
+      "percent": 0.03
+    },
+    {
+      "ticker": null,
+      "percent": 0.03
+    },
+    {
+      "ticker": null,
+      "percent": 0.03
+    },
+    {
+      "ticker": null,
+      "percent": 0.03
+    },
+    {
+      "ticker": null,
+      "percent": 0.03
+    },
+    {
+      "ticker": null,
+      "percent": 0.03
+    },
+    {
+      "ticker": null,
+      "percent": 0.03
+    },
+    {
+      "ticker": null,
+      "percent": 0.03
+    },
+    {
+      "ticker": null,
+      "percent": 0.03
+    },
+    {
+      "ticker": null,
+      "percent": 0.03
+    },
+    {
+      "ticker": null,
+      "percent": 0.03
+    },
+    {
+      "ticker": null,
+      "percent": 0.03
+    },
+    {
+      "ticker": null,
+      "percent": 0.03
+    },
+    {
+      "ticker": "AST",
+      "percent": 0.03
+    },
+    {
+      "ticker": null,
+      "percent": 0.03
+    },
+    {
+      "ticker": null,
+      "percent": 0.03
+    },
+    {
+      "ticker": null,
+      "percent": 0.03
+    },
+    {
+      "ticker": "MIN",
+      "percent": 0.03
+    },
+    {
+      "ticker": null,
+      "percent": 0.03
+    },
+    {
+      "ticker": "BRG",
+      "percent": 0.03
+    },
+    {
+      "ticker": null,
+      "percent": 0.03
+    },
+    {
+      "ticker": null,
+      "percent": 0.03
+    },
+    {
+      "ticker": null,
+      "percent": 0.03
+    },
+    {
+      "ticker": null,
+      "percent": 0.03
+    },
+    {
+      "ticker": null,
+      "percent": 0.03
+    },
+    {
+      "ticker": null,
+      "percent": 0.03
+    },
+    {
+      "ticker": null,
+      "percent": 0.03
+    },
+    {
+      "ticker": "MCY",
+      "percent": 0.03
+    },
+    {
+      "ticker": null,
+      "percent": 0.03
+    },
+    {
+      "ticker": null,
+      "percent": 0.03
+    },
+    {
+      "ticker": null,
+      "percent": 0.03
+    },
+    {
+      "ticker": null,
+      "percent": 0.03
+    },
+    {
+      "ticker": null,
+      "percent": 0.03
+    },
+    {
+      "ticker": null,
+      "percent": 0.03
+    },
+    {
+      "ticker": null,
+      "percent": 0.03
+    },
+    {
+      "ticker": null,
+      "percent": 0.03
+    },
+    {
+      "ticker": null,
+      "percent": 0.03
+    },
+    {
+      "ticker": null,
+      "percent": 0.03
+    },
+    {
+      "ticker": null,
+      "percent": 0.03
+    },
+    {
+      "ticker": null,
+      "percent": 0.03
+    },
+    {
+      "ticker": null,
+      "percent": 0.03
+    },
+    {
+      "ticker": null,
+      "percent": 0.03
+    },
+    {
+      "ticker": null,
+      "percent": 0.03
+    },
+    {
+      "ticker": null,
+      "percent": 0.03
+    },
+    {
+      "ticker": "WOR",
+      "percent": 0.03
+    },
+    {
+      "ticker": null,
+      "percent": 0.03
+    },
+    {
+      "ticker": null,
+      "percent": 0.03
+    },
+    {
+      "ticker": null,
+      "percent": 0.03
+    },
+    {
+      "ticker": null,
+      "percent": 0.03
+    },
+    {
+      "ticker": null,
+      "percent": 0.03
+    },
+    {
+      "ticker": null,
+      "percent": 0.03
+    },
+    {
+      "ticker": null,
+      "percent": 0.03
+    },
+    {
+      "ticker": null,
+      "percent": 0.03
+    },
+    {
+      "ticker": null,
+      "percent": 0.03
+    },
+    {
+      "ticker": null,
+      "percent": 0.03
+    },
+    {
+      "ticker": null,
+      "percent": 0.03
+    },
+    {
+      "ticker": null,
+      "percent": 0.03
+    },
+    {
+      "ticker": null,
+      "percent": 0.03
+    },
+    {
+      "ticker": null,
+      "percent": 0.03
+    },
+    {
+      "ticker": null,
+      "percent": 0.03
+    },
+    {
+      "ticker": null,
+      "percent": 0.03
+    },
+    {
+      "ticker": "BPT",
+      "percent": 0.03
+    },
+    {
+      "ticker": null,
+      "percent": 0.03
+    },
+    {
+      "ticker": null,
+      "percent": 0.03
+    },
+    {
+      "ticker": null,
+      "percent": 0.03
+    },
+    {
+      "ticker": null,
+      "percent": 0.03
+    },
+    {
+      "ticker": null,
+      "percent": 0.03
+    },
+    {
+      "ticker": null,
+      "percent": 0.03
+    },
+    {
+      "ticker": null,
+      "percent": 0.03
+    },
+    {
+      "ticker": null,
+      "percent": 0.03
+    },
+    {
+      "ticker": "DOW",
+      "percent": 0.03
+    },
+    {
+      "ticker": null,
+      "percent": 0.03
+    },
+    {
+      "ticker": null,
+      "percent": 0.03
+    },
+    {
+      "ticker": null,
+      "percent": 0.03
+    },
+    {
+      "ticker": null,
+      "percent": 0.03
+    },
+    {
+      "ticker": null,
+      "percent": 0.03
+    },
+    {
+      "ticker": null,
+      "percent": 0.03
+    },
+    {
+      "ticker": null,
+      "percent": 0.03
+    },
+    {
+      "ticker": null,
+      "percent": 0.03
+    },
+    {
+      "ticker": null,
+      "percent": 0.03
+    },
+    {
+      "ticker": null,
+      "percent": 0.03
+    },
+    {
+      "ticker": null,
+      "percent": 0.03
+    },
+    {
+      "ticker": null,
+      "percent": 0.03
+    },
+    {
+      "ticker": null,
+      "percent": 0.03
+    },
+    {
+      "ticker": null,
+      "percent": 0.03
+    },
+    {
+      "ticker": null,
+      "percent": 0.03
+    },
+    {
+      "ticker": null,
+      "percent": 0.03
+    },
+    {
+      "ticker": null,
+      "percent": 0.03
+    },
+    {
+      "ticker": null,
+      "percent": 0.03
+    },
+    {
+      "ticker": null,
+      "percent": 0.03
+    },
+    {
+      "ticker": null,
+      "percent": 0.03
+    },
+    {
+      "ticker": null,
+      "percent": 0.03
+    },
+    {
+      "ticker": null,
+      "percent": 0.03
+    },
+    {
+      "ticker": null,
+      "percent": 0.03
+    },
+    {
+      "ticker": "ORA",
+      "percent": 0.03
+    },
+    {
+      "ticker": null,
+      "percent": 0.03
+    },
+    {
+      "ticker": null,
+      "percent": 0.03
+    },
+    {
+      "ticker": null,
+      "percent": 0.03
+    },
+    {
+      "ticker": null,
+      "percent": 0.03
+    },
+    {
+      "ticker": null,
+      "percent": 0.02
+    },
+    {
+      "ticker": null,
+      "percent": 0.02
+    },
+    {
+      "ticker": null,
+      "percent": 0.02
+    },
+    {
+      "ticker": null,
+      "percent": 0.02
+    },
+    {
+      "ticker": null,
+      "percent": 0.02
+    },
+    {
+      "ticker": null,
+      "percent": 0.02
+    },
+    {
+      "ticker": null,
+      "percent": 0.02
+    },
+    {
+      "ticker": null,
+      "percent": 0.02
+    },
+    {
+      "ticker": null,
+      "percent": 0.02
+    },
+    {
+      "ticker": null,
+      "percent": 0.02
+    },
+    {
+      "ticker": null,
+      "percent": 0.02
+    },
+    {
+      "ticker": "RWC",
+      "percent": 0.02
+    },
+    {
+      "ticker": null,
+      "percent": 0.02
+    },
+    {
+      "ticker": "CIM",
+      "percent": 0.02
+    },
+    {
+      "ticker": "VOC",
+      "percent": 0.02
+    },
+    {
+      "ticker": null,
+      "percent": 0.02
+    },
+    {
+      "ticker": "SOL",
+      "percent": 0.02
+    },
+    {
+      "ticker": null,
+      "percent": 0.02
+    },
+    {
+      "ticker": null,
+      "percent": 0.02
+    },
+    {
+      "ticker": null,
+      "percent": 0.02
+    },
+    {
+      "ticker": null,
+      "percent": 0.02
+    },
+    {
+      "ticker": null,
+      "percent": 0.02
+    },
+    {
+      "ticker": null,
+      "percent": 0.02
+    },
+    {
+      "ticker": null,
+      "percent": 0.02
+    },
+    {
+      "ticker": null,
+      "percent": 0.02
+    },
+    {
+      "ticker": null,
+      "percent": 0.02
+    },
+    {
+      "ticker": null,
+      "percent": 0.02
+    },
+    {
+      "ticker": null,
+      "percent": 0.02
+    },
+    {
+      "ticker": null,
+      "percent": 0.02
+    },
+    {
+      "ticker": "BAP",
+      "percent": 0.02
+    },
+    {
+      "ticker": null,
+      "percent": 0.02
+    },
+    {
+      "ticker": null,
+      "percent": 0.02
+    },
+    {
+      "ticker": null,
+      "percent": 0.02
+    },
+    {
+      "ticker": null,
+      "percent": 0.02
+    },
+    {
+      "ticker": "HLS",
+      "percent": 0.02
+    },
+    {
+      "ticker": null,
+      "percent": 0.02
+    },
+    {
+      "ticker": null,
+      "percent": 0.02
+    },
+    {
+      "ticker": null,
+      "percent": 0.02
+    },
+    {
+      "ticker": null,
+      "percent": 0.02
+    },
+    {
+      "ticker": null,
+      "percent": 0.02
+    },
+    {
+      "ticker": null,
+      "percent": 0.02
+    },
+    {
+      "ticker": null,
+      "percent": 0.02
+    },
+    {
+      "ticker": null,
+      "percent": 0.02
+    },
+    {
+      "ticker": null,
+      "percent": 0.02
+    },
+    {
+      "ticker": null,
+      "percent": 0.02
+    },
+    {
+      "ticker": null,
+      "percent": 0.02
+    },
+    {
+      "ticker": null,
+      "percent": 0.02
+    },
+    {
+      "ticker": null,
+      "percent": 0.02
+    },
+    {
+      "ticker": null,
+      "percent": 0.02
+    },
+    {
+      "ticker": null,
+      "percent": 0.02
+    },
+    {
+      "ticker": null,
+      "percent": 0.02
+    },
+    {
+      "ticker": null,
+      "percent": 0.02
+    },
+    {
+      "ticker": null,
+      "percent": 0.02
+    },
+    {
+      "ticker": null,
+      "percent": 0.02
+    },
+    {
+      "ticker": null,
+      "percent": 0.02
+    },
+    {
+      "ticker": null,
+      "percent": 0.02
+    },
+    {
+      "ticker": null,
+      "percent": 0.02
+    },
+    {
+      "ticker": null,
+      "percent": 0.02
+    },
+    {
+      "ticker": null,
+      "percent": 0.02
+    },
+    {
+      "ticker": null,
+      "percent": 0.02
+    },
+    {
+      "ticker": null,
+      "percent": 0.02
+    },
+    {
+      "ticker": null,
+      "percent": 0.02
+    },
+    {
+      "ticker": null,
+      "percent": 0.02
+    },
+    {
+      "ticker": null,
+      "percent": 0.02
+    },
+    {
+      "ticker": null,
+      "percent": 0.02
+    },
+    {
+      "ticker": null,
+      "percent": 0.02
+    },
+    {
+      "ticker": "IVC",
+      "percent": 0.02
+    },
+    {
+      "ticker": null,
+      "percent": 0.02
+    },
+    {
+      "ticker": null,
+      "percent": 0.02
+    },
+    {
+      "ticker": "NAN",
+      "percent": 0.02
+    },
+    {
+      "ticker": null,
+      "percent": 0.02
+    },
+    {
+      "ticker": null,
+      "percent": 0.02
+    },
+    {
+      "ticker": null,
+      "percent": 0.02
+    },
+    {
+      "ticker": null,
+      "percent": 0.02
+    },
+    {
+      "ticker": "FLT",
+      "percent": 0.02
+    },
+    {
+      "ticker": null,
+      "percent": 0.02
+    },
+    {
+      "ticker": null,
+      "percent": 0.02
+    },
+    {
+      "ticker": null,
+      "percent": 0.02
+    },
+    {
+      "ticker": null,
+      "percent": 0.02
+    },
+    {
+      "ticker": null,
+      "percent": 0.02
+    },
+    {
+      "ticker": null,
+      "percent": 0.02
+    },
+    {
+      "ticker": null,
+      "percent": 0.02
+    },
+    {
+      "ticker": null,
+      "percent": 0.02
+    },
+    {
+      "ticker": null,
+      "percent": 0.02
+    },
+    {
+      "ticker": null,
+      "percent": 0.02
+    },
+    {
+      "ticker": null,
+      "percent": 0.02
+    },
+    {
+      "ticker": null,
+      "percent": 0.02
+    },
+    {
+      "ticker": null,
+      "percent": 0.02
+    },
+    {
+      "ticker": null,
+      "percent": 0.02
+    },
+    {
+      "ticker": null,
+      "percent": 0.02
+    },
+    {
+      "ticker": null,
+      "percent": 0.02
+    },
+    {
+      "ticker": null,
+      "percent": 0.02
+    },
+    {
+      "ticker": null,
+      "percent": 0.02
+    },
+    {
+      "ticker": null,
+      "percent": 0.02
+    },
+    {
+      "ticker": null,
+      "percent": 0.02
+    },
+    {
+      "ticker": null,
+      "percent": 0.02
+    },
+    {
+      "ticker": null,
+      "percent": 0.02
+    },
+    {
+      "ticker": "MSB",
+      "percent": 0.02
+    },
+    {
+      "ticker": null,
+      "percent": 0.02
+    },
+    {
+      "ticker": "ABC",
+      "percent": 0.02
+    },
+    {
+      "ticker": null,
+      "percent": 0.02
+    },
+    {
+      "ticker": null,
+      "percent": 0.02
+    },
+    {
+      "ticker": null,
+      "percent": 0.02
+    },
+    {
+      "ticker": null,
+      "percent": 0.02
+    },
+    {
+      "ticker": null,
+      "percent": 0.02
+    },
+    {
+      "ticker": null,
+      "percent": 0.02
+    },
+    {
+      "ticker": null,
+      "percent": 0.02
+    },
+    {
+      "ticker": null,
+      "percent": 0.02
+    },
+    {
+      "ticker": null,
+      "percent": 0.02
+    },
+    {
+      "ticker": null,
+      "percent": 0.02
+    },
+    {
+      "ticker": null,
+      "percent": 0.02
+    },
+    {
+      "ticker": null,
+      "percent": 0.02
+    },
+    {
+      "ticker": null,
+      "percent": 0.02
+    },
+    {
+      "ticker": "PPH",
+      "percent": 0.02
+    },
+    {
+      "ticker": null,
+      "percent": 0.02
+    },
+    {
+      "ticker": null,
+      "percent": 0.02
+    },
+    {
+      "ticker": null,
+      "percent": 0.02
+    },
+    {
+      "ticker": null,
+      "percent": 0.01
+    },
+    {
+      "ticker": null,
+      "percent": 0.01
+    },
+    {
+      "ticker": null,
+      "percent": 0.01
+    },
+    {
+      "ticker": null,
+      "percent": 0.01
+    },
+    {
+      "ticker": null,
+      "percent": 0.01
+    },
+    {
+      "ticker": null,
+      "percent": 0.01
+    },
+    {
+      "ticker": null,
+      "percent": 0.01
+    },
+    {
+      "ticker": null,
+      "percent": 0.01
+    },
+    {
+      "ticker": null,
+      "percent": 0.01
+    },
+    {
+      "ticker": null,
+      "percent": 0.01
+    },
+    {
+      "ticker": null,
+      "percent": 0.01
+    },
+    {
+      "ticker": null,
+      "percent": 0.01
+    },
+    {
+      "ticker": null,
+      "percent": 0.01
+    },
+    {
+      "ticker": "PRU",
+      "percent": 0.01
+    },
+    {
+      "ticker": null,
+      "percent": 0.01
+    },
+    {
+      "ticker": null,
+      "percent": 0.01
+    },
+    {
+      "ticker": null,
+      "percent": 0.01
+    },
+    {
+      "ticker": null,
+      "percent": 0.01
+    },
+    {
+      "ticker": "GNE",
+      "percent": 0.01
+    },
+    {
+      "ticker": null,
+      "percent": 0.01
+    },
+    {
+      "ticker": null,
+      "percent": 0.01
+    },
+    {
+      "ticker": null,
+      "percent": 0.01
+    },
+    {
+      "ticker": null,
+      "percent": 0.01
+    },
+    {
+      "ticker": null,
+      "percent": 0.01
+    },
+    {
+      "ticker": null,
+      "percent": 0.01
+    },
+    {
+      "ticker": null,
+      "percent": 0.01
+    },
+    {
+      "ticker": null,
+      "percent": 0.01
+    },
+    {
+      "ticker": null,
+      "percent": 0.01
+    },
+    {
+      "ticker": "ELD",
+      "percent": 0.01
+    },
+    {
+      "ticker": null,
+      "percent": 0.01
+    },
+    {
+      "ticker": null,
+      "percent": 0.01
+    },
+    {
+      "ticker": null,
+      "percent": 0.01
+    },
+    {
+      "ticker": null,
+      "percent": 0.01
+    },
+    {
+      "ticker": null,
+      "percent": 0.01
+    },
+    {
+      "ticker": null,
+      "percent": 0.01
+    },
+    {
+      "ticker": null,
+      "percent": 0.01
+    },
+    {
+      "ticker": null,
+      "percent": 0.01
+    },
+    {
+      "ticker": "SUM",
+      "percent": 0.01
+    },
+    {
+      "ticker": "SGM",
+      "percent": 0.01
+    },
+    {
+      "ticker": null,
+      "percent": 0.01
+    },
+    {
+      "ticker": null,
+      "percent": 0.01
+    },
+    {
+      "ticker": null,
+      "percent": 0.01
+    },
+    {
+      "ticker": null,
+      "percent": 0.01
+    },
+    {
+      "ticker": null,
+      "percent": 0.01
+    },
+    {
+      "ticker": null,
+      "percent": 0.01
+    },
+    {
+      "ticker": null,
+      "percent": 0.01
+    },
+    {
+      "ticker": null,
+      "percent": 0.01
+    },
+    {
+      "ticker": null,
+      "percent": 0.01
+    },
+    {
+      "ticker": null,
+      "percent": 0.01
+    },
+    {
+      "ticker": null,
+      "percent": 0.22
+    },
+    {
+      "ticker": null,
+      "percent": 0.22
+    },
+    {
+      "ticker": null,
+      "percent": 0.22
+    },
+    {
+      "ticker": null,
+      "percent": 0.21
+    },
+    {
+      "ticker": null,
+      "percent": 0.21
+    },
+    {
+      "ticker": null,
+      "percent": 0.21
+    },
+    {
+      "ticker": null,
+      "percent": 0.21
+    },
+    {
+      "ticker": null,
+      "percent": 0.2
+    },
+    {
+      "ticker": null,
+      "percent": 0.2
+    },
+    {
+      "ticker": null,
+      "percent": 0.19
+    },
+    {
+      "ticker": "FPH",
+      "percent": 0.19
+    },
+    {
+      "ticker": null,
+      "percent": 0.19
+    },
+    {
+      "ticker": null,
+      "percent": 0.19
+    },
+    {
+      "ticker": null,
+      "percent": 0.19
+    },
+    {
+      "ticker": null,
+      "percent": 0.19
+    },
+    {
+      "ticker": null,
+      "percent": 0.19
+    },
+    {
+      "ticker": null,
+      "percent": 0.18
+    },
+    {
+      "ticker": null,
+      "percent": 0.18
+    },
+    {
+      "ticker": null,
+      "percent": 0.18
+    },
+    {
+      "ticker": null,
+      "percent": 0.18
+    },
+    {
+      "ticker": null,
+      "percent": 0.18
+    },
+    {
+      "ticker": null,
+      "percent": 0.18
+    },
+    {
+      "ticker": null,
+      "percent": 0.18
+    },
+    {
+      "ticker": null,
+      "percent": 0.18
+    },
+    {
+      "ticker": null,
+      "percent": 0.17
+    },
+    {
+      "ticker": null,
+      "percent": 0.17
+    },
+    {
+      "ticker": null,
+      "percent": 0.17
+    },
+    {
+      "ticker": null,
+      "percent": 0.17
+    },
+    {
+      "ticker": "ASX",
+      "percent": 0.17
+    },
+    {
+      "ticker": null,
+      "percent": 0.17
+    },
+    {
+      "ticker": "ALL",
+      "percent": 0.17
+    },
+    {
+      "ticker": null,
+      "percent": 0.17
+    },
+    {
+      "ticker": null,
+      "percent": 0.17
+    },
+    {
+      "ticker": null,
+      "percent": 0.17
+    },
+    {
+      "ticker": null,
+      "percent": 0.16
+    },
+    {
+      "ticker": null,
+      "percent": 0.16
+    },
+    {
+      "ticker": null,
+      "percent": 0.16
+    },
+    {
+      "ticker": null,
+      "percent": 0.16
+    },
+    {
+      "ticker": null,
+      "percent": 0.16
+    },
+    {
+      "ticker": null,
+      "percent": 0.16
+    },
+    {
+      "ticker": null,
+      "percent": 0.16
+    },
+    {
+      "ticker": null,
+      "percent": 0.16
+    },
+    {
+      "ticker": null,
+      "percent": 0.15
+    },
+    {
+      "ticker": null,
+      "percent": 0.15
+    },
+    {
+      "ticker": null,
+      "percent": 0.15
+    },
+    {
+      "ticker": null,
+      "percent": 0.15
+    },
+    {
+      "ticker": null,
+      "percent": 0.15
+    },
+    {
+      "ticker": null,
+      "percent": 0.15
+    },
+    {
+      "ticker": null,
+      "percent": 0.15
+    },
+    {
+      "ticker": null,
+      "percent": 0.15
+    },
+    {
+      "ticker": null,
+      "percent": 0.15
+    },
+    {
+      "ticker": null,
+      "percent": 0.15
+    },
+    {
+      "ticker": null,
+      "percent": 0.14
+    },
+    {
+      "ticker": null,
+      "percent": 0.14
+    },
+    {
+      "ticker": null,
+      "percent": 0.14
+    },
+    {
+      "ticker": "IAG",
+      "percent": 0.14
+    },
+    {
+      "ticker": null,
+      "percent": 0.13
+    },
+    {
+      "ticker": "APA",
+      "percent": 0.13
+    },
+    {
+      "ticker": null,
+      "percent": 0.13
+    },
+    {
+      "ticker": null,
+      "percent": 0.13
+    },
+    {
+      "ticker": null,
+      "percent": 0.13
+    },
+    {
+      "ticker": "APT",
+      "percent": 0.13
+    },
+    {
+      "ticker": null,
+      "percent": 0.13
+    },
+    {
+      "ticker": null,
+      "percent": 0.13
+    },
+    {
+      "ticker": null,
+      "percent": 0.13
+    },
+    {
+      "ticker": null,
+      "percent": 0.13
+    },
+    {
+      "ticker": null,
+      "percent": 0.13
+    },
+    {
+      "ticker": null,
+      "percent": 0.13
+    },
+    {
+      "ticker": null,
+      "percent": 0.13
+    },
+    {
+      "ticker": "JHX",
+      "percent": 0.13
+    },
+    {
+      "ticker": "COH",
+      "percent": 0.12
+    },
+    {
+      "ticker": null,
+      "percent": 0.12
+    },
+    {
+      "ticker": null,
+      "percent": 0.12
+    },
+    {
+      "ticker": null,
+      "percent": 0.12
+    },
+    {
+      "ticker": null,
+      "percent": 0.12
+    },
+    {
+      "ticker": "SUN",
+      "percent": 0.12
+    },
+    {
+      "ticker": null,
+      "percent": 0.12
+    },
+    {
+      "ticker": "SCG",
+      "percent": 0.12
+    },
+    {
+      "ticker": null,
+      "percent": 0.12
+    },
+    {
+      "ticker": null,
+      "percent": 0.11
+    },
+    {
+      "ticker": null,
+      "percent": 0.11
+    },
+    {
+      "ticker": null,
+      "percent": 0.11
+    },
+    {
+      "ticker": null,
+      "percent": 0.11
+    },
+    {
+      "ticker": null,
+      "percent": 0.11
+    },
+    {
+      "ticker": null,
+      "percent": 0.11
+    },
+    {
+      "ticker": null,
+      "percent": 0.11
+    },
+    {
+      "ticker": null,
+      "percent": 0.11
+    },
+    {
+      "ticker": null,
+      "percent": 0.11
+    },
+    {
+      "ticker": null,
+      "percent": 0.11
+    },
+    {
+      "ticker": null,
+      "percent": 0.11
+    },
+    {
+      "ticker": null,
+      "percent": 0.11
+    },
+    {
+      "ticker": null,
+      "percent": 0.11
+    },
+    {
+      "ticker": null,
+      "percent": 0.11
+    },
+    {
+      "ticker": null,
+      "percent": 0.11
+    },
+    {
+      "ticker": null,
+      "percent": 0.11
+    },
+    {
+      "ticker": null,
+      "percent": 0.11
+    },
+    {
+      "ticker": null,
+      "percent": 0.11
+    },
+    {
+      "ticker": "ORG",
+      "percent": 0.11
+    },
+    {
+      "ticker": null,
+      "percent": 0.11
+    },
+    {
+      "ticker": null,
+      "percent": 0.1
+    },
+    {
+      "ticker": null,
+      "percent": 0.1
+    },
+    {
+      "ticker": null,
+      "percent": 0.1
+    },
+    {
+      "ticker": null,
+      "percent": 0.1
+    },
+    {
+      "ticker": null,
+      "percent": 0.1
+    },
+    {
+      "ticker": null,
+      "percent": 0.1
+    },
+    {
+      "ticker": null,
+      "percent": 0.1
+    },
+    {
+      "ticker": null,
+      "percent": 0.1
+    },
+    {
+      "ticker": null,
+      "percent": 0.1
+    },
+    {
+      "ticker": null,
+      "percent": 0.1
+    },
+    {
+      "ticker": null,
+      "percent": 0.1
+    },
+    {
+      "ticker": null,
+      "percent": 0.1
+    },
+    {
+      "ticker": null,
+      "percent": 0.1
+    },
+    {
+      "ticker": null,
+      "percent": 0.1
+    },
+    {
+      "ticker": null,
+      "percent": 0.1
+    },
+    {
+      "ticker": null,
+      "percent": 0.1
+    },
+    {
+      "ticker": null,
+      "percent": 0.1
+    },
+    {
+      "ticker": null,
+      "percent": 0.1
+    },
+    {
+      "ticker": null,
+      "percent": 0.1
+    },
+    {
+      "ticker": null,
+      "percent": 0.1
+    },
+    {
+      "ticker": null,
+      "percent": 0.1
+    },
+    {
+      "ticker": null,
+      "percent": 0.1
+    },
+    {
+      "ticker": "STO",
+      "percent": 0.1
+    },
+    {
+      "ticker": null,
+      "percent": 0.1
+    },
+    {
+      "ticker": null,
+      "percent": 0.1
+    },
+    {
+      "ticker": null,
+      "percent": 0.1
+    },
+    {
+      "ticker": null,
+      "percent": 0.09
+    },
+    {
+      "ticker": null,
+      "percent": 0.09
+    },
+    {
+      "ticker": null,
+      "percent": 0.09
+    },
+    {
+      "ticker": null,
+      "percent": 0.09
+    },
+    {
+      "ticker": null,
+      "percent": 0.09
+    },
+    {
+      "ticker": null,
+      "percent": 0.09
+    },
+    {
+      "ticker": null,
+      "percent": 0.09
+    },
+    {
+      "ticker": null,
+      "percent": 0.09
+    },
+    {
+      "ticker": null,
+      "percent": 0.09
+    },
+    {
+      "ticker": null,
+      "percent": 0.09
+    },
+    {
+      "ticker": null,
+      "percent": 0.09
+    },
+    {
+      "ticker": null,
+      "percent": 0.09
+    },
+    {
+      "ticker": null,
+      "percent": 0.09
+    },
+    {
+      "ticker": "MGR",
+      "percent": 0.09
+    },
+    {
+      "ticker": null,
+      "percent": 0.09
+    },
+    {
+      "ticker": null,
+      "percent": 0.08
+    },
+    {
+      "ticker": null,
+      "percent": 0.08
+    },
+    {
+      "ticker": null,
+      "percent": 0.08
+    },
+    {
+      "ticker": null,
+      "percent": 0.08
+    },
+    {
+      "ticker": null,
+      "percent": 0.08
+    },
+    {
+      "ticker": null,
+      "percent": 0.08
+    },
+    {
+      "ticker": null,
+      "percent": 0.08
+    },
+    {
+      "ticker": "GPT",
+      "percent": 0.08
+    },
+    {
+      "ticker": "MFG",
+      "percent": 0.08
+    },
+    {
+      "ticker": null,
+      "percent": 0.08
+    },
+    {
+      "ticker": null,
+      "percent": 0.08
+    },
+    {
+      "ticker": null,
+      "percent": 0.08
+    }
+  ]
+}

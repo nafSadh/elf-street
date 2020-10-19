@@ -1,0 +1,430 @@
+{
+  "Products": "Active U.S. Real Estate ETF",
+  "Ticker": "PSR",
+  "Inception": "11/20/2008",
+  "Gross Exp. Ratio": "0.35%",
+  "YTD": "-12.94",
+  "1Yr": "-12.37",
+  "3Yr": "3.51",
+  "5Yr": "6.22",
+  "10Yr": "8.81",
+  "Since Incept.": "14.95",
+  "Category": "Alternatives",
+  "SubCategory": "REITs",
+  "ticker": "PSR",
+  "name": "Active U.S. Real Estate ETF",
+  "issuer": "Invesco",
+  "website": "https://www.invesco.com/us/financial-products/etfs/product-detail?audienceType=Investor&ticker=PSR",
+  "holdingDataSource": {
+    "url": "https://www.invesco.com/us/financial-products/etfs/holdings/main/holdings/0?audienceType=Investor&action=download&ticker=PSR",
+    "fileExt": "csv",
+    "transform": "invesco"
+  },
+  "holdings": [
+    {
+      "ticker": "AMT",
+      "name": "American Tower Corp",
+      "percent": "9.492"
+    },
+    {
+      "ticker": "PLD",
+      "name": "Prologis Inc",
+      "percent": "7.108"
+    },
+    {
+      "ticker": "CCI",
+      "name": "Crown Castle International Corp",
+      "percent": "6.340"
+    },
+    {
+      "ticker": "EQIX",
+      "name": "Equinix Inc",
+      "percent": "4.618"
+    },
+    {
+      "ticker": "DLR",
+      "name": "Digital Realty Trust Inc",
+      "percent": "4.474"
+    },
+    {
+      "ticker": "SBAC",
+      "name": "SBA Communications Corp",
+      "percent": "3.750"
+    },
+    {
+      "ticker": "PSA",
+      "name": "Public Storage",
+      "percent": "3.187"
+    },
+    {
+      "ticker": "WY",
+      "name": "Weyerhaeuser Co",
+      "percent": "2.299"
+    },
+    {
+      "ticker": "WELL",
+      "name": "Welltower Inc",
+      "percent": "2.264"
+    },
+    {
+      "ticker": "O",
+      "name": "Realty Income Corp",
+      "percent": "2.026"
+    },
+    {
+      "ticker": "AVB",
+      "name": "AvalonBay Communities Inc",
+      "percent": "1.963"
+    },
+    {
+      "ticker": "EQR",
+      "name": "Equity Residential",
+      "percent": "1.855"
+    },
+    {
+      "ticker": "VTR",
+      "name": "Ventas Inc",
+      "percent": "1.725"
+    },
+    {
+      "ticker": "ARE",
+      "name": "Alexandria Real Estate Equities Inc",
+      "percent": "1.677"
+    },
+    {
+      "ticker": "PEAK",
+      "name": "Healthpeak Properties Inc",
+      "percent": "1.548"
+    },
+    {
+      "ticker": "INVH",
+      "name": "Invitation Homes Inc",
+      "percent": "1.541"
+    },
+    {
+      "ticker": "DRE",
+      "name": "Duke Realty Corp",
+      "percent": "1.474"
+    },
+    {
+      "ticker": "EXR",
+      "name": "Extra Space Storage Inc",
+      "percent": "1.411"
+    },
+    {
+      "ticker": "SUI",
+      "name": "Sun Communities Inc",
+      "percent": "1.333"
+    },
+    {
+      "ticker": "ESS",
+      "name": "Essex Property Trust Inc",
+      "percent": "1.293"
+    },
+    {
+      "ticker": "VICI",
+      "name": "VICI Properties Inc",
+      "percent": "1.271"
+    },
+    {
+      "ticker": "BXP",
+      "name": "Boston Properties Inc",
+      "percent": "1.268"
+    },
+    {
+      "ticker": "WPC",
+      "name": "WP Carey Inc",
+      "percent": "1.222"
+    },
+    {
+      "ticker": "SPG",
+      "name": "Simon Property Group Inc",
+      "percent": "1.215"
+    },
+    {
+      "ticker": "MAA",
+      "name": "Mid-America Apartment Communities Inc",
+      "percent": "1.209"
+    },
+    {
+      "ticker": "CONE",
+      "name": "CyrusOne Inc",
+      "percent": "1.109"
+    },
+    {
+      "ticker": "ELS",
+      "name": "Equity LifeStyle Properties Inc",
+      "percent": "1.037"
+    },
+    {
+      "ticker": "MPW",
+      "name": "Medical Properties Trust Inc",
+      "percent": "0.968"
+    },
+    {
+      "ticker": "GLPI",
+      "name": "Gaming and Leisure Properties Inc",
+      "percent": "0.960"
+    },
+    {
+      "ticker": "UDR",
+      "name": "UDR Inc",
+      "percent": "0.929"
+    },
+    {
+      "ticker": "HST",
+      "name": "Host Hotels & Resorts Inc",
+      "percent": "0.888"
+    },
+    {
+      "ticker": "OHI",
+      "name": "Omega Healthcare Investors Inc",
+      "percent": "0.873"
+    },
+    {
+      "ticker": "AMH",
+      "name": "American Homes 4 Rent",
+      "percent": "0.864"
+    },
+    {
+      "ticker": "VER",
+      "name": "VEREIT Inc",
+      "percent": "0.830"
+    },
+    {
+      "ticker": "VNO",
+      "name": "Vornado Realty Trust",
+      "percent": "0.797"
+    },
+    {
+      "ticker": "CPT",
+      "name": "Camden Property Trust",
+      "percent": "0.777"
+    },
+    {
+      "ticker": "REG",
+      "name": "Regency Centers Corp",
+      "percent": "0.763"
+    },
+    {
+      "ticker": "STOR",
+      "name": "STORE Capital Corp",
+      "percent": "0.740"
+    },
+    {
+      "ticker": "COR",
+      "name": "CoreSite Realty Corp",
+      "percent": "0.723"
+    },
+    {
+      "ticker": "NNN",
+      "name": "National Retail Properties Inc",
+      "percent": "0.696"
+    },
+    {
+      "ticker": "KIM",
+      "name": "Kimco Realty Corp",
+      "percent": "0.692"
+    },
+    {
+      "ticker": "COLD",
+      "name": "Americold Realty Trust",
+      "percent": "0.689"
+    },
+    {
+      "ticker": "LAMR",
+      "name": "Lamar Advertising Co",
+      "percent": "0.683"
+    },
+    {
+      "ticker": "CUBE",
+      "name": "CubeSmart",
+      "percent": "0.668"
+    },
+    {
+      "ticker": "QTS",
+      "name": "QTS Realty Trust Inc",
+      "percent": "0.655"
+    },
+    {
+      "ticker": "EGP",
+      "name": "EastGroup Properties Inc",
+      "percent": "0.618"
+    },
+    {
+      "ticker": "STAG",
+      "name": "STAG Industrial Inc",
+      "percent": "0.617"
+    },
+    {
+      "ticker": "AIV",
+      "name": "Apartment Investment and Management Co",
+      "percent": "0.617"
+    },
+    {
+      "ticker": "FR",
+      "name": "First Industrial Realty Trust Inc",
+      "percent": "0.600"
+    },
+    {
+      "ticker": "REXR",
+      "name": "Rexford Industrial Realty Inc",
+      "percent": "0.598"
+    },
+    {
+      "ticker": "HTA",
+      "name": "Healthcare Trust of America Inc",
+      "percent": "0.595"
+    },
+    {
+      "ticker": "FRT",
+      "name": "Federal Realty Investment Trust",
+      "percent": "0.592"
+    },
+    {
+      "ticker": "BRX",
+      "name": "Brixmor Property Group Inc",
+      "percent": "0.591"
+    },
+    {
+      "ticker": "LSI",
+      "name": "Life Storage Inc",
+      "percent": "0.579"
+    },
+    {
+      "ticker": "KRC",
+      "name": "Kilroy Realty Corp",
+      "percent": "0.575"
+    },
+    {
+      "ticker": "SBRA",
+      "name": "Sabra Health Care REIT Inc",
+      "percent": "0.558"
+    },
+    {
+      "ticker": "ACC",
+      "name": "American Campus Communities Inc",
+      "percent": "0.537"
+    },
+    {
+      "ticker": "DEI",
+      "name": "Douglas Emmett Inc",
+      "percent": "0.483"
+    },
+    {
+      "ticker": "HIW",
+      "name": "Highwoods Properties Inc",
+      "percent": "0.480"
+    },
+    {
+      "ticker": "HR",
+      "name": "Healthcare Realty Trust Inc",
+      "percent": "0.476"
+    },
+    {
+      "ticker": "OFC",
+      "name": "Corporate Office Properties Trust",
+      "percent": "0.466"
+    },
+    {
+      "ticker": "PCH",
+      "name": "PotlatchDeltic Corp",
+      "percent": "0.463"
+    },
+    {
+      "ticker": "APLE",
+      "name": "Apple Hospitality REIT Inc",
+      "percent": "0.420"
+    },
+    {
+      "ticker": "DOC",
+      "name": "Physicians Realty Trust",
+      "percent": "0.415"
+    },
+    {
+      "ticker": "JBGS",
+      "name": "JBG SMITH Properties",
+      "percent": "0.411"
+    },
+    {
+      "ticker": "CUZ",
+      "name": "Cousins Properties Inc",
+      "percent": "0.405"
+    },
+    {
+      "ticker": "RYN",
+      "name": "Rayonier Inc",
+      "percent": "0.404"
+    },
+    {
+      "ticker": "HPP",
+      "name": "Hudson Pacific Properties Inc",
+      "percent": "0.404"
+    },
+    {
+      "ticker": "TRNO",
+      "name": "Terreno Realty Corp",
+      "percent": "0.403"
+    },
+    {
+      "ticker": "FCPT",
+      "name": "Four Corners Property Trust Inc",
+      "percent": "0.400"
+    },
+    {
+      "ticker": "WRI",
+      "name": "Weingarten Realty Investors",
+      "percent": "0.386"
+    },
+    {
+      "ticker": "NSA",
+      "name": "National Storage Affiliates Trust",
+      "percent": "0.367"
+    },
+    {
+      "ticker": "CTRE",
+      "name": "CareTrust REIT Inc",
+      "percent": "0.348"
+    },
+    {
+      "ticker": "BDN",
+      "name": "Brandywine Realty Trust",
+      "percent": "0.341"
+    },
+    {
+      "ticker": "ROIC",
+      "name": "Retail Opportunity Investments Corp",
+      "percent": "0.340"
+    },
+    {
+      "ticker": "PDM",
+      "name": "Piedmont Office Realty Trust Inc",
+      "percent": "0.340"
+    },
+    {
+      "ticker": "WRE",
+      "name": "Washington Real Estate Investment Trust",
+      "percent": "0.321"
+    },
+    {
+      "ticker": "RLJ",
+      "name": "RLJ Lodging Trust",
+      "percent": "0.320"
+    },
+    {
+      "ticker": "SHO",
+      "name": "Sunstone Hotel Investors Inc",
+      "percent": "0.313"
+    },
+    {
+      "ticker": "EPRT",
+      "name": "Essential Properties Realty Trust Inc",
+      "percent": "0.300"
+    },
+    {
+      "ticker": "AGPXX",
+      "name": "STIT - Government & Agency Portfolio",
+      "percent": "0.008"
+    }
+  ]
+}

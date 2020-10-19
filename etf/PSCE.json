@@ -1,0 +1,215 @@
+{
+  "Products": "S&P SmallCap Energy ETF",
+  "Ticker": "PSCE",
+  "Inception": "04/07/2010",
+  "Gross Exp. Ratio": "0.29%",
+  "YTD": "-59.05",
+  "1Yr": "-56.42",
+  "3Yr": "-40.88",
+  "5Yr": "-28.12",
+  "10Yr": "-18.52",
+  "Since Incept.": "-18.09",
+  "Category": "Bulk Beta",
+  "SubCategory": "Small Cap Sectors",
+  "ticker": "PSCE",
+  "name": "S&P SmallCap Energy ETF",
+  "issuer": "Invesco",
+  "website": "https://www.invesco.com/us/financial-products/etfs/product-detail?audienceType=Investor&ticker=PSCE",
+  "holdingDataSource": {
+    "url": "https://www.invesco.com/us/financial-products/etfs/holdings/main/holdings/0?audienceType=Investor&action=download&ticker=PSCE",
+    "fileExt": "csv",
+    "transform": "invesco"
+  },
+  "holdings": [
+    {
+      "ticker": "REGI",
+      "name": "Renewable Energy Group Inc",
+      "percent": "11.03"
+    },
+    {
+      "ticker": "RRC",
+      "name": "Range Resources Corp",
+      "percent": "10.64"
+    },
+    {
+      "ticker": "SWN",
+      "name": "Southwestern Energy Co",
+      "percent": "8.43"
+    },
+    {
+      "ticker": "HP",
+      "name": "Helmerich & Payne Inc",
+      "percent": "7.75"
+    },
+    {
+      "ticker": "PDCE",
+      "name": "PDC Energy Inc",
+      "percent": "6.39"
+    },
+    {
+      "ticker": "MTDR",
+      "name": "Matador Resources Co",
+      "percent": "4.74"
+    },
+    {
+      "ticker": "DRQ",
+      "name": "Dril-Quip Inc",
+      "percent": "4.35"
+    },
+    {
+      "ticker": "AROC",
+      "name": "Archrock Inc",
+      "percent": "3.70"
+    },
+    {
+      "ticker": "CLB",
+      "name": "Core Laboratories NV",
+      "percent": "3.32"
+    },
+    {
+      "ticker": "CKH",
+      "name": "SEACOR Holdings Inc",
+      "percent": "3.00"
+    },
+    {
+      "ticker": "VTOL",
+      "name": "Bristow Group Inc",
+      "percent": "2.72"
+    },
+    {
+      "ticker": "GPRE",
+      "name": "Green Plains Inc",
+      "percent": "2.68"
+    },
+    {
+      "ticker": "PBF",
+      "name": "PBF Energy Inc",
+      "percent": "2.61"
+    },
+    {
+      "ticker": "PTEN",
+      "name": "Patterson-UTI Energy Inc",
+      "percent": "2.50"
+    },
+    {
+      "ticker": "BOOM",
+      "name": "DMC Global Inc",
+      "percent": "2.47"
+    },
+    {
+      "ticker": "REX",
+      "name": "REX American Resources Corp",
+      "percent": "2.01"
+    },
+    {
+      "ticker": "BCEI",
+      "name": "Bonanza Creek Energy Inc",
+      "percent": "1.93"
+    },
+    {
+      "ticker": "OII",
+      "name": "Oceaneering International Inc",
+      "percent": "1.92"
+    },
+    {
+      "ticker": "HLX",
+      "name": "Helix Energy Solutions Group Inc",
+      "percent": "1.85"
+    },
+    {
+      "ticker": "PUMP",
+      "name": "ProPetro Holding Corp",
+      "percent": "1.73"
+    },
+    {
+      "ticker": "LPG",
+      "name": "Dorian LPG Ltd",
+      "percent": "1.57"
+    },
+    {
+      "ticker": "PARR",
+      "name": "Par Pacific Holdings Inc",
+      "percent": "1.46"
+    },
+    {
+      "ticker": "QEP",
+      "name": "QEP Resources Inc",
+      "percent": "1.14"
+    },
+    {
+      "ticker": "MTRX",
+      "name": "Matrix Service Co",
+      "percent": "1.07"
+    },
+    {
+      "ticker": "SLCA",
+      "name": "US Silica Holdings Inc",
+      "percent": "1.06"
+    },
+    {
+      "ticker": "CPE",
+      "name": "Callon Petroleum Co",
+      "percent": "0.93"
+    },
+    {
+      "ticker": "OIS",
+      "name": "Oil States International Inc",
+      "percent": "0.89"
+    },
+    {
+      "ticker": "NBR",
+      "name": "Nabors Industries Ltd",
+      "percent": "0.88"
+    },
+    {
+      "ticker": "TALO",
+      "name": "Talos Energy Inc",
+      "percent": "0.82"
+    },
+    {
+      "ticker": "SM",
+      "name": "SM Energy Co",
+      "percent": "0.81"
+    },
+    {
+      "ticker": "RES",
+      "name": "RPC Inc",
+      "percent": "0.75"
+    },
+    {
+      "ticker": "PVAC",
+      "name": "Penn Virginia Corp",
+      "percent": "0.73"
+    },
+    {
+      "ticker": "EXTN",
+      "name": "Exterran Corp",
+      "percent": "0.58"
+    },
+    {
+      "ticker": "CEIX",
+      "name": "CONSOL Energy Inc",
+      "percent": "0.53"
+    },
+    {
+      "ticker": "LPI",
+      "name": "Laredo Petroleum Inc",
+      "percent": "0.41"
+    },
+    {
+      "ticker": "GEOS",
+      "name": "Geospace Technologies Corp",
+      "percent": "0.39"
+    },
+    {
+      "ticker": "GPOR",
+      "name": "Gulfport Energy Corp",
+      "percent": "0.20"
+    },
+    {
+      "ticker": "AGPXX",
+      "name": "STIT - Government & Agency Portfolio",
+      "percent": "0.03"
+    }
+  ]
+}

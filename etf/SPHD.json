@@ -1,0 +1,275 @@
+{
+  "Products": "S&P 500® High Dividend Low Volatility ETF",
+  "Ticker": "SPHD",
+  "Inception": "10/18/2012",
+  "Gross Exp. Ratio": "0.30%",
+  "YTD": "-21.86",
+  "1Yr": "-18.39",
+  "3Yr": "-2.74",
+  "5Yr": "5.25",
+  "10Yr": "",
+  "Since Incept.": "7.43",
+  "Category": "SP Factor",
+  "SubCategory": "Dividend",
+  "ticker": "SPHD",
+  "name": "S&P 500® High Dividend Low Volatility ETF",
+  "issuer": "Invesco",
+  "website": "https://www.invesco.com/us/financial-products/etfs/product-detail?audienceType=Investor&ticker=SPHD",
+  "holdingDataSource": {
+    "url": "https://www.invesco.com/us/financial-products/etfs/holdings/main/holdings/0?audienceType=Investor&action=download&ticker=SPHD",
+    "fileExt": "csv",
+    "transform": "invesco"
+  },
+  "holdings": [
+    {
+      "ticker": "IRM",
+      "name": "Iron Mountain Inc",
+      "percent": "3.070"
+    },
+    {
+      "ticker": "DOW",
+      "name": "Dow Inc",
+      "percent": "3.069"
+    },
+    {
+      "ticker": "LUMN",
+      "name": "CenturyLink Inc",
+      "percent": "2.970"
+    },
+    {
+      "ticker": "MO",
+      "name": "Altria Group Inc",
+      "percent": "2.871"
+    },
+    {
+      "ticker": "IP",
+      "name": "International Paper Co",
+      "percent": "2.863"
+    },
+    {
+      "ticker": "PPL",
+      "name": "PPL Corp",
+      "percent": "2.750"
+    },
+    {
+      "ticker": "PM",
+      "name": "Philip Morris International Inc",
+      "percent": "2.661"
+    },
+    {
+      "ticker": "VNO",
+      "name": "Vornado Realty Trust",
+      "percent": "2.592"
+    },
+    {
+      "ticker": "HBAN",
+      "name": "Huntington Bancshares Inc/OH",
+      "percent": "2.583"
+    },
+    {
+      "ticker": "HBI",
+      "name": "Hanesbrands Inc",
+      "percent": "2.527"
+    },
+    {
+      "ticker": "T",
+      "name": "AT&T Inc",
+      "percent": "2.432"
+    },
+    {
+      "ticker": "XOM",
+      "name": "Exxon Mobil Corp",
+      "percent": "2.359"
+    },
+    {
+      "ticker": "NWL",
+      "name": "Newell Brands Inc",
+      "percent": "2.352"
+    },
+    {
+      "ticker": "KMI",
+      "name": "Kinder Morgan Inc",
+      "percent": "2.326"
+    },
+    {
+      "ticker": "STX",
+      "name": "Seagate Technology PLC",
+      "percent": "2.204"
+    },
+    {
+      "ticker": "IPG",
+      "name": "Interpublic Group of Cos Inc/The",
+      "percent": "2.171"
+    },
+    {
+      "ticker": "PEAK",
+      "name": "Healthpeak Properties Inc",
+      "percent": "2.136"
+    },
+    {
+      "ticker": "PBCT",
+      "name": "People's United Financial Inc",
+      "percent": "2.097"
+    },
+    {
+      "ticker": "IBM",
+      "name": "International Business Machines Corp",
+      "percent": "2.077"
+    },
+    {
+      "ticker": "DUK",
+      "name": "Duke Energy Corp",
+      "percent": "2.038"
+    },
+    {
+      "ticker": "SO",
+      "name": "Southern Co/The",
+      "percent": "1.981"
+    },
+    {
+      "ticker": "FRT",
+      "name": "Federal Realty Investment Trust",
+      "percent": "1.939"
+    },
+    {
+      "ticker": "O",
+      "name": "Realty Income Corp",
+      "percent": "1.888"
+    },
+    {
+      "ticker": "AVGO",
+      "name": "Broadcom Inc",
+      "percent": "1.879"
+    },
+    {
+      "ticker": "AMCR",
+      "name": "Amcor PLC",
+      "percent": "1.875"
+    },
+    {
+      "ticker": "REG",
+      "name": "Regency Centers Corp",
+      "percent": "1.866"
+    },
+    {
+      "ticker": "HPE",
+      "name": "Hewlett Packard Enterprise Co",
+      "percent": "1.848"
+    },
+    {
+      "ticker": "EIX",
+      "name": "Edison International",
+      "percent": "1.844"
+    },
+    {
+      "ticker": "NTAP",
+      "name": "NetApp Inc",
+      "percent": "1.824"
+    },
+    {
+      "ticker": "KHC",
+      "name": "Kraft Heinz Co/The",
+      "percent": "1.797"
+    },
+    {
+      "ticker": "D",
+      "name": "Dominion Energy Inc",
+      "percent": "1.789"
+    },
+    {
+      "ticker": "EXC",
+      "name": "Exelon Corp",
+      "percent": "1.765"
+    },
+    {
+      "ticker": "PFE",
+      "name": "Pfizer Inc",
+      "percent": "1.761"
+    },
+    {
+      "ticker": "VZ",
+      "name": "Verizon Communications Inc",
+      "percent": "1.750"
+    },
+    {
+      "ticker": "ED",
+      "name": "Consolidated Edison Inc",
+      "percent": "1.747"
+    },
+    {
+      "ticker": "CVX",
+      "name": "Chevron Corp",
+      "percent": "1.736"
+    },
+    {
+      "ticker": "NUE",
+      "name": "Nucor Corp",
+      "percent": "1.726"
+    },
+    {
+      "ticker": "HPQ",
+      "name": "HP Inc",
+      "percent": "1.709"
+    },
+    {
+      "ticker": "OMC",
+      "name": "Omnicom Group Inc",
+      "percent": "1.706"
+    },
+    {
+      "ticker": "FE",
+      "name": "FirstEnergy Corp",
+      "percent": "1.648"
+    },
+    {
+      "ticker": "EMN",
+      "name": "Eastman Chemical Co",
+      "percent": "1.627"
+    },
+    {
+      "ticker": "PNW",
+      "name": "Pinnacle West Capital Corp",
+      "percent": "1.619"
+    },
+    {
+      "ticker": "ETR",
+      "name": "Entergy Corp",
+      "percent": "1.583"
+    },
+    {
+      "ticker": "CF",
+      "name": "CF Industries Holdings Inc",
+      "percent": "1.577"
+    },
+    {
+      "ticker": "ABBV",
+      "name": "AbbVie Inc",
+      "percent": "1.572"
+    },
+    {
+      "ticker": "MMM",
+      "name": "3M Co",
+      "percent": "1.541"
+    },
+    {
+      "ticker": "WBA",
+      "name": "Walgreens Boots Alliance Inc",
+      "percent": "1.539"
+    },
+    {
+      "ticker": "WU",
+      "name": "Western Union Co/The",
+      "percent": "1.491"
+    },
+    {
+      "ticker": "CAH",
+      "name": "Cardinal Health Inc",
+      "percent": "1.233"
+    },
+    {
+      "ticker": "-CASH-",
+      "name": "Cash/Receivables/Payables",
+      "percent": "-0.006"
+    }
+  ]
+}

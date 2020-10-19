@@ -1,0 +1,115 @@
+{
+  "Products": "Growth Multi-Asset Allocation ETF",
+  "Ticker": "PSMG",
+  "Inception": "02/23/2017",
+  "Gross Exp. Ratio": "0.36%",
+  "YTD": "-3.65",
+  "1Yr": "1.51",
+  "3Yr": "5.05",
+  "5Yr": "",
+  "10Yr": "",
+  "Since Incept.": "6.45",
+  "Category": "Thematic",
+  "SubCategory": "Balanced",
+  "ticker": "PSMG",
+  "name": "Growth Multi-Asset Allocation ETF",
+  "issuer": "Invesco",
+  "website": "https://www.invesco.com/us/financial-products/etfs/product-detail?audienceType=Investor&ticker=PSMG",
+  "holdingDataSource": {
+    "url": "https://www.invesco.com/us/financial-products/etfs/holdings/main/holdings/0?audienceType=Investor&action=download&ticker=PSMG",
+    "fileExt": "csv",
+    "transform": "invesco"
+  },
+  "holdings": [
+    {
+      "ticker": "OMFL",
+      "name": "Invesco Russell 1000 Dynamic Multifactor ETF",
+      "percent": "12.515"
+    },
+    {
+      "ticker": "RPG",
+      "name": "Invesco S&P 500 Pure Growth ETF",
+      "percent": "12.050"
+    },
+    {
+      "ticker": "IUS",
+      "name": "Invesco RAFI Strategic US ETF",
+      "percent": "11.563"
+    },
+    {
+      "ticker": "IUSS",
+      "name": "Invesco RAFI Strategic US Small Co ETF",
+      "percent": "10.263"
+    },
+    {
+      "ticker": "SPLV",
+      "name": "Invesco S&P 500 Low Volatility ETF",
+      "percent": "8.127"
+    },
+    {
+      "ticker": "IDLV",
+      "name": "Invesco S&P International Developed Low Volatility ETF",
+      "percent": "6.526"
+    },
+    {
+      "ticker": "IIGD",
+      "name": "Invesco Investment Grade Defensive ETF",
+      "percent": "6.351"
+    },
+    {
+      "ticker": "XSLV",
+      "name": "Invesco S&P SmallCap Low Volatility ETF",
+      "percent": "5.567"
+    },
+    {
+      "ticker": "ISDX",
+      "name": "Invesco RAFI Strategic Developed ex-US ETF",
+      "percent": "5.462"
+    },
+    {
+      "ticker": "XMLV",
+      "name": "Invesco S&P MidCap Low Volatility ETF",
+      "percent": "5.100"
+    },
+    {
+      "ticker": "BAB",
+      "name": "Invesco Taxable Municipal Bond",
+      "percent": "3.863"
+    },
+    {
+      "ticker": "IIGV",
+      "name": "Invesco Investment Grade Value ETF",
+      "percent": "3.414"
+    },
+    {
+      "ticker": "VRIG",
+      "name": "Invesco Variable Rate Investment Grade ETF",
+      "percent": "1.952"
+    },
+    {
+      "ticker": "PBTP",
+      "name": "Invesco PureBeta 0-5 Yr US TIPS ETF",
+      "percent": "1.950"
+    },
+    {
+      "ticker": "PLW",
+      "name": "Invesco 1-30 Laddered Treasury ETF",
+      "percent": "1.941"
+    },
+    {
+      "ticker": "ISEM",
+      "name": "Invesco RAFI Strategic Emerging Market ETF",
+      "percent": "1.904"
+    },
+    {
+      "ticker": "EELV",
+      "name": "Invesco S&P Emerging Markets Low Volatility ETF",
+      "percent": "1.448"
+    },
+    {
+      "ticker": "AGPXX",
+      "name": "STIT - Government & Agency Portfolio",
+      "percent": "0.005"
+    }
+  ]
+}

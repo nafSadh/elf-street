@@ -1,0 +1,155 @@
+{
+  "Products": "S&P 500® Equal Weight Energy ETF",
+  "Ticker": "RYE",
+  "Inception": "11/01/2006",
+  "Gross Exp. Ratio": "0.40%",
+  "YTD": "-51.39",
+  "1Yr": "-47.34",
+  "3Yr": "-23.85",
+  "5Yr": "-12.51",
+  "10Yr": "-6.15",
+  "Since Incept.": "-3.72",
+  "Category": "SP Factor",
+  "SubCategory": "Equal Weight Sectors",
+  "ticker": "RYE",
+  "name": "S&P 500® Equal Weight Energy ETF",
+  "issuer": "Invesco",
+  "website": "https://www.invesco.com/us/financial-products/etfs/product-detail?audienceType=Investor&ticker=RYE",
+  "holdingDataSource": {
+    "url": "https://www.invesco.com/us/financial-products/etfs/holdings/main/holdings/0?audienceType=Investor&action=download&ticker=RYE",
+    "fileExt": "csv",
+    "transform": "invesco"
+  },
+  "holdings": [
+    {
+      "ticker": "OKE",
+      "name": "ONEOK Inc",
+      "percent": "4.643"
+    },
+    {
+      "ticker": "CXO",
+      "name": "Concho Resources Inc",
+      "percent": "4.539"
+    },
+    {
+      "ticker": "COG",
+      "name": "Cabot Oil & Gas Corp",
+      "percent": "4.431"
+    },
+    {
+      "ticker": "COP",
+      "name": "ConocoPhillips",
+      "percent": "4.316"
+    },
+    {
+      "ticker": "FTI",
+      "name": "TechnipFMC PLC",
+      "percent": "4.288"
+    },
+    {
+      "ticker": "KMI",
+      "name": "Kinder Morgan Inc",
+      "percent": "4.245"
+    },
+    {
+      "ticker": "DVN",
+      "name": "Devon Energy Corp",
+      "percent": "4.223"
+    },
+    {
+      "ticker": "FANG",
+      "name": "Diamondback Energy Inc",
+      "percent": "4.185"
+    },
+    {
+      "ticker": "OXY",
+      "name": "Occidental Petroleum Corp",
+      "percent": "4.178"
+    },
+    {
+      "ticker": "PXD",
+      "name": "Pioneer Natural Resources Co",
+      "percent": "4.149"
+    },
+    {
+      "ticker": "HFC",
+      "name": "HollyFrontier Corp",
+      "percent": "4.072"
+    },
+    {
+      "ticker": "EOG",
+      "name": "EOG Resources Inc",
+      "percent": "4.055"
+    },
+    {
+      "ticker": "WMB",
+      "name": "Williams Cos Inc/The",
+      "percent": "4.031"
+    },
+    {
+      "ticker": "BKR",
+      "name": "Baker Hughes Co",
+      "percent": "3.986"
+    },
+    {
+      "ticker": "MPC",
+      "name": "Marathon Petroleum Corp",
+      "percent": "3.977"
+    },
+    {
+      "ticker": "CVX",
+      "name": "Chevron Corp",
+      "percent": "3.970"
+    },
+    {
+      "ticker": "XOM",
+      "name": "Exxon Mobil Corp",
+      "percent": "3.911"
+    },
+    {
+      "ticker": "MRO",
+      "name": "Marathon Oil Corp",
+      "percent": "3.853"
+    },
+    {
+      "ticker": "PSX",
+      "name": "Phillips 66",
+      "percent": "3.751"
+    },
+    {
+      "ticker": "HES",
+      "name": "Hess Corp",
+      "percent": "3.724"
+    },
+    {
+      "ticker": "VLO",
+      "name": "Valero Energy Corp",
+      "percent": "3.669"
+    },
+    {
+      "ticker": "HAL",
+      "name": "Halliburton Co",
+      "percent": "3.633"
+    },
+    {
+      "ticker": "SLB",
+      "name": "Schlumberger NV",
+      "percent": "3.545"
+    },
+    {
+      "ticker": "APA",
+      "name": "Apache Corp",
+      "percent": "3.336"
+    },
+    {
+      "ticker": "NOV",
+      "name": "National Oilwell Varco Inc",
+      "percent": "3.247"
+    },
+    {
+      "ticker": "AGPXX",
+      "name": "STIT - Government & Agency Portfolio",
+      "percent": "0.040"
+    }
+  ]
+}

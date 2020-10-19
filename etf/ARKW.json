@@ -1,0 +1,279 @@
+{
+  "ticker": "ARKW",
+  "name": "ARK Next Generation Internet ETF",
+  "website": "https://ark-funds.com/arkw",
+  "exchange": "NYSE Arca",
+  "issuer": "ARK",
+  "holdingDataSource": {
+    "url": "https://ark-funds.com/wp-content/fundsiteliterature/csv/ARK_NEXT_GENERATION_INTERNET_ETF_ARKW_HOLDINGS.csv",
+    "fileExt": "csv",
+    "transform": "ark"
+  },
+  "holdings": [
+    {
+      "ticker": "TSLA",
+      "name": "TESLA INC",
+      "percent": 9.99
+    },
+    {
+      "ticker": "ROKU",
+      "name": "ROKU INC",
+      "percent": 6.66
+    },
+    {
+      "ticker": "SQ",
+      "name": "SQUARE INC - A",
+      "percent": 6.27
+    },
+    {
+      "ticker": "FB",
+      "name": "FACEBOOK INC-CLASS A",
+      "percent": 3.11
+    },
+    {
+      "ticker": "WORK",
+      "name": "SLACK TECHNOLOGIES INC- CL A",
+      "percent": 3.08
+    },
+    {
+      "ticker": "PSTG",
+      "name": "PURE STORAGE INC - CLASS A",
+      "percent": 2.99
+    },
+    {
+      "ticker": "PINS",
+      "name": "PINTEREST INC- CLASS A",
+      "percent": 2.86
+    },
+    {
+      "ticker": "SPOT",
+      "name": "SPOTIFY TECHNOLOGY SA",
+      "percent": 2.74
+    },
+    {
+      "ticker": "TREE UW",
+      "name": "LENDINGTREE INC",
+      "percent": 2.73
+    },
+    {
+      "ticker": "PD",
+      "name": "PAGERDUTY INC",
+      "percent": 2.7
+    },
+    {
+      "ticker": "TWLO",
+      "name": "TWILIO INC - A",
+      "percent": 2.56
+    },
+    {
+      "ticker": "SE",
+      "name": "SEA LTD-ADR",
+      "percent": 2.47
+    },
+    {
+      "ticker": "TWOU",
+      "name": "2U INC",
+      "percent": 2.3
+    },
+    {
+      "ticker": "HUYA",
+      "name": "HUYA INC-ADR",
+      "percent": 2.27
+    },
+    {
+      "ticker": "TCEHY",
+      "name": "TENCENT HOLDINGS LTD-UNS ADR",
+      "percent": 2.26
+    },
+    {
+      "ticker": "Z",
+      "name": "ZILLOW GROUP INC - C",
+      "percent": 2.21
+    },
+    {
+      "ticker": "TDOC",
+      "name": "TELADOC HEALTH INC",
+      "percent": 2.2
+    },
+    {
+      "ticker": "SNAP",
+      "name": "SNAP INC - A",
+      "percent": 2.2
+    },
+    {
+      "ticker": "VCYT",
+      "name": "VERACYTE INC",
+      "percent": 2.17
+    },
+    {
+      "ticker": "GBTC",
+      "name": "GRAYSCALE BITCOIN TRUST BTC",
+      "percent": 2.04
+    },
+    {
+      "ticker": "MELI",
+      "name": "MERCADOLIBRE INC",
+      "percent": 1.82
+    },
+    {
+      "ticker": "AMZN",
+      "name": "AMAZON.COM INC",
+      "percent": 1.81
+    },
+    {
+      "ticker": "SPLK",
+      "name": "SPLUNK INC",
+      "percent": 1.77
+    },
+    {
+      "ticker": "BABA",
+      "name": "ALIBABA GROUP HOLDING-SP ADR",
+      "percent": 1.77
+    },
+    {
+      "ticker": "NFLX",
+      "name": "NETFLIX INC",
+      "percent": 1.65
+    },
+    {
+      "ticker": "ICE",
+      "name": "INTERCONTINENTAL EXCHANGE IN",
+      "percent": 1.61
+    },
+    {
+      "ticker": "TTD",
+      "name": "TRADE DESK INC/THE -CLASS A",
+      "percent": 1.46
+    },
+    {
+      "ticker": "IPOB",
+      "name": "SOCIAL CAPITAL HEDOSOPHIA-A",
+      "percent": 1.29
+    },
+    {
+      "ticker": "CRWD",
+      "name": "CROWDSTRIKE HOLDINGS INC - A",
+      "percent": 1.29
+    },
+    {
+      "ticker": "HUBS",
+      "name": "HUBSPOT INC",
+      "percent": 1.18
+    },
+    {
+      "ticker": "TSM",
+      "name": "TAIWAN SEMICONDUCTOR-SP ADR",
+      "percent": 1.11
+    },
+    {
+      "ticker": "PYPL",
+      "name": "PAYPAL HOLDINGS INC",
+      "percent": 1.11
+    },
+    {
+      "ticker": "FSLY",
+      "name": "FASTLY INC - CLASS A",
+      "percent": 1.11
+    },
+    {
+      "ticker": "TEAM",
+      "name": "ATLASSIAN CORP PLC-CLASS A",
+      "percent": 1.07
+    },
+    {
+      "ticker": "OKTA",
+      "name": "OKTA INC",
+      "percent": 1.05
+    },
+    {
+      "ticker": "ZM",
+      "name": "ZOOM VIDEO COMMUNICATIONS-A",
+      "percent": 1.02
+    },
+    {
+      "ticker": "NVDA",
+      "name": "NVIDIA CORP",
+      "percent": 1.02
+    },
+    {
+      "ticker": "ADYEY",
+      "name": "ADYEN NV-UNSPON ADR",
+      "percent": 1.01
+    },
+    {
+      "ticker": "TWTR",
+      "name": "TWITTER INC",
+      "percent": 1.01
+    },
+    {
+      "ticker": "U",
+      "name": "UNITY SOFTWARE INC",
+      "percent": 1.01
+    },
+    {
+      "ticker": "DOCU",
+      "name": "DOCUSIGN INC",
+      "percent": 0.98
+    },
+    {
+      "ticker": "NTDOY",
+      "name": "NINTENDO CO LTD-UNSPONS ADR",
+      "percent": 0.98
+    },
+    {
+      "ticker": "SNPS",
+      "name": "SYNOPSYS INC",
+      "percent": 0.97
+    },
+    {
+      "ticker": "ADBE",
+      "name": "ADOBE INC",
+      "percent": 0.96
+    },
+    {
+      "ticker": "JD",
+      "name": "JD.COM INC-ADR",
+      "percent": 0.95
+    },
+    {
+      "ticker": "LC",
+      "name": "LENDINGCLUB CORP",
+      "percent": 0.81
+    },
+    {
+      "ticker": "XLNX",
+      "name": "XILINX INC",
+      "percent": 0.64
+    },
+    {
+      "ticker": "NET",
+      "name": "CLOUDFLARE INC - CLASS A",
+      "percent": 0.53
+    },
+    {
+      "ticker": "ZS",
+      "name": "ZSCALER INC",
+      "percent": 0.53
+    },
+    {
+      "ticker": "WIX",
+      "name": "WIX.COM LTD",
+      "percent": 0.43
+    },
+    {
+      "ticker": "",
+      "name": "MORGAN STANLEY GOVT INSTL 8035",
+      "percent": 0.24
+    },
+    {
+      "ticker": "PLTR",
+      "name": "PALANTIR TECHNOLOGIES INC-A",
+      "percent": 0.01
+    },
+    {
+      "ticker": "CRM",
+      "name": "SALESFORCE.COM INC",
+      "percent": 0.01
+    }
+  ]
+}

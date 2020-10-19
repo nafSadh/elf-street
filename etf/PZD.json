@@ -1,0 +1,325 @@
+{
+  "Products": "Cleantech™ ETF",
+  "Ticker": "PZD",
+  "Inception": "10/24/2006",
+  "Gross Exp. Ratio": "0.68%",
+  "YTD": "17.99",
+  "1Yr": "32.10",
+  "3Yr": "13.07",
+  "5Yr": "18.11",
+  "10Yr": "10.18",
+  "Since Incept.": "7.02",
+  "Category": "Thematic",
+  "SubCategory": "Sustainable",
+  "ticker": "PZD",
+  "name": "Cleantech™ ETF",
+  "issuer": "Invesco",
+  "website": "https://www.invesco.com/us/financial-products/etfs/product-detail?audienceType=Investor&ticker=PZD",
+  "holdingDataSource": {
+    "url": "https://www.invesco.com/us/financial-products/etfs/holdings/main/holdings/0?audienceType=Investor&action=download&ticker=PZD",
+    "fileExt": "csv",
+    "transform": "invesco"
+  },
+  "holdings": [
+    {
+      "ticker": "SEDG",
+      "name": "SolarEdge Technologies Inc",
+      "percent": "4.407"
+    },
+    {
+      "ticker": "ENPH",
+      "name": "Enphase Energy Inc",
+      "percent": "4.058"
+    },
+    {
+      "ticker": "VWS DC",
+      "name": "Vestas Wind Systems A/S",
+      "percent": "3.151"
+    },
+    {
+      "ticker": "ADSK",
+      "name": "Autodesk Inc",
+      "percent": "3.126"
+    },
+    {
+      "ticker": "SGRE",
+      "name": "Siemens Gamesa Renewable Energy SA",
+      "percent": "3.100"
+    },
+    {
+      "ticker": "ANSS",
+      "name": "ANSYS Inc",
+      "percent": "3.090"
+    },
+    {
+      "ticker": "ERF FP",
+      "name": "Eurofins Scientific SE",
+      "percent": "2.923"
+    },
+    {
+      "ticker": "XYL",
+      "name": "Xylem Inc/NY",
+      "percent": "2.910"
+    },
+    {
+      "ticker": "TRMB",
+      "name": "Trimble Inc",
+      "percent": "2.869"
+    },
+    {
+      "ticker": "KSP",
+      "name": "Kingspan Group PLC",
+      "percent": "2.831"
+    },
+    {
+      "ticker": "ABBN SW",
+      "name": "ABB Ltd",
+      "percent": "2.807"
+    },
+    {
+      "ticker": "SU FP",
+      "name": "Schneider Electric SE",
+      "percent": "2.752"
+    },
+    {
+      "ticker": "JCI",
+      "name": "Johnson Controls International plc",
+      "percent": "2.733"
+    },
+    {
+      "ticker": "NZYMB DC",
+      "name": "Novozymes A/S",
+      "percent": "2.706"
+    },
+    {
+      "ticker": "SGSN SW",
+      "name": "SGS SA",
+      "percent": "2.702"
+    },
+    {
+      "ticker": "ITRK LN",
+      "name": "Intertek Group PLC",
+      "percent": "2.641"
+    },
+    {
+      "ticker": "ST",
+      "name": "Sensata Technologies Holding PLC",
+      "percent": "2.422"
+    },
+    {
+      "ticker": "BWA",
+      "name": "BorgWarner Inc",
+      "percent": "2.393"
+    },
+    {
+      "ticker": "RUN",
+      "name": "Sunrun Inc",
+      "percent": "2.376"
+    },
+    {
+      "ticker": "CREE",
+      "name": "Cree Inc",
+      "percent": "2.286"
+    },
+    {
+      "ticker": "UMI",
+      "name": "Umicore SA",
+      "percent": "2.235"
+    },
+    {
+      "ticker": "DCI",
+      "name": "Donaldson Co Inc",
+      "percent": "2.133"
+    },
+    {
+      "ticker": "ORA",
+      "name": "Ormat Technologies Inc",
+      "percent": "2.083"
+    },
+    {
+      "ticker": "POWI",
+      "name": "Power Integrations Inc",
+      "percent": "2.034"
+    },
+    {
+      "ticker": "TOM",
+      "name": "TOMRA Systems ASA",
+      "percent": "1.996"
+    },
+    {
+      "ticker": "SMTC",
+      "name": "Semtech Corp",
+      "percent": "1.889"
+    },
+    {
+      "ticker": "SSO",
+      "name": "Scatec Solar ASA",
+      "percent": "1.855"
+    },
+    {
+      "ticker": "HASI",
+      "name": "Hannon Armstrong Sustainable Infrastructure Capital Inc",
+      "percent": "1.835"
+    },
+    {
+      "ticker": "WWD",
+      "name": "Woodward Inc",
+      "percent": "1.811"
+    },
+    {
+      "ticker": "AEIS",
+      "name": "Advanced Energy Industries Inc",
+      "percent": "1.715"
+    },
+    {
+      "ticker": "KRNT",
+      "name": "Kornit Digital Ltd",
+      "percent": "1.698"
+    },
+    {
+      "ticker": "ITRI",
+      "name": "Itron Inc",
+      "percent": "1.681"
+    },
+    {
+      "ticker": "ENS",
+      "name": "EnerSys",
+      "percent": "1.667"
+    },
+    {
+      "ticker": "AMRC",
+      "name": "Ameresco Inc",
+      "percent": "1.497"
+    },
+    {
+      "ticker": "HXL",
+      "name": "Hexcel Corp",
+      "percent": "1.429"
+    },
+    {
+      "ticker": "BMI",
+      "name": "Badger Meter Inc",
+      "percent": "1.424"
+    },
+    {
+      "ticker": "VAIAS FH",
+      "name": "Vaisala Oyj",
+      "percent": "1.310"
+    },
+    {
+      "ticker": "6856 JP",
+      "name": "Horiba Ltd",
+      "percent": "1.263"
+    },
+    {
+      "ticker": "TPIC",
+      "name": "TPI Composites Inc",
+      "percent": "1.234"
+    },
+    {
+      "ticker": "KAI",
+      "name": "Kadant Inc",
+      "percent": "1.005"
+    },
+    {
+      "ticker": "LNN",
+      "name": "Lindsay Corp",
+      "percent": "0.989"
+    },
+    {
+      "ticker": "XPP LN",
+      "name": "XP Power Ltd",
+      "percent": "0.911"
+    },
+    {
+      "ticker": "SANT",
+      "name": "S&T AG",
+      "percent": "0.910"
+    },
+    {
+      "ticker": "RAVN",
+      "name": "Raven Industries Inc",
+      "percent": "0.799"
+    },
+    {
+      "ticker": "GUR SW",
+      "name": "Gurit Holding AG",
+      "percent": "0.770"
+    },
+    {
+      "ticker": "HOLI",
+      "name": "Hollysys Automation Technologies Ltd",
+      "percent": "0.698"
+    },
+    {
+      "ticker": "DGII",
+      "name": "Digi International Inc",
+      "percent": "0.680"
+    },
+    {
+      "ticker": "PQG",
+      "name": "PQ Group Holdings Inc",
+      "percent": "0.650"
+    },
+    {
+      "ticker": "WLDN",
+      "name": "Willdan Group Inc",
+      "percent": "0.568"
+    },
+    {
+      "ticker": "IXX",
+      "name": "Traffic Systems SE",
+      "percent": "0.526"
+    },
+    {
+      "ticker": "RCDO LN",
+      "name": "Ricardo PLC",
+      "percent": "0.444"
+    },
+    {
+      "ticker": "-Euro-",
+      "name": "Cash/Receivables/Payables",
+      "percent": "0.002"
+    },
+    {
+      "ticker": "-GBP-",
+      "name": "Cash/Receivables/Payables",
+      "percent": "0.000"
+    },
+    {
+      "ticker": "-NorwayKrn",
+      "name": "Cash/Receivables/Payables",
+      "percent": "0.000"
+    },
+    {
+      "ticker": "-Philippin",
+      "name": "Cash/Receivables/Payables",
+      "percent": "-0.000"
+    },
+    {
+      "ticker": "-JapanYen-",
+      "name": "Cash/Receivables/Payables",
+      "percent": "-0.000"
+    },
+    {
+      "ticker": "-SwedKrona",
+      "name": "Cash/Receivables/Payables",
+      "percent": "-0.000"
+    },
+    {
+      "ticker": "-DenmarkKr",
+      "name": "Cash/Receivables/Payables",
+      "percent": "-0.000"
+    },
+    {
+      "ticker": "-SwissFran",
+      "name": "Cash/Receivables/Payables",
+      "percent": "-0.001"
+    },
+    {
+      "ticker": "-CASH-",
+      "name": "Cash/Receivables/Payables",
+      "percent": "-0.024"
+    }
+  ]
+}

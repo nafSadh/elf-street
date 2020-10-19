@@ -1,0 +1,1375 @@
+{
+  "Products": "Variable Rate Preferred ETF",
+  "Ticker": "VRP",
+  "Inception": "05/01/2014",
+  "Gross Exp. Ratio": "0.50%",
+  "YTD": "-1.30",
+  "1Yr": "1.51",
+  "3Yr": "3.02",
+  "5Yr": "5.43",
+  "10Yr": "",
+  "Since Incept.": "4.81",
+  "Category": "Income",
+  "SubCategory": "Preferred",
+  "ticker": "VRP",
+  "name": "Variable Rate Preferred ETF",
+  "issuer": "Invesco",
+  "website": "https://www.invesco.com/us/financial-products/etfs/product-detail?audienceType=Investor&ticker=VRP",
+  "holdingDataSource": {
+    "url": "https://www.invesco.com/us/financial-products/etfs/holdings/main/holdings/0?audienceType=Investor&action=download&ticker=VRP",
+    "fileExt": "csv",
+    "transform": "invesco"
+  },
+  "holdings": [
+    {
+      "ticker": "369604BQ5",
+      "name": "General Electric Co",
+      "percent": "2.19"
+    },
+    {
+      "ticker": "48128BAG6",
+      "name": "JPMorgan Chase & Co",
+      "percent": "1.44"
+    },
+    {
+      "ticker": "46625HHA1",
+      "name": "JPMorgan Chase & Co",
+      "percent": "1.37"
+    },
+    {
+      "ticker": "808513BD6",
+      "name": "Charles Schwab Corp/The",
+      "percent": "1.34"
+    },
+    {
+      "ticker": "ALLY A",
+      "name": "GMAC Capital Trust I",
+      "percent": "1.31"
+    },
+    {
+      "ticker": "05565QDV7",
+      "name": "BP Capital Markets PLC",
+      "percent": "1.28"
+    },
+    {
+      "ticker": "05565QDU9",
+      "name": "BP Capital Markets PLC",
+      "percent": "1.26"
+    },
+    {
+      "ticker": "060505FL3",
+      "name": "Bank of America Corp",
+      "percent": "1.25"
+    },
+    {
+      "ticker": "92978AAA0",
+      "name": "Wachovia Capital Trust III",
+      "percent": "1.21"
+    },
+    {
+      "ticker": "C N",
+      "name": "Citigroup Capital XIII",
+      "percent": "1.19"
+    },
+    {
+      "ticker": "48127FAA1",
+      "name": "JPMorgan Chase & Co",
+      "percent": "1.16"
+    },
+    {
+      "ticker": "92857WBQ2",
+      "name": "Vodafone Group PLC",
+      "percent": "1.12"
+    },
+    {
+      "ticker": "48128BAF8",
+      "name": "JPMorgan Chase & Co",
+      "percent": "1.11"
+    },
+    {
+      "ticker": "46625HJQ4",
+      "name": "JPMorgan Chase & Co",
+      "percent": "1.04"
+    },
+    {
+      "ticker": "060505EH3",
+      "name": "Bank of America Corp",
+      "percent": "1.03"
+    },
+    {
+      "ticker": "949746RN3",
+      "name": "Wells Fargo & Co",
+      "percent": "1.02"
+    },
+    {
+      "ticker": "060505EN0",
+      "name": "Bank of America Corp",
+      "percent": "1.01"
+    },
+    {
+      "ticker": "172967JM4",
+      "name": "Citigroup Inc",
+      "percent": "1.00"
+    },
+    {
+      "ticker": "949746RG8",
+      "name": "Wells Fargo & Co",
+      "percent": "1.00"
+    },
+    {
+      "ticker": "38148BAB4",
+      "name": "Goldman Sachs Group Inc/The",
+      "percent": "0.95"
+    },
+    {
+      "ticker": "46625HKK5",
+      "name": "JPMorgan Chase & Co",
+      "percent": "0.95"
+    },
+    {
+      "ticker": "WFC Q",
+      "name": "Wells Fargo & Co",
+      "percent": "0.89"
+    },
+    {
+      "ticker": "172967HQ7",
+      "name": "Citigroup Inc",
+      "percent": "0.87"
+    },
+    {
+      "ticker": "89832QAD1",
+      "name": "Truist Financial Corp",
+      "percent": "0.82"
+    },
+    {
+      "ticker": "C K",
+      "name": "Citigroup Inc",
+      "percent": "0.81"
+    },
+    {
+      "ticker": "172967KM2",
+      "name": "Citigroup Inc",
+      "percent": "0.81"
+    },
+    {
+      "ticker": "48126HAC4",
+      "name": "JPMorgan Chase & Co",
+      "percent": "0.81"
+    },
+    {
+      "ticker": "PNC P",
+      "name": "PNC Financial Services Group Inc/The",
+      "percent": "0.78"
+    },
+    {
+      "ticker": "744320AM4",
+      "name": "Prudential Financial Inc",
+      "percent": "0.76"
+    },
+    {
+      "ticker": "172967GD7",
+      "name": "Citigroup Inc",
+      "percent": "0.74"
+    },
+    {
+      "ticker": "060505EL4",
+      "name": "Bank of America Corp",
+      "percent": "0.73"
+    },
+    {
+      "ticker": "172967MG3",
+      "name": "Citigroup Inc",
+      "percent": "0.73"
+    },
+    {
+      "ticker": "48126HAA8",
+      "name": "JPMorgan Chase & Co",
+      "percent": "0.73"
+    },
+    {
+      "ticker": "89356BAC2",
+      "name": "Transcanada Trust",
+      "percent": "0.72"
+    },
+    {
+      "ticker": "48124BAC9",
+      "name": "JPMorgan Chase & Co",
+      "percent": "0.72"
+    },
+    {
+      "ticker": "617474AA9",
+      "name": "Morgan Stanley",
+      "percent": "0.71"
+    },
+    {
+      "ticker": "172967KD2",
+      "name": "Citigroup Inc",
+      "percent": "0.71"
+    },
+    {
+      "ticker": "172967MK4",
+      "name": "Citigroup Inc",
+      "percent": "0.70"
+    },
+    {
+      "ticker": "38148BAD0",
+      "name": "Goldman Sachs Group Inc/The",
+      "percent": "0.70"
+    },
+    {
+      "ticker": "48128BAH4",
+      "name": "JPMorgan Chase & Co",
+      "percent": "0.69"
+    },
+    {
+      "ticker": "AGPXX",
+      "name": "STIT - Government & Agency Portfolio",
+      "percent": "0.64"
+    },
+    {
+      "ticker": "89356BAB4",
+      "name": "Transcanada Trust",
+      "percent": "0.63"
+    },
+    {
+      "ticker": "61761JQK8",
+      "name": "Morgan Stanley",
+      "percent": "0.62"
+    },
+    {
+      "ticker": "GS D",
+      "name": "Goldman Sachs Group Inc/The",
+      "percent": "0.62"
+    },
+    {
+      "ticker": "842587DF1",
+      "name": "Southern Co/The",
+      "percent": "0.61"
+    },
+    {
+      "ticker": "172967JZ5",
+      "name": "Citigroup Inc",
+      "percent": "0.60"
+    },
+    {
+      "ticker": "172967GR6",
+      "name": "Citigroup Inc",
+      "percent": "0.60"
+    },
+    {
+      "ticker": "48128BAD3",
+      "name": "JPMorgan Chase & Co",
+      "percent": "0.58"
+    },
+    {
+      "ticker": "USB M",
+      "name": "US Bancorp",
+      "percent": "0.57"
+    },
+    {
+      "ticker": "89356BAE8",
+      "name": "Transcanada Trust",
+      "percent": "0.55"
+    },
+    {
+      "ticker": "060505EU4",
+      "name": "Bank of America Corp",
+      "percent": "0.55"
+    },
+    {
+      "ticker": "744320BF8",
+      "name": "Prudential Financial Inc",
+      "percent": "0.55"
+    },
+    {
+      "ticker": "MS K",
+      "name": "Morgan Stanley",
+      "percent": "0.54"
+    },
+    {
+      "ticker": "MER K",
+      "name": "Bank of America Corp",
+      "percent": "0.54"
+    },
+    {
+      "ticker": "MS I",
+      "name": "Morgan Stanley",
+      "percent": "0.53"
+    },
+    {
+      "ticker": "060505FQ2",
+      "name": "Bank of America Corp",
+      "percent": "0.53"
+    },
+    {
+      "ticker": "GS J",
+      "name": "Goldman Sachs Group Inc/The",
+      "percent": "0.53"
+    },
+    {
+      "ticker": "89832QAF6",
+      "name": "Truist Financial Corp",
+      "percent": "0.53"
+    },
+    {
+      "ticker": "C J",
+      "name": "Citigroup Inc",
+      "percent": "0.52"
+    },
+    {
+      "ticker": "89832QAE9",
+      "name": "Truist Financial Corp",
+      "percent": "0.52"
+    },
+    {
+      "ticker": "744320AV4",
+      "name": "Prudential Financial Inc",
+      "percent": "0.51"
+    },
+    {
+      "ticker": "902973AZ9",
+      "name": "US Bancorp",
+      "percent": "0.51"
+    },
+    {
+      "ticker": "064058AH3",
+      "name": "Bank of New York Mellon Corp/The",
+      "percent": "0.51"
+    },
+    {
+      "ticker": "744320AL6",
+      "name": "Prudential Financial Inc",
+      "percent": "0.51"
+    },
+    {
+      "ticker": "064058AF7",
+      "name": "Bank of New York Mellon Corp/The",
+      "percent": "0.51"
+    },
+    {
+      "ticker": "MS A",
+      "name": "Morgan Stanley",
+      "percent": "0.51"
+    },
+    {
+      "ticker": "26441CBG9",
+      "name": "Duke Energy Corp",
+      "percent": "0.50"
+    },
+    {
+      "ticker": "29250NBC8",
+      "name": "Enbridge Inc",
+      "percent": "0.50"
+    },
+    {
+      "ticker": "46625HJW1",
+      "name": "JPMorgan Chase & Co",
+      "percent": "0.49"
+    },
+    {
+      "ticker": "693475AK1",
+      "name": "PNC Financial Services Group Inc/The",
+      "percent": "0.49"
+    },
+    {
+      "ticker": "59156RCA4",
+      "name": "MetLife Inc",
+      "percent": "0.49"
+    },
+    {
+      "ticker": "060505FP4",
+      "name": "Bank of America Corp",
+      "percent": "0.49"
+    },
+    {
+      "ticker": "060505ED2",
+      "name": "Bank of America Corp",
+      "percent": "0.48"
+    },
+    {
+      "ticker": "MS E",
+      "name": "Morgan Stanley",
+      "percent": "0.47"
+    },
+    {
+      "ticker": "064058AD2",
+      "name": "Bank of New York Mellon Corp/The",
+      "percent": "0.47"
+    },
+    {
+      "ticker": "WFC R",
+      "name": "Wells Fargo & Co",
+      "percent": "0.46"
+    },
+    {
+      "ticker": "29250NAS4",
+      "name": "Enbridge Inc",
+      "percent": "0.46"
+    },
+    {
+      "ticker": "MS F",
+      "name": "Morgan Stanley",
+      "percent": "0.46"
+    },
+    {
+      "ticker": "29379VBN2",
+      "name": "Enterprise Products Operating LLC",
+      "percent": "0.46"
+    },
+    {
+      "ticker": "USB H",
+      "name": "US Bancorp",
+      "percent": "0.45"
+    },
+    {
+      "ticker": "ATH-PA",
+      "name": "Athene Holding Ltd",
+      "percent": "0.45"
+    },
+    {
+      "ticker": "816851BK4",
+      "name": "Sempra Energy",
+      "percent": "0.45"
+    },
+    {
+      "ticker": "14040HBH7",
+      "name": "Capital One Financial Corp",
+      "percent": "0.44"
+    },
+    {
+      "ticker": "29278NAT0",
+      "name": "Energy Transfer Operating LP",
+      "percent": "0.44"
+    },
+    {
+      "ticker": "37045XCA2",
+      "name": "General Motors Financial Co Inc",
+      "percent": "0.44"
+    },
+    {
+      "ticker": "007924AJ2",
+      "name": "Aegon NV",
+      "percent": "0.42"
+    },
+    {
+      "ticker": "020002BB6",
+      "name": "Allstate Corp/The",
+      "percent": "0.42"
+    },
+    {
+      "ticker": "STT D",
+      "name": "State Street Corp",
+      "percent": "0.41"
+    },
+    {
+      "ticker": "29250NAW5",
+      "name": "Enbridge Inc",
+      "percent": "0.41"
+    },
+    {
+      "ticker": "744320BH4",
+      "name": "Prudential Financial Inc",
+      "percent": "0.40"
+    },
+    {
+      "ticker": "026874DM6",
+      "name": "American International Group Inc",
+      "percent": "0.40"
+    },
+    {
+      "ticker": "025816BL2",
+      "name": "American Express Co",
+      "percent": "0.39"
+    },
+    {
+      "ticker": "744320AW2",
+      "name": "Prudential Financial Inc",
+      "percent": "0.39"
+    },
+    {
+      "ticker": "25746UDD8",
+      "name": "Dominion Energy Inc",
+      "percent": "0.39"
+    },
+    {
+      "ticker": "GS K",
+      "name": "Goldman Sachs Group Inc/The",
+      "percent": "0.39"
+    },
+    {
+      "ticker": "15189TAS6",
+      "name": "CenterPoint Energy Inc",
+      "percent": "0.38"
+    },
+    {
+      "ticker": "854502AM3",
+      "name": "Stanley Black & Decker Inc",
+      "percent": "0.38"
+    },
+    {
+      "ticker": "172967GF2",
+      "name": "Citigroup Inc",
+      "percent": "0.37"
+    },
+    {
+      "ticker": "89356BAA6",
+      "name": "Transcanada Trust",
+      "percent": "0.36"
+    },
+    {
+      "ticker": "902973AY2",
+      "name": "US Bancorp",
+      "percent": "0.36"
+    },
+    {
+      "ticker": "025816BJ7",
+      "name": "American Express Co",
+      "percent": "0.36"
+    },
+    {
+      "ticker": "25746UBY4",
+      "name": "Dominion Energy Inc",
+      "percent": "0.35"
+    },
+    {
+      "ticker": "857477AQ6",
+      "name": "State Street Corp",
+      "percent": "0.35"
+    },
+    {
+      "ticker": "381427AA1",
+      "name": "Goldman Sachs Capital II",
+      "percent": "0.34"
+    },
+    {
+      "ticker": "GS A",
+      "name": "Goldman Sachs Group Inc/The",
+      "percent": "0.34"
+    },
+    {
+      "ticker": "89832QAB5",
+      "name": "Truist Financial Corp",
+      "percent": "0.34"
+    },
+    {
+      "ticker": "92553PBC5",
+      "name": "ViacomCBS Inc",
+      "percent": "0.34"
+    },
+    {
+      "ticker": "89352HAC3",
+      "name": "TransCanada PipeLines Ltd",
+      "percent": "0.34"
+    },
+    {
+      "ticker": "38148BAC2",
+      "name": "Goldman Sachs Group Inc/The",
+      "percent": "0.33"
+    },
+    {
+      "ticker": "ETP E",
+      "name": "Energy Transfer Operating LP",
+      "percent": "0.33"
+    },
+    {
+      "ticker": "NLY F",
+      "name": "Annaly Capital Management Inc",
+      "percent": "0.32"
+    },
+    {
+      "ticker": "ATH C",
+      "name": "Athene Holding Ltd",
+      "percent": "0.32"
+    },
+    {
+      "ticker": "29379VBM4",
+      "name": "Enterprise Products Operating LLC",
+      "percent": "0.32"
+    },
+    {
+      "ticker": "HGH",
+      "name": "Hartford Financial Services Group Inc/The",
+      "percent": "0.32"
+    },
+    {
+      "ticker": "29379VBR3",
+      "name": "Enterprise Products Operating LLC",
+      "percent": "0.31"
+    },
+    {
+      "ticker": "91731KAA8",
+      "name": "USB Capital IX",
+      "percent": "0.31"
+    },
+    {
+      "ticker": "570535AW4",
+      "name": "Markel Corp",
+      "percent": "0.31"
+    },
+    {
+      "ticker": "29278NAA1",
+      "name": "Energy Transfer Operating LP",
+      "percent": "0.30"
+    },
+    {
+      "ticker": "ENBA",
+      "name": "Enbridge Inc",
+      "percent": "0.30"
+    },
+    {
+      "ticker": "WCC A",
+      "name": "WESCO International Inc",
+      "percent": "0.30"
+    },
+    {
+      "ticker": "MET A",
+      "name": "MetLife Inc",
+      "percent": "0.30"
+    },
+    {
+      "ticker": "808513AP0",
+      "name": "Charles Schwab Corp/The",
+      "percent": "0.30"
+    },
+    {
+      "ticker": "38144GAB7",
+      "name": "Goldman Sachs Group Inc/The",
+      "percent": "0.29"
+    },
+    {
+      "ticker": "KEY I",
+      "name": "KeyCorp",
+      "percent": "0.29"
+    },
+    {
+      "ticker": "NYCB A",
+      "name": "New York Community Bancorp Inc",
+      "percent": "0.28"
+    },
+    {
+      "ticker": "65339KAV2",
+      "name": "NextEra Energy Capital Holdings Inc",
+      "percent": "0.28"
+    },
+    {
+      "ticker": "00774YAA7",
+      "name": "AerCap Holdings NV",
+      "percent": "0.28"
+    },
+    {
+      "ticker": "NI B",
+      "name": "NiSource Inc",
+      "percent": "0.28"
+    },
+    {
+      "ticker": "RF C",
+      "name": "Regions Financial Corp",
+      "percent": "0.27"
+    },
+    {
+      "ticker": "316773CM0",
+      "name": "Fifth Third Bancorp",
+      "percent": "0.27"
+    },
+    {
+      "ticker": "STT G",
+      "name": "State Street Corp",
+      "percent": "0.27"
+    },
+    {
+      "ticker": "493267AK4",
+      "name": "KeyCorp",
+      "percent": "0.27"
+    },
+    {
+      "ticker": "842587CY1",
+      "name": "Southern Co/The",
+      "percent": "0.27"
+    },
+    {
+      "ticker": "59156RBT4",
+      "name": "MetLife Inc",
+      "percent": "0.27"
+    },
+    {
+      "ticker": "693475AQ8",
+      "name": "PNC Financial Services Group Inc/The",
+      "percent": "0.27"
+    },
+    {
+      "ticker": "446150AT1",
+      "name": "Huntington Bancshares Inc/OH",
+      "percent": "0.26"
+    },
+    {
+      "ticker": "RF B",
+      "name": "Regions Financial Corp",
+      "percent": "0.26"
+    },
+    {
+      "ticker": "ALL B",
+      "name": "Allstate Corp/The",
+      "percent": "0.26"
+    },
+    {
+      "ticker": "65339KBK5",
+      "name": "NextEra Energy Capital Holdings Inc",
+      "percent": "0.26"
+    },
+    {
+      "ticker": "38148BAE8",
+      "name": "Goldman Sachs Group Inc/The",
+      "percent": "0.26"
+    },
+    {
+      "ticker": "254709AN8",
+      "name": "Discover Financial Services",
+      "percent": "0.26"
+    },
+    {
+      "ticker": "CHSCM",
+      "name": "CHS Inc",
+      "percent": "0.26"
+    },
+    {
+      "ticker": "744320AN2",
+      "name": "Prudential Financial Inc",
+      "percent": "0.26"
+    },
+    {
+      "ticker": "92553PBD3",
+      "name": "ViacomCBS Inc",
+      "percent": "0.26"
+    },
+    {
+      "ticker": "125896BU3",
+      "name": "CMS Energy Corp",
+      "percent": "0.26"
+    },
+    {
+      "ticker": "693475AM7",
+      "name": "PNC Financial Services Group Inc/The",
+      "percent": "0.26"
+    },
+    {
+      "ticker": "29452EAA9",
+      "name": "Equitable Holdings Inc",
+      "percent": "0.25"
+    },
+    {
+      "ticker": "857477BA0",
+      "name": "State Street Corp",
+      "percent": "0.25"
+    },
+    {
+      "ticker": "254709AQ1",
+      "name": "Discover Financial Services",
+      "percent": "0.25"
+    },
+    {
+      "ticker": "AGNCP",
+      "name": "AGNC Investment Corp",
+      "percent": "0.25"
+    },
+    {
+      "ticker": "55261FAH7",
+      "name": "M&T Bank Corp",
+      "percent": "0.25"
+    },
+    {
+      "ticker": "FITBI",
+      "name": "Fifth Third Bancorp",
+      "percent": "0.25"
+    },
+    {
+      "ticker": "808513AR6",
+      "name": "Charles Schwab Corp/The",
+      "percent": "0.25"
+    },
+    {
+      "ticker": "534187AS8",
+      "name": "Lincoln National Corp",
+      "percent": "0.25"
+    },
+    {
+      "ticker": "59156RBP2",
+      "name": "MetLife Inc",
+      "percent": "0.25"
+    },
+    {
+      "ticker": "665859AQ7",
+      "name": "Northern Trust Corp",
+      "percent": "0.25"
+    },
+    {
+      "ticker": "37045XDB9",
+      "name": "General Motors Financial Co Inc",
+      "percent": "0.25"
+    },
+    {
+      "ticker": "743315AU7",
+      "name": "Progressive Corp/The",
+      "percent": "0.25"
+    },
+    {
+      "ticker": "89832QAC3",
+      "name": "Truist Financial Corp",
+      "percent": "0.24"
+    },
+    {
+      "ticker": "58551TAA5",
+      "name": "Mellon Capital IV",
+      "percent": "0.24"
+    },
+    {
+      "ticker": "70213BAC5",
+      "name": "PartnerRe Finance B LLC",
+      "percent": "0.24"
+    },
+    {
+      "ticker": "726503AE5",
+      "name": "Plains All American Pipeline LP",
+      "percent": "0.24"
+    },
+    {
+      "ticker": "37045XCM6",
+      "name": "General Motors Financial Co Inc",
+      "percent": "0.24"
+    },
+    {
+      "ticker": "446150AV6",
+      "name": "Huntington Bancshares Inc/OH",
+      "percent": "0.24"
+    },
+    {
+      "ticker": "064058AB6",
+      "name": "Bank of New York Mellon Corp/The",
+      "percent": "0.24"
+    },
+    {
+      "ticker": "CHSCN",
+      "name": "CHS Inc",
+      "percent": "0.23"
+    },
+    {
+      "ticker": "48123UAB0",
+      "name": "JPMorgan Chase & Co",
+      "percent": "0.23"
+    },
+    {
+      "ticker": "446150AL8",
+      "name": "Huntington Bancshares Inc/OH",
+      "percent": "0.22"
+    },
+    {
+      "ticker": "RZB",
+      "name": "Reinsurance Group of America Inc",
+      "percent": "0.22"
+    },
+    {
+      "ticker": "WEC",
+      "name": "Integrys Holding Inc",
+      "percent": "0.21"
+    },
+    {
+      "ticker": "RZA",
+      "name": "Reinsurance Group of America Inc",
+      "percent": "0.21"
+    },
+    {
+      "ticker": "61762VAA9",
+      "name": "Morgan Stanley",
+      "percent": "0.21"
+    },
+    {
+      "ticker": "857477AY9",
+      "name": "State Street Corp",
+      "percent": "0.21"
+    },
+    {
+      "ticker": "ESGRP",
+      "name": "Enstar Group Ltd",
+      "percent": "0.21"
+    },
+    {
+      "ticker": "200340AU1",
+      "name": "Comerica Inc",
+      "percent": "0.21"
+    },
+    {
+      "ticker": "BML L",
+      "name": "Bank of America Corp",
+      "percent": "0.21"
+    },
+    {
+      "ticker": "637432MT9",
+      "name": "National Rural Utilities Cooperative Finance Corp",
+      "percent": "0.20"
+    },
+    {
+      "ticker": "05463HAC5",
+      "name": "AXIS Specialty Finance LLC",
+      "percent": "0.20"
+    },
+    {
+      "ticker": "808513AE5",
+      "name": "Charles Schwab Corp/The",
+      "percent": "0.20"
+    },
+    {
+      "ticker": "174610AU9",
+      "name": "Citizens Financial Group Inc",
+      "percent": "0.20"
+    },
+    {
+      "ticker": "976657AH9",
+      "name": "WEC Energy Group Inc",
+      "percent": "0.20"
+    },
+    {
+      "ticker": "55261FAL8",
+      "name": "M&T Bank Corp",
+      "percent": "0.20"
+    },
+    {
+      "ticker": "NLY-PI",
+      "name": "Annaly Capital Management Inc",
+      "percent": "0.20"
+    },
+    {
+      "ticker": "AEL A",
+      "name": "American Equity Investment Life Holding Co",
+      "percent": "0.20"
+    },
+    {
+      "ticker": "AQNB",
+      "name": "Algonquin Power & Utilities Corp",
+      "percent": "0.19"
+    },
+    {
+      "ticker": "55261FAG9",
+      "name": "M&T Bank Corp",
+      "percent": "0.19"
+    },
+    {
+      "ticker": "637432NK7",
+      "name": "National Rural Utilities Cooperative Finance Corp",
+      "percent": "0.19"
+    },
+    {
+      "ticker": "AGNCO",
+      "name": "AGNC Investment Corp",
+      "percent": "0.18"
+    },
+    {
+      "ticker": "74251VAL6",
+      "name": "Principal Financial Group Inc",
+      "percent": "0.18"
+    },
+    {
+      "ticker": "7591EPAR1",
+      "name": "Regions Financial Corp",
+      "percent": "0.18"
+    },
+    {
+      "ticker": "SNV E",
+      "name": "Synovus Financial Corp",
+      "percent": "0.18"
+    },
+    {
+      "ticker": "NLY G",
+      "name": "Annaly Capital Management Inc",
+      "percent": "0.18"
+    },
+    {
+      "ticker": "ETP D",
+      "name": "Energy Transfer Operating LP",
+      "percent": "0.17"
+    },
+    {
+      "ticker": "ETP C",
+      "name": "Energy Transfer Operating LP",
+      "percent": "0.17"
+    },
+    {
+      "ticker": "534187AU3",
+      "name": "Lincoln National Corp",
+      "percent": "0.17"
+    },
+    {
+      "ticker": "29360AAA8",
+      "name": "Enstar Finance LLC",
+      "percent": "0.17"
+    },
+    {
+      "ticker": "SAN B",
+      "name": "Banco Santander SA",
+      "percent": "0.17"
+    },
+    {
+      "ticker": "VOYA B",
+      "name": "Voya Financial Inc",
+      "percent": "0.17"
+    },
+    {
+      "ticker": "316773DB3",
+      "name": "Fifth Third Bancorp",
+      "percent": "0.17"
+    },
+    {
+      "ticker": "CFG D",
+      "name": "Citizens Financial Group Inc",
+      "percent": "0.16"
+    },
+    {
+      "ticker": "BAC E",
+      "name": "Bank of America Corp",
+      "percent": "0.16"
+    },
+    {
+      "ticker": "AEL B",
+      "name": "American Equity Investment Life Holding Co",
+      "percent": "0.15"
+    },
+    {
+      "ticker": "AQNA",
+      "name": "Algonquin Power & Utilities Corp",
+      "percent": "0.15"
+    },
+    {
+      "ticker": "NSS",
+      "name": "NuStar Logistics LP",
+      "percent": "0.15"
+    },
+    {
+      "ticker": "AGNCN",
+      "name": "AGNC Investment Corp",
+      "percent": "0.15"
+    },
+    {
+      "ticker": "WTFCP",
+      "name": "Wintrust Financial Corp",
+      "percent": "0.15"
+    },
+    {
+      "ticker": "SCE J",
+      "name": "SCE Trust IV",
+      "percent": "0.15"
+    },
+    {
+      "ticker": "NRZ C",
+      "name": "New Residential Investment Corp",
+      "percent": "0.15"
+    },
+    {
+      "ticker": "AHL C",
+      "name": "Aspen Insurance Holdings Ltd",
+      "percent": "0.14"
+    },
+    {
+      "ticker": "61745VAB9",
+      "name": "Morgan Stanley",
+      "percent": "0.14"
+    },
+    {
+      "ticker": "SCE-PK",
+      "name": "SCE Trust V",
+      "percent": "0.14"
+    },
+    {
+      "ticker": "48123KAE6",
+      "name": "JPMorgan Chase & Co",
+      "percent": "0.14"
+    },
+    {
+      "ticker": "PBCTP",
+      "name": "People's United Financial Inc",
+      "percent": "0.13"
+    },
+    {
+      "ticker": "CIM B",
+      "name": "Chimera Investment Corp",
+      "percent": "0.13"
+    },
+    {
+      "ticker": "759351AE9",
+      "name": "Reinsurance Group of America Inc",
+      "percent": "0.13"
+    },
+    {
+      "ticker": "BML H",
+      "name": "Bank of America Corp",
+      "percent": "0.12"
+    },
+    {
+      "ticker": "SCE H",
+      "name": "SCE Trust III",
+      "percent": "0.12"
+    },
+    {
+      "ticker": "NS B",
+      "name": "NuStar Energy LP",
+      "percent": "0.12"
+    },
+    {
+      "ticker": "302570AW6",
+      "name": "NextEra Energy Capital Holdings Inc",
+      "percent": "0.12"
+    },
+    {
+      "ticker": "AEB",
+      "name": "Aegon NV",
+      "percent": "0.12"
+    },
+    {
+      "ticker": "AL A",
+      "name": "Air Lease Corp",
+      "percent": "0.12"
+    },
+    {
+      "ticker": "TWO B",
+      "name": "Two Harbors Investment Corp",
+      "percent": "0.12"
+    },
+    {
+      "ticker": "TWO C",
+      "name": "Two Harbors Investment Corp",
+      "percent": "0.11"
+    },
+    {
+      "ticker": "NRZ B",
+      "name": "New Residential Investment Corp",
+      "percent": "0.11"
+    },
+    {
+      "ticker": "AGNCM",
+      "name": "AGNC Investment Corp",
+      "percent": "0.11"
+    },
+    {
+      "ticker": "BML J",
+      "name": "Bank of America Corp",
+      "percent": "0.10"
+    },
+    {
+      "ticker": "299808AE5",
+      "name": "Everest Reinsurance Holdings Inc",
+      "percent": "0.10"
+    },
+    {
+      "ticker": "SNV D",
+      "name": "Synovus Financial Corp",
+      "percent": "0.10"
+    },
+    {
+      "ticker": "CIM C",
+      "name": "Chimera Investment Corp",
+      "percent": "0.10"
+    },
+    {
+      "ticker": "GS C",
+      "name": "Goldman Sachs Group Inc/The",
+      "percent": "0.10"
+    },
+    {
+      "ticker": "PMT B",
+      "name": "PennyMac Mortgage Investment Trust",
+      "percent": "0.09"
+    },
+    {
+      "ticker": "TFC I",
+      "name": "Truist Financial Corp",
+      "percent": "0.08"
+    },
+    {
+      "ticker": "NS A",
+      "name": "NuStar Energy LP",
+      "percent": "0.08"
+    },
+    {
+      "ticker": "TGP B",
+      "name": "Teekay LNG Partners LP",
+      "percent": "0.08"
+    },
+    {
+      "ticker": "CIM D",
+      "name": "Chimera Investment Corp",
+      "percent": "0.08"
+    },
+    {
+      "ticker": "NGL B",
+      "name": "NGL Energy Partners LP",
+      "percent": "0.08"
+    },
+    {
+      "ticker": "ARGO A",
+      "name": "Argo Group International Holdings Ltd",
+      "percent": "0.08"
+    },
+    {
+      "ticker": "WSBCP",
+      "name": "WesBanco Inc",
+      "percent": "0.07"
+    },
+    {
+      "ticker": "ZIONO",
+      "name": "Zions Bancorp NA",
+      "percent": "0.07"
+    },
+    {
+      "ticker": "ATCO I",
+      "name": "Atlas Corp",
+      "percent": "0.07"
+    },
+    {
+      "ticker": "NS C",
+      "name": "NuStar Energy LP",
+      "percent": "0.07"
+    },
+    {
+      "ticker": "NRZ A",
+      "name": "New Residential Investment Corp",
+      "percent": "0.07"
+    },
+    {
+      "ticker": "NYMTM",
+      "name": "New York Mortgage Trust Inc",
+      "percent": "0.07"
+    },
+    {
+      "ticker": "FNB E",
+      "name": "FNB Corp/PA",
+      "percent": "0.07"
+    },
+    {
+      "ticker": "WTFCM",
+      "name": "Wintrust Financial Corp",
+      "percent": "0.06"
+    },
+    {
+      "ticker": "TWO A",
+      "name": "Two Harbors Investment Corp",
+      "percent": "0.06"
+    },
+    {
+      "ticker": "HTLFP",
+      "name": "Heartland Financial USA Inc",
+      "percent": "0.06"
+    },
+    {
+      "ticker": "VLYPP",
+      "name": "Valley National Bancorp",
+      "percent": "0.06"
+    },
+    {
+      "ticker": "MBINO",
+      "name": "Merchants Bancorp/IN",
+      "percent": "0.06"
+    },
+    {
+      "ticker": "NGLS A",
+      "name": "Targa Resources Partners LP",
+      "percent": "0.06"
+    },
+    {
+      "ticker": "TNP F",
+      "name": "Tsakos Energy Navigation Ltd",
+      "percent": "0.06"
+    },
+    {
+      "ticker": "MFA C",
+      "name": "MFA Financial Inc",
+      "percent": "0.06"
+    },
+    {
+      "ticker": "PMT A",
+      "name": "PennyMac Mortgage Investment Trust",
+      "percent": "0.05"
+    },
+    {
+      "ticker": "DCP B",
+      "name": "DCP Midstream LP",
+      "percent": "0.05"
+    },
+    {
+      "ticker": "NYMTN",
+      "name": "New York Mortgage Trust Inc",
+      "percent": "0.05"
+    },
+    {
+      "ticker": "FHN D",
+      "name": "First Horizon National Corp",
+      "percent": "0.05"
+    },
+    {
+      "ticker": "VLYPO",
+      "name": "Valley National Bancorp",
+      "percent": "0.05"
+    },
+    {
+      "ticker": "DX C",
+      "name": "Dynex Capital Inc",
+      "percent": "0.05"
+    },
+    {
+      "ticker": "EFC A",
+      "name": "Ellington Financial Inc",
+      "percent": "0.05"
+    },
+    {
+      "ticker": "CODI B",
+      "name": "Compass Diversified Holdings",
+      "percent": "0.05"
+    },
+    {
+      "ticker": "FTAI B",
+      "name": "Fortress Transportation and Infrastructure Investors LLC",
+      "percent": "0.04"
+    },
+    {
+      "ticker": "TNP E",
+      "name": "Tsakos Energy Navigation Ltd",
+      "percent": "0.04"
+    },
+    {
+      "ticker": "ALIN E",
+      "name": "Altera Infrastructure LP",
+      "percent": "0.04"
+    },
+    {
+      "ticker": "GLOP A",
+      "name": "GasLog Partners LP",
+      "percent": "0.04"
+    },
+    {
+      "ticker": "XAN C",
+      "name": "Exantas Capital Corp",
+      "percent": "0.04"
+    },
+    {
+      "ticker": "MITT C",
+      "name": "AG Mortgage Investment Trust Inc",
+      "percent": "0.04"
+    },
+    {
+      "ticker": "DCP C",
+      "name": "DCP Midstream LP",
+      "percent": "0.04"
+    },
+    {
+      "ticker": "GLOP B",
+      "name": "GasLog Partners LP",
+      "percent": "0.03"
+    },
+    {
+      "ticker": "GLOP C",
+      "name": "GasLog Partners LP",
+      "percent": "0.03"
+    },
+    {
+      "ticker": "-CASH-",
+      "name": "Cash/Receivables/Payables",
+      "percent": "0.01"
+    }
+  ]
+}

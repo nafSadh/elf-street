@@ -1,0 +1,4466 @@
+{
+  "ticker": "SPMB",
+  "name": "SPDR® Portfolio Mortgage Backed Bond ETF",
+  "ISIN": "US78464A3831",
+  "CUSIP": "78464A383",
+  "Inception Date": "Jan 15 2009",
+  "Gross Expense Ratio": "0.07%",
+  "* Net Expense Ratio": "0.06%",
+  "Asset Class": "Fixed Income",
+  "Distribution Frequency": "Monthly",
+  "Primary Exchange": "NYSE ARCA EXCHANGE",
+  "Primary Index": "Bloomberg Barclays U.S. MBS Index",
+  "Primary Index Ticker": "LUMSTRUU",
+  "issuer": "SSGA",
+  "website": "https://www.ssga.com/us/en/individual/etfs/funds/spdr-portfolio-mortgage-backed-bond-etf-spmb",
+  "holdingDataSource": {
+    "fileUrl": "https://www.ssga.com/us/en/individual/etfs/library-content/products/fund-data/etfs/us/holdings-daily-us-en-spmb.xlsx",
+    "fileExt": "xlsx",
+    "transform": "spdr"
+  },
+  "holdings": [
+    {
+      "name": "STATE ST INST US GOV MM-G 0 00/00/0000",
+      "percent": "9.362219"
+    },
+    {
+      "name": "Freddie Mac 3 12/01/2049",
+      "percent": "2.866521"
+    },
+    {
+      "name": "Fannie Mae or Freddie Mac 2 12/31/2049",
+      "percent": "2.607109"
+    },
+    {
+      "name": "Fannie Mae or Freddie Mac 2.5 12/31/2049",
+      "percent": "2.364619"
+    },
+    {
+      "name": "Government National Mortgage A 3 01/20/2050",
+      "percent": "1.619478"
+    },
+    {
+      "name": "Freddie Mac 3.5 12/01/2049",
+      "percent": "1.428570"
+    },
+    {
+      "name": "Government National Mortgage A 4 07/20/2049",
+      "percent": "1.207813"
+    },
+    {
+      "name": "Government National Mortgage A 3 04/20/2050",
+      "percent": "1.110559"
+    },
+    {
+      "name": "Government National Mortgage A 3 12/31/2049",
+      "percent": "1.100973"
+    },
+    {
+      "name": "Government National Mortgage A 3.5 10/20/2049",
+      "percent": "1.065697"
+    },
+    {
+      "name": "Government National Mortgage A 3.5 02/20/2050",
+      "percent": "1.004765"
+    },
+    {
+      "name": "Government National Mortgage A 2.5 10/20/2050",
+      "percent": "0.996723"
+    },
+    {
+      "name": "Government National Mortgage A 3.5 01/20/2050",
+      "percent": "0.981220"
+    },
+    {
+      "name": "Freddie Mac 3.5 12/01/2049",
+      "percent": "0.950417"
+    },
+    {
+      "name": "Freddie Mac 3.5 12/01/2049",
+      "percent": "0.917588"
+    },
+    {
+      "name": "Government National Mortgage A 2.5 09/20/2050",
+      "percent": "0.861702"
+    },
+    {
+      "name": "Freddie Mac 3 02/01/2050",
+      "percent": "0.780529"
+    },
+    {
+      "name": "Fannie Mae 2.5 09/01/2050",
+      "percent": "0.773528"
+    },
+    {
+      "name": "Fannie Mae 3 08/01/2050",
+      "percent": "0.771877"
+    },
+    {
+      "name": "Freddie Mac 2.5 08/01/2050",
+      "percent": "0.769406"
+    },
+    {
+      "name": "Fannie Mae 4 04/01/2044",
+      "percent": "0.755125"
+    },
+    {
+      "name": "Freddie Mac 2.5 09/01/2050",
+      "percent": "0.748107"
+    },
+    {
+      "name": "Government National Mortgage A 3.5 07/20/2046",
+      "percent": "0.742810"
+    },
+    {
+      "name": "Government National Mortgage A 4 03/20/2050",
+      "percent": "0.723707"
+    },
+    {
+      "name": "Freddie Mac 3 12/01/2049",
+      "percent": "0.709139"
+    },
+    {
+      "name": "Freddie Mac 5 09/01/2049",
+      "percent": "0.678529"
+    },
+    {
+      "name": "Fannie Mae 4 03/01/2046",
+      "percent": "0.675224"
+    },
+    {
+      "name": "Freddie Mac 3.5 01/01/2050",
+      "percent": "0.662945"
+    },
+    {
+      "name": "Fannie Mae 3 04/01/2048",
+      "percent": "0.620267"
+    },
+    {
+      "name": "Government National Mortgage A 3.5 11/20/2049",
+      "percent": "0.598743"
+    },
+    {
+      "name": "Freddie Mac 3 12/01/2049",
+      "percent": "0.598474"
+    },
+    {
+      "name": "Freddie Mac 2.5 11/01/2050",
+      "percent": "0.587823"
+    },
+    {
+      "name": "Fannie Mae 2.5 10/01/2050",
+      "percent": "0.585863"
+    },
+    {
+      "name": "Freddie Mac 2.5 09/01/2050",
+      "percent": "0.585477"
+    },
+    {
+      "name": "Fannie Mae 3 09/01/2050",
+      "percent": "0.583886"
+    },
+    {
+      "name": "Freddie Mac 2 10/01/2050",
+      "percent": "0.578386"
+    },
+    {
+      "name": "Government National Mortgage A 2.5 08/20/2050",
+      "percent": "0.565148"
+    },
+    {
+      "name": "Government National Mortgage A 3 07/20/2050",
+      "percent": "0.556589"
+    },
+    {
+      "name": "Fannie Mae 2.5 07/01/2050",
+      "percent": "0.552032"
+    },
+    {
+      "name": "Freddie Mac 3 07/01/2046",
+      "percent": "0.548356"
+    },
+    {
+      "name": "Fannie Mae 3 11/01/2041",
+      "percent": "0.545910"
+    },
+    {
+      "name": "Freddie Mac 3.5 01/01/2050",
+      "percent": "0.522095"
+    },
+    {
+      "name": "Fannie Mae 3.5 05/01/2047",
+      "percent": "0.507290"
+    },
+    {
+      "name": "Fannie Mae 3 01/01/2050",
+      "percent": "0.503000"
+    },
+    {
+      "name": "Fannie Mae 4.5 10/01/2048",
+      "percent": "0.483973"
+    },
+    {
+      "name": "Government National Mortgage A 3 08/20/2046",
+      "percent": "0.477599"
+    },
+    {
+      "name": "Fannie Mae 3.5 07/01/2048",
+      "percent": "0.465869"
+    },
+    {
+      "name": "Fannie Mae 4 08/01/2049",
+      "percent": "0.445587"
+    },
+    {
+      "name": "Government National Mortgage A 3 06/20/2050",
+      "percent": "0.426947"
+    },
+    {
+      "name": "Freddie Mac 4 01/01/2050",
+      "percent": "0.413858"
+    },
+    {
+      "name": "Fannie Mae 3 04/01/2047",
+      "percent": "0.412523"
+    },
+    {
+      "name": "Fannie Mae 4 04/01/2047",
+      "percent": "0.406317"
+    },
+    {
+      "name": "Fannie Mae 4 07/01/2049",
+      "percent": "0.403059"
+    },
+    {
+      "name": "Fannie Mae 3 10/01/2047",
+      "percent": "0.402637"
+    },
+    {
+      "name": "Fannie Mae 3 03/01/2050",
+      "percent": "0.402041"
+    },
+    {
+      "name": "Fannie Mae 4 04/01/2047",
+      "percent": "0.395833"
+    },
+    {
+      "name": "Government National Mortgage A 4 06/20/2049",
+      "percent": "0.394608"
+    },
+    {
+      "name": "Fannie Mae 3.5 09/01/2030",
+      "percent": "0.392923"
+    },
+    {
+      "name": "Government National Mortgage A 4.5 02/20/2050",
+      "percent": "0.388231"
+    },
+    {
+      "name": "Fannie Mae 3 07/01/2047",
+      "percent": "0.386580"
+    },
+    {
+      "name": "Fannie Mae 2.5 08/01/2050",
+      "percent": "0.385083"
+    },
+    {
+      "name": "Fannie Mae 2.5 07/01/2050",
+      "percent": "0.384840"
+    },
+    {
+      "name": "Fannie Mae or Freddie Mac 1.5 12/31/2049",
+      "percent": "0.382058"
+    },
+    {
+      "name": "Fannie Mae 3 03/01/2050",
+      "percent": "0.375769"
+    },
+    {
+      "name": "Fannie Mae 4 09/01/2047",
+      "percent": "0.373993"
+    },
+    {
+      "name": "Fannie Mae 3.5 05/01/2050",
+      "percent": "0.373484"
+    },
+    {
+      "name": "Freddie Mac 3 07/01/2035",
+      "percent": "0.368521"
+    },
+    {
+      "name": "Fannie Mae 2 09/01/2035",
+      "percent": "0.363594"
+    },
+    {
+      "name": "Fannie Mae 4.5 11/01/2048",
+      "percent": "0.358954"
+    },
+    {
+      "name": "Fannie Mae 4.5 02/01/2049",
+      "percent": "0.358136"
+    },
+    {
+      "name": "Government National Mortgage A 4.5 06/20/2049",
+      "percent": "0.355518"
+    },
+    {
+      "name": "Government National Mortgage A 2.5 12/31/2049",
+      "percent": "0.351521"
+    },
+    {
+      "name": "Fannie Mae 3 11/01/2049",
+      "percent": "0.351079"
+    },
+    {
+      "name": "Fannie Mae 3.5 08/01/2049",
+      "percent": "0.350758"
+    },
+    {
+      "name": "Fannie Mae 2 11/01/2040",
+      "percent": "0.348084"
+    },
+    {
+      "name": "Fannie Mae 3.5 07/01/2047",
+      "percent": "0.347375"
+    },
+    {
+      "name": "Fannie Mae 2.5 02/01/2040",
+      "percent": "0.345747"
+    },
+    {
+      "name": "Fannie Mae 3 02/01/2050",
+      "percent": "0.344869"
+    },
+    {
+      "name": "Fannie Mae 4 10/01/2047",
+      "percent": "0.338623"
+    },
+    {
+      "name": "Fannie Mae 3.5 07/01/2048",
+      "percent": "0.334529"
+    },
+    {
+      "name": "Government National Mortgage A 3 06/20/2045",
+      "percent": "0.333780"
+    },
+    {
+      "name": "Government National Mortgage A 3 07/20/2047",
+      "percent": "0.323821"
+    },
+    {
+      "name": "Fannie Mae 2.5 06/01/2029",
+      "percent": "0.321309"
+    },
+    {
+      "name": "Freddie Mac 3.5 01/01/2050",
+      "percent": "0.307991"
+    },
+    {
+      "name": "Fannie Mae 2.5 07/01/2035",
+      "percent": "0.296951"
+    },
+    {
+      "name": "Freddie Mac 2.5 02/01/2040",
+      "percent": "0.294090"
+    },
+    {
+      "name": "Freddie Mac 3.5 02/01/2047",
+      "percent": "0.285378"
+    },
+    {
+      "name": "Fannie Mae 3 11/01/2032",
+      "percent": "0.283807"
+    },
+    {
+      "name": "Government National Mortgage A 3 09/20/2049",
+      "percent": "0.278392"
+    },
+    {
+      "name": "Freddie Mac 4.5 08/01/2049",
+      "percent": "0.278084"
+    },
+    {
+      "name": "Freddie Mac 3.5 12/01/2049",
+      "percent": "0.277677"
+    },
+    {
+      "name": "Fannie Mae 3 04/01/2046",
+      "percent": "0.276727"
+    },
+    {
+      "name": "Fannie Mae 3 04/01/2047",
+      "percent": "0.276296"
+    },
+    {
+      "name": "Freddie Mac 2 09/01/2035",
+      "percent": "0.275252"
+    },
+    {
+      "name": "Fannie Mae 2.5 01/01/2043",
+      "percent": "0.273796"
+    },
+    {
+      "name": "Government National Mortgage A 2 12/31/2049",
+      "percent": "0.272119"
+    },
+    {
+      "name": "Freddie Mac 4 07/01/2049",
+      "percent": "0.268890"
+    },
+    {
+      "name": "Freddie Mac 3 02/01/2047",
+      "percent": "0.264746"
+    },
+    {
+      "name": "Fannie Mae 3 07/01/2050",
+      "percent": "0.258211"
+    },
+    {
+      "name": "Government National Mortgage A 3.5 09/20/2049",
+      "percent": "0.254837"
+    },
+    {
+      "name": "Fannie Mae 4 06/01/2047",
+      "percent": "0.246808"
+    },
+    {
+      "name": "Fannie Mae 4 08/01/2048",
+      "percent": "0.246303"
+    },
+    {
+      "name": "Fannie Mae 3 06/01/2037",
+      "percent": "0.245529"
+    },
+    {
+      "name": "Fannie Mae 3 02/01/2030",
+      "percent": "0.245002"
+    },
+    {
+      "name": "Fannie Mae 3.5 01/01/2048",
+      "percent": "0.242877"
+    },
+    {
+      "name": "Freddie Mac 5 03/01/2050",
+      "percent": "0.234798"
+    },
+    {
+      "name": "Government National Mortgage A 3.5 12/31/2049",
+      "percent": "0.232462"
+    },
+    {
+      "name": "Freddie Mac 3 12/01/2034",
+      "percent": "0.230764"
+    },
+    {
+      "name": "Freddie Mac 4 04/01/2049",
+      "percent": "0.230242"
+    },
+    {
+      "name": "Fannie Mae 3 02/01/2050",
+      "percent": "0.229530"
+    },
+    {
+      "name": "Fannie Mae 4 11/01/2046",
+      "percent": "0.227351"
+    },
+    {
+      "name": "Fannie Mae 2.5 08/01/2050",
+      "percent": "0.224729"
+    },
+    {
+      "name": "Government National Mortgage A 3 05/20/2050",
+      "percent": "0.223661"
+    },
+    {
+      "name": "Freddie Mac 4 03/01/2049",
+      "percent": "0.223368"
+    },
+    {
+      "name": "Fannie Mae 4 06/01/2048",
+      "percent": "0.223113"
+    },
+    {
+      "name": "Government National Mortgage A 5 06/20/2049",
+      "percent": "0.222675"
+    },
+    {
+      "name": "Fannie Mae 2.5 08/01/2035",
+      "percent": "0.221923"
+    },
+    {
+      "name": "Fannie Mae 2.5 08/01/2035",
+      "percent": "0.217505"
+    },
+    {
+      "name": "Fannie Mae 2.5 01/01/2035",
+      "percent": "0.216448"
+    },
+    {
+      "name": "Freddie Mac 3 12/01/2032",
+      "percent": "0.215804"
+    },
+    {
+      "name": "Fannie Mae 3.5 03/01/2048",
+      "percent": "0.214340"
+    },
+    {
+      "name": "Fannie Mae 2.5 12/01/2033",
+      "percent": "0.212016"
+    },
+    {
+      "name": "Government National Mortgage A 4.5 12/20/2048",
+      "percent": "0.211078"
+    },
+    {
+      "name": "Freddie Mac 3 01/01/2035",
+      "percent": "0.208800"
+    },
+    {
+      "name": "Fannie Mae 4 12/01/2048",
+      "percent": "0.208409"
+    },
+    {
+      "name": "Fannie Mae or Freddie Mac 2 12/31/2049",
+      "percent": "0.207682"
+    },
+    {
+      "name": "Fannie Mae 3.5 11/01/2032",
+      "percent": "0.199569"
+    },
+    {
+      "name": "Freddie Mac 2.5 07/01/2050",
+      "percent": "0.198330"
+    },
+    {
+      "name": "Freddie Mac 5 09/01/2048",
+      "percent": "0.195960"
+    },
+    {
+      "name": "Fannie Mae 2 08/01/2035",
+      "percent": "0.194916"
+    },
+    {
+      "name": "Freddie Mac 3.5 07/01/2046",
+      "percent": "0.194809"
+    },
+    {
+      "name": "Fannie Mae 2 11/01/2035",
+      "percent": "0.194106"
+    },
+    {
+      "name": "Fannie Mae 3.5 05/01/2032",
+      "percent": "0.193952"
+    },
+    {
+      "name": "Fannie Mae 2 09/01/2035",
+      "percent": "0.193490"
+    },
+    {
+      "name": "Freddie Mac 2.5 08/01/2035",
+      "percent": "0.190258"
+    },
+    {
+      "name": "Fannie Mae 3.5 01/01/2047",
+      "percent": "0.187848"
+    },
+    {
+      "name": "Government National Mortgage A 3 02/20/2046",
+      "percent": "0.184480"
+    },
+    {
+      "name": "Fannie Mae 3 08/01/2038",
+      "percent": "0.183860"
+    },
+    {
+      "name": "Fannie Mae 3.5 04/01/2049",
+      "percent": "0.182379"
+    },
+    {
+      "name": "Fannie Mae 4.5 02/01/2049",
+      "percent": "0.181816"
+    },
+    {
+      "name": "Freddie Mac 3 06/01/2046",
+      "percent": "0.180949"
+    },
+    {
+      "name": "Government National Mortgage A 4 03/20/2048",
+      "percent": "0.180916"
+    },
+    {
+      "name": "Freddie Mac 3 03/01/2033",
+      "percent": "0.179951"
+    },
+    {
+      "name": "Fannie Mae 2.5 05/01/2040",
+      "percent": "0.177817"
+    },
+    {
+      "name": "Government National Mortgage A 4.5 01/20/2046",
+      "percent": "0.176484"
+    },
+    {
+      "name": "Fannie Mae 4.5 03/01/2050",
+      "percent": "0.174164"
+    },
+    {
+      "name": "Fannie Mae 2.5 02/01/2035",
+      "percent": "0.173773"
+    },
+    {
+      "name": "Freddie Mac 2.5 12/01/2033",
+      "percent": "0.173124"
+    },
+    {
+      "name": "Freddie Mac 3 02/01/2050",
+      "percent": "0.172760"
+    },
+    {
+      "name": "Fannie Mae 4 04/01/2050",
+      "percent": "0.172436"
+    },
+    {
+      "name": "Fannie Mae 3 12/01/2047",
+      "percent": "0.170394"
+    },
+    {
+      "name": "Freddie Mac 4 01/01/2047",
+      "percent": "0.169290"
+    },
+    {
+      "name": "Freddie Mac 3 10/01/2049",
+      "percent": "0.168565"
+    },
+    {
+      "name": "Government National Mortgage A 3.5 06/20/2044",
+      "percent": "0.166745"
+    },
+    {
+      "name": "Fannie Mae 3 10/01/2046",
+      "percent": "0.166606"
+    },
+    {
+      "name": "Government National Mortgage A 3.5 04/20/2046",
+      "percent": "0.164899"
+    },
+    {
+      "name": "Fannie Mae 3.5 03/01/2048",
+      "percent": "0.164563"
+    },
+    {
+      "name": "Fannie Mae 4 10/01/2048",
+      "percent": "0.162979"
+    },
+    {
+      "name": "Fannie Mae 3 01/01/2047",
+      "percent": "0.160054"
+    },
+    {
+      "name": "Government National Mortgage A 3 12/20/2049",
+      "percent": "0.159896"
+    },
+    {
+      "name": "Fannie Mae 3 10/01/2046",
+      "percent": "0.159292"
+    },
+    {
+      "name": "Fannie Mae 3 02/01/2040",
+      "percent": "0.159219"
+    },
+    {
+      "name": "Fannie Mae 3.5 10/01/2049",
+      "percent": "0.158652"
+    },
+    {
+      "name": "Freddie Mac 4.5 09/01/2048",
+      "percent": "0.157558"
+    },
+    {
+      "name": "Government National Mortgage A 4 11/20/2047",
+      "percent": "0.156066"
+    },
+    {
+      "name": "Freddie Mac 4.5 03/01/2049",
+      "percent": "0.155599"
+    },
+    {
+      "name": "Freddie Mac 2 09/01/2050",
+      "percent": "0.155101"
+    },
+    {
+      "name": "Fannie Mae 4 07/01/2048",
+      "percent": "0.154923"
+    },
+    {
+      "name": "Fannie Mae 2 10/01/2040",
+      "percent": "0.154330"
+    },
+    {
+      "name": "Freddie Mac 3 04/01/2033",
+      "percent": "0.152715"
+    },
+    {
+      "name": "Government National Mortgage A 3.5 08/20/2049",
+      "percent": "0.152592"
+    },
+    {
+      "name": "Fannie Mae 3.5 11/01/2047",
+      "percent": "0.151484"
+    },
+    {
+      "name": "Fannie Mae 3.5 02/01/2048",
+      "percent": "0.150608"
+    },
+    {
+      "name": "Fannie Mae 2 06/01/2050",
+      "percent": "0.149986"
+    },
+    {
+      "name": "Freddie Mac 4 01/01/2050",
+      "percent": "0.148043"
+    },
+    {
+      "name": "Fannie Mae or Freddie Mac 2.5 12/31/2049",
+      "percent": "0.145193"
+    },
+    {
+      "name": "Freddie Mac 3.5 09/01/2049",
+      "percent": "0.144634"
+    },
+    {
+      "name": "Fannie Mae 3 06/01/2036",
+      "percent": "0.142907"
+    },
+    {
+      "name": "Freddie Mac 2.5 05/01/2035",
+      "percent": "0.141658"
+    },
+    {
+      "name": "Fannie Mae 3.5 11/01/2048",
+      "percent": "0.138470"
+    },
+    {
+      "name": "Fannie Mae 3.5 08/01/2050",
+      "percent": "0.136209"
+    },
+    {
+      "name": "Fannie Mae 3.5 08/01/2046",
+      "percent": "0.135757"
+    },
+    {
+      "name": "Government National Mortgage A 3 06/20/2046",
+      "percent": "0.135731"
+    },
+    {
+      "name": "Freddie Mac 2 02/01/2032",
+      "percent": "0.135680"
+    },
+    {
+      "name": "Fannie Mae 3 01/01/2050",
+      "percent": "0.135619"
+    },
+    {
+      "name": "Fannie Mae 4.5 05/01/2049",
+      "percent": "0.135047"
+    },
+    {
+      "name": "Freddie Mac 5 05/01/2049",
+      "percent": "0.134459"
+    },
+    {
+      "name": "Fannie Mae 4 07/01/2047",
+      "percent": "0.133127"
+    },
+    {
+      "name": "Fannie Mae 4 12/01/2039",
+      "percent": "0.132396"
+    },
+    {
+      "name": "Freddie Mac 5 11/01/2049",
+      "percent": "0.130799"
+    },
+    {
+      "name": "Government National Mortgage A 3.5 10/20/2044",
+      "percent": "0.130167"
+    },
+    {
+      "name": "Fannie Mae 4.5 02/01/2050",
+      "percent": "0.129882"
+    },
+    {
+      "name": "Freddie Mac 3 10/01/2049",
+      "percent": "0.129391"
+    },
+    {
+      "name": "Fannie Mae 3 11/01/2046",
+      "percent": "0.128908"
+    },
+    {
+      "name": "Fannie Mae 3.5 11/01/2047",
+      "percent": "0.128166"
+    },
+    {
+      "name": "Fannie Mae 3 09/01/2046",
+      "percent": "0.127648"
+    },
+    {
+      "name": "Fannie Mae 3.5 05/01/2047",
+      "percent": "0.127107"
+    },
+    {
+      "name": "Government National Mortgage A 3.5 12/20/2047",
+      "percent": "0.126839"
+    },
+    {
+      "name": "Fannie Mae 4.5 09/01/2049",
+      "percent": "0.126377"
+    },
+    {
+      "name": "Government National Mortgage A 3.5 12/20/2041",
+      "percent": "0.125787"
+    },
+    {
+      "name": "Fannie Mae 4.5 05/01/2049",
+      "percent": "0.123452"
+    },
+    {
+      "name": "Government National Mortgage A 4.5 07/20/2049",
+      "percent": "0.122055"
+    },
+    {
+      "name": "Fannie Mae 3.5 08/01/2045",
+      "percent": "0.118958"
+    },
+    {
+      "name": "Fannie Mae 2.5 08/01/2034",
+      "percent": "0.118913"
+    },
+    {
+      "name": "Fannie Mae 4 03/01/2045",
+      "percent": "0.118172"
+    },
+    {
+      "name": "Fannie Mae 4.5 05/01/2047",
+      "percent": "0.118093"
+    },
+    {
+      "name": "Government National Mortgage A 4 02/20/2048",
+      "percent": "0.116739"
+    },
+    {
+      "name": "Fannie Mae 3.5 08/01/2046",
+      "percent": "0.116498"
+    },
+    {
+      "name": "Fannie Mae 3.5 08/01/2045",
+      "percent": "0.116184"
+    },
+    {
+      "name": "Fannie Mae 2.5 06/01/2050",
+      "percent": "0.115672"
+    },
+    {
+      "name": "Fannie Mae 2.5 12/01/2049",
+      "percent": "0.115155"
+    },
+    {
+      "name": "Freddie Mac 2.5 01/01/2035",
+      "percent": "0.114234"
+    },
+    {
+      "name": "Fannie Mae 3 12/01/2034",
+      "percent": "0.113482"
+    },
+    {
+      "name": "Freddie Mac 3.5 11/01/2047",
+      "percent": "0.112283"
+    },
+    {
+      "name": "Fannie Mae 3.5 11/01/2047",
+      "percent": "0.109771"
+    },
+    {
+      "name": "Fannie Mae 2.5 12/01/2034",
+      "percent": "0.109401"
+    },
+    {
+      "name": "Fannie Mae 4.5 06/01/2044",
+      "percent": "0.109078"
+    },
+    {
+      "name": "Fannie Mae 4 07/01/2044",
+      "percent": "0.108567"
+    },
+    {
+      "name": "Government National Mortgage A 2.5 02/20/2050",
+      "percent": "0.108248"
+    },
+    {
+      "name": "Fannie Mae 3.5 04/01/2050",
+      "percent": "0.107790"
+    },
+    {
+      "name": "Fannie Mae 4.5 08/01/2040",
+      "percent": "0.107436"
+    },
+    {
+      "name": "Fannie Mae 2 05/01/2035",
+      "percent": "0.107134"
+    },
+    {
+      "name": "Freddie Mac 3 09/01/2046",
+      "percent": "0.106778"
+    },
+    {
+      "name": "Fannie Mae 3.5 11/01/2045",
+      "percent": "0.105851"
+    },
+    {
+      "name": "Government National Mortgage A 4 06/20/2048",
+      "percent": "0.104461"
+    },
+    {
+      "name": "Fannie Mae 5 08/01/2049",
+      "percent": "0.103737"
+    },
+    {
+      "name": "Fannie Mae 4.5 09/01/2040",
+      "percent": "0.102671"
+    },
+    {
+      "name": "Government National Mortgage A 3.5 12/20/2049",
+      "percent": "0.101374"
+    },
+    {
+      "name": "Freddie Mac 3 02/01/2047",
+      "percent": "0.101308"
+    },
+    {
+      "name": "Fannie Mae 3.5 12/01/2045",
+      "percent": "0.100984"
+    },
+    {
+      "name": "Freddie Mac 3 09/01/2034",
+      "percent": "0.100931"
+    },
+    {
+      "name": "Fannie Mae 5 12/01/2049",
+      "percent": "0.100639"
+    },
+    {
+      "name": "Government National Mortgage A 4.5 04/20/2048",
+      "percent": "0.100571"
+    },
+    {
+      "name": "Government National Mortgage A 3.5 07/20/2049",
+      "percent": "0.100157"
+    },
+    {
+      "name": "Fannie Mae 4.5 09/01/2048",
+      "percent": "0.099997"
+    },
+    {
+      "name": "Freddie Mac 3.5 01/01/2050",
+      "percent": "0.099571"
+    },
+    {
+      "name": "Fannie Mae 3 10/01/2044",
+      "percent": "0.097369"
+    },
+    {
+      "name": "Fannie Mae 4 11/01/2048",
+      "percent": "0.095399"
+    },
+    {
+      "name": "Fannie Mae 2.5 01/01/2035",
+      "percent": "0.094664"
+    },
+    {
+      "name": "Fannie Mae 2.5 06/01/2032",
+      "percent": "0.093212"
+    },
+    {
+      "name": "Government National Mortgage A 2.5 01/20/2050",
+      "percent": "0.091790"
+    },
+    {
+      "name": "Freddie Mac 3.5 10/01/2047",
+      "percent": "0.090601"
+    },
+    {
+      "name": "Fannie Mae 4 10/01/2047",
+      "percent": "0.088804"
+    },
+    {
+      "name": "Freddie Mac 3 01/01/2050",
+      "percent": "0.088405"
+    },
+    {
+      "name": "Fannie Mae 2.5 07/01/2030",
+      "percent": "0.088116"
+    },
+    {
+      "name": "Fannie Mae 3 03/01/2038",
+      "percent": "0.087496"
+    },
+    {
+      "name": "Freddie Mac 3.5 02/01/2047",
+      "percent": "0.086989"
+    },
+    {
+      "name": "Fannie Mae 3.5 11/01/2049",
+      "percent": "0.086742"
+    },
+    {
+      "name": "Fannie Mae 3.5 01/01/2048",
+      "percent": "0.086291"
+    },
+    {
+      "name": "Freddie Mac 3 08/01/2046",
+      "percent": "0.086248"
+    },
+    {
+      "name": "Government National Mortgage A 4 05/20/2049",
+      "percent": "0.086118"
+    },
+    {
+      "name": "Fannie Mae 3.5 07/01/2045",
+      "percent": "0.085445"
+    },
+    {
+      "name": "Government National Mortgage A 2.5 12/20/2049",
+      "percent": "0.084578"
+    },
+    {
+      "name": "Fannie Mae 4 10/01/2047",
+      "percent": "0.084121"
+    },
+    {
+      "name": "Government National Mortgage A 3.5 02/20/2048",
+      "percent": "0.083462"
+    },
+    {
+      "name": "Freddie Mac 2 07/01/2035",
+      "percent": "0.083270"
+    },
+    {
+      "name": "Government National Mortgage A 4 01/20/2050",
+      "percent": "0.082659"
+    },
+    {
+      "name": "Government National Mortgage A 3.5 01/20/2048",
+      "percent": "0.081819"
+    },
+    {
+      "name": "Freddie Mac 3.5 08/01/2049",
+      "percent": "0.081385"
+    },
+    {
+      "name": "Government National Mortgage A 3 02/20/2046",
+      "percent": "0.081258"
+    },
+    {
+      "name": "Fannie Mae 4 06/01/2050",
+      "percent": "0.081073"
+    },
+    {
+      "name": "Freddie Mac 4.5 06/01/2048",
+      "percent": "0.080854"
+    },
+    {
+      "name": "Fannie Mae or Freddie Mac 4 12/31/2049",
+      "percent": "0.080783"
+    },
+    {
+      "name": "Fannie Mae 2.5 02/01/2050",
+      "percent": "0.078534"
+    },
+    {
+      "name": "Freddie Mac 4 07/01/2049",
+      "percent": "0.078503"
+    },
+    {
+      "name": "Freddie Mac 4 01/01/2049",
+      "percent": "0.078469"
+    },
+    {
+      "name": "Fannie Mae 5 10/01/2049",
+      "percent": "0.078423"
+    },
+    {
+      "name": "Fannie Mae 3.5 05/01/2048",
+      "percent": "0.077369"
+    },
+    {
+      "name": "Government National Mortgage A 5 01/20/2049",
+      "percent": "0.076734"
+    },
+    {
+      "name": "Fannie Mae 2.5 08/01/2030",
+      "percent": "0.075466"
+    },
+    {
+      "name": "Fannie Mae 4 12/01/2044",
+      "percent": "0.074953"
+    },
+    {
+      "name": "Freddie Mac 2.5 09/01/2032",
+      "percent": "0.073971"
+    },
+    {
+      "name": "Government National Mortgage A 3 07/20/2045",
+      "percent": "0.073573"
+    },
+    {
+      "name": "Freddie Mac 4 10/01/2048",
+      "percent": "0.072027"
+    },
+    {
+      "name": "Freddie Mac 3.5 04/01/2049",
+      "percent": "0.071810"
+    },
+    {
+      "name": "Freddie Mac 4 12/01/2048",
+      "percent": "0.071729"
+    },
+    {
+      "name": "Freddie Mac 4 06/01/2049",
+      "percent": "0.071725"
+    },
+    {
+      "name": "Fannie Mae 3 07/01/2034",
+      "percent": "0.071561"
+    },
+    {
+      "name": "Fannie Mae 3.5 02/01/2045",
+      "percent": "0.070991"
+    },
+    {
+      "name": "Government National Mortgage A 3 01/20/2047",
+      "percent": "0.069080"
+    },
+    {
+      "name": "Fannie Mae 3 10/01/2034",
+      "percent": "0.066986"
+    },
+    {
+      "name": "Government National Mortgage A 3 02/20/2046",
+      "percent": "0.066539"
+    },
+    {
+      "name": "Fannie Mae 5 11/01/2048",
+      "percent": "0.064233"
+    },
+    {
+      "name": "Freddie Mac 3.5 07/01/2049",
+      "percent": "0.063719"
+    },
+    {
+      "name": "Fannie Mae 5 09/01/2048",
+      "percent": "0.063552"
+    },
+    {
+      "name": "Fannie Mae 2.5 01/01/2050",
+      "percent": "0.063079"
+    },
+    {
+      "name": "Fannie Mae 2.5 06/01/2030",
+      "percent": "0.062186"
+    },
+    {
+      "name": "Freddie Mac 3 08/01/2048",
+      "percent": "0.061916"
+    },
+    {
+      "name": "Government National Mortgage A 3.5 03/20/2044",
+      "percent": "0.061471"
+    },
+    {
+      "name": "Fannie Mae 3 01/01/2035",
+      "percent": "0.061290"
+    },
+    {
+      "name": "Government National Mortgage A 3 01/20/2048",
+      "percent": "0.060734"
+    },
+    {
+      "name": "Fannie Mae 5 05/01/2048",
+      "percent": "0.060249"
+    },
+    {
+      "name": "Freddie Mac 5 08/01/2048",
+      "percent": "0.058552"
+    },
+    {
+      "name": "Fannie Mae 4.5 06/01/2040",
+      "percent": "0.056768"
+    },
+    {
+      "name": "Fannie Mae 3 10/01/2046",
+      "percent": "0.056324"
+    },
+    {
+      "name": "Fannie Mae 2.5 04/01/2035",
+      "percent": "0.056233"
+    },
+    {
+      "name": "Freddie Mac 2.5 07/01/2050",
+      "percent": "0.055309"
+    },
+    {
+      "name": "Freddie Mac 3 10/01/2049",
+      "percent": "0.054342"
+    },
+    {
+      "name": "Freddie Mac 3.5 10/01/2041",
+      "percent": "0.054197"
+    },
+    {
+      "name": "Freddie Mac 4 03/01/2049",
+      "percent": "0.054132"
+    },
+    {
+      "name": "Freddie Mac 3 07/01/2047",
+      "percent": "0.054046"
+    },
+    {
+      "name": "Freddie Mac 3 07/01/2033",
+      "percent": "0.053846"
+    },
+    {
+      "name": "Freddie Mac 4 09/01/2049",
+      "percent": "0.053717"
+    },
+    {
+      "name": "Fannie Mae 4.5 03/01/2029",
+      "percent": "0.053566"
+    },
+    {
+      "name": "Government National Mortgage A 3.5 05/20/2046",
+      "percent": "0.053422"
+    },
+    {
+      "name": "Fannie Mae 2.5 11/01/2049",
+      "percent": "0.053326"
+    },
+    {
+      "name": "Fannie Mae 2.5 11/01/2031",
+      "percent": "0.052928"
+    },
+    {
+      "name": "Fannie Mae 4 06/01/2049",
+      "percent": "0.052748"
+    },
+    {
+      "name": "Fannie Mae 3.5 02/01/2038",
+      "percent": "0.052335"
+    },
+    {
+      "name": "Freddie Mac 3.5 07/01/2046",
+      "percent": "0.051795"
+    },
+    {
+      "name": "Government National Mortgage A 3.5 01/20/2045",
+      "percent": "0.051247"
+    },
+    {
+      "name": "Freddie Mac 3.5 11/01/2048",
+      "percent": "0.050107"
+    },
+    {
+      "name": "Freddie Mac 3.5 10/01/2049",
+      "percent": "0.050106"
+    },
+    {
+      "name": "Fannie Mae 2.5 08/01/2050",
+      "percent": "0.050089"
+    },
+    {
+      "name": "Government National Mortgage A 4.5 09/20/2049",
+      "percent": "0.049919"
+    },
+    {
+      "name": "Government National Mortgage A 3 09/20/2046",
+      "percent": "0.049103"
+    },
+    {
+      "name": "Fannie Mae 3 06/01/2028",
+      "percent": "0.048446"
+    },
+    {
+      "name": "Fannie Mae 4.5 11/01/2048",
+      "percent": "0.048301"
+    },
+    {
+      "name": "Fannie Mae 3.5 11/01/2034",
+      "percent": "0.048044"
+    },
+    {
+      "name": "Government National Mortgage A 4.5 06/20/2047",
+      "percent": "0.048039"
+    },
+    {
+      "name": "Fannie Mae 3.5 02/01/2047",
+      "percent": "0.048007"
+    },
+    {
+      "name": "Freddie Mac 4 07/01/2049",
+      "percent": "0.047991"
+    },
+    {
+      "name": "Fannie Mae 3.5 05/01/2047",
+      "percent": "0.047604"
+    },
+    {
+      "name": "Government National Mortgage A 3.5 06/20/2046",
+      "percent": "0.047432"
+    },
+    {
+      "name": "Freddie Mac 3 05/01/2043",
+      "percent": "0.046901"
+    },
+    {
+      "name": "Freddie Mac 3 10/01/2046",
+      "percent": "0.046729"
+    },
+    {
+      "name": "Fannie Mae 3 06/01/2049",
+      "percent": "0.046585"
+    },
+    {
+      "name": "Government National Mortgage A 3.5 09/20/2047",
+      "percent": "0.046546"
+    },
+    {
+      "name": "Fannie Mae 4 02/01/2039",
+      "percent": "0.046163"
+    },
+    {
+      "name": "Freddie Mac 3 07/01/2046",
+      "percent": "0.046052"
+    },
+    {
+      "name": "Freddie Mac 3.5 03/01/2046",
+      "percent": "0.045841"
+    },
+    {
+      "name": "Fannie Mae 3 05/01/2030",
+      "percent": "0.045695"
+    },
+    {
+      "name": "Fannie Mae 3.5 02/01/2043",
+      "percent": "0.045529"
+    },
+    {
+      "name": "Fannie Mae 4 08/01/2034",
+      "percent": "0.045113"
+    },
+    {
+      "name": "Fannie Mae 4 07/01/2045",
+      "percent": "0.044283"
+    },
+    {
+      "name": "Freddie Mac 4 02/01/2048",
+      "percent": "0.044249"
+    },
+    {
+      "name": "Fannie Mae 3 11/01/2046",
+      "percent": "0.044084"
+    },
+    {
+      "name": "Fannie Mae 3 04/01/2050",
+      "percent": "0.043235"
+    },
+    {
+      "name": "Fannie Mae 3.5 08/01/2043",
+      "percent": "0.042821"
+    },
+    {
+      "name": "Government National Mortgage A 3 10/20/2043",
+      "percent": "0.042680"
+    },
+    {
+      "name": "Government National Mortgage A 3.5 10/20/2043",
+      "percent": "0.042520"
+    },
+    {
+      "name": "Fannie Mae 3.5 08/01/2043",
+      "percent": "0.042497"
+    },
+    {
+      "name": "Fannie Mae 3 04/01/2035",
+      "percent": "0.042096"
+    },
+    {
+      "name": "Fannie Mae 3.5 01/01/2048",
+      "percent": "0.041756"
+    },
+    {
+      "name": "Freddie Mac 4 10/01/2040",
+      "percent": "0.041664"
+    },
+    {
+      "name": "Government National Mortgage A 3 10/20/2046",
+      "percent": "0.041641"
+    },
+    {
+      "name": "Fannie Mae 4 09/01/2040",
+      "percent": "0.041480"
+    },
+    {
+      "name": "Fannie Mae 3.5 09/01/2032",
+      "percent": "0.041073"
+    },
+    {
+      "name": "Fannie Mae 3.5 11/01/2044",
+      "percent": "0.040854"
+    },
+    {
+      "name": "Government National Mortgage A 3.5 10/20/2042",
+      "percent": "0.040683"
+    },
+    {
+      "name": "Government National Mortgage A 4.5 09/20/2048",
+      "percent": "0.040328"
+    },
+    {
+      "name": "Fannie Mae 2.5 09/01/2031",
+      "percent": "0.040259"
+    },
+    {
+      "name": "Fannie Mae 3 01/01/2050",
+      "percent": "0.040225"
+    },
+    {
+      "name": "Fannie Mae 4 03/01/2045",
+      "percent": "0.039957"
+    },
+    {
+      "name": "Fannie Mae 4.5 01/01/2048",
+      "percent": "0.039787"
+    },
+    {
+      "name": "Freddie Mac 3.5 10/01/2044",
+      "percent": "0.039515"
+    },
+    {
+      "name": "Fannie Mae 2 02/01/2028",
+      "percent": "0.039024"
+    },
+    {
+      "name": "Fannie Mae 3.5 09/01/2047",
+      "percent": "0.038678"
+    },
+    {
+      "name": "Fannie Mae 3.5 01/01/2048",
+      "percent": "0.038669"
+    },
+    {
+      "name": "Freddie Mac 3 11/01/2042",
+      "percent": "0.038372"
+    },
+    {
+      "name": "Fannie Mae 2 08/01/2040",
+      "percent": "0.038068"
+    },
+    {
+      "name": "Freddie Mac 3.5 08/01/2042",
+      "percent": "0.038003"
+    },
+    {
+      "name": "Fannie Mae 4 12/01/2048",
+      "percent": "0.037804"
+    },
+    {
+      "name": "Fannie Mae or Freddie Mac 1.5 12/31/2049",
+      "percent": "0.037769"
+    },
+    {
+      "name": "Fannie Mae 4.5 07/01/2048",
+      "percent": "0.037319"
+    },
+    {
+      "name": "Freddie Mac 4.5 05/01/2049",
+      "percent": "0.036962"
+    },
+    {
+      "name": "Freddie Mac 3 02/01/2038",
+      "percent": "0.036853"
+    },
+    {
+      "name": "Government National Mortgage A 3.5 07/20/2043",
+      "percent": "0.036677"
+    },
+    {
+      "name": "Fannie Mae 3.5 06/01/2050",
+      "percent": "0.036590"
+    },
+    {
+      "name": "Government National Mortgage A 3.5 10/20/2046",
+      "percent": "0.036589"
+    },
+    {
+      "name": "Freddie Mac 3 02/01/2043",
+      "percent": "0.036368"
+    },
+    {
+      "name": "Fannie Mae 2.5 09/01/2028",
+      "percent": "0.036054"
+    },
+    {
+      "name": "Freddie Mac 3 01/01/2045",
+      "percent": "0.035811"
+    },
+    {
+      "name": "Freddie Mac 3.5 12/01/2043",
+      "percent": "0.035599"
+    },
+    {
+      "name": "Freddie Mac 3 02/01/2031",
+      "percent": "0.035410"
+    },
+    {
+      "name": "Fannie Mae 2.5 02/01/2032",
+      "percent": "0.035340"
+    },
+    {
+      "name": "Fannie Mae 4.5 12/01/2043",
+      "percent": "0.034950"
+    },
+    {
+      "name": "Fannie Mae 3.5 09/01/2040",
+      "percent": "0.034658"
+    },
+    {
+      "name": "Government National Mortgage A 5 04/20/2049",
+      "percent": "0.034475"
+    },
+    {
+      "name": "Freddie Mac 4.5 01/01/2049",
+      "percent": "0.034423"
+    },
+    {
+      "name": "Fannie Mae 2.5 12/01/2027",
+      "percent": "0.034097"
+    },
+    {
+      "name": "Fannie Mae 4 09/01/2048",
+      "percent": "0.034071"
+    },
+    {
+      "name": "Freddie Mac 4 05/01/2045",
+      "percent": "0.034056"
+    },
+    {
+      "name": "Government National Mortgage A 2.5 12/20/2046",
+      "percent": "0.033941"
+    },
+    {
+      "name": "Freddie Mac 3 08/01/2045",
+      "percent": "0.033503"
+    },
+    {
+      "name": "Fannie Mae 3.5 09/01/2049",
+      "percent": "0.033478"
+    },
+    {
+      "name": "Freddie Mac 2.5 06/01/2031",
+      "percent": "0.033100"
+    },
+    {
+      "name": "Government National Mortgage A 3.5 09/20/2046",
+      "percent": "0.032882"
+    },
+    {
+      "name": "Government National Mortgage A 4 09/20/2047",
+      "percent": "0.032802"
+    },
+    {
+      "name": "Freddie Mac 3.5 02/01/2048",
+      "percent": "0.032678"
+    },
+    {
+      "name": "Fannie Mae 3 03/01/2043",
+      "percent": "0.032601"
+    },
+    {
+      "name": "Government National Mortgage A 3 10/20/2047",
+      "percent": "0.032308"
+    },
+    {
+      "name": "Freddie Mac 3 12/01/2046",
+      "percent": "0.032279"
+    },
+    {
+      "name": "Freddie Mac 3.5 03/01/2034",
+      "percent": "0.031885"
+    },
+    {
+      "name": "Fannie Mae 3.5 02/01/2045",
+      "percent": "0.031622"
+    },
+    {
+      "name": "Government National Mortgage A 3.5 08/20/2047",
+      "percent": "0.031232"
+    },
+    {
+      "name": "Freddie Mac 3.5 02/01/2042",
+      "percent": "0.031089"
+    },
+    {
+      "name": "Fannie Mae 3.5 06/01/2043",
+      "percent": "0.031024"
+    },
+    {
+      "name": "Fannie Mae 3 08/01/2047",
+      "percent": "0.031009"
+    },
+    {
+      "name": "Fannie Mae 3 09/01/2046",
+      "percent": "0.030967"
+    },
+    {
+      "name": "Fannie Mae 3.5 09/01/2045",
+      "percent": "0.030934"
+    },
+    {
+      "name": "Government National Mortgage A 5 07/20/2049",
+      "percent": "0.030736"
+    },
+    {
+      "name": "Fannie Mae 3 10/01/2046",
+      "percent": "0.030693"
+    },
+    {
+      "name": "Fannie Mae 3 11/01/2032",
+      "percent": "0.030615"
+    },
+    {
+      "name": "Government National Mortgage A 3.5 06/20/2049",
+      "percent": "0.030572"
+    },
+    {
+      "name": "Freddie Mac 3 07/01/2045",
+      "percent": "0.030515"
+    },
+    {
+      "name": "Fannie Mae 4 10/01/2041",
+      "percent": "0.029806"
+    },
+    {
+      "name": "Government National Mortgage A 3.5 08/20/2046",
+      "percent": "0.029512"
+    },
+    {
+      "name": "Freddie Mac 4 01/01/2046",
+      "percent": "0.029388"
+    },
+    {
+      "name": "Freddie Mac 3.5 09/01/2029",
+      "percent": "0.029251"
+    },
+    {
+      "name": "Fannie Mae 4 07/01/2047",
+      "percent": "0.029203"
+    },
+    {
+      "name": "Fannie Mae 3 04/01/2047",
+      "percent": "0.029144"
+    },
+    {
+      "name": "Freddie Mac 3.5 01/01/2044",
+      "percent": "0.029104"
+    },
+    {
+      "name": "Freddie Mac 5 08/01/2048",
+      "percent": "0.029042"
+    },
+    {
+      "name": "Freddie Mac 3.5 03/01/2029",
+      "percent": "0.028989"
+    },
+    {
+      "name": "Government National Mortgage A 3.5 10/20/2045",
+      "percent": "0.028928"
+    },
+    {
+      "name": "Fannie Mae 3.5 03/01/2031",
+      "percent": "0.028854"
+    },
+    {
+      "name": "Freddie Mac 3.5 09/01/2049",
+      "percent": "0.028776"
+    },
+    {
+      "name": "Freddie Mac 4 05/01/2045",
+      "percent": "0.028593"
+    },
+    {
+      "name": "Fannie Mae 4.5 04/01/2049",
+      "percent": "0.028539"
+    },
+    {
+      "name": "Fannie Mae 4 08/01/2047",
+      "percent": "0.028517"
+    },
+    {
+      "name": "Government National Mortgage A 4 03/20/2049",
+      "percent": "0.028477"
+    },
+    {
+      "name": "Fannie Mae 3.5 03/01/2050",
+      "percent": "0.028259"
+    },
+    {
+      "name": "Freddie Mac 3 08/01/2036",
+      "percent": "0.028013"
+    },
+    {
+      "name": "Freddie Mac 3 01/01/2043",
+      "percent": "0.027897"
+    },
+    {
+      "name": "Fannie Mae 3 09/01/2046",
+      "percent": "0.027837"
+    },
+    {
+      "name": "Fannie Mae 3 08/01/2045",
+      "percent": "0.027709"
+    },
+    {
+      "name": "Fannie Mae 4.5 11/01/2048",
+      "percent": "0.027509"
+    },
+    {
+      "name": "Fannie Mae 4 08/01/2045",
+      "percent": "0.027466"
+    },
+    {
+      "name": "Government National Mortgage A 3.5 07/20/2045",
+      "percent": "0.027312"
+    },
+    {
+      "name": "Freddie Mac 3 02/01/2038",
+      "percent": "0.027293"
+    },
+    {
+      "name": "Fannie Mae 4 05/01/2047",
+      "percent": "0.027112"
+    },
+    {
+      "name": "Fannie Mae 2.5 08/01/2031",
+      "percent": "0.026973"
+    },
+    {
+      "name": "Government National Mortgage A 4.5 04/20/2049",
+      "percent": "0.026898"
+    },
+    {
+      "name": "Fannie Mae 4.5 09/01/2048",
+      "percent": "0.026680"
+    },
+    {
+      "name": "Government National Mortgage A 4 11/20/2048",
+      "percent": "0.026268"
+    },
+    {
+      "name": "Fannie Mae 3 11/01/2049",
+      "percent": "0.026230"
+    },
+    {
+      "name": "Fannie Mae 3 03/01/2047",
+      "percent": "0.026173"
+    },
+    {
+      "name": "Government National Mortgage A 3.5 05/20/2047",
+      "percent": "0.026161"
+    },
+    {
+      "name": "Fannie Mae 3.5 03/01/2034",
+      "percent": "0.025889"
+    },
+    {
+      "name": "Fannie Mae 3.5 12/01/2047",
+      "percent": "0.025302"
+    },
+    {
+      "name": "Government National Mortgage A 3 12/20/2046",
+      "percent": "0.024960"
+    },
+    {
+      "name": "Government National Mortgage A 3.5 03/20/2047",
+      "percent": "0.024955"
+    },
+    {
+      "name": "Fannie Mae 3.5 08/01/2045",
+      "percent": "0.024907"
+    },
+    {
+      "name": "Fannie Mae 3.5 08/01/2045",
+      "percent": "0.024901"
+    },
+    {
+      "name": "Government National Mortgage A 4 05/20/2046",
+      "percent": "0.024885"
+    },
+    {
+      "name": "Freddie Mac 4.5 03/01/2047",
+      "percent": "0.024749"
+    },
+    {
+      "name": "Fannie Mae 4.5 10/01/2042",
+      "percent": "0.024745"
+    },
+    {
+      "name": "Fannie Mae 3.5 03/01/2047",
+      "percent": "0.024707"
+    },
+    {
+      "name": "Fannie Mae 5 06/01/2041",
+      "percent": "0.024625"
+    },
+    {
+      "name": "Freddie Mac 4.5 07/01/2047",
+      "percent": "0.024562"
+    },
+    {
+      "name": "Fannie Mae 2.5 11/01/2031",
+      "percent": "0.024390"
+    },
+    {
+      "name": "Fannie Mae 4.5 08/01/2044",
+      "percent": "0.024178"
+    },
+    {
+      "name": "Fannie Mae 3 08/01/2043",
+      "percent": "0.024160"
+    },
+    {
+      "name": "Fannie Mae 3.5 06/01/2031",
+      "percent": "0.023955"
+    },
+    {
+      "name": "Freddie Mac 3.5 12/01/2045",
+      "percent": "0.023880"
+    },
+    {
+      "name": "Freddie Mac 4 08/01/2049",
+      "percent": "0.023854"
+    },
+    {
+      "name": "Freddie Mac 3 05/01/2032",
+      "percent": "0.023784"
+    },
+    {
+      "name": "Fannie Mae 2.5 01/01/2033",
+      "percent": "0.023518"
+    },
+    {
+      "name": "Fannie Mae 4.5 07/01/2047",
+      "percent": "0.023376"
+    },
+    {
+      "name": "Government National Mortgage A 4 11/20/2043",
+      "percent": "0.023343"
+    },
+    {
+      "name": "Fannie Mae 3 01/01/2047",
+      "percent": "0.023130"
+    },
+    {
+      "name": "Freddie Mac 3 01/01/2047",
+      "percent": "0.022875"
+    },
+    {
+      "name": "Government National Mortgage A 3 11/20/2047",
+      "percent": "0.022845"
+    },
+    {
+      "name": "Fannie Mae 4 06/01/2049",
+      "percent": "0.022813"
+    },
+    {
+      "name": "Fannie Mae 5 07/01/2048",
+      "percent": "0.022746"
+    },
+    {
+      "name": "Fannie Mae 3 12/01/2032",
+      "percent": "0.022728"
+    },
+    {
+      "name": "Fannie Mae 2.5 06/01/2034",
+      "percent": "0.022706"
+    },
+    {
+      "name": "Fannie Mae 3.5 02/01/2046",
+      "percent": "0.022639"
+    },
+    {
+      "name": "Fannie Mae 4 11/01/2044",
+      "percent": "0.022366"
+    },
+    {
+      "name": "Fannie Mae 3.5 02/01/2045",
+      "percent": "0.022358"
+    },
+    {
+      "name": "Fannie Mae 2.5 04/01/2032",
+      "percent": "0.022241"
+    },
+    {
+      "name": "Freddie Mac 3 06/01/2035",
+      "percent": "0.021979"
+    },
+    {
+      "name": "Government National Mortgage A 4.5 05/20/2049",
+      "percent": "0.021953"
+    },
+    {
+      "name": "Fannie Mae 3 07/01/2032",
+      "percent": "0.021889"
+    },
+    {
+      "name": "Fannie Mae 3.5 02/01/2048",
+      "percent": "0.021867"
+    },
+    {
+      "name": "Freddie Mac 4.5 03/01/2049",
+      "percent": "0.021796"
+    },
+    {
+      "name": "Government National Mortgage A 4 01/20/2047",
+      "percent": "0.021633"
+    },
+    {
+      "name": "Fannie Mae 3 02/01/2034",
+      "percent": "0.021599"
+    },
+    {
+      "name": "Fannie Mae 3.5 10/01/2046",
+      "percent": "0.021367"
+    },
+    {
+      "name": "Fannie Mae 3.5 02/01/2047",
+      "percent": "0.021054"
+    },
+    {
+      "name": "Fannie Mae 4 09/01/2048",
+      "percent": "0.020869"
+    },
+    {
+      "name": "Fannie Mae 3.5 04/01/2034",
+      "percent": "0.020860"
+    },
+    {
+      "name": "Freddie Mac 3 03/01/2027",
+      "percent": "0.020520"
+    },
+    {
+      "name": "Freddie Mac 3.5 03/01/2039",
+      "percent": "0.020428"
+    },
+    {
+      "name": "Fannie Mae 2.5 10/01/2031",
+      "percent": "0.020375"
+    },
+    {
+      "name": "Freddie Mac 4.5 01/01/2049",
+      "percent": "0.020229"
+    },
+    {
+      "name": "Fannie Mae 2.5 08/01/2031",
+      "percent": "0.020171"
+    },
+    {
+      "name": "Fannie Mae 3.5 05/01/2044",
+      "percent": "0.020050"
+    },
+    {
+      "name": "Government National Mortgage A 3 09/20/2048",
+      "percent": "0.020020"
+    },
+    {
+      "name": "Government National Mortgage A 3.5 12/20/2046",
+      "percent": "0.020006"
+    },
+    {
+      "name": "Fannie Mae 4 06/01/2045",
+      "percent": "0.019985"
+    },
+    {
+      "name": "Fannie Mae 3 01/01/2047",
+      "percent": "0.019951"
+    },
+    {
+      "name": "Government National Mortgage A 3.5 11/20/2045",
+      "percent": "0.019856"
+    },
+    {
+      "name": "Government National Mortgage A 5 05/20/2048",
+      "percent": "0.019759"
+    },
+    {
+      "name": "Freddie Mac 3 04/01/2035",
+      "percent": "0.019692"
+    },
+    {
+      "name": "Freddie Mac 5 07/01/2048",
+      "percent": "0.019674"
+    },
+    {
+      "name": "Fannie Mae 3.5 06/01/2048",
+      "percent": "0.019665"
+    },
+    {
+      "name": "Government National Mortgage A 4 09/20/2048",
+      "percent": "0.019591"
+    },
+    {
+      "name": "Freddie Mac 3.5 09/01/2047",
+      "percent": "0.019487"
+    },
+    {
+      "name": "Fannie Mae 4 04/01/2047",
+      "percent": "0.019349"
+    },
+    {
+      "name": "Fannie Mae 3 10/01/2046",
+      "percent": "0.019286"
+    },
+    {
+      "name": "Fannie Mae 4.5 10/01/2042",
+      "percent": "0.019272"
+    },
+    {
+      "name": "Government National Mortgage A 3 08/20/2043",
+      "percent": "0.019235"
+    },
+    {
+      "name": "Fannie Mae 4.5 08/01/2048",
+      "percent": "0.019224"
+    },
+    {
+      "name": "Fannie Mae 4.5 09/01/2048",
+      "percent": "0.019140"
+    },
+    {
+      "name": "Fannie Mae 3.5 02/01/2045",
+      "percent": "0.019134"
+    },
+    {
+      "name": "Fannie Mae 3 11/01/2039",
+      "percent": "0.019127"
+    },
+    {
+      "name": "Fannie Mae 3.5 07/01/2045",
+      "percent": "0.019082"
+    },
+    {
+      "name": "Freddie Mac 3.5 02/01/2048",
+      "percent": "0.018993"
+    },
+    {
+      "name": "Fannie Mae 3.5 04/01/2046",
+      "percent": "0.018972"
+    },
+    {
+      "name": "Freddie Mac 3.5 01/01/2045",
+      "percent": "0.018923"
+    },
+    {
+      "name": "Government National Mortgage A 3 09/20/2045",
+      "percent": "0.018906"
+    },
+    {
+      "name": "Government National Mortgage A 3.5 02/20/2047",
+      "percent": "0.018900"
+    },
+    {
+      "name": "Fannie Mae 4 07/01/2046",
+      "percent": "0.018886"
+    },
+    {
+      "name": "Fannie Mae 2.5 10/01/2031",
+      "percent": "0.018634"
+    },
+    {
+      "name": "Fannie Mae 4.5 08/01/2048",
+      "percent": "0.018477"
+    },
+    {
+      "name": "Fannie Mae 4.5 02/01/2049",
+      "percent": "0.018325"
+    },
+    {
+      "name": "Freddie Mac 6 07/01/2040",
+      "percent": "0.018325"
+    },
+    {
+      "name": "Fannie Mae 4 04/01/2049",
+      "percent": "0.018251"
+    },
+    {
+      "name": "Fannie Mae 4 12/01/2042",
+      "percent": "0.018219"
+    },
+    {
+      "name": "Freddie Mac 4 03/01/2048",
+      "percent": "0.018147"
+    },
+    {
+      "name": "Fannie Mae 2.5 10/01/2034",
+      "percent": "0.018133"
+    },
+    {
+      "name": "Freddie Mac 4.5 08/01/2048",
+      "percent": "0.018133"
+    },
+    {
+      "name": "Freddie Mac 4 09/01/2048",
+      "percent": "0.018130"
+    },
+    {
+      "name": "Fannie Mae 4 08/01/2048",
+      "percent": "0.018082"
+    },
+    {
+      "name": "Freddie Mac 4 11/01/2047",
+      "percent": "0.018008"
+    },
+    {
+      "name": "Freddie Mac 3 02/01/2047",
+      "percent": "0.017972"
+    },
+    {
+      "name": "Government National Mortgage A 5 12/20/2045",
+      "percent": "0.017936"
+    },
+    {
+      "name": "Fannie Mae 4.5 12/01/2044",
+      "percent": "0.017785"
+    },
+    {
+      "name": "Fannie Mae 3 02/01/2043",
+      "percent": "0.017746"
+    },
+    {
+      "name": "Government National Mortgage A 3.5 07/20/2047",
+      "percent": "0.017743"
+    },
+    {
+      "name": "Freddie Mac 4 08/01/2047",
+      "percent": "0.017719"
+    },
+    {
+      "name": "Freddie Mac 3.5 03/01/2045",
+      "percent": "0.017673"
+    },
+    {
+      "name": "Freddie Mac 3.5 10/01/2049",
+      "percent": "0.017538"
+    },
+    {
+      "name": "Fannie Mae 4 05/01/2047",
+      "percent": "0.017423"
+    },
+    {
+      "name": "Fannie Mae 4.5 02/01/2049",
+      "percent": "0.017337"
+    },
+    {
+      "name": "Fannie Mae 4.5 05/01/2045",
+      "percent": "0.017278"
+    },
+    {
+      "name": "Freddie Mac 3.5 08/01/2047",
+      "percent": "0.017231"
+    },
+    {
+      "name": "Fannie Mae 3.5 02/01/2045",
+      "percent": "0.017221"
+    },
+    {
+      "name": "Freddie Mac 2.5 09/01/2027",
+      "percent": "0.017127"
+    },
+    {
+      "name": "Fannie Mae 5 08/01/2039",
+      "percent": "0.017049"
+    },
+    {
+      "name": "Fannie Mae 3.5 04/01/2046",
+      "percent": "0.017001"
+    },
+    {
+      "name": "Fannie Mae 3.5 05/01/2033",
+      "percent": "0.016891"
+    },
+    {
+      "name": "Freddie Mac 3.5 06/01/2048",
+      "percent": "0.016860"
+    },
+    {
+      "name": "Fannie Mae 4 09/01/2047",
+      "percent": "0.016839"
+    },
+    {
+      "name": "Fannie Mae 3 12/01/2046",
+      "percent": "0.016777"
+    },
+    {
+      "name": "Fannie Mae 3 01/01/2045",
+      "percent": "0.016702"
+    },
+    {
+      "name": "Fannie Mae 3.5 02/01/2045",
+      "percent": "0.016637"
+    },
+    {
+      "name": "Freddie Mac 4.5 07/01/2044",
+      "percent": "0.016603"
+    },
+    {
+      "name": "Fannie Mae 3 08/01/2027",
+      "percent": "0.016590"
+    },
+    {
+      "name": "Government National Mortgage A 4.5 12/20/2046",
+      "percent": "0.016587"
+    },
+    {
+      "name": "Government National Mortgage A 3 12/20/2044",
+      "percent": "0.016502"
+    },
+    {
+      "name": "Freddie Mac 3.5 12/01/2047",
+      "percent": "0.016477"
+    },
+    {
+      "name": "Fannie Mae 4 11/01/2048",
+      "percent": "0.016475"
+    },
+    {
+      "name": "Government National Mortgage A 3.5 08/20/2045",
+      "percent": "0.016409"
+    },
+    {
+      "name": "Freddie Mac 4 04/01/2048",
+      "percent": "0.016369"
+    },
+    {
+      "name": "Fannie Mae 3 06/01/2043",
+      "percent": "0.016368"
+    },
+    {
+      "name": "Government National Mortgage A 3.5 10/20/2047",
+      "percent": "0.016225"
+    },
+    {
+      "name": "Freddie Mac 3 09/01/2036",
+      "percent": "0.016201"
+    },
+    {
+      "name": "Freddie Mac 3.5 12/01/2046",
+      "percent": "0.016052"
+    },
+    {
+      "name": "Freddie Mac 3.5 06/01/2047",
+      "percent": "0.016009"
+    },
+    {
+      "name": "Fannie Mae 4 08/01/2044",
+      "percent": "0.016006"
+    },
+    {
+      "name": "Freddie Mac 3 07/01/2047",
+      "percent": "0.016006"
+    },
+    {
+      "name": "Government National Mortgage A 3.5 06/20/2042",
+      "percent": "0.015893"
+    },
+    {
+      "name": "Freddie Mac 3.5 12/01/2045",
+      "percent": "0.015869"
+    },
+    {
+      "name": "Fannie Mae 3 01/01/2031",
+      "percent": "0.015802"
+    },
+    {
+      "name": "Fannie Mae 4 02/01/2042",
+      "percent": "0.015737"
+    },
+    {
+      "name": "Fannie Mae 3 09/01/2036",
+      "percent": "0.015690"
+    },
+    {
+      "name": "Fannie Mae 4 08/01/2047",
+      "percent": "0.015623"
+    },
+    {
+      "name": "Fannie Mae 4.5 12/01/2048",
+      "percent": "0.015598"
+    },
+    {
+      "name": "Government National Mortgage A 3 02/20/2047",
+      "percent": "0.015573"
+    },
+    {
+      "name": "Fannie Mae 4 12/01/2045",
+      "percent": "0.015556"
+    },
+    {
+      "name": "Freddie Mac 3.5 05/01/2043",
+      "percent": "0.015494"
+    },
+    {
+      "name": "Freddie Mac 4 05/01/2048",
+      "percent": "0.015394"
+    },
+    {
+      "name": "Fannie Mae 3.5 05/01/2032",
+      "percent": "0.015388"
+    },
+    {
+      "name": "Government National Mortgage A 3.5 05/20/2045",
+      "percent": "0.015366"
+    },
+    {
+      "name": "Government National Mortgage A 3.5 02/20/2045",
+      "percent": "0.015314"
+    },
+    {
+      "name": "Fannie Mae 2.5 12/01/2027",
+      "percent": "0.015280"
+    },
+    {
+      "name": "Fannie Mae 3.5 06/01/2046",
+      "percent": "0.015179"
+    },
+    {
+      "name": "Fannie Mae 3 12/01/2032",
+      "percent": "0.015159"
+    },
+    {
+      "name": "Fannie Mae 3.5 05/01/2042",
+      "percent": "0.015123"
+    },
+    {
+      "name": "Fannie Mae 3 05/01/2030",
+      "percent": "0.015112"
+    },
+    {
+      "name": "Fannie Mae 4 05/01/2044",
+      "percent": "0.015080"
+    },
+    {
+      "name": "Fannie Mae 3 11/01/2030",
+      "percent": "0.015038"
+    },
+    {
+      "name": "Fannie Mae 2.5 11/01/2031",
+      "percent": "0.015007"
+    },
+    {
+      "name": "Fannie Mae 4.5 06/01/2048",
+      "percent": "0.014984"
+    },
+    {
+      "name": "Fannie Mae 3.5 09/01/2047",
+      "percent": "0.014927"
+    },
+    {
+      "name": "Fannie Mae 3.5 05/01/2047",
+      "percent": "0.014841"
+    },
+    {
+      "name": "Freddie Mac 4.5 07/01/2045",
+      "percent": "0.014839"
+    },
+    {
+      "name": "Fannie Mae 3.5 04/01/2047",
+      "percent": "0.014796"
+    },
+    {
+      "name": "Fannie Mae 4.5 09/01/2047",
+      "percent": "0.014786"
+    },
+    {
+      "name": "Fannie Mae 3 10/01/2042",
+      "percent": "0.014697"
+    },
+    {
+      "name": "Fannie Mae 3.5 04/01/2047",
+      "percent": "0.014679"
+    },
+    {
+      "name": "Government National Mortgage A 4 03/20/2047",
+      "percent": "0.014627"
+    },
+    {
+      "name": "Fannie Mae 4 04/01/2046",
+      "percent": "0.014615"
+    },
+    {
+      "name": "Fannie Mae 4 06/01/2045",
+      "percent": "0.014594"
+    },
+    {
+      "name": "Freddie Mac 3.5 02/01/2047",
+      "percent": "0.014563"
+    },
+    {
+      "name": "Government National Mortgage A 3.5 06/20/2047",
+      "percent": "0.014540"
+    },
+    {
+      "name": "Fannie Mae 4 12/01/2045",
+      "percent": "0.014478"
+    },
+    {
+      "name": "Freddie Mac 4.5 12/01/2047",
+      "percent": "0.014449"
+    },
+    {
+      "name": "Freddie Mac 3.5 05/01/2046",
+      "percent": "0.014384"
+    },
+    {
+      "name": "Freddie Mac 5 12/01/2033",
+      "percent": "0.014337"
+    },
+    {
+      "name": "Government National Mortgage A 4 11/20/2045",
+      "percent": "0.014331"
+    },
+    {
+      "name": "Fannie Mae 3 12/01/2036",
+      "percent": "0.014308"
+    },
+    {
+      "name": "Freddie Mac 3 11/01/2046",
+      "percent": "0.014289"
+    },
+    {
+      "name": "Government National Mortgage A 4 07/20/2045",
+      "percent": "0.014254"
+    },
+    {
+      "name": "Government National Mortgage A 2.5 03/20/2043",
+      "percent": "0.014216"
+    },
+    {
+      "name": "Fannie Mae 4 07/01/2047",
+      "percent": "0.014189"
+    },
+    {
+      "name": "Fannie Mae 4 09/01/2043",
+      "percent": "0.014181"
+    },
+    {
+      "name": "Fannie Mae 5 06/01/2039",
+      "percent": "0.014173"
+    },
+    {
+      "name": "Fannie Mae 3.5 02/01/2046",
+      "percent": "0.014127"
+    },
+    {
+      "name": "Freddie Mac 5 12/01/2044",
+      "percent": "0.014099"
+    },
+    {
+      "name": "Fannie Mae 3.5 03/01/2033",
+      "percent": "0.014082"
+    },
+    {
+      "name": "Fannie Mae 3.5 11/01/2034",
+      "percent": "0.014046"
+    },
+    {
+      "name": "Fannie Mae 2.5 12/01/2031",
+      "percent": "0.013935"
+    },
+    {
+      "name": "Fannie Mae 4.5 08/01/2046",
+      "percent": "0.013912"
+    },
+    {
+      "name": "Government National Mortgage A 3 01/20/2043",
+      "percent": "0.013905"
+    },
+    {
+      "name": "Fannie Mae 3 08/01/2043",
+      "percent": "0.013896"
+    },
+    {
+      "name": "Fannie Mae 4 04/01/2042",
+      "percent": "0.013833"
+    },
+    {
+      "name": "Fannie Mae 3 08/01/2027",
+      "percent": "0.013768"
+    },
+    {
+      "name": "Fannie Mae 3.5 05/01/2048",
+      "percent": "0.013584"
+    },
+    {
+      "name": "Fannie Mae 3 01/01/2047",
+      "percent": "0.013513"
+    },
+    {
+      "name": "Freddie Mac 4 02/01/2027",
+      "percent": "0.013425"
+    },
+    {
+      "name": "Fannie Mae 4.5 12/01/2047",
+      "percent": "0.013420"
+    },
+    {
+      "name": "Freddie Mac 4.5 01/01/2049",
+      "percent": "0.013401"
+    },
+    {
+      "name": "Freddie Mac 3 11/01/2031",
+      "percent": "0.013310"
+    },
+    {
+      "name": "Fannie Mae 4 10/01/2043",
+      "percent": "0.013280"
+    },
+    {
+      "name": "Fannie Mae 3.5 05/01/2042",
+      "percent": "0.013277"
+    },
+    {
+      "name": "Fannie Mae 3 02/01/2048",
+      "percent": "0.013148"
+    },
+    {
+      "name": "Fannie Mae 3 04/01/2043",
+      "percent": "0.013127"
+    },
+    {
+      "name": "Fannie Mae 3.5 04/01/2032",
+      "percent": "0.013116"
+    },
+    {
+      "name": "Freddie Mac 3.5 01/01/2046",
+      "percent": "0.013096"
+    },
+    {
+      "name": "Freddie Mac 4 02/01/2045",
+      "percent": "0.012986"
+    },
+    {
+      "name": "Fannie Mae 3 04/01/2045",
+      "percent": "0.012970"
+    },
+    {
+      "name": "Freddie Mac 3 04/01/2036",
+      "percent": "0.012956"
+    },
+    {
+      "name": "Government National Mortgage A 3 05/20/2032",
+      "percent": "0.012934"
+    },
+    {
+      "name": "Freddie Mac 3 07/01/2035",
+      "percent": "0.012928"
+    },
+    {
+      "name": "Fannie Mae 2.5 05/01/2043",
+      "percent": "0.012894"
+    },
+    {
+      "name": "Freddie Mac 3 11/01/2042",
+      "percent": "0.012885"
+    },
+    {
+      "name": "Fannie Mae 3 04/01/2043",
+      "percent": "0.012859"
+    },
+    {
+      "name": "Freddie Mac 3.5 05/01/2048",
+      "percent": "0.012809"
+    },
+    {
+      "name": "Fannie Mae 4 04/01/2046",
+      "percent": "0.012700"
+    },
+    {
+      "name": "Fannie Mae 2.5 04/01/2030",
+      "percent": "0.012690"
+    },
+    {
+      "name": "Fannie Mae 3 11/01/2046",
+      "percent": "0.012677"
+    },
+    {
+      "name": "Fannie Mae 2.5 02/01/2043",
+      "percent": "0.012635"
+    },
+    {
+      "name": "Fannie Mae 3.5 11/01/2047",
+      "percent": "0.012597"
+    },
+    {
+      "name": "Fannie Mae 3.5 06/01/2042",
+      "percent": "0.012528"
+    },
+    {
+      "name": "Freddie Mac 4.5 10/01/2041",
+      "percent": "0.012383"
+    },
+    {
+      "name": "Freddie Mac 3 09/01/2046",
+      "percent": "0.012381"
+    },
+    {
+      "name": "Fannie Mae 3.5 05/01/2045",
+      "percent": "0.012366"
+    },
+    {
+      "name": "Freddie Mac 3 03/01/2027",
+      "percent": "0.012366"
+    },
+    {
+      "name": "Government National Mortgage A 3 01/20/2046",
+      "percent": "0.012287"
+    },
+    {
+      "name": "Freddie Mac 3 03/01/2043",
+      "percent": "0.012174"
+    },
+    {
+      "name": "Fannie Mae 3 05/01/2043",
+      "percent": "0.012118"
+    },
+    {
+      "name": "Government National Mortgage A 4 04/20/2049",
+      "percent": "0.011946"
+    },
+    {
+      "name": "Freddie Mac 5 09/01/2048",
+      "percent": "0.011932"
+    },
+    {
+      "name": "Fannie Mae 3.5 12/01/2045",
+      "percent": "0.011851"
+    },
+    {
+      "name": "Fannie Mae 4.5 09/01/2043",
+      "percent": "0.011849"
+    },
+    {
+      "name": "Fannie Mae 3 03/01/2047",
+      "percent": "0.011822"
+    },
+    {
+      "name": "Fannie Mae 3.5 09/01/2044",
+      "percent": "0.011803"
+    },
+    {
+      "name": "Cash_USD",
+      "percent": "0.011593"
+    },
+    {
+      "name": "Freddie Mac 3.5 08/01/2049",
+      "percent": "0.011530"
+    },
+    {
+      "name": "Fannie Mae 3 11/01/2045",
+      "percent": "0.011518"
+    },
+    {
+      "name": "Government National Mortgage A 4 04/20/2046",
+      "percent": "0.011502"
+    },
+    {
+      "name": "Freddie Mac 3.5 08/01/2034",
+      "percent": "0.011435"
+    },
+    {
+      "name": "Fannie Mae 4 04/01/2047",
+      "percent": "0.011408"
+    },
+    {
+      "name": "Fannie Mae 5.5 01/01/2035",
+      "percent": "0.011377"
+    },
+    {
+      "name": "Freddie Mac 4 11/01/2044",
+      "percent": "0.011375"
+    },
+    {
+      "name": "Fannie Mae 3.5 09/01/2047",
+      "percent": "0.011344"
+    },
+    {
+      "name": "Freddie Mac 4 05/01/2047",
+      "percent": "0.011343"
+    },
+    {
+      "name": "Fannie Mae 4 12/01/2045",
+      "percent": "0.011340"
+    },
+    {
+      "name": "Fannie Mae 2.5 11/01/2030",
+      "percent": "0.011336"
+    },
+    {
+      "name": "Freddie Mac 3.5 06/01/2049",
+      "percent": "0.011334"
+    },
+    {
+      "name": "Freddie Mac 3.5 04/01/2029",
+      "percent": "0.011259"
+    },
+    {
+      "name": "Freddie Mac 3.5 12/01/2044",
+      "percent": "0.011247"
+    },
+    {
+      "name": "Freddie Mac 3 02/01/2033",
+      "percent": "0.011243"
+    },
+    {
+      "name": "Freddie Mac 4 12/01/2045",
+      "percent": "0.011162"
+    },
+    {
+      "name": "Freddie Mac 3.5 09/01/2042",
+      "percent": "0.011149"
+    },
+    {
+      "name": "Government National Mortgage A 5 10/20/2048",
+      "percent": "0.011139"
+    },
+    {
+      "name": "Fannie Mae 5 08/01/2048",
+      "percent": "0.011130"
+    },
+    {
+      "name": "Fannie Mae 3 12/01/2046",
+      "percent": "0.011106"
+    },
+    {
+      "name": "Government National Mortgage A 4 02/20/2045",
+      "percent": "0.011037"
+    },
+    {
+      "name": "Government National Mortgage A 3 09/20/2042",
+      "percent": "0.011025"
+    },
+    {
+      "name": "Freddie Mac 3 02/01/2048",
+      "percent": "0.011012"
+    },
+    {
+      "name": "Government National Mortgage A 3 03/20/2043",
+      "percent": "0.011006"
+    },
+    {
+      "name": "Fannie Mae 3.5 08/01/2048",
+      "percent": "0.011003"
+    },
+    {
+      "name": "Fannie Mae 4 09/01/2038",
+      "percent": "0.010884"
+    },
+    {
+      "name": "Fannie Mae 3 01/01/2032",
+      "percent": "0.010838"
+    },
+    {
+      "name": "Fannie Mae 3 06/01/2043",
+      "percent": "0.010803"
+    },
+    {
+      "name": "Fannie Mae 3 04/01/2031",
+      "percent": "0.010744"
+    },
+    {
+      "name": "Fannie Mae 4 05/01/2048",
+      "percent": "0.010732"
+    },
+    {
+      "name": "Freddie Mac 3 01/01/2038",
+      "percent": "0.010699"
+    },
+    {
+      "name": "Freddie Mac 3 11/01/2030",
+      "percent": "0.010684"
+    },
+    {
+      "name": "Freddie Mac 3.5 12/01/2046",
+      "percent": "0.010625"
+    },
+    {
+      "name": "Freddie Mac 3 05/01/2046",
+      "percent": "0.010621"
+    },
+    {
+      "name": "Fannie Mae 4 02/01/2047",
+      "percent": "0.010557"
+    },
+    {
+      "name": "Fannie Mae 2.5 03/01/2029",
+      "percent": "0.010536"
+    },
+    {
+      "name": "Government National Mortgage A 4 12/20/2044",
+      "percent": "0.010502"
+    },
+    {
+      "name": "Fannie Mae 3.5 12/01/2045",
+      "percent": "0.010442"
+    },
+    {
+      "name": "Fannie Mae 3.5 06/01/2046",
+      "percent": "0.010417"
+    },
+    {
+      "name": "Government National Mortgage A 3 05/20/2046",
+      "percent": "0.010254"
+    },
+    {
+      "name": "Fannie Mae 5 01/01/2049",
+      "percent": "0.010213"
+    },
+    {
+      "name": "Government National Mortgage A 4 08/20/2047",
+      "percent": "0.010198"
+    },
+    {
+      "name": "Freddie Mac 4 09/01/2046",
+      "percent": "0.010194"
+    },
+    {
+      "name": "Fannie Mae 3.5 05/01/2045",
+      "percent": "0.010184"
+    },
+    {
+      "name": "Fannie Mae 4 04/01/2046",
+      "percent": "0.010136"
+    },
+    {
+      "name": "Fannie Mae 4 07/01/2049",
+      "percent": "0.010039"
+    },
+    {
+      "name": "Freddie Mac 3.5 04/01/2039",
+      "percent": "0.010037"
+    },
+    {
+      "name": "Fannie Mae 4 09/01/2045",
+      "percent": "0.010026"
+    },
+    {
+      "name": "Fannie Mae 3 08/01/2037",
+      "percent": "0.009954"
+    },
+    {
+      "name": "Fannie Mae 3 08/01/2043",
+      "percent": "0.009925"
+    },
+    {
+      "name": "Fannie Mae 4 01/01/2048",
+      "percent": "0.009922"
+    },
+    {
+      "name": "Fannie Mae 5 08/01/2048",
+      "percent": "0.009882"
+    },
+    {
+      "name": "Government National Mortgage A 4 08/20/2044",
+      "percent": "0.009872"
+    },
+    {
+      "name": "Freddie Mac 4 12/01/2047",
+      "percent": "0.009846"
+    },
+    {
+      "name": "Fannie Mae 4 05/01/2048",
+      "percent": "0.009814"
+    },
+    {
+      "name": "Freddie Mac 3.5 12/01/2045",
+      "percent": "0.009800"
+    },
+    {
+      "name": "Government National Mortgage A 4.5 11/20/2048",
+      "percent": "0.009797"
+    },
+    {
+      "name": "Fannie Mae 3.5 04/01/2043",
+      "percent": "0.009758"
+    },
+    {
+      "name": "Fannie Mae 2.5 07/01/2028",
+      "percent": "0.009741"
+    },
+    {
+      "name": "Government National Mortgage A 3 06/20/2049",
+      "percent": "0.009733"
+    },
+    {
+      "name": "Fannie Mae 3 01/01/2033",
+      "percent": "0.009712"
+    },
+    {
+      "name": "Freddie Mac 2.5 05/01/2028",
+      "percent": "0.009634"
+    },
+    {
+      "name": "Fannie Mae 4 07/01/2048",
+      "percent": "0.009619"
+    },
+    {
+      "name": "Freddie Mac 4 02/01/2042",
+      "percent": "0.009619"
+    },
+    {
+      "name": "Fannie Mae 3.5 10/01/2047",
+      "percent": "0.009581"
+    },
+    {
+      "name": "Freddie Mac 5.5 08/01/2038",
+      "percent": "0.009559"
+    },
+    {
+      "name": "Freddie Mac 3.5 05/01/2044",
+      "percent": "0.009553"
+    },
+    {
+      "name": "Fannie Mae 3.5 11/01/2045",
+      "percent": "0.009543"
+    },
+    {
+      "name": "Government National Mortgage A 4 06/20/2047",
+      "percent": "0.009438"
+    },
+    {
+      "name": "Freddie Mac 3.5 02/01/2045",
+      "percent": "0.009381"
+    },
+    {
+      "name": "Government National Mortgage A 3 12/20/2048",
+      "percent": "0.009373"
+    },
+    {
+      "name": "Fannie Mae 4 02/01/2041",
+      "percent": "0.009358"
+    },
+    {
+      "name": "Freddie Mac 3.5 08/01/2045",
+      "percent": "0.009341"
+    },
+    {
+      "name": "Freddie Mac 3.5 01/01/2034",
+      "percent": "0.009329"
+    },
+    {
+      "name": "Fannie Mae 4 05/01/2049",
+      "percent": "0.009261"
+    },
+    {
+      "name": "Fannie Mae 4 09/01/2046",
+      "percent": "0.009258"
+    },
+    {
+      "name": "Government National Mortgage A 3 12/20/2042",
+      "percent": "0.009239"
+    },
+    {
+      "name": "Freddie Mac 4.5 08/01/2046",
+      "percent": "0.009197"
+    },
+    {
+      "name": "Freddie Mac 4 06/01/2047",
+      "percent": "0.009180"
+    },
+    {
+      "name": "Government National Mortgage A 4.5 11/20/2045",
+      "percent": "0.009176"
+    },
+    {
+      "name": "Freddie Mac 3.5 10/01/2045",
+      "percent": "0.009131"
+    },
+    {
+      "name": "Fannie Mae 3.5 07/01/2037",
+      "percent": "0.009085"
+    },
+    {
+      "name": "Government National Mortgage A 3 08/20/2042",
+      "percent": "0.009024"
+    },
+    {
+      "name": "Fannie Mae 3.5 02/01/2033",
+      "percent": "0.009004"
+    },
+    {
+      "name": "Government National Mortgage A 4 05/20/2047",
+      "percent": "0.009004"
+    },
+    {
+      "name": "Government National Mortgage A 4 08/20/2048",
+      "percent": "0.008994"
+    },
+    {
+      "name": "Freddie Mac 4 09/01/2047",
+      "percent": "0.008920"
+    },
+    {
+      "name": "Freddie Mac 3.5 06/01/2048",
+      "percent": "0.008883"
+    },
+    {
+      "name": "Freddie Mac 4.5 09/01/2044",
+      "percent": "0.008877"
+    },
+    {
+      "name": "Freddie Mac 4.5 10/01/2044",
+      "percent": "0.008862"
+    },
+    {
+      "name": "Fannie Mae 3.5 04/01/2049",
+      "percent": "0.008799"
+    },
+    {
+      "name": "Fannie Mae 5 06/01/2040",
+      "percent": "0.008723"
+    },
+    {
+      "name": "Fannie Mae 4.5 12/01/2043",
+      "percent": "0.008716"
+    },
+    {
+      "name": "Fannie Mae 4 03/01/2047",
+      "percent": "0.008701"
+    },
+    {
+      "name": "Fannie Mae 4 06/01/2046",
+      "percent": "0.008694"
+    },
+    {
+      "name": "Fannie Mae 3.5 04/01/2048",
+      "percent": "0.008636"
+    },
+    {
+      "name": "Fannie Mae 3.5 06/01/2034",
+      "percent": "0.008625"
+    },
+    {
+      "name": "Government National Mortgage A 3.5 09/20/2045",
+      "percent": "0.008569"
+    },
+    {
+      "name": "Fannie Mae 4 08/01/2047",
+      "percent": "0.008560"
+    },
+    {
+      "name": "Freddie Mac 3 12/01/2044",
+      "percent": "0.008543"
+    },
+    {
+      "name": "Freddie Mac 3.5 05/01/2046",
+      "percent": "0.008444"
+    },
+    {
+      "name": "Government National Mortgage A 3 12/20/2045",
+      "percent": "0.008366"
+    },
+    {
+      "name": "Fannie Mae 3.5 12/01/2038",
+      "percent": "0.008320"
+    },
+    {
+      "name": "Fannie Mae 4 04/01/2048",
+      "percent": "0.008247"
+    },
+    {
+      "name": "Government National Mortgage A 3.5 09/20/2043",
+      "percent": "0.008246"
+    },
+    {
+      "name": "Freddie Mac 5.5 07/01/2037",
+      "percent": "0.008211"
+    },
+    {
+      "name": "Fannie Mae 3.5 11/01/2037",
+      "percent": "0.008207"
+    },
+    {
+      "name": "Fannie Mae 3 02/01/2034",
+      "percent": "0.008205"
+    },
+    {
+      "name": "Freddie Mac 3.5 11/01/2047",
+      "percent": "0.008173"
+    },
+    {
+      "name": "Freddie Mac 2.5 09/01/2046",
+      "percent": "0.008164"
+    },
+    {
+      "name": "Freddie Mac 3 08/01/2029",
+      "percent": "0.008138"
+    },
+    {
+      "name": "Fannie Mae 3 04/01/2047",
+      "percent": "0.008095"
+    },
+    {
+      "name": "Fannie Mae 2.5 12/01/2032",
+      "percent": "0.008072"
+    },
+    {
+      "name": "Freddie Mac 4 01/01/2049",
+      "percent": "0.008029"
+    },
+    {
+      "name": "Fannie Mae 3.5 06/01/2033",
+      "percent": "0.008001"
+    },
+    {
+      "name": "Freddie Mac 3 08/01/2046",
+      "percent": "0.007965"
+    },
+    {
+      "name": "Freddie Mac 3.5 07/01/2035",
+      "percent": "0.007928"
+    },
+    {
+      "name": "Freddie Mac 4 07/01/2048",
+      "percent": "0.007927"
+    },
+    {
+      "name": "Fannie Mae 4 10/01/2040",
+      "percent": "0.007877"
+    },
+    {
+      "name": "Freddie Mac 4 10/01/2043",
+      "percent": "0.007877"
+    },
+    {
+      "name": "Government National Mortgage A 4.5 01/20/2048",
+      "percent": "0.007856"
+    },
+    {
+      "name": "Fannie Mae 3.5 12/01/2047",
+      "percent": "0.007842"
+    },
+    {
+      "name": "Freddie Mac 3 06/01/2046",
+      "percent": "0.007797"
+    },
+    {
+      "name": "Fannie Mae 4.5 07/01/2046",
+      "percent": "0.007791"
+    },
+    {
+      "name": "Government National Mortgage A 4.5 08/20/2048",
+      "percent": "0.007767"
+    },
+    {
+      "name": "Fannie Mae 3.5 02/01/2048",
+      "percent": "0.007753"
+    },
+    {
+      "name": "Freddie Mac 4 07/01/2048",
+      "percent": "0.007733"
+    },
+    {
+      "name": "Fannie Mae 2.5 03/01/2029",
+      "percent": "0.007732"
+    },
+    {
+      "name": "Freddie Mac 3 10/01/2030",
+      "percent": "0.007671"
+    },
+    {
+      "name": "Fannie Mae 3.5 08/01/2044",
+      "percent": "0.007670"
+    },
+    {
+      "name": "Fannie Mae 3.5 12/01/2040",
+      "percent": "0.007518"
+    },
+    {
+      "name": "Government National Mortgage A 3 11/20/2044",
+      "percent": "0.007502"
+    },
+    {
+      "name": "Freddie Mac 2.5 02/01/2033",
+      "percent": "0.007449"
+    },
+    {
+      "name": "Government National Mortgage A 3 07/20/2046",
+      "percent": "0.007430"
+    },
+    {
+      "name": "Fannie Mae 3 04/01/2045",
+      "percent": "0.007428"
+    },
+    {
+      "name": "Government National Mortgage A 3 07/20/2042",
+      "percent": "0.007383"
+    },
+    {
+      "name": "Fannie Mae 4.5 08/01/2047",
+      "percent": "0.007339"
+    },
+    {
+      "name": "Freddie Mac 4 10/01/2045",
+      "percent": "0.007331"
+    },
+    {
+      "name": "Fannie Mae 4.5 10/01/2044",
+      "percent": "0.007308"
+    },
+    {
+      "name": "Government National Mortgage A 4.5 06/20/2046",
+      "percent": "0.007302"
+    },
+    {
+      "name": "Freddie Mac 4 11/01/2048",
+      "percent": "0.007272"
+    },
+    {
+      "name": "Fannie Mae 4 01/01/2034",
+      "percent": "0.007247"
+    },
+    {
+      "name": "Fannie Mae 4 10/01/2043",
+      "percent": "0.007237"
+    },
+    {
+      "name": "Government National Mortgage A 3 05/20/2045",
+      "percent": "0.007226"
+    },
+    {
+      "name": "Government National Mortgage A 3.5 01/20/2047",
+      "percent": "0.007219"
+    },
+    {
+      "name": "Freddie Mac 3 02/01/2032",
+      "percent": "0.007212"
+    },
+    {
+      "name": "Government National Mortgage A 3.5 02/20/2049",
+      "percent": "0.007208"
+    },
+    {
+      "name": "Fannie Mae 4.5 10/01/2048",
+      "percent": "0.007184"
+    },
+    {
+      "name": "Freddie Mac 3 05/01/2033",
+      "percent": "0.007152"
+    },
+    {
+      "name": "Government National Mortgage A 5.5 02/20/2049",
+      "percent": "0.007145"
+    },
+    {
+      "name": "Government National Mortgage A 3.5 01/20/2046",
+      "percent": "0.007143"
+    },
+    {
+      "name": "Fannie Mae 3 05/01/2046",
+      "percent": "0.007118"
+    },
+    {
+      "name": "Fannie Mae 3 09/01/2042",
+      "percent": "0.007075"
+    },
+    {
+      "name": "Fannie Mae 4 05/01/2047",
+      "percent": "0.007014"
+    },
+    {
+      "name": "Government National Mortgage A 4.5 08/20/2047",
+      "percent": "0.006967"
+    },
+    {
+      "name": "Fannie Mae 3 10/01/2029",
+      "percent": "0.006963"
+    },
+    {
+      "name": "Fannie Mae 3 12/01/2042",
+      "percent": "0.006950"
+    },
+    {
+      "name": "Fannie Mae 4 03/01/2049",
+      "percent": "0.006945"
+    },
+    {
+      "name": "Government National Mortgage A 5 07/20/2048",
+      "percent": "0.006940"
+    },
+    {
+      "name": "Fannie Mae 3.5 05/01/2043",
+      "percent": "0.006895"
+    },
+    {
+      "name": "Fannie Mae 3 12/01/2045",
+      "percent": "0.006872"
+    },
+    {
+      "name": "Fannie Mae 2.5 08/01/2028",
+      "percent": "0.006861"
+    },
+    {
+      "name": "Freddie Mac 3.5 11/01/2045",
+      "percent": "0.006854"
+    },
+    {
+      "name": "Government National Mortgage A 3.5 05/20/2044",
+      "percent": "0.006850"
+    },
+    {
+      "name": "Fannie Mae 3.5 05/01/2043",
+      "percent": "0.006829"
+    },
+    {
+      "name": "Fannie Mae 3.5 03/01/2045",
+      "percent": "0.006815"
+    },
+    {
+      "name": "Fannie Mae 3.5 01/01/2041",
+      "percent": "0.006806"
+    },
+    {
+      "name": "Freddie Mac 3 10/01/2026",
+      "percent": "0.006802"
+    },
+    {
+      "name": "Fannie Mae 5 03/01/2042",
+      "percent": "0.006793"
+    },
+    {
+      "name": "Freddie Mac 3 02/01/2043",
+      "percent": "0.006780"
+    },
+    {
+      "name": "Government National Mortgage A 3.5 05/20/2043",
+      "percent": "0.006770"
+    },
+    {
+      "name": "Freddie Mac 2.5 10/01/2027",
+      "percent": "0.006743"
+    },
+    {
+      "name": "Freddie Mac 2.5 01/01/2028",
+      "percent": "0.006732"
+    },
+    {
+      "name": "Freddie Mac 4 07/01/2044",
+      "percent": "0.006703"
+    },
+    {
+      "name": "Government National Mortgage A 3 04/20/2043",
+      "percent": "0.006665"
+    },
+    {
+      "name": "Freddie Mac 4 08/01/2044",
+      "percent": "0.006650"
+    },
+    {
+      "name": "Government National Mortgage A 4.5 06/20/2048",
+      "percent": "0.006641"
+    },
+    {
+      "name": "Fannie Mae 4.5 01/01/2042",
+      "percent": "0.006604"
+    },
+    {
+      "name": "Fannie Mae 3 02/01/2035",
+      "percent": "0.006599"
+    },
+    {
+      "name": "Fannie Mae 3.5 01/01/2045",
+      "percent": "0.006596"
+    },
+    {
+      "name": "Freddie Mac 3.5 02/01/2039",
+      "percent": "0.006508"
+    },
+    {
+      "name": "Government National Mortgage A 3.5 02/20/2043",
+      "percent": "0.006506"
+    },
+    {
+      "name": "Fannie Mae 4 12/01/2040",
+      "percent": "0.006482"
+    },
+    {
+      "name": "Freddie Mac 2.5 01/01/2031",
+      "percent": "0.006482"
+    },
+    {
+      "name": "Fannie Mae 3 02/01/2036",
+      "percent": "0.006439"
+    },
+    {
+      "name": "Government National Mortgage A 3.5 04/20/2044",
+      "percent": "0.006423"
+    },
+    {
+      "name": "Government National Mortgage A 3.5 06/20/2048",
+      "percent": "0.006418"
+    },
+    {
+      "name": "Fannie Mae 3 07/01/2043",
+      "percent": "0.006409"
+    },
+    {
+      "name": "Fannie Mae 3.5 06/01/2034",
+      "percent": "0.006409"
+    },
+    {
+      "name": "Freddie Mac 5.5 04/01/2038",
+      "percent": "0.006389"
+    },
+    {
+      "name": "Freddie Mac 3.5 04/01/2049",
+      "percent": "0.006344"
+    },
+    {
+      "name": "Freddie Mac 3 07/01/2043",
+      "percent": "0.006273"
+    },
+    {
+      "name": "Fannie Mae 2 11/01/2031",
+      "percent": "0.006257"
+    },
+    {
+      "name": "Freddie Mac 3.5 11/01/2048",
+      "percent": "0.006248"
+    },
+    {
+      "name": "Freddie Mac 3.5 01/01/2046",
+      "percent": "0.006224"
+    },
+    {
+      "name": "Fannie Mae 4 12/01/2045",
+      "percent": "0.006175"
+    },
+    {
+      "name": "Fannie Mae 3 05/01/2043",
+      "percent": "0.006161"
+    },
+    {
+      "name": "Fannie Mae 3.5 03/01/2046",
+      "percent": "0.006139"
+    },
+    {
+      "name": "Freddie Mac 4.5 07/01/2041",
+      "percent": "0.006122"
+    },
+    {
+      "name": "Government National Mortgage A 4.5 07/20/2041",
+      "percent": "0.006114"
+    },
+    {
+      "name": "Freddie Mac 3.5 03/01/2043",
+      "percent": "0.006052"
+    },
+    {
+      "name": "Fannie Mae 3 04/01/2030",
+      "percent": "0.006033"
+    },
+    {
+      "name": "Fannie Mae 4.5 10/01/2043",
+      "percent": "0.005997"
+    },
+    {
+      "name": "Freddie Mac 4.5 07/01/2048",
+      "percent": "0.005915"
+    },
+    {
+      "name": "Government National Mortgage A 3.5 02/15/2042",
+      "percent": "0.005908"
+    },
+    {
+      "name": "Fannie Mae 4 02/01/2046",
+      "percent": "0.005886"
+    },
+    {
+      "name": "Fannie Mae 4.5 05/01/2044",
+      "percent": "0.005836"
+    },
+    {
+      "name": "Freddie Mac 4 12/01/2045",
+      "percent": "0.005834"
+    },
+    {
+      "name": "Freddie Mac 5 09/01/2039",
+      "percent": "0.005824"
+    },
+    {
+      "name": "Freddie Mac 3.5 03/01/2046",
+      "percent": "0.005822"
+    },
+    {
+      "name": "Freddie Mac 4 10/01/2044",
+      "percent": "0.005801"
+    },
+    {
+      "name": "Fannie Mae 4 07/01/2044",
+      "percent": "0.005689"
+    },
+    {
+      "name": "Fannie Mae 5.5 04/01/2036",
+      "percent": "0.005663"
+    },
+    {
+      "name": "Government National Mortgage A 6 01/20/2046",
+      "percent": "0.005632"
+    },
+    {
+      "name": "Freddie Mac 3.5 07/01/2045",
+      "percent": "0.005576"
+    },
+    {
+      "name": "Fannie Mae 4.5 05/01/2041",
+      "percent": "0.005569"
+    },
+    {
+      "name": "Fannie Mae 3.5 07/01/2042",
+      "percent": "0.005562"
+    },
+    {
+      "name": "Freddie Mac 3.5 06/01/2044",
+      "percent": "0.005512"
+    },
+    {
+      "name": "Government National Mortgage A 3 04/20/2045",
+      "percent": "0.005498"
+    },
+    {
+      "name": "Fannie Mae 3 09/01/2043",
+      "percent": "0.005423"
+    },
+    {
+      "name": "Freddie Mac 4 06/01/2042",
+      "percent": "0.005421"
+    },
+    {
+      "name": "Fannie Mae 4 02/01/2049",
+      "percent": "0.005417"
+    },
+    {
+      "name": "Government National Mortgage A 4.5 02/20/2049",
+      "percent": "0.005386"
+    },
+    {
+      "name": "Government National Mortgage A 4 10/20/2045",
+      "percent": "0.005353"
+    },
+    {
+      "name": "Government National Mortgage A 3.5 04/20/2043",
+      "percent": "0.005352"
+    },
+    {
+      "name": "Freddie Mac 4 06/01/2035",
+      "percent": "0.005342"
+    },
+    {
+      "name": "Fannie Mae 4 05/01/2037",
+      "percent": "0.005331"
+    },
+    {
+      "name": "Freddie Mac 4.5 03/01/2044",
+      "percent": "0.005326"
+    },
+    {
+      "name": "Government National Mortgage A 4.5 12/20/2041",
+      "percent": "0.005318"
+    },
+    {
+      "name": "Government National Mortgage A 3.5 03/20/2043",
+      "percent": "0.005263"
+    },
+    {
+      "name": "Freddie Mac 4 07/01/2049",
+      "percent": "0.005259"
+    },
+    {
+      "name": "Fannie Mae 3 05/01/2045",
+      "percent": "0.005242"
+    },
+    {
+      "name": "Fannie Mae 3 03/01/2047",
+      "percent": "0.005196"
+    },
+    {
+      "name": "Government National Mortgage A 5 11/20/2042",
+      "percent": "0.005189"
+    },
+    {
+      "name": "Freddie Mac 3.5 02/01/2026",
+      "percent": "0.005155"
+    },
+    {
+      "name": "Fannie Mae 4.5 07/01/2048",
+      "percent": "0.005046"
+    },
+    {
+      "name": "Fannie Mae 3.5 04/01/2045",
+      "percent": "0.005035"
+    },
+    {
+      "name": "Freddie Mac 4 07/01/2047",
+      "percent": "0.005034"
+    },
+    {
+      "name": "Freddie Mac 3 07/01/2045",
+      "percent": "0.005010"
+    },
+    {
+      "name": "Government National Mortgage A 3.5 08/20/2044",
+      "percent": "0.005010"
+    },
+    {
+      "name": "Fannie Mae 4.5 06/01/2044",
+      "percent": "0.004981"
+    },
+    {
+      "name": "Fannie Mae 3.5 07/01/2034",
+      "percent": "0.004917"
+    },
+    {
+      "name": "Fannie Mae 3.5 05/01/2029",
+      "percent": "0.004874"
+    },
+    {
+      "name": "Fannie Mae 5.5 07/01/2041",
+      "percent": "0.004860"
+    },
+    {
+      "name": "Fannie Mae 3 01/01/2035",
+      "percent": "0.004801"
+    },
+    {
+      "name": "Fannie Mae 3.5 12/01/2030",
+      "percent": "0.004792"
+    },
+    {
+      "name": "Government National Mortgage A 3.5 08/20/2048",
+      "percent": "0.004790"
+    },
+    {
+      "name": "Fannie Mae 3 04/01/2031",
+      "percent": "0.004725"
+    },
+    {
+      "name": "Government National Mortgage A 4.5 03/20/2048",
+      "percent": "0.004688"
+    },
+    {
+      "name": "Fannie Mae 3.5 01/01/2028",
+      "percent": "0.004685"
+    },
+    {
+      "name": "Freddie Mac 4.5 03/01/2049",
+      "percent": "0.004683"
+    },
+    {
+      "name": "Government National Mortgage A 3 06/20/2047",
+      "percent": "0.004586"
+    },
+    {
+      "name": "Fannie Mae 4 06/01/2047",
+      "percent": "0.004525"
+    },
+    {
+      "name": "Government National Mortgage A 4 07/15/2044",
+      "percent": "0.004519"
+    },
+    {
+      "name": "Fannie Mae 3 11/01/2045",
+      "percent": "0.004480"
+    },
+    {
+      "name": "Freddie Mac 3.5 05/01/2048",
+      "percent": "0.004469"
+    },
+    {
+      "name": "Fannie Mae 4 11/01/2033",
+      "percent": "0.004449"
+    },
+    {
+      "name": "Fannie Mae 2.5 07/01/2028",
+      "percent": "0.004445"
+    },
+    {
+      "name": "Freddie Mac 3.5 10/01/2026",
+      "percent": "0.004425"
+    },
+    {
+      "name": "Fannie Mae 5 09/01/2040",
+      "percent": "0.004406"
+    },
+    {
+      "name": "Fannie Mae 4 12/01/2043",
+      "percent": "0.004392"
+    },
+    {
+      "name": "Fannie Mae 4 02/01/2044",
+      "percent": "0.004359"
+    },
+    {
+      "name": "Government National Mortgage A 4.5 04/20/2044",
+      "percent": "0.004356"
+    },
+    {
+      "name": "Fannie Mae 3 11/01/2028",
+      "percent": "0.004274"
+    },
+    {
+      "name": "Government National Mortgage A 4.5 07/20/2046",
+      "percent": "0.004251"
+    },
+    {
+      "name": "Freddie Mac 3 06/01/2045",
+      "percent": "0.004206"
+    },
+    {
+      "name": "Government National Mortgage A 5 08/20/2043",
+      "percent": "0.004202"
+    },
+    {
+      "name": "Government National Mortgage A 4 07/20/2044",
+      "percent": "0.004157"
+    },
+    {
+      "name": "Freddie Mac 3.5 11/01/2044",
+      "percent": "0.004147"
+    },
+    {
+      "name": "Fannie Mae 5 07/01/2040",
+      "percent": "0.004131"
+    },
+    {
+      "name": "Fannie Mae 4.5 06/01/2044",
+      "percent": "0.004127"
+    },
+    {
+      "name": "Government National Mortgage A 4 03/20/2044",
+      "percent": "0.004125"
+    },
+    {
+      "name": "Fannie Mae 4 03/01/2046",
+      "percent": "0.004104"
+    },
+    {
+      "name": "Fannie Mae 6 10/01/2040",
+      "percent": "0.004036"
+    },
+    {
+      "name": "Fannie Mae 3 07/01/2029",
+      "percent": "0.004002"
+    },
+    {
+      "name": "Freddie Mac 5 12/01/2041",
+      "percent": "0.004001"
+    },
+    {
+      "name": "Fannie Mae 3.5 01/01/2044",
+      "percent": "0.003927"
+    },
+    {
+      "name": "Government National Mortgage A 4.5 12/20/2047",
+      "percent": "0.003892"
+    },
+    {
+      "name": "Freddie Mac 4.5 10/01/2043",
+      "percent": "0.003890"
+    },
+    {
+      "name": "Government National Mortgage A 4.5 12/20/2043",
+      "percent": "0.003876"
+    },
+    {
+      "name": "Fannie Mae 3.5 01/01/2043",
+      "percent": "0.003875"
+    },
+    {
+      "name": "Government National Mortgage A 4 08/20/2043",
+      "percent": "0.003843"
+    },
+    {
+      "name": "Government National Mortgage A 3 02/15/2045",
+      "percent": "0.003794"
+    },
+    {
+      "name": "Fannie Mae 3 01/01/2044",
+      "percent": "0.003778"
+    },
+    {
+      "name": "Government National Mortgage A 4 04/15/2040",
+      "percent": "0.003746"
+    },
+    {
+      "name": "Government National Mortgage A 4 04/20/2047",
+      "percent": "0.003680"
+    },
+    {
+      "name": "Government National Mortgage A 4 01/20/2045",
+      "percent": "0.003679"
+    },
+    {
+      "name": "Freddie Mac 3 10/01/2043",
+      "percent": "0.003655"
+    },
+    {
+      "name": "Freddie Mac 4 11/01/2033",
+      "percent": "0.003641"
+    },
+    {
+      "name": "Government National Mortgage A 4 02/20/2042",
+      "percent": "0.003639"
+    },
+    {
+      "name": "Freddie Mac 4.5 11/01/2048",
+      "percent": "0.003638"
+    },
+    {
+      "name": "Government National Mortgage A 5 07/20/2044",
+      "percent": "0.003591"
+    },
+    {
+      "name": "Fannie Mae 2.5 05/01/2030",
+      "percent": "0.003573"
+    },
+    {
+      "name": "Government National Mortgage A 3.5 02/20/2046",
+      "percent": "0.003561"
+    },
+    {
+      "name": "Freddie Mac 3 09/01/2043",
+      "percent": "0.003552"
+    },
+    {
+      "name": "Government National Mortgage A 4.5 10/20/2045",
+      "percent": "0.003524"
+    },
+    {
+      "name": "Government National Mortgage A 3.5 07/20/2044",
+      "percent": "0.003461"
+    },
+    {
+      "name": "Government National Mortgage A 4 01/20/2046",
+      "percent": "0.003460"
+    },
+    {
+      "name": "Fannie Mae 3.5 09/01/2048",
+      "percent": "0.003448"
+    },
+    {
+      "name": "Government National Mortgage A 4.5 04/15/2040",
+      "percent": "0.003448"
+    },
+    {
+      "name": "Fannie Mae 4.5 09/01/2041",
+      "percent": "0.003435"
+    },
+    {
+      "name": "Fannie Mae 3 07/01/2043",
+      "percent": "0.003412"
+    },
+    {
+      "name": "Freddie Mac 2.5 06/01/2028",
+      "percent": "0.003404"
+    },
+    {
+      "name": "Fannie Mae 3.5 01/01/2045",
+      "percent": "0.003403"
+    },
+    {
+      "name": "Government National Mortgage A 3 05/15/2042",
+      "percent": "0.003378"
+    },
+    {
+      "name": "Freddie Mac 3 06/01/2043",
+      "percent": "0.003341"
+    },
+    {
+      "name": "Government National Mortgage A 4 11/20/2041",
+      "percent": "0.003327"
+    },
+    {
+      "name": "Freddie Mac 3 08/01/2043",
+      "percent": "0.003309"
+    },
+    {
+      "name": "Fannie Mae 2.5 10/01/2032",
+      "percent": "0.003294"
+    },
+    {
+      "name": "Fannie Mae 4 12/01/2044",
+      "percent": "0.003287"
+    },
+    {
+      "name": "Government National Mortgage A 4.5 09/20/2040",
+      "percent": "0.003273"
+    },
+    {
+      "name": "Fannie Mae 3 05/01/2043",
+      "percent": "0.003263"
+    },
+    {
+      "name": "Fannie Mae 2.5 10/01/2028",
+      "percent": "0.003242"
+    },
+    {
+      "name": "Freddie Mac 4 12/01/2041",
+      "percent": "0.003232"
+    },
+    {
+      "name": "Government National Mortgage A 3.5 04/20/2043",
+      "percent": "0.003213"
+    },
+    {
+      "name": "Fannie Mae 4 07/01/2044",
+      "percent": "0.003211"
+    },
+    {
+      "name": "Fannie Mae 3.5 12/01/2025",
+      "percent": "0.003204"
+    },
+    {
+      "name": "Government National Mortgage A 3.5 06/20/2045",
+      "percent": "0.003176"
+    },
+    {
+      "name": "Government National Mortgage A 4 05/20/2042",
+      "percent": "0.003169"
+    },
+    {
+      "name": "Fannie Mae 3.5 05/01/2045",
+      "percent": "0.003124"
+    },
+    {
+      "name": "Fannie Mae 3.5 01/01/2029",
+      "percent": "0.003096"
+    },
+    {
+      "name": "Government National Mortgage A 3.5 04/20/2045",
+      "percent": "0.003086"
+    },
+    {
+      "name": "Fannie Mae 4 12/01/2041",
+      "percent": "0.003081"
+    },
+    {
+      "name": "Government National Mortgage A 5.5 03/15/2039",
+      "percent": "0.003074"
+    },
+    {
+      "name": "Fannie Mae 6 06/01/2040",
+      "percent": "0.003055"
+    },
+    {
+      "name": "Fannie Mae 4 08/01/2049",
+      "percent": "0.003053"
+    },
+    {
+      "name": "Government National Mortgage A 3 08/20/2045",
+      "percent": "0.003044"
+    },
+    {
+      "name": "Government National Mortgage A 4.5 01/20/2044",
+      "percent": "0.003044"
+    },
+    {
+      "name": "Fannie Mae 2.5 07/01/2030",
+      "percent": "0.003035"
+    },
+    {
+      "name": "Government National Mortgage A 5 04/20/2048",
+      "percent": "0.002978"
+    },
+    {
+      "name": "Fannie Mae 4.5 07/01/2048",
+      "percent": "0.002970"
+    },
+    {
+      "name": "Fannie Mae 3 12/01/2030",
+      "percent": "0.002953"
+    },
+    {
+      "name": "Freddie Mac 3.5 07/01/2045",
+      "percent": "0.002908"
+    },
+    {
+      "name": "Fannie Mae 5 02/01/2041",
+      "percent": "0.002879"
+    },
+    {
+      "name": "Government National Mortgage A 3 03/15/2045",
+      "percent": "0.002868"
+    },
+    {
+      "name": "Freddie Mac 3 07/01/2029",
+      "percent": "0.002863"
+    },
+    {
+      "name": "Fannie Mae 4 09/01/2045",
+      "percent": "0.002798"
+    },
+    {
+      "name": "Freddie Mac 3.5 11/01/2043",
+      "percent": "0.002769"
+    },
+    {
+      "name": "Freddie Mac 3.5 12/01/2045",
+      "percent": "0.002768"
+    },
+    {
+      "name": "Government National Mortgage A 4 08/20/2045",
+      "percent": "0.002767"
+    },
+    {
+      "name": "Government National Mortgage A 3.5 04/20/2045",
+      "percent": "0.002752"
+    },
+    {
+      "name": "Freddie Mac 4.5 02/01/2039",
+      "percent": "0.002751"
+    },
+    {
+      "name": "Fannie Mae 3 10/01/2028",
+      "percent": "0.002743"
+    },
+    {
+      "name": "Fannie Mae 4 06/01/2044",
+      "percent": "0.002726"
+    },
+    {
+      "name": "Fannie Mae 4 09/01/2045",
+      "percent": "0.002721"
+    },
+    {
+      "name": "Freddie Mac 4 10/01/2040",
+      "percent": "0.002690"
+    },
+    {
+      "name": "Fannie Mae 3.5 01/01/2027",
+      "percent": "0.002655"
+    },
+    {
+      "name": "Fannie Mae 3 06/01/2030",
+      "percent": "0.002608"
+    },
+    {
+      "name": "Government National Mortgage A 3.5 03/20/2043",
+      "percent": "0.002597"
+    },
+    {
+      "name": "Fannie Mae 3 08/01/2029",
+      "percent": "0.002583"
+    },
+    {
+      "name": "Fannie Mae 4 10/01/2041",
+      "percent": "0.002581"
+    },
+    {
+      "name": "Fannie Mae 2.5 02/01/2030",
+      "percent": "0.002515"
+    },
+    {
+      "name": "Freddie Mac 3.5 08/01/2044",
+      "percent": "0.002476"
+    },
+    {
+      "name": "Government National Mortgage A 4.5 06/15/2040",
+      "percent": "0.002476"
+    },
+    {
+      "name": "Government National Mortgage A 5 04/20/2043",
+      "percent": "0.002442"
+    },
+    {
+      "name": "Fannie Mae 3 08/01/2029",
+      "percent": "0.002410"
+    },
+    {
+      "name": "Government National Mortgage A 3.5 04/15/2042",
+      "percent": "0.002397"
+    },
+    {
+      "name": "Freddie Mac 3.5 06/01/2029",
+      "percent": "0.002395"
+    },
+    {
+      "name": "Fannie Mae 5.5 11/01/2038",
+      "percent": "0.002384"
+    },
+    {
+      "name": "Freddie Mac 4 05/01/2044",
+      "percent": "0.002372"
+    },
+    {
+      "name": "Government National Mortgage A 4.5 05/20/2045",
+      "percent": "0.002345"
+    },
+    {
+      "name": "Fannie Mae 4.5 09/01/2043",
+      "percent": "0.002340"
+    },
+    {
+      "name": "Government National Mortgage A 5 05/20/2044",
+      "percent": "0.002310"
+    },
+    {
+      "name": "Fannie Mae 3 09/01/2030",
+      "percent": "0.002309"
+    },
+    {
+      "name": "Fannie Mae 5 01/01/2045",
+      "percent": "0.002304"
+    },
+    {
+      "name": "Government National Mortgage A 2.5 01/20/2043",
+      "percent": "0.002304"
+    },
+    {
+      "name": "Government National Mortgage A 4 06/15/2045",
+      "percent": "0.002298"
+    },
+    {
+      "name": "Fannie Mae 3 08/01/2043",
+      "percent": "0.002285"
+    },
+    {
+      "name": "Freddie Mac 3.5 01/01/2045",
+      "percent": "0.002281"
+    },
+    {
+      "name": "Freddie Mac 4 04/01/2045",
+      "percent": "0.002279"
+    },
+    {
+      "name": "Fannie Mae 5.5 12/01/2039",
+      "percent": "0.002278"
+    },
+    {
+      "name": "Fannie Mae 3 06/01/2029",
+      "percent": "0.002248"
+    },
+    {
+      "name": "Fannie Mae 3.5 10/01/2044",
+      "percent": "0.002223"
+    },
+    {
+      "name": "Fannie Mae 4.5 03/01/2044",
+      "percent": "0.002156"
+    },
+    {
+      "name": "Fannie Mae 4.5 04/01/2031",
+      "percent": "0.002139"
+    },
+    {
+      "name": "Government National Mortgage A 3.5 12/20/2045",
+      "percent": "0.002114"
+    },
+    {
+      "name": "Government National Mortgage A 3.5 11/20/2042",
+      "percent": "0.002087"
+    },
+    {
+      "name": "Fannie Mae 4.5 04/01/2044",
+      "percent": "0.002075"
+    },
+    {
+      "name": "Fannie Mae 3 09/01/2029",
+      "percent": "0.002065"
+    },
+    {
+      "name": "Fannie Mae 3.5 05/01/2043",
+      "percent": "0.002059"
+    },
+    {
+      "name": "Freddie Mac 3 09/01/2029",
+      "percent": "0.001951"
+    },
+    {
+      "name": "Government National Mortgage A 6 09/15/2040",
+      "percent": "0.001922"
+    },
+    {
+      "name": "Government National Mortgage A 4.5 03/15/2041",
+      "percent": "0.001887"
+    },
+    {
+      "name": "Freddie Mac 4.5 08/01/2045",
+      "percent": "0.001844"
+    },
+    {
+      "name": "Freddie Mac 2.5 10/01/2029",
+      "percent": "0.001830"
+    },
+    {
+      "name": "Fannie Mae 3 12/01/2026",
+      "percent": "0.001790"
+    },
+    {
+      "name": "Government National Mortgage A 3 03/20/2045",
+      "percent": "0.001786"
+    },
+    {
+      "name": "Fannie Mae 4 09/01/2044",
+      "percent": "0.001774"
+    },
+    {
+      "name": "Government National Mortgage A 3.5 03/20/2045",
+      "percent": "0.001761"
+    },
+    {
+      "name": "Freddie Mac 4.5 09/01/2041",
+      "percent": "0.001699"
+    },
+    {
+      "name": "Fannie Mae 6 09/01/2037",
+      "percent": "0.001685"
+    },
+    {
+      "name": "Government National Mortgage A 4 05/15/2045",
+      "percent": "0.001685"
+    },
+    {
+      "name": "Freddie Mac 4 04/01/2042",
+      "percent": "0.001678"
+    },
+    {
+      "name": "Fannie Mae 3.5 10/01/2029",
+      "percent": "0.001620"
+    },
+    {
+      "name": "Freddie Mac 4 12/01/2044",
+      "percent": "0.001613"
+    },
+    {
+      "name": "Freddie Mac 2.5 06/01/2028",
+      "percent": "0.001605"
+    },
+    {
+      "name": "Government National Mortgage A 4 08/20/2042",
+      "percent": "0.001489"
+    },
+    {
+      "name": "Government National Mortgage A 4.5 07/15/2041",
+      "percent": "0.001475"
+    },
+    {
+      "name": "Fannie Mae 5 07/01/2044",
+      "percent": "0.001451"
+    },
+    {
+      "name": "Freddie Mac 3 02/01/2029",
+      "percent": "0.001444"
+    },
+    {
+      "name": "Fannie Mae 4 08/01/2026",
+      "percent": "0.001425"
+    },
+    {
+      "name": "Government National Mortgage A 3.5 12/20/2044",
+      "percent": "0.001420"
+    },
+    {
+      "name": "Government National Mortgage A 4.5 10/20/2043",
+      "percent": "0.001419"
+    },
+    {
+      "name": "Government National Mortgage A 5 06/20/2044",
+      "percent": "0.001416"
+    },
+    {
+      "name": "Freddie Mac 3.5 01/01/2029",
+      "percent": "0.001399"
+    },
+    {
+      "name": "Freddie Mac 3.5 08/01/2029",
+      "percent": "0.001366"
+    },
+    {
+      "name": "Freddie Mac 4 05/01/2044",
+      "percent": "0.001359"
+    },
+    {
+      "name": "Government National Mortgage A 5 05/15/2039",
+      "percent": "0.001326"
+    },
+    {
+      "name": "Fannie Mae 4 10/01/2044",
+      "percent": "0.001323"
+    },
+    {
+      "name": "Freddie Mac 5 09/01/2038",
+      "percent": "0.001293"
+    },
+    {
+      "name": "Fannie Mae 6 09/01/2039",
+      "percent": "0.001282"
+    },
+    {
+      "name": "Government National Mortgage A 5.5 09/15/2035",
+      "percent": "0.001193"
+    },
+    {
+      "name": "Government National Mortgage A 5 12/15/2038",
+      "percent": "0.001167"
+    },
+    {
+      "name": "Fannie Mae 4 10/01/2044",
+      "percent": "0.001145"
+    },
+    {
+      "name": "Government National Mortgage A 6 08/15/2040",
+      "percent": "0.001114"
+    },
+    {
+      "name": "Fannie Mae 5.5 12/01/2038",
+      "percent": "0.001052"
+    },
+    {
+      "name": "Government National Mortgage A 5 03/20/2043",
+      "percent": "0.001041"
+    },
+    {
+      "name": "Fannie Mae 6 01/01/2037",
+      "percent": "0.000984"
+    },
+    {
+      "name": "Fannie Mae 3 02/01/2027",
+      "percent": "0.000982"
+    },
+    {
+      "name": "Freddie Mac 3.5 02/01/2030",
+      "percent": "0.000903"
+    },
+    {
+      "name": "Government National Mortgage A 4.5 06/15/2041",
+      "percent": "0.000883"
+    },
+    {
+      "name": "Government National Mortgage A 5 05/20/2043",
+      "percent": "0.000843"
+    },
+    {
+      "name": "Government National Mortgage A 4.5 06/15/2039",
+      "percent": "0.000760"
+    },
+    {
+      "name": "Freddie Mac 3.5 07/01/2042",
+      "percent": "0.000740"
+    },
+    {
+      "name": "Fannie Mae 4.5 11/01/2024",
+      "percent": "0.000673"
+    },
+    {
+      "name": "Freddie Mac 5.5 12/01/2036",
+      "percent": "0.000650"
+    },
+    {
+      "name": "Government National Mortgage A 5.5 07/15/2038",
+      "percent": "0.000497"
+    },
+    {
+      "name": "Fannie Mae 3.5 01/01/2026",
+      "percent": "0.000437"
+    },
+    {
+      "name": "Freddie Mac 3.5 03/01/2021",
+      "percent": "0.000394"
+    },
+    {
+      "name": "Freddie Mac 5.5 06/01/2036",
+      "percent": "0.000345"
+    },
+    {
+      "name": "Government National Mortgage A 4 02/15/2040",
+      "percent": "0.000323"
+    },
+    {
+      "name": "Freddie Mac 5.5 09/01/2035",
+      "percent": "0.000148"
+    },
+    {
+      "name": "Freddie Mac 5.5 05/01/2038",
+      "percent": "0.000123"
+    },
+    {
+      "name": "Fannie Mae 4 07/01/2021",
+      "percent": "0.000095"
+    },
+    {
+      "name": "Freddie Mac 4 05/01/2021",
+      "percent": "0.000029"
+    },
+    {
+      "name": "Cash_USD",
+      "percent": "-5.789829"
+    },
+    {
+      "name": "Performance quoted represents past performance, which is no guarantee of future results. Investment return and principal value will fluctuate, so you may have a gain or loss when shares are sold. Current performance may be higher or lower than that quoted. Visit www.ssga.com for most recent month-end performance."
+    },
+    {
+      "name": "This analysis or any portion thereof may not be revised or changed in any way, reprinted, sold or redistributed without the written consent of SSGA."
+    },
+    {
+      "name": "Portfolio holdings, allocations and weightings are as of the date indicated, are subject to change and should not be considered a recommendation to buy individual securities. For most recent information visit www.ssga.com."
+    },
+    {
+      "name": "Important Risk Information  "
+    },
+    {
+      "name": "Investing involves risk, and you could lose money on an investment in each of SPDR® Gold Shares Trust (“GLD®”) and SPDR® Gold MiniSharesSM Trust  (“GLDMSM”), a series of the World Gold Trust (together, the “Funds”). \n\nETFs trade like stocks, are subject to investment risk, fluctuate in market value and may trade at prices above or below the ETFs’ net asset value. Brokerage commissions and ETF expenses will reduce returns.\n\nCommodities and commodity-index linked securities may be affected by changes in overall market movements, changes in interest rates, and other factors such as weather, disease, embargoes, or political and regulatory developments, as well as trading activity of speculators and arbitrageurs in the underlying commodities.\n\nFrequent trading of ETFs could significantly increase commissions and other costs such that they may offset any savings from low fees or costs.\n\nDiversification does not ensure a profit or guarantee against loss."
+    },
+    {
+      "name": "Investing in commodities entails significant risk and is not appropriate for all investors."
+    },
+    {
+      "name": "Important Information Relating to SPDR® Gold Trust (“GLD®”) and SPDR® Gold MiniSharesSM Trust (“GLDMSM”):"
+    },
+    {
+      "name": "The SPDR Gold Trust (“GLD”) has filed a registration statement (including a prospectus) with the Securities and Exchange Commission (“SEC”) for GLD. The World Gold Trust has filed a registration statement (including a prospectus) with the SEC for GLDM. Before you invest, you should read the prospectus in the registration statement and other documents each Fund has filed with the SEC for more complete information about each Fund and these offerings. Please see each Fund’s prospectus for a detailed discussion of the risks of investing in each Fund’s shares."
+    },
+    {
+      "name": "The GLD prospectus is available by clicking"
+    },
+    {
+      "name": "The GLDM prospectus is available by clicking "
+    },
+    {
+      "name": "You may get these documents for free by visiting EDGAR on the SEC website at sec.gov or by visiting spdrgoldshares.com. Alternatively, the Funds or any authorized participant will arrange to send you the prospectus if you request it by calling 866.320.4053."
+    },
+    {
+      "name": "None of the Funds is an investment company registered under the Investment Company Act of 1940 (the “1940 Act”). As a result, shareholders of each Fund do not have the protections associated with ownership of shares in an investment company registered under the 1940 Act. GLD and GLDM are not subject to regulation under the CEA. As a result, shareholders of each of GLD and GLDM do not have the protections afforded by the CEA. \n\nShares of each Fund trade like stocks, are subject to investment risk and will fluctuate in market value. \n\nThe values of GLD shares and GLDM shares relate directly to the value of the gold held by each Fund (less its expenses), respectively. Fluctuations in the price of gold could materially and adversely affect an investment in the shares. The price received upon the sale of the shares, which trade at market price, may be more or less than the value of the gold represented by them.  \n\nNone of the Funds generate any income, and as each Fund regularly sells gold to pay for its ongoing expenses, the amount of gold represented by each Fund share will decline over time to that extent.\n\nThe World Gold Council name and logo are a registered trademark and used with the permission of the World Gold Council pursuant to a license agreement. The World Gold Council is not responsible for the content of, and is not liable for the use of or reliance on, this material. World Gold Council is an affiliate of the Sponsor of each of GLD and GLDM.\n\nMiniSharesSM and GLDMSM are service marks of WGC USA Asset Management Company, LLC used with the permission of WGC USA Asset Management Company, LLC.\n\nGLD® is a registered trademark of World Gold Trust Services, LLC used with the permission of World Gold Trust Services, LLC."
+    },
+    {
+      "name": "For more information, please contact the Marketing Agent for GLD and GLDM: State Street Global Advisors Funds Distributors, LLC, One Iron Street, Boston, MA, 02210; T: +1 866 320 4053 spdrgoldshares.com"
+    },
+    {
+      "name": "Standard & Poor’s®, S&P® and SPDR® are registered trademarks of Standard & Poor’s Financial Services LLC (S&P); Dow Jones is a registered trademark of Dow Jones Trademark Holdings LLC (Dow Jones); and these trademarks have been licensed for use by S&P Dow Jones Indices LLC (SPDJI) and sublicensed for certain purposes by State Street Corporation. State Street Corporation’s financial products are not sponsored, endorsed, sold or promoted by SPDJI, Dow Jones, S&P, their respective affiliates and third party licensors and none of such parties make any representation regarding the advisability of investing in such product(s) nor do they have any liability in relation thereto, including for any errors, omissions, or interruptions of any index."
+    },
+    {
+      "name": "Bonds generally present less short-term risk and volatility than stocks, but contain interest rate risk (as interest rates raise, bond prices usually fall); issuer default risk; issuer credit risk; liquidity risk; and inflation risk. These effects are usually pronounced for longer-term securities. Any fixed income security sold or redeemed prior to maturity may be subject to a substantial gain or loss.\nInternational Government bonds and corporate bonds generally have more moderate short-term price fluctuations than stocks, but provide lower potential long-term returns.\nInvesting in high yield fixed income securities, otherwise known as \"junk bonds\", is considered speculative and involves greater risk of loss of principal and interest than investing in investment grade fixed income securities. These Lower-quality debt securities involve greater risk of default or price changes due to potential changes in the credit quality of the issuer.\nEquity securities may fluctuate in value in response to the activities of individual companies and general market and economic conditions.\nThere are risks associated with investing in Real Assets and the Real Assets sector, including real estate, precious metals and natural resources.  Investments can be significantly affected by events relating to these industries.\nInvesting in foreign domiciled securities may involve risk of capital loss from unfavorable fluctuation in currency values, withholding taxes, from differences in generally accepted accounting principles or from economic or political instability in other nations.  Investments in emerging or developing markets may be more volatile and less liquid than investing in developed markets and may involve exposure to economic structures that are generally less diverse and mature and to political systems which have less stability than those of more developed countries. The trademarks and service marks referenced herein are the property of their respective owners. Third party data providers make no warranties or representations of any kind relating to the accuracy, completeness or timeliness of the data and have no liability for damages of any kind relating to the use of such data. Investing involves risk including the risk of loss of principal.\nThe whole or any part of this work may not be reproduced, copied or transmitted or any of its contents disclosed to third parties without SSGA's express written consent.\nETFs trade like stocks, are subject to investment risk and will fluctuate in market value. The investment return and principal value of an investment will fluctuate in value, so that when shares are sold or redeemed, they may be worth more or less than when they were purchased.  Although shares may be bought or sold on an exchange through any brokerage account, shares are not individually redeemable from the fund.  Investors may acquire shares and tender them for redemption through the fund in large aggregations known as “creation units.”  Please see the fund’s prospectus for more details.\nInvesting in REITs involves certain distinct risks in addition to those risks associated with investing in the real estate industry in general. Equity REITs may be affected by changes in the value of the underlying property owned by the REITs, while mortgage REITs may be affected by the quality of credit extended. REITs are subject to heavy cash flow dependency, default by borrowers and self-liquidation. REITs, especially mortgage REITs, are also subject to interest rate risk (i.e., as interest rates rise, the value of the REIT may decline).\nInvestments in small/mid-sized companies may involve greater risks than in those of larger, better known companies. Concentrated investments in a particular Sector tend to be more volatile than the overall market and increases risk that events negatively affecting such sectors or industries could reduce returns, potentially causing the value of the Fund’s shares to decrease.\nStandard & Poor’s®, S&P® and SPDR® are registered trademarks of Standard & Poor’s Financial Services LLC (S&P); Dow Jones is a registered trademark of Dow Jones Trademark Holdings LLC (Dow Jones); and these trademarks have been licensed for use by S&P Dow Jones Indices LLC (SPDJI) and sublicensed for certain purposes by State Street Corporation. State Street Corporation’s financial products are not sponsored, endorsed, sold or promoted by SPDJI, Dow Jones, S&P, their respective affiliates and third party licensors and none of such parties make any representation regarding the advisability of investing in such product(s) nor do they have any liability in relation thereto, including for any errors, omissions, or interruptions of any index.\nCommodities and commodity-index linked securities may be affected by changes in overall market movements, changes in interest rates, and other factors such as weather, disease, embargoes, or political and regulatory developments, as well as trading activity of speculators and arbitrageurs in the underlying commodities. The returns on a portfolio of securities which exclude companies that do not meet the portfolio's specified ESG criteria may trail the returns on a portfolio of securities which include such companies. A portfolio's ESG criteria may result in the portfolio investing in industry sectors or securities which underperform the market as a whole.\nTechnology companies, including cyber security companies, can be significantly affected by obsolescence of existing technology, limited product lines, and competition for financial resources, qualified personnel, new market entrants or impairment of patent and intellectual property rights that can adversely affect profit margins."
+    },
+    {
+      "name": "Distributor: State Street Global Advisors Funds Distributors, LLC, member FINRA(http://www.finra.org), SIPC(http://www.sipc.org), an indirect wholly owned subsidiary of State Street Corporation. References to State Street may include State Street Corporation and its affiliates. Certain State Street affiliates provide services and receive fees from the SPDR ETFs. ALPS Distributors, Inc., member FINRA, is the distributor for DIA, MDY and SPY, all unit investment trusts. ALPS Portfolio Solutions Distributor, Inc., member FINRA, is the distributor for Select Sector SPDRs. ALPS Distributors, Inc. and ALPS Portfolio Solutions Distributor, Inc. are not affiliated with State Street Global Advisors Funds Distributors, LLC."
+    },
+    {
+      "name": "Before investing, consider the funds’ investment objectives, risks, charges and expenses. To obtain a prospectus or summary prospectus, this contains this and other information, call 1-866-787-2257 or visit www.ssga.com. Read it carefully.\n\nNot FDIC Insured * No Bank Guarantee * May Lose Value\n\n2529657.2.1.AM.RTL\nExpiration: 03/31/2021\nSPD002304"
+    }
+  ]
+}

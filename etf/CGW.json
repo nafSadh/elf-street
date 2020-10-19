@@ -1,0 +1,320 @@
+{
+  "Products": "S&P Global Water Index ETF",
+  "Ticker": "CGW",
+  "Inception": "05/14/2007",
+  "Gross Exp. Ratio": "0.59%",
+  "YTD": "0.68",
+  "1Yr": "9.80",
+  "3Yr": "8.28",
+  "5Yr": "11.30",
+  "10Yr": "10.26",
+  "Since Incept.": "6.10",
+  "Category": "Thematic",
+  "SubCategory": "Sustainable",
+  "ticker": "CGW",
+  "name": "S&P Global Water Index ETF",
+  "issuer": "Invesco",
+  "website": "https://www.invesco.com/us/financial-products/etfs/product-detail?audienceType=Investor&ticker=CGW",
+  "holdingDataSource": {
+    "url": "https://www.invesco.com/us/financial-products/etfs/holdings/main/holdings/0?audienceType=Investor&action=download&ticker=CGW",
+    "fileExt": "csv",
+    "transform": "invesco"
+  },
+  "holdings": [
+    {
+      "ticker": "AWK",
+      "name": "American Water Works Co Inc",
+      "percent": "9.846"
+    },
+    {
+      "ticker": "XYL",
+      "name": "Xylem Inc/NY",
+      "percent": "9.399"
+    },
+    {
+      "ticker": "HLMA LN",
+      "name": "Halma PLC",
+      "percent": "5.113"
+    },
+    {
+      "ticker": "GEBN SW",
+      "name": "Geberit AG",
+      "percent": "4.987"
+    },
+    {
+      "ticker": "PNR",
+      "name": "Pentair PLC",
+      "percent": "4.724"
+    },
+    {
+      "ticker": "VIE FP",
+      "name": "Veolia Environnement SA",
+      "percent": "4.591"
+    },
+    {
+      "ticker": "WTRG",
+      "name": "Essential Utilities Inc",
+      "percent": "4.189"
+    },
+    {
+      "ticker": "AQN",
+      "name": "Algonquin Power & Utilities Corp",
+      "percent": "4.129"
+    },
+    {
+      "ticker": "UU/ LN",
+      "name": "United Utilities Group PLC",
+      "percent": "3.514"
+    },
+    {
+      "ticker": "SVT LN",
+      "name": "Severn Trent PLC",
+      "percent": "3.500"
+    },
+    {
+      "ticker": "SEV FP",
+      "name": "Suez SA",
+      "percent": "3.366"
+    },
+    {
+      "ticker": "TTEK",
+      "name": "Tetra Tech Inc",
+      "percent": "2.620"
+    },
+    {
+      "ticker": "FI-N SW",
+      "name": "Georg Fischer AG",
+      "percent": "2.537"
+    },
+    {
+      "ticker": "PNN LN",
+      "name": "Pennon Group PLC",
+      "percent": "2.509"
+    },
+    {
+      "ticker": "RXN",
+      "name": "Rexnord Corp",
+      "percent": "2.209"
+    },
+    {
+      "ticker": "AALB",
+      "name": "Aalberts NV",
+      "percent": "2.185"
+    },
+    {
+      "ticker": "021240 KS",
+      "name": "Coway Co Ltd",
+      "percent": "2.167"
+    },
+    {
+      "ticker": "270 HK",
+      "name": "Guangdong Investment Ltd",
+      "percent": "2.052"
+    },
+    {
+      "ticker": "WMS",
+      "name": "Advanced Drainage Systems Inc",
+      "percent": "1.976"
+    },
+    {
+      "ticker": "6370 JP",
+      "name": "Kurita Water Industries Ltd",
+      "percent": "1.927"
+    },
+    {
+      "ticker": "IP",
+      "name": "Interpump Group SpA",
+      "percent": "1.900"
+    },
+    {
+      "ticker": "WTS",
+      "name": "Watts Water Technologies Inc",
+      "percent": "1.755"
+    },
+    {
+      "ticker": "ANDR AV",
+      "name": "ANDRITZ AG",
+      "percent": "1.431"
+    },
+    {
+      "ticker": "FELE",
+      "name": "Franklin Electric Co Inc",
+      "percent": "1.395"
+    },
+    {
+      "ticker": "OLN",
+      "name": "Olin Corp",
+      "percent": "1.395"
+    },
+    {
+      "ticker": "BMI",
+      "name": "Badger Meter Inc",
+      "percent": "1.336"
+    },
+    {
+      "ticker": "AQUA",
+      "name": "Evoqua Water Technologies Corp",
+      "percent": "1.302"
+    },
+    {
+      "ticker": "AWR",
+      "name": "American States Water Co",
+      "percent": "1.285"
+    },
+    {
+      "ticker": "SBS",
+      "name": "Cia de Saneamento Basico do Estado de Sao Paulo ADR",
+      "percent": "1.225"
+    },
+    {
+      "ticker": "RWC",
+      "name": "Reliance Worldwide Corp Ltd",
+      "percent": "1.072"
+    },
+    {
+      "ticker": "CWT",
+      "name": "California Water Service Group",
+      "percent": "1.026"
+    },
+    {
+      "ticker": "MWA",
+      "name": "Mueller Water Products Inc",
+      "percent": "1.007"
+    },
+    {
+      "ticker": "371 HK",
+      "name": "Beijing Enterprises Water Group Ltd",
+      "percent": "0.891"
+    },
+    {
+      "ticker": "SJW",
+      "name": "SJW Group",
+      "percent": "0.726"
+    },
+    {
+      "ticker": "LNN",
+      "name": "Lindsay Corp",
+      "percent": "0.660"
+    },
+    {
+      "ticker": "MSEX",
+      "name": "Middlesex Water Co",
+      "percent": "0.524"
+    },
+    {
+      "ticker": "SCI SP",
+      "name": "Sembcorp Industries Ltd",
+      "percent": "0.424"
+    },
+    {
+      "ticker": "ACE",
+      "name": "ACEA SpA",
+      "percent": "0.397"
+    },
+    {
+      "ticker": "9551 JP",
+      "name": "METAWATER Co Ltd",
+      "percent": "0.376"
+    },
+    {
+      "ticker": "GRC",
+      "name": "Gorman-Rupp Co/The",
+      "percent": "0.355"
+    },
+    {
+      "ticker": "855 HK",
+      "name": "China Water Affairs Group Ltd",
+      "percent": "0.292"
+    },
+    {
+      "ticker": "YORW",
+      "name": "York Water Co/The",
+      "percent": "0.265"
+    },
+    {
+      "ticker": "FCC",
+      "name": "Fomento de Construcciones y Contratas SA",
+      "percent": "0.230"
+    },
+    {
+      "ticker": "AEGN",
+      "name": "Aegion Corp",
+      "percent": "0.222"
+    },
+    {
+      "ticker": "ERII",
+      "name": "Energy Recovery Inc",
+      "percent": "0.213"
+    },
+    {
+      "ticker": "NWPX",
+      "name": "Northwest Pipe Co",
+      "percent": "0.171"
+    },
+    {
+      "ticker": "FRTA",
+      "name": "Forterra Inc",
+      "percent": "0.171"
+    },
+    {
+      "ticker": "6368 JP",
+      "name": "Organo Corp",
+      "percent": "0.157"
+    },
+    {
+      "ticker": "ARTNA",
+      "name": "Artesian Resources Corp",
+      "percent": "0.141"
+    },
+    {
+      "ticker": "WTTR",
+      "name": "Select Energy Services Inc",
+      "percent": "0.129"
+    },
+    {
+      "ticker": "-HongKong",
+      "name": "Cash/Receivables/Payables",
+      "percent": "0.007"
+    },
+    {
+      "ticker": "-JapanYen-",
+      "name": "Cash/Receivables/Payables",
+      "percent": "0.000"
+    },
+    {
+      "ticker": "DHR",
+      "name": "Danaher Corp",
+      "percent": "0.000"
+    },
+    {
+      "ticker": "-SwedKrona",
+      "name": "Cash/Receivables/Payables",
+      "percent": "-0.000"
+    },
+    {
+      "ticker": "-Canadian",
+      "name": "Cash/Receivables/Payables",
+      "percent": "-0.000"
+    },
+    {
+      "ticker": "-GBP-",
+      "name": "Cash/Receivables/Payables",
+      "percent": "-0.000"
+    },
+    {
+      "ticker": "-Euro-",
+      "name": "Cash/Receivables/Payables",
+      "percent": "-0.000"
+    },
+    {
+      "ticker": "-SwissFran",
+      "name": "Cash/Receivables/Payables",
+      "percent": "-0.001"
+    },
+    {
+      "ticker": "-CASH-",
+      "name": "Cash/Receivables/Payables",
+      "percent": "-0.015"
+    }
+  ]
+}

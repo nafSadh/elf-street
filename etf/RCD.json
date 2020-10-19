@@ -1,0 +1,335 @@
+{
+  "Products": "S&P 500® Equal Weight Consumer Discretionary ETF",
+  "Ticker": "RCD",
+  "Inception": "11/01/2006",
+  "Gross Exp. Ratio": "0.40%",
+  "YTD": "-6.57",
+  "1Yr": "0.05",
+  "3Yr": "5.07",
+  "5Yr": "5.62",
+  "10Yr": "11.18",
+  "Since Incept.": "7.55",
+  "Category": "SP Factor",
+  "SubCategory": "Equal Weight Sectors",
+  "ticker": "RCD",
+  "name": "S&P 500® Equal Weight Consumer Discretionary ETF",
+  "issuer": "Invesco",
+  "website": "https://www.invesco.com/us/financial-products/etfs/product-detail?audienceType=Investor&ticker=RCD",
+  "holdingDataSource": {
+    "url": "https://www.invesco.com/us/financial-products/etfs/holdings/main/holdings/0?audienceType=Investor&action=download&ticker=RCD",
+    "fileExt": "csv",
+    "transform": "invesco"
+  },
+  "holdings": [
+    {
+      "ticker": "ETSY",
+      "name": "Etsy Inc",
+      "percent": "2.128"
+    },
+    {
+      "ticker": "TPR",
+      "name": "Tapestry Inc",
+      "percent": "1.931"
+    },
+    {
+      "ticker": "LB",
+      "name": "L Brands Inc",
+      "percent": "1.899"
+    },
+    {
+      "ticker": "WHR",
+      "name": "Whirlpool Corp",
+      "percent": "1.863"
+    },
+    {
+      "ticker": "APTV",
+      "name": "Aptiv PLC",
+      "percent": "1.855"
+    },
+    {
+      "ticker": "GPS",
+      "name": "Gap Inc/The",
+      "percent": "1.854"
+    },
+    {
+      "ticker": "DRI",
+      "name": "Darden Restaurants Inc",
+      "percent": "1.820"
+    },
+    {
+      "ticker": "HBI",
+      "name": "Hanesbrands Inc",
+      "percent": "1.785"
+    },
+    {
+      "ticker": "TGT",
+      "name": "Target Corp",
+      "percent": "1.784"
+    },
+    {
+      "ticker": "BBY",
+      "name": "Best Buy Co Inc",
+      "percent": "1.780"
+    },
+    {
+      "ticker": "HAS",
+      "name": "Hasbro Inc",
+      "percent": "1.779"
+    },
+    {
+      "ticker": "TSCO",
+      "name": "Tractor Supply Co",
+      "percent": "1.776"
+    },
+    {
+      "ticker": "DG",
+      "name": "Dollar General Corp",
+      "percent": "1.766"
+    },
+    {
+      "ticker": "GM",
+      "name": "General Motors Co",
+      "percent": "1.754"
+    },
+    {
+      "ticker": "LOW",
+      "name": "Lowe's Cos Inc",
+      "percent": "1.753"
+    },
+    {
+      "ticker": "F",
+      "name": "Ford Motor Co",
+      "percent": "1.750"
+    },
+    {
+      "ticker": "LEN",
+      "name": "Lennar Corp",
+      "percent": "1.745"
+    },
+    {
+      "ticker": "MHK",
+      "name": "Mohawk Industries Inc",
+      "percent": "1.736"
+    },
+    {
+      "ticker": "NKE",
+      "name": "NIKE Inc",
+      "percent": "1.732"
+    },
+    {
+      "ticker": "VFC",
+      "name": "VF Corp",
+      "percent": "1.729"
+    },
+    {
+      "ticker": "DHI",
+      "name": "DR Horton Inc",
+      "percent": "1.725"
+    },
+    {
+      "ticker": "NVR",
+      "name": "NVR Inc",
+      "percent": "1.722"
+    },
+    {
+      "ticker": "TIF",
+      "name": "Tiffany & Co",
+      "percent": "1.722"
+    },
+    {
+      "ticker": "YUM",
+      "name": "Yum! Brands Inc",
+      "percent": "1.705"
+    },
+    {
+      "ticker": "DLTR",
+      "name": "Dollar Tree Inc",
+      "percent": "1.695"
+    },
+    {
+      "ticker": "EBAY",
+      "name": "eBay Inc",
+      "percent": "1.690"
+    },
+    {
+      "ticker": "ULTA",
+      "name": "Ulta Beauty Inc",
+      "percent": "1.688"
+    },
+    {
+      "ticker": "ROST",
+      "name": "Ross Stores Inc",
+      "percent": "1.684"
+    },
+    {
+      "ticker": "PHM",
+      "name": "PulteGroup Inc",
+      "percent": "1.683"
+    },
+    {
+      "ticker": "MCD",
+      "name": "McDonald's Corp",
+      "percent": "1.680"
+    },
+    {
+      "ticker": "AMZN",
+      "name": "Amazon.com Inc",
+      "percent": "1.680"
+    },
+    {
+      "ticker": "TJX",
+      "name": "TJX Cos Inc/The",
+      "percent": "1.671"
+    },
+    {
+      "ticker": "POOL",
+      "name": "Pool Corp",
+      "percent": "1.668"
+    },
+    {
+      "ticker": "HD",
+      "name": "Home Depot Inc/The",
+      "percent": "1.662"
+    },
+    {
+      "ticker": "SBUX",
+      "name": "Starbucks Corp",
+      "percent": "1.658"
+    },
+    {
+      "ticker": "CMG",
+      "name": "Chipotle Mexican Grill Inc",
+      "percent": "1.650"
+    },
+    {
+      "ticker": "NWL",
+      "name": "Newell Brands Inc",
+      "percent": "1.649"
+    },
+    {
+      "ticker": "HLT",
+      "name": "Hilton Worldwide Holdings Inc",
+      "percent": "1.636"
+    },
+    {
+      "ticker": "LEG",
+      "name": "Leggett & Platt Inc",
+      "percent": "1.631"
+    },
+    {
+      "ticker": "DPZ",
+      "name": "Domino's Pizza Inc",
+      "percent": "1.617"
+    },
+    {
+      "ticker": "GPC",
+      "name": "Genuine Parts Co",
+      "percent": "1.603"
+    },
+    {
+      "ticker": "AAP",
+      "name": "Advance Auto Parts Inc",
+      "percent": "1.601"
+    },
+    {
+      "ticker": "LKQ",
+      "name": "LKQ Corp",
+      "percent": "1.584"
+    },
+    {
+      "ticker": "GRMN",
+      "name": "Garmin Ltd",
+      "percent": "1.582"
+    },
+    {
+      "ticker": "MAR",
+      "name": "Marriott International Inc/MD",
+      "percent": "1.573"
+    },
+    {
+      "ticker": "ORLY",
+      "name": "O'Reilly Automotive Inc",
+      "percent": "1.571"
+    },
+    {
+      "ticker": "RL",
+      "name": "Ralph Lauren Corp",
+      "percent": "1.568"
+    },
+    {
+      "ticker": "AZO",
+      "name": "AutoZone Inc",
+      "percent": "1.544"
+    },
+    {
+      "ticker": "EXPE",
+      "name": "Expedia Group Inc",
+      "percent": "1.529"
+    },
+    {
+      "ticker": "MGM",
+      "name": "MGM Resorts International",
+      "percent": "1.492"
+    },
+    {
+      "ticker": "BKNG",
+      "name": "Booking Holdings Inc",
+      "percent": "1.492"
+    },
+    {
+      "ticker": "PVH",
+      "name": "PVH Corp",
+      "percent": "1.480"
+    },
+    {
+      "ticker": "NCLH",
+      "name": "Norwegian Cruise Line Holdings Ltd",
+      "percent": "1.478"
+    },
+    {
+      "ticker": "KMX",
+      "name": "CarMax Inc",
+      "percent": "1.473"
+    },
+    {
+      "ticker": "BWA",
+      "name": "BorgWarner Inc",
+      "percent": "1.458"
+    },
+    {
+      "ticker": "LVS",
+      "name": "Las Vegas Sands Corp",
+      "percent": "1.396"
+    },
+    {
+      "ticker": "WYNN",
+      "name": "Wynn Resorts Ltd",
+      "percent": "1.383"
+    },
+    {
+      "ticker": "RCL",
+      "name": "Royal Caribbean Cruises Ltd",
+      "percent": "1.355"
+    },
+    {
+      "ticker": "CCL",
+      "name": "Carnival Corp",
+      "percent": "1.271"
+    },
+    {
+      "ticker": "UAA",
+      "name": "Under Armour Inc",
+      "percent": "0.959"
+    },
+    {
+      "ticker": "UA",
+      "name": "Under Armour Inc",
+      "percent": "0.869"
+    },
+    {
+      "ticker": "AGPXX",
+      "name": "STIT - Government & Agency Portfolio",
+      "percent": "0.005"
+    }
+  ]
+}

@@ -1,0 +1,889 @@
+{
+  "ticker": "RWX",
+  "name": "SPDR® Dow Jones® International Real Estate ETF",
+  "ISIN": "US78463X8636",
+  "CUSIP": "78463X863",
+  "Inception Date": "Dec 15 2006",
+  "Gross Expense Ratio": "0.59%",
+  "* Net Expense Ratio": "-",
+  "Asset Class": "Alternative",
+  "Distribution Frequency": "Quarterly",
+  "Primary Exchange": "NYSE ARCA EXCHANGE",
+  "Primary Index": "Dow Jones Global ex-U.S. Select Real Estate Securities Index",
+  "Primary Index Ticker": "DWXRSN",
+  "issuer": "SSGA",
+  "website": "https://www.ssga.com/us/en/individual/etfs/funds/spdr-dow-jones-international-real-estate-etf-rwx",
+  "holdingDataSource": {
+    "fileUrl": "https://www.ssga.com/us/en/individual/etfs/library-content/products/fund-data/etfs/us/holdings-daily-us-en-rwx.xlsx",
+    "fileExt": "xlsx",
+    "transform": "spdr"
+  },
+  "holdings": [
+    {
+      "ticker": "GMG-AU",
+      "name": "Goodman Group",
+      "percent": "4.800519"
+    },
+    {
+      "ticker": "DWNI-DE",
+      "name": "Deutsche Wohnen SE",
+      "percent": "3.995218"
+    },
+    {
+      "ticker": "8801-JP",
+      "name": "Mitsui Fudosan Co. Ltd.",
+      "percent": "3.755841"
+    },
+    {
+      "ticker": "823-HK",
+      "name": "Link Real Estate Investment Trust",
+      "percent": "3.469873"
+    },
+    {
+      "ticker": "SGRO-GB",
+      "name": "SEGRO plc",
+      "percent": "3.037758"
+    },
+    {
+      "ticker": "LEG-DE",
+      "name": "LEG Immobilien AG",
+      "percent": "2.205467"
+    },
+    {
+      "ticker": "SCG-AU",
+      "name": "Scentre Group",
+      "percent": "1.790072"
+    },
+    {
+      "ticker": "3283-JP",
+      "name": "Nippon Prologis REIT Inc.",
+      "percent": "1.723985"
+    },
+    {
+      "ticker": "8951-JP",
+      "name": "Nippon Building Fund Inc.",
+      "percent": "1.591911"
+    },
+    {
+      "ticker": "DXS-AU",
+      "name": "Dexus",
+      "percent": "1.531638"
+    },
+    {
+      "ticker": "GFC-FR",
+      "name": "Gecina SA",
+      "percent": "1.499735"
+    },
+    {
+      "ticker": "SMPH-PH",
+      "name": "SM Prime Holdings Inc.",
+      "percent": "1.490401"
+    },
+    {
+      "ticker": "8952-JP",
+      "name": "Japan Real Estate Investment Corp.",
+      "percent": "1.468135"
+    },
+    {
+      "ticker": "SPSN-CH",
+      "name": "Swiss Prime Site AG",
+      "percent": "1.467891"
+    },
+    {
+      "ticker": "1997-HK",
+      "name": "Wharf Real Estate Investment Co. Ltd.",
+      "percent": "1.459417"
+    },
+    {
+      "ticker": "A17U-SG",
+      "name": "Ascendas Real Estate Investment Trust",
+      "percent": "1.431002"
+    },
+    {
+      "ticker": "AT1-DE",
+      "name": "Aroundtown SA",
+      "percent": "1.349725"
+    },
+    {
+      "ticker": "3462-JP",
+      "name": "Nomura Real Estate Master Fund Inc.",
+      "percent": "1.312720"
+    },
+    {
+      "ticker": "3281-JP",
+      "name": "GLP-J REIT",
+      "percent": "1.310577"
+    },
+    {
+      "ticker": "GPT-AU",
+      "name": "GPT Group",
+      "percent": "1.240937"
+    },
+    {
+      "ticker": "CAST-SE",
+      "name": "Castellum AB",
+      "percent": "1.197762"
+    },
+    {
+      "ticker": "URW-NL",
+      "name": "Unibail-Rodamco-Westfield SE Stapled Secs Cons of 1 Sh Unibail Rodamco + 1 Sh WFD Unib Rod",
+      "percent": "1.119810"
+    },
+    {
+      "ticker": "LAND-GB",
+      "name": "Land Securities Group PLC",
+      "percent": "1.115394"
+    },
+    {
+      "ticker": "PSPN-CH",
+      "name": "PSP Swiss Property AG",
+      "percent": "1.096996"
+    },
+    {
+      "ticker": "C31-SG",
+      "name": "CapitaLand Limited",
+      "percent": "1.079226"
+    },
+    {
+      "ticker": "3003-JP",
+      "name": "Hulic Co. Ltd.",
+      "percent": "1.049347"
+    },
+    {
+      "ticker": "8984-JP",
+      "name": "Daiwa House REIT Investment Corporation",
+      "percent": "1.044536"
+    },
+    {
+      "ticker": "101-HK",
+      "name": "Hang Lung Properties Limited",
+      "percent": "1.012268"
+    },
+    {
+      "ticker": "WDP-BE",
+      "name": "Warehouses De Pauw SCA",
+      "percent": "0.991329"
+    },
+    {
+      "ticker": "UTG-GB",
+      "name": "UNITE Group plc",
+      "percent": "0.942167"
+    },
+    {
+      "ticker": "BLND-GB",
+      "name": "British Land Company PLC",
+      "percent": "0.937553"
+    },
+    {
+      "ticker": "8953-JP",
+      "name": "Japan Retail Fund Investment Corporation",
+      "percent": "0.891348"
+    },
+    {
+      "ticker": "8954-JP",
+      "name": "ORIX JREIT Inc.",
+      "percent": "0.876366"
+    },
+    {
+      "ticker": "DLN-GB",
+      "name": "Derwent London plc",
+      "percent": "0.852407"
+    },
+    {
+      "ticker": "ME8U-SG",
+      "name": "Mapletree Industrial Trust",
+      "percent": "0.846985"
+    },
+    {
+      "ticker": "M44U-SG",
+      "name": "Mapletree Logistics Trust",
+      "percent": "0.843445"
+    },
+    {
+      "ticker": "COFB-BE",
+      "name": "Cofinimmo SA",
+      "percent": "0.835346"
+    },
+    {
+      "ticker": "3269-JP",
+      "name": "Advance Residence Investment Corporation",
+      "percent": "0.826978"
+    },
+    {
+      "ticker": "VCX-AU",
+      "name": "Vicinity Centres",
+      "percent": "0.814696"
+    },
+    {
+      "ticker": "FABG-SE",
+      "name": "Fabege AB",
+      "percent": "0.792721"
+    },
+    {
+      "ticker": "C38U-SG",
+      "name": "CapitaLand Mall Trust",
+      "percent": "0.782970"
+    },
+    {
+      "ticker": "BBOX-GB",
+      "name": "Tritax Big Box REIT Plc",
+      "percent": "0.776931"
+    },
+    {
+      "ticker": "8960-JP",
+      "name": "United Urban Investment Corporation",
+      "percent": "0.775200"
+    },
+    {
+      "ticker": "3249-JP",
+      "name": "Industrial & Infrastructure Fund Investment Corporation",
+      "percent": "0.721219"
+    },
+    {
+      "ticker": "COV-FR",
+      "name": "Covivio SA",
+      "percent": "0.719767"
+    },
+    {
+      "ticker": "C61U-SG",
+      "name": "CapitaLand Commercial Trust",
+      "percent": "0.682479"
+    },
+    {
+      "ticker": "N2IU-SG",
+      "name": "Mapletree Commercial Trust",
+      "percent": "0.660653"
+    },
+    {
+      "ticker": "3309-JP",
+      "name": "Sekisui House Reit. Inc.",
+      "percent": "0.659289"
+    },
+    {
+      "ticker": "LI-FR",
+      "name": "Klepierre SA",
+      "percent": "0.642837"
+    },
+    {
+      "ticker": "8955-JP",
+      "name": "Japan Prime Realty Investment Corporation",
+      "percent": "0.635663"
+    },
+    {
+      "ticker": "AED-BE",
+      "name": "Aedifica SA",
+      "percent": "0.620839"
+    },
+    {
+      "ticker": "1972-HK",
+      "name": "Swire Properties Limited",
+      "percent": "0.601293"
+    },
+    {
+      "ticker": "CAR.UT-CA",
+      "name": "Canadian Apartment Properties Real Estate Investment Trust",
+      "percent": "0.596104"
+    },
+    {
+      "ticker": "AJBU-SG",
+      "name": "Keppel DC REIT",
+      "percent": "0.594326"
+    },
+    {
+      "ticker": "3289-JP",
+      "name": "Tokyu Fudosan Holdings Corp.",
+      "percent": "0.592954"
+    },
+    {
+      "ticker": "3279-JP",
+      "name": "Activia Properties Inc.",
+      "percent": "0.584946"
+    },
+    {
+      "ticker": "BUOU-SG",
+      "name": "Frasers Logistics & Commercial Trust",
+      "percent": "0.581856"
+    },
+    {
+      "ticker": "WIHL-SE",
+      "name": "Wihlborgs Fastigheter AB",
+      "percent": "0.568137"
+    },
+    {
+      "ticker": "3226-JP",
+      "name": "Nippon Accommodations Fund Inc.",
+      "percent": "0.562674"
+    },
+    {
+      "ticker": "8972-JP",
+      "name": "Kenedix Office Investment Corporation",
+      "percent": "0.554461"
+    },
+    {
+      "ticker": "MRL-ES",
+      "name": "MERLIN Properties SOCIMI S.A.",
+      "percent": "0.552606"
+    },
+    {
+      "ticker": "LMP-GB",
+      "name": "LondonMetric Property Plc",
+      "percent": "0.551870"
+    },
+    {
+      "ticker": "3466-JP",
+      "name": "LaSalle LOGIPORT REIT",
+      "percent": "0.549331"
+    },
+    {
+      "ticker": "GRI-GB",
+      "name": "Grainger plc",
+      "percent": "0.542885"
+    },
+    {
+      "ticker": "GYC-DE",
+      "name": "Grand City Properties SA",
+      "percent": "0.531514"
+    },
+    {
+      "ticker": "8967-JP",
+      "name": "Japan Logistics Fund Inc.",
+      "percent": "0.529594"
+    },
+    {
+      "ticker": "PHP-GB",
+      "name": "Primary Health Properties PLC",
+      "percent": "0.522001"
+    },
+    {
+      "ticker": "SBB.B-SE",
+      "name": "Samhallsbyggnadsbolaget I Norden AB Class B",
+      "percent": "0.519417"
+    },
+    {
+      "ticker": "AOX-DE",
+      "name": "alstria office REIT-AG",
+      "percent": "0.511434"
+    },
+    {
+      "ticker": "ENTRA-NO",
+      "name": "Entra ASA",
+      "percent": "0.503607"
+    },
+    {
+      "ticker": "FUNO11-MX",
+      "name": "Fibra Uno Administracion SA de CV",
+      "percent": "0.498489"
+    },
+    {
+      "ticker": "3471-JP",
+      "name": "Mitsui Fudosan Logistics Park Inc.",
+      "percent": "0.494559"
+    },
+    {
+      "ticker": "8985-JP",
+      "name": "Japan Hotel Reit Investment Corporation",
+      "percent": "0.491955"
+    },
+    {
+      "ticker": "T82U-SG",
+      "name": "Suntec Real Estate Investment Trust",
+      "percent": "0.479238"
+    },
+    {
+      "ticker": "CAI-AT",
+      "name": "CA Immobilien Anlagen AG",
+      "percent": "0.472911"
+    },
+    {
+      "ticker": "GRT-ZA",
+      "name": "Growthpoint Properties Limited",
+      "percent": "0.437704"
+    },
+    {
+      "ticker": "8963-JP",
+      "name": "Invincible Investment Corp.",
+      "percent": "0.433447"
+    },
+    {
+      "ticker": "COL-ES",
+      "name": "Inmobiliaria Colonial SOCIMI SA",
+      "percent": "0.432622"
+    },
+    {
+      "ticker": "GPOR-GB",
+      "name": "Great Portland Estates plc",
+      "percent": "0.432190"
+    },
+    {
+      "ticker": "3234-JP",
+      "name": "Mori Hills Reit Investment Corporation",
+      "percent": "0.432013"
+    },
+    {
+      "ticker": "8986-JP",
+      "name": "Daiwa Securities Living Investment Corporation",
+      "percent": "0.427113"
+    },
+    {
+      "ticker": "14-HK",
+      "name": "Hysan Development Co. Ltd.",
+      "percent": "0.414472"
+    },
+    {
+      "ticker": "CPN.R-TH",
+      "name": "Central Pattana Public Co. Ltd. NVDR",
+      "percent": "0.392400"
+    },
+    {
+      "ticker": "3292-JP",
+      "name": "AEON REIT Investment Corp.",
+      "percent": "0.377052"
+    },
+    {
+      "ticker": "8976-JP",
+      "name": "Daiwa Office Investment Corporation",
+      "percent": "0.374478"
+    },
+    {
+      "ticker": "SCP-AU",
+      "name": "Shopping Centres Australasia Property Group RE Ltd.",
+      "percent": "0.368209"
+    },
+    {
+      "ticker": "REI.UT-CA",
+      "name": "RioCan Real Estate Investment Trust",
+      "percent": "0.367588"
+    },
+    {
+      "ticker": "KLED-SE",
+      "name": "Kungsleden AB",
+      "percent": "0.362202"
+    },
+    {
+      "ticker": "J69U-SG",
+      "name": "Frasers Centrepoint Trust",
+      "percent": "0.360962"
+    },
+    {
+      "ticker": "3282-JP",
+      "name": "Comforia Residential REIT Inc.",
+      "percent": "0.359985"
+    },
+    {
+      "ticker": "8964-JP",
+      "name": "Frontier Real Estate Investment Corporation",
+      "percent": "0.359913"
+    },
+    {
+      "ticker": "HUFV.A-SE",
+      "name": "Hufvudstaden AB Class A",
+      "percent": "0.358627"
+    },
+    {
+      "ticker": "GRT.UT-CA",
+      "name": "Granite Real Estate Investment Trust Stapled Units - 1 Granite RE Inc + 1 TU Granite REIT",
+      "percent": "0.348035"
+    },
+    {
+      "ticker": "NRP-ZA",
+      "name": "NEPI Rockcastle Plc",
+      "percent": "0.343644"
+    },
+    {
+      "ticker": "CLW-AU",
+      "name": "Charter Hall Long WALE REIT",
+      "percent": "0.342396"
+    },
+    {
+      "ticker": "8905-JP",
+      "name": "AEON Mall Co. Ltd.",
+      "percent": "0.340820"
+    },
+    {
+      "ticker": "AP.UT-CA",
+      "name": "Allied Properties Real Estate Investment Trust",
+      "percent": "0.337878"
+    },
+    {
+      "ticker": "3295-JP",
+      "name": "Hulic Reit Inc.",
+      "percent": "0.333286"
+    },
+    {
+      "ticker": "SHB-GB",
+      "name": "Shaftesbury PLC",
+      "percent": "0.332476"
+    },
+    {
+      "ticker": "8956-JP",
+      "name": "Premier Investment Corporation",
+      "percent": "0.330813"
+    },
+    {
+      "ticker": "3278-JP",
+      "name": "Kenedix Residential Next Investment Corporation",
+      "percent": "0.329852"
+    },
+    {
+      "ticker": "3296-JP",
+      "name": "NIPPON REIT Investment Corp",
+      "percent": "0.323093"
+    },
+    {
+      "ticker": "8987-JP",
+      "name": "Japan Excellent Inc.",
+      "percent": "0.315098"
+    },
+    {
+      "ticker": "BWP-AU",
+      "name": "BWP Trust",
+      "percent": "0.308077"
+    },
+    {
+      "ticker": "3227-JP",
+      "name": "MCUBS MidCity Investment Corporation",
+      "percent": "0.301554"
+    },
+    {
+      "ticker": "RW0U-SG",
+      "name": "Mapletree North Asia Commercial Trust",
+      "percent": "0.291000"
+    },
+    {
+      "ticker": "3481-JP",
+      "name": "Mitsubishi Estate Logistics REIT Investment Corp.",
+      "percent": "0.286624"
+    },
+    {
+      "ticker": "K71U-SG",
+      "name": "Keppel REIT",
+      "percent": "0.285026"
+    },
+    {
+      "ticker": "CQR-AU",
+      "name": "Charter Hall Retail REIT",
+      "percent": "0.282467"
+    },
+    {
+      "ticker": "8957-JP",
+      "name": "TOKYU REIT Inc.",
+      "percent": "0.274993"
+    },
+    {
+      "ticker": "CAPC-GB",
+      "name": "Capital & Counties Properties PLC",
+      "percent": "0.268912"
+    },
+    {
+      "ticker": "NSR-AU",
+      "name": "National Storage REIT",
+      "percent": "0.266873"
+    },
+    {
+      "ticker": "BRML3-BR",
+      "name": "BR Malls Participacoes S.A.",
+      "percent": "0.266102"
+    },
+    {
+      "ticker": "URW-AU",
+      "name": "Unibail-Rodamco-Westfield SE Stapled Security Chess Depository Interests Repr 0.05 Sh",
+      "percent": "0.257928"
+    },
+    {
+      "ticker": "8961-JP",
+      "name": "Mori Trust Sogo Reit Inc.",
+      "percent": "0.257293"
+    },
+    {
+      "ticker": "3298-JP",
+      "name": "Invesco Office J-REIT Inc.",
+      "percent": "0.253692"
+    },
+    {
+      "ticker": "8975-JP",
+      "name": "Ichigo Office REIT Investment Corporation",
+      "percent": "0.237379"
+    },
+    {
+      "ticker": "SRU.UT-CA",
+      "name": "SmartCentres Real Estate Investment Trust",
+      "percent": "0.236446"
+    },
+    {
+      "ticker": "3287-JP",
+      "name": "Hoshino Resorts REIT Inc.",
+      "percent": "0.233449"
+    },
+    {
+      "ticker": "HR.UT-CA",
+      "name": "H&R Real Estate Investment Trust",
+      "percent": "0.228687"
+    },
+    {
+      "ticker": "3453-JP",
+      "name": "Kenedix Retail REIT Corp",
+      "percent": "0.224292"
+    },
+    {
+      "ticker": "FCR.UT-CA",
+      "name": "First Capital Real Estate Investment Trust",
+      "percent": "0.223547"
+    },
+    {
+      "ticker": "MULT3-BR",
+      "name": "Multiplan Empreendimentos Imobiliarios SA",
+      "percent": "0.223402"
+    },
+    {
+      "ticker": "KLOV.B-SE",
+      "name": "Klovern AB Class B",
+      "percent": "0.206658"
+    },
+    {
+      "ticker": "8968-JP",
+      "name": "Fukuoka Reit Corporation",
+      "percent": "0.195761"
+    },
+    {
+      "ticker": "8958-JP",
+      "name": "Global One Real Estate Investment Corporation",
+      "percent": "0.192779"
+    },
+    {
+      "ticker": "HMSO-GB",
+      "name": "Hammerson plc",
+      "percent": "0.191445"
+    },
+    {
+      "ticker": "DEQ-DE",
+      "name": "Deutsche EuroShop AG",
+      "percent": "0.155409"
+    },
+    {
+      "ticker": "RDF-ZA",
+      "name": "Redefine Properties Ltd.",
+      "percent": "0.149447"
+    },
+    {
+      "ticker": "J91U-SG",
+      "name": "ESR-REIT",
+      "percent": "0.142594"
+    },
+    {
+      "ticker": "DIR.UT-CA",
+      "name": "Dream Industrial Real Estate Investment Trust",
+      "percent": "0.140710"
+    },
+    {
+      "ticker": "3476-JP",
+      "name": "MIRAI Corporation",
+      "percent": "0.133355"
+    },
+    {
+      "ticker": "IIP.UT-CA",
+      "name": "InterRent Real Estate Investment Trust",
+      "percent": "0.130116"
+    },
+    {
+      "ticker": "IGTA3-BR",
+      "name": "Iguatemi Empresa de Shopping Centers S.A",
+      "percent": "0.110746"
+    },
+    {
+      "ticker": "CUF.UT-CA",
+      "name": "Cominar Real Estate Investment Trust",
+      "percent": "0.109085"
+    },
+    {
+      "ticker": "BEI.UT-CA",
+      "name": "Boardwalk REIT",
+      "percent": "0.103003"
+    },
+    {
+      "ticker": "AX.UT-CA",
+      "name": "Artis Real Estate Investment Trust",
+      "percent": "0.095347"
+    },
+    {
+      "ticker": "ECMPA-NL",
+      "name": "Eurocommercial Properties NV",
+      "percent": "0.089734"
+    },
+    {
+      "ticker": "D.UT-CA",
+      "name": "Dream Office Real Estate Investment Trust Class A",
+      "percent": "0.085246"
+    },
+    {
+      "ticker": "WHA-NL",
+      "name": "Wereldhave N.V.",
+      "percent": "0.081989"
+    },
+    {
+      "ticker": "BRPR3-BR",
+      "name": "BR Properties S.A.",
+      "percent": "0.072542"
+    },
+    {
+      "ticker": "HYP-ZA",
+      "name": "Hyprop Investments Limited",
+      "percent": "0.052772"
+    },
+    {
+      "ticker": "8848-JP",
+      "name": "Leopalace21 Corporation",
+      "percent": "0.051687"
+    },
+    {
+      "ticker": "CASH_JPY",
+      "name": "Japanese Yen",
+      "percent": "0.038198"
+    },
+    {
+      "ticker": "70286227",
+      "name": "STATE STREET INSTITUTIONAL LIQ STATE STR",
+      "percent": "0.038189"
+    },
+    {
+      "ticker": "CASH_CHF",
+      "name": "Swiss Franc",
+      "percent": "0.029670"
+    },
+    {
+      "ticker": "CASH_CAD",
+      "name": "Canadian Dollar",
+      "percent": "0.014216"
+    },
+    {
+      "ticker": "CASH_SEK",
+      "name": "Swedish Krona",
+      "percent": "0.009693"
+    },
+    {
+      "ticker": "Unassigned",
+      "name": "AEDIFICA SA RIGHT",
+      "percent": "0.009409"
+    },
+    {
+      "ticker": "CASH_PHP",
+      "name": "Philippines Peso",
+      "percent": "0.007943"
+    },
+    {
+      "ticker": "CASH_NOK",
+      "name": "Norwegian Krone",
+      "percent": "0.006954"
+    },
+    {
+      "ticker": "CASH_GBP",
+      "name": "British Pounds",
+      "percent": "0.005289"
+    },
+    {
+      "ticker": "CASH_EUR",
+      "name": "Euro",
+      "percent": "0.004155"
+    },
+    {
+      "ticker": "CASH_BRL",
+      "name": "Brazilian Real",
+      "percent": "0.001463"
+    },
+    {
+      "ticker": "CASH_HKD",
+      "name": "Hong Kong Dollar",
+      "percent": "0.000736"
+    },
+    {
+      "ticker": "CASH_SGD",
+      "name": "Singapore Dollar",
+      "percent": "0.000637"
+    },
+    {
+      "ticker": "CASH_AUD",
+      "name": "Australian Dollar",
+      "percent": "0.000545"
+    },
+    {
+      "ticker": "CASH_MXN",
+      "name": "Mexican Peso",
+      "percent": "0.000422"
+    },
+    {
+      "ticker": "CASH_ZAR",
+      "name": "South African Rand",
+      "percent": "0.000280"
+    },
+    {
+      "ticker": "URW-FR",
+      "name": "Unibail-Rodamco-Westfield SE Stapled Secs Cons of 1 Sh Unibail Rodamco + 1 Sh WFD Unib Rod",
+      "percent": "0.000161"
+    },
+    {
+      "ticker": "929AQT90",
+      "name": "BGP HOLDINGS ORDINARY AUD",
+      "percent": "0.000004"
+    },
+    {
+      "ticker": "CASH_NZD",
+      "name": "New Zealand Dollar",
+      "percent": "0.000004"
+    },
+    {
+      "ticker": "BN711Y",
+      "name": "FRASERS CENTREPOINT TST RIGHT",
+      "percent": "0.000000"
+    },
+    {
+      "name": "Performance quoted represents past performance, which is no guarantee of future results. Investment return and principal value will fluctuate, so you may have a gain or loss when shares are sold. Current performance may be higher or lower than that quoted. Visit www.ssga.com for most recent month-end performance."
+    },
+    {
+      "name": "This analysis or any portion thereof may not be revised or changed in any way, reprinted, sold or redistributed without the written consent of SSGA."
+    },
+    {
+      "name": "Portfolio holdings, allocations and weightings are as of the date indicated, are subject to change and should not be considered a recommendation to buy individual securities. For most recent information visit www.ssga.com."
+    },
+    {
+      "name": "Important Risk Information  "
+    },
+    {
+      "name": "Investing involves risk, and you could lose money on an investment in each of SPDR® Gold Shares Trust (“GLD®”) and SPDR® Gold MiniSharesSM Trust  (“GLDMSM”), a series of the World Gold Trust (together, the “Funds”). \n\nETFs trade like stocks, are subject to investment risk, fluctuate in market value and may trade at prices above or below the ETFs’ net asset value. Brokerage commissions and ETF expenses will reduce returns.\n\nCommodities and commodity-index linked securities may be affected by changes in overall market movements, changes in interest rates, and other factors such as weather, disease, embargoes, or political and regulatory developments, as well as trading activity of speculators and arbitrageurs in the underlying commodities.\n\nFrequent trading of ETFs could significantly increase commissions and other costs such that they may offset any savings from low fees or costs.\n\nDiversification does not ensure a profit or guarantee against loss."
+    },
+    {
+      "name": "Investing in commodities entails significant risk and is not appropriate for all investors."
+    },
+    {
+      "name": "Important Information Relating to SPDR® Gold Trust (“GLD®”) and SPDR® Gold MiniSharesSM Trust (“GLDMSM”):"
+    },
+    {
+      "name": "The SPDR Gold Trust (“GLD”) has filed a registration statement (including a prospectus) with the Securities and Exchange Commission (“SEC”) for GLD. The World Gold Trust has filed a registration statement (including a prospectus) with the SEC for GLDM. Before you invest, you should read the prospectus in the registration statement and other documents each Fund has filed with the SEC for more complete information about each Fund and these offerings. Please see each Fund’s prospectus for a detailed discussion of the risks of investing in each Fund’s shares."
+    },
+    {
+      "name": "The GLD prospectus is available by clicking"
+    },
+    {
+      "name": "The GLDM prospectus is available by clicking "
+    },
+    {
+      "name": "You may get these documents for free by visiting EDGAR on the SEC website at sec.gov or by visiting spdrgoldshares.com. Alternatively, the Funds or any authorized participant will arrange to send you the prospectus if you request it by calling 866.320.4053."
+    },
+    {
+      "name": "None of the Funds is an investment company registered under the Investment Company Act of 1940 (the “1940 Act”). As a result, shareholders of each Fund do not have the protections associated with ownership of shares in an investment company registered under the 1940 Act. GLD and GLDM are not subject to regulation under the CEA. As a result, shareholders of each of GLD and GLDM do not have the protections afforded by the CEA. \n\nShares of each Fund trade like stocks, are subject to investment risk and will fluctuate in market value. \n\nThe values of GLD shares and GLDM shares relate directly to the value of the gold held by each Fund (less its expenses), respectively. Fluctuations in the price of gold could materially and adversely affect an investment in the shares. The price received upon the sale of the shares, which trade at market price, may be more or less than the value of the gold represented by them.  \n\nNone of the Funds generate any income, and as each Fund regularly sells gold to pay for its ongoing expenses, the amount of gold represented by each Fund share will decline over time to that extent.\n\nThe World Gold Council name and logo are a registered trademark and used with the permission of the World Gold Council pursuant to a license agreement. The World Gold Council is not responsible for the content of, and is not liable for the use of or reliance on, this material. World Gold Council is an affiliate of the Sponsor of each of GLD and GLDM.\n\nMiniSharesSM and GLDMSM are service marks of WGC USA Asset Management Company, LLC used with the permission of WGC USA Asset Management Company, LLC.\n\nGLD® is a registered trademark of World Gold Trust Services, LLC used with the permission of World Gold Trust Services, LLC."
+    },
+    {
+      "name": "For more information, please contact the Marketing Agent for GLD and GLDM: State Street Global Advisors Funds Distributors, LLC, One Iron Street, Boston, MA, 02210; T: +1 866 320 4053 spdrgoldshares.com"
+    },
+    {
+      "name": "Standard & Poor’s®, S&P® and SPDR® are registered trademarks of Standard & Poor’s Financial Services LLC (S&P); Dow Jones is a registered trademark of Dow Jones Trademark Holdings LLC (Dow Jones); and these trademarks have been licensed for use by S&P Dow Jones Indices LLC (SPDJI) and sublicensed for certain purposes by State Street Corporation. State Street Corporation’s financial products are not sponsored, endorsed, sold or promoted by SPDJI, Dow Jones, S&P, their respective affiliates and third party licensors and none of such parties make any representation regarding the advisability of investing in such product(s) nor do they have any liability in relation thereto, including for any errors, omissions, or interruptions of any index."
+    },
+    {
+      "name": "Bonds generally present less short-term risk and volatility than stocks, but contain interest rate risk (as interest rates raise, bond prices usually fall); issuer default risk; issuer credit risk; liquidity risk; and inflation risk. These effects are usually pronounced for longer-term securities. Any fixed income security sold or redeemed prior to maturity may be subject to a substantial gain or loss.\nInternational Government bonds and corporate bonds generally have more moderate short-term price fluctuations than stocks, but provide lower potential long-term returns.\nInvesting in high yield fixed income securities, otherwise known as \"junk bonds\", is considered speculative and involves greater risk of loss of principal and interest than investing in investment grade fixed income securities. These Lower-quality debt securities involve greater risk of default or price changes due to potential changes in the credit quality of the issuer.\nEquity securities may fluctuate in value in response to the activities of individual companies and general market and economic conditions.\nThere are risks associated with investing in Real Assets and the Real Assets sector, including real estate, precious metals and natural resources.  Investments can be significantly affected by events relating to these industries.\nInvesting in foreign domiciled securities may involve risk of capital loss from unfavorable fluctuation in currency values, withholding taxes, from differences in generally accepted accounting principles or from economic or political instability in other nations.  Investments in emerging or developing markets may be more volatile and less liquid than investing in developed markets and may involve exposure to economic structures that are generally less diverse and mature and to political systems which have less stability than those of more developed countries. The trademarks and service marks referenced herein are the property of their respective owners. Third party data providers make no warranties or representations of any kind relating to the accuracy, completeness or timeliness of the data and have no liability for damages of any kind relating to the use of such data. Investing involves risk including the risk of loss of principal.\nThe whole or any part of this work may not be reproduced, copied or transmitted or any of its contents disclosed to third parties without SSGA's express written consent.\nETFs trade like stocks, are subject to investment risk and will fluctuate in market value. The investment return and principal value of an investment will fluctuate in value, so that when shares are sold or redeemed, they may be worth more or less than when they were purchased.  Although shares may be bought or sold on an exchange through any brokerage account, shares are not individually redeemable from the fund.  Investors may acquire shares and tender them for redemption through the fund in large aggregations known as “creation units.”  Please see the fund’s prospectus for more details.\nInvesting in REITs involves certain distinct risks in addition to those risks associated with investing in the real estate industry in general. Equity REITs may be affected by changes in the value of the underlying property owned by the REITs, while mortgage REITs may be affected by the quality of credit extended. REITs are subject to heavy cash flow dependency, default by borrowers and self-liquidation. REITs, especially mortgage REITs, are also subject to interest rate risk (i.e., as interest rates rise, the value of the REIT may decline).\nInvestments in small/mid-sized companies may involve greater risks than in those of larger, better known companies. Concentrated investments in a particular Sector tend to be more volatile than the overall market and increases risk that events negatively affecting such sectors or industries could reduce returns, potentially causing the value of the Fund’s shares to decrease.\nStandard & Poor’s®, S&P® and SPDR® are registered trademarks of Standard & Poor’s Financial Services LLC (S&P); Dow Jones is a registered trademark of Dow Jones Trademark Holdings LLC (Dow Jones); and these trademarks have been licensed for use by S&P Dow Jones Indices LLC (SPDJI) and sublicensed for certain purposes by State Street Corporation. State Street Corporation’s financial products are not sponsored, endorsed, sold or promoted by SPDJI, Dow Jones, S&P, their respective affiliates and third party licensors and none of such parties make any representation regarding the advisability of investing in such product(s) nor do they have any liability in relation thereto, including for any errors, omissions, or interruptions of any index.\nCommodities and commodity-index linked securities may be affected by changes in overall market movements, changes in interest rates, and other factors such as weather, disease, embargoes, or political and regulatory developments, as well as trading activity of speculators and arbitrageurs in the underlying commodities. The returns on a portfolio of securities which exclude companies that do not meet the portfolio's specified ESG criteria may trail the returns on a portfolio of securities which include such companies. A portfolio's ESG criteria may result in the portfolio investing in industry sectors or securities which underperform the market as a whole.\nTechnology companies, including cyber security companies, can be significantly affected by obsolescence of existing technology, limited product lines, and competition for financial resources, qualified personnel, new market entrants or impairment of patent and intellectual property rights that can adversely affect profit margins."
+    },
+    {
+      "name": "Distributor: State Street Global Advisors Funds Distributors, LLC, member FINRA(http://www.finra.org), SIPC(http://www.sipc.org), an indirect wholly owned subsidiary of State Street Corporation. References to State Street may include State Street Corporation and its affiliates. Certain State Street affiliates provide services and receive fees from the SPDR ETFs. ALPS Distributors, Inc., member FINRA, is the distributor for DIA, MDY and SPY, all unit investment trusts. ALPS Portfolio Solutions Distributor, Inc., member FINRA, is the distributor for Select Sector SPDRs. ALPS Distributors, Inc. and ALPS Portfolio Solutions Distributor, Inc. are not affiliated with State Street Global Advisors Funds Distributors, LLC."
+    },
+    {
+      "name": "Before investing, consider the funds’ investment objectives, risks, charges and expenses. To obtain a prospectus or summary prospectus, this contains this and other information, call 1-866-787-2257 or visit www.ssga.com. Read it carefully.\n\nNot FDIC Insured * No Bank Guarantee * May Lose Value\n\n2529657.2.1.AM.RTL\nExpiration: 03/31/2021\nSPD002304"
+    }
+  ]
+}

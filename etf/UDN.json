@@ -1,0 +1,50 @@
+{
+  "Products": "DB US Dollar Index Bearish Fund",
+  "Ticker": "UDN",
+  "Inception": "02/20/2007",
+  "Gross Exp. Ratio": "0.77%",
+  "YTD": "1.95",
+  "1Yr": "4.86",
+  "3Yr": "-1.23",
+  "5Yr": "-0.44",
+  "10Yr": "-2.28",
+  "Since Incept.": "-0.95",
+  "Category": "Alternatives",
+  "SubCategory": "Currencies",
+  "ticker": "UDN",
+  "name": "DB US Dollar Index Bearish Fund",
+  "issuer": "Invesco",
+  "website": "https://www.invesco.com/us/financial-products/etfs/product-detail?audienceType=Investor&ticker=UDN",
+  "holdingDataSource": {
+    "url": "https://www.invesco.com/us/financial-products/etfs/holdings/main/holdings/0?audienceType=Investor&action=download&ticker=UDN",
+    "fileExt": "csv",
+    "transform": "invesco"
+  },
+  "holdings": [
+    {
+      "ticker": "825252885",
+      "name": "STIT - Government & Agency Portfolio",
+      "percent": "39.494"
+    },
+    {
+      "ticker": "912796TU3",
+      "name": "United States Treasury Bill",
+      "percent": "28.070"
+    },
+    {
+      "ticker": "9127962Z1",
+      "name": "United States Treasury Bill",
+      "percent": "26.668"
+    },
+    {
+      "ticker": "9127963K3",
+      "name": "United States Treasury Bill",
+      "percent": "5.614"
+    },
+    {
+      "ticker": "DXZ0",
+      "name": "NYBOT FINEX United States Dollar Index Future",
+      "percent": "-100.724"
+    }
+  ]
+}

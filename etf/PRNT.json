@@ -1,0 +1,274 @@
+{
+  "ticker": "PRNT",
+  "name": "The 3D Printing ETF",
+  "website": "https://ark-funds.com/3d-printing-etf",
+  "exchange": "Cboe Global Markets",
+  "issuer": "ARK",
+  "holdingDataSource": {
+    "url": "https://ark-funds.com/wp-content/fundsiteliterature/csv/THE_3D_PRINTING_ETF_PRNT_HOLDINGS.csv",
+    "fileExt": "csv",
+    "transform": "ark"
+  },
+  "holdings": [
+    {
+      "ticker": "DDD",
+      "name": "3D SYSTEMS CORP",
+      "percent": 5.07
+    },
+    {
+      "ticker": "PRLB",
+      "name": "PROTO LABS INC",
+      "percent": 5.06
+    },
+    {
+      "ticker": "RSW",
+      "name": "RENISHAW PLC",
+      "percent": 5.06
+    },
+    {
+      "ticker": "STMN",
+      "name": "STRAUMANN HOLDING AG-REG",
+      "percent": 5.05
+    },
+    {
+      "ticker": "HPQ",
+      "name": "HP INC",
+      "percent": 5.03
+    },
+    {
+      "ticker": "ALMDG",
+      "name": "MGI DIGITAL GRAPHIC TECHNOLO",
+      "percent": 5
+    },
+    {
+      "ticker": "AM3D",
+      "name": "SLM SOLUTIONS GROUP AG",
+      "percent": 4.94
+    },
+    {
+      "ticker": "MTLS",
+      "name": "MATERIALISE NV-ADR",
+      "percent": 4.92
+    },
+    {
+      "ticker": "XONE",
+      "name": "EXONE CO/THE",
+      "percent": 4.91
+    },
+    {
+      "ticker": "ADSK",
+      "name": "AUTODESK INC",
+      "percent": 4.43
+    },
+    {
+      "ticker": "DSY",
+      "name": "DASSAULT SYSTEMES SA",
+      "percent": 4.35
+    },
+    {
+      "ticker": "ALTR",
+      "name": "ALTAIR ENGINEERING INC - A",
+      "percent": 4.35
+    },
+    {
+      "ticker": "TRMB",
+      "name": "TRIMBLE INC",
+      "percent": 4.32
+    },
+    {
+      "ticker": "MSFT",
+      "name": "MICROSOFT CORP",
+      "percent": 4.3
+    },
+    {
+      "ticker": "ANSS",
+      "name": "ANSYS INC",
+      "percent": 4.29
+    },
+    {
+      "ticker": "PTC",
+      "name": "PTC INC",
+      "percent": 4.29
+    },
+    {
+      "ticker": "SSYS",
+      "name": "STRATASYS LTD",
+      "percent": 3.91
+    },
+    {
+      "ticker": "HEXAB",
+      "name": "HEXAGON AB-B SHS",
+      "percent": 1.29
+    },
+    {
+      "ticker": "FARO",
+      "name": "FARO TECHNOLOGIES INC",
+      "percent": 1.27
+    },
+    {
+      "ticker": "AME",
+      "name": "AMETEK INC",
+      "percent": 1.27
+    },
+    {
+      "ticker": "ALGN",
+      "name": "ALIGN TECHNOLOGY INC",
+      "percent": 1.25
+    },
+    {
+      "ticker": "GE",
+      "name": "GENERAL ELECTRIC CO",
+      "percent": 0.92
+    },
+    {
+      "ticker": "BDT",
+      "name": "BERTRANDT AG",
+      "percent": 0.91
+    },
+    {
+      "ticker": "ML",
+      "name": "MICHELIN (CGDE)",
+      "percent": 0.9
+    },
+    {
+      "ticker": "KALU",
+      "name": "KAISER ALUMINUM CORP",
+      "percent": 0.9
+    },
+    {
+      "ticker": "MDT UN",
+      "name": "MEDTRONIC PLC",
+      "percent": 0.9
+    },
+    {
+      "ticker": "UPS",
+      "name": "UNITED PARCEL SERVICE-CL B",
+      "percent": 0.89
+    },
+    {
+      "ticker": "ARNC",
+      "name": "ARCONIC CORP",
+      "percent": 0.88
+    },
+    {
+      "ticker": "LECO",
+      "name": "LINCOLN ELECTRIC HOLDINGS",
+      "percent": 0.88
+    },
+    {
+      "ticker": "OERL",
+      "name": "OC OERLIKON CORP AG-REG",
+      "percent": 0.88
+    },
+    {
+      "ticker": "MOG/A",
+      "name": "MOOG INC-CLASS A",
+      "percent": 0.87
+    },
+    {
+      "ticker": "NUVA",
+      "name": "NUVASIVE INC",
+      "percent": 0.87
+    },
+    {
+      "ticker": "AJRD",
+      "name": "AEROJET ROCKETDYNE HOLDINGS",
+      "percent": 0.87
+    },
+    {
+      "ticker": "SIE",
+      "name": "SIEMENS AG-REG",
+      "percent": 0.87
+    },
+    {
+      "ticker": "SYK",
+      "name": "STRYKER CORP",
+      "percent": 0.87
+    },
+    {
+      "ticker": "UCTT",
+      "name": "ULTRA CLEAN HOLDINGS INC",
+      "percent": 0.85
+    },
+    {
+      "ticker": "",
+      "name": "MORGAN STANLEY GOVT INSTL 8035",
+      "percent": 0.4
+    },
+    {
+      "ticker": "SGL",
+      "name": "SGL CARBON SE",
+      "percent": 0.13
+    },
+    {
+      "ticker": "ATI",
+      "name": "ALLEGHENY TECHNOLOGIES INC",
+      "percent": 0.13
+    },
+    {
+      "ticker": "CRS",
+      "name": "CARPENTER TECHNOLOGY",
+      "percent": 0.13
+    },
+    {
+      "ticker": "DD",
+      "name": "DUPONT DE NEMOURS INC",
+      "percent": 0.13
+    },
+    {
+      "ticker": "EVK",
+      "name": "EVONIK INDUSTRIES AG",
+      "percent": 0.13
+    },
+    {
+      "ticker": "EMN",
+      "name": "EASTMAN CHEMICAL CO",
+      "percent": 0.13
+    },
+    {
+      "ticker": "3402",
+      "name": "TORAY INDUSTRIES INC",
+      "percent": 0.13
+    },
+    {
+      "ticker": "AKE",
+      "name": "ARKEMA",
+      "percent": 0.13
+    },
+    {
+      "ticker": "DSM",
+      "name": "KONINKLIJKE DSM NV",
+      "percent": 0.13
+    },
+    {
+      "ticker": "XRX UN",
+      "name": "XEROX HOLDINGS CORP",
+      "percent": 0.13
+    },
+    {
+      "ticker": "HXL",
+      "name": "HEXCEL CORP",
+      "percent": 0.13
+    },
+    {
+      "ticker": "HEN3",
+      "name": "HENKEL AG & CO KGAA VORZUG",
+      "percent": 0.13
+    },
+    {
+      "ticker": "VOE",
+      "name": "VOESTALPINE AG",
+      "percent": 0.13
+    },
+    {
+      "ticker": "MMM",
+      "name": "3M CO",
+      "percent": 0.13
+    },
+    {
+      "ticker": "SAND",
+      "name": "SANDVIK AB",
+      "percent": 0.13
+    }
+  ]
+}

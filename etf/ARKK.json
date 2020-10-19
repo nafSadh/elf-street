@@ -1,0 +1,259 @@
+{
+  "ticker": "ARKK",
+  "name": "ARK Innovation ETF",
+  "website": "https://ark-funds.com/arkk",
+  "exchange": "NYSE Arca",
+  "issuer": "ARK",
+  "holdingDataSource": {
+    "url": "https://ark-funds.com/wp-content/fundsiteliterature/csv/ARK_INNOVATION_ETF_ARKK_HOLDINGS.csv",
+    "fileExt": "csv",
+    "transform": "ark"
+  },
+  "holdings": [
+    {
+      "ticker": "TSLA",
+      "name": "TESLA INC",
+      "percent": 10.07
+    },
+    {
+      "ticker": "NVTA",
+      "name": "INVITAE CORP",
+      "percent": 7.72
+    },
+    {
+      "ticker": "SQ",
+      "name": "SQUARE INC - A",
+      "percent": 6.53
+    },
+    {
+      "ticker": "CRSP",
+      "name": "CRISPR THERAPEUTICS AG",
+      "percent": 5.68
+    },
+    {
+      "ticker": "ROKU",
+      "name": "ROKU INC",
+      "percent": 5.54
+    },
+    {
+      "ticker": "PRLB",
+      "name": "PROTO LABS INC",
+      "percent": 3.47
+    },
+    {
+      "ticker": "WORK",
+      "name": "SLACK TECHNOLOGIES INC- CL A",
+      "percent": 3.21
+    },
+    {
+      "ticker": "Z",
+      "name": "ZILLOW GROUP INC - C",
+      "percent": 2.88
+    },
+    {
+      "ticker": "TREE UW",
+      "name": "LENDINGTREE INC",
+      "percent": 2.82
+    },
+    {
+      "ticker": "PSTG",
+      "name": "PURE STORAGE INC - CLASS A",
+      "percent": 2.72
+    },
+    {
+      "ticker": "TWOU",
+      "name": "2U INC",
+      "percent": 2.7
+    },
+    {
+      "ticker": "MCRB",
+      "name": "SERES THERAPEUTICS INC",
+      "percent": 2.66
+    },
+    {
+      "ticker": "TDOC",
+      "name": "TELADOC HEALTH INC",
+      "percent": 2.57
+    },
+    {
+      "ticker": "MTLS",
+      "name": "MATERIALISE NV-ADR",
+      "percent": 2.29
+    },
+    {
+      "ticker": "EDIT",
+      "name": "EDITAS MEDICINE INC",
+      "percent": 2.24
+    },
+    {
+      "ticker": "IOVA",
+      "name": "IOVANCE BIOTHERAPEUTICS INC",
+      "percent": 2.2
+    },
+    {
+      "ticker": "PD",
+      "name": "PAGERDUTY INC",
+      "percent": 2.04
+    },
+    {
+      "ticker": "SPOT",
+      "name": "SPOTIFY TECHNOLOGY SA",
+      "percent": 1.91
+    },
+    {
+      "ticker": "ILMN",
+      "name": "ILLUMINA INC",
+      "percent": 1.85
+    },
+    {
+      "ticker": "VCYT",
+      "name": "VERACYTE INC",
+      "percent": 1.69
+    },
+    {
+      "ticker": "NTLA",
+      "name": "INTELLIA THERAPEUTICS INC",
+      "percent": 1.66
+    },
+    {
+      "ticker": "CGEN",
+      "name": "COMPUGEN LTD",
+      "percent": 1.61
+    },
+    {
+      "ticker": "TWLO",
+      "name": "TWILIO INC - A",
+      "percent": 1.5
+    },
+    {
+      "ticker": "TWST",
+      "name": "TWIST BIOSCIENCE CORP",
+      "percent": 1.47
+    },
+    {
+      "ticker": "TSM",
+      "name": "TAIWAN SEMICONDUCTOR-SP ADR",
+      "percent": 1.46
+    },
+    {
+      "ticker": "SPLK",
+      "name": "SPLUNK INC",
+      "percent": 1.44
+    },
+    {
+      "ticker": "DOCU",
+      "name": "DOCUSIGN INC",
+      "percent": 1.22
+    },
+    {
+      "ticker": "",
+      "name": "MORGAN STANLEY GOVT INSTL 8035",
+      "percent": 1.2
+    },
+    {
+      "ticker": "CERS",
+      "name": "CERUS CORP",
+      "percent": 1.15
+    },
+    {
+      "ticker": "PINS",
+      "name": "PINTEREST INC- CLASS A",
+      "percent": 1.13
+    },
+    {
+      "ticker": "NSTG",
+      "name": "NANOSTRING TECHNOLOGIES INC",
+      "percent": 1.07
+    },
+    {
+      "ticker": "ICE",
+      "name": "INTERCONTINENTAL EXCHANGE IN",
+      "percent": 1.04
+    },
+    {
+      "ticker": "ZM",
+      "name": "ZOOM VIDEO COMMUNICATIONS-A",
+      "percent": 1.04
+    },
+    {
+      "ticker": "SSYS",
+      "name": "STRATASYS LTD",
+      "percent": 1.01
+    },
+    {
+      "ticker": "SNPS",
+      "name": "SYNOPSYS INC",
+      "percent": 1.01
+    },
+    {
+      "ticker": "ZS",
+      "name": "ZSCALER INC",
+      "percent": 0.98
+    },
+    {
+      "ticker": "HUYA",
+      "name": "HUYA INC-ADR",
+      "percent": 0.94
+    },
+    {
+      "ticker": "IRDM",
+      "name": "IRIDIUM COMMUNICATIONS INC",
+      "percent": 0.9
+    },
+    {
+      "ticker": "PACB",
+      "name": "PACIFIC BIOSCIENCES OF CALIF",
+      "percent": 0.86
+    },
+    {
+      "ticker": "FB",
+      "name": "FACEBOOK INC-CLASS A",
+      "percent": 0.81
+    },
+    {
+      "ticker": "NTDOY",
+      "name": "NINTENDO CO LTD-UNSPONS ADR",
+      "percent": 0.68
+    },
+    {
+      "ticker": "XLNX",
+      "name": "XILINX INC",
+      "percent": 0.6
+    },
+    {
+      "ticker": "SYRS",
+      "name": "SYROS PHARMACEUTICALS INC",
+      "percent": 0.51
+    },
+    {
+      "ticker": "U",
+      "name": "UNITY SOFTWARE INC",
+      "percent": 0.49
+    },
+    {
+      "ticker": "TCEHY",
+      "name": "TENCENT HOLDINGS LTD-UNS ADR",
+      "percent": 0.48
+    },
+    {
+      "ticker": "SE",
+      "name": "SEA LTD-ADR",
+      "percent": 0.48
+    },
+    {
+      "ticker": "XONE",
+      "name": "EXONE CO/THE",
+      "percent": 0.23
+    },
+    {
+      "ticker": "DOYU",
+      "name": "DOUYU INTERNATIONAL HOLD-ADR",
+      "percent": 0.17
+    },
+    {
+      "ticker": "ONVO",
+      "name": "ORGANOVO HOLDINGS INC",
+      "percent": 0.08
+    }
+  ]
+}

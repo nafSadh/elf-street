@@ -1,0 +1,300 @@
+{
+  "Products": "International Dividend Achievers™ ETF",
+  "Ticker": "PID",
+  "Inception": "09/15/2005",
+  "Gross Exp. Ratio": "0.54%",
+  "YTD": "-23.10",
+  "1Yr": "-17.31",
+  "3Yr": "-3.91",
+  "5Yr": "1.40",
+  "10Yr": "2.23",
+  "Since Incept.": "2.37",
+  "Category": "Factor Access",
+  "SubCategory": "Dividend Achievers",
+  "ticker": "PID",
+  "name": "International Dividend Achievers™ ETF",
+  "issuer": "Invesco",
+  "website": "https://www.invesco.com/us/financial-products/etfs/product-detail?audienceType=Investor&ticker=PID",
+  "holdingDataSource": {
+    "url": "https://www.invesco.com/us/financial-products/etfs/holdings/main/holdings/0?audienceType=Investor&action=download&ticker=PID",
+    "fileExt": "csv",
+    "transform": "invesco"
+  },
+  "holdings": [
+    {
+      "ticker": "BPY",
+      "name": "Brookfield Property Partners LP",
+      "percent": "4.488"
+    },
+    {
+      "ticker": "HMLP",
+      "name": "Hoegh LNG Partners LP",
+      "percent": "4.405"
+    },
+    {
+      "ticker": "NLMK",
+      "name": "Novolipetsk Steel PJSC GDR",
+      "percent": "4.204"
+    },
+    {
+      "ticker": "GLOP",
+      "name": "GasLog Partners LP",
+      "percent": "3.575"
+    },
+    {
+      "ticker": "ENB",
+      "name": "Enbridge Inc",
+      "percent": "3.379"
+    },
+    {
+      "ticker": "PBA",
+      "name": "Pembina Pipeline Corp",
+      "percent": "3.261"
+    },
+    {
+      "ticker": "MEOH",
+      "name": "Methanex Corp",
+      "percent": "3.187"
+    },
+    {
+      "ticker": "BAP",
+      "name": "Credicorp Ltd",
+      "percent": "3.100"
+    },
+    {
+      "ticker": "BNS",
+      "name": "Bank of Nova Scotia/The",
+      "percent": "3.048"
+    },
+    {
+      "ticker": "NGG",
+      "name": "National Grid PLC ADR",
+      "percent": "2.944"
+    },
+    {
+      "ticker": "BCE",
+      "name": "BCE Inc",
+      "percent": "2.768"
+    },
+    {
+      "ticker": "CNQ",
+      "name": "Canadian Natural Resources Ltd",
+      "percent": "2.670"
+    },
+    {
+      "ticker": "MFC",
+      "name": "Manulife Financial Corp",
+      "percent": "2.651"
+    },
+    {
+      "ticker": "SU",
+      "name": "Suncor Energy Inc",
+      "percent": "2.621"
+    },
+    {
+      "ticker": "CM",
+      "name": "Canadian Imperial Bank of Commerce",
+      "percent": "2.606"
+    },
+    {
+      "ticker": "BMO",
+      "name": "Bank of Montreal",
+      "percent": "2.379"
+    },
+    {
+      "ticker": "AQN",
+      "name": "Algonquin Power & Utilities Corp",
+      "percent": "2.375"
+    },
+    {
+      "ticker": "BIP",
+      "name": "Brookfield Infrastructure Partners LP",
+      "percent": "2.350"
+    },
+    {
+      "ticker": "TU",
+      "name": "TELUS Corp",
+      "percent": "2.312"
+    },
+    {
+      "ticker": "TRP",
+      "name": "TC Energy Corp",
+      "percent": "2.275"
+    },
+    {
+      "ticker": "BEP",
+      "name": "Brookfield Renewable Partners LP",
+      "percent": "2.229"
+    },
+    {
+      "ticker": "BBD",
+      "name": "Banco Bradesco SA ADR",
+      "percent": "2.137"
+    },
+    {
+      "ticker": "TD",
+      "name": "Toronto-Dominion Bank/The",
+      "percent": "2.084"
+    },
+    {
+      "ticker": "RY",
+      "name": "Royal Bank of Canada",
+      "percent": "2.015"
+    },
+    {
+      "ticker": "SLF",
+      "name": "Sun Life Financial Inc",
+      "percent": "1.943"
+    },
+    {
+      "ticker": "FTS",
+      "name": "Fortis Inc/Canada",
+      "percent": "1.836"
+    },
+    {
+      "ticker": "CIB",
+      "name": "Bancolombia SA ADR",
+      "percent": "1.827"
+    },
+    {
+      "ticker": "NVS",
+      "name": "Novartis AG ADR",
+      "percent": "1.796"
+    },
+    {
+      "ticker": "MGA",
+      "name": "Magna International Inc",
+      "percent": "1.769"
+    },
+    {
+      "ticker": "ABB",
+      "name": "ABB Ltd ADR",
+      "percent": "1.697"
+    },
+    {
+      "ticker": "SNY",
+      "name": "Sanofi ADR",
+      "percent": "1.670"
+    },
+    {
+      "ticker": "UN",
+      "name": "Unilever NV",
+      "percent": "1.663"
+    },
+    {
+      "ticker": "IMO",
+      "name": "Imperial Oil Ltd",
+      "percent": "1.513"
+    },
+    {
+      "ticker": "AMX",
+      "name": "America Movil SAB de CV ADR",
+      "percent": "1.486"
+    },
+    {
+      "ticker": "DEO",
+      "name": "Diageo PLC ADR",
+      "percent": "1.369"
+    },
+    {
+      "ticker": "RELX",
+      "name": "RELX PLC ADR",
+      "percent": "1.231"
+    },
+    {
+      "ticker": "INFY",
+      "name": "Infosys Ltd ADR",
+      "percent": "1.163"
+    },
+    {
+      "ticker": "TSM",
+      "name": "Taiwan Semiconductor Manufacturing Co Ltd ADR",
+      "percent": "1.087"
+    },
+    {
+      "ticker": "DOX",
+      "name": "Amdocs Ltd",
+      "percent": "0.952"
+    },
+    {
+      "ticker": "PUK",
+      "name": "Prudential PLC ADR",
+      "percent": "0.854"
+    },
+    {
+      "ticker": "CNI",
+      "name": "Canadian National Railway Co",
+      "percent": "0.849"
+    },
+    {
+      "ticker": "FMS",
+      "name": "Fresenius Medical Care AG & Co KGaA ADR",
+      "percent": "0.834"
+    },
+    {
+      "ticker": "RBA",
+      "name": "Ritchie Bros Auctioneers Inc",
+      "percent": "0.767"
+    },
+    {
+      "ticker": "OTEX",
+      "name": "Open Text Corp",
+      "percent": "0.707"
+    },
+    {
+      "ticker": "LIN",
+      "name": "Linde PLC",
+      "percent": "0.701"
+    },
+    {
+      "ticker": "BAM",
+      "name": "Brookfield Asset Management Inc",
+      "percent": "0.689"
+    },
+    {
+      "ticker": "STN",
+      "name": "Stantec Inc",
+      "percent": "0.637"
+    },
+    {
+      "ticker": "LOGI",
+      "name": "Logitech International SA",
+      "percent": "0.522"
+    },
+    {
+      "ticker": "SAP",
+      "name": "SAP SE ADR",
+      "percent": "0.490"
+    },
+    {
+      "ticker": "ASML",
+      "name": "ASML Holding NV",
+      "percent": "0.362"
+    },
+    {
+      "ticker": "FNV",
+      "name": "Franco-Nevada Corp",
+      "percent": "0.311"
+    },
+    {
+      "ticker": "RIGD",
+      "name": "Reliance Industries Ltd GDR",
+      "percent": "0.153"
+    },
+    {
+      "ticker": "AGPXX",
+      "name": "STIT - Government & Agency Portfolio",
+      "percent": "0.038"
+    },
+    {
+      "ticker": "-CASH-",
+      "name": "Cash/Receivables/Payables",
+      "percent": "0.023"
+    },
+    {
+      "ticker": "-Canadian",
+      "name": "Cash/Receivables/Payables",
+      "percent": "0.000"
+    }
+  ]
+}

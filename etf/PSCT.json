@@ -1,0 +1,400 @@
+{
+  "Products": "S&P SmallCap Information Technology ETF",
+  "Ticker": "PSCT",
+  "Inception": "04/07/2010",
+  "Gross Exp. Ratio": "0.29%",
+  "YTD": "-10.01",
+  "1Yr": "0.46",
+  "3Yr": "3.38",
+  "5Yr": "12.57",
+  "10Yr": "13.65",
+  "Since Incept.": "12.64",
+  "Category": "Bulk Beta",
+  "SubCategory": "Small Cap Sectors",
+  "ticker": "PSCT",
+  "name": "S&P SmallCap Information Technology ETF",
+  "issuer": "Invesco",
+  "website": "https://www.invesco.com/us/financial-products/etfs/product-detail?audienceType=Investor&ticker=PSCT",
+  "holdingDataSource": {
+    "url": "https://www.invesco.com/us/financial-products/etfs/holdings/main/holdings/0?audienceType=Investor&action=download&ticker=PSCT",
+    "fileExt": "csv",
+    "transform": "invesco"
+  },
+  "holdings": [
+    {
+      "ticker": "LPSN",
+      "name": "LivePerson Inc",
+      "percent": "3.733"
+    },
+    {
+      "ticker": "BRKS",
+      "name": "Brooks Automation Inc",
+      "percent": "3.706"
+    },
+    {
+      "ticker": "POWI",
+      "name": "Power Integrations Inc",
+      "percent": "3.624"
+    },
+    {
+      "ticker": "SPSC",
+      "name": "SPS Commerce Inc",
+      "percent": "3.081"
+    },
+    {
+      "ticker": "ITRI",
+      "name": "Itron Inc",
+      "percent": "2.862"
+    },
+    {
+      "ticker": "VIAV",
+      "name": "Viavi Solutions Inc",
+      "percent": "2.821"
+    },
+    {
+      "ticker": "AEIS",
+      "name": "Advanced Energy Industries Inc",
+      "percent": "2.821"
+    },
+    {
+      "ticker": "ALRM",
+      "name": "Alarm.com Holdings Inc",
+      "percent": "2.714"
+    },
+    {
+      "ticker": "DIOD",
+      "name": "Diodes Inc",
+      "percent": "2.616"
+    },
+    {
+      "ticker": "EXLS",
+      "name": "ExlService Holdings Inc",
+      "percent": "2.487"
+    },
+    {
+      "ticker": "BMI",
+      "name": "Badger Meter Inc",
+      "percent": "2.351"
+    },
+    {
+      "ticker": "FN",
+      "name": "Fabrinet",
+      "percent": "2.329"
+    },
+    {
+      "ticker": "FORM",
+      "name": "FormFactor Inc",
+      "percent": "2.252"
+    },
+    {
+      "ticker": "NSIT",
+      "name": "Insight Enterprises Inc",
+      "percent": "2.197"
+    },
+    {
+      "ticker": "EVTC",
+      "name": "EVERTEC Inc",
+      "percent": "2.165"
+    },
+    {
+      "ticker": "PLXS",
+      "name": "Plexus Corp",
+      "percent": "2.109"
+    },
+    {
+      "ticker": "ROG",
+      "name": "Rogers Corp",
+      "percent": "2.044"
+    },
+    {
+      "ticker": "MANT",
+      "name": "ManTech International Corp/VA",
+      "percent": "1.972"
+    },
+    {
+      "ticker": "SANM",
+      "name": "Sanmina Corp",
+      "percent": "1.852"
+    },
+    {
+      "ticker": "PRGS",
+      "name": "Progress Software Corp",
+      "percent": "1.802"
+    },
+    {
+      "ticker": "EGHT",
+      "name": "8x8 Inc",
+      "percent": "1.738"
+    },
+    {
+      "ticker": "EPAY",
+      "name": "Bottomline Technologies DE Inc",
+      "percent": "1.669"
+    },
+    {
+      "ticker": "KLIC",
+      "name": "Kulicke & Soffa Industries Inc",
+      "percent": "1.668"
+    },
+    {
+      "ticker": "ONTO",
+      "name": "Onto Innovation Inc",
+      "percent": "1.668"
+    },
+    {
+      "ticker": "RMBS",
+      "name": "Rambus Inc",
+      "percent": "1.638"
+    },
+    {
+      "ticker": "MXL",
+      "name": "MaxLinear Inc",
+      "percent": "1.614"
+    },
+    {
+      "ticker": "PRFT",
+      "name": "Perficient Inc",
+      "percent": "1.512"
+    },
+    {
+      "ticker": "KN",
+      "name": "Knowles Corp",
+      "percent": "1.480"
+    },
+    {
+      "ticker": "EGOV",
+      "name": "NIC Inc",
+      "percent": "1.446"
+    },
+    {
+      "ticker": "SYKE",
+      "name": "Sykes Enterprises Inc",
+      "percent": "1.440"
+    },
+    {
+      "ticker": "VRTU",
+      "name": "Virtusa Corp",
+      "percent": "1.435"
+    },
+    {
+      "ticker": "CSGS",
+      "name": "CSG Systems International Inc",
+      "percent": "1.415"
+    },
+    {
+      "ticker": "OSIS",
+      "name": "OSI Systems Inc",
+      "percent": "1.372"
+    },
+    {
+      "ticker": "XPER",
+      "name": "Xperi Holding Corp",
+      "percent": "1.358"
+    },
+    {
+      "ticker": "TTMI",
+      "name": "TTM Technologies Inc",
+      "percent": "1.242"
+    },
+    {
+      "ticker": "MSTR",
+      "name": "MicroStrategy Inc",
+      "percent": "1.199"
+    },
+    {
+      "ticker": "FARO",
+      "name": "FARO Technologies Inc",
+      "percent": "1.159"
+    },
+    {
+      "ticker": "MEI",
+      "name": "Methode Electronics Inc",
+      "percent": "1.144"
+    },
+    {
+      "ticker": "TTEC",
+      "name": "TTEC Holdings Inc",
+      "percent": "1.097"
+    },
+    {
+      "ticker": "PLUS",
+      "name": "ePlus Inc",
+      "percent": "1.078"
+    },
+    {
+      "ticker": "NTGR",
+      "name": "NETGEAR Inc",
+      "percent": "1.002"
+    },
+    {
+      "ticker": "CEVA",
+      "name": "CEVA Inc",
+      "percent": "0.972"
+    },
+    {
+      "ticker": "UCTT",
+      "name": "Ultra Clean Holdings Inc",
+      "percent": "0.961"
+    },
+    {
+      "ticker": "OSPN",
+      "name": "OneSpan Inc",
+      "percent": "0.858"
+    },
+    {
+      "ticker": "CTS",
+      "name": "CTS Corp",
+      "percent": "0.835"
+    },
+    {
+      "ticker": "DDD",
+      "name": "3D Systems Corp",
+      "percent": "0.824"
+    },
+    {
+      "ticker": "COHU",
+      "name": "Cohu Inc",
+      "percent": "0.805"
+    },
+    {
+      "ticker": "ACLS",
+      "name": "Axcelis Technologies Inc",
+      "percent": "0.794"
+    },
+    {
+      "ticker": "BHE",
+      "name": "Benchmark Electronics Inc",
+      "percent": "0.786"
+    },
+    {
+      "ticker": "UIS",
+      "name": "Unisys Corp",
+      "percent": "0.764"
+    },
+    {
+      "ticker": "CATM",
+      "name": "Cardtronics PLC",
+      "percent": "0.722"
+    },
+    {
+      "ticker": "PLAB",
+      "name": "Photronics Inc",
+      "percent": "0.679"
+    },
+    {
+      "ticker": "PLT",
+      "name": "Plantronics Inc",
+      "percent": "0.631"
+    },
+    {
+      "ticker": "HLIT",
+      "name": "Harmonic Inc",
+      "percent": "0.626"
+    },
+    {
+      "ticker": "DBD",
+      "name": "Diebold Nixdorf Inc",
+      "percent": "0.619"
+    },
+    {
+      "ticker": "VECO",
+      "name": "Veeco Instruments Inc",
+      "percent": "0.619"
+    },
+    {
+      "ticker": "PDFS",
+      "name": "PDF Solutions Inc",
+      "percent": "0.594"
+    },
+    {
+      "ticker": "ICHR",
+      "name": "Ichor Holdings Ltd",
+      "percent": "0.579"
+    },
+    {
+      "ticker": "SCSC",
+      "name": "ScanSource Inc",
+      "percent": "0.551"
+    },
+    {
+      "ticker": "AGYS",
+      "name": "Agilysys Inc",
+      "percent": "0.542"
+    },
+    {
+      "ticker": "EXTR",
+      "name": "Extreme Networks Inc",
+      "percent": "0.542"
+    },
+    {
+      "ticker": "ADTN",
+      "name": "ADTRAN Inc",
+      "percent": "0.524"
+    },
+    {
+      "ticker": "CNXN",
+      "name": "PC Connection Inc",
+      "percent": "0.503"
+    },
+    {
+      "ticker": "EBIX",
+      "name": "Ebix Inc",
+      "percent": "0.493"
+    },
+    {
+      "ticker": "DGII",
+      "name": "Digi International Inc",
+      "percent": "0.488"
+    },
+    {
+      "ticker": "MTSC",
+      "name": "MTS Systems Corp",
+      "percent": "0.472"
+    },
+    {
+      "ticker": "ARLO",
+      "name": "Arlo Technologies Inc",
+      "percent": "0.422"
+    },
+    {
+      "ticker": "CMTL",
+      "name": "Comtech Telecommunications Corp",
+      "percent": "0.403"
+    },
+    {
+      "ticker": "SGH",
+      "name": "SMART Global Holdings Inc",
+      "percent": "0.355"
+    },
+    {
+      "ticker": "DSPG",
+      "name": "DSP Group Inc",
+      "percent": "0.324"
+    },
+    {
+      "ticker": "CAMP",
+      "name": "CalAmp Corp",
+      "percent": "0.273"
+    },
+    {
+      "ticker": "AAOI",
+      "name": "Applied Optoelectronics Inc",
+      "percent": "0.237"
+    },
+    {
+      "ticker": "DAKT",
+      "name": "Daktronics Inc",
+      "percent": "0.149"
+    },
+    {
+      "ticker": "BELFB",
+      "name": "Bel Fuse Inc",
+      "percent": "0.115"
+    },
+    {
+      "ticker": "AGPXX",
+      "name": "STIT - Government & Agency Portfolio",
+      "percent": "0.025"
+    }
+  ]
+}

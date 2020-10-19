@@ -1,0 +1,585 @@
+{
+  "Products": "DWA Emerging Markets Momentum ETF",
+  "Ticker": "PIE",
+  "Inception": "12/28/2007",
+  "Gross Exp. Ratio": "0.90%",
+  "YTD": "1.26",
+  "1Yr": "11.67",
+  "3Yr": "2.99",
+  "5Yr": "6.71",
+  "10Yr": "2.44",
+  "Since Incept.": "-0.89",
+  "Category": "Factor Access",
+  "SubCategory": "Dorsey Wright",
+  "ticker": "PIE",
+  "name": "DWA Emerging Markets Momentum ETF",
+  "issuer": "Invesco",
+  "website": "https://www.invesco.com/us/financial-products/etfs/product-detail?audienceType=Investor&ticker=PIE",
+  "holdingDataSource": {
+    "url": "https://www.invesco.com/us/financial-products/etfs/holdings/main/holdings/0?audienceType=Investor&action=download&ticker=PIE",
+    "fileExt": "csv",
+    "transform": "invesco"
+  },
+  "holdings": [
+    {
+      "ticker": "700 HK",
+      "name": "Tencent Holdings Ltd",
+      "percent": "3.166"
+    },
+    {
+      "ticker": "2313 HK",
+      "name": "Shenzhou International Group Holdings Ltd",
+      "percent": "2.964"
+    },
+    {
+      "ticker": "TAL",
+      "name": "TAL Education Group ADR",
+      "percent": "2.891"
+    },
+    {
+      "ticker": "2020 HK",
+      "name": "ANTA Sports Products Ltd",
+      "percent": "2.631"
+    },
+    {
+      "ticker": "3023 TT",
+      "name": "Sinbon Electronics Co Ltd",
+      "percent": "2.627"
+    },
+    {
+      "ticker": "1579 HK",
+      "name": "Yihai International Holding Ltd",
+      "percent": "2.567"
+    },
+    {
+      "ticker": "EDU",
+      "name": "New Oriental Education & Technology Group Inc ADR",
+      "percent": "2.135"
+    },
+    {
+      "ticker": "2330 TT",
+      "name": "Taiwan Semiconductor Manufacturing Co Ltd",
+      "percent": "2.072"
+    },
+    {
+      "ticker": "2377 TT",
+      "name": "Micro-Star International Co Ltd",
+      "percent": "1.967"
+    },
+    {
+      "ticker": "2331 HK",
+      "name": "Li Ning Co Ltd",
+      "percent": "1.936"
+    },
+    {
+      "ticker": "6409 TT",
+      "name": "Voltronic Power Technology Corp",
+      "percent": "1.931"
+    },
+    {
+      "ticker": "2395 TT",
+      "name": "Advantech Co Ltd",
+      "percent": "1.783"
+    },
+    {
+      "ticker": "IMP",
+      "name": "Impala Platinum Holdings Ltd",
+      "percent": "1.689"
+    },
+    {
+      "ticker": "QLG",
+      "name": "QL Resources Bhd",
+      "percent": "1.555"
+    },
+    {
+      "ticker": "285 HK",
+      "name": "BYD Electronic International Co Ltd",
+      "percent": "1.541"
+    },
+    {
+      "ticker": "HTHT",
+      "name": "Huazhu Group Ltd ADR",
+      "percent": "1.476"
+    },
+    {
+      "ticker": "968 HK",
+      "name": "Xinyi Solar Holdings Ltd",
+      "percent": "1.445"
+    },
+    {
+      "ticker": "BBCA IJ",
+      "name": "Bank Central Asia Tbk PT",
+      "percent": "1.422"
+    },
+    {
+      "ticker": "2269 HK",
+      "name": "Wuxi Biologics Cayman Inc",
+      "percent": "1.400"
+    },
+    {
+      "ticker": "JKS",
+      "name": "JinkoSolar Holding Co Ltd ADR",
+      "percent": "1.386"
+    },
+    {
+      "ticker": "2379 TT",
+      "name": "Realtek Semiconductor Corp",
+      "percent": "1.300"
+    },
+    {
+      "ticker": "3690 HK",
+      "name": "Meituan Dianping",
+      "percent": "1.264"
+    },
+    {
+      "ticker": "WNS",
+      "name": "WNS Holdings Ltd ADR",
+      "percent": "1.247"
+    },
+    {
+      "ticker": "3380 HK",
+      "name": "Logan Group Co Ltd",
+      "percent": "1.198"
+    },
+    {
+      "ticker": "6098 HK",
+      "name": "Country Garden Services Holdings Co Ltd",
+      "percent": "1.178"
+    },
+    {
+      "ticker": "1229 TT",
+      "name": "Lien Hwa Industrial Holdings Corp",
+      "percent": "1.172"
+    },
+    {
+      "ticker": "3036 TT",
+      "name": "WT Microelectronics Co Ltd",
+      "percent": "1.170"
+    },
+    {
+      "ticker": "291 HK",
+      "name": "China Resources Beer Holdings Co Ltd",
+      "percent": "1.167"
+    },
+    {
+      "ticker": "2809 TT",
+      "name": "King's Town Bank Co Ltd",
+      "percent": "1.145"
+    },
+    {
+      "ticker": "2884 TT",
+      "name": "E.Sun Financial Holding Co Ltd",
+      "percent": "1.145"
+    },
+    {
+      "ticker": "NHM",
+      "name": "Northam Platinum Ltd",
+      "percent": "1.101"
+    },
+    {
+      "ticker": "GFI",
+      "name": "Gold Fields Ltd ADR",
+      "percent": "1.094"
+    },
+    {
+      "ticker": "1590 TT",
+      "name": "Airtac International Group",
+      "percent": "1.037"
+    },
+    {
+      "ticker": "WEGE3",
+      "name": "WEG SA",
+      "percent": "1.025"
+    },
+    {
+      "ticker": "1801 HK",
+      "name": "Innovent Biologics Inc",
+      "percent": "0.995"
+    },
+    {
+      "ticker": "CBG-R TB",
+      "name": "Carabao Group PCL",
+      "percent": "0.963"
+    },
+    {
+      "ticker": "1313 HK",
+      "name": "China Resources Cement Holdings Ltd",
+      "percent": "0.951"
+    },
+    {
+      "ticker": "1211 HK",
+      "name": "BYD Co Ltd",
+      "percent": "0.949"
+    },
+    {
+      "ticker": "VALE3",
+      "name": "Vale SA",
+      "percent": "0.905"
+    },
+    {
+      "ticker": "BABA",
+      "name": "Alibaba Group Holding Ltd ADR",
+      "percent": "0.900"
+    },
+    {
+      "ticker": "1210 TT",
+      "name": "Great Wall Enterprise Co Ltd",
+      "percent": "0.887"
+    },
+    {
+      "ticker": "2376 TT",
+      "name": "Gigabyte Technology Co Ltd",
+      "percent": "0.864"
+    },
+    {
+      "ticker": "2458 TT",
+      "name": "Elan Microelectronics Corp",
+      "percent": "0.857"
+    },
+    {
+      "ticker": "2333 HK",
+      "name": "Great Wall Motor Co Ltd",
+      "percent": "0.838"
+    },
+    {
+      "ticker": "2301 TT",
+      "name": "Lite-On Technology Corp",
+      "percent": "0.832"
+    },
+    {
+      "ticker": "1157 HK",
+      "name": "Zoomlion Heavy Industry Science and Technology Co Ltd",
+      "percent": "0.828"
+    },
+    {
+      "ticker": "2303 TT",
+      "name": "United Microelectronics Corp",
+      "percent": "0.777"
+    },
+    {
+      "ticker": "5871 TT",
+      "name": "Chailease Holding Co Ltd",
+      "percent": "0.775"
+    },
+    {
+      "ticker": "1717 TT",
+      "name": "Eternal Materials Co Ltd",
+      "percent": "0.750"
+    },
+    {
+      "ticker": "1904 TT",
+      "name": "Cheng Loong Corp",
+      "percent": "0.715"
+    },
+    {
+      "ticker": "5534 TT",
+      "name": "Chong Hong Construction Co Ltd",
+      "percent": "0.712"
+    },
+    {
+      "ticker": "6176 TT",
+      "name": "Radiant Opto-Electronics Corp",
+      "percent": "0.708"
+    },
+    {
+      "ticker": "2899 HK",
+      "name": "Zijin Mining Group Co Ltd",
+      "percent": "0.695"
+    },
+    {
+      "ticker": "KCE-R TB",
+      "name": "KCE Electronics PCL",
+      "percent": "0.681"
+    },
+    {
+      "ticker": "772 HK",
+      "name": "China Literature Ltd",
+      "percent": "0.678"
+    },
+    {
+      "ticker": "NTCO3",
+      "name": "Natura & Co Holding SA",
+      "percent": "0.673"
+    },
+    {
+      "ticker": "2383 TT",
+      "name": "Elite Material Co Ltd",
+      "percent": "0.670"
+    },
+    {
+      "ticker": "2357 TT",
+      "name": "Asustek Computer Inc",
+      "percent": "0.664"
+    },
+    {
+      "ticker": "SBSW",
+      "name": "Sibanye Stillwater Ltd ADR",
+      "percent": "0.655"
+    },
+    {
+      "ticker": "TOTS3",
+      "name": "TOTVS SA",
+      "percent": "0.651"
+    },
+    {
+      "ticker": "2889 TT",
+      "name": "IBF Financial Holdings Co Ltd",
+      "percent": "0.646"
+    },
+    {
+      "ticker": "MGLU3",
+      "name": "Magazine Luiza SA",
+      "percent": "0.641"
+    },
+    {
+      "ticker": "2319 HK",
+      "name": "China Mengniu Dairy Co Ltd",
+      "percent": "0.639"
+    },
+    {
+      "ticker": "CSNA3",
+      "name": "Cia Siderurgica Nacional SA",
+      "percent": "0.634"
+    },
+    {
+      "ticker": "2313 TT",
+      "name": "Compeq Manufacturing Co Ltd",
+      "percent": "0.632"
+    },
+    {
+      "ticker": "DTEX3",
+      "name": "Duratex SA",
+      "percent": "0.632"
+    },
+    {
+      "ticker": "INFY",
+      "name": "Infosys Ltd ADR",
+      "percent": "0.628"
+    },
+    {
+      "ticker": "GOL",
+      "name": "Gol Linhas Aereas Inteligentes SA ADR",
+      "percent": "0.625"
+    },
+    {
+      "ticker": "RENT3",
+      "name": "Localiza Rent a Car SA",
+      "percent": "0.624"
+    },
+    {
+      "ticker": "HANA-R TB",
+      "name": "Hana Microelectronics PCL",
+      "percent": "0.619"
+    },
+    {
+      "ticker": "9921 TT",
+      "name": "Giant Manufacturing Co Ltd",
+      "percent": "0.611"
+    },
+    {
+      "ticker": "PE&OLES* M",
+      "name": "Industrias Penoles SAB de CV",
+      "percent": "0.607"
+    },
+    {
+      "ticker": "2892 TT",
+      "name": "First Financial Holding Co Ltd",
+      "percent": "0.601"
+    },
+    {
+      "ticker": "CX",
+      "name": "Cemex SAB de CV ADR",
+      "percent": "0.596"
+    },
+    {
+      "ticker": "NTES",
+      "name": "NetEase Inc ADR",
+      "percent": "0.594"
+    },
+    {
+      "ticker": "2887 TT",
+      "name": "Taishin Financial Holding Co Ltd",
+      "percent": "0.592"
+    },
+    {
+      "ticker": "9910 TT",
+      "name": "Feng TAY Enterprise Co Ltd",
+      "percent": "0.591"
+    },
+    {
+      "ticker": "3706 TT",
+      "name": "Mitac Holdings Corp",
+      "percent": "0.589"
+    },
+    {
+      "ticker": "3908 HK",
+      "name": "China International Capital Corp Ltd",
+      "percent": "0.581"
+    },
+    {
+      "ticker": "168 HK",
+      "name": "Tsingtao Brewery Co Ltd",
+      "percent": "0.580"
+    },
+    {
+      "ticker": "1813 HK",
+      "name": "KWG Group Holdings Ltd",
+      "percent": "0.576"
+    },
+    {
+      "ticker": "GGB",
+      "name": "Gerdau SA ADR",
+      "percent": "0.576"
+    },
+    {
+      "ticker": "GNDI3",
+      "name": "Notre Dame Intermedica Participacoes SA",
+      "percent": "0.572"
+    },
+    {
+      "ticker": "5880 TT",
+      "name": "Taiwan Cooperative Financial Holding Co Ltd",
+      "percent": "0.564"
+    },
+    {
+      "ticker": "2812 TT",
+      "name": "Taichung Commercial Bank Co Ltd",
+      "percent": "0.563"
+    },
+    {
+      "ticker": "1818 HK",
+      "name": "Zhaojin Mining Industry Co Ltd",
+      "percent": "0.561"
+    },
+    {
+      "ticker": "BURSA",
+      "name": "Bursa Malaysia Bhd",
+      "percent": "0.556"
+    },
+    {
+      "ticker": "AZUL4",
+      "name": "Azul SA",
+      "percent": "0.550"
+    },
+    {
+      "ticker": "BVN",
+      "name": "Cia de Minas Buenaventura SAA ADR",
+      "percent": "0.542"
+    },
+    {
+      "ticker": "2885 TT",
+      "name": "Yuanta Financial Holding Co Ltd",
+      "percent": "0.540"
+    },
+    {
+      "ticker": "1101 TT",
+      "name": "Taiwan Cement Corp",
+      "percent": "0.535"
+    },
+    {
+      "ticker": "2903 TT",
+      "name": "Far Eastern Department Stores Ltd",
+      "percent": "0.529"
+    },
+    {
+      "ticker": "2382 TT",
+      "name": "Quanta Computer Inc",
+      "percent": "0.527"
+    },
+    {
+      "ticker": "8464 TT",
+      "name": "Nien Made Enterprise Co Ltd",
+      "percent": "0.526"
+    },
+    {
+      "ticker": "1722 TT",
+      "name": "Taiwan Fertilizer Co Ltd",
+      "percent": "0.524"
+    },
+    {
+      "ticker": "GLOBAL-R T",
+      "name": "Siam Global House PCL",
+      "percent": "0.512"
+    },
+    {
+      "ticker": "9945 TT",
+      "name": "Ruentex Development Co Ltd",
+      "percent": "0.512"
+    },
+    {
+      "ticker": "3481 TT",
+      "name": "Innolux Corp",
+      "percent": "0.505"
+    },
+    {
+      "ticker": "TEL",
+      "name": "PLDT Inc",
+      "percent": "0.495"
+    },
+    {
+      "ticker": "3665 TT",
+      "name": "Bizlink Holding Inc",
+      "percent": "0.480"
+    },
+    {
+      "ticker": "-Taiwan",
+      "name": "Cash/Receivables/Payables",
+      "percent": "0.242"
+    },
+    {
+      "ticker": "3913 HK",
+      "name": "KWG Living Group Holdings Ltd",
+      "percent": "0.135"
+    },
+    {
+      "ticker": "-HongKong",
+      "name": "Cash/Receivables/Payables",
+      "percent": "0.007"
+    },
+    {
+      "ticker": "-SAfricaRa",
+      "name": "Cash/Receivables/Payables",
+      "percent": "0.003"
+    },
+    {
+      "ticker": "-Thai Baht",
+      "name": "Cash/Receivables/Payables",
+      "percent": "0.000"
+    },
+    {
+      "ticker": "-TurkLiraN",
+      "name": "Cash/Receivables/Payables",
+      "percent": "0.000"
+    },
+    {
+      "ticker": "-Philippin",
+      "name": "Cash/Receivables/Payables",
+      "percent": "-0.000"
+    },
+    {
+      "ticker": "-MexicNewP",
+      "name": "Cash/Receivables/Payables",
+      "percent": "-0.000"
+    },
+    {
+      "ticker": "-EgyptPoun",
+      "name": "Cash/Receivables/Payables",
+      "percent": "-0.000"
+    },
+    {
+      "ticker": "-HungForin",
+      "name": "Cash/Receivables/Payables",
+      "percent": "-0.000"
+    },
+    {
+      "ticker": "-IndonesRp",
+      "name": "Cash/Receivables/Payables",
+      "percent": "-0.374"
+    },
+    {
+      "ticker": "-CASH-",
+      "name": "Cash/Receivables/Payables",
+      "percent": "-0.419"
+    }
+  ]
+}

@@ -1,0 +1,155 @@
+{
+  "Products": "KBW Bank ETF",
+  "Ticker": "KBWB",
+  "Inception": "11/01/2011",
+  "Gross Exp. Ratio": "0.35%",
+  "YTD": "-33.68",
+  "1Yr": "-24.38",
+  "3Yr": "-7.31",
+  "5Yr": "3.25",
+  "10Yr": "",
+  "Since Incept.": "9.76",
+  "Category": "Bulk Beta",
+  "SubCategory": "Financial Sector",
+  "ticker": "KBWB",
+  "name": "KBW Bank ETF",
+  "issuer": "Invesco",
+  "website": "https://www.invesco.com/us/financial-products/etfs/product-detail?audienceType=Investor&ticker=KBWB",
+  "holdingDataSource": {
+    "url": "https://www.invesco.com/us/financial-products/etfs/holdings/main/holdings/0?audienceType=Investor&action=download&ticker=KBWB",
+    "fileExt": "csv",
+    "transform": "invesco"
+  },
+  "holdings": [
+    {
+      "ticker": "USB",
+      "name": "US Bancorp",
+      "percent": "8.431"
+    },
+    {
+      "ticker": "JPM",
+      "name": "JPMorgan Chase & Co",
+      "percent": "7.944"
+    },
+    {
+      "ticker": "WFC",
+      "name": "Wells Fargo & Co",
+      "percent": "7.422"
+    },
+    {
+      "ticker": "BAC",
+      "name": "Bank of America Corp",
+      "percent": "7.384"
+    },
+    {
+      "ticker": "C",
+      "name": "Citigroup Inc",
+      "percent": "6.624"
+    },
+    {
+      "ticker": "COF",
+      "name": "Capital One Financial Corp",
+      "percent": "4.499"
+    },
+    {
+      "ticker": "FITB",
+      "name": "Fifth Third Bancorp",
+      "percent": "4.414"
+    },
+    {
+      "ticker": "FRC",
+      "name": "First Republic Bank/CA",
+      "percent": "4.402"
+    },
+    {
+      "ticker": "TFC",
+      "name": "Truist Financial Corp",
+      "percent": "4.207"
+    },
+    {
+      "ticker": "SIVB",
+      "name": "SVB Financial Group",
+      "percent": "4.194"
+    },
+    {
+      "ticker": "NTRS",
+      "name": "Northern Trust Corp",
+      "percent": "4.183"
+    },
+    {
+      "ticker": "BK",
+      "name": "Bank of New York Mellon Corp/The",
+      "percent": "4.030"
+    },
+    {
+      "ticker": "PNC",
+      "name": "PNC Financial Services Group Inc/The",
+      "percent": "3.930"
+    },
+    {
+      "ticker": "KEY",
+      "name": "KeyCorp",
+      "percent": "3.870"
+    },
+    {
+      "ticker": "STT",
+      "name": "State Street Corp",
+      "percent": "3.833"
+    },
+    {
+      "ticker": "MTB",
+      "name": "M&T Bank Corp",
+      "percent": "3.801"
+    },
+    {
+      "ticker": "RF",
+      "name": "Regions Financial Corp",
+      "percent": "3.671"
+    },
+    {
+      "ticker": "CFG",
+      "name": "Citizens Financial Group Inc",
+      "percent": "3.483"
+    },
+    {
+      "ticker": "HBAN",
+      "name": "Huntington Bancshares Inc/OH",
+      "percent": "3.017"
+    },
+    {
+      "ticker": "CMA",
+      "name": "Comerica Inc",
+      "percent": "1.777"
+    },
+    {
+      "ticker": "ZION",
+      "name": "Zions Bancorp NA",
+      "percent": "1.566"
+    },
+    {
+      "ticker": "PBCT",
+      "name": "People's United Financial Inc",
+      "percent": "1.378"
+    },
+    {
+      "ticker": "FHN",
+      "name": "First Horizon National Corp",
+      "percent": "1.007"
+    },
+    {
+      "ticker": "CIT",
+      "name": "CIT Group Inc",
+      "percent": "0.755"
+    },
+    {
+      "ticker": "AGPXX",
+      "name": "STIT - Government & Agency Portfolio",
+      "percent": "0.185"
+    },
+    {
+      "ticker": "-CASH-",
+      "name": "Cash/Receivables/Payables",
+      "percent": "-0.005"
+    }
+  ]
+}

@@ -1,0 +1,789 @@
+{
+  "ticker": "XBI",
+  "name": "SPDR® S&P® Biotech ETF",
+  "ISIN": "US78464A8707",
+  "CUSIP": "78464A870",
+  "Inception Date": "Jan 31 2006",
+  "Gross Expense Ratio": "0.35%",
+  "* Net Expense Ratio": "-",
+  "Asset Class": "Equity",
+  "Distribution Frequency": "Quarterly",
+  "Primary Exchange": "NYSE ARCA EXCHANGE",
+  "Primary Index": "S&P Biotechnology Select Industry Index",
+  "Primary Index Ticker": "SPSIBITR",
+  "issuer": "SSGA",
+  "website": "https://www.ssga.com/us/en/individual/etfs/funds/spdr-sp-biotech-etf-xbi",
+  "holdingDataSource": {
+    "fileUrl": "https://www.ssga.com/us/en/individual/etfs/library-content/products/fund-data/etfs/us/holdings-daily-us-en-xbi.xlsx",
+    "fileExt": "xlsx",
+    "transform": "spdr"
+  },
+  "holdings": [
+    {
+      "ticker": "IMMU",
+      "name": "Immunomedics Inc.",
+      "percent": "1.811850"
+    },
+    {
+      "ticker": "SRNE",
+      "name": "Sorrento Therapeutics Inc.",
+      "percent": "1.438462"
+    },
+    {
+      "ticker": "TWST",
+      "name": "Twist Bioscience Corp.",
+      "percent": "1.398206"
+    },
+    {
+      "ticker": "BPMC",
+      "name": "Blueprint Medicines Corp.",
+      "percent": "1.321057"
+    },
+    {
+      "ticker": "MRTX",
+      "name": "Mirati Therapeutics Inc.",
+      "percent": "1.288067"
+    },
+    {
+      "ticker": "TPTX",
+      "name": "Turning Point Therapeutics Inc.",
+      "percent": "1.287227"
+    },
+    {
+      "ticker": "ARWR",
+      "name": "Arrowhead Pharmaceuticals Inc.",
+      "percent": "1.287093"
+    },
+    {
+      "ticker": "NVTA",
+      "name": "Invitae Corp.",
+      "percent": "1.282466"
+    },
+    {
+      "ticker": "FATE",
+      "name": "Fate Therapeutics Inc.",
+      "percent": "1.254081"
+    },
+    {
+      "ticker": "ARCT",
+      "name": "Arcturus Therapeutics Holdings Inc.",
+      "percent": "1.240385"
+    },
+    {
+      "ticker": "OPK",
+      "name": "OPKO Health Inc.",
+      "percent": "1.234931"
+    },
+    {
+      "ticker": "SGEN",
+      "name": "Seagen Inc.",
+      "percent": "1.193237"
+    },
+    {
+      "ticker": "EXAS",
+      "name": "Exact Sciences Corporation",
+      "percent": "1.178408"
+    },
+    {
+      "ticker": "FOLD",
+      "name": "Amicus Therapeutics Inc.",
+      "percent": "1.150221"
+    },
+    {
+      "ticker": "BHVN",
+      "name": "Biohaven Pharmaceutical Holding Company Ltd.",
+      "percent": "1.141111"
+    },
+    {
+      "ticker": "CDNA",
+      "name": "CareDx Inc.",
+      "percent": "1.137078"
+    },
+    {
+      "ticker": "XLRN",
+      "name": "Acceleron Pharma Inc",
+      "percent": "1.130030"
+    },
+    {
+      "ticker": "ARNA",
+      "name": "Arena Pharmaceuticals Inc.",
+      "percent": "1.126344"
+    },
+    {
+      "ticker": "MRNA",
+      "name": "Moderna Inc.",
+      "percent": "1.114542"
+    },
+    {
+      "ticker": "RARE",
+      "name": "Ultragenyx Pharmaceutical Inc.",
+      "percent": "1.111309"
+    },
+    {
+      "ticker": "INSM",
+      "name": "Insmed Incorporated",
+      "percent": "1.098579"
+    },
+    {
+      "ticker": "APLS",
+      "name": "Apellis Pharmaceuticals Inc.",
+      "percent": "1.079834"
+    },
+    {
+      "ticker": "ALLO",
+      "name": "Allogene Therapeutics Inc.",
+      "percent": "1.069259"
+    },
+    {
+      "ticker": "INO",
+      "name": "Inovio Pharmaceuticals Inc.",
+      "percent": "1.059880"
+    },
+    {
+      "ticker": "TGTX",
+      "name": "TG Therapeutics Inc.",
+      "percent": "1.055526"
+    },
+    {
+      "ticker": "DCPH",
+      "name": "Deciphera Pharmaceuticals Inc.",
+      "percent": "1.055512"
+    },
+    {
+      "ticker": "NTRA",
+      "name": "Natera Inc.",
+      "percent": "1.052438"
+    },
+    {
+      "ticker": "CCXI",
+      "name": "Chemocentryx Inc.",
+      "percent": "1.049721"
+    },
+    {
+      "ticker": "TBIO",
+      "name": "Translate Bio Inc.",
+      "percent": "1.043378"
+    },
+    {
+      "ticker": "SAGE",
+      "name": "SAGE Therapeutics Inc.",
+      "percent": "1.042384"
+    },
+    {
+      "ticker": "ALNY",
+      "name": "Alnylam Pharmaceuticals Inc",
+      "percent": "1.028707"
+    },
+    {
+      "ticker": "GBT",
+      "name": "Global Blood Therapeutics Inc",
+      "percent": "1.024735"
+    },
+    {
+      "ticker": "NVAX",
+      "name": "Novavax Inc.",
+      "percent": "1.021429"
+    },
+    {
+      "ticker": "ACAD",
+      "name": "ACADIA Pharmaceuticals Inc.",
+      "percent": "1.020521"
+    },
+    {
+      "ticker": "ALXN",
+      "name": "Alexion Pharmaceuticals Inc.",
+      "percent": "1.013498"
+    },
+    {
+      "ticker": "BTAI",
+      "name": "BioXcel Therapeutics Inc.",
+      "percent": "0.996235"
+    },
+    {
+      "ticker": "IOVA",
+      "name": "Iovance Biotherapeutics Inc",
+      "percent": "0.995087"
+    },
+    {
+      "ticker": "PTCT",
+      "name": "PTC Therapeutics Inc.",
+      "percent": "0.990144"
+    },
+    {
+      "ticker": "KPTI",
+      "name": "Karyopharm Therapeutics Inc.",
+      "percent": "0.966812"
+    },
+    {
+      "ticker": "UTHR",
+      "name": "United Therapeutics Corporation",
+      "percent": "0.964643"
+    },
+    {
+      "ticker": "FGEN",
+      "name": "FibroGen Inc.",
+      "percent": "0.962564"
+    },
+    {
+      "ticker": "SRPT",
+      "name": "Sarepta Therapeutics Inc.",
+      "percent": "0.959693"
+    },
+    {
+      "ticker": "BMRN",
+      "name": "BioMarin Pharmaceutical Inc.",
+      "percent": "0.943178"
+    },
+    {
+      "ticker": "EXEL",
+      "name": "Exelixis Inc.",
+      "percent": "0.943048"
+    },
+    {
+      "ticker": "EDIT",
+      "name": "Editas Medicine Inc.",
+      "percent": "0.940960"
+    },
+    {
+      "ticker": "REGN",
+      "name": "Regeneron Pharmaceuticals Inc.",
+      "percent": "0.940193"
+    },
+    {
+      "ticker": "SGMO",
+      "name": "Sangamo Therapeutics Inc.",
+      "percent": "0.928193"
+    },
+    {
+      "ticker": "HALO",
+      "name": "Halozyme Therapeutics Inc.",
+      "percent": "0.925772"
+    },
+    {
+      "ticker": "KOD",
+      "name": "Kodiak Sciences Inc.",
+      "percent": "0.917605"
+    },
+    {
+      "ticker": "BIIB",
+      "name": "Biogen Inc.",
+      "percent": "0.909837"
+    },
+    {
+      "ticker": "BLUE",
+      "name": "bluebird bio Inc.",
+      "percent": "0.909484"
+    },
+    {
+      "ticker": "BCRX",
+      "name": "BioCryst Pharmaceuticals Inc.",
+      "percent": "0.902838"
+    },
+    {
+      "ticker": "INCY",
+      "name": "Incyte Corporation",
+      "percent": "0.900125"
+    },
+    {
+      "ticker": "EBS",
+      "name": "Emergent BioSolutions Inc.",
+      "percent": "0.888188"
+    },
+    {
+      "ticker": "CLVS",
+      "name": "Clovis Oncology Inc.",
+      "percent": "0.874985"
+    },
+    {
+      "ticker": "NTLA",
+      "name": "Intellia Therapeutics Inc.",
+      "percent": "0.873322"
+    },
+    {
+      "ticker": "NBIX",
+      "name": "Neurocrine Biosciences Inc.",
+      "percent": "0.870192"
+    },
+    {
+      "ticker": "IRWD",
+      "name": "Ironwood Pharmaceuticals Inc. Class A",
+      "percent": "0.862709"
+    },
+    {
+      "ticker": "ALKS",
+      "name": "Alkermes Plc",
+      "percent": "0.861493"
+    },
+    {
+      "ticker": "ADVM",
+      "name": "Adverum Biotechnologies Inc",
+      "percent": "0.852761"
+    },
+    {
+      "ticker": "VCYT",
+      "name": "Veracyte Inc",
+      "percent": "0.848815"
+    },
+    {
+      "ticker": "AMGN",
+      "name": "Amgen Inc.",
+      "percent": "0.845383"
+    },
+    {
+      "ticker": "GILD",
+      "name": "Gilead Sciences Inc.",
+      "percent": "0.840075"
+    },
+    {
+      "ticker": "AGIO",
+      "name": "Agios Pharmaceuticals Inc.",
+      "percent": "0.832402"
+    },
+    {
+      "ticker": "ABBV",
+      "name": "AbbVie Inc.",
+      "percent": "0.831351"
+    },
+    {
+      "ticker": "AKBA",
+      "name": "Akebia Therapeutics Inc.",
+      "percent": "0.828854"
+    },
+    {
+      "ticker": "VBIV",
+      "name": "VBI Vaccines Inc.",
+      "percent": "0.824502"
+    },
+    {
+      "ticker": "LGND",
+      "name": "Ligand Pharmaceuticals Incorporated",
+      "percent": "0.824219"
+    },
+    {
+      "ticker": "IONS",
+      "name": "Ionis Pharmaceuticals Inc.",
+      "percent": "0.813023"
+    },
+    {
+      "ticker": "CHRS",
+      "name": "Coherus BioSciences Inc.",
+      "percent": "0.805375"
+    },
+    {
+      "ticker": "DVAX",
+      "name": "Dynavax Technologies Corporation",
+      "percent": "0.805126"
+    },
+    {
+      "ticker": "ESPR",
+      "name": "Esperion Therapeutics Inc.",
+      "percent": "0.802877"
+    },
+    {
+      "ticker": "BBIO",
+      "name": "BridgeBio Pharma Inc.",
+      "percent": "0.765054"
+    },
+    {
+      "ticker": "ALLK",
+      "name": "Allakos Inc.",
+      "percent": "0.755958"
+    },
+    {
+      "ticker": "DNLI",
+      "name": "Denali Therapeutics Inc.",
+      "percent": "0.744731"
+    },
+    {
+      "ticker": "HRTX",
+      "name": "Heron Therapeutics Inc",
+      "percent": "0.744710"
+    },
+    {
+      "ticker": "VRTX",
+      "name": "Vertex Pharmaceuticals Incorporated",
+      "percent": "0.730080"
+    },
+    {
+      "ticker": "ICPT",
+      "name": "Intercept Pharmaceuticals Inc.",
+      "percent": "0.727386"
+    },
+    {
+      "ticker": "KRTX",
+      "name": "Karuna Therapeutics Inc.",
+      "percent": "0.689005"
+    },
+    {
+      "ticker": "DRNA",
+      "name": "Dicerna Pharmaceuticals Inc.",
+      "percent": "0.676004"
+    },
+    {
+      "ticker": "EPZM",
+      "name": "Epizyme Inc.",
+      "percent": "0.642058"
+    },
+    {
+      "ticker": "CNST",
+      "name": "Constellation Pharmaceuticals Inc.",
+      "percent": "0.639411"
+    },
+    {
+      "ticker": "RCUS",
+      "name": "Arcus Biosciences Inc.",
+      "percent": "0.630085"
+    },
+    {
+      "ticker": "MRSN",
+      "name": "Mersana Therapeutics Inc.",
+      "percent": "0.629081"
+    },
+    {
+      "ticker": "MDGL",
+      "name": "Madrigal Pharmaceuticals Inc.",
+      "percent": "0.572017"
+    },
+    {
+      "ticker": "RGNX",
+      "name": "REGENXBIO Inc.",
+      "percent": "0.570743"
+    },
+    {
+      "ticker": "MGNX",
+      "name": "MacroGenics Inc.",
+      "percent": "0.566946"
+    },
+    {
+      "ticker": "IMGN",
+      "name": "ImmunoGen Inc.",
+      "percent": "0.552684"
+    },
+    {
+      "ticker": "CYTK",
+      "name": "Cytokinetics Incorporated",
+      "percent": "0.509000"
+    },
+    {
+      "ticker": "XNCR",
+      "name": "Xencor Inc.",
+      "percent": "0.486370"
+    },
+    {
+      "ticker": "RCKT",
+      "name": "Rocket Pharmaceuticals Inc.",
+      "percent": "0.473186"
+    },
+    {
+      "ticker": "ALEC",
+      "name": "Alector Inc.",
+      "percent": "0.470814"
+    },
+    {
+      "ticker": "ATRA",
+      "name": "Atara Biotherapeutics Inc",
+      "percent": "0.458618"
+    },
+    {
+      "ticker": "VIE",
+      "name": "Viela Bio Inc.",
+      "percent": "0.451913"
+    },
+    {
+      "ticker": "MYGN",
+      "name": "Myriad Genetics Inc.",
+      "percent": "0.442413"
+    },
+    {
+      "ticker": "SWTX",
+      "name": "Springworks Therapeutics Inc.",
+      "percent": "0.432072"
+    },
+    {
+      "ticker": "KURA",
+      "name": "Kura Oncology Inc.",
+      "percent": "0.431767"
+    },
+    {
+      "ticker": "KDMN",
+      "name": "Kadmon Holdings Inc.",
+      "percent": "0.403936"
+    },
+    {
+      "ticker": "GTHX",
+      "name": "G1 Therapeutics Inc.",
+      "percent": "0.401642"
+    },
+    {
+      "ticker": "IMVT",
+      "name": "Immunovant Inc",
+      "percent": "0.398825"
+    },
+    {
+      "ticker": "VKTX",
+      "name": "Viking Therapeutics Inc.",
+      "percent": "0.395796"
+    },
+    {
+      "ticker": "VCEL",
+      "name": "Vericel Corporation",
+      "percent": "0.390475"
+    },
+    {
+      "ticker": "PBYI",
+      "name": "Puma Biotechnology Inc.",
+      "percent": "0.386535"
+    },
+    {
+      "ticker": "FLXN",
+      "name": "Flexion Therapeutics Inc.",
+      "percent": "0.383590"
+    },
+    {
+      "ticker": "EGRX",
+      "name": "Eagle Pharmaceuticals Inc.",
+      "percent": "0.382470"
+    },
+    {
+      "ticker": "RTRX",
+      "name": "Retrophin Inc.",
+      "percent": "0.379909"
+    },
+    {
+      "ticker": "RVMD",
+      "name": "Revolution Medicines Inc.",
+      "percent": "0.364311"
+    },
+    {
+      "ticker": "RDUS",
+      "name": "Radius Health Inc.",
+      "percent": "0.352289"
+    },
+    {
+      "ticker": "YMAB",
+      "name": "Y-mAbs Therapeutics Inc.",
+      "percent": "0.350732"
+    },
+    {
+      "ticker": "CVM",
+      "name": "CEL-SCI Corporation",
+      "percent": "0.341259"
+    },
+    {
+      "ticker": "CPRX",
+      "name": "Catalyst Pharmaceuticals Inc.",
+      "percent": "0.328230"
+    },
+    {
+      "ticker": "RIGL",
+      "name": "Rigel Pharmaceuticals Inc.",
+      "percent": "0.312801"
+    },
+    {
+      "ticker": "CRBP",
+      "name": "Corbus Pharmaceuticals Holdings Inc",
+      "percent": "0.305378"
+    },
+    {
+      "ticker": "VNDA",
+      "name": "Vanda Pharmaceuticals Inc.",
+      "percent": "0.304811"
+    },
+    {
+      "ticker": "AGEN",
+      "name": "Agenus Inc.",
+      "percent": "0.298351"
+    },
+    {
+      "ticker": "IGMS",
+      "name": "IGM Biosciences Inc.",
+      "percent": "0.295665"
+    },
+    {
+      "ticker": "KRYS",
+      "name": "Krystal Biotech Inc.",
+      "percent": "0.293435"
+    },
+    {
+      "ticker": "ENTA",
+      "name": "Enanta Pharmaceuticals Inc.",
+      "percent": "0.291328"
+    },
+    {
+      "ticker": "ANAB",
+      "name": "AnaptysBio Inc.",
+      "percent": "0.284812"
+    },
+    {
+      "ticker": "ATHX",
+      "name": "Athersys Inc.",
+      "percent": "0.283776"
+    },
+    {
+      "ticker": "ATNX",
+      "name": "Athenex Inc.",
+      "percent": "0.274528"
+    },
+    {
+      "ticker": "PTGX",
+      "name": "Protagonist Therapeutics Inc.",
+      "percent": "0.253384"
+    },
+    {
+      "ticker": "GERN",
+      "name": "Geron Corporation",
+      "percent": "0.239434"
+    },
+    {
+      "ticker": "ZIOP",
+      "name": "ZIOPHARM Oncology Inc.",
+      "percent": "0.238476"
+    },
+    {
+      "ticker": "CUE",
+      "name": "Cue Biopharma Inc.",
+      "percent": "0.226014"
+    },
+    {
+      "ticker": "PGEN",
+      "name": "Precigen Inc",
+      "percent": "0.214513"
+    },
+    {
+      "ticker": "GOSS",
+      "name": "Gossamer Bio Inc.",
+      "percent": "0.200180"
+    },
+    {
+      "ticker": "SNDX",
+      "name": "Syndax Pharmaceuticals Inc",
+      "percent": "0.193800"
+    },
+    {
+      "ticker": "ANIK",
+      "name": "Anika Therapeutics Inc.",
+      "percent": "0.188428"
+    },
+    {
+      "ticker": "AVRO",
+      "name": "AVROBIO Inc",
+      "percent": "0.188395"
+    },
+    {
+      "ticker": "SPPI",
+      "name": "Spectrum Pharmaceuticals Inc.",
+      "percent": "0.186445"
+    },
+    {
+      "ticker": "ASMB",
+      "name": "Assembly Biosciences Inc.",
+      "percent": "0.160595"
+    },
+    {
+      "ticker": "CTMX",
+      "name": "CytomX Therapeutics Inc.",
+      "percent": "0.146576"
+    },
+    {
+      "ticker": "ARDX",
+      "name": "Ardelyx Inc.",
+      "percent": "0.142800"
+    },
+    {
+      "ticker": "70286227",
+      "name": "STATE STREET INSTITUTIONAL LIQ STATE STR",
+      "percent": "0.126824"
+    },
+    {
+      "ticker": "SYRS",
+      "name": "Syros Pharmaceuticals Inc.",
+      "percent": "0.126460"
+    },
+    {
+      "ticker": "PRTA",
+      "name": "Prothena Corp. Plc",
+      "percent": "0.116229"
+    },
+    {
+      "ticker": "RYTM",
+      "name": "Rhythm Pharmaceuticals Inc.",
+      "percent": "0.113793"
+    },
+    {
+      "ticker": "PDLI",
+      "name": "PDL BioPharma Inc.",
+      "percent": "0.095150"
+    },
+    {
+      "ticker": "LNSR",
+      "name": "LENSAR Inc",
+      "percent": "0.028895"
+    },
+    {
+      "ticker": "004CVR03",
+      "name": "ACHILLION PHARMACEUTICALS INC COMMON STO",
+      "percent": "0.001187"
+    },
+    {
+      "ticker": "LNTH",
+      "name": "Lantheus Holdings Inc",
+      "percent": "0.000000"
+    },
+    {
+      "ticker": "CASH_USD",
+      "name": "U.S. Dollar",
+      "percent": "-0.008131"
+    },
+    {
+      "name": "Performance quoted represents past performance, which is no guarantee of future results. Investment return and principal value will fluctuate, so you may have a gain or loss when shares are sold. Current performance may be higher or lower than that quoted. Visit www.ssga.com for most recent month-end performance."
+    },
+    {
+      "name": "This analysis or any portion thereof may not be revised or changed in any way, reprinted, sold or redistributed without the written consent of SSGA."
+    },
+    {
+      "name": "Portfolio holdings, allocations and weightings are as of the date indicated, are subject to change and should not be considered a recommendation to buy individual securities. For most recent information visit www.ssga.com."
+    },
+    {
+      "name": "Important Risk Information  "
+    },
+    {
+      "name": "Investing involves risk, and you could lose money on an investment in each of SPDR® Gold Shares Trust (“GLD®”) and SPDR® Gold MiniSharesSM Trust  (“GLDMSM”), a series of the World Gold Trust (together, the “Funds”). \n\nETFs trade like stocks, are subject to investment risk, fluctuate in market value and may trade at prices above or below the ETFs’ net asset value. Brokerage commissions and ETF expenses will reduce returns.\n\nCommodities and commodity-index linked securities may be affected by changes in overall market movements, changes in interest rates, and other factors such as weather, disease, embargoes, or political and regulatory developments, as well as trading activity of speculators and arbitrageurs in the underlying commodities.\n\nFrequent trading of ETFs could significantly increase commissions and other costs such that they may offset any savings from low fees or costs.\n\nDiversification does not ensure a profit or guarantee against loss."
+    },
+    {
+      "name": "Investing in commodities entails significant risk and is not appropriate for all investors."
+    },
+    {
+      "name": "Important Information Relating to SPDR® Gold Trust (“GLD®”) and SPDR® Gold MiniSharesSM Trust (“GLDMSM”):"
+    },
+    {
+      "name": "The SPDR Gold Trust (“GLD”) has filed a registration statement (including a prospectus) with the Securities and Exchange Commission (“SEC”) for GLD. The World Gold Trust has filed a registration statement (including a prospectus) with the SEC for GLDM. Before you invest, you should read the prospectus in the registration statement and other documents each Fund has filed with the SEC for more complete information about each Fund and these offerings. Please see each Fund’s prospectus for a detailed discussion of the risks of investing in each Fund’s shares."
+    },
+    {
+      "name": "The GLD prospectus is available by clicking"
+    },
+    {
+      "name": "The GLDM prospectus is available by clicking "
+    },
+    {
+      "name": "You may get these documents for free by visiting EDGAR on the SEC website at sec.gov or by visiting spdrgoldshares.com. Alternatively, the Funds or any authorized participant will arrange to send you the prospectus if you request it by calling 866.320.4053."
+    },
+    {
+      "name": "None of the Funds is an investment company registered under the Investment Company Act of 1940 (the “1940 Act”). As a result, shareholders of each Fund do not have the protections associated with ownership of shares in an investment company registered under the 1940 Act. GLD and GLDM are not subject to regulation under the CEA. As a result, shareholders of each of GLD and GLDM do not have the protections afforded by the CEA. \n\nShares of each Fund trade like stocks, are subject to investment risk and will fluctuate in market value. \n\nThe values of GLD shares and GLDM shares relate directly to the value of the gold held by each Fund (less its expenses), respectively. Fluctuations in the price of gold could materially and adversely affect an investment in the shares. The price received upon the sale of the shares, which trade at market price, may be more or less than the value of the gold represented by them.  \n\nNone of the Funds generate any income, and as each Fund regularly sells gold to pay for its ongoing expenses, the amount of gold represented by each Fund share will decline over time to that extent.\n\nThe World Gold Council name and logo are a registered trademark and used with the permission of the World Gold Council pursuant to a license agreement. The World Gold Council is not responsible for the content of, and is not liable for the use of or reliance on, this material. World Gold Council is an affiliate of the Sponsor of each of GLD and GLDM.\n\nMiniSharesSM and GLDMSM are service marks of WGC USA Asset Management Company, LLC used with the permission of WGC USA Asset Management Company, LLC.\n\nGLD® is a registered trademark of World Gold Trust Services, LLC used with the permission of World Gold Trust Services, LLC."
+    },
+    {
+      "name": "For more information, please contact the Marketing Agent for GLD and GLDM: State Street Global Advisors Funds Distributors, LLC, One Iron Street, Boston, MA, 02210; T: +1 866 320 4053 spdrgoldshares.com"
+    },
+    {
+      "name": "Standard & Poor’s®, S&P® and SPDR® are registered trademarks of Standard & Poor’s Financial Services LLC (S&P); Dow Jones is a registered trademark of Dow Jones Trademark Holdings LLC (Dow Jones); and these trademarks have been licensed for use by S&P Dow Jones Indices LLC (SPDJI) and sublicensed for certain purposes by State Street Corporation. State Street Corporation’s financial products are not sponsored, endorsed, sold or promoted by SPDJI, Dow Jones, S&P, their respective affiliates and third party licensors and none of such parties make any representation regarding the advisability of investing in such product(s) nor do they have any liability in relation thereto, including for any errors, omissions, or interruptions of any index."
+    },
+    {
+      "name": "Bonds generally present less short-term risk and volatility than stocks, but contain interest rate risk (as interest rates raise, bond prices usually fall); issuer default risk; issuer credit risk; liquidity risk; and inflation risk. These effects are usually pronounced for longer-term securities. Any fixed income security sold or redeemed prior to maturity may be subject to a substantial gain or loss.\nInternational Government bonds and corporate bonds generally have more moderate short-term price fluctuations than stocks, but provide lower potential long-term returns.\nInvesting in high yield fixed income securities, otherwise known as \"junk bonds\", is considered speculative and involves greater risk of loss of principal and interest than investing in investment grade fixed income securities. These Lower-quality debt securities involve greater risk of default or price changes due to potential changes in the credit quality of the issuer.\nEquity securities may fluctuate in value in response to the activities of individual companies and general market and economic conditions.\nThere are risks associated with investing in Real Assets and the Real Assets sector, including real estate, precious metals and natural resources.  Investments can be significantly affected by events relating to these industries.\nInvesting in foreign domiciled securities may involve risk of capital loss from unfavorable fluctuation in currency values, withholding taxes, from differences in generally accepted accounting principles or from economic or political instability in other nations.  Investments in emerging or developing markets may be more volatile and less liquid than investing in developed markets and may involve exposure to economic structures that are generally less diverse and mature and to political systems which have less stability than those of more developed countries. The trademarks and service marks referenced herein are the property of their respective owners. Third party data providers make no warranties or representations of any kind relating to the accuracy, completeness or timeliness of the data and have no liability for damages of any kind relating to the use of such data. Investing involves risk including the risk of loss of principal.\nThe whole or any part of this work may not be reproduced, copied or transmitted or any of its contents disclosed to third parties without SSGA's express written consent.\nETFs trade like stocks, are subject to investment risk and will fluctuate in market value. The investment return and principal value of an investment will fluctuate in value, so that when shares are sold or redeemed, they may be worth more or less than when they were purchased.  Although shares may be bought or sold on an exchange through any brokerage account, shares are not individually redeemable from the fund.  Investors may acquire shares and tender them for redemption through the fund in large aggregations known as “creation units.”  Please see the fund’s prospectus for more details.\nInvesting in REITs involves certain distinct risks in addition to those risks associated with investing in the real estate industry in general. Equity REITs may be affected by changes in the value of the underlying property owned by the REITs, while mortgage REITs may be affected by the quality of credit extended. REITs are subject to heavy cash flow dependency, default by borrowers and self-liquidation. REITs, especially mortgage REITs, are also subject to interest rate risk (i.e., as interest rates rise, the value of the REIT may decline).\nInvestments in small/mid-sized companies may involve greater risks than in those of larger, better known companies. Concentrated investments in a particular Sector tend to be more volatile than the overall market and increases risk that events negatively affecting such sectors or industries could reduce returns, potentially causing the value of the Fund’s shares to decrease.\nStandard & Poor’s®, S&P® and SPDR® are registered trademarks of Standard & Poor’s Financial Services LLC (S&P); Dow Jones is a registered trademark of Dow Jones Trademark Holdings LLC (Dow Jones); and these trademarks have been licensed for use by S&P Dow Jones Indices LLC (SPDJI) and sublicensed for certain purposes by State Street Corporation. State Street Corporation’s financial products are not sponsored, endorsed, sold or promoted by SPDJI, Dow Jones, S&P, their respective affiliates and third party licensors and none of such parties make any representation regarding the advisability of investing in such product(s) nor do they have any liability in relation thereto, including for any errors, omissions, or interruptions of any index.\nCommodities and commodity-index linked securities may be affected by changes in overall market movements, changes in interest rates, and other factors such as weather, disease, embargoes, or political and regulatory developments, as well as trading activity of speculators and arbitrageurs in the underlying commodities. The returns on a portfolio of securities which exclude companies that do not meet the portfolio's specified ESG criteria may trail the returns on a portfolio of securities which include such companies. A portfolio's ESG criteria may result in the portfolio investing in industry sectors or securities which underperform the market as a whole.\nTechnology companies, including cyber security companies, can be significantly affected by obsolescence of existing technology, limited product lines, and competition for financial resources, qualified personnel, new market entrants or impairment of patent and intellectual property rights that can adversely affect profit margins."
+    },
+    {
+      "name": "Distributor: State Street Global Advisors Funds Distributors, LLC, member FINRA(http://www.finra.org), SIPC(http://www.sipc.org), an indirect wholly owned subsidiary of State Street Corporation. References to State Street may include State Street Corporation and its affiliates. Certain State Street affiliates provide services and receive fees from the SPDR ETFs. ALPS Distributors, Inc., member FINRA, is the distributor for DIA, MDY and SPY, all unit investment trusts. ALPS Portfolio Solutions Distributor, Inc., member FINRA, is the distributor for Select Sector SPDRs. ALPS Distributors, Inc. and ALPS Portfolio Solutions Distributor, Inc. are not affiliated with State Street Global Advisors Funds Distributors, LLC."
+    },
+    {
+      "name": "Before investing, consider the funds’ investment objectives, risks, charges and expenses. To obtain a prospectus or summary prospectus, this contains this and other information, call 1-866-787-2257 or visit www.ssga.com. Read it carefully.\n\nNot FDIC Insured * No Bank Guarantee * May Lose Value\n\n2529657.2.1.AM.RTL\nExpiration: 03/31/2021\nSPD002304"
+    }
+  ]
+}

@@ -1,0 +1,915 @@
+{
+  "Products": "Variable Rate Investment Grade ETF",
+  "Ticker": "VRIG",
+  "Inception": "09/22/2016",
+  "Gross Exp. Ratio": "0.30%",
+  "YTD": "1.08",
+  "1Yr": "2.01",
+  "3Yr": "2.31",
+  "5Yr": "",
+  "10Yr": "",
+  "Since Incept.": "2.48",
+  "Category": "Income",
+  "SubCategory": "Core Plus",
+  "ticker": "VRIG",
+  "name": "Variable Rate Investment Grade ETF",
+  "issuer": "Invesco",
+  "website": "https://www.invesco.com/us/financial-products/etfs/product-detail?audienceType=Investor&ticker=VRIG",
+  "holdingDataSource": {
+    "url": "https://www.invesco.com/us/financial-products/etfs/holdings/main/holdings/0?audienceType=Investor&action=download&ticker=VRIG",
+    "fileExt": "csv",
+    "transform": "invesco"
+  },
+  "holdings": [
+    {
+      "ticker": "91282CAA9",
+      "name": "United States Treasury Floating Rate Note",
+      "percent": "13.60"
+    },
+    {
+      "ticker": "3137FDD66",
+      "name": "Freddie Mac REMICS",
+      "percent": "1.33"
+    },
+    {
+      "ticker": "46187BAC7",
+      "name": "Invitation Homes 2017-SFR2 Trust",
+      "percent": "1.23"
+    },
+    {
+      "ticker": "3137G0QQ5",
+      "name": "Freddie Mac Structured Agency Credit Risk Debt Notes",
+      "percent": "1.21"
+    },
+    {
+      "ticker": "35563XAH5",
+      "name": "Freddie Mac Stacr Trust 2018-HQA2",
+      "percent": "1.18"
+    },
+    {
+      "ticker": "04685A2F7",
+      "name": "Athene Global Funding",
+      "percent": "1.17"
+    },
+    {
+      "ticker": "05964HAA3",
+      "name": "Banco Santander SA",
+      "percent": "1.15"
+    },
+    {
+      "ticker": "3137FUZS6",
+      "name": "Freddie Mac Multifamily Structured Pass Through Certificates",
+      "percent": "1.10"
+    },
+    {
+      "ticker": "126650DD9",
+      "name": "CVS Health Corp",
+      "percent": "1.10"
+    },
+    {
+      "ticker": "816851BB4",
+      "name": "Sempra Energy",
+      "percent": "1.10"
+    },
+    {
+      "ticker": "747525AS2",
+      "name": "QUALCOMM Inc",
+      "percent": "1.10"
+    },
+    {
+      "ticker": "125523AC4",
+      "name": "Cigna Corp",
+      "percent": "1.00"
+    },
+    {
+      "ticker": "25755TAF7",
+      "name": "Domino's Pizza Master Issuer LLC",
+      "percent": "1.00"
+    },
+    {
+      "ticker": "38141GWN0",
+      "name": "Goldman Sachs Group Inc/The",
+      "percent": "0.99"
+    },
+    {
+      "ticker": "35564TAH3",
+      "name": "Freddie Mac STACR Trust 2019-DNA3",
+      "percent": "0.98"
+    },
+    {
+      "ticker": "21036PBA5",
+      "name": "Constellation Brands Inc",
+      "percent": "0.98"
+    },
+    {
+      "ticker": "30711XJX3",
+      "name": "Fannie Mae Connecticut Avenue Securities",
+      "percent": "0.96"
+    },
+    {
+      "ticker": "30711XNX8",
+      "name": "Fannie Mae Connecticut Avenue Securities",
+      "percent": "0.96"
+    },
+    {
+      "ticker": "30711XR63",
+      "name": "Fannie Mae Connecticut Avenue Securities",
+      "percent": "0.95"
+    },
+    {
+      "ticker": "12433UAA3",
+      "name": "BX Trust 2018-GW",
+      "percent": "0.95"
+    },
+    {
+      "ticker": "3137G0UD9",
+      "name": "Freddie Mac Structured Agency Credit Risk Debt Notes",
+      "percent": "0.93"
+    },
+    {
+      "ticker": "87236YAG3",
+      "name": "TD Ameritrade Holding Corp",
+      "percent": "0.93"
+    },
+    {
+      "ticker": "075887BU2",
+      "name": "Becton Dickinson and Co",
+      "percent": "0.93"
+    },
+    {
+      "ticker": "92343VEP5",
+      "name": "Verizon Communications Inc",
+      "percent": "0.93"
+    },
+    {
+      "ticker": "20754FAK8",
+      "name": "Connecticut Avenue Securities Trust 2019-R01",
+      "percent": "0.92"
+    },
+    {
+      "ticker": "38143U8G9",
+      "name": "Goldman Sachs Group Inc/The",
+      "percent": "0.91"
+    },
+    {
+      "ticker": "07274NAG8",
+      "name": "Bayer US Finance II LLC",
+      "percent": "0.91"
+    },
+    {
+      "ticker": "05583JAB8",
+      "name": "BPCE SA",
+      "percent": "0.89"
+    },
+    {
+      "ticker": "172967MA6",
+      "name": "Citigroup Inc",
+      "percent": "0.89"
+    },
+    {
+      "ticker": "780097BH3",
+      "name": "Natwest Group PLC",
+      "percent": "0.88"
+    },
+    {
+      "ticker": "780097BF7",
+      "name": "Natwest Group PLC",
+      "percent": "0.88"
+    },
+    {
+      "ticker": "14149YBG2",
+      "name": "Cardinal Health Inc",
+      "percent": "0.88"
+    },
+    {
+      "ticker": "46187VAC3",
+      "name": "Invitation Homes 2018-SFR3 Trust",
+      "percent": "0.88"
+    },
+    {
+      "ticker": "83192CAC1",
+      "name": "SMB Private Education Loan Trust 2019-B",
+      "percent": "0.88"
+    },
+    {
+      "ticker": "370334CC6",
+      "name": "General Mills Inc",
+      "percent": "0.87"
+    },
+    {
+      "ticker": "35564LAH0",
+      "name": "Freddie Mac STACR Trust 2019-DNA2",
+      "percent": "0.86"
+    },
+    {
+      "ticker": "00206RGD8",
+      "name": "AT&T Inc",
+      "percent": "0.86"
+    },
+    {
+      "ticker": "05492HAG1",
+      "name": "BAMLL Commercial Mortgage Securities Trust 2019-RLJ",
+      "percent": "0.84"
+    },
+    {
+      "ticker": "20048GAG1",
+      "name": "COMM 2019-521F Mortgage Trust",
+      "percent": "0.84"
+    },
+    {
+      "ticker": "14042RFJ5",
+      "name": "Capital One NA",
+      "percent": "0.83"
+    },
+    {
+      "ticker": "06051GHE2",
+      "name": "Bank of America Corp",
+      "percent": "0.83"
+    },
+    {
+      "ticker": "30711X3H5",
+      "name": "Fannie Mae Connecticut Avenue Securities",
+      "percent": "0.80"
+    },
+    {
+      "ticker": "43730WAA4",
+      "name": "Home Partners of America 2018-1 Trust",
+      "percent": "0.80"
+    },
+    {
+      "ticker": "456837AL7",
+      "name": "ING Groep NV",
+      "percent": "0.78"
+    },
+    {
+      "ticker": "05526DAX3",
+      "name": "BAT Capital Corp",
+      "percent": "0.77"
+    },
+    {
+      "ticker": "6174468K8",
+      "name": "Morgan Stanley",
+      "percent": "0.77"
+    },
+    {
+      "ticker": "35564XAH4",
+      "name": "Freddie Mac STACR 2019-HQA3",
+      "percent": "0.76"
+    },
+    {
+      "ticker": "07274NAC7",
+      "name": "Bayer US Finance II LLC",
+      "percent": "0.74"
+    },
+    {
+      "ticker": "853254BL3",
+      "name": "Standard Chartered PLC",
+      "percent": "0.73"
+    },
+    {
+      "ticker": "06051GGJ2",
+      "name": "Bank of America Corp",
+      "percent": "0.73"
+    },
+    {
+      "ticker": "43730TAA1",
+      "name": "Home Partners of America 2017-1 Trust",
+      "percent": "0.70"
+    },
+    {
+      "ticker": "05492NAC7",
+      "name": "BBCMS 2019-BWAY Mortgage Trust",
+      "percent": "0.69"
+    },
+    {
+      "ticker": "3137FJY29",
+      "name": "Freddie Mac Multifamily Structured Pass Through Certificates",
+      "percent": "0.67"
+    },
+    {
+      "ticker": "09681LAH3",
+      "name": "BOC Aviation Ltd",
+      "percent": "0.66"
+    },
+    {
+      "ticker": "06738EBC8",
+      "name": "Barclays PLC",
+      "percent": "0.66"
+    },
+    {
+      "ticker": "38141GWU4",
+      "name": "Goldman Sachs Group Inc/The",
+      "percent": "0.66"
+    },
+    {
+      "ticker": "00287YBN8",
+      "name": "AbbVie Inc",
+      "percent": "0.66"
+    },
+    {
+      "ticker": "46187XAE5",
+      "name": "Invitation Homes 2018-SFR4 Trust",
+      "percent": "0.66"
+    },
+    {
+      "ticker": "35564MAH8",
+      "name": "Freddie Mac STACR Trust 2019-HQA2",
+      "percent": "0.66"
+    },
+    {
+      "ticker": "46849LTG6",
+      "name": "Jackson National Life Global Funding",
+      "percent": "0.66"
+    },
+    {
+      "ticker": "404280BW8",
+      "name": "HSBC Holdings PLC",
+      "percent": "0.66"
+    },
+    {
+      "ticker": "65557CAZ6",
+      "name": "Nordea Bank Abp",
+      "percent": "0.65"
+    },
+    {
+      "ticker": "55261FAK0",
+      "name": "M&T Bank Corp",
+      "percent": "0.65"
+    },
+    {
+      "ticker": "33830CAC4",
+      "name": "DBGS 2018-5BP Mortgage Trust",
+      "percent": "0.65"
+    },
+    {
+      "ticker": "75625QAF6",
+      "name": "Reckitt Benckiser Treasury Services PLC",
+      "percent": "0.60"
+    },
+    {
+      "ticker": "00206RFY3",
+      "name": "AT&T Inc",
+      "percent": "0.59"
+    },
+    {
+      "ticker": "59022CAA1",
+      "name": "Bank of America Corp",
+      "percent": "0.58"
+    },
+    {
+      "ticker": "3137G0EW5",
+      "name": "Freddie Mac Structured Agency Credit Risk Debt Notes",
+      "percent": "0.56"
+    },
+    {
+      "ticker": "172967KX8",
+      "name": "Citigroup Inc",
+      "percent": "0.56"
+    },
+    {
+      "ticker": "63906AAB6",
+      "name": "NatWest Markets PLC",
+      "percent": "0.55"
+    },
+    {
+      "ticker": "38141GWK6",
+      "name": "Goldman Sachs Group Inc/The",
+      "percent": "0.55"
+    },
+    {
+      "ticker": "17308CC38",
+      "name": "Citigroup Inc",
+      "percent": "0.55"
+    },
+    {
+      "ticker": "95000CBK8",
+      "name": "Wells Fargo Commercial Mortgage Trust 2016-NXS5",
+      "percent": "0.55"
+    },
+    {
+      "ticker": "61744YAJ7",
+      "name": "Morgan Stanley",
+      "percent": "0.55"
+    },
+    {
+      "ticker": "60687YAY5",
+      "name": "Mizuho Financial Group Inc",
+      "percent": "0.55"
+    },
+    {
+      "ticker": "02665WDE8",
+      "name": "American Honda Finance Corp",
+      "percent": "0.55"
+    },
+    {
+      "ticker": "3137FKJH0",
+      "name": "Freddie Mac Multifamily Structured Pass Through Certificates",
+      "percent": "0.52"
+    },
+    {
+      "ticker": "48127FAA1",
+      "name": "JPMorgan Chase & Co",
+      "percent": "0.51"
+    },
+    {
+      "ticker": "12653BAG5",
+      "name": "CSWF 2018-TOP",
+      "percent": "0.51"
+    },
+    {
+      "ticker": "26078JAG5",
+      "name": "DuPont de Nemours Inc",
+      "percent": "0.49"
+    },
+    {
+      "ticker": "67097VAS3",
+      "name": "OBX 2018-EXP1 Trust",
+      "percent": "0.46"
+    },
+    {
+      "ticker": "89788JAC3",
+      "name": "Truist Bank",
+      "percent": "0.44"
+    },
+    {
+      "ticker": "06738EAT2",
+      "name": "Barclays PLC",
+      "percent": "0.44"
+    },
+    {
+      "ticker": "06738EBF1",
+      "name": "Barclays PLC",
+      "percent": "0.44"
+    },
+    {
+      "ticker": "59217GEF2",
+      "name": "Metropolitan Life Global Funding I",
+      "percent": "0.44"
+    },
+    {
+      "ticker": "928668AQ5",
+      "name": "Volkswagen Group of America Finance LLC",
+      "percent": "0.44"
+    },
+    {
+      "ticker": "67448WBE7",
+      "name": "OBX 2020-EXP3 Trust",
+      "percent": "0.44"
+    },
+    {
+      "ticker": "233851DK7",
+      "name": "Daimler Finance North America LLC",
+      "percent": "0.44"
+    },
+    {
+      "ticker": "02665WDG3",
+      "name": "American Honda Finance Corp",
+      "percent": "0.44"
+    },
+    {
+      "ticker": "37045XCN4",
+      "name": "General Motors Financial Co Inc",
+      "percent": "0.44"
+    },
+    {
+      "ticker": "25272KAU7",
+      "name": "Dell International LLC / EMC Corp",
+      "percent": "0.44"
+    },
+    {
+      "ticker": "78449UAC2",
+      "name": "SMB Private Education Loan Trust 2020-A",
+      "percent": "0.43"
+    },
+    {
+      "ticker": "35564AAK7",
+      "name": "STACR Trust 2018-HRP2",
+      "percent": "0.43"
+    },
+    {
+      "ticker": "20753KAB8",
+      "name": "Connecticut Avenue Securities Trust 2019-R02",
+      "percent": "0.43"
+    },
+    {
+      "ticker": "46625HRW2",
+      "name": "JPMorgan Chase & Co",
+      "percent": "0.42"
+    },
+    {
+      "ticker": "46187BAA1",
+      "name": "Invitation Homes 2017-SFR2 Trust",
+      "percent": "0.39"
+    },
+    {
+      "ticker": "67097XAU4",
+      "name": "OBX 2018-EXP2 Trust",
+      "percent": "0.39"
+    },
+    {
+      "ticker": "43730WAC0",
+      "name": "Home Partners of America 2018-1 Trust",
+      "percent": "0.39"
+    },
+    {
+      "ticker": "05369AAG6",
+      "name": "Aviation Capital Group LLC",
+      "percent": "0.38"
+    },
+    {
+      "ticker": "853254BR0",
+      "name": "Standard Chartered PLC",
+      "percent": "0.37"
+    },
+    {
+      "ticker": "30711XCB8",
+      "name": "Fannie Mae Connecticut Avenue Securities",
+      "percent": "0.36"
+    },
+    {
+      "ticker": "30711XEP5",
+      "name": "Fannie Mae Connecticut Avenue Securities",
+      "percent": "0.36"
+    },
+    {
+      "ticker": "20826FAH9",
+      "name": "ConocoPhillips Co",
+      "percent": "0.33"
+    },
+    {
+      "ticker": "172967LN9",
+      "name": "Citigroup Inc",
+      "percent": "0.33"
+    },
+    {
+      "ticker": "233851DV3",
+      "name": "Daimler Finance North America LLC",
+      "percent": "0.33"
+    },
+    {
+      "ticker": "20269DAB1",
+      "name": "Commonbond Student Loan Trust 2018-A-GS",
+      "percent": "0.32"
+    },
+    {
+      "ticker": "054970AA6",
+      "name": "BFLD 2019-DPLO",
+      "percent": "0.32"
+    },
+    {
+      "ticker": "67113KAL2",
+      "name": "OBX 2019-EXP2 Trust",
+      "percent": "0.32"
+    },
+    {
+      "ticker": "345397YP2",
+      "name": "Ford Motor Credit Co LLC",
+      "percent": "0.31"
+    },
+    {
+      "ticker": "3137G0FF1",
+      "name": "Freddie Mac Structured Agency Credit Risk Debt Notes",
+      "percent": "0.31"
+    },
+    {
+      "ticker": "3137G0KE8",
+      "name": "Freddie Mac Structured Agency Credit Risk Debt Notes",
+      "percent": "0.31"
+    },
+    {
+      "ticker": "29250NBB0",
+      "name": "Enbridge Inc",
+      "percent": "0.28"
+    },
+    {
+      "ticker": "3137BYKC3",
+      "name": "Freddie Mac REMICS",
+      "percent": "0.28"
+    },
+    {
+      "ticker": "67448TBF1",
+      "name": "OBX 2020-EXP1 Trust",
+      "percent": "0.28"
+    },
+    {
+      "ticker": "30711XBF0",
+      "name": "Fannie Mae Connecticut Avenue Securities",
+      "percent": "0.28"
+    },
+    {
+      "ticker": "30711XYX6",
+      "name": "Fannie Mae Connecticut Avenue Securities",
+      "percent": "0.28"
+    },
+    {
+      "ticker": "38141GVX9",
+      "name": "Goldman Sachs Group Inc/The",
+      "percent": "0.28"
+    },
+    {
+      "ticker": "3136AXP82",
+      "name": "Fannie Mae REMICS",
+      "percent": "0.28"
+    },
+    {
+      "ticker": "3137G0CG2",
+      "name": "Freddie Mac Structured Agency Credit Risk Debt Notes",
+      "percent": "0.27"
+    },
+    {
+      "ticker": "VRP",
+      "name": "Invesco Variable Rate Preferred ETF",
+      "percent": "0.27"
+    },
+    {
+      "ticker": "3137F33L6",
+      "name": "Freddie Mac REMICS",
+      "percent": "0.27"
+    },
+    {
+      "ticker": "3136AMED7",
+      "name": "Fannie Mae REMICS",
+      "percent": "0.26"
+    },
+    {
+      "ticker": "31410KQS6",
+      "name": "Fannie Mae Pool",
+      "percent": "0.25"
+    },
+    {
+      "ticker": "88032WAJ5",
+      "name": "Tencent Holdings Ltd",
+      "percent": "0.25"
+    },
+    {
+      "ticker": "437084DX1",
+      "name": "Home Equity Asset Trust",
+      "percent": "0.24"
+    },
+    {
+      "ticker": "46651HBC0",
+      "name": "JP Morgan Mortgage Trust 2019-LTV3",
+      "percent": "0.23"
+    },
+    {
+      "ticker": "06051GHB8",
+      "name": "Bank of America Corp",
+      "percent": "0.23"
+    },
+    {
+      "ticker": "3137BMSH0",
+      "name": "Freddie Mac REMICS",
+      "percent": "0.23"
+    },
+    {
+      "ticker": "46849LSX0",
+      "name": "Jackson National Life Global Funding",
+      "percent": "0.22"
+    },
+    {
+      "ticker": "20453KAD7",
+      "name": "BBVA USA",
+      "percent": "0.22"
+    },
+    {
+      "ticker": "14040HBV6",
+      "name": "Capital One Financial Corp",
+      "percent": "0.22"
+    },
+    {
+      "ticker": "37045XBX3",
+      "name": "General Motors Financial Co Inc",
+      "percent": "0.22"
+    },
+    {
+      "ticker": "37045XCE4",
+      "name": "General Motors Financial Co Inc",
+      "percent": "0.22"
+    },
+    {
+      "ticker": "46185JAC2",
+      "name": "Invitation Homes 2018-SFR1 Trust",
+      "percent": "0.22"
+    },
+    {
+      "ticker": "46651DAL0",
+      "name": "JP Morgan Mortgage Trust 2019-INV2",
+      "percent": "0.22"
+    },
+    {
+      "ticker": "3137FBA89",
+      "name": "Freddie Mac Multifamily Structured Pass Through Certificates",
+      "percent": "0.21"
+    },
+    {
+      "ticker": "76119MAA7",
+      "name": "Residential Mortgage Loan Trust 2019-1",
+      "percent": "0.21"
+    },
+    {
+      "ticker": "345397YJ6",
+      "name": "Ford Motor Credit Co LLC",
+      "percent": "0.21"
+    },
+    {
+      "ticker": "46625HHA1",
+      "name": "JPMorgan Chase & Co",
+      "percent": "0.21"
+    },
+    {
+      "ticker": "67113CAL0",
+      "name": "OBX 2020-INV1 Trust",
+      "percent": "0.20"
+    },
+    {
+      "ticker": "55336VBH2",
+      "name": "MPLX LP",
+      "percent": "0.20"
+    },
+    {
+      "ticker": "903312AA4",
+      "name": "USB Realty Corp",
+      "percent": "0.19"
+    },
+    {
+      "ticker": "77846EAE5",
+      "name": "Rosslyn Portfolio Trust 2017-ROSS",
+      "percent": "0.19"
+    },
+    {
+      "ticker": "709163HV4",
+      "name": "Pennsylvania Higher Education Assistance Agency",
+      "percent": "0.17"
+    },
+    {
+      "ticker": "20268KAB6",
+      "name": "Commonbond Student Loan Trust 2017-B-GS",
+      "percent": "0.17"
+    },
+    {
+      "ticker": "3137G0KX6",
+      "name": "Freddie Mac Structured Agency Credit Risk Debt Notes",
+      "percent": "0.17"
+    },
+    {
+      "ticker": "25746UDH9",
+      "name": "Dominion Energy Inc",
+      "percent": "0.17"
+    },
+    {
+      "ticker": "67448QAV3",
+      "name": "OBX 2019-EXP1 Trust",
+      "percent": "0.16"
+    },
+    {
+      "ticker": "3137G0AL3",
+      "name": "Freddie Mac Structured Agency Credit Risk Debt Notes",
+      "percent": "0.15"
+    },
+    {
+      "ticker": "35566AAA7",
+      "name": "Freddie Mac STACR REMIC Trust 2020-DNA5",
+      "percent": "0.15"
+    },
+    {
+      "ticker": "281378AA7",
+      "name": "Edsouth Indenture No 9 LLC",
+      "percent": "0.14"
+    },
+    {
+      "ticker": "3128S5MP6",
+      "name": "Freddie Mac Non Gold Pool",
+      "percent": "0.13"
+    },
+    {
+      "ticker": "30711XAZ7",
+      "name": "Fannie Mae Connecticut Avenue Securities",
+      "percent": "0.12"
+    },
+    {
+      "ticker": "24381PAA1",
+      "name": "Deephave Residential Mortgage Trust 2019-2",
+      "percent": "0.11"
+    },
+    {
+      "ticker": "31347AUU6",
+      "name": "Freddie Mac Non Gold Pool",
+      "percent": "0.10"
+    },
+    {
+      "ticker": "AGPXX",
+      "name": "STIT - Government & Agency Portfolio",
+      "percent": "0.10"
+    },
+    {
+      "ticker": "3136B0GG5",
+      "name": "Fannie Mae REMICS",
+      "percent": "0.09"
+    },
+    {
+      "ticker": "3136ART24",
+      "name": "Fannie Mae REMICS",
+      "percent": "0.09"
+    },
+    {
+      "ticker": "46651BAL4",
+      "name": "JP Morgan Mortgage Trust 2019-6",
+      "percent": "0.08"
+    },
+    {
+      "ticker": "31410QDW8",
+      "name": "Fannie Mae Pool",
+      "percent": "0.08"
+    },
+    {
+      "ticker": "31419ALN5",
+      "name": "Fannie Mae Pool",
+      "percent": "0.07"
+    },
+    {
+      "ticker": "3128S4JW8",
+      "name": "Freddie Mac Non Gold Pool",
+      "percent": "0.07"
+    },
+    {
+      "ticker": "3137ATEJ7",
+      "name": "Freddie Mac REMICS",
+      "percent": "0.06"
+    },
+    {
+      "ticker": "14041NFD8",
+      "name": "Capital One Multi-Asset Execution Trust",
+      "percent": "0.05"
+    },
+    {
+      "ticker": "07384MYW6",
+      "name": "Bear Stearns ARM Trust 2003-7",
+      "percent": "0.05"
+    },
+    {
+      "ticker": "07384MZV7",
+      "name": "Bear Stearns ARM Trust 2003-8",
+      "percent": "0.05"
+    },
+    {
+      "ticker": "31411KLT8",
+      "name": "Fannie Mae Pool",
+      "percent": "0.05"
+    },
+    {
+      "ticker": "007036BU9",
+      "name": "Adjustable Rate Mortgage Trust 2004-2",
+      "percent": "0.05"
+    },
+    {
+      "ticker": "5899292M9",
+      "name": "Merrill Lynch Mortgage Investors Trust Series MLCC 2003-F",
+      "percent": "0.04"
+    },
+    {
+      "ticker": "92922FNJ3",
+      "name": "WaMu Mortgage Pass-Through Certificates Series 2004-AR3 Trus",
+      "percent": "0.02"
+    },
+    {
+      "ticker": "12635HAD2",
+      "name": "COMM 2014-FL5 Mortgage Trust",
+      "percent": "0.02"
+    },
+    {
+      "ticker": "59020USM8",
+      "name": "Merrill Lynch Mortgage Investors Trust Series MLMI 2005-A2",
+      "percent": "0.02"
+    },
+    {
+      "ticker": "31407MSP1",
+      "name": "Fannie Mae Pool",
+      "percent": "0.02"
+    },
+    {
+      "ticker": "3136A2TW3",
+      "name": "Fannie Mae REMICS",
+      "percent": "0.01"
+    },
+    {
+      "ticker": "31405RF84",
+      "name": "Fannie Mae Pool",
+      "percent": "0.01"
+    },
+    {
+      "ticker": "-CASH-",
+      "name": "Cash/Receivables/Payables",
+      "percent": "0.01"
+    },
+    {
+      "ticker": "125282AA1",
+      "name": "CGDBB Commercial Mortgage Trust 2017-BIOC",
+      "percent": "0.00"
+    },
+    {
+      "ticker": "95001PAG8",
+      "name": "Wells Fargo Commercial Mortgage Trust 2018-BXI",
+      "percent": "0.00"
+    }
+  ]
+}

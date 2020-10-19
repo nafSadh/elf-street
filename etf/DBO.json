@@ -1,0 +1,50 @@
+{
+  "Products": "DB Oil Fund",
+  "Ticker": "DBO",
+  "Inception": "01/05/2007",
+  "Gross Exp. Ratio": "0.78%",
+  "YTD": "-32.33",
+  "1Yr": "-22.01",
+  "3Yr": "-5.41",
+  "5Yr": "-7.93",
+  "10Yr": "-11.52",
+  "Since Incept.": "-7.93",
+  "Category": "Alternatives",
+  "SubCategory": "Commodity Sectors",
+  "ticker": "DBO",
+  "name": "DB Oil Fund",
+  "issuer": "Invesco",
+  "website": "https://www.invesco.com/us/financial-products/etfs/product-detail?audienceType=Investor&ticker=DBO",
+  "holdingDataSource": {
+    "url": "https://www.invesco.com/us/financial-products/etfs/holdings/main/holdings/0?audienceType=Investor&action=download&ticker=DBO",
+    "fileExt": "csv",
+    "transform": "invesco"
+  },
+  "holdings": [
+    {
+      "ticker": "CLH1",
+      "name": "NYMEX Light Sweet Crude Oil Future",
+      "percent": "100.007"
+    },
+    {
+      "ticker": "825252885",
+      "name": "STIT - Government & Agency Portfolio",
+      "percent": "43.945"
+    },
+    {
+      "ticker": "9127963K3",
+      "name": "United States Treasury Bill",
+      "percent": "28.222"
+    },
+    {
+      "ticker": "912796XE4",
+      "name": "United States Treasury Bill",
+      "percent": "18.811"
+    },
+    {
+      "ticker": "46138G888",
+      "name": "Invesco Treasury Collateral ETF",
+      "percent": "9.392"
+    }
+  ]
+}

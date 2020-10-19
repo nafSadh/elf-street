@@ -1,0 +1,715 @@
+{
+  "Products": "India ETF",
+  "Ticker": "PIN",
+  "Inception": "03/05/2008",
+  "Gross Exp. Ratio": "0.78%",
+  "YTD": "0.29",
+  "1Yr": "4.34",
+  "3Yr": "2.61",
+  "5Yr": "5.89",
+  "10Yr": "0.79",
+  "Since Incept.": "0.81",
+  "Category": "Bulk Beta",
+  "SubCategory": "International",
+  "ticker": "PIN",
+  "name": "India ETF",
+  "issuer": "Invesco",
+  "website": "https://www.invesco.com/us/financial-products/etfs/product-detail?audienceType=Investor&ticker=PIN",
+  "holdingDataSource": {
+    "url": "https://www.invesco.com/us/financial-products/etfs/holdings/main/holdings/0?audienceType=Investor&action=download&ticker=PIN",
+    "fileExt": "csv",
+    "transform": "invesco"
+  },
+  "holdings": [
+    {
+      "ticker": "INFO",
+      "name": "Infosys Ltd",
+      "percent": "10.663"
+    },
+    {
+      "ticker": "RIL",
+      "name": "Reliance Industries Ltd",
+      "percent": "9.098"
+    },
+    {
+      "ticker": "HDFC",
+      "name": "Housing Development Finance Corp Ltd",
+      "percent": "8.933"
+    },
+    {
+      "ticker": "TCS",
+      "name": "Tata Consultancy Services Ltd",
+      "percent": "6.818"
+    },
+    {
+      "ticker": "HUVR",
+      "name": "Hindustan Unilever Ltd",
+      "percent": "5.019"
+    },
+    {
+      "ticker": "HCLT",
+      "name": "HCL Technologies Ltd",
+      "percent": "2.363"
+    },
+    {
+      "ticker": "MSIL",
+      "name": "Maruti Suzuki India Ltd",
+      "percent": "2.246"
+    },
+    {
+      "ticker": "BHARTI",
+      "name": "Bharti Airtel Ltd",
+      "percent": "1.822"
+    },
+    {
+      "ticker": "APNT",
+      "name": "Asian Paints Ltd",
+      "percent": "1.783"
+    },
+    {
+      "ticker": "BAF",
+      "name": "Bajaj Finance Ltd",
+      "percent": "1.645"
+    },
+    {
+      "ticker": "ICICIBC",
+      "name": "ICICI Bank Ltd",
+      "percent": "1.618"
+    },
+    {
+      "ticker": "SUNP",
+      "name": "Sun Pharmaceutical Industries Ltd",
+      "percent": "1.394"
+    },
+    {
+      "ticker": "UTCEM",
+      "name": "UltraTech Cement Ltd",
+      "percent": "1.350"
+    },
+    {
+      "ticker": "ITC",
+      "name": "ITC Ltd",
+      "percent": "1.287"
+    },
+    {
+      "ticker": "DRRD",
+      "name": "Dr Reddy's Laboratories Ltd",
+      "percent": "1.218"
+    },
+    {
+      "ticker": "WPRO",
+      "name": "Wipro Ltd",
+      "percent": "1.175"
+    },
+    {
+      "ticker": "TECHM",
+      "name": "Tech Mahindra Ltd",
+      "percent": "1.079"
+    },
+    {
+      "ticker": "NEST",
+      "name": "Nestle India Ltd",
+      "percent": "1.070"
+    },
+    {
+      "ticker": "MM",
+      "name": "Mahindra & Mahindra Ltd",
+      "percent": "1.065"
+    },
+    {
+      "ticker": "LT",
+      "name": "Larsen & Toubro Ltd",
+      "percent": "1.000"
+    },
+    {
+      "ticker": "HMCL",
+      "name": "Hero MotoCorp Ltd",
+      "percent": "0.934"
+    },
+    {
+      "ticker": "BPCL",
+      "name": "Bharat Petroleum Corp Ltd",
+      "percent": "0.896"
+    },
+    {
+      "ticker": "PWGR",
+      "name": "Power Grid Corp of India Ltd",
+      "percent": "0.821"
+    },
+    {
+      "ticker": "JSTL",
+      "name": "JSW Steel Ltd",
+      "percent": "0.817"
+    },
+    {
+      "ticker": "EIM",
+      "name": "Eicher Motors Ltd",
+      "percent": "0.800"
+    },
+    {
+      "ticker": "DIVI",
+      "name": "Divi's Laboratories Ltd",
+      "percent": "0.777"
+    },
+    {
+      "ticker": "CIPLA",
+      "name": "Cipla Ltd/India",
+      "percent": "0.761"
+    },
+    {
+      "ticker": "BRIT",
+      "name": "Britannia Industries Ltd",
+      "percent": "0.720"
+    },
+    {
+      "ticker": "DABUR",
+      "name": "Dabur India Ltd",
+      "percent": "0.714"
+    },
+    {
+      "ticker": "ADSEZ",
+      "name": "Adani Ports & Special Economic Zone Ltd",
+      "percent": "0.701"
+    },
+    {
+      "ticker": "GRASIM",
+      "name": "Grasim Industries Ltd",
+      "percent": "0.686"
+    },
+    {
+      "ticker": "BJAUT",
+      "name": "Bajaj Auto Ltd",
+      "percent": "0.661"
+    },
+    {
+      "ticker": "UPLL",
+      "name": "UPL Ltd",
+      "percent": "0.659"
+    },
+    {
+      "ticker": "ICICIGI",
+      "name": "ICICI Lombard General Insurance Co Ltd",
+      "percent": "0.653"
+    },
+    {
+      "ticker": "GCPL",
+      "name": "Godrej Consumer Products Ltd",
+      "percent": "0.650"
+    },
+    {
+      "ticker": "INFOE",
+      "name": "Info Edge India Ltd",
+      "percent": "0.637"
+    },
+    {
+      "ticker": "LPC",
+      "name": "Lupin Ltd",
+      "percent": "0.620"
+    },
+    {
+      "ticker": "NTPC",
+      "name": "NTPC Ltd",
+      "percent": "0.616"
+    },
+    {
+      "ticker": "BJFIN",
+      "name": "Bajaj Finserv Ltd",
+      "percent": "0.598"
+    },
+    {
+      "ticker": "ARBP",
+      "name": "Aurobindo Pharma Ltd",
+      "percent": "0.563"
+    },
+    {
+      "ticker": "SRCM",
+      "name": "Shree Cement Ltd",
+      "percent": "0.551"
+    },
+    {
+      "ticker": "ONGC",
+      "name": "Oil & Natural Gas Corp Ltd",
+      "percent": "0.535"
+    },
+    {
+      "ticker": "PIDI",
+      "name": "Pidilite Industries Ltd",
+      "percent": "0.505"
+    },
+    {
+      "ticker": "HNDL",
+      "name": "Hindalco Industries Ltd",
+      "percent": "0.485"
+    },
+    {
+      "ticker": "COAL",
+      "name": "Coal India Ltd",
+      "percent": "0.458"
+    },
+    {
+      "ticker": "ACEM",
+      "name": "Ambuja Cements Ltd",
+      "percent": "0.448"
+    },
+    {
+      "ticker": "MRCO",
+      "name": "Marico Ltd",
+      "percent": "0.447"
+    },
+    {
+      "ticker": "IOCL",
+      "name": "Indian Oil Corp Ltd",
+      "percent": "0.445"
+    },
+    {
+      "ticker": "JUBI",
+      "name": "Jubilant Foodworks Ltd",
+      "percent": "0.442"
+    },
+    {
+      "ticker": "HAVL",
+      "name": "Havells India Ltd",
+      "percent": "0.441"
+    },
+    {
+      "ticker": "BHIN",
+      "name": "Bharti Infratel Ltd",
+      "percent": "0.413"
+    },
+    {
+      "ticker": "TATA",
+      "name": "Tata Steel Ltd",
+      "percent": "0.405"
+    },
+    {
+      "ticker": "VEDL",
+      "name": "Vedanta Ltd",
+      "percent": "0.400"
+    },
+    {
+      "ticker": "-IndiaRupe",
+      "name": "Cash/Receivables/Payables",
+      "percent": "0.386"
+    },
+    {
+      "ticker": "BIOS",
+      "name": "Biocon Ltd",
+      "percent": "0.385"
+    },
+    {
+      "ticker": "Z",
+      "name": "Zee Entertainment Enterprises Ltd",
+      "percent": "0.384"
+    },
+    {
+      "ticker": "BRGR",
+      "name": "Berger Paints India Ltd",
+      "percent": "0.370"
+    },
+    {
+      "ticker": "PIEL",
+      "name": "Piramal Enterprises Ltd",
+      "percent": "0.368"
+    },
+    {
+      "ticker": "PI",
+      "name": "PI Industries Ltd",
+      "percent": "0.349"
+    },
+    {
+      "ticker": "IPRU",
+      "name": "ICICI Prudential Life Insurance Co Ltd",
+      "percent": "0.348"
+    },
+    {
+      "ticker": "IGL",
+      "name": "Indraprastha Gas Ltd",
+      "percent": "0.347"
+    },
+    {
+      "ticker": "PLNG",
+      "name": "Petronet LNG Ltd",
+      "percent": "0.341"
+    },
+    {
+      "ticker": "INDIGO",
+      "name": "InterGlobe Aviation Ltd",
+      "percent": "0.337"
+    },
+    {
+      "ticker": "SHTF",
+      "name": "Shriram Transport Finance Co Ltd",
+      "percent": "0.318"
+    },
+    {
+      "ticker": "SBICARD",
+      "name": "SBI Cards & Payment Services Ltd",
+      "percent": "0.317"
+    },
+    {
+      "ticker": "CLGT",
+      "name": "Colgate-Palmolive India Ltd",
+      "percent": "0.311"
+    },
+    {
+      "ticker": "TRP",
+      "name": "Torrent Pharmaceuticals Ltd",
+      "percent": "0.307"
+    },
+    {
+      "ticker": "MUTH",
+      "name": "Muthoot Finance Ltd",
+      "percent": "0.300"
+    },
+    {
+      "ticker": "BIL",
+      "name": "Balkrishna Industries Ltd",
+      "percent": "0.293"
+    },
+    {
+      "ticker": "AUBANK",
+      "name": "AU Small Finance Bank Ltd",
+      "percent": "0.288"
+    },
+    {
+      "ticker": "HDFCAMC",
+      "name": "HDFC Asset Management Co Ltd",
+      "percent": "0.288"
+    },
+    {
+      "ticker": "HPCL",
+      "name": "Hindustan Petroleum Corp Ltd",
+      "percent": "0.287"
+    },
+    {
+      "ticker": "SIEM",
+      "name": "Siemens Ltd",
+      "percent": "0.285"
+    },
+    {
+      "ticker": "MSS",
+      "name": "Motherson Sumi Systems Ltd",
+      "percent": "0.283"
+    },
+    {
+      "ticker": "GAIL",
+      "name": "GAIL India Ltd",
+      "percent": "0.279"
+    },
+    {
+      "ticker": "IPCA",
+      "name": "Ipca Laboratories Ltd",
+      "percent": "0.279"
+    },
+    {
+      "ticker": "CDH",
+      "name": "Cadila Healthcare Ltd",
+      "percent": "0.278"
+    },
+    {
+      "ticker": "PAG",
+      "name": "Page Industries Ltd",
+      "percent": "0.278"
+    },
+    {
+      "ticker": "MPHL",
+      "name": "Mphasis Ltd",
+      "percent": "0.274"
+    },
+    {
+      "ticker": "EMBASSY",
+      "name": "Embassy Office Parks REIT",
+      "percent": "0.272"
+    },
+    {
+      "ticker": "LTI",
+      "name": "Larsen & Toubro Infotech Ltd",
+      "percent": "0.262"
+    },
+    {
+      "ticker": "DLFU",
+      "name": "DLF Ltd",
+      "percent": "0.254"
+    },
+    {
+      "ticker": "VOLT",
+      "name": "Voltas Ltd",
+      "percent": "0.243"
+    },
+    {
+      "ticker": "BHFC",
+      "name": "Bharat Forge Ltd",
+      "percent": "0.241"
+    },
+    {
+      "ticker": "BOS",
+      "name": "Bosch Ltd",
+      "percent": "0.235"
+    },
+    {
+      "ticker": "ACC",
+      "name": "ACC Ltd",
+      "percent": "0.226"
+    },
+    {
+      "ticker": "MRF",
+      "name": "MRF Ltd",
+      "percent": "0.220"
+    },
+    {
+      "ticker": "CCRI",
+      "name": "Container Corp Of India Ltd",
+      "percent": "0.219"
+    },
+    {
+      "ticker": "ADE",
+      "name": "Adani Enterprises Ltd",
+      "percent": "0.213"
+    },
+    {
+      "ticker": "FB",
+      "name": "Federal Bank Ltd",
+      "percent": "0.203"
+    },
+    {
+      "ticker": "SRF",
+      "name": "SRF Ltd",
+      "percent": "0.202"
+    },
+    {
+      "ticker": "OFSS",
+      "name": "Oracle Financial Services Software Ltd",
+      "percent": "0.196"
+    },
+    {
+      "ticker": "LICHF",
+      "name": "LIC Housing Finance Ltd",
+      "percent": "0.196"
+    },
+    {
+      "ticker": "MMFS",
+      "name": "Mahindra & Mahindra Financial Services Ltd",
+      "percent": "0.195"
+    },
+    {
+      "ticker": "GNP",
+      "name": "Glenmark Pharmaceuticals Ltd",
+      "percent": "0.183"
+    },
+    {
+      "ticker": "RECL",
+      "name": "REC Ltd",
+      "percent": "0.180"
+    },
+    {
+      "ticker": "UBBL",
+      "name": "United Breweries Ltd",
+      "percent": "0.177"
+    },
+    {
+      "ticker": "ALKEM",
+      "name": "Alkem Laboratories Ltd",
+      "percent": "0.172"
+    },
+    {
+      "ticker": "POWF",
+      "name": "Power Finance Corp Ltd",
+      "percent": "0.171"
+    },
+    {
+      "ticker": "NMDC",
+      "name": "NMDC Ltd",
+      "percent": "0.171"
+    },
+    {
+      "ticker": "KNPL",
+      "name": "Kansai Nerolac Paints Ltd",
+      "percent": "0.171"
+    },
+    {
+      "ticker": "RBK",
+      "name": "RBL Bank Ltd",
+      "percent": "0.170"
+    },
+    {
+      "ticker": "BHE",
+      "name": "Bharat Electronics Ltd",
+      "percent": "0.170"
+    },
+    {
+      "ticker": "GLXO",
+      "name": "GlaxoSmithKline Pharmaceuticals Ltd",
+      "percent": "0.169"
+    },
+    {
+      "ticker": "BYRCS",
+      "name": "Bayer CropScience Ltd/India",
+      "percent": "0.167"
+    },
+    {
+      "ticker": "BJHI",
+      "name": "Bajaj Holdings & Investment Ltd",
+      "percent": "0.166"
+    },
+    {
+      "ticker": "WHIRL",
+      "name": "Whirlpool of India Ltd",
+      "percent": "0.166"
+    },
+    {
+      "ticker": "TVSL",
+      "name": "TVS Motor Co Ltd",
+      "percent": "0.165"
+    },
+    {
+      "ticker": "TPWR",
+      "name": "Tata Power Co Ltd/The",
+      "percent": "0.162"
+    },
+    {
+      "ticker": "TCOM",
+      "name": "Tata Communications Ltd",
+      "percent": "0.157"
+    },
+    {
+      "ticker": "CIFC",
+      "name": "Cholamandalam Investment and Finance Co Ltd",
+      "percent": "0.155"
+    },
+    {
+      "ticker": "CRIN",
+      "name": "Coromandel International Ltd",
+      "percent": "0.148"
+    },
+    {
+      "ticker": "BATA",
+      "name": "Bata India Ltd",
+      "percent": "0.138"
+    },
+    {
+      "ticker": "CSTRL",
+      "name": "Castrol India Ltd",
+      "percent": "0.137"
+    },
+    {
+      "ticker": "GUJGA",
+      "name": "Gujarat Gas Ltd",
+      "percent": "0.134"
+    },
+    {
+      "ticker": "HZ",
+      "name": "Hindustan Zinc Ltd",
+      "percent": "0.129"
+    },
+    {
+      "ticker": "IHFL",
+      "name": "Indiabulls Housing Finance Ltd",
+      "percent": "0.129"
+    },
+    {
+      "ticker": "HMN",
+      "name": "Emami Ltd",
+      "percent": "0.121"
+    },
+    {
+      "ticker": "NHPC",
+      "name": "NHPC Ltd",
+      "percent": "0.119"
+    },
+    {
+      "ticker": "ABB",
+      "name": "ABB India Ltd",
+      "percent": "0.116"
+    },
+    {
+      "ticker": "EXID",
+      "name": "Exide Industries Ltd",
+      "percent": "0.113"
+    },
+    {
+      "ticker": "TPW",
+      "name": "Torrent Power Ltd",
+      "percent": "0.112"
+    },
+    {
+      "ticker": "GILL",
+      "name": "Gillette India Ltd",
+      "percent": "0.109"
+    },
+    {
+      "ticker": "NAM",
+      "name": "Nippon Life India Asset Management Ltd",
+      "percent": "0.105"
+    },
+    {
+      "ticker": "KKC",
+      "name": "Cummins India Ltd",
+      "percent": "0.102"
+    },
+    {
+      "ticker": "SUNTV",
+      "name": "Sun TV Network Ltd",
+      "percent": "0.100"
+    },
+    {
+      "ticker": "OBER",
+      "name": "Oberoi Realty Ltd",
+      "percent": "0.098"
+    },
+    {
+      "ticker": "DALBHARA I",
+      "name": "Dalmia Bharat Ltd",
+      "percent": "0.094"
+    },
+    {
+      "ticker": "SAIL",
+      "name": "Steel Authority of India Ltd",
+      "percent": "0.088"
+    },
+    {
+      "ticker": "LTFH",
+      "name": "L&T Finance Holdings Ltd",
+      "percent": "0.087"
+    },
+    {
+      "ticker": "GDSP",
+      "name": "Godrej Industries Ltd",
+      "percent": "0.073"
+    },
+    {
+      "ticker": "IRCTC",
+      "name": "Indian Railway Catering & Tourism Corp Ltd",
+      "percent": "0.071"
+    },
+    {
+      "ticker": "JSW",
+      "name": "JSW Energy Ltd",
+      "percent": "0.064"
+    },
+    {
+      "ticker": "OINL",
+      "name": "Oil India Ltd",
+      "percent": "0.063"
+    },
+    {
+      "ticker": "YES",
+      "name": "Yes Bank Ltd",
+      "percent": "0.058"
+    },
+    {
+      "ticker": "1563121D I",
+      "name": "Hemisphere Properties India Ltd",
+      "percent": "0.048"
+    },
+    {
+      "ticker": "ZR2766916",
+      "name": "Britannia Industries Ltd",
+      "percent": "0.008"
+    },
+    {
+      "ticker": "AGPXX",
+      "name": "STIT - Government & Agency Portfolio",
+      "percent": "0.002"
+    }
+  ]
+}

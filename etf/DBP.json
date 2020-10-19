@@ -1,0 +1,65 @@
+{
+  "Products": "DB Precious Metals Fund",
+  "Ticker": "DBP",
+  "Inception": "01/05/2007",
+  "Gross Exp. Ratio": "0.76%",
+  "YTD": "23.77",
+  "1Yr": "28.16",
+  "3Yr": "11.73",
+  "5Yr": "9.23",
+  "10Yr": "1.61",
+  "Since Incept.": "6.15",
+  "Category": "Alternatives",
+  "SubCategory": "Commodity Sectors",
+  "ticker": "DBP",
+  "name": "DB Precious Metals Fund",
+  "issuer": "Invesco",
+  "website": "https://www.invesco.com/us/financial-products/etfs/product-detail?audienceType=Investor&ticker=DBP",
+  "holdingDataSource": {
+    "url": "https://www.invesco.com/us/financial-products/etfs/holdings/main/holdings/0?audienceType=Investor&action=download&ticker=DBP",
+    "fileExt": "csv",
+    "transform": "invesco"
+  },
+  "holdings": [
+    {
+      "ticker": "GCG1",
+      "name": "COMEX Gold 100 Troy Ounces Future",
+      "percent": "78.257"
+    },
+    {
+      "ticker": "825252885",
+      "name": "STIT - Government & Agency Portfolio",
+      "percent": "44.726"
+    },
+    {
+      "ticker": "SIK1",
+      "name": "COMEX Silver Future",
+      "percent": "21.910"
+    },
+    {
+      "ticker": "9127963K3",
+      "name": "United States Treasury Bill",
+      "percent": "14.942"
+    },
+    {
+      "ticker": "912796TU3",
+      "name": "United States Treasury Bill",
+      "percent": "11.954"
+    },
+    {
+      "ticker": "912796XE4",
+      "name": "United States Treasury Bill",
+      "percent": "11.951"
+    },
+    {
+      "ticker": "46138G888",
+      "name": "Invesco Treasury Collateral ETF",
+      "percent": "10.432"
+    },
+    {
+      "ticker": "9127962Z1",
+      "name": "United States Treasury Bill",
+      "percent": "5.977"
+    }
+  ]
+}

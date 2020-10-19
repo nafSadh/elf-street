@@ -1,0 +1,50 @@
+{
+  "Products": "DB Silver Fund",
+  "Ticker": "DBS",
+  "Inception": "01/05/2007",
+  "Gross Exp. Ratio": "0.79%",
+  "YTD": "29.97",
+  "1Yr": "36.37",
+  "3Yr": "10.27",
+  "5Yr": "8.21",
+  "10Yr": "-1.16",
+  "Since Incept.": "2.94",
+  "Category": "Alternatives",
+  "SubCategory": "Commodity Sectors",
+  "ticker": "DBS",
+  "name": "DB Silver Fund",
+  "issuer": "Invesco",
+  "website": "https://www.invesco.com/us/financial-products/etfs/product-detail?audienceType=Investor&ticker=DBS",
+  "holdingDataSource": {
+    "url": "https://www.invesco.com/us/financial-products/etfs/holdings/main/holdings/0?audienceType=Investor&action=download&ticker=DBS",
+    "fileExt": "csv",
+    "transform": "invesco"
+  },
+  "holdings": [
+    {
+      "ticker": "SIK1",
+      "name": "COMEX Silver Future",
+      "percent": "100.048"
+    },
+    {
+      "ticker": "825252885",
+      "name": "STIT - Government & Agency Portfolio",
+      "percent": "45.254"
+    },
+    {
+      "ticker": "9127963J6",
+      "name": "United States Treasury Bill",
+      "percent": "25.218"
+    },
+    {
+      "ticker": "9127963K3",
+      "name": "United States Treasury Bill",
+      "percent": "21.615"
+    },
+    {
+      "ticker": "9127962Z1",
+      "name": "United States Treasury Bill",
+      "percent": "7.206"
+    }
+  ]
+}

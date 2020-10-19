@@ -1,0 +1,140 @@
+{
+  "Products": "S&P SmallCap Utilities & Communication Services ETF",
+  "Ticker": "PSCU",
+  "Inception": "04/07/2010",
+  "Gross Exp. Ratio": "0.29%",
+  "YTD": "-14.32",
+  "1Yr": "-13.17",
+  "3Yr": "-3.43",
+  "5Yr": "6.55",
+  "10Yr": "8.74",
+  "Since Incept.": "8.89",
+  "Category": "Bulk Beta",
+  "SubCategory": "Small Cap Sectors",
+  "ticker": "PSCU",
+  "name": "S&P SmallCap Utilities & Communication Services ETF",
+  "issuer": "Invesco",
+  "website": "https://www.invesco.com/us/financial-products/etfs/product-detail?audienceType=Investor&ticker=PSCU",
+  "holdingDataSource": {
+    "url": "https://www.invesco.com/us/financial-products/etfs/holdings/main/holdings/0?audienceType=Investor&action=download&ticker=PSCU",
+    "fileExt": "csv",
+    "transform": "invesco"
+  },
+  "holdings": [
+    {
+      "ticker": "IRDM",
+      "name": "Iridium Communications Inc",
+      "percent": "10.662"
+    },
+    {
+      "ticker": "AWR",
+      "name": "American States Water Co",
+      "percent": "9.335"
+    },
+    {
+      "ticker": "CCOI",
+      "name": "Cogent Communications Holdings Inc",
+      "percent": "8.381"
+    },
+    {
+      "ticker": "CPK",
+      "name": "Chesapeake Utilities Corp",
+      "percent": "7.724"
+    },
+    {
+      "ticker": "SHEN",
+      "name": "Shenandoah Telecommunications Co",
+      "percent": "7.414"
+    },
+    {
+      "ticker": "TTGT",
+      "name": "TechTarget Inc",
+      "percent": "5.253"
+    },
+    {
+      "ticker": "GLUU",
+      "name": "Glu Mobile Inc",
+      "percent": "4.752"
+    },
+    {
+      "ticker": "VG",
+      "name": "Vonage Holdings Corp",
+      "percent": "4.497"
+    },
+    {
+      "ticker": "CWT",
+      "name": "California Water Service Group",
+      "percent": "4.449"
+    },
+    {
+      "ticker": "NWN",
+      "name": "Northwest Natural Holding Co",
+      "percent": "4.210"
+    },
+    {
+      "ticker": "AVA",
+      "name": "Avista Corp",
+      "percent": "4.150"
+    },
+    {
+      "ticker": "SJI",
+      "name": "South Jersey Industries Inc",
+      "percent": "4.136"
+    },
+    {
+      "ticker": "QNST",
+      "name": "QuinStreet Inc",
+      "percent": "4.117"
+    },
+    {
+      "ticker": "CBB",
+      "name": "Cincinnati Bell Inc",
+      "percent": "4.068"
+    },
+    {
+      "ticker": "SCHL",
+      "name": "Scholastic Corp",
+      "percent": "3.408"
+    },
+    {
+      "ticker": "SSP",
+      "name": "EW Scripps Co/The",
+      "percent": "3.172"
+    },
+    {
+      "ticker": "ATNI",
+      "name": "ATN International Inc",
+      "percent": "2.813"
+    },
+    {
+      "ticker": "MDP",
+      "name": "Meredith Corp",
+      "percent": "2.538"
+    },
+    {
+      "ticker": "CNSL",
+      "name": "Consolidated Communications Holdings Inc",
+      "percent": "2.064"
+    },
+    {
+      "ticker": "GCI",
+      "name": "Gannett Co Inc",
+      "percent": "1.017"
+    },
+    {
+      "ticker": "MCS",
+      "name": "Marcus Corp/The",
+      "percent": "0.903"
+    },
+    {
+      "ticker": "SPOK",
+      "name": "Spok Holdings Inc",
+      "percent": "0.902"
+    },
+    {
+      "ticker": "AGPXX",
+      "name": "STIT - Government & Agency Portfolio",
+      "percent": "0.038"
+    }
+  ]
+}

@@ -1,0 +1,336 @@
+{
+  "wtListingID": "2927365",
+  "name": "WisdomTree Cloud Computing Fund",
+  "wtDivisionID": "1",
+  "wtDivision": "WT-US",
+  "fundCategoryTier1": "Thematic",
+  "fundCategoryTier2": null,
+  "fundCategoryTier3": null,
+  "fundCurrency": "USD",
+  "IsCurrencyHedged": "0",
+  "MgtStyle": "Passive",
+  "IsActivelyManaged": null,
+  "fundStructureID": "1",
+  "fundStructure": "ETFs",
+  "leverageFactor": 1,
+  "url": "https://www.wisdomtree.com/etfs/thematic/WCLD",
+  "displayName": "Cloud Computing",
+  "inceptionDt": "2019-09-06",
+  "inception_DateTime": "2019-09-06T00:00:00Z",
+  "useOfIncome": "N/A",
+  "IsHedged": "Non-Hedged",
+  "relatedIndex": "EMCLOUD",
+  "expenseRatio": 0.0045,
+  "grossExpenseRatio": 0.0045,
+  "mgmntExpenseRatio": 0,
+  "distType": "Distribution",
+  "bloombergTicker": "WCLD",
+  "WKN": null,
+  "ISIN": "US97717Y6914",
+  "exchangeTicker": null,
+  "baseCCY": "USD",
+  "listingCCY": "USD",
+  "ProductNameXPX": "WisdomTree Cloud Computing Fund",
+  "NAV": 47.06999969482422,
+  "NAV_Date": "2020-10-16",
+  "Price": null,
+  "SharesOutstanding": 19550004,
+  "AUM": 920183936,
+  "AUM_DateTime": "2020-10-16T00:00:00Z",
+  "dailyChange": 0.0008505209698341787,
+  "CountryExp": "United States|Israel|Canada|Australia",
+  "Region": null,
+  "NAV_YTD": 0.841549277305603,
+  "MV_YTD": null,
+  "Net_Assets": 798616512,
+  "MorningStarRating": null,
+  "MorningStarRating_DateTime": null,
+  "FactsheetURL": "https://www.wisdomtree.com/-/media/us-media-files/documents/resource-library/fund-fact-sheets/us-equity/en-us_thematic_wcld.pdf",
+  "IndexURL": null,
+  "ProspectusURL": "https://hosted.rightprospectus.com/WisdomTree/Fund.aspx?cu=97717Y691&dt=P",
+  "AUMusd": 920183932.41,
+  "NAVusd": 47.07,
+  "ETFFactsURL": null,
+  "QuarterlyDisclosureURL": null,
+  "KIIDURL": null,
+  "ticker": "WCLD",
+  "issuer": "WisdomTree",
+  "holdingDataSource": {
+    "file": "./data/stored/WCLD.csv",
+    "fileExt": "csv",
+    "transform": "wisdomtree"
+  },
+  "website": "https://www.wisdomtree.com/etfs/thematic/WCLD",
+  "holdings": [
+    {
+      "ticker": "ZM",
+      "name": "Zoom Video Communications-A",
+      "percent": 2.7683
+    },
+    {
+      "ticker": "FSLY",
+      "name": "Fastly Inc - Class A",
+      "percent": 2.43958
+    },
+    {
+      "ticker": "NET",
+      "name": "Cloudflare Inc - Class A",
+      "percent": 2.3602000000000003
+    },
+    {
+      "ticker": "SPT",
+      "name": "Sprout Social Inc - Class A",
+      "percent": 2.32314
+    },
+    {
+      "ticker": "PCTY",
+      "name": "Paylocity Holding Corp",
+      "percent": 2.25255
+    },
+    {
+      "ticker": "DDOG",
+      "name": "Datadog Inc - Class A",
+      "percent": 2.13693
+    },
+    {
+      "ticker": "CRWD",
+      "name": "Crowdstrike Holdings Inc - A",
+      "percent": 2.13415
+    },
+    {
+      "ticker": "BL",
+      "name": "Blackline Inc",
+      "percent": 2.11303
+    },
+    {
+      "ticker": "TWLO",
+      "name": "Twilio Inc - A",
+      "percent": 2.1124400000000003
+    },
+    {
+      "ticker": "CRM",
+      "name": "Salesforce.com Inc",
+      "percent": 2.10792
+    },
+    {
+      "ticker": "ZEN",
+      "name": "Zendesk Inc",
+      "percent": 2.1036099999999998
+    },
+    {
+      "ticker": "PLAN",
+      "name": "Anaplan Inc",
+      "percent": 2.09836
+    },
+    {
+      "ticker": "PAYC",
+      "name": "Paycom Software Inc",
+      "percent": 2.05825
+    },
+    {
+      "ticker": "AVLR",
+      "name": "Avalara Inc",
+      "percent": 2.03083
+    },
+    {
+      "ticker": "SQ",
+      "name": "Square Inc - A",
+      "percent": 1.95805
+    },
+    {
+      "ticker": "WDAY",
+      "name": "Workday Inc",
+      "percent": 1.93995
+    },
+    {
+      "ticker": "ESTC",
+      "name": "Elastic Nv",
+      "percent": 1.93546
+    },
+    {
+      "ticker": "TENB",
+      "name": "Tenable Holdings Inc",
+      "percent": 1.92851
+    },
+    {
+      "ticker": "OKTA",
+      "name": "Okta Inc",
+      "percent": 1.92188
+    },
+    {
+      "ticker": "BILL",
+      "name": "Bill.Com Holdings Inc",
+      "percent": 1.91755
+    },
+    {
+      "ticker": "TEAM",
+      "name": "Atlassian Corp Plc-Class A",
+      "percent": 1.9080599999999999
+    },
+    {
+      "ticker": "VEEV",
+      "name": "Veeva Systems Inc-Class A",
+      "percent": 1.8702900000000002
+    },
+    {
+      "ticker": "NOW",
+      "name": "ServiceNow Inc",
+      "percent": 1.85434
+    },
+    {
+      "ticker": "SMAR",
+      "name": "Smartsheet Inc-Class A",
+      "percent": 1.85337
+    },
+    {
+      "ticker": "FIVN",
+      "name": "Five9 Inc",
+      "percent": 1.84954
+    },
+    {
+      "ticker": "HUBS",
+      "name": "Hubspot Inc",
+      "percent": 1.83259
+    },
+    {
+      "ticker": "ZS",
+      "name": "Zscaler Inc",
+      "percent": 1.8124999999999998
+    },
+    {
+      "ticker": "DOMO",
+      "name": "Domo Inc - Class B",
+      "percent": 1.79115
+    },
+    {
+      "ticker": "DOCU",
+      "name": "Docusign Inc",
+      "percent": 1.7890599999999999
+    },
+    {
+      "ticker": "NEWR",
+      "name": "New Relic Inc",
+      "percent": 1.78484
+    },
+    {
+      "ticker": "ADBE",
+      "name": "Adobe Inc",
+      "percent": 1.76367
+    },
+    {
+      "ticker": "WK",
+      "name": "Workiva Inc",
+      "percent": 1.7566499999999998
+    },
+    {
+      "ticker": "WORK",
+      "name": "Slack Technologies Inc- Cl A",
+      "percent": 1.7530400000000002
+    },
+    {
+      "ticker": "SHOP",
+      "name": "Shopify Inc - Class A",
+      "percent": 1.7383300000000002
+    },
+    {
+      "ticker": "MIME",
+      "name": "Mimecast Ltd",
+      "percent": 1.69943
+    },
+    {
+      "ticker": "PD",
+      "name": "Pagerduty Inc",
+      "percent": 1.6808400000000001
+    },
+    {
+      "ticker": "PYPL",
+      "name": "PayPal Holdings Inc",
+      "percent": 1.67241
+    },
+    {
+      "ticker": "COUP",
+      "name": "Coupa Software Inc",
+      "percent": 1.6533
+    },
+    {
+      "ticker": "WIX",
+      "name": "Wix.Com Ltd",
+      "percent": 1.64722
+    },
+    {
+      "ticker": "QTWO",
+      "name": "Q2 Holdings Inc",
+      "percent": 1.6399400000000002
+    },
+    {
+      "ticker": "BOX",
+      "name": "Box Inc - Class A",
+      "percent": 1.63706
+    },
+    {
+      "ticker": "PFPT",
+      "name": "Proofpoint Inc",
+      "percent": 1.6308900000000002
+    },
+    {
+      "ticker": "SVMK",
+      "name": "SVMK Inc",
+      "percent": 1.6258499999999998
+    },
+    {
+      "ticker": "DBX",
+      "name": "Dropbox Inc-Class A",
+      "percent": 1.6048099999999998
+    },
+    {
+      "ticker": "RP",
+      "name": "Realpage Inc",
+      "percent": 1.6024699999999998
+    },
+    {
+      "ticker": "APPF",
+      "name": "Appfolio Inc",
+      "percent": 1.5997500000000002
+    },
+    {
+      "ticker": "RNG",
+      "name": "Ringcentral Inc-Class A",
+      "percent": 1.5840699999999999
+    },
+    {
+      "ticker": "MDLA",
+      "name": "Medallia Inc",
+      "percent": 1.5805300000000002
+    },
+    {
+      "ticker": "QLYS",
+      "name": "Qualys Inc",
+      "percent": 1.57389
+    },
+    {
+      "ticker": "YEXT",
+      "name": "Yext Inc",
+      "percent": 1.54353
+    },
+    {
+      "ticker": "TWOU",
+      "name": "2U Inc",
+      "percent": 1.53924
+    },
+    {
+      "ticker": "EVBG",
+      "name": "Everbridge Inc",
+      "percent": 1.53705
+    },
+    {
+      "ticker": "ZUO",
+      "name": "Zuora Inc - Class A",
+      "percent": 1.51624
+    },
+    {
+      "ticker": "PS",
+      "name": "Pluralsight Inc - A",
+      "percent": 1.4333500000000001
+    }
+  ]
+}

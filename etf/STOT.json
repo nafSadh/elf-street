@@ -1,0 +1,1842 @@
+{
+  "ticker": "STOT",
+  "name": "SPDR® DoubleLine® Short Duration Total Return Tactical ETF",
+  "ISIN": "US78470P2002",
+  "CUSIP": "78470P200",
+  "Inception Date": "Apr 13 2016",
+  "Gross Expense Ratio": "0.50%",
+  "* Net Expense Ratio": "0.45%",
+  "Asset Class": "Fixed Income",
+  "Distribution Frequency": "Monthly",
+  "Primary Exchange": "Bats Global Markets",
+  "Primary Index": "Bloomberg Barclays U.S. Aggregate 1-3 Year Index",
+  "Primary Index Ticker": "LU13TRUU",
+  "issuer": "SSGA",
+  "website": "https://www.ssga.com/us/en/individual/etfs/funds/spdr-doubleline-short-duration-total-return-tactical-etf-stot",
+  "holdingDataSource": {
+    "fileUrl": "https://www.ssga.com/us/en/individual/etfs/library-content/products/fund-data/etfs/us/holdings-daily-us-en-stot.xlsx",
+    "fileExt": "xlsx",
+    "transform": "spdr"
+  },
+  "holdings": [
+    {
+      "name": "US TREASURY N/B 2.75 09/15/2021",
+      "percent": "6.449865"
+    },
+    {
+      "name": "TREASURY BILL 0 12/24/2020",
+      "percent": "5.260817"
+    },
+    {
+      "name": "TREASURY BILL 0 04/01/2021",
+      "percent": "4.151956"
+    },
+    {
+      "name": "US TREASURY N/B 1.625 04/30/2023",
+      "percent": "3.833914"
+    },
+    {
+      "name": "TREASURY BILL 0 02/04/2021",
+      "percent": "3.737469"
+    },
+    {
+      "name": "US TREASURY N/B 2.25 12/31/2023",
+      "percent": "3.261128"
+    },
+    {
+      "name": "US DOLLARS",
+      "percent": "3.151988"
+    },
+    {
+      "name": "TREASURY BILL 0 11/27/2020",
+      "percent": "2.769025"
+    },
+    {
+      "name": "FANNIE MAE 2 09/01/2035",
+      "percent": "2.124490"
+    },
+    {
+      "name": "FANNIE MAE 1.5 10/01/2035",
+      "percent": "2.111342"
+    },
+    {
+      "name": "TREASURY BILL 0 03/11/2021",
+      "percent": "2.076147"
+    },
+    {
+      "name": "FREDDIE MAC 2 11/01/2040",
+      "percent": "1.860854"
+    },
+    {
+      "name": "FREDDIE MAC 0.6584 01/15/2041",
+      "percent": "1.386891"
+    },
+    {
+      "name": "FANNIE MAE 2.5 01/01/2032",
+      "percent": "1.228405"
+    },
+    {
+      "name": "FANNIE MAE 0.5981 11/25/2044",
+      "percent": "1.063489"
+    },
+    {
+      "name": "FANNIE MAE 2 07/01/2035",
+      "percent": "1.040720"
+    },
+    {
+      "name": "FREDDIE MAC 1.6 03/15/2043",
+      "percent": "1.021092"
+    },
+    {
+      "name": "FREDDIEMAC STRIP 0.6984 07/15/2042",
+      "percent": "0.964065"
+    },
+    {
+      "name": "FANNIE MAE 3 11/01/2033",
+      "percent": "0.949484"
+    },
+    {
+      "name": "FANNIE MAE 0.6981 06/25/2042",
+      "percent": "0.881818"
+    },
+    {
+      "name": "FANNIE MAE 2 11/25/2026",
+      "percent": "0.836212"
+    },
+    {
+      "name": "FREDDIE MAC 2 12/15/2043",
+      "percent": "0.785503"
+    },
+    {
+      "name": "FREDDIE MAC 1.75 04/15/2027",
+      "percent": "0.731151"
+    },
+    {
+      "name": "FREDDIE MAC 2 07/01/2035",
+      "percent": "0.703407"
+    },
+    {
+      "name": "Toorak Mortgage Corp. 2.7343 03/25/2023",
+      "percent": "0.702420"
+    },
+    {
+      "name": "FANNIE MAE 2 08/01/2035",
+      "percent": "0.700660"
+    },
+    {
+      "name": "FREDDIE MAC 1.5 08/01/2035",
+      "percent": "0.691021"
+    },
+    {
+      "name": "FREDDIE MAC 0.4984 07/15/2047",
+      "percent": "0.586899"
+    },
+    {
+      "name": "FANNIE MAE 0.6481 11/25/2045",
+      "percent": "0.523697"
+    },
+    {
+      "name": "CITIGROUP INC 1.269 06/01/2024",
+      "percent": "0.521251"
+    },
+    {
+      "name": "FANNIE MAE 0.4481 05/25/2048",
+      "percent": "0.447493"
+    },
+    {
+      "name": "VELOCITY COMMERCIAL CAPITAL LO 4.05 10/26/2048",
+      "percent": "0.432905"
+    },
+    {
+      "name": "FANNIE MAE 0.3981 11/25/2033",
+      "percent": "0.422034"
+    },
+    {
+      "name": "DAIMLER FINANCE NA LLC 2.3 02/12/2021",
+      "percent": "0.389874"
+    },
+    {
+      "name": "GOVERNMENT NATIONAL MORTGAGE A 0.4014 09/20/2035",
+      "percent": "0.384940"
+    },
+    {
+      "name": "FREDDIE MAC 0.4484 02/15/2048",
+      "percent": "0.373309"
+    },
+    {
+      "name": "FREDDIE MAC 0.4984 11/15/2042",
+      "percent": "0.360473"
+    },
+    {
+      "name": "FANNIE MAE 0.4481 06/25/2048",
+      "percent": "0.360440"
+    },
+    {
+      "name": "FREDDIE MAC 3.5 09/01/2032",
+      "percent": "0.359899"
+    },
+    {
+      "name": "WASHINGTON MUTUAL MORTGAGE PAS 0.5581 10/25/2035",
+      "percent": "0.358238"
+    },
+    {
+      "name": "JP MORGAN CHASE & CO 3.207 04/01/2023",
+      "percent": "0.349276"
+    },
+    {
+      "name": "HYUNDAI CAPITAL AMERICA 2.85 11/01/2022",
+      "percent": "0.347921"
+    },
+    {
+      "name": "CROWN CASTLE INTL CORP 1.35 07/15/2025",
+      "percent": "0.347684"
+    },
+    {
+      "name": "FANNIE MAE 0.4481 06/25/2048",
+      "percent": "0.347109"
+    },
+    {
+      "name": "WELLS FARGO BANK NA 1.654 06/02/2024",
+      "percent": "0.346767"
+    },
+    {
+      "name": "EBAY INC 2.75 01/30/2023",
+      "percent": "0.345011"
+    },
+    {
+      "name": "Bristol-Myers Squibb Co 2.6 05/16/2022",
+      "percent": "0.344311"
+    },
+    {
+      "name": "FANNIE MAE 0.4481 12/25/2047",
+      "percent": "0.340930"
+    },
+    {
+      "name": "BAT INTL FINANCE PLC 1.668 03/25/2026",
+      "percent": "0.339742"
+    },
+    {
+      "name": "BANK OF NOVA SCOTIA 0.55 09/15/2023",
+      "percent": "0.339735"
+    },
+    {
+      "name": "CARDINAL HEALTH INC 2.616 06/15/2022",
+      "percent": "0.339560"
+    },
+    {
+      "name": "AMERICAN EXPRESS CO 3.7 11/05/2021",
+      "percent": "0.339541"
+    },
+    {
+      "name": "Welltower Inc 3.625 03/15/2024",
+      "percent": "0.338839"
+    },
+    {
+      "name": "Microchip Technology 3.922 06/01/2021",
+      "percent": "0.338804"
+    },
+    {
+      "name": "Carrier Global Corporation 1.923 02/15/2023",
+      "percent": "0.338701"
+    },
+    {
+      "name": "Union Pacific Corp 3.2 06/08/2021",
+      "percent": "0.338456"
+    },
+    {
+      "name": "Penske Truck Leasing Co LP 2.7 11/01/2024",
+      "percent": "0.338384"
+    },
+    {
+      "name": "BANK OF AMERICA CORP 1.038 03/05/2024",
+      "percent": "0.338013"
+    },
+    {
+      "name": "OMNICOM GROUP INC 3.625 05/01/2022",
+      "percent": "0.337641"
+    },
+    {
+      "name": "MORGAN STANLEY 1.1878 07/22/2022",
+      "percent": "0.337528"
+    },
+    {
+      "name": "VERIZON COMMUNICATIONS 1.3801 05/15/2025",
+      "percent": "0.337454"
+    },
+    {
+      "name": "Entergy Corp 0.9 09/15/2025",
+      "percent": "0.337396"
+    },
+    {
+      "name": "AT&T INC 4.45 04/01/2024",
+      "percent": "0.337263"
+    },
+    {
+      "name": "FANNIE MAE 0.5981 03/25/2046",
+      "percent": "0.337005"
+    },
+    {
+      "name": "Public Service Enterprise Group 3.85 06/01/2023",
+      "percent": "0.336792"
+    },
+    {
+      "name": "NEW RESIDENTIAL MORTGAGE LOAN 4.335 07/25/2060",
+      "percent": "0.336678"
+    },
+    {
+      "name": "SUMITOMO MITSUI FINL GRP 2.058 07/14/2021",
+      "percent": "0.336675"
+    },
+    {
+      "name": "CINTAS CORPORATION NO. 2 2.9 04/01/2022",
+      "percent": "0.336417"
+    },
+    {
+      "name": "REPUBLIC SERVICES INC 2.5 08/15/2024",
+      "percent": "0.335466"
+    },
+    {
+      "name": "ABBVIE INC 2.3 11/21/2022",
+      "percent": "0.333597"
+    },
+    {
+      "name": "FREDDIE MAC 3 09/15/2045",
+      "percent": "0.325316"
+    },
+    {
+      "name": "FANNIE MAE 0.3981 06/25/2037",
+      "percent": "0.324527"
+    },
+    {
+      "name": "TORONTO-DOMINION BANK 0.5683 01/27/2023",
+      "percent": "0.323177"
+    },
+    {
+      "name": "AJAX MORTGAGE LOAN TRUST 4.375 06/25/2058",
+      "percent": "0.320916"
+    },
+    {
+      "name": "CIGNA CORP 3.4 09/17/2021",
+      "percent": "0.320123"
+    },
+    {
+      "name": "GLAXOSMITHKLINE CAPITAL 0.534 10/01/2023",
+      "percent": "0.319511"
+    },
+    {
+      "name": "GOVERNMENT NATIONAL MORTGAGE A 0.4567 11/20/2043",
+      "percent": "0.318279"
+    },
+    {
+      "name": "TEXTAINER MARINE CONTAINERS LI 3.96 04/20/2044",
+      "percent": "0.311533"
+    },
+    {
+      "name": "SAPPHIRE AVIATION FINANCE I LI 3.228 03/15/2040",
+      "percent": "0.286641"
+    },
+    {
+      "name": "ASTRAZENECA PLC 2.375 11/16/2020",
+      "percent": "0.277345"
+    },
+    {
+      "name": "BSPRT ISSUER, LTD. 1.2984 05/15/2029",
+      "percent": "0.273080"
+    },
+    {
+      "name": "PayPal Holdings Inc 2.2 09/26/2022",
+      "percent": "0.269281"
+    },
+    {
+      "name": "SIMON PROPERTY GRP LP 2 09/13/2024",
+      "percent": "0.265271"
+    },
+    {
+      "name": "MCDONALD'S CORP 2.625 01/15/2022",
+      "percent": "0.263446"
+    },
+    {
+      "name": "PRUDENTIAL FINANCIAL INC 3.5 05/15/2024",
+      "percent": "0.260337"
+    },
+    {
+      "name": "FANNIE MAE 3 08/25/2041",
+      "percent": "0.259913"
+    },
+    {
+      "name": "Upstart Securitization Trust 2.322 04/22/2030",
+      "percent": "0.259804"
+    },
+    {
+      "name": "FANNIE MAE 3 11/01/2036",
+      "percent": "0.255307"
+    },
+    {
+      "name": "SAUDI INTERNATIONAL BOND 2.875 03/04/2023",
+      "percent": "0.254553"
+    },
+    {
+      "name": "SCHLUMBERGER HLDGS CORP 3.75 05/01/2024",
+      "percent": "0.251996"
+    },
+    {
+      "name": "MACQUARIE BANK LIMITED 2.1 10/17/2022",
+      "percent": "0.250028"
+    },
+    {
+      "name": "Exxon Mobil Corp 1.571 04/15/2023",
+      "percent": "0.245796"
+    },
+    {
+      "name": "Capital One Financial Corp 3.2 01/30/2023",
+      "percent": "0.245032"
+    },
+    {
+      "name": "Marsh & McLennan 1.4179 12/29/2021",
+      "percent": "0.228635"
+    },
+    {
+      "name": "DOW CHEMICAL CO/THE 4.493 11/15/2025",
+      "percent": "0.220417"
+    },
+    {
+      "name": "FREDDIE MAC 1.5 09/15/2026",
+      "percent": "0.217385"
+    },
+    {
+      "name": "DOLLAR TREE INC 3.7 05/15/2023",
+      "percent": "0.215786"
+    },
+    {
+      "name": "REPUBLIC OF COLOMBIA 2.625 03/15/2023",
+      "percent": "0.214428"
+    },
+    {
+      "name": "ANTHEM INC 2.5 11/21/2020",
+      "percent": "0.208092"
+    },
+    {
+      "name": "FREDDIE MAC 3 11/15/2043",
+      "percent": "0.202074"
+    },
+    {
+      "name": "CITIGROUP COMMERCIAL MORTGAGE 4.35 05/10/2036",
+      "percent": "0.184763"
+    },
+    {
+      "name": "TEMASEK FINANCIAL I LTD 2.375 01/23/2023",
+      "percent": "0.180752"
+    },
+    {
+      "name": "Avolon 3.625 05/01/2022",
+      "percent": "0.180528"
+    },
+    {
+      "name": "ONGC VIDESH LTD 3.75 05/07/2023",
+      "percent": "0.179830"
+    },
+    {
+      "name": "COUNTRYWIDE ALTERNATIVE LOAN T 6 01/25/2037",
+      "percent": "0.178738"
+    },
+    {
+      "name": "Marlette Funding Trust 2.39 12/17/2029",
+      "percent": "0.178614"
+    },
+    {
+      "name": "WAKALA GLOBAL SUKUK BHD 4.646 07/06/2021",
+      "percent": "0.177713"
+    },
+    {
+      "name": "Truist Financial Corp 2.2 03/16/2023",
+      "percent": "0.176435"
+    },
+    {
+      "name": "FANNIE MAE 0.6181 12/25/2040",
+      "percent": "0.175778"
+    },
+    {
+      "name": "BX TRUST 2.0994 03/15/2037",
+      "percent": "0.175291"
+    },
+    {
+      "name": "Royalty Pharma 0.75 09/02/2023",
+      "percent": "0.173266"
+    },
+    {
+      "name": "EXPORT-IMPORT BK THAILND 1.1061 05/23/2024",
+      "percent": "0.172481"
+    },
+    {
+      "name": "DTE Energy Co 2.529 10/01/2024",
+      "percent": "0.169612"
+    },
+    {
+      "name": "HONEYWELL INTERNATIONAL 0.483 08/19/2022",
+      "percent": "0.166478"
+    },
+    {
+      "name": "UBS COMMERCIAL MORTGAGE TRUST 2.2524 02/15/2032",
+      "percent": "0.166155"
+    },
+    {
+      "name": "VALERO ENERGY CORP 1.2 03/15/2024",
+      "percent": "0.165482"
+    },
+    {
+      "name": "FANNIE MAE 3 09/25/2041",
+      "percent": "0.165474"
+    },
+    {
+      "name": "TARGET CORP 2.9 01/15/2022",
+      "percent": "0.164514"
+    },
+    {
+      "name": "ISRAEL ELECTRIC CORP 6.875 06/21/2023",
+      "percent": "0.159026"
+    },
+    {
+      "name": "SINGTEL GROUP TREASURY 3.25 06/30/2025",
+      "percent": "0.152416"
+    },
+    {
+      "name": "OVERSEA-CHINESE BANKING 4.25 06/19/2024",
+      "percent": "0.151981"
+    },
+    {
+      "name": "CVS HEALTH CORP 3.7 03/09/2023",
+      "percent": "0.150786"
+    },
+    {
+      "name": "LG CHEM LTD 3.25 10/15/2024",
+      "percent": "0.148803"
+    },
+    {
+      "name": "PSA INTERNATIONAL PTE LT 2.5 04/12/2026",
+      "percent": "0.148321"
+    },
+    {
+      "name": "ABU DHABI GOVT INT'L 2.5 04/16/2025",
+      "percent": "0.148168"
+    },
+    {
+      "name": "BAIDU INC 3.075 04/07/2025",
+      "percent": "0.147608"
+    },
+    {
+      "name": "BANCO DE CREDITO DEL PER 6.125 04/24/2027",
+      "percent": "0.146773"
+    },
+    {
+      "name": "CNPC GENERAL CAPITAL LTD 3.4 04/16/2023",
+      "percent": "0.146208"
+    },
+    {
+      "name": "TELEFONICA CHILE SA 3.875 10/12/2022",
+      "percent": "0.145814"
+    },
+    {
+      "name": "PERUSAHAAN LISTRIK NEGAR 5.5 11/22/2021",
+      "percent": "0.145475"
+    },
+    {
+      "name": "CNOOC 3 05/09/2023",
+      "percent": "0.145212"
+    },
+    {
+      "name": "INVERSIONES CMPC SA 4.5 04/25/2022",
+      "percent": "0.145151"
+    },
+    {
+      "name": "GRUPO BIMBO SAB DE CV 4.5 01/25/2022",
+      "percent": "0.144358"
+    },
+    {
+      "name": "HPHT FINANCE 19 LTD 2.875 11/05/2024",
+      "percent": "0.144218"
+    },
+    {
+      "name": "KOREA EAST-WEST POWER CO 1.75 05/06/2025",
+      "percent": "0.143278"
+    },
+    {
+      "name": "CIMB BANK BHD 3.263 03/15/2022",
+      "percent": "0.142894"
+    },
+    {
+      "name": "PETRONAS CAPITAL LTD 3.125 03/18/2022",
+      "percent": "0.142765"
+    },
+    {
+      "name": "CODELCO INC 3.875 11/03/2021",
+      "percent": "0.142484"
+    },
+    {
+      "name": "ENN ENERGY HOLDINGS LTD 3.25 07/24/2022",
+      "percent": "0.142378"
+    },
+    {
+      "name": "GRUPO INVERSIONES SURAME 5.7 05/18/2021",
+      "percent": "0.142255"
+    },
+    {
+      "name": "Saudi Arabian Oil Co 2.75 04/16/2022",
+      "percent": "0.142111"
+    },
+    {
+      "name": "CNAC HK FINBRIDGE CO LTD 3.5 07/19/2022",
+      "percent": "0.142065"
+    },
+    {
+      "name": "POSCO 2.375 11/12/2022",
+      "percent": "0.141836"
+    },
+    {
+      "name": "REPUBLIC OF INDONESIA 4.875 05/05/2021",
+      "percent": "0.141757"
+    },
+    {
+      "name": "MALAYAN BANKING BHD 3.905 10/29/2026",
+      "percent": "0.141638"
+    },
+    {
+      "name": "TENCENT HOLDINGS LTD 1.81 01/26/2026",
+      "percent": "0.141627"
+    },
+    {
+      "name": "The AES Corporation 7.95 05/11/2026",
+      "percent": "0.141580"
+    },
+    {
+      "name": "UNITED OVERSEAS BANK LTD 2.88 03/08/2027",
+      "percent": "0.141305"
+    },
+    {
+      "name": "KOREA DEVELOPMENT BANK 1.25 06/03/2025",
+      "percent": "0.141029"
+    },
+    {
+      "name": "BDO UNIBANK INC 2.625 10/24/2021",
+      "percent": "0.140628"
+    },
+    {
+      "name": "UPL Corp Ltd 3.25 10/13/2021",
+      "percent": "0.140360"
+    },
+    {
+      "name": "STATE OF QATAR 2.375 06/02/2021",
+      "percent": "0.140039"
+    },
+    {
+      "name": "NONGHYUP BANK 1.25 07/20/2025",
+      "percent": "0.139896"
+    },
+    {
+      "name": "SINOPEC GRP DEV 2018 2 09/29/2021",
+      "percent": "0.139840"
+    },
+    {
+      "name": "BANCO BRADESCO (CAYMAN) 5.9 01/16/2021",
+      "percent": "0.139678"
+    },
+    {
+      "name": "BBVA BANCOMER SA 5.35 11/12/2029",
+      "percent": "0.139503"
+    },
+    {
+      "name": "JD.com 3.125 04/29/2021",
+      "percent": "0.139487"
+    },
+    {
+      "name": "NACIONAL FINANCIERA SNC 3.375 11/05/2020",
+      "percent": "0.138829"
+    },
+    {
+      "name": "AXIATA SPV1 LABUAN LTD 3.466 11/19/2020",
+      "percent": "0.138789"
+    },
+    {
+      "name": "BANCO DO BRASIL (CAYMAN) 8.5 10/29/2049",
+      "percent": "0.138465"
+    },
+    {
+      "name": "BANGKOK BANK PCL/HK 4.8 10/18/2020",
+      "percent": "0.138465"
+    },
+    {
+      "name": "TPG REAL ESTATE FINANCE 1.3005 10/15/2034",
+      "percent": "0.136720"
+    },
+    {
+      "name": "MONDELEZ INTERNATIONAL 0.625 07/01/2022",
+      "percent": "0.135594"
+    },
+    {
+      "name": "FANNIE MAE 2.7 05/01/2044",
+      "percent": "0.129855"
+    },
+    {
+      "name": "DTE Energy Co 1.05 06/01/2025",
+      "percent": "0.129016"
+    },
+    {
+      "name": "ANTHEM INC 3.3 01/15/2023",
+      "percent": "0.125020"
+    },
+    {
+      "name": "MF1 Ltd 2.1984 07/15/2035",
+      "percent": "0.122148"
+    },
+    {
+      "name": "DOLLAR TREE INC 4 05/15/2025",
+      "percent": "0.121321"
+    },
+    {
+      "name": "FANNIE MAE 3 06/25/2041",
+      "percent": "0.119926"
+    },
+    {
+      "name": "Oracle Corp 2.5 04/01/2025",
+      "percent": "0.119170"
+    },
+    {
+      "name": "UNIFIN FINANCIERA SA DE 7 01/15/2025",
+      "percent": "0.116397"
+    },
+    {
+      "name": "FREDDIE MAC 1.75 07/15/2030",
+      "percent": "0.113641"
+    },
+    {
+      "name": "EMPRESA ELEC GUACOLDA 4.56 04/30/2025",
+      "percent": "0.113557"
+    },
+    {
+      "name": "CANTOR COMMERCIAL REAL ESTATE 4.4114 05/15/2052",
+      "percent": "0.113191"
+    },
+    {
+      "name": "Marlette Funding Trust 3.13 07/16/2029",
+      "percent": "0.112509"
+    },
+    {
+      "name": "FS Rialto 2019-FL1 Issuer, Ltd 1.3521 12/16/2036",
+      "percent": "0.109700"
+    },
+    {
+      "name": "EMPRESA ELECTRICA ANGAMO 4.875 05/25/2029",
+      "percent": "0.108734"
+    },
+    {
+      "name": "CANTOR COMMERCIAL REAL ESTATE 4.1396 05/15/2052",
+      "percent": "0.108708"
+    },
+    {
+      "name": "BANCO RESERVAS REP DOMIN 7 02/01/2023",
+      "percent": "0.108262"
+    },
+    {
+      "name": "Micron 2.497 04/24/2023",
+      "percent": "0.108216"
+    },
+    {
+      "name": "MORGAN STANLEY CAPITAL I TRUST 1.4484 05/15/2036",
+      "percent": "0.105788"
+    },
+    {
+      "name": "BANCO SANTANDER CHILE 2.5 12/15/2020",
+      "percent": "0.104343"
+    },
+    {
+      "name": "BXMT LTD 2.1005 06/15/2035",
+      "percent": "0.103207"
+    },
+    {
+      "name": "DOW CHEMICAL CO/THE 3.766 11/15/2020",
+      "percent": "0.097155"
+    },
+    {
+      "name": "DBGS MORTGAGE TRUST 0.9514 05/15/2035",
+      "percent": "0.096538"
+    },
+    {
+      "name": "Laurel Road Prime Student Loan 2.34 10/25/2048",
+      "percent": "0.095998"
+    },
+    {
+      "name": "DOMINICAN REPUBLIC 7.5 05/06/2021",
+      "percent": "0.094965"
+    },
+    {
+      "name": "GS MORTGAGE SECURITIES TRUST 3.551 04/10/2034",
+      "percent": "0.090142"
+    },
+    {
+      "name": "ARBOR REALTY COLLATERALIZED LO 1.5484 02/15/2035",
+      "percent": "0.089010"
+    },
+    {
+      "name": "CLNC 2019-FL1, Ltd 1.7063 08/20/2035",
+      "percent": "0.088776"
+    },
+    {
+      "name": "Select Medical 6.25 08/15/2026",
+      "percent": "0.088559"
+    },
+    {
+      "name": "LoanCore 2018-CRE1 Issuer, Ltd 1.5184 04/15/2034",
+      "percent": "0.088358"
+    },
+    {
+      "name": "BANK 1.357 03/15/2063",
+      "percent": "0.084499"
+    },
+    {
+      "name": "PFP III 1.2021 04/14/2037",
+      "percent": "0.082754"
+    },
+    {
+      "name": "MF1 2019-FL2 Ltd. 1.2781 12/25/2034",
+      "percent": "0.082675"
+    },
+    {
+      "name": "NLY Commercial Mortgage Trust 1.7524 02/15/2036",
+      "percent": "0.082471"
+    },
+    {
+      "name": "BARCLAYS COMMERCIAL MORTGAGE S 1.1784 08/15/2036",
+      "percent": "0.081416"
+    },
+    {
+      "name": "BXMT LTD 1.8005 02/16/2037",
+      "percent": "0.080727"
+    },
+    {
+      "name": "BX TRUST 1.4484 08/15/2036",
+      "percent": "0.079917"
+    },
+    {
+      "name": "MORGAN STANLEY CAPITAL I TRUST 1.8984 05/15/2036",
+      "percent": "0.078652"
+    },
+    {
+      "name": "GREAT WOLF TRUST 2.8804 12/15/2036",
+      "percent": "0.078083"
+    },
+    {
+      "name": "SIX FLAGS ENTERTAINMENT 7 07/01/2025",
+      "percent": "0.077919"
+    },
+    {
+      "name": "William Carter 5.5 05/15/2025",
+      "percent": "0.077270"
+    },
+    {
+      "name": "BX TRUST 0.9484 05/15/2030",
+      "percent": "0.076595"
+    },
+    {
+      "name": "JP MORGAN CHASE COMMERCIAL MOR 1.4978 06/13/2052",
+      "percent": "0.075835"
+    },
+    {
+      "name": "BRAEMAR HOTELS & RESORTS TRUST 0.9684 06/15/2035",
+      "percent": "0.075615"
+    },
+    {
+      "name": "REPUBLIC OF PERU 2.392 01/23/2026",
+      "percent": "0.073352"
+    },
+    {
+      "name": "BFLD Trust 2.3884 10/15/2034",
+      "percent": "0.073345"
+    },
+    {
+      "name": "GS MORTGAGE SECURITIES TRUST 2.15 07/15/2032",
+      "percent": "0.073085"
+    },
+    {
+      "name": "JP MORGAN CHASE COMMERCIAL MOR 1.1084 07/15/2036",
+      "percent": "0.072232"
+    },
+    {
+      "name": "PayPal Holdings Inc 1.35 06/01/2023",
+      "percent": "0.070882"
+    },
+    {
+      "name": "CREDIT SUISSE MORTGAGE TRUST 1.1284 05/15/2036",
+      "percent": "0.070682"
+    },
+    {
+      "name": "CANTOR COMMERCIAL REAL ESTATE 2.05 08/21/2032",
+      "percent": "0.069272"
+    },
+    {
+      "name": "Bausch Health 6.25 02/15/2029",
+      "percent": "0.069129"
+    },
+    {
+      "name": "BDS Ltd 1.2505 08/15/2036",
+      "percent": "0.068815"
+    },
+    {
+      "name": "LoanCore 2019-CRE2 Issuer, Ltd 1.6484 05/15/2036",
+      "percent": "0.068770"
+    },
+    {
+      "name": "Charter Communications 5.75 02/15/2026",
+      "percent": "0.068478"
+    },
+    {
+      "name": "STARWOOD COMMERCIAL MORTGAGE T 1.5524 07/15/2038",
+      "percent": "0.068346"
+    },
+    {
+      "name": "LoanCore 2018-CRE1 Issuer, Ltd 1.1984 04/15/2034",
+      "percent": "0.067861"
+    },
+    {
+      "name": "BARCLAYS COMMERCIAL MORTGAGE S 0.8704 03/15/2037",
+      "percent": "0.067347"
+    },
+    {
+      "name": "NATIXIS COMMERCIAL MORTGAGE SE 1.3019 07/15/2033",
+      "percent": "0.067224"
+    },
+    {
+      "name": "NATIXIS COMMERCIAL MORTGAGE SE 1.6019 07/15/2033",
+      "percent": "0.067071"
+    },
+    {
+      "name": "GS MORTGAGE SECURITIES TRUST 1.0484 07/15/2031",
+      "percent": "0.066970"
+    },
+    {
+      "name": "SHELTER GROWTH CRE 2.4484 05/15/2036",
+      "percent": "0.066268"
+    },
+    {
+      "name": "ATRIUM HOTEL PORTFOLIO TRUST 1.0984 06/15/2035",
+      "percent": "0.066021"
+    },
+    {
+      "name": "Cheniere Energy Partners, L.P. 5.625 10/01/2026",
+      "percent": "0.065233"
+    },
+    {
+      "name": "JP MORGAN CHASE COMMERCIAL MOR 2.7395 07/05/2033",
+      "percent": "0.065001"
+    },
+    {
+      "name": "GS MORTGAGE SECURITIES TRUST 1.7484 07/15/2031",
+      "percent": "0.064911"
+    },
+    {
+      "name": "Tempo Acquisition 6.75 06/01/2025",
+      "percent": "0.064295"
+    },
+    {
+      "name": "WELLS FARGO COMMERCIAL MORTGAG 1.5269 06/15/2052",
+      "percent": "0.063881"
+    },
+    {
+      "name": "CGDBB COMMERCIAL MORTGAGE TRUS 0.9384 07/15/2032",
+      "percent": "0.063296"
+    },
+    {
+      "name": "NATIXIS COMMERCIAL MORTGAGE SE 1.1024 06/15/2035",
+      "percent": "0.062600"
+    },
+    {
+      "name": "LoanCore 2018-CRE1 Issuer, Ltd 1.2784 05/15/2028",
+      "percent": "0.061568"
+    },
+    {
+      "name": "LEVEL 3 COMMUNICATIONS 4.25 07/01/2028",
+      "percent": "0.060157"
+    },
+    {
+      "name": "CITIGROUP COMMERCIAL MORTGAGE 1.9484 12/15/2036",
+      "percent": "0.059797"
+    },
+    {
+      "name": "COMM MORTGAGE TRUST 1.548 10/15/2031",
+      "percent": "0.059525"
+    },
+    {
+      "name": "ARCONIC CORP 6.125 02/15/2028",
+      "percent": "0.059360"
+    },
+    {
+      "name": "READYCAP COMMERCIAL MORTGAGE T 1.1481 03/25/2034",
+      "percent": "0.058986"
+    },
+    {
+      "name": "Marathon CRE Issuer Ltd 1.3005 06/15/2028",
+      "percent": "0.058421"
+    },
+    {
+      "name": "USA Compression Partners 6.875 09/01/2027",
+      "percent": "0.056460"
+    },
+    {
+      "name": "CAMB COMMERCIAL MORTGAGE TRUST 1.2184 12/15/2037",
+      "percent": "0.054878"
+    },
+    {
+      "name": "MSCG TRUST 1.0484 10/15/2037",
+      "percent": "0.054831"
+    },
+    {
+      "name": "HCA 5.375 09/01/2026",
+      "percent": "0.054809"
+    },
+    {
+      "name": "TEMPUR SEALY INTL INC 5.5 06/15/2026",
+      "percent": "0.054483"
+    },
+    {
+      "name": "COTT HOLDINGS INC 5.5 04/01/2025",
+      "percent": "0.053900"
+    },
+    {
+      "name": "Parexel International Corp 6.375 09/01/2025",
+      "percent": "0.053803"
+    },
+    {
+      "name": "PFP III 1.1221 04/14/2036",
+      "percent": "0.053187"
+    },
+    {
+      "name": "VIKING CRUISES LTD 5.875 09/15/2027",
+      "percent": "0.052740"
+    },
+    {
+      "name": "CFX ESCROW CORP 6.375 02/15/2026",
+      "percent": "0.051870"
+    },
+    {
+      "name": "Parkland Fuel Corp 5.875 07/15/2027",
+      "percent": "0.051461"
+    },
+    {
+      "name": "MGM GROWTH PROPERTIES 6.75 05/01/2025",
+      "percent": "0.051294"
+    },
+    {
+      "name": "Boyd Gaming 4.75 12/01/2027",
+      "percent": "0.051252"
+    },
+    {
+      "name": "ORTHO-CLINICAL DIAGNOSTICS 7.25 02/01/2028",
+      "percent": "0.050795"
+    },
+    {
+      "name": "Sunoco LP 6 04/15/2027",
+      "percent": "0.050734"
+    },
+    {
+      "name": "BHMS MORTGAGE TRUST 1.3984 07/15/2035",
+      "percent": "0.050017"
+    },
+    {
+      "name": "OPEN TEXT CORP 3.875 02/15/2028",
+      "percent": "0.049928"
+    },
+    {
+      "name": "MORGAN STANLEY CAPITAL I TRUST 1.2984 07/15/2035",
+      "percent": "0.049797"
+    },
+    {
+      "name": "Allied Universal 9.75 07/15/2027",
+      "percent": "0.049579"
+    },
+    {
+      "name": "Twin River Worldwide Holdings 6.75 06/01/2027",
+      "percent": "0.049190"
+    },
+    {
+      "name": "ARBOR REALTY COLLATERALIZED LO 1.2984 06/15/2028",
+      "percent": "0.048657"
+    },
+    {
+      "name": "Builders First Source 6.75 06/01/2027",
+      "percent": "0.048657"
+    },
+    {
+      "name": "BEACON ROOFING SUPPLY INC 4.875 11/01/2025",
+      "percent": "0.048617"
+    },
+    {
+      "name": "BERRY PLASTICS GROUP INC 5.625 07/15/2027",
+      "percent": "0.047965"
+    },
+    {
+      "name": "Transdigm 6.25 03/15/2026",
+      "percent": "0.047532"
+    },
+    {
+      "name": "OneMain Financial Issuance Tru 2.37 09/14/2032",
+      "percent": "0.047073"
+    },
+    {
+      "name": "COMM MORTGAGE TRUST 1.1484 09/15/2033",
+      "percent": "0.047007"
+    },
+    {
+      "name": "Silgan Holdings Inc 4.125 02/01/2028",
+      "percent": "0.046971"
+    },
+    {
+      "name": "BENCHMARK MORTGAGE TRUST 0.6554 01/15/2051",
+      "percent": "0.046465"
+    },
+    {
+      "name": "BHP Trust 1.6707 08/15/2036",
+      "percent": "0.046291"
+    },
+    {
+      "name": "KRAFT HEINZ FOODS CO 5.2 07/15/2045",
+      "percent": "0.046129"
+    },
+    {
+      "name": "BHP Trust 1.1234 08/15/2036",
+      "percent": "0.045769"
+    },
+    {
+      "name": "EQM MIDSTREAM PARTNERS L 6.5 07/01/2027",
+      "percent": "0.045143"
+    },
+    {
+      "name": "JP MORGAN CHASE COMMERCIAL MOR 1.1484 06/15/2032",
+      "percent": "0.044966"
+    },
+    {
+      "name": "Lions Gate Entertainment 6.375 02/01/2024",
+      "percent": "0.044691"
+    },
+    {
+      "name": "MEG ENERGY CORP 7.125 02/01/2027",
+      "percent": "0.043883"
+    },
+    {
+      "name": "TENET HEALTHCARE CORP 5.125 11/01/2027",
+      "percent": "0.043720"
+    },
+    {
+      "name": "ENERGIZER HOLDINGS INC 4.75 06/15/2028",
+      "percent": "0.043492"
+    },
+    {
+      "name": "DTE Energy Co 2.25 11/01/2022",
+      "percent": "0.043029"
+    },
+    {
+      "name": "Live Nation 4.75 10/15/2027",
+      "percent": "0.042596"
+    },
+    {
+      "name": "UBS COMMERCIAL MORTGAGE TRUST 1.711 06/15/2050",
+      "percent": "0.042100"
+    },
+    {
+      "name": "TRANSOCEAN INC 6.875 02/01/2027",
+      "percent": "0.040761"
+    },
+    {
+      "name": "ICAHN ENTERPRISES/FIN 6.25 05/15/2026",
+      "percent": "0.040356"
+    },
+    {
+      "name": "CAESARS ENTERTAINMENT OPERA 6.25 07/01/2025",
+      "percent": "0.040227"
+    },
+    {
+      "name": "GFL ENVIRONMENTAL INC 5.125 12/15/2026",
+      "percent": "0.040223"
+    },
+    {
+      "name": "MOTEL 6 TRUST 2.2984 08/15/2034",
+      "percent": "0.040036"
+    },
+    {
+      "name": "PennyMac Financial Services, Inc 5.375 10/15/2025",
+      "percent": "0.039725"
+    },
+    {
+      "name": "LEVEL 3 COMMUNICATIONS 4.625 09/15/2027",
+      "percent": "0.039408"
+    },
+    {
+      "name": "Parsley Energy LLC 5.625 10/15/2027",
+      "percent": "0.039359"
+    },
+    {
+      "name": "ASTRAZENECA PLC 2.375 06/12/2022",
+      "percent": "0.039285"
+    },
+    {
+      "name": "Mattamy Group Corp 4.625 03/01/2030",
+      "percent": "0.038905"
+    },
+    {
+      "name": "JBS USA 6.75 02/15/2028",
+      "percent": "0.038873"
+    },
+    {
+      "name": "EXANTAS CAPITAL CORP 1.1505 04/15/2036",
+      "percent": "0.038593"
+    },
+    {
+      "name": "TARGA RESOURCES PARTNERS 5.5 03/01/2030",
+      "percent": "0.038590"
+    },
+    {
+      "name": "HESS MIDSTREAM PARTNERS 5.125 06/15/2028",
+      "percent": "0.038494"
+    },
+    {
+      "name": "PRIME SECURITY SERVICES BOR 3.375 08/31/2027",
+      "percent": "0.038102"
+    },
+    {
+      "name": "VERSCEND HOLDING CORP 9.75 08/15/2026",
+      "percent": "0.037710"
+    },
+    {
+      "name": "GRAY TELEVISION INC 7 05/15/2027",
+      "percent": "0.037642"
+    },
+    {
+      "name": "MGM GROWTH PROPERTIES 5.75 02/01/2027",
+      "percent": "0.037613"
+    },
+    {
+      "name": "Live Nation 6.5 05/15/2027",
+      "percent": "0.037343"
+    },
+    {
+      "name": "CSAIL COMMERCIAL MORTGAGE TRUS 1.0116 09/15/2050",
+      "percent": "0.036992"
+    },
+    {
+      "name": "JCI Power Solutions 6.25 05/15/2026",
+      "percent": "0.036942"
+    },
+    {
+      "name": "THE BANCORP COMMERCIAL MORTGAG 1.1524 03/15/2036",
+      "percent": "0.036748"
+    },
+    {
+      "name": "LANDRY'S INC 6.75 10/15/2024",
+      "percent": "0.036607"
+    },
+    {
+      "name": "United Continental Holdings 6.5 06/20/2027",
+      "percent": "0.036325"
+    },
+    {
+      "name": "Post Holdings 4.625 04/15/2030",
+      "percent": "0.035919"
+    },
+    {
+      "name": "MPH ACQUISITION HOLDINGS 7.125 06/01/2024",
+      "percent": "0.035914"
+    },
+    {
+      "name": "GCI 4.75 10/15/2028",
+      "percent": "0.035900"
+    },
+    {
+      "name": "IRB Holding Corp / Arby's 6.75 02/15/2026",
+      "percent": "0.035676"
+    },
+    {
+      "name": "GFL ENVIRONMENTAL INC 3.75 08/01/2025",
+      "percent": "0.035253"
+    },
+    {
+      "name": "Novolex 6.875 01/15/2025",
+      "percent": "0.035092"
+    },
+    {
+      "name": "MORGAN STANLEY CAPITAL I TRUST 0.8932 12/15/2049",
+      "percent": "0.034834"
+    },
+    {
+      "name": "GARDA WORLD SECURITY CORP 8.75 05/15/2025",
+      "percent": "0.034811"
+    },
+    {
+      "name": "GS MORTGAGE SECURITIES TRUST 1.75 07/15/2032",
+      "percent": "0.034231"
+    },
+    {
+      "name": "Gogo Inc 9.875 05/01/2024",
+      "percent": "0.033277"
+    },
+    {
+      "name": "PILGRIM'S PRIDE CORP 5.875 09/30/2027",
+      "percent": "0.033258"
+    },
+    {
+      "name": "Tervita Corp 7.625 12/01/2021",
+      "percent": "0.033188"
+    },
+    {
+      "name": "Radiology Partners 9.25 02/01/2028",
+      "percent": "0.033180"
+    },
+    {
+      "name": "Charter Communications 4.75 03/01/2030",
+      "percent": "0.033143"
+    },
+    {
+      "name": "Staples 7.5 04/15/2026",
+      "percent": "0.032900"
+    },
+    {
+      "name": "FORD MOTOR COMPANY 9 04/22/2025",
+      "percent": "0.032783"
+    },
+    {
+      "name": "PERFORMANCE FOOD GROUP INC 5.5 10/15/2027",
+      "percent": "0.032614"
+    },
+    {
+      "name": "CenturyLink 5.125 12/15/2026",
+      "percent": "0.032485"
+    },
+    {
+      "name": "NUSTAR LOGISTICS LP 6.375 10/01/2030",
+      "percent": "0.032459"
+    },
+    {
+      "name": "GFL ENVIRONMENTAL INC 4.25 06/01/2025",
+      "percent": "0.032226"
+    },
+    {
+      "name": "SunCoke Energy Partners 7.5 06/15/2025",
+      "percent": "0.031804"
+    },
+    {
+      "name": "KIK Custom Products Inc. 9 08/15/2023",
+      "percent": "0.031680"
+    },
+    {
+      "name": "PIKE CORP 5.5 09/01/2028",
+      "percent": "0.031622"
+    },
+    {
+      "name": "BANK 0.9665 07/15/2060",
+      "percent": "0.031446"
+    },
+    {
+      "name": "Springleaf Finance Corp 6.625 01/15/2028",
+      "percent": "0.031201"
+    },
+    {
+      "name": "ZAYO GROUP LLC/ZAYO CAP 4 03/01/2027",
+      "percent": "0.030962"
+    },
+    {
+      "name": "JP MORGAN CHASE COMMERCIAL MOR 0.8188 12/15/2049",
+      "percent": "0.029760"
+    },
+    {
+      "name": "AssuredPartners Inc 8 05/15/2027",
+      "percent": "0.029701"
+    },
+    {
+      "name": "Builders First Source 5 03/01/2030",
+      "percent": "0.029620"
+    },
+    {
+      "name": "Calpine 5.125 03/15/2028",
+      "percent": "0.028978"
+    },
+    {
+      "name": "BOMBARDIER INC 6 10/15/2022",
+      "percent": "0.028643"
+    },
+    {
+      "name": "CenturyLink 4 02/15/2027",
+      "percent": "0.028527"
+    },
+    {
+      "name": "Avaya 6.125 09/15/2028",
+      "percent": "0.028506"
+    },
+    {
+      "name": "DISH NETWORK CORP 5.875 11/15/2024",
+      "percent": "0.028491"
+    },
+    {
+      "name": "NATIONSTAR MORT/CAP CORP 5.5 08/15/2028",
+      "percent": "0.028333"
+    },
+    {
+      "name": "Scientific Games 7.25 11/15/2029",
+      "percent": "0.028200"
+    },
+    {
+      "name": "COMM MORTGAGE TRUST 0.8353 08/10/2048",
+      "percent": "0.028093"
+    },
+    {
+      "name": "LIFEPOINT HEALTH INC 4.375 02/15/2027",
+      "percent": "0.027901"
+    },
+    {
+      "name": "EQT CORP 7.875 02/01/2025",
+      "percent": "0.027408"
+    },
+    {
+      "name": "Transdigm 5.5 11/15/2027",
+      "percent": "0.027399"
+    },
+    {
+      "name": "WESTERN MIDSTREAM OPERAT 4.1 02/01/2025",
+      "percent": "0.027252"
+    },
+    {
+      "name": "CSAIL COMMERCIAL MORTGAGE TRUS 0.855 11/15/2050",
+      "percent": "0.026833"
+    },
+    {
+      "name": "Allied Universal 6.625 07/15/2026",
+      "percent": "0.026079"
+    },
+    {
+      "name": "HILCORP ENERGY I/HILCORP 6.25 11/01/2028",
+      "percent": "0.025980"
+    },
+    {
+      "name": "CEDAR FAIR LP 5.25 07/15/2029",
+      "percent": "0.025915"
+    },
+    {
+      "name": "Uber Technologies 7.5 09/15/2027",
+      "percent": "0.025867"
+    },
+    {
+      "name": "ICAHN ENTERPRISES/FIN 5.25 05/15/2027",
+      "percent": "0.025822"
+    },
+    {
+      "name": "Griffon Corp 5.75 03/01/2028",
+      "percent": "0.025670"
+    },
+    {
+      "name": "WPX ENERGY 5.875 06/15/2028",
+      "percent": "0.025290"
+    },
+    {
+      "name": "Alliant 6.75 10/15/2027",
+      "percent": "0.025193"
+    },
+    {
+      "name": "Cincinnati Bell 7 07/15/2024",
+      "percent": "0.025155"
+    },
+    {
+      "name": "Gates Global 6.25 01/15/2026",
+      "percent": "0.025120"
+    },
+    {
+      "name": "Extended Stay 5.25 05/01/2025",
+      "percent": "0.024782"
+    },
+    {
+      "name": "NFP CORP 6.875 08/15/2028",
+      "percent": "0.024746"
+    },
+    {
+      "name": "VICI PROPERTIES INC 4.125 08/15/2030",
+      "percent": "0.024714"
+    },
+    {
+      "name": "Radiate HoldCo LLC 4.5 09/15/2026",
+      "percent": "0.024625"
+    },
+    {
+      "name": "PetSmart, Inc 7.125 03/15/2023",
+      "percent": "0.024413"
+    },
+    {
+      "name": "CENOVUS ENERGY INC 5.375 07/15/2025",
+      "percent": "0.024187"
+    },
+    {
+      "name": "WYNDHAM HOTELS & RESORTS 4.375 08/15/2028",
+      "percent": "0.024176"
+    },
+    {
+      "name": "BARCLAYS COMMERCIAL MORTGAGE S 2.6484 08/15/2036",
+      "percent": "0.023983"
+    },
+    {
+      "name": "ALBERTSON'S LLC 3.5 03/15/2029",
+      "percent": "0.023866"
+    },
+    {
+      "name": "BARCLAYS COMMERCIAL MORTGAGE S 3.6484 08/15/2036",
+      "percent": "0.023817"
+    },
+    {
+      "name": "EW Scripps 5.875 07/15/2027",
+      "percent": "0.023777"
+    },
+    {
+      "name": "CITIGROUP COMMERCIAL MORTGAGE 1.737 04/10/2049",
+      "percent": "0.023590"
+    },
+    {
+      "name": "ASTRAZENECA PLC 3.5 08/17/2023",
+      "percent": "0.022516"
+    },
+    {
+      "name": "CIGNA CORP 3.75 07/15/2023",
+      "percent": "0.022514"
+    },
+    {
+      "name": "LIFEPOINT HEALTH INC 6.75 04/15/2025",
+      "percent": "0.022172"
+    },
+    {
+      "name": "Rattler Midstream LP 5.625 07/15/2025",
+      "percent": "0.021610"
+    },
+    {
+      "name": "CENTENE CORP 3 10/15/2030",
+      "percent": "0.021601"
+    },
+    {
+      "name": "B&G FOODS INC 5.25 04/01/2025",
+      "percent": "0.021594"
+    },
+    {
+      "name": "Occidental Petroleum Corp 3.5 08/15/2029",
+      "percent": "0.021419"
+    },
+    {
+      "name": "Calpine 4.625 02/01/2029",
+      "percent": "0.021393"
+    },
+    {
+      "name": "Iron Mountain 4.5 02/15/2031",
+      "percent": "0.021094"
+    },
+    {
+      "name": "WPX ENERGY 4.5 01/15/2030",
+      "percent": "0.020556"
+    },
+    {
+      "name": "ATRIUM HOTEL PORTFOLIO TRUST 3.1984 12/15/2036",
+      "percent": "0.020478"
+    },
+    {
+      "name": "Dun & Bradstreet Corp 6.875 08/15/2026",
+      "percent": "0.020223"
+    },
+    {
+      "name": "Avolon 6.5 09/15/2024",
+      "percent": "0.019819"
+    },
+    {
+      "name": "APACHE CORP 4.375 10/15/2028",
+      "percent": "0.019744"
+    },
+    {
+      "name": "Occidental Petroleum Corp 6.625 09/01/2030",
+      "percent": "0.019575"
+    },
+    {
+      "name": "Gulfport Energy 6.375 05/15/2025",
+      "percent": "0.019296"
+    },
+    {
+      "name": "DIAMOND SPORTS GROUP LLC 5.375 08/15/2026",
+      "percent": "0.018537"
+    },
+    {
+      "name": "Nexstar Broadcasting 5.625 07/15/2027",
+      "percent": "0.018378"
+    },
+    {
+      "name": "PHARMACEUTICAL PRODUCT D 5 06/15/2028",
+      "percent": "0.018282"
+    },
+    {
+      "name": "MORGAN STANLEY BAML TRUST 0.602 12/15/2046",
+      "percent": "0.018263"
+    },
+    {
+      "name": "Blue Yonder 4.25 01/31/2026",
+      "percent": "0.017806"
+    },
+    {
+      "name": "Occidental Petroleum Corp 8 07/15/2025",
+      "percent": "0.017725"
+    },
+    {
+      "name": "INTELSAT JACKSON HLDG 0 10/15/2024",
+      "percent": "0.017548"
+    },
+    {
+      "name": "Transdigm 6.375 06/15/2026",
+      "percent": "0.017470"
+    },
+    {
+      "name": "CREDIT SUISSE MORTGAGE TRUST 2.0484 07/15/2032",
+      "percent": "0.017295"
+    },
+    {
+      "name": "PACIFIC GAS & ELECTRIC 5 07/01/2028",
+      "percent": "0.017288"
+    },
+    {
+      "name": "Navient Corp 5 03/15/2027",
+      "percent": "0.016596"
+    },
+    {
+      "name": "QEP RESOURCES INC 5.625 03/01/2026",
+      "percent": "0.016443"
+    },
+    {
+      "name": "KRAFT HEINZ FOODS CO 5 07/15/2035",
+      "percent": "0.016151"
+    },
+    {
+      "name": "VIKING CRUISES LTD 13 05/15/2025",
+      "percent": "0.016040"
+    },
+    {
+      "name": "GS MORTGAGE SECURITIES TRUST 1.123 08/10/2050",
+      "percent": "0.015571"
+    },
+    {
+      "name": "CARNIVAL CORP 11.5 04/01/2023",
+      "percent": "0.015349"
+    },
+    {
+      "name": "REALOGY CORP 7.625 06/15/2025",
+      "percent": "0.014767"
+    },
+    {
+      "name": "B&G FOODS INC 5.25 09/15/2027",
+      "percent": "0.014573"
+    },
+    {
+      "name": "MORGAN STANLEY BAML TRUST 1.1239 04/15/2047",
+      "percent": "0.014483"
+    },
+    {
+      "name": "CENGAGE LEARNING INC 9.5 06/15/2024",
+      "percent": "0.014459"
+    },
+    {
+      "name": "NOVELIS CORP 4.75 01/30/2030",
+      "percent": "0.014255"
+    },
+    {
+      "name": "Indigo Natural Resources LLC 6.875 02/15/2026",
+      "percent": "0.014022"
+    },
+    {
+      "name": "Antero Resources Corp 5.75 03/01/2027",
+      "percent": "0.013594"
+    },
+    {
+      "name": "APACHE CORP 4.625 11/15/2025",
+      "percent": "0.013448"
+    },
+    {
+      "name": "WF-RBS COMMERCIAL MORTGAGE TRU 0.8758 12/15/2046",
+      "percent": "0.012841"
+    },
+    {
+      "name": "BARCLAYS COMMERCIAL MORTGAGE S 1.8484 08/15/2036",
+      "percent": "0.012097"
+    },
+    {
+      "name": "PetSmart, Inc 5.875 06/01/2025",
+      "percent": "0.012086"
+    },
+    {
+      "name": "MORGAN STANLEY CAPITAL I TRUST 5.8804 10/15/2042",
+      "percent": "0.011866"
+    },
+    {
+      "name": "CSAIL COMMERCIAL MORTGAGE TRUS 1.38 06/15/2050",
+      "percent": "0.011805"
+    },
+    {
+      "name": "TRIUMPH GROUP INC 7.75 08/15/2025",
+      "percent": "0.011770"
+    },
+    {
+      "name": "GFL ENVIRONMENTAL INC 8.5 05/01/2027",
+      "percent": "0.011495"
+    },
+    {
+      "name": "Restaurant Brands International 5 10/15/2025",
+      "percent": "0.011387"
+    },
+    {
+      "name": "BARCLAYS COMMERCIAL MORTGAGE S 1.3484 08/15/2036",
+      "percent": "0.011077"
+    },
+    {
+      "name": "GTT Communications 7.875 12/31/2024",
+      "percent": "0.010930"
+    },
+    {
+      "name": "Delta Air Lines Inc 4.75 10/20/2028",
+      "percent": "0.010814"
+    },
+    {
+      "name": "ZAYO GROUP LLC/ZAYO CAP 6.125 03/01/2028",
+      "percent": "0.010753"
+    },
+    {
+      "name": "Frontier Communications Corp 5.875 10/15/2027",
+      "percent": "0.010644"
+    },
+    {
+      "name": "Telesat 6.5 10/15/2027",
+      "percent": "0.010529"
+    },
+    {
+      "name": "Peabody Energy 6 03/31/2022",
+      "percent": "0.009801"
+    },
+    {
+      "name": "GPMT LTD. 1.0562 11/21/2035",
+      "percent": "0.009384"
+    },
+    {
+      "name": "ROSSLYN PORTFOLIO TRUST 2017 R 1.939 06/15/2033",
+      "percent": "0.008850"
+    },
+    {
+      "name": "ROSSLYN PORTFOLIO TRUST 2017 R 2.239 06/15/2033",
+      "percent": "0.008807"
+    },
+    {
+      "name": "BX TRUST 1.236 09/15/2037",
+      "percent": "0.008623"
+    },
+    {
+      "name": "BARCLAYS COMMERCIAL MORTGAGE S 1.1484 10/15/2037",
+      "percent": "0.008245"
+    },
+    {
+      "name": "FHLMC MULTIFAMILY STRUCTURED P 1.4385 03/25/2023",
+      "percent": "0.007697"
+    },
+    {
+      "name": "Transdigm 8 12/15/2025",
+      "percent": "0.007568"
+    },
+    {
+      "name": "Hilton 5.75 05/01/2028",
+      "percent": "0.007394"
+    },
+    {
+      "name": "US FOODS INC 6.25 04/15/2025",
+      "percent": "0.007380"
+    },
+    {
+      "name": "Hilton 5.375 05/01/2025",
+      "percent": "0.007278"
+    },
+    {
+      "name": "GROUP 1 AUTOMOTIVE INC 4 08/15/2028",
+      "percent": "0.007023"
+    },
+    {
+      "name": "iHeartMedia Inc 8.375 05/01/2027",
+      "percent": "0.006927"
+    },
+    {
+      "name": "Kenan Advantage 7.875 07/31/2023",
+      "percent": "0.006879"
+    },
+    {
+      "name": "SOFI CONSUMER LOAN PROGRAM TRU 3.28 01/26/2026",
+      "percent": "0.005408"
+    },
+    {
+      "name": "TRANSOCEAN INC 11.5 01/30/2027",
+      "percent": "0.003765"
+    },
+    {
+      "name": "ASBURY AUTOMOTIVE GROUP 4.75 03/01/2030",
+      "percent": "0.003581"
+    },
+    {
+      "name": "JBS USA 5.75 06/15/2025",
+      "percent": "0.003557"
+    },
+    {
+      "name": "ASBURY AUTOMOTIVE GROUP 4.5 03/01/2028",
+      "percent": "0.003550"
+    },
+    {
+      "name": "VICI PROPERTIES INC 3.75 02/15/2027",
+      "percent": "0.003514"
+    },
+    {
+      "name": "Performance quoted represents past performance, which is no guarantee of future results. Investment return and principal value will fluctuate, so you may have a gain or loss when shares are sold. Current performance may be higher or lower than that quoted. Visit www.ssga.com for most recent month-end performance."
+    },
+    {
+      "name": "This analysis or any portion thereof may not be revised or changed in any way, reprinted, sold or redistributed without the written consent of SSGA."
+    },
+    {
+      "name": "Portfolio holdings, allocations and weightings are as of the date indicated, are subject to change and should not be considered a recommendation to buy individual securities. For most recent information visit www.ssga.com."
+    },
+    {
+      "name": "Important Risk Information  "
+    },
+    {
+      "name": "Investing involves risk, and you could lose money on an investment in each of SPDR® Gold Shares Trust (“GLD®”) and SPDR® Gold MiniSharesSM Trust  (“GLDMSM”), a series of the World Gold Trust (together, the “Funds”). \n\nETFs trade like stocks, are subject to investment risk, fluctuate in market value and may trade at prices above or below the ETFs’ net asset value. Brokerage commissions and ETF expenses will reduce returns.\n\nCommodities and commodity-index linked securities may be affected by changes in overall market movements, changes in interest rates, and other factors such as weather, disease, embargoes, or political and regulatory developments, as well as trading activity of speculators and arbitrageurs in the underlying commodities.\n\nFrequent trading of ETFs could significantly increase commissions and other costs such that they may offset any savings from low fees or costs.\n\nDiversification does not ensure a profit or guarantee against loss."
+    },
+    {
+      "name": "Investing in commodities entails significant risk and is not appropriate for all investors."
+    },
+    {
+      "name": "Important Information Relating to SPDR® Gold Trust (“GLD®”) and SPDR® Gold MiniSharesSM Trust (“GLDMSM”):"
+    },
+    {
+      "name": "The SPDR Gold Trust (“GLD”) has filed a registration statement (including a prospectus) with the Securities and Exchange Commission (“SEC”) for GLD. The World Gold Trust has filed a registration statement (including a prospectus) with the SEC for GLDM. Before you invest, you should read the prospectus in the registration statement and other documents each Fund has filed with the SEC for more complete information about each Fund and these offerings. Please see each Fund’s prospectus for a detailed discussion of the risks of investing in each Fund’s shares."
+    },
+    {
+      "name": "The GLD prospectus is available by clicking"
+    },
+    {
+      "name": "The GLDM prospectus is available by clicking "
+    },
+    {
+      "name": "You may get these documents for free by visiting EDGAR on the SEC website at sec.gov or by visiting spdrgoldshares.com. Alternatively, the Funds or any authorized participant will arrange to send you the prospectus if you request it by calling 866.320.4053."
+    },
+    {
+      "name": "None of the Funds is an investment company registered under the Investment Company Act of 1940 (the “1940 Act”). As a result, shareholders of each Fund do not have the protections associated with ownership of shares in an investment company registered under the 1940 Act. GLD and GLDM are not subject to regulation under the CEA. As a result, shareholders of each of GLD and GLDM do not have the protections afforded by the CEA. \n\nShares of each Fund trade like stocks, are subject to investment risk and will fluctuate in market value. \n\nThe values of GLD shares and GLDM shares relate directly to the value of the gold held by each Fund (less its expenses), respectively. Fluctuations in the price of gold could materially and adversely affect an investment in the shares. The price received upon the sale of the shares, which trade at market price, may be more or less than the value of the gold represented by them.  \n\nNone of the Funds generate any income, and as each Fund regularly sells gold to pay for its ongoing expenses, the amount of gold represented by each Fund share will decline over time to that extent.\n\nThe World Gold Council name and logo are a registered trademark and used with the permission of the World Gold Council pursuant to a license agreement. The World Gold Council is not responsible for the content of, and is not liable for the use of or reliance on, this material. World Gold Council is an affiliate of the Sponsor of each of GLD and GLDM.\n\nMiniSharesSM and GLDMSM are service marks of WGC USA Asset Management Company, LLC used with the permission of WGC USA Asset Management Company, LLC.\n\nGLD® is a registered trademark of World Gold Trust Services, LLC used with the permission of World Gold Trust Services, LLC."
+    },
+    {
+      "name": "For more information, please contact the Marketing Agent for GLD and GLDM: State Street Global Advisors Funds Distributors, LLC, One Iron Street, Boston, MA, 02210; T: +1 866 320 4053 spdrgoldshares.com"
+    },
+    {
+      "name": "Standard & Poor’s®, S&P® and SPDR® are registered trademarks of Standard & Poor’s Financial Services LLC (S&P); Dow Jones is a registered trademark of Dow Jones Trademark Holdings LLC (Dow Jones); and these trademarks have been licensed for use by S&P Dow Jones Indices LLC (SPDJI) and sublicensed for certain purposes by State Street Corporation. State Street Corporation’s financial products are not sponsored, endorsed, sold or promoted by SPDJI, Dow Jones, S&P, their respective affiliates and third party licensors and none of such parties make any representation regarding the advisability of investing in such product(s) nor do they have any liability in relation thereto, including for any errors, omissions, or interruptions of any index."
+    },
+    {
+      "name": "Bonds generally present less short-term risk and volatility than stocks, but contain interest rate risk (as interest rates raise, bond prices usually fall); issuer default risk; issuer credit risk; liquidity risk; and inflation risk. These effects are usually pronounced for longer-term securities. Any fixed income security sold or redeemed prior to maturity may be subject to a substantial gain or loss.\nInternational Government bonds and corporate bonds generally have more moderate short-term price fluctuations than stocks, but provide lower potential long-term returns.\nInvesting in high yield fixed income securities, otherwise known as \"junk bonds\", is considered speculative and involves greater risk of loss of principal and interest than investing in investment grade fixed income securities. These Lower-quality debt securities involve greater risk of default or price changes due to potential changes in the credit quality of the issuer.\nEquity securities may fluctuate in value in response to the activities of individual companies and general market and economic conditions.\nThere are risks associated with investing in Real Assets and the Real Assets sector, including real estate, precious metals and natural resources.  Investments can be significantly affected by events relating to these industries.\nInvesting in foreign domiciled securities may involve risk of capital loss from unfavorable fluctuation in currency values, withholding taxes, from differences in generally accepted accounting principles or from economic or political instability in other nations.  Investments in emerging or developing markets may be more volatile and less liquid than investing in developed markets and may involve exposure to economic structures that are generally less diverse and mature and to political systems which have less stability than those of more developed countries. The trademarks and service marks referenced herein are the property of their respective owners. Third party data providers make no warranties or representations of any kind relating to the accuracy, completeness or timeliness of the data and have no liability for damages of any kind relating to the use of such data. Investing involves risk including the risk of loss of principal.\nThe whole or any part of this work may not be reproduced, copied or transmitted or any of its contents disclosed to third parties without SSGA's express written consent.\nETFs trade like stocks, are subject to investment risk and will fluctuate in market value. The investment return and principal value of an investment will fluctuate in value, so that when shares are sold or redeemed, they may be worth more or less than when they were purchased.  Although shares may be bought or sold on an exchange through any brokerage account, shares are not individually redeemable from the fund.  Investors may acquire shares and tender them for redemption through the fund in large aggregations known as “creation units.”  Please see the fund’s prospectus for more details.\nInvesting in REITs involves certain distinct risks in addition to those risks associated with investing in the real estate industry in general. Equity REITs may be affected by changes in the value of the underlying property owned by the REITs, while mortgage REITs may be affected by the quality of credit extended. REITs are subject to heavy cash flow dependency, default by borrowers and self-liquidation. REITs, especially mortgage REITs, are also subject to interest rate risk (i.e., as interest rates rise, the value of the REIT may decline).\nInvestments in small/mid-sized companies may involve greater risks than in those of larger, better known companies. Concentrated investments in a particular Sector tend to be more volatile than the overall market and increases risk that events negatively affecting such sectors or industries could reduce returns, potentially causing the value of the Fund’s shares to decrease.\nStandard & Poor’s®, S&P® and SPDR® are registered trademarks of Standard & Poor’s Financial Services LLC (S&P); Dow Jones is a registered trademark of Dow Jones Trademark Holdings LLC (Dow Jones); and these trademarks have been licensed for use by S&P Dow Jones Indices LLC (SPDJI) and sublicensed for certain purposes by State Street Corporation. State Street Corporation’s financial products are not sponsored, endorsed, sold or promoted by SPDJI, Dow Jones, S&P, their respective affiliates and third party licensors and none of such parties make any representation regarding the advisability of investing in such product(s) nor do they have any liability in relation thereto, including for any errors, omissions, or interruptions of any index.\nCommodities and commodity-index linked securities may be affected by changes in overall market movements, changes in interest rates, and other factors such as weather, disease, embargoes, or political and regulatory developments, as well as trading activity of speculators and arbitrageurs in the underlying commodities. The returns on a portfolio of securities which exclude companies that do not meet the portfolio's specified ESG criteria may trail the returns on a portfolio of securities which include such companies. A portfolio's ESG criteria may result in the portfolio investing in industry sectors or securities which underperform the market as a whole.\nTechnology companies, including cyber security companies, can be significantly affected by obsolescence of existing technology, limited product lines, and competition for financial resources, qualified personnel, new market entrants or impairment of patent and intellectual property rights that can adversely affect profit margins."
+    },
+    {
+      "name": "Distributor: State Street Global Advisors Funds Distributors, LLC, member FINRA(http://www.finra.org), SIPC(http://www.sipc.org), an indirect wholly owned subsidiary of State Street Corporation. References to State Street may include State Street Corporation and its affiliates. Certain State Street affiliates provide services and receive fees from the SPDR ETFs. ALPS Distributors, Inc., member FINRA, is the distributor for DIA, MDY and SPY, all unit investment trusts. ALPS Portfolio Solutions Distributor, Inc., member FINRA, is the distributor for Select Sector SPDRs. ALPS Distributors, Inc. and ALPS Portfolio Solutions Distributor, Inc. are not affiliated with State Street Global Advisors Funds Distributors, LLC."
+    },
+    {
+      "name": "Before investing, consider the funds’ investment objectives, risks, charges and expenses. To obtain a prospectus or summary prospectus, this contains this and other information, call 1-866-787-2257 or visit www.ssga.com. Read it carefully.\n\nNot FDIC Insured * No Bank Guarantee * May Lose Value\n\n2529657.2.1.AM.RTL\nExpiration: 03/31/2021\nSPD002304"
+    }
+  ]
+}

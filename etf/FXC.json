@@ -1,0 +1,24 @@
+{
+  "Products": "CurrencyShares® Canadian Dollar Trust ",
+  "Ticker": "FXC",
+  "Inception": "06/21/2006",
+  "Gross Exp. Ratio": "0.40%",
+  "YTD": "-2.97",
+  "1Yr": "-0.75",
+  "3Yr": "-1.78",
+  "5Yr": "0.18",
+  "10Yr": "-2.49",
+  "Since Incept.": "-0.76",
+  "Category": "Alternatives",
+  "SubCategory": "Currencies",
+  "ticker": "FXC",
+  "name": "CurrencyShares® Canadian Dollar Trust ",
+  "issuer": "Invesco",
+  "website": "https://www.invesco.com/us/financial-products/etfs/product-detail?audienceType=Investor&ticker=FXC",
+  "holdingDataSource": {
+    "url": "https://www.invesco.com/us/financial-products/etfs/holdings/main/holdings/0?audienceType=Investor&action=download&ticker=FXC",
+    "fileExt": "csv",
+    "transform": "invesco"
+  },
+  "holdings": []
+}

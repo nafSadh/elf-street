@@ -1,0 +1,1494 @@
+{
+  "ticker": "SPYG",
+  "name": "SPDR® Portfolio S&P 500® Growth ETF",
+  "ISIN": "US78464A4094",
+  "CUSIP": "78464A409",
+  "Inception Date": "Sep 25 2000",
+  "Gross Expense Ratio": "0.04%",
+  "* Net Expense Ratio": "-",
+  "Asset Class": "Equity",
+  "Distribution Frequency": "Quarterly",
+  "Primary Exchange": "NYSE ARCA EXCHANGE",
+  "Primary Index": "S&P 500 Growth Index",
+  "Primary Index Ticker": "SPTRSGX",
+  "issuer": "SSGA",
+  "website": "https://www.ssga.com/us/en/individual/etfs/funds/spdr-portfolio-sp-500-growth-etf-spyg",
+  "holdingDataSource": {
+    "fileUrl": "https://www.ssga.com/us/en/individual/etfs/library-content/products/fund-data/etfs/us/holdings-daily-us-en-spyg.xlsx",
+    "fileExt": "xlsx",
+    "transform": "spdr"
+  },
+  "holdings": [
+    {
+      "ticker": "AAPL",
+      "name": "Apple Inc.",
+      "percent": "10.964811"
+    },
+    {
+      "ticker": "MSFT",
+      "name": "Microsoft Corporation",
+      "percent": "9.392576"
+    },
+    {
+      "ticker": "AMZN",
+      "name": "Amazon.com Inc.",
+      "percent": "8.032088"
+    },
+    {
+      "ticker": "FB",
+      "name": "Facebook Inc. Class A",
+      "percent": "3.623277"
+    },
+    {
+      "ticker": "GOOGL",
+      "name": "Alphabet Inc. Class A",
+      "percent": "2.642237"
+    },
+    {
+      "ticker": "GOOG",
+      "name": "Alphabet Inc. Class C",
+      "percent": "2.586435"
+    },
+    {
+      "ticker": "NVDA",
+      "name": "NVIDIA Corporation",
+      "percent": "1.948626"
+    },
+    {
+      "ticker": "V",
+      "name": "Visa Inc. Class A",
+      "percent": "1.901809"
+    },
+    {
+      "ticker": "MA",
+      "name": "Mastercard Incorporated Class A",
+      "percent": "1.690460"
+    },
+    {
+      "ticker": "ADBE",
+      "name": "Adobe Inc.",
+      "percent": "1.358307"
+    },
+    {
+      "ticker": "NFLX",
+      "name": "Netflix Inc.",
+      "percent": "1.350351"
+    },
+    {
+      "ticker": "PYPL",
+      "name": "PayPal Holdings Inc",
+      "percent": "1.346671"
+    },
+    {
+      "ticker": "CRM",
+      "name": "salesforce.com inc.",
+      "percent": "1.320352"
+    },
+    {
+      "ticker": "HD",
+      "name": "Home Depot Inc.",
+      "percent": "1.241807"
+    },
+    {
+      "ticker": "PG",
+      "name": "Procter & Gamble Company",
+      "percent": "1.173802"
+    },
+    {
+      "ticker": "TMO",
+      "name": "Thermo Fisher Scientific Inc.",
+      "percent": "1.038567"
+    },
+    {
+      "ticker": "JNJ",
+      "name": "Johnson & Johnson",
+      "percent": "0.919471"
+    },
+    {
+      "ticker": "AVGO",
+      "name": "Broadcom Inc.",
+      "percent": "0.864534"
+    },
+    {
+      "ticker": "JPM",
+      "name": "JPMorgan Chase & Co.",
+      "percent": "0.840599"
+    },
+    {
+      "ticker": "QCOM",
+      "name": "QUALCOMM Incorporated",
+      "percent": "0.820385"
+    },
+    {
+      "ticker": "DIS",
+      "name": "Walt Disney Company",
+      "percent": "0.793042"
+    },
+    {
+      "ticker": "INTC",
+      "name": "Intel Corporation",
+      "percent": "0.739094"
+    },
+    {
+      "ticker": "CMCSA",
+      "name": "Comcast Corporation Class A",
+      "percent": "0.650307"
+    },
+    {
+      "ticker": "ABT",
+      "name": "Abbott Laboratories",
+      "percent": "0.622347"
+    },
+    {
+      "ticker": "MRK",
+      "name": "Merck & Co. Inc.",
+      "percent": "0.621024"
+    },
+    {
+      "ticker": "NKE",
+      "name": "NIKE Inc. Class B",
+      "percent": "0.607964"
+    },
+    {
+      "ticker": "AMT",
+      "name": "American Tower Corporation",
+      "percent": "0.600158"
+    },
+    {
+      "ticker": "SBUX",
+      "name": "Starbucks Corporation",
+      "percent": "0.586302"
+    },
+    {
+      "ticker": "NOW",
+      "name": "ServiceNow Inc.",
+      "percent": "0.564913"
+    },
+    {
+      "ticker": "COST",
+      "name": "Costco Wholesale Corporation",
+      "percent": "0.553726"
+    },
+    {
+      "ticker": "AMD",
+      "name": "Advanced Micro Devices Inc.",
+      "percent": "0.551927"
+    },
+    {
+      "ticker": "CHTR",
+      "name": "Charter Communications Inc. Class A",
+      "percent": "0.537682"
+    },
+    {
+      "ticker": "LMT",
+      "name": "Lockheed Martin Corporation",
+      "percent": "0.536288"
+    },
+    {
+      "ticker": "PEP",
+      "name": "PepsiCo Inc.",
+      "percent": "0.530529"
+    },
+    {
+      "ticker": "ACN",
+      "name": "Accenture Plc Class A",
+      "percent": "0.517508"
+    },
+    {
+      "ticker": "DHR",
+      "name": "Danaher Corporation",
+      "percent": "0.515127"
+    },
+    {
+      "ticker": "INTU",
+      "name": "Intuit Inc.",
+      "percent": "0.506049"
+    },
+    {
+      "ticker": "UNP",
+      "name": "Union Pacific Corporation",
+      "percent": "0.496042"
+    },
+    {
+      "ticker": "LOW",
+      "name": "Lowe's Companies Inc.",
+      "percent": "0.495910"
+    },
+    {
+      "ticker": "ISRG",
+      "name": "Intuitive Surgical Inc.",
+      "percent": "0.489619"
+    },
+    {
+      "ticker": "TXN",
+      "name": "Texas Instruments Incorporated",
+      "percent": "0.488811"
+    },
+    {
+      "ticker": "LIN",
+      "name": "Linde plc",
+      "percent": "0.483529"
+    },
+    {
+      "ticker": "SPGI",
+      "name": "S&P Global Inc.",
+      "percent": "0.472564"
+    },
+    {
+      "ticker": "AMGN",
+      "name": "Amgen Inc.",
+      "percent": "0.458380"
+    },
+    {
+      "ticker": "ABBV",
+      "name": "AbbVie Inc.",
+      "percent": "0.449910"
+    },
+    {
+      "ticker": "NEE",
+      "name": "NextEra Energy Inc.",
+      "percent": "0.437005"
+    },
+    {
+      "ticker": "ZTS",
+      "name": "Zoetis Inc. Class A",
+      "percent": "0.436914"
+    },
+    {
+      "ticker": "KO",
+      "name": "Coca-Cola Company",
+      "percent": "0.436176"
+    },
+    {
+      "ticker": "MCD",
+      "name": "McDonald's Corporation",
+      "percent": "0.425164"
+    },
+    {
+      "ticker": "BMY",
+      "name": "Bristol-Myers Squibb Company",
+      "percent": "0.422547"
+    },
+    {
+      "ticker": "EQIX",
+      "name": "Equinix Inc.",
+      "percent": "0.408999"
+    },
+    {
+      "ticker": "ORCL",
+      "name": "Oracle Corporation",
+      "percent": "0.396030"
+    },
+    {
+      "ticker": "BKNG",
+      "name": "Booking Holdings Inc.",
+      "percent": "0.395074"
+    },
+    {
+      "ticker": "TJX",
+      "name": "TJX Companies Inc",
+      "percent": "0.388960"
+    },
+    {
+      "ticker": "APD",
+      "name": "Air Products and Chemicals Inc.",
+      "percent": "0.368590"
+    },
+    {
+      "ticker": "LLY",
+      "name": "Eli Lilly and Company",
+      "percent": "0.361590"
+    },
+    {
+      "ticker": "MU",
+      "name": "Micron Technology Inc.",
+      "percent": "0.327423"
+    },
+    {
+      "ticker": "AMAT",
+      "name": "Applied Materials Inc.",
+      "percent": "0.326980"
+    },
+    {
+      "ticker": "FISV",
+      "name": "Fiserv Inc.",
+      "percent": "0.319106"
+    },
+    {
+      "ticker": "VRTX",
+      "name": "Vertex Pharmaceuticals Incorporated",
+      "percent": "0.317640"
+    },
+    {
+      "ticker": "SHW",
+      "name": "Sherwin-Williams Company",
+      "percent": "0.316400"
+    },
+    {
+      "ticker": "HON",
+      "name": "Honeywell International Inc.",
+      "percent": "0.314002"
+    },
+    {
+      "ticker": "DG",
+      "name": "Dollar General Corporation",
+      "percent": "0.312666"
+    },
+    {
+      "ticker": "UPS",
+      "name": "United Parcel Service Inc. Class B",
+      "percent": "0.312600"
+    },
+    {
+      "ticker": "ADSK",
+      "name": "Autodesk Inc.",
+      "percent": "0.311416"
+    },
+    {
+      "ticker": "LRCX",
+      "name": "Lam Research Corporation",
+      "percent": "0.308760"
+    },
+    {
+      "ticker": "PM",
+      "name": "Philip Morris International Inc.",
+      "percent": "0.307793"
+    },
+    {
+      "ticker": "TGT",
+      "name": "Target Corporation",
+      "percent": "0.300955"
+    },
+    {
+      "ticker": "EW",
+      "name": "Edwards Lifesciences Corporation",
+      "percent": "0.300679"
+    },
+    {
+      "ticker": "CAT",
+      "name": "Caterpillar Inc.",
+      "percent": "0.297082"
+    },
+    {
+      "ticker": "EL",
+      "name": "Estee Lauder Companies Inc. Class A",
+      "percent": "0.283693"
+    },
+    {
+      "ticker": "RTX",
+      "name": "Raytheon Technologies Corporation",
+      "percent": "0.276052"
+    },
+    {
+      "ticker": "NOC",
+      "name": "Northrop Grumman Corporation",
+      "percent": "0.275655"
+    },
+    {
+      "ticker": "SYK",
+      "name": "Stryker Corporation",
+      "percent": "0.268326"
+    },
+    {
+      "ticker": "BLK",
+      "name": "BlackRock Inc.",
+      "percent": "0.265693"
+    },
+    {
+      "ticker": "MCO",
+      "name": "Moody's Corporation",
+      "percent": "0.264204"
+    },
+    {
+      "ticker": "ADI",
+      "name": "Analog Devices Inc.",
+      "percent": "0.259357"
+    },
+    {
+      "ticker": "ROP",
+      "name": "Roper Technologies Inc.",
+      "percent": "0.255587"
+    },
+    {
+      "ticker": "PLD",
+      "name": "Prologis Inc.",
+      "percent": "0.250739"
+    },
+    {
+      "ticker": "DE",
+      "name": "Deere & Company",
+      "percent": "0.249875"
+    },
+    {
+      "ticker": "SCHW",
+      "name": "Charles Schwab Corporation",
+      "percent": "0.238382"
+    },
+    {
+      "ticker": "CCI",
+      "name": "Crown Castle International Corp",
+      "percent": "0.231070"
+    },
+    {
+      "ticker": "REGN",
+      "name": "Regeneron Pharmaceuticals Inc.",
+      "percent": "0.230907"
+    },
+    {
+      "ticker": "AXP",
+      "name": "American Express Company",
+      "percent": "0.230150"
+    },
+    {
+      "ticker": "ADP",
+      "name": "Automatic Data Processing Inc.",
+      "percent": "0.223098"
+    },
+    {
+      "ticker": "BA",
+      "name": "Boeing Company",
+      "percent": "0.215994"
+    },
+    {
+      "ticker": "COP",
+      "name": "ConocoPhillips",
+      "percent": "0.215949"
+    },
+    {
+      "ticker": "DXCM",
+      "name": "DexCom Inc.",
+      "percent": "0.215261"
+    },
+    {
+      "ticker": "CMG",
+      "name": "Chipotle Mexican Grill Inc.",
+      "percent": "0.211958"
+    },
+    {
+      "ticker": "LHX",
+      "name": "L3Harris Technologies Inc",
+      "percent": "0.211135"
+    },
+    {
+      "ticker": "EBAY",
+      "name": "eBay Inc.",
+      "percent": "0.209584"
+    },
+    {
+      "ticker": "DOW",
+      "name": "Dow Inc.",
+      "percent": "0.206052"
+    },
+    {
+      "ticker": "IDXX",
+      "name": "IDEXX Laboratories Inc.",
+      "percent": "0.202069"
+    },
+    {
+      "ticker": "ITW",
+      "name": "Illinois Tool Works Inc.",
+      "percent": "0.201161"
+    },
+    {
+      "ticker": "MMC",
+      "name": "Marsh & McLennan Companies Inc.",
+      "percent": "0.198950"
+    },
+    {
+      "ticker": "PGR",
+      "name": "Progressive Corporation",
+      "percent": "0.197397"
+    },
+    {
+      "ticker": "ORLY",
+      "name": "O'Reilly Automotive Inc.",
+      "percent": "0.196404"
+    },
+    {
+      "ticker": "SBAC",
+      "name": "SBA Communications Corp. Class A",
+      "percent": "0.196383"
+    },
+    {
+      "ticker": "SNPS",
+      "name": "Synopsys Inc.",
+      "percent": "0.194617"
+    },
+    {
+      "ticker": "ROST",
+      "name": "Ross Stores Inc.",
+      "percent": "0.194350"
+    },
+    {
+      "ticker": "APH",
+      "name": "Amphenol Corporation Class A",
+      "percent": "0.192185"
+    },
+    {
+      "ticker": "KLAC",
+      "name": "KLA Corporation",
+      "percent": "0.188066"
+    },
+    {
+      "ticker": "BSX",
+      "name": "Boston Scientific Corporation",
+      "percent": "0.187199"
+    },
+    {
+      "ticker": "CDNS",
+      "name": "Cadence Design Systems Inc.",
+      "percent": "0.182668"
+    },
+    {
+      "ticker": "CSX",
+      "name": "CSX Corporation",
+      "percent": "0.176594"
+    },
+    {
+      "ticker": "AON",
+      "name": "Aon Plc Class A",
+      "percent": "0.176077"
+    },
+    {
+      "ticker": "ICE",
+      "name": "Intercontinental Exchange Inc.",
+      "percent": "0.174603"
+    },
+    {
+      "ticker": "PCAR",
+      "name": "PACCAR Inc",
+      "percent": "0.174373"
+    },
+    {
+      "ticker": "CME",
+      "name": "CME Group Inc. Class A",
+      "percent": "0.173260"
+    },
+    {
+      "ticker": "CL",
+      "name": "Colgate-Palmolive Company",
+      "percent": "0.172950"
+    },
+    {
+      "ticker": "ANSS",
+      "name": "ANSYS Inc.",
+      "percent": "0.170976"
+    },
+    {
+      "ticker": "NSC",
+      "name": "Norfolk Southern Corporation",
+      "percent": "0.170692"
+    },
+    {
+      "ticker": "YUM",
+      "name": "Yum! Brands Inc.",
+      "percent": "0.170338"
+    },
+    {
+      "ticker": "MSCI",
+      "name": "MSCI Inc. Class A",
+      "percent": "0.170224"
+    },
+    {
+      "ticker": "MSI",
+      "name": "Motorola Solutions Inc.",
+      "percent": "0.165875"
+    },
+    {
+      "ticker": "CTAS",
+      "name": "Cintas Corporation",
+      "percent": "0.165421"
+    },
+    {
+      "ticker": "MO",
+      "name": "Altria Group Inc",
+      "percent": "0.163894"
+    },
+    {
+      "ticker": "ILMN",
+      "name": "Illumina Inc.",
+      "percent": "0.160419"
+    },
+    {
+      "ticker": "AZO",
+      "name": "AutoZone Inc.",
+      "percent": "0.157071"
+    },
+    {
+      "ticker": "MCHP",
+      "name": "Microchip Technology Incorporated",
+      "percent": "0.155389"
+    },
+    {
+      "ticker": "TDG",
+      "name": "TransDigm Group Incorporated",
+      "percent": "0.149754"
+    },
+    {
+      "ticker": "DHI",
+      "name": "D.R. Horton Inc.",
+      "percent": "0.148392"
+    },
+    {
+      "ticker": "WM",
+      "name": "Waste Management Inc.",
+      "percent": "0.147524"
+    },
+    {
+      "ticker": "RMD",
+      "name": "ResMed Inc.",
+      "percent": "0.147199"
+    },
+    {
+      "ticker": "GPN",
+      "name": "Global Payments Inc.",
+      "percent": "0.146960"
+    },
+    {
+      "ticker": "KMB",
+      "name": "Kimberly-Clark Corporation",
+      "percent": "0.146609"
+    },
+    {
+      "ticker": "MAR",
+      "name": "Marriott International Inc. Class A",
+      "percent": "0.145105"
+    },
+    {
+      "ticker": "ECL",
+      "name": "Ecolab Inc.",
+      "percent": "0.144151"
+    },
+    {
+      "ticker": "AME",
+      "name": "AMETEK Inc.",
+      "percent": "0.142879"
+    },
+    {
+      "ticker": "TROW",
+      "name": "T. Rowe Price Group",
+      "percent": "0.140766"
+    },
+    {
+      "ticker": "HLT",
+      "name": "Hilton Worldwide Holdings Inc",
+      "percent": "0.139875"
+    },
+    {
+      "ticker": "CPRT",
+      "name": "Copart Inc.",
+      "percent": "0.137991"
+    },
+    {
+      "ticker": "ALGN",
+      "name": "Align Technology Inc.",
+      "percent": "0.136726"
+    },
+    {
+      "ticker": "EMR",
+      "name": "Emerson Electric Co.",
+      "percent": "0.127763"
+    },
+    {
+      "ticker": "INFO",
+      "name": "IHS Markit Ltd.",
+      "percent": "0.124018"
+    },
+    {
+      "ticker": "VRSK",
+      "name": "Verisk Analytics Inc",
+      "percent": "0.121533"
+    },
+    {
+      "ticker": "WST",
+      "name": "West Pharmaceutical Services Inc.",
+      "percent": "0.121513"
+    },
+    {
+      "ticker": "BLL",
+      "name": "Ball Corporation",
+      "percent": "0.120358"
+    },
+    {
+      "ticker": "IQV",
+      "name": "IQVIA Holdings Inc",
+      "percent": "0.120017"
+    },
+    {
+      "ticker": "CMI",
+      "name": "Cummins Inc.",
+      "percent": "0.117810"
+    },
+    {
+      "ticker": "FLT",
+      "name": "FLEETCOR Technologies Inc.",
+      "percent": "0.117014"
+    },
+    {
+      "ticker": "MKTX",
+      "name": "MarketAxess Holdings Inc.",
+      "percent": "0.116349"
+    },
+    {
+      "ticker": "EA",
+      "name": "Electronic Arts Inc.",
+      "percent": "0.114459"
+    },
+    {
+      "ticker": "MNST",
+      "name": "Monster Beverage Corporation",
+      "percent": "0.112924"
+    },
+    {
+      "ticker": "KEYS",
+      "name": "Keysight Technologies Inc",
+      "percent": "0.111758"
+    },
+    {
+      "ticker": "ODFL",
+      "name": "Old Dominion Freight Line Inc.",
+      "percent": "0.110858"
+    },
+    {
+      "ticker": "TT",
+      "name": "Trane Technologies plc",
+      "percent": "0.109525"
+    },
+    {
+      "ticker": "TTWO",
+      "name": "Take-Two Interactive Software Inc.",
+      "percent": "0.109472"
+    },
+    {
+      "ticker": "VMC",
+      "name": "Vulcan Materials Company",
+      "percent": "0.108170"
+    },
+    {
+      "ticker": "CDW",
+      "name": "CDW Corp.",
+      "percent": "0.104668"
+    },
+    {
+      "ticker": "A",
+      "name": "Agilent Technologies Inc.",
+      "percent": "0.104546"
+    },
+    {
+      "ticker": "PAYC",
+      "name": "Paycom Software Inc.",
+      "percent": "0.104459"
+    },
+    {
+      "ticker": "BAX",
+      "name": "Baxter International Inc.",
+      "percent": "0.102834"
+    },
+    {
+      "ticker": "PAYX",
+      "name": "Paychex Inc.",
+      "percent": "0.102364"
+    },
+    {
+      "ticker": "XLNX",
+      "name": "Xilinx Inc.",
+      "percent": "0.101271"
+    },
+    {
+      "ticker": "FTNT",
+      "name": "Fortinet Inc.",
+      "percent": "0.101143"
+    },
+    {
+      "ticker": "TEL",
+      "name": "TE Connectivity Ltd.",
+      "percent": "0.100384"
+    },
+    {
+      "ticker": "FAST",
+      "name": "Fastenal Company",
+      "percent": "0.100371"
+    },
+    {
+      "ticker": "ETSY",
+      "name": "Etsy Inc.",
+      "percent": "0.100262"
+    },
+    {
+      "ticker": "KSU",
+      "name": "Kansas City Southern",
+      "percent": "0.099336"
+    },
+    {
+      "ticker": "TFX",
+      "name": "Teleflex Incorporated",
+      "percent": "0.094764"
+    },
+    {
+      "ticker": "SRE",
+      "name": "Sempra Energy",
+      "percent": "0.094502"
+    },
+    {
+      "ticker": "CBRE",
+      "name": "CBRE Group Inc. Class A",
+      "percent": "0.094160"
+    },
+    {
+      "ticker": "PPG",
+      "name": "PPG Industries Inc.",
+      "percent": "0.092942"
+    },
+    {
+      "ticker": "INCY",
+      "name": "Incyte Corporation",
+      "percent": "0.092424"
+    },
+    {
+      "ticker": "ROK",
+      "name": "Rockwell Automation Inc.",
+      "percent": "0.091950"
+    },
+    {
+      "ticker": "MLM",
+      "name": "Martin Marietta Materials Inc.",
+      "percent": "0.091054"
+    },
+    {
+      "ticker": "TYL",
+      "name": "Tyler Technologies Inc.",
+      "percent": "0.089790"
+    },
+    {
+      "ticker": "PSA",
+      "name": "Public Storage",
+      "percent": "0.089315"
+    },
+    {
+      "ticker": "PH",
+      "name": "Parker-Hannifin Corporation",
+      "percent": "0.088990"
+    },
+    {
+      "ticker": "SYF",
+      "name": "Synchrony Financial",
+      "percent": "0.088811"
+    },
+    {
+      "ticker": "DPZ",
+      "name": "Domino's Pizza Inc.",
+      "percent": "0.088388"
+    },
+    {
+      "ticker": "MTD",
+      "name": "Mettler-Toledo International Inc.",
+      "percent": "0.087927"
+    },
+    {
+      "ticker": "ALXN",
+      "name": "Alexion Pharmaceuticals Inc.",
+      "percent": "0.087665"
+    },
+    {
+      "ticker": "SYY",
+      "name": "Sysco Corporation",
+      "percent": "0.087567"
+    },
+    {
+      "ticker": "ZBRA",
+      "name": "Zebra Technologies Corporation Class A",
+      "percent": "0.086992"
+    },
+    {
+      "ticker": "QRVO",
+      "name": "Qorvo Inc.",
+      "percent": "0.086784"
+    },
+    {
+      "ticker": "KMX",
+      "name": "CarMax Inc.",
+      "percent": "0.085845"
+    },
+    {
+      "ticker": "MAS",
+      "name": "Masco Corporation",
+      "percent": "0.084876"
+    },
+    {
+      "ticker": "NVR",
+      "name": "NVR Inc.",
+      "percent": "0.084648"
+    },
+    {
+      "ticker": "CTLT",
+      "name": "Catalent Inc",
+      "percent": "0.084571"
+    },
+    {
+      "ticker": "SWKS",
+      "name": "Skyworks Solutions Inc.",
+      "percent": "0.084229"
+    },
+    {
+      "ticker": "HSY",
+      "name": "Hershey Company",
+      "percent": "0.082983"
+    },
+    {
+      "ticker": "GRMN",
+      "name": "Garmin Ltd.",
+      "percent": "0.081379"
+    },
+    {
+      "ticker": "POOL",
+      "name": "Pool Corporation",
+      "percent": "0.081335"
+    },
+    {
+      "ticker": "TER",
+      "name": "Teradyne Inc.",
+      "percent": "0.080889"
+    },
+    {
+      "ticker": "FMC",
+      "name": "FMC Corporation",
+      "percent": "0.080723"
+    },
+    {
+      "ticker": "CARR",
+      "name": "Carrier Global Corp.",
+      "percent": "0.080483"
+    },
+    {
+      "ticker": "OTIS",
+      "name": "Otis Worldwide Corporation",
+      "percent": "0.080407"
+    },
+    {
+      "ticker": "CERN",
+      "name": "Cerner Corporation",
+      "percent": "0.080343"
+    },
+    {
+      "ticker": "CE",
+      "name": "Celanese Corporation",
+      "percent": "0.080168"
+    },
+    {
+      "ticker": "AWK",
+      "name": "American Water Works Company Inc.",
+      "percent": "0.079890"
+    },
+    {
+      "ticker": "BF.B",
+      "name": "Brown-Forman Corporation Class B",
+      "percent": "0.079554"
+    },
+    {
+      "ticker": "FCX",
+      "name": "Freeport-McMoRan Inc.",
+      "percent": "0.077671"
+    },
+    {
+      "ticker": "URI",
+      "name": "United Rentals Inc.",
+      "percent": "0.077571"
+    },
+    {
+      "ticker": "WLTW",
+      "name": "Willis Towers Watson Public Limited Company",
+      "percent": "0.076309"
+    },
+    {
+      "ticker": "AMP",
+      "name": "Ameriprise Financial Inc.",
+      "percent": "0.075578"
+    },
+    {
+      "ticker": "TIF",
+      "name": "Tiffany & Co.",
+      "percent": "0.075314"
+    },
+    {
+      "ticker": "VFC",
+      "name": "V.F. Corporation",
+      "percent": "0.074700"
+    },
+    {
+      "ticker": "CHD",
+      "name": "Church & Dwight Co. Inc.",
+      "percent": "0.072547"
+    },
+    {
+      "ticker": "AKAM",
+      "name": "Akamai Technologies Inc.",
+      "percent": "0.072401"
+    },
+    {
+      "ticker": "PHM",
+      "name": "PulteGroup Inc.",
+      "percent": "0.071364"
+    },
+    {
+      "ticker": "MKC",
+      "name": "McCormick & Company Incorporated",
+      "percent": "0.071026"
+    },
+    {
+      "ticker": "GLW",
+      "name": "Corning Inc",
+      "percent": "0.070666"
+    },
+    {
+      "ticker": "ANET",
+      "name": "Arista Networks Inc.",
+      "percent": "0.070148"
+    },
+    {
+      "ticker": "DFS",
+      "name": "Discover Financial Services",
+      "percent": "0.069761"
+    },
+    {
+      "ticker": "FBHS",
+      "name": "Fortune Brands Home & Security Inc.",
+      "percent": "0.069164"
+    },
+    {
+      "ticker": "EFX",
+      "name": "Equifax Inc.",
+      "percent": "0.067998"
+    },
+    {
+      "ticker": "TDY",
+      "name": "Teledyne Technologies Incorporated",
+      "percent": "0.067691"
+    },
+    {
+      "ticker": "BR",
+      "name": "Broadridge Financial Solutions Inc.",
+      "percent": "0.066089"
+    },
+    {
+      "ticker": "IT",
+      "name": "Gartner Inc.",
+      "percent": "0.066002"
+    },
+    {
+      "ticker": "PSX",
+      "name": "Phillips 66",
+      "percent": "0.065157"
+    },
+    {
+      "ticker": "EOG",
+      "name": "EOG Resources Inc.",
+      "percent": "0.063383"
+    },
+    {
+      "ticker": "VRSN",
+      "name": "VeriSign Inc.",
+      "percent": "0.062173"
+    },
+    {
+      "ticker": "FRC",
+      "name": "First Republic Bank",
+      "percent": "0.059091"
+    },
+    {
+      "ticker": "AJG",
+      "name": "Arthur J. Gallagher & Co.",
+      "percent": "0.058800"
+    },
+    {
+      "ticker": "HES",
+      "name": "Hess Corporation",
+      "percent": "0.058296"
+    },
+    {
+      "ticker": "ARE",
+      "name": "Alexandria Real Estate Equities Inc.",
+      "percent": "0.057102"
+    },
+    {
+      "ticker": "COO",
+      "name": "Cooper Companies Inc.",
+      "percent": "0.056330"
+    },
+    {
+      "ticker": "XYL",
+      "name": "Xylem Inc.",
+      "percent": "0.055641"
+    },
+    {
+      "ticker": "DOV",
+      "name": "Dover Corporation",
+      "percent": "0.054672"
+    },
+    {
+      "ticker": "ALLE",
+      "name": "Allegion PLC",
+      "percent": "0.054585"
+    },
+    {
+      "ticker": "PXD",
+      "name": "Pioneer Natural Resources Company",
+      "percent": "0.053983"
+    },
+    {
+      "ticker": "O",
+      "name": "Realty Income Corporation",
+      "percent": "0.053135"
+    },
+    {
+      "ticker": "IR",
+      "name": "Ingersoll Rand Inc.",
+      "percent": "0.053094"
+    },
+    {
+      "ticker": "CBOE",
+      "name": "Cboe Global Markets Inc",
+      "percent": "0.052770"
+    },
+    {
+      "ticker": "HOLX",
+      "name": "Hologic Inc.",
+      "percent": "0.052373"
+    },
+    {
+      "ticker": "SIVB",
+      "name": "SVB Financial Group",
+      "percent": "0.052163"
+    },
+    {
+      "ticker": "RSG",
+      "name": "Republic Services Inc.",
+      "percent": "0.051479"
+    },
+    {
+      "ticker": "WU",
+      "name": "Western Union Company",
+      "percent": "0.051451"
+    },
+    {
+      "ticker": "MXIM",
+      "name": "Maxim Integrated Products Inc.",
+      "percent": "0.050236"
+    },
+    {
+      "ticker": "STE",
+      "name": "STERIS Plc",
+      "percent": "0.049605"
+    },
+    {
+      "ticker": "EXR",
+      "name": "Extra Space Storage Inc.",
+      "percent": "0.049232"
+    },
+    {
+      "ticker": "TSN",
+      "name": "Tyson Foods Inc. Class A",
+      "percent": "0.049066"
+    },
+    {
+      "ticker": "TSCO",
+      "name": "Tractor Supply Company",
+      "percent": "0.048725"
+    },
+    {
+      "ticker": "VAR",
+      "name": "Varian Medical Systems Inc.",
+      "percent": "0.048439"
+    },
+    {
+      "ticker": "DRE",
+      "name": "Duke Realty Corporation",
+      "percent": "0.048294"
+    },
+    {
+      "ticker": "BIO",
+      "name": "Bio-Rad Laboratories Inc. Class A",
+      "percent": "0.047862"
+    },
+    {
+      "ticker": "LVS",
+      "name": "Las Vegas Sands Corp.",
+      "percent": "0.047491"
+    },
+    {
+      "ticker": "EXPD",
+      "name": "Expeditors International of Washington Inc.",
+      "percent": "0.047447"
+    },
+    {
+      "ticker": "NRG",
+      "name": "NRG Energy Inc.",
+      "percent": "0.047259"
+    },
+    {
+      "ticker": "CTXS",
+      "name": "Citrix Systems Inc.",
+      "percent": "0.047079"
+    },
+    {
+      "ticker": "WAT",
+      "name": "Waters Corporation",
+      "percent": "0.046833"
+    },
+    {
+      "ticker": "IEX",
+      "name": "IDEX Corporation",
+      "percent": "0.046054"
+    },
+    {
+      "ticker": "SPG",
+      "name": "Simon Property Group Inc.",
+      "percent": "0.045621"
+    },
+    {
+      "ticker": "AVY",
+      "name": "Avery Dennison Corporation",
+      "percent": "0.045466"
+    },
+    {
+      "ticker": "PKI",
+      "name": "PerkinElmer Inc.",
+      "percent": "0.044146"
+    },
+    {
+      "ticker": "ABMD",
+      "name": "ABIOMED Inc.",
+      "percent": "0.042336"
+    },
+    {
+      "ticker": "ULTA",
+      "name": "Ulta Beauty Inc",
+      "percent": "0.042099"
+    },
+    {
+      "ticker": "NLOK",
+      "name": "NortonLifeLock Inc.",
+      "percent": "0.040280"
+    },
+    {
+      "ticker": "JBHT",
+      "name": "J.B. Hunt Transport Services Inc.",
+      "percent": "0.040172"
+    },
+    {
+      "ticker": "WYNN",
+      "name": "Wynn Resorts Limited",
+      "percent": "0.039948"
+    },
+    {
+      "ticker": "PEAK",
+      "name": "Healthpeak Properties Inc.",
+      "percent": "0.039750"
+    },
+    {
+      "ticker": "NDAQ",
+      "name": "Nasdaq Inc.",
+      "percent": "0.039622"
+    },
+    {
+      "ticker": "STX",
+      "name": "Seagate Technology PLC",
+      "percent": "0.039545"
+    },
+    {
+      "ticker": "ESS",
+      "name": "Essex Property Trust Inc.",
+      "percent": "0.038955"
+    },
+    {
+      "ticker": "JKHY",
+      "name": "Jack Henry & Associates Inc.",
+      "percent": "0.036768"
+    },
+    {
+      "ticker": "MAA",
+      "name": "Mid-America Apartment Communities Inc.",
+      "percent": "0.036547"
+    },
+    {
+      "ticker": "LW",
+      "name": "Lamb Weston Holdings Inc.",
+      "percent": "0.033803"
+    },
+    {
+      "ticker": "LDOS",
+      "name": "Leidos Holdings Inc.",
+      "percent": "0.033574"
+    },
+    {
+      "ticker": "DRI",
+      "name": "Darden Restaurants Inc.",
+      "percent": "0.032229"
+    },
+    {
+      "ticker": "CINF",
+      "name": "Cincinnati Financial Corporation",
+      "percent": "0.031219"
+    },
+    {
+      "ticker": "XRAY",
+      "name": "DENTSPLY SIRONA Inc.",
+      "percent": "0.030404"
+    },
+    {
+      "ticker": "MGM",
+      "name": "MGM Resorts International",
+      "percent": "0.030113"
+    },
+    {
+      "ticker": "LYV",
+      "name": "Live Nation Entertainment Inc.",
+      "percent": "0.029420"
+    },
+    {
+      "ticker": "COG",
+      "name": "Cabot Oil & Gas Corporation",
+      "percent": "0.028556"
+    },
+    {
+      "ticker": "BXP",
+      "name": "Boston Properties Inc.",
+      "percent": "0.028478"
+    },
+    {
+      "ticker": "NTAP",
+      "name": "NetApp Inc.",
+      "percent": "0.028442"
+    },
+    {
+      "ticker": "UDR",
+      "name": "UDR Inc.",
+      "percent": "0.026541"
+    },
+    {
+      "ticker": "LKQ",
+      "name": "LKQ Corporation",
+      "percent": "0.025222"
+    },
+    {
+      "ticker": "LEG",
+      "name": "Leggett & Platt Incorporated",
+      "percent": "0.022782"
+    },
+    {
+      "ticker": "ROL",
+      "name": "Rollins Inc.",
+      "percent": "0.022678"
+    },
+    {
+      "ticker": "PWR",
+      "name": "Quanta Services Inc.",
+      "percent": "0.022347"
+    },
+    {
+      "ticker": "70286227",
+      "name": "STATE STREET INSTITUTIONAL LIQ STATE STR",
+      "percent": "0.021938"
+    },
+    {
+      "ticker": "XRX",
+      "name": "Xerox Holdings Corporation",
+      "percent": "0.021482"
+    },
+    {
+      "ticker": "CPB",
+      "name": "Campbell Soup Company",
+      "percent": "0.020822"
+    },
+    {
+      "ticker": "HWM",
+      "name": "Howmet Aerospace Inc.",
+      "percent": "0.020490"
+    },
+    {
+      "ticker": "IPGP",
+      "name": "IPG Photonics Corporation",
+      "percent": "0.019826"
+    },
+    {
+      "ticker": "HII",
+      "name": "Huntington Ingalls Industries Inc.",
+      "percent": "0.019790"
+    },
+    {
+      "ticker": "FLIR",
+      "name": "FLIR Systems Inc.",
+      "percent": "0.013982"
+    },
+    {
+      "ticker": "APA",
+      "name": "Apache Corporation",
+      "percent": "0.013063"
+    },
+    {
+      "ticker": "FRT",
+      "name": "Federal Realty Investment Trust",
+      "percent": "0.012530"
+    },
+    {
+      "ticker": "NOV",
+      "name": "National Oilwell Varco Inc.",
+      "percent": "0.006179"
+    },
+    {
+      "ticker": "CASH_USD",
+      "name": "U.S. Dollar",
+      "percent": "0.001302"
+    },
+    {
+      "name": "Performance quoted represents past performance, which is no guarantee of future results. Investment return and principal value will fluctuate, so you may have a gain or loss when shares are sold. Current performance may be higher or lower than that quoted. Visit www.ssga.com for most recent month-end performance."
+    },
+    {
+      "name": "This analysis or any portion thereof may not be revised or changed in any way, reprinted, sold or redistributed without the written consent of SSGA."
+    },
+    {
+      "name": "Portfolio holdings, allocations and weightings are as of the date indicated, are subject to change and should not be considered a recommendation to buy individual securities. For most recent information visit www.ssga.com."
+    },
+    {
+      "name": "Important Risk Information  "
+    },
+    {
+      "name": "Investing involves risk, and you could lose money on an investment in each of SPDR® Gold Shares Trust (“GLD®”) and SPDR® Gold MiniSharesSM Trust  (“GLDMSM”), a series of the World Gold Trust (together, the “Funds”). \n\nETFs trade like stocks, are subject to investment risk, fluctuate in market value and may trade at prices above or below the ETFs’ net asset value. Brokerage commissions and ETF expenses will reduce returns.\n\nCommodities and commodity-index linked securities may be affected by changes in overall market movements, changes in interest rates, and other factors such as weather, disease, embargoes, or political and regulatory developments, as well as trading activity of speculators and arbitrageurs in the underlying commodities.\n\nFrequent trading of ETFs could significantly increase commissions and other costs such that they may offset any savings from low fees or costs.\n\nDiversification does not ensure a profit or guarantee against loss."
+    },
+    {
+      "name": "Investing in commodities entails significant risk and is not appropriate for all investors."
+    },
+    {
+      "name": "Important Information Relating to SPDR® Gold Trust (“GLD®”) and SPDR® Gold MiniSharesSM Trust (“GLDMSM”):"
+    },
+    {
+      "name": "The SPDR Gold Trust (“GLD”) has filed a registration statement (including a prospectus) with the Securities and Exchange Commission (“SEC”) for GLD. The World Gold Trust has filed a registration statement (including a prospectus) with the SEC for GLDM. Before you invest, you should read the prospectus in the registration statement and other documents each Fund has filed with the SEC for more complete information about each Fund and these offerings. Please see each Fund’s prospectus for a detailed discussion of the risks of investing in each Fund’s shares."
+    },
+    {
+      "name": "The GLD prospectus is available by clicking"
+    },
+    {
+      "name": "The GLDM prospectus is available by clicking "
+    },
+    {
+      "name": "You may get these documents for free by visiting EDGAR on the SEC website at sec.gov or by visiting spdrgoldshares.com. Alternatively, the Funds or any authorized participant will arrange to send you the prospectus if you request it by calling 866.320.4053."
+    },
+    {
+      "name": "None of the Funds is an investment company registered under the Investment Company Act of 1940 (the “1940 Act”). As a result, shareholders of each Fund do not have the protections associated with ownership of shares in an investment company registered under the 1940 Act. GLD and GLDM are not subject to regulation under the CEA. As a result, shareholders of each of GLD and GLDM do not have the protections afforded by the CEA. \n\nShares of each Fund trade like stocks, are subject to investment risk and will fluctuate in market value. \n\nThe values of GLD shares and GLDM shares relate directly to the value of the gold held by each Fund (less its expenses), respectively. Fluctuations in the price of gold could materially and adversely affect an investment in the shares. The price received upon the sale of the shares, which trade at market price, may be more or less than the value of the gold represented by them.  \n\nNone of the Funds generate any income, and as each Fund regularly sells gold to pay for its ongoing expenses, the amount of gold represented by each Fund share will decline over time to that extent.\n\nThe World Gold Council name and logo are a registered trademark and used with the permission of the World Gold Council pursuant to a license agreement. The World Gold Council is not responsible for the content of, and is not liable for the use of or reliance on, this material. World Gold Council is an affiliate of the Sponsor of each of GLD and GLDM.\n\nMiniSharesSM and GLDMSM are service marks of WGC USA Asset Management Company, LLC used with the permission of WGC USA Asset Management Company, LLC.\n\nGLD® is a registered trademark of World Gold Trust Services, LLC used with the permission of World Gold Trust Services, LLC."
+    },
+    {
+      "name": "For more information, please contact the Marketing Agent for GLD and GLDM: State Street Global Advisors Funds Distributors, LLC, One Iron Street, Boston, MA, 02210; T: +1 866 320 4053 spdrgoldshares.com"
+    },
+    {
+      "name": "Standard & Poor’s®, S&P® and SPDR® are registered trademarks of Standard & Poor’s Financial Services LLC (S&P); Dow Jones is a registered trademark of Dow Jones Trademark Holdings LLC (Dow Jones); and these trademarks have been licensed for use by S&P Dow Jones Indices LLC (SPDJI) and sublicensed for certain purposes by State Street Corporation. State Street Corporation’s financial products are not sponsored, endorsed, sold or promoted by SPDJI, Dow Jones, S&P, their respective affiliates and third party licensors and none of such parties make any representation regarding the advisability of investing in such product(s) nor do they have any liability in relation thereto, including for any errors, omissions, or interruptions of any index."
+    },
+    {
+      "name": "Bonds generally present less short-term risk and volatility than stocks, but contain interest rate risk (as interest rates raise, bond prices usually fall); issuer default risk; issuer credit risk; liquidity risk; and inflation risk. These effects are usually pronounced for longer-term securities. Any fixed income security sold or redeemed prior to maturity may be subject to a substantial gain or loss.\nInternational Government bonds and corporate bonds generally have more moderate short-term price fluctuations than stocks, but provide lower potential long-term returns.\nInvesting in high yield fixed income securities, otherwise known as \"junk bonds\", is considered speculative and involves greater risk of loss of principal and interest than investing in investment grade fixed income securities. These Lower-quality debt securities involve greater risk of default or price changes due to potential changes in the credit quality of the issuer.\nEquity securities may fluctuate in value in response to the activities of individual companies and general market and economic conditions.\nThere are risks associated with investing in Real Assets and the Real Assets sector, including real estate, precious metals and natural resources.  Investments can be significantly affected by events relating to these industries.\nInvesting in foreign domiciled securities may involve risk of capital loss from unfavorable fluctuation in currency values, withholding taxes, from differences in generally accepted accounting principles or from economic or political instability in other nations.  Investments in emerging or developing markets may be more volatile and less liquid than investing in developed markets and may involve exposure to economic structures that are generally less diverse and mature and to political systems which have less stability than those of more developed countries. The trademarks and service marks referenced herein are the property of their respective owners. Third party data providers make no warranties or representations of any kind relating to the accuracy, completeness or timeliness of the data and have no liability for damages of any kind relating to the use of such data. Investing involves risk including the risk of loss of principal.\nThe whole or any part of this work may not be reproduced, copied or transmitted or any of its contents disclosed to third parties without SSGA's express written consent.\nETFs trade like stocks, are subject to investment risk and will fluctuate in market value. The investment return and principal value of an investment will fluctuate in value, so that when shares are sold or redeemed, they may be worth more or less than when they were purchased.  Although shares may be bought or sold on an exchange through any brokerage account, shares are not individually redeemable from the fund.  Investors may acquire shares and tender them for redemption through the fund in large aggregations known as “creation units.”  Please see the fund’s prospectus for more details.\nInvesting in REITs involves certain distinct risks in addition to those risks associated with investing in the real estate industry in general. Equity REITs may be affected by changes in the value of the underlying property owned by the REITs, while mortgage REITs may be affected by the quality of credit extended. REITs are subject to heavy cash flow dependency, default by borrowers and self-liquidation. REITs, especially mortgage REITs, are also subject to interest rate risk (i.e., as interest rates rise, the value of the REIT may decline).\nInvestments in small/mid-sized companies may involve greater risks than in those of larger, better known companies. Concentrated investments in a particular Sector tend to be more volatile than the overall market and increases risk that events negatively affecting such sectors or industries could reduce returns, potentially causing the value of the Fund’s shares to decrease.\nStandard & Poor’s®, S&P® and SPDR® are registered trademarks of Standard & Poor’s Financial Services LLC (S&P); Dow Jones is a registered trademark of Dow Jones Trademark Holdings LLC (Dow Jones); and these trademarks have been licensed for use by S&P Dow Jones Indices LLC (SPDJI) and sublicensed for certain purposes by State Street Corporation. State Street Corporation’s financial products are not sponsored, endorsed, sold or promoted by SPDJI, Dow Jones, S&P, their respective affiliates and third party licensors and none of such parties make any representation regarding the advisability of investing in such product(s) nor do they have any liability in relation thereto, including for any errors, omissions, or interruptions of any index.\nCommodities and commodity-index linked securities may be affected by changes in overall market movements, changes in interest rates, and other factors such as weather, disease, embargoes, or political and regulatory developments, as well as trading activity of speculators and arbitrageurs in the underlying commodities. The returns on a portfolio of securities which exclude companies that do not meet the portfolio's specified ESG criteria may trail the returns on a portfolio of securities which include such companies. A portfolio's ESG criteria may result in the portfolio investing in industry sectors or securities which underperform the market as a whole.\nTechnology companies, including cyber security companies, can be significantly affected by obsolescence of existing technology, limited product lines, and competition for financial resources, qualified personnel, new market entrants or impairment of patent and intellectual property rights that can adversely affect profit margins."
+    },
+    {
+      "name": "Distributor: State Street Global Advisors Funds Distributors, LLC, member FINRA(http://www.finra.org), SIPC(http://www.sipc.org), an indirect wholly owned subsidiary of State Street Corporation. References to State Street may include State Street Corporation and its affiliates. Certain State Street affiliates provide services and receive fees from the SPDR ETFs. ALPS Distributors, Inc., member FINRA, is the distributor for DIA, MDY and SPY, all unit investment trusts. ALPS Portfolio Solutions Distributor, Inc., member FINRA, is the distributor for Select Sector SPDRs. ALPS Distributors, Inc. and ALPS Portfolio Solutions Distributor, Inc. are not affiliated with State Street Global Advisors Funds Distributors, LLC."
+    },
+    {
+      "name": "Before investing, consider the funds’ investment objectives, risks, charges and expenses. To obtain a prospectus or summary prospectus, this contains this and other information, call 1-866-787-2257 or visit www.ssga.com. Read it carefully.\n\nNot FDIC Insured * No Bank Guarantee * May Lose Value\n\n2529657.2.1.AM.RTL\nExpiration: 03/31/2021\nSPD002304"
+    }
+  ]
+}

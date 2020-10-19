@@ -1,0 +1,455 @@
+{
+  "Products": "MSCI Global Timber ETF",
+  "Ticker": "CUT",
+  "Inception": "11/09/2007",
+  "Gross Exp. Ratio": "0.67%",
+  "YTD": "-3.01",
+  "1Yr": "10.74",
+  "3Yr": "0.28",
+  "5Yr": "7.02",
+  "10Yr": "6.13",
+  "Since Incept.": "2.97",
+  "Category": "Thematic",
+  "SubCategory": "Access",
+  "ticker": "CUT",
+  "name": "MSCI Global Timber ETF",
+  "issuer": "Invesco",
+  "website": "https://www.invesco.com/us/financial-products/etfs/product-detail?audienceType=Investor&ticker=CUT",
+  "holdingDataSource": {
+    "url": "https://www.invesco.com/us/financial-products/etfs/holdings/main/holdings/0?audienceType=Investor&action=download&ticker=CUT",
+    "fileExt": "csv",
+    "transform": "invesco"
+  },
+  "holdings": [
+    {
+      "ticker": "IP",
+      "name": "International Paper Co",
+      "percent": "5.922"
+    },
+    {
+      "ticker": "PKG",
+      "name": "Packaging Corp of America",
+      "percent": "5.214"
+    },
+    {
+      "ticker": "AVY",
+      "name": "Avery Dennison Corp",
+      "percent": "5.134"
+    },
+    {
+      "ticker": "UPM FH",
+      "name": "UPM-Kymmene Oyj",
+      "percent": "5.084"
+    },
+    {
+      "ticker": "WRK",
+      "name": "Westrock Co",
+      "percent": "4.884"
+    },
+    {
+      "ticker": "WY",
+      "name": "Weyerhaeuser Co",
+      "percent": "4.695"
+    },
+    {
+      "ticker": "AMCR",
+      "name": "Amcor PLC",
+      "percent": "4.692"
+    },
+    {
+      "ticker": "MNDI LN",
+      "name": "Mondi PLC",
+      "percent": "4.679"
+    },
+    {
+      "ticker": "STERV FH",
+      "name": "Stora Enso Oyj",
+      "percent": "4.474"
+    },
+    {
+      "ticker": "SKG",
+      "name": "Smurfit Kappa Group PLC",
+      "percent": "4.327"
+    },
+    {
+      "ticker": "SCAB SS",
+      "name": "Svenska Cellulosa AB SCA",
+      "percent": "3.783"
+    },
+    {
+      "ticker": "SUZB3",
+      "name": "Suzano SA",
+      "percent": "3.089"
+    },
+    {
+      "ticker": "SEE",
+      "name": "Sealed Air Corp",
+      "percent": "2.980"
+    },
+    {
+      "ticker": "SMDS LN",
+      "name": "DS Smith PLC",
+      "percent": "2.555"
+    },
+    {
+      "ticker": "SON",
+      "name": "Sonoco Products Co",
+      "percent": "2.554"
+    },
+    {
+      "ticker": "SIGN SW",
+      "name": "SIG Combibloc Group AG",
+      "percent": "2.516"
+    },
+    {
+      "ticker": "HUH1V FH",
+      "name": "Huhtamaki Oyj",
+      "percent": "2.316"
+    },
+    {
+      "ticker": "GPK",
+      "name": "Graphic Packaging Holding Co",
+      "percent": "1.858"
+    },
+    {
+      "ticker": "HOLMB SS",
+      "name": "Holmen AB",
+      "percent": "1.761"
+    },
+    {
+      "ticker": "3861 JP",
+      "name": "Oji Holdings Corp",
+      "percent": "1.737"
+    },
+    {
+      "ticker": "RYN",
+      "name": "Rayonier Inc",
+      "percent": "1.737"
+    },
+    {
+      "ticker": "LPX",
+      "name": "Louisiana-Pacific Corp",
+      "percent": "1.584"
+    },
+    {
+      "ticker": "KLBN11",
+      "name": "Klabin SA",
+      "percent": "1.452"
+    },
+    {
+      "ticker": "PCH",
+      "name": "PotlatchDeltic Corp",
+      "percent": "1.407"
+    },
+    {
+      "ticker": "BILL SS",
+      "name": "BillerudKorsnas AB",
+      "percent": "1.383"
+    },
+    {
+      "ticker": "WFT",
+      "name": "West Fraser Timber Co Ltd",
+      "percent": "1.123"
+    },
+    {
+      "ticker": "CMPC",
+      "name": "Empresas CMPC SA",
+      "percent": "1.084"
+    },
+    {
+      "ticker": "2689 HK",
+      "name": "Nine Dragons Paper Holdings Ltd",
+      "percent": "0.957"
+    },
+    {
+      "ticker": "SJ",
+      "name": "Stella-Jones Inc",
+      "percent": "0.952"
+    },
+    {
+      "ticker": "ORA",
+      "name": "Orora Ltd",
+      "percent": "0.801"
+    },
+    {
+      "ticker": "INKP IJ",
+      "name": "Indah Kiat Pulp & Paper Corp Tbk PT",
+      "percent": "0.734"
+    },
+    {
+      "ticker": "METSB FH",
+      "name": "Metsa Board Oyj",
+      "percent": "0.733"
+    },
+    {
+      "ticker": "BCC",
+      "name": "Boise Cascade Co",
+      "percent": "0.726"
+    },
+    {
+      "ticker": "OSB",
+      "name": "Norbord Inc",
+      "percent": "0.704"
+    },
+    {
+      "ticker": "UFS",
+      "name": "Domtar Corp",
+      "percent": "0.679"
+    },
+    {
+      "ticker": "3941 JP",
+      "name": "Rengo Co Ltd",
+      "percent": "0.640"
+    },
+    {
+      "ticker": "3863 JP",
+      "name": "Nippon Paper Industries Co Ltd",
+      "percent": "0.532"
+    },
+    {
+      "ticker": "DTEX3",
+      "name": "Duratex SA",
+      "percent": "0.526"
+    },
+    {
+      "ticker": "SWM",
+      "name": "Schweitzer-Mauduit International Inc",
+      "percent": "0.485"
+    },
+    {
+      "ticker": "CAS",
+      "name": "Cascades Inc",
+      "percent": "0.452"
+    },
+    {
+      "ticker": "3880 JP",
+      "name": "Daio Paper Corp",
+      "percent": "0.450"
+    },
+    {
+      "ticker": "2314 HK",
+      "name": "Lee & Man Paper Manufacturing Ltd",
+      "percent": "0.437"
+    },
+    {
+      "ticker": "1904 TT",
+      "name": "Cheng Loong Corp",
+      "percent": "0.378"
+    },
+    {
+      "ticker": "002812 C2",
+      "name": "Yunnan Energy New Material Co Ltd",
+      "percent": "0.353"
+    },
+    {
+      "ticker": "SAP",
+      "name": "Sappi Ltd",
+      "percent": "0.349"
+    },
+    {
+      "ticker": "IFP",
+      "name": "Interfor Corp",
+      "percent": "0.342"
+    },
+    {
+      "ticker": "1907 TT",
+      "name": "YFY Inc",
+      "percent": "0.338"
+    },
+    {
+      "ticker": "CFP",
+      "name": "Canfor Corp",
+      "percent": "0.331"
+    },
+    {
+      "ticker": "CLW",
+      "name": "Clearwater Paper Corp",
+      "percent": "0.305"
+    },
+    {
+      "ticker": "NP",
+      "name": "Neenah Inc",
+      "percent": "0.302"
+    },
+    {
+      "ticker": "GLT",
+      "name": "Glatfelter Corp",
+      "percent": "0.299"
+    },
+    {
+      "ticker": "NVG",
+      "name": "Navigator Co SA/The",
+      "percent": "0.237"
+    },
+    {
+      "ticker": "TKIM IJ",
+      "name": "Pabrik Kertas Tjiwi Kimia Tbk PT",
+      "percent": "0.208"
+    },
+    {
+      "ticker": "CTT",
+      "name": "CatchMark Timber Trust Inc",
+      "percent": "0.190"
+    },
+    {
+      "ticker": "078130 KS",
+      "name": "Kuk-il Paper Manufacturing Co Ltd",
+      "percent": "0.179"
+    },
+    {
+      "ticker": "ENC",
+      "name": "Ence Energia y Celulosa SA",
+      "percent": "0.172"
+    },
+    {
+      "ticker": "1909 TT",
+      "name": "Longchen Paper & Packaging Co Ltd",
+      "percent": "0.172"
+    },
+    {
+      "ticker": "AGPXX",
+      "name": "STIT - Government & Agency Portfolio",
+      "percent": "0.165"
+    },
+    {
+      "ticker": "3708 JP",
+      "name": "Tokushu Tokai Paper Co Ltd",
+      "percent": "0.164"
+    },
+    {
+      "ticker": "3865 JP",
+      "name": "Hokuetsu Corp",
+      "percent": "0.163"
+    },
+    {
+      "ticker": "3950 JP",
+      "name": "Pack Corp/The",
+      "percent": "0.152"
+    },
+    {
+      "ticker": "ALTR",
+      "name": "Altri SGPS SA",
+      "percent": "0.144"
+    },
+    {
+      "ticker": "PACK",
+      "name": "Ranpak Holdings Corp",
+      "percent": "0.141"
+    },
+    {
+      "ticker": "002078 C2",
+      "name": "Shandong Sun Paper Industry JSC Ltd",
+      "percent": "0.138"
+    },
+    {
+      "ticker": "MERC",
+      "name": "Mercer International Inc",
+      "percent": "0.136"
+    },
+    {
+      "ticker": "MCM",
+      "name": "Miquel y Costas & Miquel SA",
+      "percent": "0.123"
+    },
+    {
+      "ticker": "VRS",
+      "name": "Verso Corp",
+      "percent": "0.113"
+    },
+    {
+      "ticker": "PTL-R TB",
+      "name": "Polyplex Thailand PCL",
+      "percent": "0.095"
+    },
+    {
+      "ticker": "SEM",
+      "name": "Semapa-Sociedade de Investimento e Gestao",
+      "percent": "0.093"
+    },
+    {
+      "ticker": "213500 KS",
+      "name": "Hansol Paper Co Ltd",
+      "percent": "0.093"
+    },
+    {
+      "ticker": "7905 JP",
+      "name": "Daiken Corp",
+      "percent": "0.088"
+    },
+    {
+      "ticker": "PIN",
+      "name": "Invesco India Exchange-Traded Fund Trust",
+      "percent": "0.061"
+    },
+    {
+      "ticker": "1905 TT",
+      "name": "Chung Hwa Pulp Corp",
+      "percent": "0.055"
+    },
+    {
+      "ticker": "CFX",
+      "name": "Canfor Pulp Products Inc",
+      "percent": "0.047"
+    },
+    {
+      "ticker": "PKGS",
+      "name": "Packages Ltd",
+      "percent": "0.040"
+    },
+    {
+      "ticker": "2268 HK",
+      "name": "Youyuan International Holdings Ltd",
+      "percent": "0.007"
+    },
+    {
+      "ticker": "-CASH-",
+      "name": "Cash/Receivables/Payables",
+      "percent": "0.000"
+    },
+    {
+      "ticker": "-SAfricaRa",
+      "name": "Cash/Receivables/Payables",
+      "percent": "0.000"
+    },
+    {
+      "ticker": "-GBP-",
+      "name": "Cash/Receivables/Payables",
+      "percent": "0.000"
+    },
+    {
+      "ticker": "-BrazilRea",
+      "name": "Cash/Receivables/Payables",
+      "percent": "0.000"
+    },
+    {
+      "ticker": "-JapanYen-",
+      "name": "Cash/Receivables/Payables",
+      "percent": "0.000"
+    },
+    {
+      "ticker": "-IsraelShe",
+      "name": "Cash/Receivables/Payables",
+      "percent": "-0.000"
+    },
+    {
+      "ticker": "-Canadian",
+      "name": "Cash/Receivables/Payables",
+      "percent": "-0.000"
+    },
+    {
+      "ticker": "-SwissFran",
+      "name": "Cash/Receivables/Payables",
+      "percent": "-0.000"
+    },
+    {
+      "ticker": "-SwedKrona",
+      "name": "Cash/Receivables/Payables",
+      "percent": "-0.000"
+    },
+    {
+      "ticker": "-Euro-",
+      "name": "Cash/Receivables/Payables",
+      "percent": "-0.003"
+    }
+  ]
+}

@@ -17,6 +17,7 @@ const conversion = {
       return
     }
     return _.merge(etf, {
+      name: etf.Products,
       issuer: 'Invesco',
       website:
         'https://www.invesco.com/us/financial-products/etfs/product-detail?audienceType=Investor&ticker=' + etf.ticker,

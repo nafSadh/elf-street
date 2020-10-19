@@ -101,9 +101,6 @@ export default {
     ],
   }),
   computed: {
-    etfId() {
-      return this.query['']
-    },
     overviewProps() {
       return _.without(_.keys(this.etf), 'ticker', 'website', 'issuer', 'holdings', 'holdingDataSource')
     },

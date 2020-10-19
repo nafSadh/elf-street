@@ -1,16 +1,7 @@
 <template>
   <!-- App.vue -->
   <v-app>
-    <v-app-bar
-      dark
-      app
-      ref="toolbar"
-      elevate-on-scroll
-      color="blue darken-4"
-      prominent
-      shrink-on-scroll
-      flat
-    >
+    <v-app-bar dark app ref="toolbar" elevate-on-scroll color="blue darken-4" prominent shrink-on-scroll flat>
       <v-container class="py-0 fill-height">
         <v-row>
           <v-toolbar-title>ETFs</v-toolbar-title>
@@ -73,8 +64,7 @@ export default {
     link: [
       {
         rel: 'stylesheet',
-        href:
-          'https://fonts.googleapis.com/css?family=Roboto:400,500,700,400italic|Material+Icons',
+        href: 'https://fonts.googleapis.com/css?family=Roboto:400,500,700,400italic|Material+Icons',
       },
     ],
   },

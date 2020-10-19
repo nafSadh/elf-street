@@ -116,9 +116,7 @@ export default {
     async updateComparison() {
       const etfData = {}
       const tkrPerEtf = {}
-      this.comprisonHeaders = [
-        { text: 'Ticker', value: 'ticker', class: stickyHeaderStyle },
-      ]
+      this.comprisonHeaders = [{ text: 'Ticker', value: 'ticker', class: stickyHeaderStyle }]
       for (const etfId of this.etfToComp) {
         this.comprisonHeaders.push({
           text: etfId,
@@ -126,9 +124,7 @@ export default {
           class: stickyHeaderStyle,
         })
         if (!etfData[etfId]) {
-          const etfJsonData = await this.$axios
-            .$get('etf/' + etfId + '.json')
-            .then((res) => res)
+          const etfJsonData = await this.$axios.$get('etf/' + etfId + '.json').then((res) => res)
           etfData[etfId] = etfJsonData
         }
         for (const asset of etfData[etfId].holdings) {
@@ -152,8 +148,7 @@ export default {
     link: [
       {
         rel: 'stylesheet',
-        href:
-          'https://fonts.googleapis.com/css?family=Roboto:400,500,700,400italic|Material+Icons',
+        href: 'https://fonts.googleapis.com/css?family=Roboto:400,500,700,400italic|Material+Icons',
       },
     ],
   },

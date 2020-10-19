@@ -1,6 +1,5 @@
 <template>
   <!-- App.vue -->
-
   <v-app>
     <v-app-bar
       dark
@@ -17,9 +16,7 @@
         <v-row>
           <v-toolbar-title>{{ etf.ticker }}</v-toolbar-title>
           <v-spacer />
-          <v-chip label small color="blue">
-            {{ etf.holdings.length }} holdings
-          </v-chip>
+          <v-chip label small color="blue"> {{ etf.holdings.length }} holdings </v-chip>
         </v-row>
       </v-container>
     </v-app-bar>
@@ -47,13 +44,9 @@
           <v-card-text>
             <p>
               Issuer: {{ etf.issuer }}
-              <span v-if="etf.website">
-                (<a :href="etf.website" target="_blank">website</a>)
-              </span>
+              <span v-if="etf.website"> (<a :href="etf.website" target="_blank">website</a>) </span>
             </p>
-            <p v-for="field of overviewProps" :key="field">
-              {{ field }} : {{ etf[field] }}
-            </p>
+            <p v-for="field of overviewProps" :key="field">{{ field }} : {{ etf[field] }}</p>
           </v-card-text>
         </v-card>
         <v-card outlined tile>
@@ -111,14 +104,7 @@ export default {
       return {}
     },
     overviewProps() {
-      return _.without(
-        _.keys(this.etf),
-        'ticker',
-        'website',
-        'issuer',
-        'holdings',
-        'holdingDataSource'
-      )
+      return _.without(_.keys(this.etf), 'ticker', 'website', 'issuer', 'holdings', 'holdingDataSource')
     },
     ETFs() {
       const etfs = require('~/static/etfs.json')
@@ -126,9 +112,7 @@ export default {
     },
   },
   async asyncData({ $axios, route, env, query }) {
-    const etf = await $axios
-      .$get('etf/' + query[''] + '.json')
-      .then((res) => res)
+    const etf = await $axios.$get('etf/' + query[''] + '.json').then((res) => res)
     return { etf }
   },
   methods: {
@@ -143,9 +127,7 @@ export default {
       document.documentElement.style.setProperty('--headerHeight', height)
     },
     async changeEtf() {
-      const etf = await this.$axios
-        .$get('etf/' + this.toEtf + '.json')
-        .then((res) => res)
+      const etf = await this.$axios.$get('etf/' + this.toEtf + '.json').then((res) => res)
       this.$router.push({ query: { '': this.toEtf } })
       this.etf = etf
     },
@@ -154,8 +136,7 @@ export default {
     link: [
       {
         rel: 'stylesheet',
-        href:
-          'https://fonts.googleapis.com/css?family=Roboto:400,500,700,400italic|Material+Icons',
+        href: 'https://fonts.googleapis.com/css?family=Roboto:400,500,700,400italic|Material+Icons',
       },
     ],
   },

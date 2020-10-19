@@ -19,8 +19,7 @@ const conversion = {
     return _.merge(etf, {
       issuer: 'Invesco',
       website:
-        'https://www.invesco.com/us/financial-products/etfs/product-detail?audienceType=Investor&ticker=' +
-        etf.ticker,
+        'https://www.invesco.com/us/financial-products/etfs/product-detail?audienceType=Investor&ticker=' + etf.ticker,
       holdingDataSource: {
         url:
           'https://www.invesco.com/us/financial-products/etfs/holdings/main/holdings/0?audienceType=Investor&action=download&ticker=' +
@@ -53,6 +52,19 @@ const conversion = {
             transform: 'spdr',
           },
     })
+  },
+  vanguard: function (obj) {
+    const etf = obj.profile
+    etf.fundFact = undefined
+    etf.associatedFundIds = undefined
+    etf.fundCategory = etf.fundCategory.customizedHighCategoryName
+    etf.website = 'https://investor.vanguard.com/etf/profile/overview/' + etf.ticker
+    etf.holdingDataSource = {
+      file: './data/stored/vanguard/' + etf.ticker + '.json',
+      fileExt: 'json',
+      transform: 'vanguard',
+    }
+    return fs.existsSync(etf.holdingDataSource.file) ? etf : null
   },
   wisdomtree: function (etf) {
     etf.ticker = etf.bloombergTicker
@@ -130,6 +142,16 @@ const transforms = {
     }
     return holdings
   },
+  vanguard: function (data) {
+    const holdings = []
+    for (const obj of data) {
+      holdings.push({
+        ticker: obj.asset,
+        percent: obj.weightPercentage,
+      })
+    }
+    return holdings
+  },
   wisdomtree: function (data) {
     let jsonArray = []
     for (const obj of transforms.csvToJson(data)) {
@@ -195,7 +217,7 @@ function writeJsonToFile(json, filepath) {
 
 function updateEtfData(skipExisting) {
   const ETFs = []
-  for (const issuer of ['ark', 'invesco', 'spdr', 'wisdomtree']) {
+  for (const issuer of ['ark', 'invesco', 'spdr', 'vanguard', 'wisdomtree']) {
     const sourceJson = require('./data/' + issuer + '.json')
     for (const etf of sourceJson.ETFs) {
       ETFs.push(conversion[issuer](etf, sourceJson))
@@ -205,8 +227,7 @@ function updateEtfData(skipExisting) {
   for (const etf of ETFs) {
     if (!etf) continue
     if (etf.holdingDataSource) {
-      const filepath =
-        './data/download/' + etf.ticker + '.' + etf.holdingDataSource.fileExt
+      const filepath = './data/download/' + etf.ticker + '.' + etf.holdingDataSource.fileExt
       const jsonpath = './static/etf/' + etf.ticker + '.json'
       if (skipExisting && fs.existsSync(jsonpath)) {
         continue
